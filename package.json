@@ -1,0 +1,17 @@
+{
+  "name": "hfg-emoji-project",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "create-emoji-tables": "node lib/create-emoji-tables.js"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "emojibase-data": "^2.1.1",
+    "fs-sync": "^1.0.4",
+    "lodash": "^4.17.4"
+  }
+}
