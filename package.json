@@ -6,6 +6,9 @@
   "scripts": {
     "create-emoji-tables": "node lib/create-emoji-tables.js"
   },
+  "engines": {
+    "node": ">=8.0.0"
+  },
   "author": "",
   "license": "",
   "dependencies": {
