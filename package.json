@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "create-emoji-tables": "node lib/create-emoji-tables.js"
+    "create-emoji-tables": "node lib/create-emoji-tables.js",
+    "convert-svg_to_png": "node svg_to_png/pngRender1.js"
   },
   "engines": {
     "node": ">=8.0.0"
@@ -15,6 +16,9 @@
     "csv-write-stream": "^2.0.0",
     "emojibase-data": "^2.1.1",
     "fs-sync": "^1.0.4",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "pn": "^1.0.0",
+    "svg2png": "^4.1.1",
+    "svg2png-many": "0.0.7"
   }
 }

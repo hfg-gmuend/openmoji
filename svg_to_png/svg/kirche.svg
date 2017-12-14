@@ -1,0 +1,24 @@
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 14.4px;
+      }
+    </style>
+  </defs>
+  <title>kirche</title>
+  <g>
+    <polyline class="cls-1" points="219.99 391.64 99.96 391.64 99.96 213.99"/>
+    <polyline class="cls-1" points="400.04 252.4 400.04 391.64 222.39 391.64"/>
+    <polyline class="cls-1" points="99.96 213.99 130.23 161.18 162.38 108.36 193.76 161.18 224.79 213.99"/>
+    <path class="cls-1" d="M275.21,286c0-12-18.49-33.61-26.41-33.61S222.39,274,222.39,286v67.22"/>
+    <path class="cls-1" d="M188.78,286c0-12-18.49-33.61-26.41-33.61S136,274,136,286v67.22"/>
+    <path class="cls-1" d="M364,286c0-12-18.49-33.61-26.41-33.61S311.22,274,311.22,286v67.22"/>
+    <line class="cls-1" x1="368.83" y1="213.99" x2="400.04" y2="252.4"/>
+    <line class="cls-1" x1="224.79" y1="213.99" x2="368.83" y2="213.99"/>
+  </g>
+</svg>

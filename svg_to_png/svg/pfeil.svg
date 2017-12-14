@@ -1,0 +1,22 @@
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f8ff10;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 14.42px;
+      }
+    </style>
+  </defs>
+  <title>pfeil</title>
+  <g>
+    <rect class="cls-1" x="112" y="119" width="258" height="219"/>
+    <polyline class="cls-2" points="101 285.97 101 214.03 265.41 214.03 219.17 167.79 267.98 118.98 399 250 267.98 381.02 219.17 332.21 265.41 285.97"/>
+  </g>
+</svg>
