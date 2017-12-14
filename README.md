@@ -1,1 +1,1 @@
-# HfG-Emoji-Project
+# HfG Emoji Project
