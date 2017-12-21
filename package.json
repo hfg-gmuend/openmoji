@@ -13,8 +13,9 @@
   "author": "",
   "license": "",
   "dependencies": {
+    "csv-load-sync": "^1.0.0",
     "csv-write-stream": "^2.0.0",
-    "emojibase-data": "^2.1.1",
+    "emojibase-data": "^2.1.2",
     "fs-sync": "^1.0.4",
     "lodash": "^4.17.4",
     "pn": "^1.0.0",
