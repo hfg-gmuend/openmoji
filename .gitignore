@@ -1,4 +1,4 @@
-
+.DS_Store
 node_modules/*
 svg_to_png/png250/*
 svg_to_png/png500/*
