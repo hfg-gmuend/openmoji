@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<g id="_xD83D__xDCFA__xFE0F_">
+	<path fill="#9B9B9A" d="M6,17v38h60V17H6z M36.5,53c-1.1,0-2-0.9-2-2s0.9-2,2-2c1.1,0,2,0.9,2,2S37.6,53,36.5,53z M64,46
+		c0,0.6-0.4,1-1,1H9c-0.6,0-1-0.4-1-1V20c0-0.6,0.4-1,1-1h54c0.6,0,1,0.4,1,1V46z"/>
+	<polygon fill="#3F3F3F" points="10,21 10,45 56.7,45 48.8,21 	"/>
+	<polygon fill="#FFFFFF" points="62,45 62,21 48.8,21 56.7,45 	"/>
+	<path fill="#9B9B9A" d="M35.5,60L35.5,60v5.9h2V60v0c0-0.6,0.4-1,1-1h-4C35.1,59,35.5,59.4,35.5,60z"/>
+	<g>
+		
+			<rect x="5" y="16" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="62" height="40"/>
+		
+			<line stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="50.9" y1="66.9" x2="22.1" y2="66.9"/>
+		<circle cx="36.5" cy="51" r="2"/>
+		
+			<rect x="9" y="20" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="54" height="26"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="38.5" y1="60" x2="38.5" y2="66.4"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="34.5" y1="60" x2="34.5" y2="66.4"/>
+	</g>
+</g>
+</svg>
