@@ -32,7 +32,7 @@ function main() {
   }
 
   userInteractionLevel = originalInteractionLevel;
-  return files;
+  return 'done';
 }
 
 function exportDoc(doc, artboardIndex, dirOut) {
