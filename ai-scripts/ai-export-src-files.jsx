@@ -27,7 +27,7 @@ function main() {
       doc.close(SaveOptions.DONOTSAVECHANGES);
     }
     catch(e) {
-      alert(doc.name, "This file is buggy :(", true);
+      alert(doc.fullName, "This file is buggy :(", true);
     }
   }
 
