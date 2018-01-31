@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "create-emoji-tables": "node lib/create-emoji-tables.js",
+    "create-catalog": "node lib/create-catalog.js",
     "convert-svg_to_png": "node svg_to_png/pngRender1.js"
   },
   "engines": {
