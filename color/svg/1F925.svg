@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<g id="_xD83E__xDD25__1_">
+	<g>
+		<defs>
+			<polygon id="SVGID_1_" points="35.9,13.6 26.5,15.4 20.7,18.7 15.4,24.2 11.7,32.3 11.7,45.7 17.8,56 26.5,61.9 35.9,63.8 
+				43.8,62.5 52.2,57.8 57.8,51.1 61,41 60.2,32.3 56.1,23.7 51.5,19 43.6,14.7 			"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  overflow="visible" fill="#FCEA2B"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+	</g>
+	<circle fill="none" stroke="#FCEA2B" stroke-width="2" stroke-miterlimit="10" cx="36.1" cy="38.7" r="25.1"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M19.7,29.1c0.9-1.4,2.4-2.5,4-2.9c1.6-0.6,3.4-0.6,5,0"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M52,28c-1.5-3.2-4.9-5-8.3-4.4"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M61.2,37.2C60.5,24,49.5,13.6,36.1,13.6C22.3,13.6,11,24.8,11,38.7c0,13.9,11.2,25.1,25.1,25.1c7.7,0,14.6-3.5,19.2-9"/>
+	<circle cx="26.6" cy="34.3" r="3"/>
+	<circle cx="45.4" cy="34.3" r="3"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M40.2,54.6c0,0-6.2-2-9.7,1.7"/>
+	
+		<path fill="#FCEA2B" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M64,46.5c-0.3,2-2.3,3.3-2.3,3.3c-2.9,1.7-10.9-1-10.9-1c-6-1.5-14.5-0.8-14.5-0.8 M64,46.3c0-2.2-1.8-3.8-1.8-3.8
+		c-2.7-1.9-11-0.1-11-0.1c-6.5,0.8-14.5-0.6-14.5-0.6"/>
+	<polygon fill="#FBE930" points="62.9,46.6 60,46.8 60,45.6 62.9,46.2 62.9,46.5 	"/>
+</g>
+</svg>

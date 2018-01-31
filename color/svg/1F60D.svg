@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<g id="_xD83D__xDE0D__1_">
+	<g>
+		<defs>
+			<polygon id="SVGID_1_" points="36,9.1 25.9,11 19.7,14.6 13.9,20.5 9.9,29.2 9.9,43.6 16.5,54.7 25.9,61.1 36,63.1 44.5,61.7 
+				53.5,56.6 59.5,49.4 63,38.6 62.2,29.2 57.7,19.9 52.7,14.8 44.2,10.3 			"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  overflow="visible" fill="#FBE930"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<rect x="4" y="3.2" clip-path="url(#SVGID_2_)" fill="#FBE930" width="64.9" height="65.7"/>
+	</g>
+	<circle fill="none" stroke="#FDE034" stroke-miterlimit="10" cx="36" cy="36.1" r="27"/>
+	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M50.3,46.1"/>
+	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M21.9,46.1"/>
+	
+		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36.1" r="27"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_3_" points="40.8,55.7 47.2,52.6 49.7,49.2 50.5,44.7 42.5,45.6 21.4,44.7 24.1,52.6 30.9,55.7 			"/>
+		</defs>
+		<use xlink:href="#SVGID_3_"  overflow="visible" fill="#FFFFFF"/>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<rect x="11.1" y="38" clip-path="url(#SVGID_4_)" fill="#FFFFFF" width="49.6" height="25.1"/>
+	</g>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M21.4,43.9c0,0,15,3.6,29.2,0.1"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M50.8,43.9c0,6.6-4.9,11.9-14.7,11.9c-9.8,0-14.8-5.3-14.8-11.9"/>
+	
+		<path fill="#D22F27" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M24.9,26c-1.5-3.9-7.6-4.2-7.2,1.5c0.1,0.8,0.3,1.5,0.8,2.1l6.2,7.5l0,0l6.1-7.4c0.7-0.8,1.1-1.9,1.1-2.9c-0.1-5.1-5.9-4.7-7.2-0.9
+		"/>
+	
+		<path fill="#D22F27" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M47.5,26c-1.5-3.9-7.5-4.2-7.1,1.5c0.1,0.8,0.3,1.5,0.7,2.1l6.2,7.5l0,0l6.1-7.4c0.7-0.8,1.1-1.9,1.1-2.9c-0.1-5.1-5.9-4.7-7.1-0.9
+		"/>
+</g>
+</svg>

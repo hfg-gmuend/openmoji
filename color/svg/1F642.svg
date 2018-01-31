@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<g id="_xD83D__xDE42_">
+	<g>
+		<defs>
+			<polygon id="SVGID_1_" points="35.9,9.1 25.8,11 19.5,14.6 13.8,20.5 9.8,29.2 9.8,43.7 16.3,54.7 25.8,61.1 35.9,63.1 
+				44.3,61.7 53.4,56.6 59.4,49.4 62.9,38.6 62,29.2 57.5,19.9 52.6,14.9 44.1,10.3 			"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  overflow="visible" fill="#FCEA2B"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<rect x="3.9" y="3.2" clip-path="url(#SVGID_2_)" fill="#FCEA2B" width="64.9" height="65.7"/>
+	</g>
+	<g>
+		<circle fill="none" stroke="#FDE034" stroke-miterlimit="10" cx="35.9" cy="36.1" r="27"/>
+		
+			<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.9" cy="36.1" r="27"/>
+		<circle cx="45.5" cy="31.3" r="3"/>
+		<circle cx="25.2" cy="31.3" r="3"/>
+		<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M47.4,46.4c-7.7,4.1-16.5,4.3-23,0"/>
+	</g>
+</g>
+</svg>
