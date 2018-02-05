@@ -1281,7 +1281,7 @@
   },
   {
     "emoji": "⏩️",
-    "hexcode": 20000000000,
+    "hexcode": 23000000000,
     "group": "symbols",
     "subgroups": "av-symbol",
     "annotation": "fast-forward button",
@@ -7057,7 +7057,7 @@
     "annotation": "telephone receiver",
     "tags": "phone,receiver,telephone",
     "hfg_tags": "call,voice,communication",
-    "hfg_author": "Martin Wehl"
+    "hfg_author": "Kai Wanschura"
   },
   {
     "emoji": "📱",
@@ -7077,7 +7077,7 @@
     "annotation": "telephone",
     "tags": "phone",
     "hfg_tags": "call,voice,communication",
-    "hfg_author": "Martin Wehl"
+    "hfg_author": "Kai Wanschura"
   },
   {
     "emoji": "📠",
@@ -7531,7 +7531,7 @@
   },
   {
     "emoji": "⛩️",
-    "hexcode": 30000000000,
+    "hexcode": 26000000000,
     "group": "travel-places",
     "subgroups": "place-religious",
     "annotation": "shinto shrine",
@@ -9410,26 +9410,6 @@
     "hfg_author": "Rana Cakir"
   },
   {
-    "emoji": "󰀫",
-    "hexcode": "F002B",
-    "group": "hfg",
-    "subgroups": "",
-    "annotation": "",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰁫",
-    "hexcode": "F006B",
-    "group": "hfg",
-    "subgroups": "",
-    "annotation": "",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
     "emoji": "󰀀",
     "hexcode": "F0000",
     "group": "hfg",
@@ -9515,16 +9495,6 @@
     "group": "hfg",
     "subgroups": "ui-element",
     "annotation": "copy",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": "Baris Camli"
-  },
-  {
-    "emoji": "󰀐",
-    "hexcode": "F0010",
-    "group": "hfg",
-    "subgroups": "ui-element",
-    "annotation": "like",
     "tags": "",
     "hfg_tags": "",
     "hfg_author": "Baris Camli"
@@ -9740,16 +9710,6 @@
     "hfg_author": "Baris Camli"
   },
   {
-    "emoji": "󰁠",
-    "hexcode": "F0060",
-    "group": "hfg",
-    "subgroups": "sign",
-    "annotation": "phones forbidden",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": "Baris Camli"
-  },
-  {
     "emoji": "󰁣",
     "hexcode": "F0063",
     "group": "hfg",
@@ -9820,16 +9780,6 @@
     "hfg_author": "Baris Camli"
   },
   {
-    "emoji": "󰁺",
-    "hexcode": "F007A",
-    "group": "hfg",
-    "subgroups": "tool",
-    "annotation": "fire estinguisher",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": "Baris Camli"
-  },
-  {
     "emoji": "󰀹",
     "hexcode": "F0039",
     "group": "hfg",
@@ -9838,76 +9788,6 @@
     "tags": "",
     "hfg_tags": "",
     "hfg_author": "Baris Camli"
-  },
-  {
-    "emoji": "󰀦",
-    "hexcode": "F0026",
-    "group": "hfg",
-    "subgroups": "smiley",
-    "annotation": "clapping smiley",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰀨",
-    "hexcode": "F0028",
-    "group": "hfg",
-    "subgroups": "smiley",
-    "annotation": "yawning smiley",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰀪",
-    "hexcode": "F002A",
-    "group": "hfg",
-    "subgroups": "smiley",
-    "annotation": "singing smiley",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰁨",
-    "hexcode": "F0068",
-    "group": "hfg",
-    "subgroups": "smiley",
-    "annotation": "lip biting smiley",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰀎",
-    "hexcode": "F000E",
-    "group": "hfg",
-    "subgroups": "ui-element",
-    "annotation": "send",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰀘",
-    "hexcode": "F0018",
-    "group": "hfg",
-    "subgroups": "ui-element",
-    "annotation": "direct message",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰁤",
-    "hexcode": "F0064",
-    "group": "hfg",
-    "subgroups": "other",
-    "annotation": "post-it",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
   },
   {
     "emoji": "󰀂",
@@ -10170,16 +10050,6 @@
     "hfg_author": "Kai Wanschura"
   },
   {
-    "emoji": "󰁞",
-    "hexcode": "F005E",
-    "group": "hfg",
-    "subgroups": "sign",
-    "annotation": "photos forbidden",
-    "tags": "",
-    "hfg_tags": "prohibition,not allowed,photography,flash,pictures",
-    "hfg_author": "Kai Wanschura"
-  },
-  {
     "emoji": "󰁡",
     "hexcode": "F0061",
     "group": "hfg",
@@ -10227,16 +10097,6 @@
     "annotation": "ibeacon",
     "tags": "",
     "hfg_tags": "wireless,technology,iot,internet of things,navigation,localization,antenna,connection,reception",
-    "hfg_author": "Kai Wanschura"
-  },
-  {
-    "emoji": "󰁻",
-    "hexcode": "F007B",
-    "group": "hfg",
-    "subgroups": "sign",
-    "annotation": "food drinks forbidden",
-    "tags": "",
-    "hfg_tags": "prohibition,not allowed,eating,drinking,sign,foodstuff,groceries",
     "hfg_author": "Kai Wanschura"
   },
   {
@@ -10510,26 +10370,6 @@
     "hfg_author": "Kai Magnus Müller"
   },
   {
-    "emoji": "󰁳",
-    "hexcode": "F0073",
-    "group": "hfg",
-    "subgroups": "interaction",
-    "annotation": "two finger control",
-    "tags": "",
-    "hfg_tags": "two,finger,control,2",
-    "hfg_author": "Kai Magnus Müller"
-  },
-  {
-    "emoji": "󰁶",
-    "hexcode": "F0076",
-    "group": "hfg",
-    "subgroups": "interaction",
-    "annotation": "scroll gesture",
-    "tags": "",
-    "hfg_tags": "scroll,gesture,trackpad",
-    "hfg_author": "Kai Magnus Müller"
-  },
-  {
     "emoji": "󰁹",
     "hexcode": "F0079",
     "group": "hfg",
@@ -10540,36 +10380,6 @@
     "hfg_author": "Kai Magnus Müller"
   },
   {
-    "emoji": "󰁰",
-    "hexcode": "F0070",
-    "group": "hfg",
-    "subgroups": "technology",
-    "annotation": "slider",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰁓",
-    "hexcode": "F0053",
-    "group": "hfg",
-    "subgroups": "interaction",
-    "annotation": "vertical scroll",
-    "tags": "",
-    "hfg_tags": "scroll,gesture,trackpad,vertical",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰁵",
-    "hexcode": "F0075",
-    "group": "hfg",
-    "subgroups": "technology",
-    "annotation": "pinch gesture",
-    "tags": "",
-    "hfg_tags": "zoom,gesture,hand,fingers",
-    "hfg_author": ""
-  },
-  {
     "emoji": "󰀴",
     "hexcode": "F0034",
     "group": "hfg",
@@ -10578,36 +10388,6 @@
     "tags": "",
     "hfg_tags": "movement,transport,driving,destination,start,end,distance,track",
     "hfg_author": "Kai Wanschura"
-  },
-  {
-    "emoji": "󰀽",
-    "hexcode": "F003D",
-    "group": "hfg",
-    "subgroups": "ui-element",
-    "annotation": "external link",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰀧",
-    "hexcode": "F0027",
-    "group": "hfg",
-    "subgroups": "",
-    "annotation": "",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰁒",
-    "hexcode": "F0052",
-    "group": "hfg",
-    "subgroups": "",
-    "annotation": "",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
   },
   {
     "emoji": "󰀩",
@@ -10628,356 +10408,6 @@
     "tags": "",
     "hfg_tags": "person, person-activity,dog,walking,animal,pet",
     "hfg_author": "Johanna Wellnitz"
-  },
-  {
-    "emoji": "󰁼",
-    "hexcode": "F007C",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "amazon",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰁽",
-    "hexcode": "F007D",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "android",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰁾",
-    "hexcode": "F007E",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "apple",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰁿",
-    "hexcode": "F007F",
-    "group": "hfg",
-    "subgroups": "technology",
-    "annotation": "bluetooth",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂀",
-    "hexcode": "F0080",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "bitcoin",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂁",
-    "hexcode": "F0081",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "github",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂂",
-    "hexcode": "F0082",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "dropbox",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂃",
-    "hexcode": "F0083",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "google",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂄",
-    "hexcode": "F0084",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "microsoft",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂅",
-    "hexcode": "F0085",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "reddit",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂆",
-    "hexcode": "F0086",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "skype",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂇",
-    "hexcode": "F0087",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "snapchat",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂈",
-    "hexcode": "F0088",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "soundcloud",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂉",
-    "hexcode": "F0089",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "spotify",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂊",
-    "hexcode": "F008A",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "tumblr",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂋",
-    "hexcode": "F008B",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "vimeo",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂌",
-    "hexcode": "F008C",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "youtube",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂍",
-    "hexcode": "F008D",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "weibo",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂎",
-    "hexcode": "F008E",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "wechat",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂏",
-    "hexcode": "F008F",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "whatsapp",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂐",
-    "hexcode": "F0090",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "linkedin",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂑",
-    "hexcode": "F0091",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "xing",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂒",
-    "hexcode": "F0092",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "slack",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂓",
-    "hexcode": "F0093",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "twitch",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂔",
-    "hexcode": "F0094",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "html",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂕",
-    "hexcode": "F0095",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "html5",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂖",
-    "hexcode": "F0096",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "css",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂗",
-    "hexcode": "F0097",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "firefox",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂘",
-    "hexcode": "F0098",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "chrome",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂙",
-    "hexcode": "F0099",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "opera",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂚",
-    "hexcode": "F009A",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "internet explorer",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂛",
-    "hexcode": "F009B",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "telegram",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂜",
-    "hexcode": "F009C",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "linux",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂝",
-    "hexcode": "F009D",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "vk",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
-  },
-  {
-    "emoji": "󰂞",
-    "hexcode": "F009E",
-    "group": "hfg",
-    "subgroups": "brand",
-    "annotation": "dribbble",
-    "tags": "",
-    "hfg_tags": "",
-    "hfg_author": ""
   },
   {
     "emoji": "󰂟",
