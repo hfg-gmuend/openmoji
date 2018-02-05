@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<g id="_xD83D__xDE2F__1_">
+	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M18.2,57.3"/>
+	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M18.2,57.3"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_1_" points="35,13.1 26.4,14.7 21.1,17.8 16.2,22.8 12.8,30.2 12.8,42.5 18.3,51.9 26.4,57.4 35,59.1 
+				42.2,57.9 49.9,53.6 55,47.4 58,38.2 57.2,30.2 53.4,22.3 49.2,18 42,14.1 			"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  overflow="visible" fill="#FCEA2B"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<rect x="7.8" y="8.1" clip-path="url(#SVGID_2_)" fill="#FCEA2B" width="55.2" height="56"/>
+	</g>
+	<circle fill="none" stroke="#FDE034" stroke-miterlimit="10" cx="35" cy="36.1" r="23"/>
+	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M19.3,27.3c0.7-1.4,1.9-2.5,3.4-3c1.4-0.7,3-0.8,4.5-0.4"/>
+	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M49.9,27.3c-1.6-2.8-4.8-4.2-7.9-3.4"/>
+	
+		<circle fill="none" stroke="#1D1E1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35" cy="36.1" r="23"/>
+	<circle cx="43.2" cy="36" r="2.6"/>
+	<circle cx="25.9" cy="36" r="2.6"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M19.3,27.3c0.7-1.4,1.9-2.5,3.4-3c1.4-0.7,3-0.8,4.5-0.4"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M49.9,27.3c-1.6-2.8-4.8-4.2-7.9-3.4"/>
+	
+		<ellipse fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.4" cy="48.5" rx="5.2" ry="6.5"/>
+</g>
+</svg>
