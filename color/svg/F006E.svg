@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xDB80__xDC6E__1_">
 	<circle fill="#FCEA2B" cx="35.3" cy="8" r="3"/>
-	<circle fill="#FCEA2B" cx="29.6" cy="9.6" r="4"/>
+	
+		<ellipse transform="matrix(0.9954 -9.619455e-02 9.619455e-02 0.9954 -0.7894 2.8891)" fill="#FCEA2B" cx="29.6" cy="9.6" rx="4" ry="4"/>
 	<path fill="#FCEA2B" d="M32.7,16.1c0,0-0.2,0-0.4,6.8c-0.2,6-2.2,19.6-2.2,19.6L27,52.2l-3.6,8.4l-3.4,6l-2.4-1.2L20,54l1.3-6.1
 		l0.8-11L21.5,34l-0.2-0.9l0-7.6l1.7-6.1l2.6-2.8L32.7,16.1z"/>
 	<path fill="#FCEA2B" d="M32,18.8c0,0-0.2-2.2,2.1-3c2.2-0.8,3.7-0.4,5.8-0.2c2.4,0.1,2.6,3.1,2.6,3.1L42.6,34l-1.2,4.8l3.1,16.6

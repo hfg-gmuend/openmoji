@@ -3,22 +3,30 @@
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xD83D__xDD75__1_">
-	<path fill="#A37838" d="M55.2,58.9c0,0,3.8-14-10.5-14.9c-3.2,2.1-5.9,3.6-9,3.6h0.1c-3.1,0-5.8-1.5-9-3.6c-12,0-10,14.9-10,14.9"
-		/>
-	<polygon fill="#CFCFCE" points="38.7,58.9 32.6,58.9 32.6,51.4 29.6,48 41.1,48 38.7,51.4 	"/>
+	<g>
+		<path fill="#A37838" d="M55.2,58.9c0,0,3.8-14-10.5-14.9c-3.2,2.1-5.9,3.6-9,3.6h0.1c-3.1,0-5.8-1.5-9-3.6c-12,0-10,14.9-10,14.9"
+			/>
+	</g>
+	<g>
+		<polygon fill="#CFCFCE" points="38.7,58.9 32.6,58.9 32.6,51.4 29.6,48 41.1,48 38.7,51.4 		"/>
+	</g>
 	<g id="XMLID_72_">
 		<g>
 			<path fill="#69462E" d="M44.8,44.8l-5.9,7.3c6-4.9,6.3,4.3,6.3,4.3l8.9-7.1c-1.2-2.8-3.8-5.2-9-5.2c-0.2,0.1-0.4,0.2-0.5,0.4
 				L44.8,44.8z"/>
 		</g>
-		<g>
-		</g>
 	</g>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M54.7,57.9c0,0,0.2-1.3,0.1-3.1"/>
-	<ellipse transform="matrix(0.3572 -0.934 0.934 0.3572 -7.2958 80.403)" fill="#CFCFCE" cx="54.8" cy="45.5" rx="5" ry="5"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="53" y1="50.2" x2="49.6" y2="59"/>
+	<g>
+		<path d="M54.7,58.9c-0.1,0-0.1,0-0.2,0c-0.5-0.1-0.9-0.6-0.8-1.1c0,0,0.2-1.2,0.1-2.9c0-0.6,0.4-1,0.9-1.1c0.6,0,1,0.4,1.1,0.9
+			c0.1,1.9-0.1,3.3-0.1,3.3C55.6,58.5,55.2,58.9,54.7,58.9z"/>
+	</g>
+	<g>
+		<ellipse transform="matrix(0.3572 -0.934 0.934 0.3572 -7.2958 80.403)" fill="#CFCFCE" cx="54.8" cy="45.5" rx="5" ry="5"/>
+	</g>
+	<g>
+		<path d="M49.6,60c-0.1,0-0.2,0-0.4-0.1c-0.5-0.2-0.8-0.8-0.6-1.3l3.4-8.8c0.2-0.5,0.8-0.8,1.3-0.6c0.5,0.2,0.8,0.8,0.6,1.3
+			l-3.4,8.8C50.4,59.7,50,60,49.6,60z"/>
+	</g>
 	<g id="XMLID_70_">
 		<g>
 			<path fill="#FCEA2C" d="M47.1,25c0.2,1.1,0.3,2.2,0.3,3.4c0,7.8-5.1,14.2-11.3,14.2s-11.3-6.3-11.3-14.2c0-1.2,0.1-2.3,0.3-3.4v0
@@ -60,10 +68,15 @@
 				<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="35.7" y1="8.7" x2="35.7" y2="7.3"/>
 		</g>
 	</g>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M38.6,58v-5.8c6-4.9,6.3,3.5,6.3,3.5l3.7-2.9"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M38.6,52.2"/>
+	<g>
+		<path d="M38.6,59c-0.6,0-1-0.4-1-1v-5.8c0-0.3,0.1-0.6,0.4-0.8c2-1.6,3.7-2.1,5.2-1.5c1.5,0.7,2.2,2.5,2.5,3.9L48,52
+			c0.4-0.3,1.1-0.3,1.4,0.2c0.3,0.4,0.3,1.1-0.2,1.4l-3.7,2.9c-0.3,0.2-0.7,0.3-1,0.1c-0.3-0.2-0.6-0.5-0.6-0.9c0-1.1-0.5-3.5-1.6-4
+			c-0.6-0.3-1.6,0.1-2.7,0.9V58C39.6,58.5,39.2,59,38.6,59z"/>
+	</g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M38.6,52.2"/>
+	</g>
 	<g id="XMLID_71_">
 		<g>
 			<path fill="#69462E" d="M26.8,44.9l5.9,7.4c-6-4.9-6.3,3.5-6.3,3.5l-8.2-6.4h0C19.6,46.9,22.1,44.9,26.8,44.9z"/>
@@ -78,10 +91,18 @@
 				<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="32.7" y1="52.2" x2="26.8" y2="44.9"/>
 		</g>
 	</g>
-	
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="38.6" y1="52.2" x2="44.7" y2="44.9"/>
-	<path fill="#FFFFFF" d="M54.8,40.2l3.7,6.6c0.8,1.3,0.3,3-1.1,3.8l-0.2,0.1l-5-9"/>
-	
-		<ellipse transform="matrix(0.3572 -0.934 0.934 0.3572 -7.2958 80.403)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="54.8" cy="45.5" rx="5" ry="5"/>
+	<g>
+		<path d="M38.6,53.2c-0.2,0-0.5-0.1-0.6-0.2c-0.4-0.4-0.5-1-0.1-1.4l6.1-7.4c0.4-0.4,1-0.5,1.4-0.1c0.4,0.4,0.5,1,0.1,1.4l-6.1,7.4
+			C39.2,53.1,38.9,53.2,38.6,53.2z"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M54.8,40.2l3.7,6.6c0.8,1.3,0.3,3-1.1,3.8l-0.2,0.1l-5-9"/>
+	</g>
+	<g>
+		<path d="M54.8,51.5c-0.7,0-1.4-0.1-2.1-0.4c-1.5-0.6-2.7-1.7-3.3-3.2c-0.7-1.5-0.7-3.1-0.1-4.6c0.6-1.5,1.7-2.7,3.2-3.3
+			c1.5-0.7,3.1-0.7,4.6-0.1c1.5,0.6,2.7,1.7,3.3,3.2c0.7,1.5,0.7,3.1,0.1,4.6C59.5,50,57.2,51.5,54.8,51.5z M54.8,41.5
+			c-0.6,0-1.1,0.1-1.6,0.3c-1,0.4-1.7,1.2-2.1,2.2c-0.4,1-0.4,2.1,0.1,3.1c0.4,1,1.2,1.7,2.2,2.1c1,0.4,2.1,0.3,3.1-0.1
+			c1-0.4,1.7-1.2,2.1-2.2c0.4-1,0.4-2.1-0.1-3.1c-0.4-1-1.2-1.7-2.2-2.1C55.7,41.6,55.2,41.5,54.8,41.5z"/>
+	</g>
 </g>
 </svg>

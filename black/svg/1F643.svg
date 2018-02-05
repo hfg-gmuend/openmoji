@@ -3,12 +3,12 @@
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xD83D__xDE43_">
-	<circle fill="none" stroke="#FDE034" stroke-miterlimit="10" cx="35.9" cy="36.1" r="27"/>
+	<circle fill="none" stroke="#FDE034" stroke-miterlimit="10" cx="35.9" cy="36.1" r="23"/>
 	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.9" cy="36.1" r="27"/>
-	<circle cx="25.2" cy="40.8" r="3"/>
-	<circle cx="45.5" cy="40.8" r="3"/>
+		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.9" cy="36.1" r="23"/>
+	<circle cx="26.8" cy="40.1" r="2.6"/>
+	<circle cx="44.1" cy="40.1" r="2.6"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M24.4,25.7c7.7-4.1,16.5-4.3,23,0"/>
+		M26.1,27.3c6.6-3.5,14-3.7,19.6,0"/>
 </g>
 </svg>

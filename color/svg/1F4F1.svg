@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<g id="_xD83D__xDCF1_">
+	
+		<path fill="#9B9B9A" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M52.5,64.8h-33c-0.6,0-1-0.4-1-1v-56c0-0.6,0.4-1,1-1h33c0.6,0,1,0.4,1,1v56C53.5,64.3,53.1,64.8,52.5,64.8z"/>
+	
+		<path fill="#D0CFCE" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M48,55H24c-0.5,0-1-0.4-1-1V14c0-0.5,0.4-1,1-1H48c0.5,0,1,0.4,1,1V54C49,54.6,48.6,55,48,55z"/>
+	<circle stroke="#000000" stroke-miterlimit="10" cx="36" cy="60" r="2"/>
+	
+		<polygon fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		31,10 41,10 41,10 31,10 	"/>
+</g>
 </svg>

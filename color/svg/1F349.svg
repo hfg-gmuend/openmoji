@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xD83C__xDF49_">
@@ -15,21 +15,21 @@
 		M49.5,56.7c-9.5,6.8-22.9,6-31.4-2.6c-8.6-8.6-9.4-22.1-2.5-31.6"/>
 	<g>
 		
-			<ellipse transform="matrix(0.7071 0.7071 -0.7071 0.7071 42.4912 -8.7685)" fill="#1D1D1B" cx="31.8" cy="46.9" rx="0.8" ry="1.7"/>
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -23.8456 36.2461)" fill="#1D1D1B" cx="31.8" cy="46.9" rx="1.7" ry="0.8"/>
 		
-			<ellipse transform="matrix(0.7071 0.7071 -0.7071 0.7071 50.7166 -15.9023)" fill="#1D1D1B" cx="44.6" cy="53.3" rx="0.8" ry="1.7"/>
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -24.6174 47.1066)" fill="#1D1D1B" cx="44.6" cy="53.3" rx="1.7" ry="0.8"/>
 		
-			<ellipse transform="matrix(0.7071 0.7071 -0.7071 0.7071 48.1144 -6.4393)" fill="#1D1D1B" cx="31.8" cy="54.9" rx="0.8" ry="1.7"/>
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -29.4688 38.5753)" fill="#1D1D1B" cx="31.8" cy="54.9" rx="1.7" ry="0.8"/>
 	</g>
 	<g>
 		
-			<ellipse transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 15.1556 88.0652)" fill="#1D1D1B" cx="25.8" cy="40.9" rx="0.8" ry="1.7"/>
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -21.3547 30.2327)" fill="#1D1D1B" cx="25.8" cy="40.9" rx="1.7" ry="0.8"/>
 		
-			<ellipse transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 13.2922 61.8455)" fill="#1D1D1B" cx="19.5" cy="28.2" rx="0.8" ry="1.7"/>
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -14.2209 22.0073)" fill="#1D1D1B" cx="19.5" cy="28.2" rx="1.7" ry="0.8"/>
 		
-			<ellipse transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 1.5799 82.442)" fill="#1D1D1B" cx="17.9" cy="40.9" rx="0.8" ry="1.7"/>
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -23.684 24.6094)" fill="#1D1D1B" cx="17.9" cy="40.9" rx="1.7" ry="0.8"/>
 		
-			<ellipse transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 2.6201 101.2576)" fill="#1D1D1B" cx="22.3" cy="50.1" rx="0.8" ry="1.7"/>
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -28.8903 30.4251)" fill="#1D1D1B" cx="22.3" cy="50.1" rx="1.7" ry="0.8"/>
 	</g>
 </g>
 </svg>

@@ -5,44 +5,44 @@
 <g id="_xD83D__xDE32__1_">
 	<g>
 		<defs>
-			<polygon id="SVGID_1_" points="35.5,9.1 25.4,11 19.1,14.6 13.4,20.5 9.4,29.2 9.4,43.7 16,54.7 25.4,61.1 35.5,63.1 43.9,61.7 
-				53,56.6 59,49.4 62.5,38.6 61.6,29.2 57.1,19.9 52.2,14.9 43.7,10.3 			"/>
+			<polygon id="SVGID_1_" points="35.5,13.1 26.9,14.7 21.6,17.8 16.7,22.8 13.3,30.2 13.3,42.5 18.8,51.9 26.9,57.4 35.5,59.1 
+				42.7,57.9 50.4,53.6 55.5,47.4 58.5,38.2 57.8,30.2 53.9,22.3 49.7,18 42.5,14.1 			"/>
 		</defs>
 		<use xlink:href="#SVGID_1_"  overflow="visible" fill="#FCEA2B"/>
 		<clipPath id="SVGID_2_">
 			<use xlink:href="#SVGID_1_"  overflow="visible"/>
 		</clipPath>
-		<rect x="3.5" y="3.2" clip-path="url(#SVGID_2_)" fill="#FCEA2B" width="64.9" height="65.7"/>
+		<rect x="8.3" y="8.1" clip-path="url(#SVGID_2_)" fill="#FCEA2B" width="55.2" height="56"/>
 	</g>
 	<g>
 		<defs>
-			<polygon id="SVGID_3_" points="32.6,46.6 28.9,49.1 27.5,51.7 27.1,54.6 31.6,54.5 43.7,54.5 42.1,49.1 38.3,46.6 			"/>
+			<polygon id="SVGID_3_" points="33,45 29.9,47.1 28.7,49.4 28.3,51.9 32.2,51.8 42.5,51.8 41.1,47.1 37.8,45 			"/>
 		</defs>
 		<clipPath id="SVGID_4_">
 			<use xlink:href="#SVGID_3_"  overflow="visible"/>
 		</clipPath>
-		<rect x="21.2" y="40.7" clip-path="url(#SVGID_4_)" fill="#FFFFFF" width="28.4" height="19.8"/>
+		<rect x="23.3" y="40" clip-path="url(#SVGID_4_)" fill="#FFFFFF" width="24.2" height="16.8"/>
 	</g>
-	<circle fill="none" stroke="#FDE034" stroke-miterlimit="10" cx="35.5" cy="36.1" r="27"/>
+	<circle fill="none" stroke="#FDE034" stroke-miterlimit="10" cx="35.5" cy="36.1" r="23"/>
 	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M27.1,54.7c0-4.7,2.8-8.4,8.4-8.4c5.6,0,8.5,3.7,8.5,8.4"/>
+		M28.3,51.9c0-4,2.4-7.2,7.2-7.2c4.8,0,7.2,3.2,7.2,7.2"/>
 	
-		<line fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="43.9" y1="54.7" x2="27.1" y2="54.7"/>
+		<line fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="42.7" y1="51.9" x2="28.3" y2="51.9"/>
 	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M17,25.7c0.8-1.6,2.3-2.9,4-3.5c1.6-0.8,3.5-1,5.3-0.5"/>
+		M19.8,27.3c0.7-1.4,1.9-2.5,3.4-3c1.4-0.7,3-0.8,4.5-0.4"/>
 	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M53,25.7c-1.9-3.3-5.6-4.9-9.3-4"/>
+		M50.4,27.3c-1.6-2.8-4.8-4.2-7.9-3.4"/>
 	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.5" cy="36.1" r="27"/>
+		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.5" cy="36.1" r="23"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M27.1,54.7c0-4.7,2.8-8.4,8.4-8.4c5.6,0,8.5,3.7,8.5,8.4"/>
+		M28.3,51.9c0-4,2.4-7.2,7.2-7.2c4.8,0,7.2,3.2,7.2,7.2"/>
 	
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="43.9" y1="54.7" x2="27.1" y2="54.7"/>
-	<circle cx="45.1" cy="36" r="3"/>
-	<circle cx="24.8" cy="36" r="3"/>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="42.7" y1="51.9" x2="28.3" y2="51.9"/>
+	<circle cx="43.7" cy="36" r="2.6"/>
+	<circle cx="26.4" cy="36" r="2.6"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M17,25.7c0.8-1.6,2.3-2.9,4-3.5c1.6-0.8,3.5-1,5.3-0.5"/>
+		M19.8,27.3c0.7-1.4,1.9-2.5,3.4-3c1.4-0.7,3-0.8,4.5-0.4"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M53,25.7c-1.9-3.3-5.6-4.9-9.3-4"/>
+		M50.4,27.3c-1.6-2.8-4.8-4.2-7.9-3.4"/>
 </g>
 </svg>

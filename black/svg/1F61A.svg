@@ -4,18 +4,18 @@
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xD83D__xDE1A__1_">
 	<path fill="none" stroke="#1F201E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M49.3,47.4"/>
+		M47.2,45.7"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M35.9,43.2c0,0,12.4,3.8,0,6.5c0,0,12.3,3.5,0,5.8"/>
+		M35.8,42.1c0,0,10.5,3.2,0,5.6c0,0,10.5,3,0,4.9"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M17.9,25.7c0.8-1.6,2.3-2.9,4-3.5c1.6-0.8,3.5-1,5.3-0.5"/>
+		M20.5,27.3c0.7-1.4,1.9-2.5,3.4-3c1.4-0.7,3-0.8,4.5-0.4"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M52.7,25.7c-1.9-3.3-5.6-4.9-9.3-4"/>
+		M50.1,27.3c-1.6-2.8-4.8-4.2-7.9-3.4"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M20.7,34c0,0,4.6-2.5,9.4,0"/>
+		M22.9,34.3c0,0,3.9-2.2,8,0"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M41,34c0,0,4.6-2.5,9.4,0"/>
+		M40.2,34.3c0,0,3.9-2.2,8,0"/>
 	
-		<ellipse transform="matrix(2.335999e-03 -1 1 2.335999e-03 -0.7117 71.3882)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.4" cy="36.1" rx="27" ry="27"/>
+		<ellipse transform="matrix(2.335999e-03 -1 1 2.335999e-03 -0.7115 71.3884)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.4" cy="36.1" rx="23" ry="23"/>
 </g>
 </svg>

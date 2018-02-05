@@ -4,10 +4,10 @@
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xD83D__xDC41__xFE0F__1_">
 	<ellipse fill="#FFFFFF" cx="35.8" cy="36.4" rx="34.8" ry="20.4"/>
+	
+		<ellipse fill="#FFFFFF" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.8" cy="36.4" rx="34.8" ry="20.4"/>
 	<circle fill="#A47938" cx="36" cy="36" r="15.5"/>
 	<circle cx="36" cy="36" r="8.4"/>
-	
-		<ellipse fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.8" cy="36.4" rx="34.8" ry="20.4"/>
 	
 		<circle fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36" r="8.4"/>
 	

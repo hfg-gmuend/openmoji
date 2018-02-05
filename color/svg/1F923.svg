@@ -2,63 +2,61 @@
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83E__xDD23__1_">
+<g>
 	<g>
 		<defs>
-			<polygon id="SVGID_1_" points="23.5,11.8 15,17.4 10.8,23 7.8,30.5 7.4,39.9 12.9,53 23,60.5 34,62.7 43.9,60.6 51,56.2 
-				57.2,48.2 59.9,39.4 59,28.3 54.7,20.1 47.1,13.4 40.7,10.7 31.3,9.9 			"/>
+			<polygon id="SVGID_1_" points="25.3,15 18,19.9 14.3,24.7 11.7,31.3 11.4,39.4 16.2,50.8 24.9,57.3 34.4,59.2 43,57.4 49.2,53.6 
+				54.6,46.6 56.9,39 56.1,29.3 52.4,22.3 45.8,16.4 40.3,14.1 32.1,13.3 			"/>
 		</defs>
 		<use xlink:href="#SVGID_1_"  overflow="visible" fill="#FCEA2B"/>
 		<clipPath id="SVGID_2_">
 			<use xlink:href="#SVGID_1_"  overflow="visible"/>
 		</clipPath>
 		
-			<rect x="2.3" y="3.8" transform="matrix(0.9225 -0.3861 0.3861 0.9225 -11.2765 15.9472)" clip-path="url(#SVGID_2_)" fill="#FCEA2B" width="63.6" height="64.4"/>
+			<rect x="6.9" y="8.1" transform="matrix(0.9223 -0.3865 0.3865 0.9223 -11.2609 16.1339)" clip-path="url(#SVGID_2_)" fill="#FCEA2B" width="55.1" height="55.9"/>
 	</g>
-	
-		<ellipse transform="matrix(0.9217 -0.3879 0.3879 0.9217 -11.4117 15.8946)" fill="none" stroke="#FCEA2B" stroke-width="2" stroke-miterlimit="10" cx="33.7" cy="36.2" rx="26.5" ry="26.5"/>
+	<path fill="none" stroke="#FCEA2B" stroke-width="2" stroke-miterlimit="10" d="M43,57.4C54.7,52.5,60.2,39,55.3,27.3
+		C50.4,15.6,36.9,10.1,25.2,15C13.6,20,8.1,33.4,13,45.1C17.9,56.8,31.4,62.3,43,57.4z"/>
 	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M52.2,38.5"/>
+		M50.2,38.2"/>
 	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M22.4,51"/>
+		M24.4,49"/>
 	<g>
 		<defs>
-			<polygon id="SVGID_3_" points="46.5,52.7 51.9,46.6 53,42 52,37.8 43.8,41.4 21.6,50.7 27.6,56.8 36.1,57.1 			"/>
+			<polygon id="SVGID_3_" points="45.3,50.5 49.9,45.2 50.9,41.2 50.1,37.6 43,40.7 23.7,48.8 28.9,54.1 36.2,54.3 			"/>
 		</defs>
 		<use xlink:href="#SVGID_3_"  overflow="visible" fill="#EA5A47"/>
 		<clipPath id="SVGID_4_">
 			<use xlink:href="#SVGID_3_"  overflow="visible"/>
 		</clipPath>
-		
-			<rect x="10.9" y="35.2" transform="matrix(0.9217 -0.3879 0.3879 0.9217 -16.153 19.0334)" clip-path="url(#SVGID_4_)" fill="#EA5A47" width="56.4" height="28.6"/>
 	</g>
-	<path fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="round" stroke-miterlimit="10" d="M22.5,51.3
-		c0,0,17-2.7,30-12.5"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="round" stroke-miterlimit="10" d="M24.5,49.3
+		c0,0,14.7-2.3,26-10.9"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M20.9,48.9c0,0,17.3-2.8,30.7-12.8"/>
+		M23.1,47.2c0,0,15-2.4,26.6-11.1"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M51.8,35.9c2.9,6.9,0.1,14.6-10.2,18.9c-10.3,4.3-17.8,1-20.7-5.9"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M23.3,53.3
-		c0,0,17-2.7,30-12.5"/>
+		M49.8,36c2.5,6,0.1,12.7-8.9,16.4c-8.9,3.8-15.5,0.9-18-5.1"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M25.2,51
+		c0,0,14.7-2.3,26-10.9"/>
 	
 		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		18.7,31.8 27.5,33.1 22.1,40 	"/>
+		21.2,32.4 28.8,33.5 24.2,39.5 	"/>
 	
 		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		41.7,22.1 36.5,29.3 45.1,30.4 	"/>
+		41.1,24 36.6,30.2 44.1,31.1 	"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M56.6,23.2c0-0.1-0.1-0.1-0.1-0.2C49.9,11.6,35.7,6.6,23.3,11.8C10.9,17,4.6,30.5,8,43.1c0,0.1,0.1,0.3,0.1,0.5"/>
-	<path d="M14.4,58.7c-1.5,0.6-3.2,0.6-4.7,0C8.2,58.2,7,57,6.4,55.5c-0.6-1.5-0.6-3.2,0-4.7c2-5,8.7-7.8,9-7.9
-		c0.6-0.2,1.3,0,1.5,0.6c0.1,0.3,2.9,7,0.9,11.9l0,0C17.1,56.9,15.9,58.1,14.4,58.7z M15.1,45.5c-1.8,1-5.4,3.1-6.6,6.2
-		c-0.4,0.9-0.4,2,0,2.9c0.4,0.9,1.1,1.7,2.1,2.1c1.9,0.8,4.2-0.2,5-2.1l0,0C16.8,51.5,15.8,47.5,15.1,45.5z"/>
-	<path fill="#92D3F5" d="M15.1,45.5c-1.8,1-5.4,3.1-6.6,6.2c-0.4,0.9-0.4,2,0,2.9c0.4,0.9,1.1,1.7,2.1,2.1c1.9,0.8,4.2-0.2,5-2.1
-		l0,0C16.8,51.5,15.8,47.5,15.1,45.5z"/>
-	<path d="M63.2,38.2c-1.5,0.6-3.2,0.6-4.7,0c-5-2-7.8-8.7-7.9-9c-0.2-0.6,0-1.3,0.6-1.5c0.3-0.1,7-2.9,11.9-0.9l0,0
-		c3.1,1.3,4.6,4.8,3.3,8C65.9,36.4,64.7,37.6,63.2,38.2z M53.2,29.5c1,1.8,3.1,5.4,6.2,6.6c1.9,0.8,4.2-0.2,5-2.1
-		c0.8-1.9-0.1-4.2-2.1-5l0,0C59.2,27.8,55.2,28.9,53.2,29.5z"/>
-	<path fill="#92D3F5" d="M53.2,29.5c1,1.8,3.1,5.4,6.2,6.6c1.9,0.8,4.2-0.2,5-2.1c0.8-1.9-0.1-4.2-2.1-5l0,0
-		C59.2,27.8,55.2,28.9,53.2,29.5z"/>
+		M54,24.9c0,0-0.1-0.1-0.1-0.1c-5.7-9.9-18-14.3-28.8-9.7C14.4,19.5,9,31.3,11.9,42.2c0,0.1,0.1,0.3,0.1,0.4"/>
+	<path d="M63.1,38.7c-1.4,0.6-2.9,0.6-4.3,0c-4.5-1.9-7.1-7.9-7.2-8.2c-0.2-0.5,0-1.1,0.6-1.4c0.3-0.1,6.3-2.6,10.9-0.8l0,0
+		c2.8,1.2,4.2,4.4,3.1,7.3C65.5,37.1,64.4,38.1,63.1,38.7z M54,30.8c0.9,1.7,2.9,4.9,5.6,6c1.7,0.7,3.8-0.2,4.5-1.9
+		c0.7-1.8-0.1-3.8-1.9-4.5l0,0C59.5,29.2,55.8,30.2,54,30.8z"/>
+	<path fill="#92D3F5" d="M54,30.8c0.9,1.7,2.9,4.9,5.6,6c1.7,0.7,3.8-0.2,4.5-1.9c0.7-1.8-0.1-3.8-1.9-4.5l0,0
+		C59.5,29.2,55.8,30.2,54,30.8z"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M19.5,58.7c7,4.3,16.2,5.4,24.3,2C52,57.2,57.6,50,59.4,42"/>
+		M21.9,55.7c6.1,3.7,14,4.7,21.1,1.7c7.1-3,11.9-9.3,13.5-16.2"/>
+	<path d="M7.8,55c-0.5-1.4-0.3-2.9,0.3-4.3c2.2-4.4,8.5-6.5,8.7-6.5c0.6-0.2,1.1,0.1,1.3,0.7c0.1,0.3,2.1,6.5-0.1,10.9l0,0
+		c-1.4,2.7-4.8,3.8-7.5,2.5C9.2,57.6,8.2,56.4,7.8,55z M16.5,46.6c-1.7,0.7-5.1,2.5-6.5,5.1c-0.8,1.7-0.1,3.8,1.5,4.7
+		c1.7,0.9,3.8,0.2,4.7-1.5l0,0C17.5,52.2,16.9,48.4,16.5,46.6z"/>
+	<path fill="#92D3F5" d="M16.5,46.6c-1.7,0.7-5.1,2.5-6.5,5.1c-0.8,1.7-0.1,3.8,1.5,4.7c1.7,0.9,3.8,0.2,4.7-1.5l0,0
+		C17.5,52.2,16.9,48.4,16.5,46.6z"/>
 </g>
 </svg>

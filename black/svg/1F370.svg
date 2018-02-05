@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<g id="_xD83C__xDF70__1_">
+	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M67,28v31c0,1.1-0.9,2-2,2H7c-1.1,0-2-0.9-2-2V28c0-1.1,0.9-2,2-2l34-5.4"/>
+	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M58,18.1c5,0.5,9,4.8,9,9.9"/>
+	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M5,40h1c2.8,0,5-2.2,5-5c0-2.8,2.2-5,5-5s5,2.2,5,5c0,2.8,2.2,5,5,5s5-2.2,5-5c0-2.8,2.2-5,5-5s5,2.2,5,5c0,2.8,2.2,5,5,5
+		s5-2.2,5-5c0-2.8,2.2-5,5-5s5,2.2,5,5c0,2.8,2.2,5,5,5h1"/>
+	
+		<line fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="5" y1="48" x2="67" y2="48"/>
+	
+		<line fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="5" y1="52" x2="67" y2="52"/>
+	
+		<circle fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="49.5" cy="18" r="5"/>
+	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M49.5,16c0-5.5,4.5-10,10-10"/>
+</g>
 </svg>

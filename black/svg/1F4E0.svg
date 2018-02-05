@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<g id="_xD83D__xDCE0__1_">
+	
+		<rect x="13" y="32" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="46" height="26"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M21,55h-1c-1.7,0-3-1.3-3-3V38c0-1.7,1.3-3,3-3h1c1.7,0,3,1.3,3,3v14C24,53.7,22.7,55,21,55z"/>
+	
+		<rect x="17" y="13" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="38" height="19"/>
+	
+		<rect x="29" y="17" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="22" height="15"/>
+	<circle cx="29" cy="39" r="2"/>
+	<circle cx="35" cy="39" r="2"/>
+	<circle cx="41" cy="39" r="2"/>
+	<circle cx="29" cy="45" r="2"/>
+	<circle cx="35" cy="45" r="2"/>
+	<circle cx="41" cy="45" r="2"/>
+	<circle cx="29" cy="51" r="2"/>
+	<circle cx="35" cy="51" r="2"/>
+	<circle cx="41" cy="51" r="2"/>
+	
+		<rect x="46" y="37" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="9" height="8"/>
+</g>
 </svg>

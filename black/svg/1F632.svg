@@ -3,26 +3,26 @@
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xD83D__xDE32_">
-	<circle fill="none" stroke="#FDE034" stroke-miterlimit="10" cx="36.5" cy="36.1" r="27"/>
+	<circle fill="none" stroke="#FDE034" stroke-miterlimit="10" cx="36.5" cy="36.1" r="23"/>
 	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M28.1,54.7c0-4.7,2.8-8.4,8.4-8.4c5.6,0,8.5,3.7,8.5,8.4"/>
+		M29.3,51.9c0-4,2.4-7.2,7.2-7.2c4.8,0,7.2,3.2,7.2,7.2"/>
 	
-		<line fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="44.9" y1="54.7" x2="28.1" y2="54.7"/>
+		<line fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="43.7" y1="51.9" x2="29.3" y2="51.9"/>
 	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M18,25.7c0.8-1.6,2.3-2.9,4-3.5c1.6-0.8,3.5-1,5.3-0.5"/>
+		M20.8,27.3c0.7-1.4,1.9-2.5,3.4-3c1.4-0.7,3-0.8,4.5-0.4"/>
 	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M54,25.7c-1.9-3.3-5.6-4.9-9.3-4"/>
+		M51.4,27.3c-1.6-2.8-4.8-4.2-7.9-3.4"/>
 	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36.5" cy="36.1" r="27"/>
+		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36.5" cy="36.1" r="23"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M28.1,54.7c0-4.7,2.8-8.4,8.4-8.4c5.6,0,8.5,3.7,8.5,8.4"/>
+		M29.3,51.9c0-4,2.4-7.2,7.2-7.2c4.8,0,7.2,3.2,7.2,7.2"/>
 	
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="44.9" y1="54.7" x2="28.1" y2="54.7"/>
-	<circle cx="46.1" cy="36" r="3"/>
-	<circle cx="25.8" cy="36" r="3"/>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="43.7" y1="51.9" x2="29.3" y2="51.9"/>
+	<circle cx="44.7" cy="36" r="2.6"/>
+	<circle cx="27.4" cy="36" r="2.6"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M18,25.7c0.8-1.6,2.3-2.9,4-3.5c1.6-0.8,3.5-1,5.3-0.5"/>
+		M20.8,27.3c0.7-1.4,1.9-2.5,3.4-3c1.4-0.7,3-0.8,4.5-0.4"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M54,25.7c-1.9-3.3-5.6-4.9-9.3-4"/>
+		M51.4,27.3c-1.6-2.8-4.8-4.2-7.9-3.4"/>
 </g>
 </svg>

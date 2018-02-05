@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xD83E__xDD5D__1_">
@@ -10,15 +10,12 @@
 		c-0.7,0.5-1,1.5-0.5,2.3l1.6,2.8c0.8,1.4-0.5,3-2,2.5l-3.1-0.9c-0.9-0.3-1.8,0.2-2.1,1l-1.2,3c-0.6,1.5-2.6,1.5-3.2,0l-1.2-3
 		c-0.3-0.8-1.3-1.3-2.1-1L28,43.7c-1.5,0.5-2.8-1.2-2-2.5l1.6-2.8c0.5-0.8,0.2-1.8-0.5-2.3l-2.7-1.8c-1.3-0.9-0.8-2.9,0.7-3.1
 		l3.2-0.5c0.9-0.1,1.5-0.9,1.5-1.8l-0.2-3.2c-0.1-1.6,1.8-2.5,2.9-1.4l2.4,2.2C35.5,26.9,36.5,26.9,37.2,26.3z"/>
-	
-		<ellipse transform="matrix(-0.6637 0.748 -0.748 -0.6637 58.8356 23.8062)" fill="#1D1D1B" cx="24.1" cy="25.1" rx="0.9" ry="1.8"/>
+	<ellipse transform="matrix(0.6637 -0.748 0.748 0.6637 -10.7036 26.4534)" fill="#1D1D1B" cx="24.1" cy="25.1" rx="0.9" ry="1.8"/>
 	<ellipse fill="#1D1D1B" cx="35.9" cy="19.1" rx="0.9" ry="1.8"/>
-	
-		<ellipse transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 63.9976 76.9885)" fill="#1D1D1B" cx="47.9" cy="25.2" rx="0.9" ry="1.8"/>
+	<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.805 41.2939)" fill="#1D1D1B" cx="47.9" cy="25.2" rx="1.8" ry="0.9"/>
 	<ellipse transform="matrix(0.1109 -0.9938 0.9938 0.1109 7.1987 84.2474)" fill="#1D1D1B" cx="50.7" cy="38.1" rx="0.9" ry="1.8"/>
 	<ellipse fill="#1D1D1B" cx="21.3" cy="38" rx="1.8" ry="0.9"/>
-	<ellipse transform="matrix(-0.866 -0.5 0.5 -0.866 30.2371 105.5104)" fill="#1D1D1B" cx="29.3" cy="48.7" rx="0.9" ry="1.8"/>
-	
-		<ellipse transform="matrix(-0.882 0.4712 -0.4712 -0.882 103.7572 71.4957)" fill="#1D1D1B" cx="42.9" cy="48.7" rx="0.9" ry="1.8"/>
+	<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -27.5519 49.687)" fill="#1D1D1B" cx="29.3" cy="48.7" rx="1.8" ry="0.9"/>
+	<ellipse transform="matrix(0.882 -0.4712 0.4712 0.882 -17.9005 25.9778)" fill="#1D1D1B" cx="42.9" cy="48.7" rx="0.9" ry="1.8"/>
 </g>
 </svg>

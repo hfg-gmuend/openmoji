@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDDA8__xFE0F_">
+<g id="_xD83D__xDDA8__xFE0F__2_">
 	<polygon fill="#9B9B9A" points="56.5,57 68.5,57 68.5,15.9 4.5,15.9 4.5,57 16.5,57 	"/>
 	<polyline fill="#9B9B9A" points="16.5,56 4.5,56 4.5,15.9 68.5,15.9 68.5,56 56.5,56 	"/>
 	<rect x="5.4" y="15.9" fill="#D0CFCE" width="7.1" height="40.1"/>
@@ -17,6 +17,19 @@
 		51.6,50.6 51.6,68 21.4,68 21.4,50.6 	"/>
 	
 		<line fill="#FFFFFF" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="61.1" y1="20.3" x2="61.1" y2="52.3"/>
+	<g>
+		
+			<polyline fill="#FFFFFF" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			46.8,44.5 46.8,63.8 26.2,63.8 26.2,44.5 		"/>
+		<g>
+			
+				<line fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="29.5" y1="48.4" x2="43.5" y2="48.4"/>
+			
+				<line fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="29.5" y1="53.2" x2="43.5" y2="53.2"/>
+			
+				<line fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="29.5" y1="58.5" x2="43.5" y2="58.5"/>
+		</g>
+	</g>
 	
 		<line fill="#FFFFFF" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="11.5" y1="20.3" x2="11.5" y2="52.3"/>
 	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="

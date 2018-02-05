@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xD83D__xDD10__1_">
@@ -28,9 +28,9 @@
 		56,36 56.3,56.5 51.7,61 47,56.3 49.9,53.3 46.6,50.1 50.3,46.4 47.1,43.2 47.1,40.2 49.9,37.4 48.6,36.2 	"/>
 	<line fill="#E27022" x1="53.5" y1="35.2" x2="53.5" y2="56"/>
 	<polygon fill="#E27022" points="53.5,57.1 54.7,55.9 54.5,36.1 53.3,36.1 	"/>
-	<circle fill="#E27022" cx="51.5" cy="18.1" r="3.5"/>
+	<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 2.2893 41.7451)" fill="#E27022" cx="51.5" cy="18.1" rx="3.5" ry="3.5"/>
 	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="51.5" cy="18.1" r="3.5"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 2.2893 41.7451)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="51.5" cy="18.1" rx="3.5" ry="3.5"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M56,31.6c3.6-1.8,6-5.6,6-10c0-6.1-4.8-10.9-10.6-10.9c-5.8,0-10.4,5-10.4,11c0,4.9,3.1,9,7.4,10.4"/>
 </g>
