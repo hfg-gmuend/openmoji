@@ -1281,7 +1281,7 @@
   },
   {
     "emoji": "⏩️",
-    "hexcode": 20000000000,
+    "hexcode": "2E+10",
     "group": "symbols",
     "subgroups": "av-symbol",
     "annotation": "fast-forward button",
@@ -7531,7 +7531,7 @@
   },
   {
     "emoji": "⛩️",
-    "hexcode": 30000000000,
+    "hexcode": "3E+10",
     "group": "travel-places",
     "subgroups": "place-religious",
     "annotation": "shinto shrine",
