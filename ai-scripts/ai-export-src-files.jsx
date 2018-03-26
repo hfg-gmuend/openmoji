@@ -69,7 +69,7 @@ function exportDoc(doc, artboardIndex, dirOut) {
 
   // export
   var fileName = doc.name.replace(/\.svg|\.ai|\.eps|\.pdf/gi, "");
-  exportPng(doc, new File(dirOut.fsName+"/70x70/"+fileName+".png"));
+  exportPng(doc, new File(dirOut.fsName+"/72x72/"+fileName+".png"));
   exportSvg(doc, new File(dirOut.fsName+"/svg/"+fileName+".svg"));
 }
 
