@@ -3,8 +3,10 @@
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_x26C4__xFE0F__1_">
-	<circle fill="#FFFFFF" cx="36" cy="26.6" r="12"/>
-	<circle fill="#FFFFFF" cx="36" cy="53" r="16"/>
+	<circle fill="#FFFFFF" cx="36" cy="26.3" r="12.3"/>
+	<circle fill="#FFFFFF" cx="36" cy="53" r="15.9"/>
+	<path fill="#D0CFCE" d="M36,14c8.9,0,8.9,24.6,0,24.6c6.8,0,12.3-5.5,12.3-12.3C48.3,19.5,42.8,14,36,14z"/>
+	<path fill="#D0CFCE" d="M36,37.2c9.2,0,9.2,31.7,0,31.7c8.8,0,15.8-7.1,15.8-15.8S44.8,37.2,36,37.2z"/>
 	<g>
 		
 			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="43.5" y1="40" x2="68" y2="31.9"/>

@@ -5,9 +5,8 @@
 <g id="_xDB80__xDC69__1_">
 	<polygon fill="#EA5A47" points="45,66 27,66 27,28 36,28 45,25 	"/>
 	<polygon fill="#D22F27" points="33,66 45,33 45,66 	"/>
-	<rect x="27" y="28" fill="#D0CFCE" width="9" height="8"/>
+	<polygon fill="#D0CFCE" points="45,25 45,36 27,36 27,28 36,28 	"/>
 	<line fill="#D0CFCE" x1="36" y1="28" x2="36" y2="35"/>
-	<polyline fill="#D0CFCE" points="36,28 45,25 45,36 36,36 36,27.9 36,31.3 	"/>
 	
 		<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		45,66 27,66 27,28 36,28 45,25 	"/>

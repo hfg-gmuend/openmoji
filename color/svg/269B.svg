@@ -3,15 +3,15 @@
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_x269B__xFE0F_">
-	<path fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M28.1,22.8
+	<path fill="#92D3F5" stroke="#92D3F5" stroke-width="1.8" stroke-linejoin="round" stroke-miterlimit="10" d="M28.1,22.8
 		c-0.4,2.3-0.7,4.8-0.8,7.4c-3.3,1.9-6.3,3.8-8.9,5.8c-6.2-4.8-9.5-9.5-8.1-12.4C11.9,20.3,19,20.2,28.1,22.8z"/>
-	<path fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M62.6,48.4
+	<path fill="#92D3F5" stroke="#92D3F5" stroke-width="1.8" stroke-linejoin="round" stroke-miterlimit="10" d="M62.6,48.4
 		c-1.6,3.3-8.7,3.4-17.8,0.8c-2.6-0.8-5.5-1.7-8.3-3c-1.3-0.5-2.7-1.1-4-1.8c-1.8-0.9-3.5-1.8-5.2-2.7c-0.1-1.9-0.2-3.8-0.2-5.8
 		c0-2,0.1-3.9,0.2-5.8c1.6-0.9,3.4-1.8,5.2-2.7c1.4-0.7,2.7-1.3,4-1.8c1.3,0.6,2.7,1.2,4,1.8c1.8,0.8,3.5,1.7,5.2,2.7
 		c0.1,1.9,0.2,3.8,0.2,5.8c0,2-0.1,4-0.2,5.8C49,40,52,38,54.6,36C60.7,40.8,64,45.5,62.6,48.4z"/>
-	<path fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M44.8,49.2
+	<path fill="#92D3F5" stroke="#92D3F5" stroke-width="1.8" stroke-linejoin="round" stroke-miterlimit="10" d="M44.8,49.2
 		C43.3,58.6,40.1,65,36.5,65c-3.6,0-6.8-6.4-8.4-15.7c2.6-0.8,5.5-1.7,8.4-3C39.4,47.5,42.2,48.5,44.8,49.2z"/>
-	<path fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M44.8,22.8
+	<path fill="#92D3F5" stroke="#92D3F5" stroke-width="1.8" stroke-linejoin="round" stroke-miterlimit="10" d="M44.8,22.8
 		c-2.6,0.8-5.5,1.7-8.3,3c-2.9-1.2-5.7-2.2-8.4-3C29.7,13.4,32.8,7,36.5,7C40.1,7,43.3,13.4,44.8,22.8z"/>
 	<path fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M36.5,25.7
 		c-1.3,0.5-2.7,1.2-4,1.8c-1.8,0.9-3.5,1.8-5.2,2.7c0.2-2.6,0.5-5.1,0.8-7.4C30.8,23.5,33.6,24.5,36.5,25.7z"/>
@@ -21,13 +21,13 @@
 		c1.8,0.8,3.5,1.7,5.2,2.7C45.8,32.1,45.9,34,45.9,36z"/>
 	<path fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M36.5,46.3
 		c-2.9,1.2-5.7,2.2-8.4,3c-0.4-2.3-0.7-4.8-0.8-7.4c1.6,0.9,3.4,1.8,5.2,2.7C33.8,45.1,35.2,45.7,36.5,46.3z"/>
-	<path fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M28.1,49.2
+	<path fill="#92D3F5" stroke="#92D3F5" stroke-width="1.8" stroke-linejoin="round" stroke-miterlimit="10" d="M28.1,49.2
 		c-9.1,2.6-16.2,2.5-17.8-0.8C9,45.5,12.3,40.8,18.4,36c2.5,2,5.5,4,8.9,5.8C27.4,44.4,27.7,46.9,28.1,49.2z"/>
 	<path fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M27.1,36
 		c0,2,0.1,3.9,0.2,5.8C23.9,40,20.9,38,18.4,36c2.5-2,5.5-3.9,8.9-5.8C27.2,32.1,27.1,34,27.1,36z"/>
 	<path fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M45.7,30.2
 		c-1.6-0.9-3.4-1.8-5.2-2.7c-1.4-0.7-2.7-1.2-4-1.8c2.9-1.2,5.7-2.2,8.3-3C45.2,25.1,45.5,27.6,45.7,30.2z"/>
-	<path fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M54.6,36
+	<path fill="#92D3F5" stroke="#92D3F5" stroke-width="1.8" stroke-linejoin="round" stroke-miterlimit="10" d="M54.6,36
 		c-2.5-2-5.5-3.9-8.9-5.8c-0.2-2.6-0.5-5.1-0.8-7.4c9.1-2.6,16.2-2.5,17.8,0.8C64,26.5,60.7,31.2,54.6,36z"/>
 	<path fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M45.7,41.8
 		c0.1-1.9,0.2-3.8,0.2-5.8c0-2-0.1-3.9-0.2-5.8C49,32.1,52,34,54.6,36C52,38,49,40,45.7,41.8z"/>

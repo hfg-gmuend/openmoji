@@ -5,9 +5,8 @@
 <g id="_xDB80__xDC5A_">
 	
 		<path fill="#AAADB4" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M26.5,25.1c0-5.2,4.3-9.5,9.5-9.5s9.5,4.3,9.5,9.5"/>
-	
-		<path fill="#FFFFFF" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M45.5,25.1h-3.8c0-3.2-2.6-5.8-5.8-5.8s-5.8,2.6-5.8,5.8h-3.8c0-5.2,4.2-9.5,9.5-9.5S45.5,19.8,45.5,25.1z"/>
+	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M30.2,25.1c0-3.2,2.6-5.8,5.8-5.8s5.8,2.6,5.8,5.8"/>
 	
 		<rect x="10.8" y="25.1" fill="#D5D7DD" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="50.2" height="30.9"/>

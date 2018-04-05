@@ -4,10 +4,10 @@
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xD83D__xDCF3__1_">
 	
-		<polyline fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		61,12 55,20 61,28 55,36 55,36 61,44 55,52 61,60 	"/>
 	
-		<polyline fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		11,60 17,52 11,44 17,36 17,36 11,28 17,20 11,12 	"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M49.8,60H22.2c-0.5,0-0.8-0.4-0.8-0.8V12.4c0-0.5,0.4-0.8,0.8-0.8h27.6c0.5,0,0.8,0.4,0.8,0.8v46.8C50.6,59.6,50.3,60,49.8,60z"/>

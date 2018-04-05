@@ -12,7 +12,6 @@
 	
 		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		30.7,34.7 14.3,50.7 14.3,57.9 21.9,57.9 21.9,53.3 27,53.3 27,47.4 32.1,47.4 34.5,45 34.5,40.7 36.5,40.7 	"/>
-	<line fill="#E27022" x1="33.4" y1="36.1" x2="17" y2="52.5"/>
 	<polygon fill="#E27022" points="16,53.3 16,51.4 31.9,35.9 32.9,36.8 	"/>
 	<circle fill="#E27022" cx="48.5" cy="24" r="4"/>
 	

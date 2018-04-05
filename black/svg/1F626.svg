@@ -10,7 +10,6 @@
 		M47.6,24.6c-0.4,0.3-2.4,1.5-5.1,1.1c-2.1-0.4-3.5-1.6-3.9-2.1"/>
 	<path fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M24.7,24.6c0.4,0.3,2.4,1.5,5.1,1.1c2.1-0.4,3.5-1.6,3.9-2.1"/>
-	<path fill="#1D1E1C" stroke="#010101" stroke-width="2" stroke-miterlimit="10" d="M42,45c0,2.2-2.8,4-5,4s-5-1.8-5-4s2.8-3,5-3
-		S42,42.8,42,45z"/>
+	<path stroke="#010101" stroke-width="2" stroke-miterlimit="10" d="M42,45c0,2.2-2.8,4-5,4s-5-1.8-5-4s2.8-3,5-3S42,42.8,42,45z"/>
 </g>
 </svg>

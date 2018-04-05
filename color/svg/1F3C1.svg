@@ -5,7 +5,7 @@
 <g id="_xD83C__xDFC1__1_">
 	<rect x="22.4" y="17.3" fill="#FFFFFF" width="6" height="6"/>
 	<rect x="22.4" y="23.3" width="6" height="6"/>
-	<rect x="22.4" y="29.3" fill="#FFFFFF" width="6" height="6"/>
+	<polygon fill="#FFFFFF" points="28.4,33.9 22.4,35.3 22.4,29.3 28.4,29.3 	"/>
 	<rect x="28.4" y="17.3" width="6" height="6"/>
 	<rect x="28.4" y="23.3" fill="#FFFFFF" width="6" height="6"/>
 	<rect x="28.4" y="29.3" width="6" height="5.1"/>
@@ -14,7 +14,7 @@
 	<rect x="28.4" y="15" fill="#FFFFFF" width="6" height="2.3"/>
 	<polygon points="40.4,17.3 34.4,17.3 34.4,15.6 40.4,16.6 	"/>
 	<rect x="34.4" y="23.3" width="6" height="6"/>
-	<rect x="34.4" y="29.3" fill="#FFFFFF" width="6" height="6"/>
+	<polygon fill="#FFFFFF" points="40.4,35.3 34.4,33.8 34.4,29.3 40.4,29.3 	"/>
 	<polygon points="46.4,23.3 40.4,23.3 40.4,18.6 46.4,20 	"/>
 	<rect x="40.4" y="23.3" fill="#FFFFFF" width="6" height="6"/>
 	<rect x="40.4" y="29.3" width="6" height="6"/>

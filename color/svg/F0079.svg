@@ -2,17 +2,21 @@
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Ebene_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xDB80__xDC79__1_">
-	<path fill="#D0CFCE" d="M12.1,59.9c0.7,0.7,1.6,1.1,2.6,1.1h42.5c2.1,0,3.8-1.7,3.8-3.8V14.7c0-1-0.4-2-1.1-2.7L12.1,59.9z"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M58,61H14c-1.7,0-3-1.3-3-3V14c0-1.7,1.3-3,3-3h44c1.7,0,3,1.3,3,3v44C61,59.7,59.7,61,58,61z"/>
-	<path fill="#D0CFCE" d="M25.4,46.6C22.7,43.9,21,40.1,21,36v0c0-8.3,6.7-15,15-15h0c4.1,0,7.9,1.7,10.6,4.4L25.4,46.6z"/>
-	
-		<path fill="#D0CFCE" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M46.6,25.4C49.3,28.1,51,31.9,51,36v0c0,8.3-6.7,15-15,15h0c-4.1,0-7.9-1.7-10.6-4.4"/>
-	<circle fill="#1D1D1B" cx="29.8" cy="36" r="3.8"/>
-	<circle fill="#1D1D1B" cx="42.2" cy="36" r="3.8"/>
-	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36" r="15"/>
+<g id="_xDB80__xDC79__2_">
+	<path fill="#FFFFFF" d="M57,61.1H14.9c-2.2,0-3.9-1.8-3.9-3.9V15c0-2.2,1.8-3.9,3.9-3.9H57c2.2,0,3.9,1.8,3.9,3.9v42.2
+		C61,59.3,59.2,61.1,57,61.1z"/>
+	<g id="_xDB80__xDC79__1_">
+		<path fill="#D0CFCE" d="M12.1,59.9c0.7,0.7,1.6,1.1,2.6,1.1h42.5c2.1,0,3.8-1.7,3.8-3.8V14.7c0-1-0.4-2-1.1-2.7L12.1,59.9z"/>
+		<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M58,61H14c-1.7,0-3-1.3-3-3V14c0-1.7,1.3-3,3-3h44c1.7,0,3,1.3,3,3v44C61,59.7,59.7,61,58,61z"/>
+		<path fill="#D0CFCE" d="M25.4,46.6C22.7,43.9,21,40.1,21,36v0c0-8.3,6.7-15,15-15h0c4.1,0,7.9,1.7,10.6,4.4L25.4,46.6z"/>
+		
+			<path fill="#D0CFCE" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M46.6,25.4C49.3,28.1,51,31.9,51,36v0c0,8.3-6.7,15-15,15h0c-4.1,0-7.9-1.7-10.6-4.4"/>
+		<circle fill="#1D1D1B" cx="29.8" cy="36" r="3.8"/>
+		<circle fill="#1D1D1B" cx="42.2" cy="36" r="3.8"/>
+		
+			<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36" r="15"/>
+	</g>
 </g>
 </svg>

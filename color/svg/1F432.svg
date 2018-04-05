@@ -4,9 +4,9 @@
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xD83D__xDC32_">
 	
-		<path fill="#5C9E31" stroke="#5C9E31" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M22,38c0,0-4,0-7-5c0,0,3,1,6-1c0,0-5-3-7-7l7,2c0,0-4-2-3-11c0,0,1,4,5,5c0,0,4-6,10-6l3-4l3,4c0,0,6,0,10,6c0,0,3-1,5-5
-		c0,0,2,6-2,11l7-3c0,0,0,5-8,9c0,0,2,1,7,0c0,0-1,5-8,5"/>
+		<path fill="#5C9E31" stroke="#5C9E31" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M51,33c8-4,8-9,8-9l-7,3c4-5,2-11,2-11c-2,4-5,5-5,5c-4-6-10-6-10-6l-3-4l-3,4c-6,0-10,6-10,6c-4-1-5-5-5-5c-1,9,3,11,3,11l-7-2
+		c2,4,7,7,7,7c-3,2-6,1-6,1c3,5,7,5,7,5h28c7,0,8-5,8-5C53,34,51,33,51,33z"/>
 	
 		<path fill="#B1CC33" stroke="#B1CC33" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M26,38c0,0,0-1,4.1-0.9c0,0,5.9-4,11.9,0c0,0,4.1,0.9,4.1,2.9c0,0,4,3,1.9,6c0,0,0,4-5.9,7.9c0,0-4,2-11.9,0c0,0-7.3-6.1-6.1-10.9

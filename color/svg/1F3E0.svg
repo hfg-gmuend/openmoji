@@ -2,18 +2,21 @@
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83C__xDFE0__xFE0F_">
-	
-		<rect x="25" y="40" fill="#A57939" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="9" height="16"/>
-	
-		<rect x="40" y="40" fill="#92D3F5" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="8" height="7"/>
-	
-		<polygon fill="#EA5A47" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		53,32 19,32 19,31 35,15 53,31 	"/>
-	
-		<rect x="19" y="32" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="34" height="24"/>
-	
-		<polygon fill="#EA5A47" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		29,21 24,26 24,17 29,17 	"/>
+<g id="_xD83C__xDFE0__xFE0F__2_">
+	<rect x="19" y="32" fill="#FFFFFF" width="34" height="24"/>
+	<g id="_xD83C__xDFE0__xFE0F_">
+		
+			<rect x="25" y="40" fill="#A57939" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="9" height="16"/>
+		
+			<rect x="40" y="40" fill="#92D3F5" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="8" height="7"/>
+		
+			<polygon fill="#EA5A47" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			53,32 19,32 19,31 35,15 53,31 		"/>
+		
+			<rect x="19" y="32" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="34" height="24"/>
+		
+			<polygon fill="#EA5A47" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			29,21 24,26 24,17 29,17 		"/>
+	</g>
 </g>
 </svg>

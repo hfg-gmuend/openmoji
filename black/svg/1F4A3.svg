@@ -4,9 +4,10 @@
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xD83D__xDCA3__xFE0F_">
 	
-		<rect x="40.7" y="18" transform="matrix(0.7071 0.7071 -0.7071 0.7071 30.8223 -27.4117)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15.6" height="11"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		41.5,19.5 46.9,14.1 57.9,25.1 52.5,30.5 	"/>
 	
-		<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="31.8" cy="40.4" r="23"/>
+		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="31.8" cy="40.4" r="23"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="55.8" y1="16.2" x2="64.2" y2="7.8"/>
 </g>

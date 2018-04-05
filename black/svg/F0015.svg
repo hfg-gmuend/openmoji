@@ -6,7 +6,7 @@
 	
 		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36" r="24"/>
 	
-		<polyline fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		33.2,33.2 24,48 38.8,38.8 	"/>
 	<polyline points="33.2,33.2 48,24 38.8,38.8 	"/>
 	

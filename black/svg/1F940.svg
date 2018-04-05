@@ -3,10 +3,10 @@
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xD83E__xDD40__1_">
-	<path fill="none" stroke="#BAB63E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M23.1,31.6"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M23.1,31.6"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M55.2,36.8c2.2-1,3.1-4.6,1.8-6.7c-1.3-2.1-4.8-4.2-7-3.2"/>
-	<path fill="none" stroke="#1E1E1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M38.5,31.2c1.7-1.7,3.9-2.6,6.2-2.6c2.2,0,4.5,0.9,6.2,2.6"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M43,42.5c-4.3,3.4-9.1,0.1-9.9-1.9c-1.3-3.3-0.4-7.8,2.1-9.2"/>
@@ -25,7 +25,7 @@
 		M50,26.8c-1.2-4.1-5.6-6.5-9.7-5.2s-6.5,5.6-5.2,9.7"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M10.4,37.4
 		c1.5-3.2,5.7-4.4,5.7-4.4s1.6,4,0.1,7.2s-5.7,4.4-5.7,4.4S8.8,40.6,10.4,37.4z"/>
-	<path fill="none" stroke="#191918" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M40.4,17.1
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M40.4,17.1
 		c-2.6-6.4-10-9.4-16.3-6.8s-9.4,10-6.8,16.3c0,0,10.7,22.2,9.7,32.2"/>
 </g>
 </svg>

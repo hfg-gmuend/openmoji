@@ -3,10 +3,12 @@
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xD83D__xDCF4__1_">
+	<rect x="45.1" y="25" fill="#9A9B99" width="3" height="26"/>
 	
 		<path fill="#9A9B99" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M47.1,46.3v12.9c0,0.5-0.4,0.8-0.8,0.8H18.7c-0.5,0-0.8-0.4-0.8-0.8V12.4c0-0.5,0.4-0.8,0.8-0.8h27.6c0.5,0,0.8,0.4,0.8,0.8v14.1"
 		/>
+	<rect x="41.2" y="25" fill="#CFCECD" width="3" height="26"/>
 	
 		<path fill="#CFCECD" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M43.4,46.3V51c0,0.4-0.4,0.8-0.8,0.8H22.4c-0.4,0-0.8-0.4-0.8-0.8V17.5c0-0.4,0.4-0.8,0.8-0.8h20.1c0.4,0,0.8,0.4,0.8,0.8v8.9"/>

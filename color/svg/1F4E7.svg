@@ -9,14 +9,14 @@
 	<rect x="21.2" y="19.9" fill="#CFCFCF" width="28.5" height="3.1"/>
 	
 		<path fill="#9B9B9B" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M60.7,22v26.6c0,0.9-0.2,1.6-0.5,2.3L44.7,36.7L60.7,22z"/>
+		M60.7,22v26.6c0,0.9-0.2,1.6-0.5,2.3L47.8,39.6l-1.6,1.2l-2.4-3.2L60.7,22z"/>
 	
 		<line fill="#CFCFCF" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="11.4" y1="21.6" x2="11.3" y2="21.6"/>
 	
 		<path fill="#CFCFCF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M26.6,36.8l4.5,4.1c0.2,0.2,0.5,0.4,0.7,0.6c2.4,1.8,5.3,1.8,7.7,0c0.2-0.2,0.5-0.4,0.7-0.6l4.5-4.2"/>
 	
-		<path fill="#CFCFCF" stroke="#CFCFCF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		<path fill="#CFCFCF" stroke="#CFCFCF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M26.6,36.8l4.5,4.1c0.2,0.2,0.5,0.4,0.7,0.6c2.4,1.8,5.3,1.8,7.7,0c0.2-0.2,0.5-0.4,0.7-0.6l4.5-4.2l15.4,14.1
 		c-0.4,0.8-1.1,1.3-1.8,1.3H13.1c-0.7,0-1.3-0.5-1.8-1.2L26.6,36.8"/>
 	

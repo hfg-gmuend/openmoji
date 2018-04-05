@@ -3,9 +3,9 @@
 <svg version="1.1" id="Ebene_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xDB80__xDC5F_">
-	<path fill="#D0CFCE" d="M33,58h-3c-0.6,0-1-0.4-1-1V37c0-0.6,0.4-1,1-1h3c0.6,0,1,0.4,1,1v20C34,57.6,33.6,58,33,58z"/>
-	<path fill="#9A9B99" d="M38.3,35.4c1.7-2.9,0.7-6.5-2.2-8.2c-2.9-1.7-6.5-0.7-8.2,2.2c-1.7,2.9-0.7,6.5,2.2,8.2
-		S36.6,38.3,38.3,35.4"/>
+	<path fill="#D0CFCE" d="M33.1,58h-3c-0.6,0-1-0.4-1-1V37c0-0.6,0.4-1,1-1h3c0.6,0,1,0.4,1,1v20C34.1,57.6,33.6,58,33.1,58z"/>
+	<path fill="#9A9B99" d="M38.4,35.4c1.7-2.9,0.7-6.5-2.2-8.2c-2.9-1.7-6.5-0.7-8.2,2.2c-1.7,2.9-0.7,6.5,2.2,8.2
+		S36.7,38.3,38.4,35.4"/>
 	<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -6.5298 62.8599)" fill="#D22F27" cx="51.2" cy="37.1" rx="3" ry="3"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="30" y1="36.4" x2="30" y2="57"/>

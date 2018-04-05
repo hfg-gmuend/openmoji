@@ -2,42 +2,46 @@
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDECB__xFE0F__1_">
-	<polygon opacity="0.4" fill="#92D3F5" points="12.5,36.9 12.5,28.5 51.5,28.5 51.5,36.8 54.2,33.9 58.2,33.9 58.2,55.3 53.3,55.3 
-		11.2,55.3 5.5,55.3 5.5,33.9 9.4,33.9 	"/>
-	<rect x="10.9" y="50" fill="#61B2E4" width="41.9" height="5.3"/>
-	
-		<rect x="45.9" y="43.3" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 101.2291 -11.3258)" fill="#61B2E4" width="20.7" height="3.3"/>
-	
-		<rect x="-3.2" y="43.2" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 52.1301 37.7731)" fill="#61B2E4" width="20.7" height="3.4"/>
-	<path fill="#61B2E4" d="M11.1,49.5H9.2c-0.3,0-0.5-0.3-0.5-0.7V35.5c0-0.5,0.5-0.9,0.8-0.5l1.9,1.8c0.1,0.1,0.2,0.3,0.2,0.5v11.6
-		C11.6,49.2,11.4,49.5,11.1,49.5z"/>
-	<path fill="#61B2E4" d="M52.7,49.5h1.7c0.3,0,0.5-0.3,0.5-0.7V35.5c0-0.5-0.4-0.9-0.7-0.5l-1.7,1.8c-0.1,0.1-0.2,0.3-0.2,0.5v11.6
-		C52.2,49.2,52.4,49.5,52.7,49.5z"/>
-	<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="12.5,36.9 
-		12.5,28.5 32.1,28.5 51.5,28.5 51.5,36.8 54.2,33.9 58.2,33.9 58.2,55.3 53.3,55.3 11.2,55.3 5.5,55.3 5.5,33.9 9.4,33.9 	"/>
-	<polyline fill="#A57939" points="52.7,57.6 52.7,62.5 56.2,62.5 56.2,57.6 	"/>
-	<polyline fill="#A57939" points="7.4,57.6 7.4,62.5 10.9,62.5 10.9,57.6 	"/>
-	
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		7.4,58.6 7.4,62.5 10.9,62.5 10.9,58.6 	"/>
-	
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		52.7,58.6 52.7,62.5 56.2,62.5 56.2,58.6 	"/>
-	<path opacity="0.4" fill="#FCEA2B" d="M34.5,9.5V18c0,0,6.3,3.4,12.6,0V9.5C47,9.5,40.7,5.8,34.5,9.5z"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M34.5,9.5V18c0,0,6.3,3.4,12.6,0V9.5C47,9.5,40.7,5.8,34.5,9.5z"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="31.8,28.5 
-		12.6,28.5 12.6,44.4 51.5,44.4 	"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="53.6,54.6 
-		53.6,49.5 51.5,49.5 51.5,44.4 51.5,36.8 	"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="12.6,44.4 
-		12.6,49.5 9.9,49.5 9.9,54.6 	"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="12.6" y1="49.5" x2="51.5" y2="49.5"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M47,13.7c0,0,15.2-2.8,15.6,19.7c0.1,5.9,0,23.4,0,23.4"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="58.8" y1="59.6" x2="66.4" y2="59.6"/>
+<g id="_xD83D__xDECB__xFE0F__2_">
+	<rect x="6.6" y="55.6" fill="#A57939" width="5" height="7.1"/>
+	<rect x="51.8" y="55.6" fill="#A57939" width="5" height="7.1"/>
+	<g id="_xD83D__xDECB__xFE0F__1_">
+		<polygon fill="#92D3F5" points="12.5,36.9 12.5,28.5 51.5,28.5 51.5,36.8 54.2,33.9 58.2,33.9 58.2,55.3 53.3,55.3 11.2,55.3 
+			5.5,55.3 5.5,33.9 9.4,33.9 		"/>
+		<rect x="10.9" y="50" fill="#61B2E4" width="41.9" height="5.3"/>
+		
+			<rect x="45.9" y="43.3" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 101.2291 -11.3258)" fill="#61B2E4" width="20.7" height="3.3"/>
+		
+			<rect x="-3.2" y="43.2" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 52.1301 37.7731)" fill="#61B2E4" width="20.7" height="3.4"/>
+		<path fill="#61B2E4" d="M11.1,49.5H9.2c-0.3,0-0.5-0.3-0.5-0.7V35.5c0-0.5,0.5-0.9,0.8-0.5l1.9,1.8c0.1,0.1,0.2,0.3,0.2,0.5v11.6
+			C11.6,49.2,11.4,49.5,11.1,49.5z"/>
+		<path fill="#61B2E4" d="M52.7,49.5h1.7c0.3,0,0.5-0.3,0.5-0.7V35.5c0-0.5-0.4-0.9-0.7-0.5l-1.7,1.8c-0.1,0.1-0.2,0.3-0.2,0.5v11.6
+			C52.2,49.2,52.4,49.5,52.7,49.5z"/>
+		<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="12.5,36.9 
+			12.5,28.5 32.1,28.5 51.5,28.5 51.5,36.8 54.2,33.9 58.2,33.9 58.2,55.3 53.3,55.3 11.2,55.3 5.5,55.3 5.5,33.9 9.4,33.9 		"/>
+		<polyline fill="#A57939" points="52.7,57.6 52.7,62.5 56.2,62.5 56.2,57.6 		"/>
+		<polyline fill="#A57939" points="7.4,57.6 7.4,62.5 10.9,62.5 10.9,57.6 		"/>
+		
+			<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			7.4,58.6 7.4,62.5 10.9,62.5 10.9,58.6 		"/>
+		
+			<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			52.7,58.6 52.7,62.5 56.2,62.5 56.2,58.6 		"/>
+		<path fill="#FCEA2B" d="M34.5,9.5V18c0,0,6.3,3.4,12.6,0V9.5C47,9.5,40.7,5.8,34.5,9.5z"/>
+		<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M34.5,9.5V18c0,0,6.3,3.4,12.6,0V9.5C47,9.5,40.7,5.8,34.5,9.5z"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="31.8,28.5 
+			12.6,28.5 12.6,44.4 51.5,44.4 		"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="53.6,54.6 
+			53.6,49.5 51.5,49.5 51.5,44.4 51.5,36.8 		"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="12.6,44.4 
+			12.6,49.5 9.9,49.5 9.9,54.6 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="12.6" y1="49.5" x2="51.5" y2="49.5"/>
+		<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M47,13.7c0,0,15.2-2.8,15.6,19.7c0.1,5.9,0,23.4,0,23.4"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="58.8" y1="59.6" x2="66.4" y2="59.6"/>
+	</g>
 </g>
 </svg>

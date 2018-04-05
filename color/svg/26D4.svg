@@ -5,9 +5,9 @@
 <g id="_x26D4__xFE0F__1_">
 	
 		<path fill="#E95947" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M36,7C20,7,7,20,7,36c0,16,13,29,29,29s29-13,29-29C65,20,52,7,36,7z"/>
+		M36,11c-13.8,0-25,11.2-25,25c0,13.8,11.2,25,25,25c13.8,0,25-11.2,25-25C61,22.2,49.8,11,36,11z"/>
 	
 		<path fill="#FFFFFF" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M58.6,40c0.2-1.3,0.4-2.6,0.4-4c0-1.4-0.1-2.7-0.3-4H13.3c-0.2,1.3-0.3,2.6-0.3,4c0,1.4,0.1,2.7,0.4,4H58.6z"/>
+		M55.5,39.4c0.2-1.1,0.3-2.3,0.3-3.5c0-1.2-0.1-2.3-0.3-3.4H16.5c-0.2,1.1-0.3,2.3-0.3,3.4c0,1.2,0.1,2.3,0.3,3.5H55.5z"/>
 </g>
 </svg>

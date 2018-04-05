@@ -4,9 +4,9 @@
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xD83C__xDF45__1_">
 	
-		<ellipse fill="#EA5A47" stroke="#EA5A47" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.8" cy="37.6" rx="25" ry="22.4"/>
-	<path fill="#D22F27" stroke="#D22F27" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M60.8,37.6
-		C60.8,50,49.6,60,35.8,60c17.4-4.1,32-32.9,0-44.8C49.6,15.2,60.8,25.2,60.8,37.6z"/>
+		<ellipse fill="#EA5A47" stroke="#EA5A47" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.8" cy="37.6" rx="25" ry="22.4"/>
+	<path fill="#D22F27" stroke="#D22F27" stroke-width="1.8" stroke-linejoin="round" stroke-miterlimit="10" d="M60.5,37.6
+		C60.5,50,49.6,60,35.8,60c17.4-4.1,32-32.9,0-44.8c5.1,0,9.8,1.4,13.8,3.7C56.4,22.9,60.5,29.8,60.5,37.6z"/>
 	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M50.3,19.3c6.4,4.1,10.5,10.7,10.5,18.3C60.8,50,49.6,60,35.8,60s-25-10-25-22.4c0-7.4,4-13.9,10.1-18"/>
 	<path fill="#5C9E31" stroke="#1D1D1B" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M46.3,15.8

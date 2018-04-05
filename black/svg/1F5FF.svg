@@ -12,7 +12,7 @@
 	
 		<line fill="#1D1D1B" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="22.7" y1="44.8" x2="28.2" y2="44.8"/>
 	
-		<polyline fill="#D9D9D9" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		41.1,31.6 41.1,44.8 42.8,44.8 	"/>
 	
 		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="

@@ -7,7 +7,7 @@
 		<circle fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="30.3" cy="13.7" r="10.6"/>
 	<g>
 		<g>
-			<path fill="#FDE239" d="M54.6,48.8c0,12-7.2,18.4-16.2,18.4s-16.6,2.2-16.6-31.2"/>
+			<path fill="#FDE239" d="M54.6,48.8c0,12-7.2,18.4-16.2,18.4c-10.1-1.8-18.5-4.1-16.6-31.2"/>
 			<line fill="#FDE239" x1="54.8" y1="49.9" x2="54.8" y2="37.9"/>
 			<path fill="#FDE239" d="M47.8,37.6c0.1-1.9,1.7-3.4,3.6-3.4s3.4,1.7,3.4,3.6"/>
 			<path fill="#FDE239" d="M40.8,37.4c0.1-1.9,1.7-3.4,3.6-3.4s3.4,1.7,3.4,3.6"/>
@@ -77,7 +77,7 @@
 		
 			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="16.8" y1="39.1" x2="18.7" y2="41.5"/>
 	</g>
-	<path fill="none" stroke="#333833" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M54.8,50.8c0,9.1-7.4,16.5-16.5,16.5s-16.5-7.4-16.5-16.5"/>
 </g>
 </svg>

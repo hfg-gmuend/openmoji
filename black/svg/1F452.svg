@@ -10,7 +10,7 @@
 	
 		<line fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="4" y1="50.8" x2="68" y2="50.8"/>
 	
-		<polygon fill="#FFFFFF" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		<polygon fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		62.1,46.1 46.6,38.4 31.1,46.1 31.1,30.7 46.6,38.4 62.1,30.7 	"/>
 </g>
 </svg>

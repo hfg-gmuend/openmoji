@@ -7,12 +7,12 @@
 	<path fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M30,43c1.3-0.6,4-1,6.8-1c2.6,0,5,0.4,6.2,1"/>
 	
-		<line fill="none" stroke="#1D1E1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="48" y1="29" x2="43" y2="33"/>
+		<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="48" y1="29" x2="43" y2="33"/>
 	
-		<line fill="none" stroke="#1D1E1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="43" y1="29" x2="48" y2="33"/>
+		<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="43" y1="29" x2="48" y2="33"/>
 	
-		<line fill="none" stroke="#1D1E1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="30" y1="29" x2="25" y2="33"/>
+		<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="30" y1="29" x2="25" y2="33"/>
 	
-		<line fill="none" stroke="#1D1E1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="25" y1="29" x2="30" y2="33"/>
+		<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="25" y1="29" x2="30" y2="33"/>
 </g>
 </svg>

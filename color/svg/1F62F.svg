@@ -24,7 +24,7 @@
 	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M49.9,27.3c-1.6-2.8-4.8-4.2-7.9-3.4"/>
 	
-		<circle fill="none" stroke="#1D1E1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35" cy="36.1" r="23"/>
+		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35" cy="36.1" r="23"/>
 	<circle cx="43.2" cy="36" r="2.6"/>
 	<circle cx="25.9" cy="36" r="2.6"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="

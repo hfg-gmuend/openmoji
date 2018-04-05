@@ -11,7 +11,7 @@
 		M23.3,32.3c0,0,3.4-2.9,7.8-1.5"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M48.8,32.3c0,0-3.4-2.9-7.8-1.5"/>
-	<circle fill="none" stroke="#FCEA2B" stroke-width="2" stroke-miterlimit="10" cx="36.1" cy="36.3" r="23"/>
+	<circle fill="none" stroke="#FCEA2B" stroke-width="1.8" stroke-miterlimit="10" cx="36.1" cy="36.3" r="23"/>
 	<polygon fill="#FFFFFF" points="13.4,34.6 13.4,37.7 16.3,39.9 21.2,43.4 23.9,44.9 24.8,44.9 24.8,43.1 24.8,42.2 22.6,40.9 	"/>
 	
 		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="

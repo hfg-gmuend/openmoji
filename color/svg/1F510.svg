@@ -26,7 +26,6 @@
 	
 		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		56,36 56.3,56.5 51.7,61 47,56.3 49.9,53.3 46.6,50.1 50.3,46.4 47.1,43.2 47.1,40.2 49.9,37.4 48.6,36.2 	"/>
-	<line fill="#E27022" x1="53.5" y1="35.2" x2="53.5" y2="56"/>
 	<polygon fill="#E27022" points="53.5,57.1 54.7,55.9 54.5,36.1 53.3,36.1 	"/>
 	<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 2.2893 41.7451)" fill="#E27022" cx="51.5" cy="18.1" rx="3.5" ry="3.5"/>
 	

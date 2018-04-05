@@ -2,15 +2,27 @@
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDD02_">
-	<path fill="#D0CECE" stroke="#1D1D1B" stroke-width="2" stroke-miterlimit="10" d="M43.6,28.2c-0.3,0.3-0.5,0.7-0.5,1.2
-		c0,0.4,0.1,0.9,0.4,1.2l1.5,1.7c0.3,0.4,0.8,0.5,1.2,0.5c0.4,0,0.8-0.1,1.1-0.4l10.7-9.8c0.3-0.3,0.5-0.8,0.5-1.2
-		c0-0.5-0.2-0.9-0.5-1.2l-10.7-9.8c-0.7-0.6-1.7-0.6-2.3,0.1l-1.5,1.7c-0.3,0.3-0.5,0.8-0.4,1.2c0,0.4,0.2,0.9,0.5,1.2l4.2,3.8H25.1
-		C14,18.2,5,27.2,5,38.2v1.1c0,2.3,0.4,4.6,1.2,6.8c0.1,0.3,0.4,0.6,0.7,0.6c0.1,0,0.2,0,0.3,0c0.2,0,0.5-0.1,0.7-0.3l3.4-3
-		c0.3-0.3,0.4-0.7,0.3-1c-0.3-1.1-0.4-2.2-0.4-3.2v-1.1c0-7.6,6.2-13.8,13.9-13.8h22.7L43.6,28.2z"/>
-	<polygon fill="#1D1D1B" points="13.9,50.4 13.9,53 16.6,50.7 16.6,61.4 19.1,61.4 19.1,48 16.6,48 	"/>
-	<path fill="#D0CECE" stroke="#1D1D1B" stroke-width="2" stroke-miterlimit="10" d="M63.5,27.5c-0.2-0.3-0.5-0.4-0.8-0.4
-		c-0.3,0-0.6,0.1-0.8,0.3l-3,3c-0.3,0.3-0.4,0.9-0.1,1.3c1.3,2.2,2,4.6,2,7.2v1.1c0,7.6-6.2,13.8-13.9,13.8H28c-0.6,0-1,0.5-1,1v4.1
-		c0,0.6,0.5,1,1,1h18.8c11.1,0,20.1-9,20.1-20v-1.1C67,34.7,65.8,30.8,63.5,27.5z"/>
+<g id="_xD83D__xDD02__4_">
+	<g id="_xD83D__xDD02__3_">
+		<g>
+			<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M10.6,43.2c-0.4-1.4-0.6-2.9-0.6-4.4v-1.1c0-9.5,7.6-17.1,16.9-17.1h30.9"/>
+		</g>
+		<g>
+			<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M14,51.4"/>
+			<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M60.5,26c1,2.2,1.5,4.6,1.5,7.1v1.1c0,9.5-7.6,17.2-17,17.2H28.6"/>
+		</g>
+	</g>
+	<g>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="57.8" y1="20.5" x2="49.6" y2="12.3"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="49.6" y1="28.7" x2="57.8" y2="20.5"/>
+	</g>
+	
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		16.6,46.5 19.6,44.2 19.6,55 	"/>
 </g>
 </svg>

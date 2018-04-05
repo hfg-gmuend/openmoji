@@ -9,8 +9,7 @@
 		M27.8,17.2c1.8-2.5,4.8-4.2,8.1-4.2c3.3,0,6.3,1.6,8.1,4.2"/>
 	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M32.9,19.1c0.8-0.7,1.9-1.1,3.1-1.1c1.2,0,2.2,0.4,3.1,1.1"/>
-	
-		<path fill="#FFFFFF" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M7,36c0,16,13,29,29,29s29-13,29-29H7z"/>
 	<g>
 		<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="

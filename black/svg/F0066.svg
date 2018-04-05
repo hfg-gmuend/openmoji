@@ -5,12 +5,18 @@
 <g id="_xDB80__xDC66__1_">
 	
 		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		56,39.3 56,56 16,56 16,16 56,16 56,32.7 	"/>
+		16,28.2 16,16 56,16 56,32.7 	"/>
 	
 		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		52,39 52,52 20,52 20,20 52,20 52,33 	"/>
+		56,39.3 56,56 16,56 16,43.8 	"/>
 	
-		<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="18" cy="36" r="8"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		20,28.2 20,20 52,20 52,33 	"/>
+	
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		52,39 52,52 20,52 20,43.8 	"/>
+	
+		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="18" cy="36" r="8"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="23.7" y1="30.3" x2="12.3" y2="41.7"/>
 	

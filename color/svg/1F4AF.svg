@@ -2,27 +2,20 @@
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDCAF_">
+<g id="_xD83D__xDCAF__1_">
+	
+		<line fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="59.2" y1="46.1" x2="13.2" y2="46.1"/>
+	
+		<line fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="59.2" y1="54.1" x2="13.2" y2="54.1"/>
 	<g>
-		<g>
-			<g>
-				<path fill="#D22F27" d="M16.1,40.3V19.6L11,24.2v-5.1l5.1-4.6h4.6v25.8H16.1z"/>
-			</g>
-			<g>
-				<path fill="#D22F27" d="M34.1,40.6c-4.1,0-7.7-2.8-7.7-7.7V22c0-4.9,3.6-7.7,7.7-7.7c4.1,0,7.7,2.7,7.7,7.7v10.9
-					C41.7,37.8,38.2,40.6,34.1,40.6z M37.1,22.1c0-2.2-1.2-3.5-3.1-3.5c-1.8,0-3.1,1.3-3.1,3.5v10.7c0,2.2,1.2,3.5,3.1,3.5
-					c1.8,0,3.1-1.3,3.1-3.5V22.1z"/>
-			</g>
-			<g>
-				<path fill="#D22F27" d="M53.3,40.6c-4.1,0-7.7-2.8-7.7-7.7V22c0-4.9,3.6-7.7,7.7-7.7c4.1,0,7.7,2.7,7.7,7.7v10.9
-					C61,37.8,57.5,40.6,53.3,40.6z M56.4,22.1c0-2.2-1.2-3.5-3.1-3.5c-1.8,0-3.1,1.3-3.1,3.5v10.7c0,2.2,1.2,3.5,3.1,3.5
-					c1.8,0,3.1-1.3,3.1-3.5V22.1z"/>
-			</g>
-		</g>
+		<path fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M33,37L33,37c-3.5,0-6.3-2.8-6.3-6.3V20.3c0-3.5,2.8-6.3,6.3-6.3l0,0c3.5,0,6.3,2.8,6.3,6.3v10.4C39.3,34.2,36.5,37,33,37z"/>
+		<path fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M52.9,37L52.9,37c-3.5,0-6.3-2.8-6.3-6.3V20.3c0-3.5,2.8-6.3,6.3-6.3l0,0c3.5,0,6.3,2.8,6.3,6.3v10.4C59.2,34.2,56.4,37,52.9,37z"
+			/>
+		
+			<polyline fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			13,18.9 19.3,14.1 19.3,37.1 		"/>
 	</g>
-	
-		<line fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="59" y1="47" x2="13" y2="47"/>
-	
-		<line fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="59" y1="55" x2="13" y2="55"/>
 </g>
 </svg>

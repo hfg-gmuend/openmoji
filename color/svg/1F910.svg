@@ -12,11 +12,9 @@
 		<clipPath id="SVGID_2_">
 			<use xlink:href="#SVGID_1_"  overflow="visible"/>
 		</clipPath>
-		
-			<rect x="8.5" y="9" transform="matrix(3.749220e-03 -1 1 3.749220e-03 -0.2227 71.2817)" clip-path="url(#SVGID_2_)" fill="#FCEA2B" width="54.3" height="53.6"/>
 	</g>
 	
-		<ellipse transform="matrix(3.749220e-03 -1 1 3.749220e-03 -0.5877 70.9126)" fill="none" stroke="#FCEA2B" stroke-width="2" stroke-miterlimit="10" cx="35.3" cy="35.8" rx="22.3" ry="22.3"/>
+		<ellipse transform="matrix(3.749220e-03 -1 1 3.749220e-03 -0.5877 70.9126)" fill="none" stroke="#FCEA2B" stroke-width="1.8" stroke-miterlimit="10" cx="35.3" cy="35.8" rx="22.3" ry="22.3"/>
 	<ellipse transform="matrix(3.749220e-03 -1 1 3.749220e-03 11.1934 75.0064)" cx="43.2" cy="31.9" rx="2.5" ry="2.5"/>
 	<ellipse transform="matrix(3.749220e-03 -1 1 3.749220e-03 -5.406 58.2193)" cx="26.5" cy="31.8" rx="2.5" ry="2.5"/>
 	

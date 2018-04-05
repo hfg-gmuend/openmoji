@@ -14,10 +14,10 @@
 		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		43.5,23 46.5,23 46.5,26 	"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M29.2,39.3"/>
-	<polyline fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="22.5,54 
+	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="22.5,54 
 		22.5,46.8 17.5,42 	"/>
 	
-		<line fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="23" y1="46.7" x2="25.9" y2="43.8"/>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="23" y1="46.7" x2="25.9" y2="43.8"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M41,28.3c0-3.3-3.4-6-7.7-6
 		c-0.4,0-0.7,0-1.1,0.1c-1.8-3.5-5.7-5.9-10.2-5.9c-6.2,0-11.3,4.5-11.3,10.1c0,0.4,0,0.7,0.1,1.1C8,28.7,6,30.8,6,33.3
 		c0,3.3,3.4,6,7.7,6c1.6,0,3.2-0.4,4.6-1.2c1.8,1.5,4.7,2.4,8,2.4c5.5,0,10-2.7,10-6c0-0.2,0-0.4-0.1-0.7C39,33,41,30.8,41,28.3z"/>

@@ -3,15 +3,15 @@
 <svg version="1.1" id="Ebene_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xDB80__xDC5F__1_">
-	<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -6.5298 62.8599)" cx="51.2" cy="37.1" rx="3" ry="3"/>
+	<path d="M52.7,34.5c1.4,0.8,1.9,2.7,1.1,4.1c-0.8,1.4-2.7,1.9-4.1,1.1L52.7,34.5z"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="30" y1="36.4" x2="30" y2="57"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="35" y1="37" x2="35" y2="57"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M28.8,29.9c-1.4,2.4-0.6,5.4,1.8,6.8c2.4,1.4,5.4,0.6,6.8-1.8c1.3-2.2,0.7-4.9-1.2-6.4"/>
+		M37.4,34.9c-0.6,1-1.4,1.7-2.4,2.1c-1.4,0.6-3,0.5-4.4-0.3c-2.4-1.4-3.2-4.4-1.9-6.8c0,0,0,0,0,0"/>
 	
-		<rect x="17.6" y="23.1" transform="matrix(0.866 0.5 -0.5 0.866 18.8099 -14.0298)" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="36" height="10"/>
+		<rect x="17.6" y="23.1" transform="matrix(0.866 0.5 -0.5 0.866 18.8099 -14.0298)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="36" height="10"/>
 	
 		<rect x="17.6" y="23.1" transform="matrix(0.866 0.5 -0.5 0.866 18.8099 -14.0298)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="36" height="10"/>
 </g>

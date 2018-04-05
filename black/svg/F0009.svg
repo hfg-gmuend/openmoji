@@ -4,9 +4,10 @@
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xDB80__xDC09_">
 	
-		<rect x="22.8" y="9.2" fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="32.1" height="47.8"/>
+		<polyline fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		51.1,57 55,57 55,9.2 22.8,9.2 22.8,13.1 	"/>
 	
-		<rect x="18.9" y="13.1" fill="#FFFFFF" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="32.1" height="47.8"/>
+		<rect x="18.9" y="13.1" fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="32.1" height="47.8"/>
 	
 		<polyline fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		51.1,60.9 18.9,60.9 18.9,14.1 	"/>

@@ -4,12 +4,12 @@
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xD83D__xDCEE_">
 	
-		<polyline fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		29,54 29,65 29,68 38,68 40,68 40,54 	"/>
+		<polyline fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		30,54.9 30,65.9 30,68.9 39,68.9 41,68.9 41,54.9 	"/>
 	<path fill="#EA5A47" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M53.8,13.5v39.6
 		c0,1.5-1.2,2.7-2.7,2.7H20.5c-1.5,0-2.7-1.2-2.7-2.7V13.5c0-1.5,1.2-2.7,2.7-2.7h30.6C52.6,10.8,53.8,12,53.8,13.5z"/>
-	<path fill="#D22F27" stroke="#D22F27" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M47.8,10.8h4.6
-		c0.7,0,1.2,1.2,1.2,2.7v39.6c-0.6,2.9-5.8,2.7-5.8,2.7"/>
+	<path fill="#D22F27" stroke="#D22F27" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M47.5,11.1h4.6
+		c0.7,0,1.2,1.2,1.2,2.7v39.6c-0.6,2.9-5.8,2-5.8,2"/>
 	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M53.8,13.5v39.6
 		c0,1.5-1.2,2.7-2.7,2.7H20.5c-1.5,0-2.7-1.2-2.7-2.7V13.5c0-1.5,1.2-2.7,2.7-2.7h30.6C52.6,10.8,53.8,12,53.8,13.5z"/>
 	<path fill="#3F3F3F" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M50.1,22.2v6.1

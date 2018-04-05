@@ -6,15 +6,15 @@
 	<rect x="20.3" y="22.6" fill="#CFCFCF" width="31.7" height="3.1"/>
 	
 		<path fill="#CFCFCF" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M26.7,39.4L11.4,53.6c-0.3-0.6-0.6-1.4-0.6-2.3V24.7L26.7,39.4z"/>
+		M28.2,40.8L24.9,44l-2.2-0.9L11.4,53.6c-0.3-0.6-0.6-1.4-0.6-2.3V24.7L28.2,40.8z"/>
 	
 		<path fill="#9B9B9B" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M60.8,24.7v26.6c0,0.9-0.2,1.6-0.5,2.3L44.8,39.4L60.8,24.7z"/>
+		M60.8,24.7v26.6c0,0.9-0.2,1.6-0.5,2.3L48.8,43l-1.5,0.2l-3.5-2.8l4-3.7L60.8,24.7z"/>
 	
 		<path fill="#CFCFCF" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M26.7,39.4l4.5,4.1c0.2,0.2,0.5,0.4,0.7,0.6c2.4,1.8,5.3,1.8,7.7,0c0.2-0.2,0.5-0.4,0.7-0.6l4.5-4.2"/>
 	
-		<path fill="#CFCFCF" stroke="#CFCFCF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		<path fill="#CFCFCF" stroke="#CFCFCF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M26.7,39.4l4.5,4.1c0.2,0.2,0.5,0.4,0.7,0.6c2.4,1.8,5.3,1.8,7.7,0c0.2-0.2,0.5-0.4,0.7-0.6l4.5-4.2l15.4,14.1
 		c-0.4,0.8-1.1,1.3-1.8,1.3H13.2c-0.7,0-1.3-0.5-1.8-1.2L26.7,39.4"/>
 	

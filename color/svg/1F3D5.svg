@@ -8,10 +8,10 @@
 		27,35 12.5,60 41.5,60 27,35 	"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M27,60"/>
-	<polyline fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="46.9,60 
+	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="46.9,60 
 		46.9,52.3 41.7,47.2 	"/>
 	
-		<line fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="47.5" y1="52.2" x2="50.5" y2="49.1"/>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="47.5" y1="52.2" x2="50.5" y2="49.1"/>
 	
 		<polyline fill="#F1B31C" stroke="#F1B31C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		27,44.2 27,60 12.5,60 27,35 	"/>

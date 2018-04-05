@@ -15,7 +15,7 @@
 		
 			<rect x="6.9" y="8.1" transform="matrix(0.9223 -0.3865 0.3865 0.9223 -11.2609 16.1339)" clip-path="url(#SVGID_2_)" fill="#FCEA2B" width="55.1" height="55.9"/>
 	</g>
-	<path fill="none" stroke="#FCEA2B" stroke-width="2" stroke-miterlimit="10" d="M43,57.4C54.7,52.5,60.2,39,55.3,27.3
+	<path fill="none" stroke="#FCEA2B" stroke-width="1.8" stroke-miterlimit="10" d="M43,57.4C54.7,52.5,60.2,39,55.3,27.3
 		C50.4,15.6,36.9,10.1,25.2,15C13.6,20,8.1,33.4,13,45.1C17.9,56.8,31.4,62.3,43,57.4z"/>
 	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M50.2,38.2"/>

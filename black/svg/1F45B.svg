@@ -3,8 +3,7 @@
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xD83D__xDC5B__1_">
-	
-		<path fill="#FFFFFF" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M36,27.9H18.3c0,10.9-7.3,14-7.3,21.1s11.2,12.3,25,12.3S61,56.1,61,49s-7.3-10.2-7.3-21.1H36z"/>
 	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M14.5,28.9v-4.5c0,0,11.7-1,21.5-1s21.5,1,21.5,1v4.5"/>

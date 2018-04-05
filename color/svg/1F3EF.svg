@@ -4,11 +4,11 @@
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
 <g id="_xD83C__xDFEF__1_">
 	
-		<rect x="17" y="50" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="38" height="10"/>
+		<rect x="17" y="50" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="38" height="10"/>
 	
-		<rect x="22" y="33" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="28" height="10"/>
+		<rect x="22" y="33" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="28" height="10"/>
 	
-		<rect x="27" y="16" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="18" height="10"/>
+		<rect x="27" y="16" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="18" height="10"/>
 	
 		<polygon fill="#3F3F3F" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		54,33 18,33 22,30 24,26 48,26 50,30 	"/>

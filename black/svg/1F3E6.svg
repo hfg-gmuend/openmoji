@@ -2,28 +2,41 @@
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83C__xDFE6_">
-	
-		<rect x="14" y="22" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="44" height="4"/>
-	
-		<rect x="19.5" y="26" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="3" height="34"/>
-	
-		<rect x="25.5" y="26" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="3" height="34"/>
-	
-		<rect x="43.5" y="26" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="3" height="34"/>
-	
-		<rect x="49.5" y="26" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="3" height="34"/>
-	
-		<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		36,12 19,21.7 53,21.7 	"/>
-	
-		<rect x="16" y="26" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="40" height="34"/>
-	
-		<rect x="31.5" y="50" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="9" height="10"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36" y1="60" x2="36" y2="50"/>
-	<rect x="34" y="32.4" fill="none" width="4.2" height="6.7"/>
-	<text transform="matrix(1 0 0 1 34.0062 37.3699)" font-family="'HKSuperRound-Bold'" font-size="7px">$</text>
-	<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="36" cy="35" r="5"/>
+<g id="_xD83C__xDFE6__2_">
+	<g id="_xD83C__xDFE6_">
+		
+			<rect x="14" y="22" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="44" height="4"/>
+		
+			<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			19.5,26 22.5,26 22.5,60 19.5,60 		"/>
+		
+			<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			25.5,26 27.9,26 27.9,60 25.5,60 		"/>
+		
+			<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			46.5,60 44.1,60 44.1,26 46.5,26 		"/>
+		
+			<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			52.5,60 49.5,60 49.5,26 52.5,26 		"/>
+		
+			<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			36,12 19,21.7 53,21.7 		"/>
+		
+			<rect x="16" y="26" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="40" height="34"/>
+		
+			<rect x="31.5" y="50" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="9" height="10"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36" y1="60" x2="36" y2="50"/>
+		<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="36" cy="35" r="5"/>
+	</g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M36.9,34.3
+			c-0.1-0.4-0.5-0.7-1-0.7h0c-0.6,0-1,0.4-1,0.8c0,0.5,0.5,0.8,1,0.8l0,0c0.6,0,1,0.4,1,0.8c0,0.5-0.5,0.8-1,0.8l0,0
+			c-0.5,0-0.9-0.3-1-0.7"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="35.9" y1="33.6" x2="35.9" y2="32.8"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="35.9" y1="37.7" x2="35.9" y2="36.9"/>
+	</g>
 </g>
 </svg>

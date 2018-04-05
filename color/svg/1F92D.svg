@@ -15,7 +15,7 @@
 	</g>
 	<path fill="none" stroke="#1F201E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M48.4,43.7"/>
-	<circle fill="none" stroke="#FCEA2B" stroke-width="2" stroke-miterlimit="10" cx="36.3" cy="33.8" r="23"/>
+	<circle fill="none" stroke="#FCEA2B" stroke-width="1.8" stroke-miterlimit="10" cx="36.3" cy="33.8" r="23"/>
 	<circle cx="27.5" cy="28.4" r="2.6"/>
 	<circle cx="44.7" cy="28.4" r="2.6"/>
 	<path fill="#FCEA2B" d="M35.6,66c0-0.6-0.5-2,0.1-6.5c0.3-1.7,2-2,3-4c3-6,1.8-8.3,4-14c1.1-2.9-1.6-3.7-3.1-0.6l2.1-4.4

@@ -18,7 +18,7 @@
 		</clipPath>
 		<rect x="8.5" y="8.8" clip-path="url(#SVGID_2_)" fill="#FCEA2B" width="55.2" height="56"/>
 	</g>
-	<circle fill="none" stroke="#FCEA2B" stroke-width="2" stroke-miterlimit="10" cx="35.8" cy="36.8" r="23"/>
+	<circle fill="none" stroke="#FCEA2B" stroke-width="1.8" stroke-miterlimit="10" cx="35.8" cy="36.8" r="23"/>
 	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M53,46.3"/>
 	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="

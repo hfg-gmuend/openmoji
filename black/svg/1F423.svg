@@ -10,15 +10,14 @@
 	<circle cx="30.9" cy="26.4" r="2.4"/>
 	<circle cx="40.4" cy="26.4" r="2.4"/>
 	
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="34.8" y1="15.9" x2="33.4" y2="9.8"/>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="34.8" y1="14.9" x2="33.4" y2="9.8"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36.8" y1="15.7" x2="36.8" y2="12.2"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="39" y1="15.9" x2="40.4" y2="9.8"/>
 	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M1.3,35.8"/>
-	
-		<path fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M61.7,38c0,14.4-11.7,26-26,26s-26-11.7-26-26l7.4,3.7l6.5-4.7l8.4,5.6l6.2-5.6l8.2,4.7l7-5.7L61.7,38z"/>
 </g>
 </svg>
