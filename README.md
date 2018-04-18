@@ -1,5 +1,21 @@
-# HfG Emoji Project
+OpenMoji
+========
 
-## Development Environment Setup (OS X)  
+Open-source emojis for designers, developers and everyone else! OpenMoji is an open-source project of the HfG Schwäbisch Gmünd (University of Applied Sciences).
 
-Install Node.js (8.0 or higher) using one of these methods: [Homebrew](http://brew.sh/) or [nvm](https://github.com/creationix/nvm) Node Version Manager or from download [Node.js](https://nodejs.org/en/) 
+This GitHub repository contains all of the source (currently .ai Adobe Illustrator) and exported png and svg files of the OpenMoji project.
+
+👉 [OpenMoji.org](http://openmoji.org/)
+
+Interact, create, save, and share your work! 🌈`#openmoji`
+
+## Contributing
+Pull requests are welcome! Please check and follow the [Styleguide](http://openmoji.org/styleguide.html) for new contributions.
+
+## Attribution Requirements
+As an open source project, attribution is critical from a legal, practical and motivational perspective. Please give us credits! Common places for attribution are for example: to mention us in your project README, the 'About' section or the footer on a website/in mobile apps.
+
+## License
+The emojis are licensed under the Creative Commons Share Alike 4.0 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)) license.
+
+
