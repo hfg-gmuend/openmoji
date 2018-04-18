@@ -1,26 +1,21 @@
 {
-  "name": "hfg-emoji-project",
-  "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "OpenMoji",
+  "version": "1.0.0",
+  "description": "Open-source emojis for designers, developers and everyone else!",
   "scripts": {
     "create-emoji-tables": "node lib/create-emoji-tables.js",
-    "create-catalog": "node lib/create-catalog.js",
-    "convert-svg_to_png": "node svg_to_png/pngRender1.js"
+    "create-catalog": "node lib/create-catalog.js"
   },
   "engines": {
     "node": ">=8.0.0"
   },
-  "author": "",
-  "license": "",
+  "repository": "https://github.com/hfg-gmuend/openmoji",
+  "license": "CC-BY-SA-4.0",
   "dependencies": {
     "csv-load-sync": "^1.0.0",
     "csv-write-stream": "^2.0.0",
     "emojibase-data": "^2.1.2",
     "fs-sync": "^1.0.4",
-    "lodash": "^4.17.4",
-    "pn": "^1.0.0",
-    "svg2png": "^4.1.1",
-    "svg2png-many": "0.0.7"
+    "lodash": "^4.17.4"
   }
 }
