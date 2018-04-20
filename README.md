@@ -1,6 +1,8 @@
 OpenMoji
 ========
 
+<img width="1157" alt="openmoji-github" src="https://user-images.githubusercontent.com/480224/39040408-7d21c018-4487-11e8-9aa9-c8ea64fc07f6.png">
+
 Open-source emojis for designers, developers and everyone else! OpenMoji is an open-source project of the HfG Schwäbisch Gmünd (University of Applied Sciences).
 
 This GitHub repository contains all of the source (currently .ai Adobe Illustrator) and exported png and svg files of the OpenMoji project.
