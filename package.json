@@ -4,7 +4,8 @@
   "description": "Open-source emojis for designers, developers and everyone else!",
   "scripts": {
     "create-emoji-tables": "node lib/create-emoji-tables.js",
-    "create-catalog": "node lib/create-catalog.js"
+    "create-catalog": "node lib/create-catalog.js",
+    "csv-to-json": "csvtojson data/openmoji.csv > data/openmoji.json"
   },
   "engines": {
     "node": ">=8.0.0"
@@ -14,6 +15,7 @@
   "dependencies": {
     "csv-load-sync": "^1.0.0",
     "csv-write-stream": "^2.0.0",
+    "csvtojson": "^1.1.9",
     "emojibase-data": "^2.1.2",
     "fs-sync": "^1.0.4",
     "lodash": "^4.17.4"
