@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Open-source emojis for designers, developers and everyone else!",
   "scripts": {
-    "create-emoji-tables": "node lib/create-emoji-tables.js",
-    "create-catalog": "node lib/create-catalog.js",
+    "create-emoji-tables": "node helpers/create-emoji-tables.js",
+    "create-catalog": "node helpers/create-catalog.js",
+    "create-sticker-pack-ios-sorted-list": "node helpers/create-sticker-pack-ios-sorted-list.js",
     "csv-to-json": "csvtojson data/openmoji.csv > data/openmoji.json"
   },
   "engines": {
@@ -18,6 +19,7 @@
     "csvtojson": "^1.1.9",
     "emojibase-data": "^2.1.2",
     "fs-sync": "^1.0.4",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "glob": "^7.1.2"
   }
 }
