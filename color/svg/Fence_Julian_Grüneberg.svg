@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<g id="fence">
+	<polygon fill="#A57939" points="36,13.5 29.3,21.9 29.3,58.5 42.7,58.5 42.7,21.9 	"/>
+	<polygon fill="#A57939" points="17.7,13.5 11,21.9 11,58.5 24.4,58.5 24.4,21.9 	"/>
+	<polygon fill="#A57939" points="54.3,13.5 47.6,21.9 47.6,58.5 61,58.5 61,21.9 	"/>
+	
+		<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		17.7,13.5 11,21.9 11,58.5 24.4,58.5 24.4,21.9 	"/>
+	<circle cx="17.7" cy="21.9" r="1"/>
+	
+		<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		36,13.5 29.3,21.9 29.3,58.5 42.7,58.5 42.7,21.9 	"/>
+	<circle cx="36" cy="21.9" r="1"/>
+	
+		<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		54.3,13.5 47.6,21.9 47.6,58.5 61,58.5 61,21.9 	"/>
+	<circle cx="54.3" cy="21.9" r="1"/>
+</g>
+</svg>
