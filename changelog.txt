@@ -1,0 +1,21 @@
++ new
+* changed
+- removed
+
+--------------------------------------------------------------------------------
+
+👉 OpenMoji 1.? - ???
+
+* Fix hour glasses to obey the laws of gravity
+
+--------------------------------------------------------------------------------
+
+👉 OpenMoji 1.0 - 18 April 2018
+
+Initial public release
+
+--------------------------------------------------------------------------------
+
+👋 OpenMoji pre - Feb 15 2018
+
+Pre-release for the HfG Exhibition Semester WS17/18
