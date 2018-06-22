@@ -6,8 +6,8 @@ function main() {
   userInteractionLevel = UserInteractionLevel.DONTDISPLAYALERTS;
 
   var dirSrc = Folder.selectDialog("Select 'src' folder with .ai files");
-  var dirBlack = Folder.selectDialog("Select 'black' folder for PNG and SVG export");
-  var dirColor = Folder.selectDialog("Select 'color' folder for PNG and SVG export");
+  var dirBlack = Folder.selectDialog("Select 'black' folder for SVG export");
+  var dirColor = Folder.selectDialog("Select 'color' folder for SVG export");
 
   var files = getFilesRecursive( dirSrc, ".ai");
   println(files.length);

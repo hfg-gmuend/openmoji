@@ -6,7 +6,9 @@
     "create-emoji-tables": "node helpers/create-emoji-tables.js",
     "create-catalog": "node helpers/create-catalog.js",
     "create-sticker-pack-ios-sorted-list": "node helpers/create-sticker-pack-ios-sorted-list.js",
-    "csv-to-json": "csvtojson data/openmoji.csv > data/openmoji.json"
+    "csv-to-json": "csvtojson data/openmoji.csv > data/openmoji.json",
+    "convert-svg-png": "./helpers/convert-svg-png.sh",
+    "optimize-images": "./helpers/optimize-images.sh"
   },
   "engines": {
     "node": ">=8.0.0"

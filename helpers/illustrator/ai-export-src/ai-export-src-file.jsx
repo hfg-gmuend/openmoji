@@ -12,12 +12,8 @@ function main() {
 
   // create folders for epxorted files
   var dirBlack = createFolder(srcFolder + "/black/");
-  createFolder(srcFolder + "/black/72x72");
-  createFolder(srcFolder + "/black/618x618");
   createFolder(srcFolder + "/black/svg");
   var dirColor = createFolder(srcFolder + "/color/");
-  createFolder(srcFolder + "/color/72x72");
-  createFolder(srcFolder + "/color/618x618");
   createFolder(srcFolder + "/color/svg");
 
   println(files.length);
