@@ -1,5 +1,5 @@
 const path = require('path');
-const fsSync = require('fs-sync');
+const fs = require('fs');
 const _ = require('lodash');
 
 const emojisList = require('../data/openmoji.json');
@@ -75,4 +75,4 @@ html += `
 `;
 
 // write HTML
-fsSync.write('index.html', html);
+fs.writeFileSync('index.html', html);

@@ -1,6 +1,5 @@
 const path = require('path');
 const fs = require('fs');
-const fsSync = require('fs-sync');
 const _ = require('lodash');
 const csvWriter = require('csv-write-stream');
 const csvParse = require('csv-parse/lib/sync');
@@ -26,7 +25,7 @@ const writeCsv = (data, filePath) => {
   csvOut.end();
 }
 const writeJson = (data, filePath) => {
-  fsSync.write(filePath, JSON.stringify(data, null, 2));
+  fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
 }
 
 
