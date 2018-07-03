@@ -3,38 +3,89 @@ const fs = require('fs');
 const fsSync = require('fs-sync');
 const _ = require('lodash');
 const csvWriter = require('csv-write-stream');
-const csvLoader = require('csv-load-sync');
-
-const sourceDataFolder = 'data/1-src';
-const derivedDataFolder = 'data/2-derived';
+const csvParse = require('csv-parse/lib/sync');
 
 const emojibaseData = require('emojibase-data/en/data.json');
 const emojibaseGroups = require('emojibase-data/meta/groups.json');
 const groups = emojibaseGroups.groups;
 const subgroups = emojibaseGroups.subgroups;
-const hfgEmojisList = csvLoader(path.join(sourceDataFolder, 'hfg-emojis-list.csv'));
-const hfgEmojis = hfgEmojisList.reduce((o, a) => Object.assign(o, { [a.emoji]: a }), {});
+
+
+// -- helper functions --
+const loadCsv = (filePath) => {
+  const content = fs.readFileSync(filePath, 'utf8');
+  return csvParse(content, {columns: true});
+}
+const arrayToEmojiDict = (array) => {
+  return array.reduce((o, a) => Object.assign(o, { [a.emoji]: a }), {});
+}
+const writeCsv = (data, filePath) => {
+  const csvOut = csvWriter();
+  csvOut.pipe(fs.createWriteStream(filePath));
+  for (d of data) csvOut.write(d);
+  csvOut.end();
+}
+const writeJson = (data, filePath) => {
+  fsSync.write(filePath, JSON.stringify(data, null, 2));
+}
+
+
+// -- create emoji tables --
+// create an empty array to hold the emoji definitions
+let emojis = [];
+
+// add emoji with skintones to list
+_.each(emojibaseData, e => {
+  emojis = [...emojis, e];
+  if (e.skins) {
+    // add skintone_base_emoji prop
+    const skintones = _.map(e.skins, (s) => {
+      s['skintone_base_emoji'] = e.emoji;
+      return s;
+    })
+    emojis = [...emojis, ...skintones];
+  }
+});
+
+// custom hfg emojis
+const hfgEmojis = loadCsv('./data/hfg-custom-emojis.csv');
+emojis = [...emojis, hfgEmojis];
+
+// load custom meta informations extending the unicode definitions
+const hfgExtensions = arrayToEmojiDict( loadCsv('./data/hfg-unicode-extensions.csv'), 'emoji');
 
 // filter out what we want in the end
-// enhance with 'groups' and 'subgroups'
-const emojis = _.map(emojibaseData, e => {
+// enhance meta infromations of each emoji
+emojis = _.map(emojis, e => {
+  let hfg_author = hfgExtensions[e.emoji] ? hfgExtensions[e.emoji]['hfg_author'] : '';
+  if (e.skintone_base_emoji) {
+    hfg_author = hfgExtensions[e.skintone_base_emoji] ? hfgExtensions[e.skintone_base_emoji]['hfg_author'] : '';
+  }
   return {
     emoji: e.emoji,
     hexcode: e.hexcode,
     group: groups[e.group],
     subgroups: subgroups[e.subgroup],
     annotation: e.annotation,
-    tags: e.tags ? e.tags.join(',') : '',
-    hfg_priority: hfgEmojis[e.emoji] ? hfgEmojis[e.emoji]['hfg-priority'] : '',
-    hfg_tags: hfgEmojis[e.emoji] ? hfgEmojis[e.emoji]['hfg-tags'] : ''
+    tags: e.tags ? e.tags.join(', ') : '',
+    hfg_tags: hfgExtensions[e.emoji] ? hfgExtensions[e.emoji]['hfg_tags'] : '',
+    hfg_author: hfg_author,
+    skintone: e.tone ? e.tone : '',
+    skintone_base_emoji: e.skintone_base_emoji ? e.skintone_base_emoji : '',
+    unicode: e.version,
+    order: e.order,
   };
 });
 
-// write JSON
-fsSync.write(path.join(derivedDataFolder, 'emoji-table.json'), JSON.stringify(emojis, null, 2));
+// sort by recommended order of unicode standard
+emojis = _.sortBy(emojis, [(e) => { return e.order; }]);
 
-// write CSV
-const csvOut = csvWriter();
-csvOut.pipe(fs.createWriteStream(path.join(derivedDataFolder, 'emoji-table.csv')));
-for (e of emojis) csvOut.write(e);
-csvOut.end()
+// -- save to CSV and JSON files --
+writeJson(emojis, 'data/openmoji-unicode11.json');
+writeCsv(emojis, 'data/openmoji-unicode11.csv');
+
+// remove all emojis which not have been designed yet
+emojis = _.filter(emojis, (e) => { return e.hfg_author !== '' });
+
+writeJson(emojis, 'data/openmoji.json');
+writeCsv(emojis, 'data/openmoji.csv');
