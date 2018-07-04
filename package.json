@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Open-source emojis for designers, developers and everyone else!",
   "scripts": {
+    "test": "mocha test/test.js",
     "create-emoji-tables": "node helpers/create-emoji-tables.js",
     "create-catalog": "node helpers/create-catalog.js",
+    "create-svg-skintones": "node helpers/create-svg-skintones.js",
     "create-sticker-pack-ios-sorted-list": "node helpers/create-sticker-pack-ios-sorted-list.js",
     "convert-svg-png": "./helpers/convert-svg-png.sh",
     "optimize-images": "./helpers/optimize-images.sh"
@@ -15,11 +17,13 @@
   "repository": "https://github.com/hfg-gmuend/openmoji",
   "license": "CC-BY-SA-4.0",
   "dependencies": {
+    "chai": "^4.1.2",
     "csv-parse": "^2.5.0",
     "csv-write-stream": "^2.0.0",
     "emojibase-data": "^3.0.0",
     "glob": "^7.1.2",
     "jsdom": "^11.11.0",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "mocha": "^5.2.0"
   }
 }
