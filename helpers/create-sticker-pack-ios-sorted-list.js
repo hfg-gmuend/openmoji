@@ -1,5 +1,5 @@
 const glob = require('glob').sync;
-const fs = require('fs-sync');
+const fs = require('fs');
 const path = require('path');
 const _ = require('lodash');
 
@@ -35,9 +35,5 @@ const sortedStickers = {
 };
 // console.log(sortedStickers);
 
-if(!fs.exists('./_tmp/')){
-  fs.mkdir('_tmp')
-}
-
 // openmoji-stickers-ios/OpenMoji Stickers/OpenMoji Stickers StickerPackExtension/Stickers.xcstickers/Sticker Pack.stickerpack/Contents.json
-fs.write(path.join('_tmp', 'Contents.json'), JSON.stringify(sortedStickers, null, 2));
+fs.writeFileSync(path.join('_tmp', 'Contents.json'), JSON.stringify(sortedStickers, null, 2));

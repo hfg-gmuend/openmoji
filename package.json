@@ -6,7 +6,6 @@
     "create-emoji-tables": "node helpers/create-emoji-tables.js",
     "create-catalog": "node helpers/create-catalog.js",
     "create-sticker-pack-ios-sorted-list": "node helpers/create-sticker-pack-ios-sorted-list.js",
-    "csv-to-json": "csvtojson data/openmoji.csv > data/openmoji.json",
     "convert-svg-png": "./helpers/convert-svg-png.sh",
     "optimize-images": "./helpers/optimize-images.sh"
   },
@@ -16,12 +15,10 @@
   "repository": "https://github.com/hfg-gmuend/openmoji",
   "license": "CC-BY-SA-4.0",
   "dependencies": {
-    "csv-load-sync": "^1.0.0",
+    "csv-parse": "^2.5.0",
     "csv-write-stream": "^2.0.0",
-    "csvtojson": "^1.1.9",
-    "emojibase-data": "^2.1.2",
-    "fs-sync": "^1.0.4",
-    "lodash": "^4.17.4",
-    "glob": "^7.1.2"
+    "emojibase-data": "^3.0.0",
+    "glob": "^7.1.2",
+    "lodash": "^4.17.4"
   }
 }
