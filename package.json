@@ -19,6 +19,7 @@
     "csv-write-stream": "^2.0.0",
     "emojibase-data": "^3.0.0",
     "glob": "^7.1.2",
+    "jsdom": "^11.11.0",
     "lodash": "^4.17.4"
   }
 }
