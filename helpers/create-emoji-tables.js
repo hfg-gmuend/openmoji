@@ -1,4 +1,3 @@
-const path = require('path');
 const fs = require('fs');
 const _ = require('lodash');
 const csvWriter = require('csv-write-stream');
@@ -35,15 +34,18 @@ let emojis = [];
 
 // add emoji with skintones to list
 _.each(emojibaseData, e => {
-  emojis = [...emojis, e];
   if (e.skins) {
+    e['skintone_base_emoji'] = e.emoji;
+    e['skintone_base_hexcode'] = e.hexcode;
     // add skintone_base_emoji prop
     const skintones = _.map(e.skins, (s) => {
       s['skintone_base_emoji'] = e.emoji;
+      s['skintone_base_hexcode'] = e.hexcode;
       return s;
     })
     emojis = [...emojis, ...skintones];
   }
+  emojis = [...emojis, e];
 });
 
 // custom hfg emojis
@@ -71,6 +73,7 @@ emojis = _.map(emojis, e => {
     hfg_author: hfg_author,
     skintone: e.tone ? e.tone : '',
     skintone_base_emoji: e.skintone_base_emoji ? e.skintone_base_emoji : '',
+    skintone_base_hexcode: e.skintone_base_hexcode ? e.skintone_base_hexcode : '',
     unicode: e.version,
     order: e.order,
   };
