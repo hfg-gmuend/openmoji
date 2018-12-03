@@ -71,7 +71,7 @@ function exportSvg(doc, newFile) {
   svgOptions.cssProperties = SVGCSSPropertyLocation.PRESENTATIONATTRIBUTES;
   svgOptions.fontSubsetting = SVGFontSubsetting.None;
   svgOptions.documentEncoding = SVGDocumentEncoding.UTF8;
-  svgOptions.coordinatePrecision = 1;
+  svgOptions.coordinatePrecision = 4;
   doc.exportFile(newFile, ExportType.SVG, svgOptions);
 }
 
