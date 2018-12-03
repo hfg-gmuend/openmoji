@@ -1,0 +1,36 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="grid">
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"></path>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></path>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></rect>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></rect>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></circle>
+  </g>
+  <g id="color">
+    <polygon fill="#d0cfce" stroke="none" stroke-width="2.0358" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		39,5.762 39,37 57.6865,37 	"></polygon>
+    <path fill="#a57939" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M54,50c3-3,5-8,5-8H16c0,0-1,5,3,8H54z"></path>
+    <polygon fill="#d0cfce" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		35.2622,13 35.2622,37 23.7378,37 	"></polygon>
+    <polyline fill="none" points="69,48.2353 68,68 4,68 4,48.2353 	" stroke="none"></polyline>
+    <path fill="#92d3f5" d="M68,47v21H4V47h1c3,0,9,3,15,3s10-3,16-3s11,3,16,3s7-3,15-3H68z" stroke="none"></path>
+  </g>
+  <g id="hair">
+  </g>
+  <g id="skin">
+  </g>
+  <g id="skin-shadow">
+  </g>
+  <g id="line">
+    <polygon fill="none" stroke="#000000" stroke-width="2.0358" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		39,5.762 39,37 57.6865,37 	"></polygon>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M54,50c3-3,5-8,5-8H16c0,0-1,5,3,8H54z"></path>
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		35.2622,13 35.2622,37 23.7378,37 	"></polygon>
+    <line fill="none" stroke="#000000" stroke-width="2.0358" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="39" y1="6" x2="39" y2="42"></line>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M5,47c3,0,9,3,15,3s10-3,16-3s11,3,16,3s7-3,15-3"></path>
+  </g>
+</svg>

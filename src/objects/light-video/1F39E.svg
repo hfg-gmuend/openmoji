@@ -1,0 +1,43 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="grid">
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"></path>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></path>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></rect>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></rect>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></circle>
+  </g>
+  <g id="color">
+    <path fill="#D0CFCE" d="M42.3923,24.6798L60,24.9369l0.1694-7.6202L12,16.8286v8.1083l20.3445-0.2571
+		c0.5527,0,1.6146,0.5054,1.6146,1.0576l-0.2315,20.9094c0,0.5527-2.9051,0.3328-3.4578,0.3328L12,46.6875V55l48-0.258v-7.7624
+		H39.8702c-0.5528,0-1.6399-0.4474-1.6399-1.0001l0.4195-20.7302C38.6498,24.6971,41.8395,24.6798,42.3923,24.6798z" stroke="none"></path>
+    <rect x="38.244" y="24.9369" fill="#FFFFFF" width="21.7425" height="22.0427" stroke="none"></rect>
+    <rect x="12.0041" y="24.9369" fill="#FFFFFF" width="21.9508" height="22.0427" stroke="none"></rect>
+  </g>
+  <g id="hair">
+  </g>
+  <g id="skin">
+  </g>
+  <g id="skin-shadow">
+  </g>
+  <g id="line">
+    <rect x="12" y="17" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="48" height="38"></rect>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			12,24.9369 33.9591,24.9369 33.9591,46.9796 12,46.9796 		"></polyline>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			60,46.9796 38.2303,46.9796 38.2303,24.9369 60,24.9369 		"></polyline>
+    <circle cx="18.0947" cy="20.908" r="1.0794" fill="#000000" stroke="none"></circle>
+    <circle cx="24.0947" cy="20.908" r="1.0794" fill="#000000" stroke="none"></circle>
+    <circle cx="30.0947" cy="20.908" r="1.0794" fill="#000000" stroke="none"></circle>
+    <circle cx="36.0947" cy="20.908" r="1.0794" fill="#000000" stroke="none"></circle>
+    <circle cx="42.0947" cy="20.908" r="1.0794" fill="#000000" stroke="none"></circle>
+    <circle cx="48.0947" cy="20.908" r="1.0794" fill="#000000" stroke="none"></circle>
+    <circle cx="54.0947" cy="20.908" r="1.0794" fill="#000000" stroke="none"></circle>
+    <circle cx="18.0778" cy="51.0255" r="1.0794" fill="#000000" stroke="none"></circle>
+    <circle cx="24.0778" cy="51.0255" r="1.0794" fill="#000000" stroke="none"></circle>
+    <circle cx="30.0778" cy="51.0255" r="1.0794" fill="#000000" stroke="none"></circle>
+    <circle cx="36.0778" cy="51.0255" r="1.0794" fill="#000000" stroke="none"></circle>
+    <circle cx="42.0778" cy="51.0255" r="1.0794" fill="#000000" stroke="none"></circle>
+    <circle cx="48.0778" cy="51.0255" r="1.0794" fill="#000000" stroke="none"></circle>
+    <circle cx="54.0778" cy="51.0255" r="1.0794" fill="#000000" stroke="none"></circle>
+  </g>
+</svg>

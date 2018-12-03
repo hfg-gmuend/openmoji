@@ -1,0 +1,39 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="grid">
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"></path>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></path>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></rect>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></rect>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></circle>
+  </g>
+  <g id="color">
+    <path fill="#d22f27" d="M5,50.7705c0,0-1.5518,4.167,0.0313,4.167c1.583,0,15.5,0,15.5,0h9.333h30.75l1.8339-2h4.5l0.4161-9.833
+		l-0.833-6.667l-9.167-0.583l-2.833,1.083l-0.0733,1.918l5.2285,5.0625l-3.9052,0.0195c0,0-0.7481-2-3.0821-2.584
+		s-11.167-2.417-11.167-2.417l-0.583,4.5c0,0-10.9814-0.0205-14.3965,0.4395c-1.9697,0.2656-6.6562,0.6289-10.9384,1.624
+		c-3.2286,0.75-5.792,3.4795-8.9151,4.5L5,50.7705z" stroke="none"></path>
+    <path fill="#ea5a47" d="M10.2197,53.376c0,0-5.7822,1.084-4.2197-0.292c0,0,3.9688-2.6465,13.6123-2.8965l-2.7998,3.3906
+		l-4.0195,1.2158L10.2197,53.376z" stroke="none"></path>
+    <polygon fill="#ea5a47" points="41.5625,43.6875 41.751,38.916 54.0625,42.0625 55.125,45 45.625,45 	" stroke="none"></polygon>
+    <polygon fill="#ea5a47" points="55.1875,34.125 55,38 67,38 66.8125,34 	" stroke="none"></polygon>
+    <circle fill="#d0cfce" cx="58.75" cy="52" r="2.8281" stroke="none"></circle>
+    <circle fill="#d0cfce" cx="21.5" cy="52" r="2.8281" stroke="none"></circle>
+  </g>
+  <g id="hair">
+  </g>
+  <g id="skin">
+  </g>
+  <g id="skin-shadow">
+  </g>
+  <g id="line">
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="22" cy="52" r="3"></circle>
+    <circle cx="39" cy="42" r="3" fill="#000000" stroke="none"></circle>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="59" cy="52" r="3"></circle>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		65.625,52 67,52 67,35 55,35 55,38 58.1875,41.1084 	"></polyline>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M16,53l-1,1H5v-4c0,0,13-6,26-6h20"></path>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="29" y1="54" x2="53" y2="54"></line>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M41,43v-4c0,0,10,0,14,5"></path>
+  </g>
+</svg>

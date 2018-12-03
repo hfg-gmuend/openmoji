@@ -1,0 +1,27 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="grid">
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"></path>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></path>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></rect>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></rect>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></circle>
+  </g>
+  <g id="color">
+    <ellipse fill="#3f3f3f" stroke="none" stroke-width="2" stroke-miterlimit="10" cx="35.5" cy="34.5" rx="32.5" ry="13.5"></ellipse>
+    <path fill="#b399c8" stroke="none" stroke-width="2" stroke-miterlimit="10" d="M35.5,31c13.5192,0,25.1072,3.3025,30.0053,8
+		C67.1104,37.4606,68,35.772,68,34c0-7.1797-14.5507-13-32.5-13S3,26.8203,3,34c0,1.772,0.8896,3.4606,2.4947,5
+		C10.3928,34.3025,21.9808,31,35.5,31z"></path>
+  </g>
+  <g id="hair">
+  </g>
+  <g id="skin">
+  </g>
+  <g id="skin-shadow">
+  </g>
+  <g id="line">
+    <ellipse fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="35.5" cy="34.5" rx="32.5" ry="13.5"></ellipse>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M35.5,31c13.5192,0,25.1072,3.3025,30.0053,8
+		C67.1104,37.4606,68,35.772,68,34c0-7.1797-14.5507-13-32.5-13S3,26.8203,3,34c0,1.772,0.8896,3.4606,2.4947,5
+		C10.3928,34.3025,21.9808,31,35.5,31z"></path>
+  </g>
+</svg>

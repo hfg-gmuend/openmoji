@@ -1,0 +1,29 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="grid">
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"></path>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></path>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></rect>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></rect>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></circle>
+  </g>
+  <g id="color">
+    <line fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="59.1829" y1="46.059" x2="13.1829" y2="46.059"></line>
+    <line fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="59.1829" y1="54.059" x2="13.1829" y2="54.059"></line>
+    <path fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M32.9833,37.0046L32.9833,37.0046c-3.4677,0-6.2789-2.8112-6.2789-6.2789V20.3382c0-3.4677,2.8112-6.2792,6.2789-6.2792l0,0
+			c3.4681,0,6.2792,2.8115,6.2792,6.2792v10.3875C39.2625,34.1934,36.4513,37.0046,32.9833,37.0046z"></path>
+    <path fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M52.9092,37.0046L52.9092,37.0046c-3.4677,0-6.2789-2.8112-6.2789-6.2789V20.3382c0-3.4677,2.8112-6.2792,6.2789-6.2792l0,0
+			c3.4681,0,6.2792,2.8115,6.2792,6.2792v10.3875C59.1884,34.1934,56.3773,37.0046,52.9092,37.0046z"></path>
+    <polyline fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			12.9843,18.8851 19.3366,14.1262 19.3366,37.0718 		"></polyline>
+  </g>
+  <g id="hair">
+  </g>
+  <g id="skin">
+  </g>
+  <g id="skin-shadow">
+  </g>
+  <g id="line">
+  </g>
+</svg>

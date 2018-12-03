@@ -1,0 +1,47 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="grid">
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"></path>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></path>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></rect>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></rect>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></circle>
+  </g>
+  <g id="color">
+    <polygon fill="#d0cfce" points="46.9583,12.625 50.1145,17.8102 50.1145,54.7777 41.9167,54.7777 43.2083,19.0422 	" stroke="none"></polygon>
+    <polygon fill="#d0cfce" points="25.1804,12.875 21.755,17.6799 21.755,54.6474 30.0625,54.2813 29.0392,19.9333 	" stroke="none"></polygon>
+    <path fill="#f4aa41" stroke="none" stroke-width="1.9493" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M28.3148,57.4378c0,0,1.2601-31.8982,1.0101-39.8965c-0.24-7.6278,6.64-11.4654,6.64-11.4654s6.88,3.8376,6.64,11.4654
+		c-0.25,7.9983,1.01,39.8965,1.01,39.8965H28.3148z"></path>
+    <path fill="#FFFFFF" stroke="none" stroke-width="1.9493" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M40.1733,59.8126l15.4351-1.1955c0.1851-3.1745-3.2684-6.958-3.2684-6.958c-8.25-5.9369-9.5834-9.42-9.5834-9.42L39.34,33.0566"></path>
+    <path fill="#FFFFFF" stroke="none" stroke-width="1.9493" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M31.8267,59.8126l-15.4351-1.1955c-0.1851-3.1745,3.2684-6.958,3.2684-6.958c8.25-5.9369,9.5834-9.42,9.5834-9.42l3.4166-9.1825"></path>
+    <path fill="#FFFFFF" stroke="none" stroke-width="1.9493" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M40.0299,65.778c-0.0101,0.0665-0.0101,0.1045-0.0101,0.1045h-8.1099c0,0,0-0.038-0.0101-0.114
+		c-0.0499-0.6744-0.2699-4.1796,0.5301-5.9275c-0.02-6.7253-0.06-29.0008,0.51-34.0069c0.66-5.918,3.0199-6.7919,3.0199-6.7919
+		s2.37,0.8739,3.0401,6.7919c0.56,5.0156,0.53,27.3386,0.5099,34.0355C40.2899,61.6269,40.0699,65.1226,40.0299,65.778z"></path>
+  </g>
+  <g id="hair">
+  </g>
+  <g id="skin">
+  </g>
+  <g id="skin-shadow">
+  </g>
+  <g id="line">
+    <polyline fill="none" stroke="#000000" stroke-width="1.9493" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		45.4278,17.2564 47.6979,13.1397 50.1145,17.8102 50.1145,54.7777 45.9895,54.7777 	"></polyline>
+    <polyline fill="none" stroke="#000000" stroke-width="1.9493" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		26.4417,17.1261 24.1717,13.0095 21.755,17.6799 21.755,54.6474 25.88,54.6474 	"></polyline>
+    <path fill="none" stroke="#000000" stroke-width="1.9493" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M28.3148,57.4378c0,0,1.2601-31.8982,1.0101-39.8965c-0.24-7.6278,6.64-11.4654,6.64-11.4654s6.88,3.8376,6.64,11.4654
+		c-0.25,7.9983,1.01,39.8965,1.01,39.8965H28.3148z"></path>
+    <path fill="none" stroke="#000000" stroke-width="1.9493" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M40.1733,59.8126l15.4351-1.1955c0.1851-3.1745-3.2684-6.958-3.2684-6.958c-8.25-5.9369-9.5834-9.42-9.5834-9.42L39.34,33.0566"></path>
+    <path fill="none" stroke="#000000" stroke-width="1.9493" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M31.8267,59.8126l-15.4351-1.1955c-0.1851-3.1745,3.2684-6.958,3.2684-6.958c8.25-5.9369,9.5834-9.42,9.5834-9.42l3.4166-9.1825"></path>
+    <path fill="none" stroke="#000000" stroke-width="1.9493" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M40.0299,65.778c-0.0101,0.0665-0.0101,0.1045-0.0101,0.1045h-8.1099c0,0,0-0.038-0.0101-0.114
+		c-0.0499-0.6744-0.2699-4.1796,0.5301-5.9275c-0.02-6.7253-0.06-29.0008,0.51-34.0069c0.66-5.918,3.0199-6.7919,3.0199-6.7919
+		s2.37,0.8739,3.0401,6.7919c0.56,5.0156,0.53,27.3386,0.5099,34.0355C40.2899,61.6269,40.0699,65.1226,40.0299,65.778z"></path>
+  </g>
+</svg>
