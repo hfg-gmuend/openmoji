@@ -18,11 +18,14 @@
   "license": "CC-BY-SA-4.0",
   "dependencies": {
     "chai": "^4.1.2",
+    "chroma-js": "^1.4.0",
     "csv-parse": "^2.5.0",
     "csv-write-stream": "^2.0.0",
     "emojibase-data": "^3.0.0",
     "glob": "^7.1.2",
+    "js-beautify": "^1.8.8",
     "jsdom": "^11.11.0",
+    "kd-tree-javascript": "^1.0.3",
     "lodash": "^4.17.4",
     "mocha": "^5.2.0"
   }
