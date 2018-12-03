@@ -157,7 +157,7 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,skintone,skint
 👴🏽,1F474-1F3FD,smileys-people,person,old man: medium skin tone,,,Johanna Wellnitz,3,👴,1F474,2,168
 👴🏾,1F474-1F3FE,smileys-people,person,old man: medium-dark skin tone,,,Johanna Wellnitz,4,👴,1F474,2,169
 👴🏿,1F474-1F3FF,smileys-people,person,old man: dark skin tone,,,Johanna Wellnitz,5,👴,1F474,2,170
-👵,1F475,smileys-people,person,old woman,"adult, old, woman","gradma,  human, person",Johanna Wellnitz,,👵,1F475,1,171
+👵,1F475,smileys-people,person,old woman,"adult, old, woman","grandma, human, person",Johanna Wellnitz,,👵,1F475,1,171
 👵🏻,1F475-1F3FB,smileys-people,person,old woman: light skin tone,,,Johanna Wellnitz,1,👵,1F475,2,172
 👵🏼,1F475-1F3FC,smileys-people,person,old woman: medium-light skin tone,,,Johanna Wellnitz,2,👵,1F475,2,173
 👵🏽,1F475-1F3FD,smileys-people,person,old woman: medium skin tone,,,Johanna Wellnitz,3,👵,1F475,2,174
@@ -217,7 +217,7 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,skintone,skint
 👨🏽‍🌾,1F468-1F3FD-200D-1F33E,smileys-people,person-role,man farmer: medium skin tone,,,Lisa Thiel,3,👨‍🌾,1F468-200D-1F33E,4,252
 👨🏾‍🌾,1F468-1F3FE-200D-1F33E,smileys-people,person-role,man farmer: medium-dark skin tone,,,Lisa Thiel,4,👨‍🌾,1F468-200D-1F33E,4,253
 👨🏿‍🌾,1F468-1F3FF-200D-1F33E,smileys-people,person-role,man farmer: dark skin tone,,,Lisa Thiel,5,👨‍🌾,1F468-200D-1F33E,4,254
-👩‍🌾,1F469-200D-1F33E,smileys-people,person-role,woman farmer,"farmer, gardener, rancher, woman","farmer, gardener, woman, rancher, pitchfork, strawhat, braids",Lisa Thiel,,👩‍🌾,1F469-200D-1F33E,4,255
+👩‍🌾,1F469-200D-1F33E,smileys-people,person-role,woman farmer,"farmer, gardener, rancher, woman","farmer, gardener, woman, rancher, pitchfork, braids",Lisa Thiel,,👩‍🌾,1F469-200D-1F33E,4,255
 👩🏻‍🌾,1F469-1F3FB-200D-1F33E,smileys-people,person-role,woman farmer: light skin tone,,,Lisa Thiel,1,👩‍🌾,1F469-200D-1F33E,4,256
 👩🏼‍🌾,1F469-1F3FC-200D-1F33E,smileys-people,person-role,woman farmer: medium-light skin tone,,,Lisa Thiel,2,👩‍🌾,1F469-200D-1F33E,4,257
 👩🏽‍🌾,1F469-1F3FD-200D-1F33E,smileys-people,person-role,woman farmer: medium skin tone,,,Lisa Thiel,3,👩‍🌾,1F469-200D-1F33E,4,258
@@ -397,7 +397,7 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,skintone,skint
 👳🏽,1F473-1F3FD,smileys-people,person-role,person wearing turban: medium skin tone,,,Lisa Thiel,3,👳,1F473,2,545
 👳🏾,1F473-1F3FE,smileys-people,person-role,person wearing turban: medium-dark skin tone,,,Lisa Thiel,4,👳,1F473,2,546
 👳🏿,1F473-1F3FF,smileys-people,person-role,person wearing turban: dark skin tone,,,Lisa Thiel,5,👳,1F473,2,547
-🧕,1F9D5,smileys-people,person-role,woman with headscarf,"headscarf, hijab, mantilla, tichel","headscarf, hijab, mantilla, tichel, religion, religous, muslim",Lisa Thiel,,🧕,1F9D5,5,578
+🧕,1F9D5,smileys-people,person-role,woman with headscarf,"headscarf, hijab, mantilla, tichel","headscarf, hijab, mantilla, religion, religious, muslim",Lisa Thiel,,🧕,1F9D5,5,578
 🧕🏻,1F9D5-1F3FB,smileys-people,person-role,woman with headscarf: light skin tone,,,Lisa Thiel,1,🧕,1F9D5,5,579
 🧕🏼,1F9D5-1F3FC,smileys-people,person-role,woman with headscarf: medium-light skin tone,,,Lisa Thiel,2,🧕,1F9D5,5,580
 🧕🏽,1F9D5-1F3FD,smileys-people,person-role,woman with headscarf: medium skin tone,,,Lisa Thiel,3,🧕,1F9D5,5,581
@@ -452,7 +452,7 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,skintone,skint
 🧝🏾,1F9DD-1F3FE,smileys-people,person-fantasy,elf: medium-dark skin tone,,,Lisa Thiel,4,🧝,1F9DD,5,894
 🧝🏿,1F9DD-1F3FF,smileys-people,person-fantasy,elf: dark skin tone,,,Lisa Thiel,5,🧝,1F9DD,5,895
 🧞,1F9DE,smileys-people,person-fantasy,genie,djinn,"djinn, magic lamp, wish, magic",Lisa Thiel,,,,5,920
-🧟,1F9DF,smileys-people,person-fantasy,zombie,"undead, walking dead","undead, walking dead, brain, decayed, moldy",Lisa Thiel,,,,5,925
+🧟,1F9DF,smileys-people,person-fantasy,zombie,"undead, walking dead","undead, walking dead, brain, decayed",Lisa Thiel,,,,5,925
 🙍,1F64D,smileys-people,person-gesture,person frowning,"frown, gesture","negative, angry, head, face",Johanna Wellnitz,,🙍,1F64D,1,930
 🙍🏻,1F64D-1F3FB,smileys-people,person-gesture,person frowning: light skin tone,,,Johanna Wellnitz,1,🙍,1F64D,2,931
 🙍🏼,1F64D-1F3FC,smileys-people,person-gesture,person frowning: medium-light skin tone,,,Johanna Wellnitz,2,🙍,1F64D,2,932
@@ -574,7 +574,7 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,skintone,skint
 🧗🏽,1F9D7-1F3FD,smileys-people,person-activity,person climbing: medium skin tone,,,Johanna Wellnitz,3,🧗,1F9D7,5,1370
 🧗🏾,1F9D7-1F3FE,smileys-people,person-activity,person climbing: medium-dark skin tone,,,Johanna Wellnitz,4,🧗,1F9D7,5,1371
 🧗🏿,1F9D7-1F3FF,smileys-people,person-activity,person climbing: dark skin tone,,,Johanna Wellnitz,5,🧗,1F9D7,5,1372
-🧘,1F9D8,smileys-people,person-activity,person in lotus position,"meditation, yoga","human, person, excercise",Johanna Wellnitz,,🧘,1F9D8,5,1397
+🧘,1F9D8,smileys-people,person-activity,person in lotus position,"meditation, yoga","human, person, exercise",Johanna Wellnitz,,🧘,1F9D8,5,1397
 🧘🏻,1F9D8-1F3FB,smileys-people,person-activity,person in lotus position: light skin tone,,,Johanna Wellnitz,1,🧘,1F9D8,5,1398
 🧘🏼,1F9D8-1F3FC,smileys-people,person-activity,person in lotus position: medium-light skin tone,,,Johanna Wellnitz,2,🧘,1F9D8,5,1399
 🧘🏽,1F9D8-1F3FD,smileys-people,person-activity,person in lotus position: medium skin tone,,,Johanna Wellnitz,3,🧘,1F9D8,5,1400
@@ -829,7 +829,7 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,skintone,skint
 👋🏽,1F44B-1F3FD,smileys-people,body,waving hand: medium skin tone,,,Julian Grüneberg,3,👋,1F44B,2,2048
 👋🏾,1F44B-1F3FE,smileys-people,body,waving hand: medium-dark skin tone,,,Julian Grüneberg,4,👋,1F44B,2,2049
 👋🏿,1F44B-1F3FF,smileys-people,body,waving hand: dark skin tone,,,Julian Grüneberg,5,👋,1F44B,2,2050
-🤟,1F91F,smileys-people,body,love-you gesture,"hand, ily","hand, ily, love,",Julian Grüneberg,,🤟,1F91F,5,2051
+🤟,1F91F,smileys-people,body,love-you gesture,"hand, ily","hand, love, heavy metal",Julian Grüneberg,,🤟,1F91F,5,2051
 🤟🏻,1F91F-1F3FB,smileys-people,body,love-you gesture: light skin tone,,,Julian Grüneberg,1,🤟,1F91F,5,2052
 🤟🏼,1F91F-1F3FC,smileys-people,body,love-you gesture: medium-light skin tone,,,Julian Grüneberg,2,🤟,1F91F,5,2053
 🤟🏽,1F91F-1F3FD,smileys-people,body,love-you gesture: medium skin tone,,,Julian Grüneberg,3,🤟,1F91F,5,2054
@@ -1039,7 +1039,7 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,skintone,skint
 💐,1F490,animals-nature,plant-flower,bouquet,flower,"present, flower, tulip, bouquet",Hilda Kalyoncu,,,,1,2312
 🌸,1F338,animals-nature,plant-flower,cherry blossom,"blossom, cherry, flower","pink,",Hilda Kalyoncu,,,,1,2313
 🌹,1F339,animals-nature,plant-flower,rose,flower,"rose, red, nature, present, valentines day",Hilda Kalyoncu,,,,1,2317
-🥀,1F940,animals-nature,plant-flower,wilted flower,"flower, wilted","rose, wilted, flowe, red, sad, plant",Hilda Kalyoncu,,,,3,2318
+🥀,1F940,animals-nature,plant-flower,wilted flower,"flower, wilted","rose, wilted, flower, red, sad, plant",Hilda Kalyoncu,,,,3,2318
 🌺,1F33A,animals-nature,plant-flower,hibiscus,flower,pink,Hilda Kalyoncu,,,,1,2319
 🌻,1F33B,animals-nature,plant-flower,sunflower,"flower, sun","sun, flower, yellow, summer",Hilda Kalyoncu,,,,1,2320
 🌼,1F33C,animals-nature,plant-flower,blossom,flower,"yellow, nature",Hilda Kalyoncu,,,,1,2321
@@ -1181,47 +1181,47 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,skintone,skint
 🏙️,1F3D9,travel-places,place-other,cityscape,city,"buildings, metropolis",Martin Wehl,,,,1,2510
 💈,1F488,travel-places,place-other,barber pole,"barber, haircut, pole","beauty, hairdresser",Martin Wehl,,,,1,2522
 🎪,1F3AA,travel-places,place-other,circus tent,"circus, tent","fun, leisure, entertainment, red, white",Martin Wehl,,,,1,2523
-🚂,1F682,travel-places,transport-ground,locomotive,"engine, railway, steam, train","Train, Locomotive, travle, drive",Ronja Bäurlen,,,,1,2524
-🚃,1F683,travel-places,transport-ground,railway car,"car, electric, railway, train, tram, trolleybus","train, locomotive, railway car, travle",Ronja Bäurlen,,,,1,2525
-🚅,1F685,travel-places,transport-ground,bullet train,"bullet, railway, shinkansen, speed, train","train, locomotive, railway car, travle, transportation",Ronja Bäurlen,,,,1,2527
-🚉,1F689,travel-places,transport-ground,station,"railway, train","trainstation, station, stop, train, railway, travle, departure, arrives",Ronja Bäurlen,,,,1,2531
-🚝,1F69D,travel-places,transport-ground,monorail,vehicle,"train, locomotive, monorail, travle, transportation",Ronja Bäurlen,,,,1,2533
-🚌,1F68C,travel-places,transport-ground,bus,vehicle,"Bus, travle, transportation",Ronja Bäurlen,,,,1,2536
-🚐,1F690,travel-places,transport-ground,minibus,bus,"Bus, travle, transportation, car",Ronja Bäurlen,,,,1,2539
-🚑️,1F691,travel-places,transport-ground,ambulance,vehicle,"travle, hospital, ambulance, alarm, doctor, help",Ronja Bäurlen,,,,1,2540
-🚒,1F692,travel-places,transport-ground,fire engine,"engine, fire, truck","travle, fire, fire engine, red, alarm",Ronja Bäurlen,,,,1,2541
-🚓,1F693,travel-places,transport-ground,police car,"car, patrol, police","travle, cardepartment, police, patrol",Ronja Bäurlen,,,,1,2542
-🚕,1F695,travel-places,transport-ground,taxi,vehicle,"travle, tranportation, car, taxi, cab",Ronja Bäurlen,,,,1,2544
-🚗,1F697,travel-places,transport-ground,automobile,car,"car, travle, automobile, vehicle, transportation",Ronja Bäurlen,,,,1,2546
-🚙,1F699,travel-places,transport-ground,sport utility vehicle,"recreational, sport utility","car, travle, automobile, vehicle, transportation, sport, utility",Ronja Bäurlen,,,,1,2548
-🚚,1F69A,travel-places,transport-ground,delivery truck,"delivery, truck","truck, delivery, car, transportation, travle, trucker, driver",Ronja Bäurlen,,,,1,2549
-🚛,1F69B,travel-places,transport-ground,articulated lorry,"lorry, semi, truck","deliverytruck, truck, car, transportation, travle, trucker, truckdriver",Ronja Bäurlen,,,,1,2550
+🚂,1F682,travel-places,transport-ground,locomotive,"engine, railway, steam, train","Train, Locomotive, travel, drive",Ronja Bäurlen,,,,1,2524
+🚃,1F683,travel-places,transport-ground,railway car,"car, electric, railway, train, tram, trolleybus","train, locomotive, railway car, travel",Ronja Bäurlen,,,,1,2525
+🚅,1F685,travel-places,transport-ground,bullet train,"bullet, railway, shinkansen, speed, train","train, locomotive, railway car, travel, transportation",Ronja Bäurlen,,,,1,2527
+🚉,1F689,travel-places,transport-ground,station,"railway, train","train station, station, stop, train, railway, travel, departure, arrives",Ronja Bäurlen,,,,1,2531
+🚝,1F69D,travel-places,transport-ground,monorail,vehicle,"train, locomotive, monorail, travel, transportation",Ronja Bäurlen,,,,1,2533
+🚌,1F68C,travel-places,transport-ground,bus,vehicle,"Bus, travel, transportation",Ronja Bäurlen,,,,1,2536
+🚐,1F690,travel-places,transport-ground,minibus,bus,"Bus, travel, transportation, car",Ronja Bäurlen,,,,1,2539
+🚑️,1F691,travel-places,transport-ground,ambulance,vehicle,"travel, hospital, ambulance, alarm, doctor, help",Ronja Bäurlen,,,,1,2540
+🚒,1F692,travel-places,transport-ground,fire engine,"engine, fire, truck","travel, fire, fire engine, red, alarm",Ronja Bäurlen,,,,1,2541
+🚓,1F693,travel-places,transport-ground,police car,"car, patrol, police","travel, car, police, patrol",Ronja Bäurlen,,,,1,2542
+🚕,1F695,travel-places,transport-ground,taxi,vehicle,"travel, transportation, car, taxi, cab",Ronja Bäurlen,,,,1,2544
+🚗,1F697,travel-places,transport-ground,automobile,car,"car, travel, automobile, vehicle, transportation",Ronja Bäurlen,,,,1,2546
+🚙,1F699,travel-places,transport-ground,sport utility vehicle,"recreational, sport utility","car, travel, automobile, vehicle, transportation, sport, utility",Ronja Bäurlen,,,,1,2548
+🚚,1F69A,travel-places,transport-ground,delivery truck,"delivery, truck","truck, delivery, car, transportation, travel, trucker, driver",Ronja Bäurlen,,,,1,2549
+🚛,1F69B,travel-places,transport-ground,articulated lorry,"lorry, semi, truck","delivery truck, truck, car, transportation, travel, trucker, truck driver",Ronja Bäurlen,,,,1,2550
 🚜,1F69C,travel-places,transport-ground,tractor,vehicle,"tractor, towing, vehicle, farm, farming, field, acre",Ronja Bäurlen,,,,1,2551
 🚲️,1F6B2,travel-places,transport-ground,bicycle,bike,"bike, vehicle, bicycle",Ronja Bäurlen,,,,1,2552
-🛴,1F6F4,travel-places,transport-ground,kick scooter,"kick, scooter","kick, scooter, cityroller",Ronja Bäurlen,,,,3,2553
+🛴,1F6F4,travel-places,transport-ground,kick scooter,"kick, scooter","kick, scooter, city roller",Ronja Bäurlen,,,,3,2553
 🛵,1F6F5,travel-places,transport-ground,motor scooter,"motor, scooter","motor, scooter, transportation, bicycle,",Ronja Bäurlen,,,,3,2555
-🚏,1F68F,travel-places,transport-ground,bus stop,"bus, busstop, stop","station, stop, bus, traffic, travle, busstop, departure, arrive",Ronja Bäurlen,,,,1,2556
+🚏,1F68F,travel-places,transport-ground,bus stop,"bus, busstop, stop","station, stop, bus, traffic, travel, bus stop, departure, arrive",Ronja Bäurlen,,,,1,2556
 ⛽️,26FD,travel-places,transport-ground,fuel pump,"diesel, fuel, fuelpump, gas, pump, station","fuel, gas, station, transportation",Ronja Bäurlen,,,,1,2563
-🚥,1F6A5,travel-places,transport-ground,horizontal traffic light,"light, signal, traffic","light, red, green, yellow, traffic, trafficlight",Ronja Bäurlen,,,,1,2565
-🚦,1F6A6,travel-places,transport-ground,vertical traffic light,"light, signal, traffic","light, red, reen, yellow, vertical, traffic, light",Ronja Bäurlen,,,,1,2566
+🚥,1F6A5,travel-places,transport-ground,horizontal traffic light,"light, signal, traffic","light, red, green, yellow, traffic, traffic light",Ronja Bäurlen,,,,1,2565
+🚦,1F6A6,travel-places,transport-ground,vertical traffic light,"light, signal, traffic","light, red, green, yellow, vertical, traffic, light",Ronja Bäurlen,,,,1,2566
 🛑,1F6D1,travel-places,transport-ground,stop sign,"octagonal, sign, stop","stop, sign, signal, warning",Ronja Bäurlen,,,,3,2567
 🚧,1F6A7,travel-places,transport-ground,construction,barrier,"barrier, warning, stop, attention, traffic",Ronja Bäurlen,,,,1,2568
-⚓️,2693,travel-places,transport-water,anchor,"ship, tool","boat, ship, travle, sea, atlantic, ocean, water, tool, anchor, metal",Ronja Bäurlen,,,,1,2569
-⛵️,26F5,travel-places,transport-water,sailboat,"boat, resort, sea, yacht","boat, passengers, ship, travle, sea, atlantic, ocean, water, yacht, resort, sail, sailboat",Ronja Bäurlen,,,,1,2570
-🚤,1F6A4,travel-places,transport-water,speedboat,boat,"boat, passengers, ship, travle, sea, atlantic, ocean, water, speed",Ronja Bäurlen,,,,1,2572
-🛳️,1F6F3,travel-places,transport-water,passenger ship,"passenger, ship","boat, passengers, ship, travle, sea, atlantic, ocean, water",Ronja Bäurlen,,,,1,2574
-🛥️,1F6E5,travel-places,transport-water,motor boat,"boat, motorboat","boat, passengers, ship, travle, sea, atlantic, ocean, water, motor",Ronja Bäurlen,,,,1,2578
-🚢,1F6A2,travel-places,transport-water,ship,"boat, passenger","boat, passengers, ship, travle, sea, atlantic, ocean, water",Ronja Bäurlen,,,,1,2579
-✈️,2708,travel-places,transport-air,airplane,aeroplane,"fly, airplane, aeroplane, air, sky, travle, departure, arrive",Ronja Bäurlen,,,,1,2581
-🛩️,1F6E9,travel-places,transport-air,small airplane,"aeroplane, airplane","fly, airplane, aeroplane, air, sky, travle, departure, arrive",Ronja Bäurlen,,,,1,2583
-🛫,1F6EB,travel-places,transport-air,airplane departure,"aeroplane, airplane, check-in, departure, departures","fly, airplane, aeroplane, ir, sky, travle, departure",Ronja Bäurlen,,,,1,2584
-🛬,1F6EC,travel-places,transport-air,airplane arrival,"aeroplane, airplane, arrivals, arriving, landing","fly, airplane, aeroplane, air, sky, travle, arrive",Ronja Bäurlen,,,,1,2585
+⚓️,2693,travel-places,transport-water,anchor,"ship, tool","boat, ship, travel, sea, atlantic, ocean, water, tool, anchor, metal",Ronja Bäurlen,,,,1,2569
+⛵️,26F5,travel-places,transport-water,sailboat,"boat, resort, sea, yacht","boat, passengers, ship, travel, sea, atlantic, ocean, water, yacht, resort, sail, sailboat",Ronja Bäurlen,,,,1,2570
+🚤,1F6A4,travel-places,transport-water,speedboat,boat,"boat, passengers, ship, travel, sea, atlantic, ocean, water, speed",Ronja Bäurlen,,,,1,2572
+🛳️,1F6F3,travel-places,transport-water,passenger ship,"passenger, ship","boat, passengers, ship, travel, sea, atlantic, ocean, water",Ronja Bäurlen,,,,1,2574
+🛥️,1F6E5,travel-places,transport-water,motor boat,"boat, motorboat","boat, passengers, ship, travel, sea, atlantic, ocean, water, motor",Ronja Bäurlen,,,,1,2578
+🚢,1F6A2,travel-places,transport-water,ship,"boat, passenger","boat, passengers, ship, travel, sea, atlantic, ocean, water",Ronja Bäurlen,,,,1,2579
+✈️,2708,travel-places,transport-air,airplane,aeroplane,"fly, airplane, aeroplane, air, sky, travel, departure, arrive",Ronja Bäurlen,,,,1,2581
+🛩️,1F6E9,travel-places,transport-air,small airplane,"aeroplane, airplane","fly, airplane, aeroplane, air, sky, travel, departure, arrive",Ronja Bäurlen,,,,1,2583
+🛫,1F6EB,travel-places,transport-air,airplane departure,"aeroplane, airplane, check-in, departure, departures","fly, airplane, aeroplane, air, sky, travel, departure",Ronja Bäurlen,,,,1,2584
+🛬,1F6EC,travel-places,transport-air,airplane arrival,"aeroplane, airplane, arrivals, arriving, landing","fly, airplane, aeroplane, air, sky, travel, arrive",Ronja Bäurlen,,,,1,2585
 💺,1F4BA,travel-places,transport-air,seat,chair,"seat, chair, lounge, Airplane, sitting, comfort",Ronja Bäurlen,,,,1,2586
 🚁,1F681,travel-places,transport-air,helicopter,vehicle,"helicopter, air, transportation, sky, fly, flying",Ronja Bäurlen,,,,1,2587
-🚠,1F6A0,travel-places,transport-air,mountain cableway,"cable, gondola, mountain","travle, mountain, high",Ronja Bäurlen,,,,1,2589
-🛰️,1F6F0,travel-places,transport-air,satellite,space,"space, galaxy, satelite",Ronja Bäurlen,,,,1,2592
-🚀,1F680,travel-places,transport-air,rocket,space,"rocket, space, galaxy, adventure, discorver, alien, transportation",Ronja Bäurlen,,,,1,2593
-🛸,1F6F8,travel-places,transport-air,flying saucer,ufo,"Ailien, Ufo flyingsaucer, space, planets, adventures",Ronja Bäurlen,,,,5,2594
+🚠,1F6A0,travel-places,transport-air,mountain cableway,"cable, gondola, mountain","travel, mountain, high",Ronja Bäurlen,,,,1,2589
+🛰️,1F6F0,travel-places,transport-air,satellite,space,"space, galaxy, satellite",Ronja Bäurlen,,,,1,2592
+🚀,1F680,travel-places,transport-air,rocket,space,"rocket, space, galaxy, adventure, alien, transportation",Ronja Bäurlen,,,,1,2593
+🛸,1F6F8,travel-places,transport-air,flying saucer,ufo,"alien, UFO, space, planets, adventures",Ronja Bäurlen,,,,5,2594
 ⌛️,231B,travel-places,time,hourglass done,"sand, timer","countdown, hourglass",Rana Cakir,,,,1,2598
 ⏳️,23F3,travel-places,time,hourglass not done,"hourglass, sand, timer",,Rana Cakir,,,,1,2599
 ⌚️,231A,travel-places,time,watch,clock,"watch, time,",Rana Cakir,,,,1,2600
@@ -1252,7 +1252,7 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,skintone,skint
 🕥️,1F565,travel-places,time,ten-thirty,"10, 10:30, clock, ten, thirty",time,Rana Cakir,,,,1,2629
 🕚️,1F55A,travel-places,time,eleven o’clock,"00, 11, 11:00, clock, eleven, o’clock",time,Rana Cakir,,,,1,2630
 🕦️,1F566,travel-places,time,eleven-thirty,"11, 11:30, clock, eleven, thirty",time,Rana Cakir,,,,1,2631
-🌙,1F319,travel-places,sky-weather,crescent moon,"crescent, moon","crescent moon, full moon, night, night sky, moon, celestial bodie, crescent, planet, far away",Vanessa Boutzikoudi,,,,1,2640
+🌙,1F319,travel-places,sky-weather,crescent moon,"crescent, moon","crescent moon, full moon, night, night sky, moon, celestial body, crescent, planet, far away",Vanessa Boutzikoudi,,,,1,2640
 🌛,1F31B,travel-places,sky-weather,first quarter moon face,"face, moon, quarter","face, first quarter, half moon, moon, full moon, night, night sky, starry sky, light, moonlight, round, celestial bodies, sickle, planet",Vanessa Boutzikoudi,,,,1,2642
 🌜️,1F31C,travel-places,sky-weather,last quarter moon face,"face, moon, quarter","face, last quarter, half moon, moon, full moon, night, night sky, starry sky, light, moonlight, round, celestial bodies, sickle, planet",Vanessa Boutzikoudi,,,,1,2643
 🌡️,1F321,travel-places,sky-weather,thermometer,weather,"temperatures, room temperatures, degrees, heat, warming, fever, cold, celsius, measure, sick",Vanessa Boutzikoudi,,,,1,2645
@@ -1335,9 +1335,9 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,skintone,skint
 📯,1F4EF,objects,sound,postal horn,"horn, post, postal",,Rana Cakir,,,,1,2788
 🔔,1F514,objects,sound,bell,bell,sound,Rana Cakir,,,,1,2789
 🔕,1F515,objects,sound,bell with slash,"bell, forbidden, mute, quiet, silent",,Rana Cakir,,,,1,2790
-🎼,1F3BC,objects,music,musical score,"music, score","violin key, rhythmn",Sina Schulz,,,,1,2791
+🎼,1F3BC,objects,music,musical score,"music, score","violin key, rhythm",Sina Schulz,,,,1,2791
 🎵,1F3B5,objects,music,musical note,"music, note","song, melody, sounds, tone",Sina Schulz,,,,1,2792
-🎶,1F3B6,objects,music,musical notes,"music, note, notes","melody, harmony, sounds, rhythmn",Sina Schulz,,,,1,2793
+🎶,1F3B6,objects,music,musical notes,"music, note, notes","melody, harmony, sounds, rhythm",Sina Schulz,,,,1,2793
 🎙️,1F399,objects,music,studio microphone,"mic, microphone, music, studio","studio, microphone, stereo, recording",Sina Schulz,,,,1,2795
 🎚️,1F39A,objects,music,level slider,"level, music, slider","studio, music slider",Sina Schulz,,,,1,2797
 🎛️,1F39B,objects,music,control knobs,"control, knobs, music","music, mix, recording, tool, knobs",Sina Schulz,,,,1,2799
@@ -1345,10 +1345,10 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,skintone,skint
 🎧️,1F3A7,objects,music,headphone,earbud,"music, headphones",Sina Schulz,,,,1,2801
 📻️,1F4FB,objects,music,radio,video,"radio, stereo radio, analog radio",Sina Schulz,,,,1,2802
 🎷,1F3B7,objects,musical-instrument,saxophone,"instrument, music, sax","saxophone, sax, jazz, instrument",Sina Schulz,,,,1,2803
-🎸,1F3B8,objects,musical-instrument,guitar,"instrument, music","guitar, e-guitar, instrumental, accustic, chords,",Sina Schulz,,,,1,2804
+🎸,1F3B8,objects,musical-instrument,guitar,"instrument, music","guitar, e-guitar, instrumental, acoustic, chords,",Sina Schulz,,,,1,2804
 🎹,1F3B9,objects,musical-instrument,musical keyboard,"instrument, keyboard, music, piano","keyboard, piano keys, chords",Sina Schulz,,,,1,2805
 🎺,1F3BA,objects,musical-instrument,trumpet,"instrument, music","trumpet, horns, music, woodwind instrument",Sina Schulz,,,,1,2806
-🎻,1F3BB,objects,musical-instrument,violin,"instrument, music","string, violin, fiddel, bow",Sina Schulz,,,,1,2807
+🎻,1F3BB,objects,musical-instrument,violin,"instrument, music","string, violin, fiddle, bow",Sina Schulz,,,,1,2807
 🥁,1F941,objects,musical-instrument,drum,"drumsticks, music","drum, drumsticks, music, beat",Sina Schulz,,,,3,2808
 📱,1F4F1,objects,phone,mobile phone,"cell, mobile, phone, telephone","smartphone, message, voice, communication",Martin Wehl,,,,1,2809
 📲,1F4F2,objects,phone,mobile phone with arrow,"arrow, cell, mobile, phone, receive","voice, smartphone, message",Martin Wehl,,,,1,2810
@@ -1416,10 +1416,10 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,skintone,skint
 💼,1F4BC,objects,office,briefcase,briefcase,"bag, briefcase, office bag, leather bag",Sina Schulz,,,,1,2910
 📁,1F4C1,objects,office,file folder,"file, folder","file, folder, paper, organise, structure, office, box",Sina Schulz,,,,1,2911
 📂,1F4C2,objects,office,open file folder,"file, folder, open","open file, folder, organise, structure, office, box",Sina Schulz,,,,1,2912
-📅,1F4C5,objects,office,calendar,date,"calendar, day view, pages, analoge",Sina Schulz,,,,1,2915
+📅,1F4C5,objects,office,calendar,date,"calendar, day view, pages, analog",Sina Schulz,,,,1,2915
 📆,1F4C6,objects,office,tear-off calendar,calendar,"calendar, tear off",Sina Schulz,,,,1,2916
 🗒️,1F5D2,objects,office,spiral notepad,"note, pad, spiral","notes, handwrite, paper, pen, spiral block, college",Sina Schulz,,,,1,2918
-🗓️,1F5D3,objects,office,spiral calendar,"calendar, pad, spiral","calender, year, month view",Sina Schulz,,,,1,2920
+🗓️,1F5D3,objects,office,spiral calendar,"calendar, pad, spiral","calendar, year, month view",Sina Schulz,,,,1,2920
 📈,1F4C8,objects,office,chart increasing,"chart, graph, growth, trend, upward","graph going up, upward trend",Sina Schulz,,,,1,2922
 📉,1F4C9,objects,office,chart decreasing,"chart, down, graph, trend","graph going down, downtrend",Sina Schulz,,,,1,2923
 📊,1F4CA,objects,office,bar chart,"bar, chart, graph","data, chart, sheet, graph",Sina Schulz,,,,1,2924
@@ -1440,7 +1440,7 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,skintone,skint
 🗝️,1F5DD,objects,lock,old key,"clue, key, lock, old",,Lisa Schulz,,,,1,2947
 🔨,1F528,objects,tool,hammer,tool,"toolbox, metal, wood",Hilda Kalyoncu,,,,1,2948
 ⛏️,26CF,objects,tool,pick,"mining, tool",weapon,Hilda Kalyoncu,,,,1,2950
-🛠️,1F6E0,objects,tool,hammer and wrench,"hammer, spanner, tool, wrench","craftmans, logo",Hilda Kalyoncu,,,,1,2954
+🛠️,1F6E0,objects,tool,hammer and wrench,"hammer, spanner, tool, wrench","craft mans, logo",Hilda Kalyoncu,,,,1,2954
 🗡️,1F5E1,objects,tool,dagger,"knife, weapon",metal,Hilda Kalyoncu,,,,1,2956
 🔫,1F52B,objects,tool,pistol,"gun, handgun, revolver, tool, weapon","gun, weapon, pistol",Hilda Kalyoncu,,,,1,2959
 🛡️,1F6E1,objects,tool,shield,weapon,"protection, fight, middle ages",Hilda Kalyoncu,,,,1,2962
@@ -1464,14 +1464,14 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,skintone,skint
 🚬,1F6AC,objects,other-object,cigarette,smoking,"tobacco, smoke",Marius Schnabel,,,,1,3003
 ⚰️,26B0,objects,other-object,coffin,death,"funeral, dead",Marius Schnabel,,,,1,3005
 🗿,1F5FF,objects,other-object,moai,"face, moyai, statue","stone, easter island",Marius Schnabel,,,,1,3008
-🚮,1F6AE,symbols,transport-sign,litter in bin sign,"litter, litter bin","trsh, litter, bin, garbage, can, throw, away",Ronja Bäurlen,,,,1,3010
-🚰,1F6B0,symbols,transport-sign,potable water,"drinking, potable, water","water, faucet, tap, glas",Ronja Bäurlen,,,,1,3011
+🚮,1F6AE,symbols,transport-sign,litter in bin sign,"litter, litter bin","trash, litter, bin, garbage, can, throw, away",Ronja Bäurlen,,,,1,3010
+🚰,1F6B0,symbols,transport-sign,potable water,"drinking, potable, water","water, faucet, tap, glass",Ronja Bäurlen,,,,1,3011
 ♿️,267F,symbols,transport-sign,wheelchair symbol,access,"disabled, toilet, restroom",Ronja Bäurlen,,,,1,3012
 🚹️,1F6B9,symbols,transport-sign,men’s room,"lavatory, man, restroom, wc","man, restroom, guy, dude, male, toilet",Ronja Bäurlen,,,,1,3013
 🚺️,1F6BA,symbols,transport-sign,women’s room,"lavatory, restroom, wc, woman","woman, female, restroom, chick, women, toilet",Ronja Bäurlen,,,,1,3014
 🚻,1F6BB,symbols,transport-sign,restroom,"lavatory, wc","unisex, restroom, male, toilet, woman, female",Ronja Bäurlen,,,,1,3015
 🚼️,1F6BC,symbols,transport-sign,baby symbol,"baby, changing","baby, changing, station, restroom, toilet",Ronja Bäurlen,,,,1,3016
-🚾,1F6BE,symbols,transport-sign,water closet,"closet, lavatory, restroom, water, wc","restroom, WC, toilett, water, closet",Ronja Bäurlen,,,,1,3017
+🚾,1F6BE,symbols,transport-sign,water closet,"closet, lavatory, restroom, water, wc","restroom, WC, toilet, water, closet",Ronja Bäurlen,,,,1,3017
 ⚠️,26A0,symbols,warning,warning,warning,,Miriam Vollmeier,,,,1,3023
 ⛔️,26D4,symbols,warning,no entry,"entry, forbidden, no, not, prohibited, traffic",,Miriam Vollmeier,,,,1,3025
 🚫,1F6AB,symbols,warning,prohibited,"entry, forbidden, no, not",,Miriam Vollmeier,,,,1,3026
@@ -1541,8 +1541,8 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,skintone,skint
 ➗,2797,symbols,other-symbol,heavy division sign,"division, math","math, division, sign",Hilda Kalyoncu,,,,1,3167
 ❓️,2753,symbols,other-symbol,question mark,"mark, punctuation, question","question, punctation",Hilda Kalyoncu,,,,1,3182
 ❔,2754,symbols,other-symbol,white question mark,"mark, outlined, punctuation, question","punctation, mark, question, white",Hilda Kalyoncu,,,,1,3183
-❕,2755,symbols,other-symbol,white exclamation mark,"exclamation, mark, outlined, punctuation","exlamation, mark, punctation, white",Hilda Kalyoncu,,,,1,3184
-❗️,2757,symbols,other-symbol,exclamation mark,"exclamation, mark, punctuation","exlamation, mark, punctation",Hilda Kalyoncu,,,,1,3185
+❕,2755,symbols,other-symbol,white exclamation mark,"exclamation, mark, outlined, punctuation","exclamation, mark, punctation, white",Hilda Kalyoncu,,,,1,3184
+❗️,2757,symbols,other-symbol,exclamation mark,"exclamation, mark, punctuation","exclamation, mark, punctation",Hilda Kalyoncu,,,,1,3185
 〰️,3030,symbols,other-symbol,wavy dash,"dash, punctuation, wavy","dash, punctuation, wavy",Hilda Kalyoncu,,,,1,3187
 ©️,00A9,symbols,other-symbol,copyright,copyright,"copyright, c, sign",Hilda Kalyoncu,,,,1,3189
 ®️,00AE,symbols,other-symbol,registered,registered,"registered, r, sign",Hilda Kalyoncu,,,,1,3191
@@ -1570,3 +1570,105 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,skintone,skint
 🏴,1F3F4,flags,flag,black flag,waving,,Lisa Schulz,,,,1,3298
 🏳️,1F3F3,flags,flag,white flag,waving,white,Lisa Schulz,,,,1,3300
 🏳️‍🌈,1F3F3-FE0F-200D-1F308,flags,flag,rainbow flag,rainbow,color,Lisa Schulz,,,,4,3301
+󰀀,F0000,hfg,ui-element,"return, back button",,,Jose Avila,,,,,
+󰀁,F0001,hfg,ui-element,close,,,Jose Avila,,,,,
+󰀄,F0004,hfg,ui-element,forward,,,Jose Avila,,,,,
+󰀆,F0006,hfg,ui-element,hamburger menu,,,Jose Avila,,,,,
+󰀋,F000B,hfg,ui-element,upload,,,Jose Avila,,,,,
+󰀌,F000C,hfg,ui-element,download,,,Jose Avila,,,,,
+󰀍,F000D,hfg,ui-element,share,,,Jose Avila,,,,,
+󰀅,F0005,hfg,ui-element,wifi,,,Baris Camli,,,,,
+󰀉,F0009,hfg,ui-element,copy,,,Baris Camli,,,,,
+󰀓,F0013,hfg,technology,mouse,,,Baris Camli,,,,,
+󰀖,F0016,hfg,ui-element,contacts,,,Baris Camli,,,,,
+󰀚,F001A,hfg,ui-element,filter,,,Baris Camli,,,,,
+󰀝,F001D,hfg,other,toggle button,,,Baris Camli,,,,,
+󰀠,F0020,hfg,interaction,tap,,,Baris Camli,,,,,
+󰀣,F0023,hfg,other,exit,,,Baris Camli,,,,,
+󰀭,F002D,hfg,brand,Twitter,,,Baris Camli,,,,,
+󰀰,F0030,hfg,ui-element,cursor,,,Baris Camli,,,,,
+󰀳,F0033,hfg,other,location indicator,,,Baris Camli,,,,,
+󰀶,F0036,hfg,technology,augmented reality,,,Baris Camli,,,,,
+󰀼,F003C,hfg,other,wireframes,,,Baris Camli,,,,,
+󰀿,F003F,hfg,interaction,double tap,,,Baris Camli,,,,,
+󰁂,F0042,hfg,ui-element,details,,,Baris Camli,,,,,
+󰁅,F0045,hfg,ui-element,hold,,,Baris Camli,,,,,
+󰁈,F0048,hfg,technology,led,,,Baris Camli,,,,,
+󰁋,F004B,hfg,technology,motor,,,Baris Camli,,,,,
+󰁎,F004E,hfg,technology,raspberry pi,,,Baris Camli,,,,,
+󰁑,F0051,hfg,situation,safety,,,Baris Camli,,,,,
+󰁔,F0054,hfg,technology,virtual reality,,,Baris Camli,,,,,
+󰁚,F005A,hfg,other,first aid kit,,,Baris Camli,,,,,
+󰁝,F005D,hfg,other,cafeteria,,,Baris Camli,,,,,
+󰁣,F0063,hfg,other,code editor,,,Baris Camli,,,,,
+󰁧,F0067,hfg,technology,cable,,,Baris Camli,,,,,
+󰁪,F006A,hfg,other,armchair,,,Baris Camli,,,,,
+󰁭,F006D,hfg,other,donkey,,,Baris Camli,,,,,
+󰁱,F0071,hfg,interaction,mark,,,Baris Camli,,,,,
+󰁴,F0074,hfg,interaction,three finger operation,,,Baris Camli,,,,,
+󰁷,F0077,hfg,interaction,move,,,Baris Camli,,,,,
+󰀹,F0039,hfg,other,autonom car,,,Baris Camli,,,,,
+󰀂,F0002,hfg,ui-element,duplicate,,"make copy, second, file, create, page, document",Kai Wanschura,,,,,
+󰀇,F0007,hfg,ui-element,save,,"store, hard drive, record, hdd, harddisk, download",Kai Wanschura,,,,,
+󰀊,F000A,hfg,ui-element,edit,,"change, editing, pencil, page, document, file, write, writing, scribble",Kai Wanschura,,,,,
+󰀑,F0011,hfg,ui-element,home button,,"house, main, page, website, navigation, app, ui, symbol, internet, homepage",Kai Wanschura,,,,,
+󰀔,F0014,hfg,ui-element,add button,,"new, file, plus, more, create, set",Kai Wanschura,,,,,
+󰀗,F0017,hfg,technology,tablet,,"technology, device, portable, screen, phablet, ipad",Kai Wanschura,,,,,
+󰀛,F001B,hfg,technology,gps,,"navigation, localization, location, reception, signal, wireless, crosshair, where",Kai Wanschura,,,,,
+󰀞,F001E,hfg,interaction,scroll,,"vertical, y-axis, mouse, wheel, movement, up, down",Kai Wanschura,,,,,
+󰀡,F0021,hfg,other,switch,,"toggling, changeover switch, exchange counter, left, right",Kai Wanschura,,,,,
+󰀤,F0024,hfg,other,emergency exit,,"alarm, fire, escape, way, route, guidance, signage, run, person, people, humans",Kai Wanschura,,,,,
+󰀮,F002E,hfg,brand,pinterest,,"social, platform, pins",Kai Wanschura,,,,,
+󰀱,F0031,hfg,interaction,swipe,,"swipe, finger, move, hand, sideways, app",Kai Wanschura,,,,,
+󰀷,F0037,hfg,ui-element,archive,,"save, save to, library, cupboard, drawer",Kai Wanschura,,,,,
+󰀺,F003A,hfg,situation,chats,,"messaging, typing, message, text, writing, write, dialog",Kai Wanschura,,,,,
+󰁀,F0040,hfg,situation,collaboration,,"collab, team, teamwork, group, work, communication, circle",Kai Wanschura,,,,,
+󰁃,F0043,hfg,ui-element,overview,,"overview, lines, list",Kai Wanschura,,,,,
+󰁆,F0046,hfg,interaction,scroll horizontal,,"x-axis, move, mouse, scrollwheel, scrolling",Kai Wanschura,,,,,
+󰁉,F0049,hfg,other,scale,,"measurement, scaling, size, distance, meters, inches, miles, kilometers",Kai Wanschura,,,,,
+󰁌,F004C,hfg,interaction,page move,,"movement, left, right, site, document, next, previous, paper",Kai Wanschura,,,,,
+󰁏,F004F,hfg,technology,smartwatch,,"clock, apps, monitor, intelligent, device, armlet",Kai Wanschura,,,,,
+󰁕,F0055,hfg,technology,washing machine,,"clothing, garment, cleaner, home electronics, appliance",Kai Wanschura,,,,,
+󰁖,F0056,hfg,interaction,swipe left,,"finger, movement, gesture, touch, app, left, x-axis, hand",Kai Wanschura,,,,,
+󰁗,F0057,hfg,interaction,swipe up,,"finger, movement, gesture, touch, app, up, y-axis, hand",Kai Wanschura,,,,,
+󰁘,F0058,hfg,interaction,swipe right,,"finger, movement, gesture, touch, app, right, x-axis, hand",Kai Wanschura,,,,,
+󰁙,F0059,hfg,interaction,swipe down,,"finger, movement, gesture, touch, app, down, y-axis, hand",Kai Wanschura,,,,,
+󰁛,F005B,hfg,other,stairway,,"steps, up, down, ascend, descend, walk",Kai Wanschura,,,,,
+󰁡,F0061,hfg,sign,parking garage,,"parking lot, car, automobile, vehicle, sign, traffic sign, p",Kai Wanschura,,,,,
+󰁥,F0065,hfg,people,people dialogue,,"communication, talking, chatting, users, humans, conversation, two, face-to-face",Kai Wanschura,,,,,
+󰁮,F006E,hfg,people,persons hugging,,"love, harmony, humans, like, making out, arms",Kai Wanschura,,,,,
+󰁲,F0072,hfg,interaction,finger pushing button,,"pushing, pressing, red, alarm, nuclear missile, launch, start, stop",Kai Wanschura,,,,,
+󰁸,F0078,hfg,technology,ibeacon,,"wireless, technology, iot, internet of things, navigation, localization, antenna, connection, reception",Kai Wanschura,,,,,
+󰀃,F0003,hfg,other,picture,,"photo, picture, frame, landscape",Kai Magnus Müller,,,,,
+󰀈,F0008,hfg,ui-element,delete,,"delete, bin, waste, remove",Kai Magnus Müller,,,,,
+󰀏,F000F,hfg,ui-element,comment,,"comment, write",Kai Magnus Müller,,,,,
+󰀒,F0012,hfg,technology,keyboard,,"keyboard, key, type",Kai Magnus Müller,,,,,
+󰀕,F0015,hfg,tool,compass,,"compass, navigation, direction",Kai Magnus Müller,,,,,
+󰀙,F0019,hfg,technology,drone,,"drone, UAV, quadcopter, RC",Kai Magnus Müller,,,,,
+󰀜,F001C,hfg,ui-element,more information,,"more, plus, add, cross",Kai Magnus Müller,,,,,
+󰀟,F001F,hfg,ui-element,sort,,"sort, list, hieracy",Kai Magnus Müller,,,,,
+󰀢,F0022,hfg,ui-element,inbox,,"entrance, inbox, in",Kai Magnus Müller,,,,,
+󰀥,F0025,hfg,situation,interview,,"interview, talk, speak, bubble",Kai Magnus Müller,,,,,
+󰀬,F002C,hfg,brand,facebook,,"facebook, company, social-media",Kai Magnus Müller,,,,,
+󰀯,F002F,hfg,brand,instagram,,"instagram, facebook, company, social-media",Kai Magnus Müller,,,,,
+󰀲,F0032,hfg,ui-element,compose,,"write, compose, author",Kai Magnus Müller,,,,,
+󰀵,F0035,hfg,ui-element,add contact,,"add, contact",Kai Magnus Müller,,,,,
+󰀸,F0038,hfg,technology,arduino,,"arduino, prototyping, electric, sensor",Kai Magnus Müller,,,,,
+󰀻,F003B,hfg,ui-element,link,,"link, chain",Kai Magnus Müller,,,,,
+󰁁,F0041,hfg,situation,intricate,,"intricate, abstract",Kai Magnus Müller,,,,,
+󰁄,F0044,hfg,situation,simple,,"simple, abstract",Kai Magnus Müller,,,,,
+󰁇,F0047,hfg,technology,wire,,"wire, cord, electric, litz-wire",Kai Magnus Müller,,,,,
+󰁊,F004A,hfg,other,town,,"city, village, town",Kai Magnus Müller,,,,,
+󰁍,F004D,hfg,technology,potentiometer,,potentiometer,Kai Magnus Müller,,,,,
+󰁐,F0050,hfg,technology,solar cell,,"solar, module, cell, photovoltaic",Kai Magnus Müller,,,,,
+󰁜,F005C,hfg,other,elevator,,elevator,Kai Magnus Müller,,,,,
+󰁟,F005F,hfg,situation,surveilance,,"surveilance, camera, CCTV",Kai Magnus Müller,,,,,
+󰁦,F0066,hfg,technology,circuit,,"circuit, electric, prototype",Kai Magnus Müller,,,,,
+󰁩,F0069,hfg,technology,lighter,,"lighter, bic",Kai Magnus Müller,,,,,
+󰁬,F006C,hfg,animal,goldfish,,"goldfish, fish, water",Kai Magnus Müller,,,,,
+󰁹,F0079,hfg,technology,outlet,,outlet,Kai Magnus Müller,,,,,
+󰀴,F0034,hfg,other,locomotion,,"movement, transport, driving, destination, start, end, distance, track",Kai Wanschura,,,,,
+󰀩,F0029,hfg,people,drunk person,,"person, person-activity, person-gesture, person-sport, drunk, alcohol, party, beer, drinking",Johanna Wellnitz,,,,,
+󰁯,F006F,hfg,people,person with dog,,"person, person-activity, dog, walking, animal, pet",Johanna Wellnitz,,,,,
+󰂟,F009F,hfg,people,trump,,"trump, donald, president, america, usa",Sina Schulz,,,,,
+󰂠,F00A0,hfg,other,toggle button state B,,,Baris Camli,,,,,

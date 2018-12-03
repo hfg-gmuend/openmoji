@@ -48,9 +48,6 @@ _.each(emojibaseData, e => {
   emojis = [...emojis, e];
 });
 
-// custom hfg emojis
-const hfgEmojis = loadCsv('./data/hfg-custom-emojis.csv');
-emojis = [...emojis, hfgEmojis];
 
 // load custom meta informations extending the unicode definitions
 const hfgExtensions = arrayToEmojiDict( loadCsv('./data/hfg-unicode-extensions.csv'), 'emoji');
@@ -89,5 +86,27 @@ writeCsv(emojis, 'data/openmoji-unicode11.csv');
 // remove all emojis which not have been designed yet
 emojis = _.filter(emojis, (e) => { return e.hfg_author !== '' });
 
+// add custom hfg emojis
+let hfgEmojis = loadCsv('./data/hfg-custom-emojis.csv');
+hfgEmojis = _.map(hfgEmojis, e => {
+  return {
+    emoji: e.emoji,
+    hexcode: e.hexcode,
+    group: e.group,
+    subgroups: e.subgroups,
+    annotation: e.annotation,
+    tags: '',
+    hfg_tags: e.hfg_tags,
+    hfg_author: e.hfg_author,
+    skintone: '',
+    skintone_base_emoji: '',
+    skintone_base_hexcode: '',
+    unicode: '',
+    order: '',
+  };
+});
+emojis = [...emojis, ...hfgEmojis];
+
+// -- save to CSV and JSON files --
 writeJson(emojis, 'data/openmoji.json');
 writeCsv(emojis, 'data/openmoji.csv');
