@@ -7,10 +7,10 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></circle>
   </g>
   <g id="color">
-    <path fill="#F1B31C" d="M26,38c-3,0-4-7-4-14c0-6,5-12,14-12s14,6,14,12c0,7-1,14-4,14" stroke="none"></path>
     <path fill="#92D3F5" d="M17.0586,60.9561V57.123c0-4.9941,5.0078-9,10-9c6,5,12,5,18,0c4.9941,0,10,4.0059,10,9v3.8331H17.0586z" stroke="none"></path>
   </g>
   <g id="hair">
+    <path fill="#F1B31C" d="M26,38c-3,0-4-7-4-14c0-6,5-12,14-12s14,6,14,12c0,7-1,14-4,14" stroke="none"></path>
   </g>
   <g id="skin">
     <path fill="#FCEA2B" d="M24.9365,31c-0.1015,7.999,4.0635,14,11,14C43,45,47,39,47,31c0-5-3-10-3-10c-8,0-10,3-16,1
