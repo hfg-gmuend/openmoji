@@ -77,6 +77,7 @@ tr:nth-child(even) {
       <td>hexcode</td>
       <td>group</td>
       <td>subgroups</td>
+      <td>author</td>
     </tr>
   </thead>
   <tbody>
@@ -98,6 +99,7 @@ html += _.map(emojis, (e, i) => {
         <td>${e.hexcode}</td>
         <td>${e.group}</td>
         <td>${e.subgroups}</td>
+        <td>${e.hfg_author}</td>
     </tr>
     `;
 }).join('\n');
