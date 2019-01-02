@@ -6,7 +6,15 @@
 
 👉 OpenMoji 1.? - ???
 
-* Fix hour glasses to obey the laws of gravity
+- Ditched .ai source files in favour of .svg! Yay!
++ Converted source files from .ai to .svg
+* Refactored source files to follow new mandatory layer structure
+* Analysed, fixed and simplified all shape types for every emoji (e.g. removed mask shapes)
+* Fixed every emoji to follow the OpenMoji color palette
+
+* Added property contribution date (hfg_date) to the openmoji json/csv "data" files
+
+* Fixed hour glasses to obey the laws of gravity
 
 --------------------------------------------------------------------------------
 
