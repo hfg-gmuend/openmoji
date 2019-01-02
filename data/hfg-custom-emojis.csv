@@ -1,103 +1,103 @@
-emoji,hexcode,group,subgroups,annotation,hfg_tags,hfg_author
-󰀀,F0000,hfg,ui-element,"return, back button",,Jose Avila
-󰀁,F0001,hfg,ui-element,close,,Jose Avila
-󰀄,F0004,hfg,ui-element,forward,,Jose Avila
-󰀆,F0006,hfg,ui-element,hamburger menu,,Jose Avila
-󰀋,F000B,hfg,ui-element,upload,,Jose Avila
-󰀌,F000C,hfg,ui-element,download,,Jose Avila
-󰀍,F000D,hfg,ui-element,share,,Jose Avila
-󰀅,F0005,hfg,ui-element,wifi,,Baris Camli
-󰀉,F0009,hfg,ui-element,copy,,Baris Camli
-󰀓,F0013,hfg,technology,mouse,,Baris Camli
-󰀖,F0016,hfg,ui-element,contacts,,Baris Camli
-󰀚,F001A,hfg,ui-element,filter,,Baris Camli
-󰀝,F001D,hfg,other,toggle button,,Baris Camli
-󰀠,F0020,hfg,interaction,tap,,Baris Camli
-󰀣,F0023,hfg,other,exit,,Baris Camli
-󰀭,F002D,hfg,brand,Twitter,,Baris Camli
-󰀰,F0030,hfg,ui-element,cursor,,Baris Camli
-󰀳,F0033,hfg,other,location indicator,,Baris Camli
-󰀶,F0036,hfg,technology,augmented reality,,Baris Camli
-󰀼,F003C,hfg,other,wireframes,,Baris Camli
-󰀿,F003F,hfg,interaction,double tap,,Baris Camli
-󰁂,F0042,hfg,ui-element,details,,Baris Camli
-󰁅,F0045,hfg,ui-element,hold,,Baris Camli
-󰁈,F0048,hfg,technology,led,,Baris Camli
-󰁋,F004B,hfg,technology,motor,,Baris Camli
-󰁎,F004E,hfg,technology,raspberry pi,,Baris Camli
-󰁑,F0051,hfg,situation,safety,,Baris Camli
-󰁔,F0054,hfg,technology,virtual reality,,Baris Camli
-󰁚,F005A,hfg,other,first aid kit,,Baris Camli
-󰁝,F005D,hfg,other,cafeteria,,Baris Camli
-󰁣,F0063,hfg,other,code editor,,Baris Camli
-󰁧,F0067,hfg,technology,cable,,Baris Camli
-󰁪,F006A,hfg,other,armchair,,Baris Camli
-󰁭,F006D,hfg,other,donkey,,Baris Camli
-󰁱,F0071,hfg,interaction,mark,,Baris Camli
-󰁴,F0074,hfg,interaction,three finger operation,,Baris Camli
-󰁷,F0077,hfg,interaction,move,,Baris Camli
-󰀹,F0039,hfg,other,autonom car,,Baris Camli
-󰀂,F0002,hfg,ui-element,duplicate,"make copy, second, file, create, page, document",Kai Wanschura
-󰀇,F0007,hfg,ui-element,save,"store, hard drive, record, hdd, harddisk, download",Kai Wanschura
-󰀊,F000A,hfg,ui-element,edit,"change, editing, pencil, page, document, file, write, writing, scribble",Kai Wanschura
-󰀑,F0011,hfg,ui-element,home button,"house, main, page, website, navigation, app, ui, symbol, internet, homepage",Kai Wanschura
-󰀔,F0014,hfg,ui-element,add button,"new, file, plus, more, create, set",Kai Wanschura
-󰀗,F0017,hfg,technology,tablet,"technology, device, portable, screen, phablet, ipad",Kai Wanschura
-󰀛,F001B,hfg,technology,gps,"navigation, localization, location, reception, signal, wireless, crosshair, where",Kai Wanschura
-󰀞,F001E,hfg,interaction,scroll,"vertical, y-axis, mouse, wheel, movement, up, down",Kai Wanschura
-󰀡,F0021,hfg,other,switch,"toggling, changeover switch, exchange counter, left, right",Kai Wanschura
-󰀤,F0024,hfg,other,emergency exit,"alarm, fire, escape, way, route, guidance, signage, run, person, people, humans",Kai Wanschura
-󰀮,F002E,hfg,brand,pinterest,"social, platform, pins",Kai Wanschura
-󰀱,F0031,hfg,interaction,swipe,"swipe, finger, move, hand, sideways, app",Kai Wanschura
-󰀷,F0037,hfg,ui-element,archive,"save, save to, library, cupboard, drawer",Kai Wanschura
-󰀺,F003A,hfg,situation,chats,"messaging, typing, message, text, writing, write, dialog",Kai Wanschura
-󰁀,F0040,hfg,situation,collaboration,"collab, team, teamwork, group, work, communication, circle",Kai Wanschura
-󰁃,F0043,hfg,ui-element,overview,"overview, lines, list",Kai Wanschura
-󰁆,F0046,hfg,interaction,scroll horizontal,"x-axis, move, mouse, scrollwheel, scrolling",Kai Wanschura
-󰁉,F0049,hfg,other,scale,"measurement, scaling, size, distance, meters, inches, miles, kilometers",Kai Wanschura
-󰁌,F004C,hfg,interaction,page move,"movement, left, right, site, document, next, previous, paper",Kai Wanschura
-󰁏,F004F,hfg,technology,smartwatch,"clock, apps, monitor, intelligent, device, armlet",Kai Wanschura
-󰁕,F0055,hfg,technology,washing machine,"clothing, garment, cleaner, home electronics, appliance",Kai Wanschura
-󰁖,F0056,hfg,interaction,swipe left,"finger, movement, gesture, touch, app, left, x-axis, hand",Kai Wanschura
-󰁗,F0057,hfg,interaction,swipe up,"finger, movement, gesture, touch, app, up, y-axis, hand",Kai Wanschura
-󰁘,F0058,hfg,interaction,swipe right,"finger, movement, gesture, touch, app, right, x-axis, hand",Kai Wanschura
-󰁙,F0059,hfg,interaction,swipe down,"finger, movement, gesture, touch, app, down, y-axis, hand",Kai Wanschura
-󰁛,F005B,hfg,other,stairway,"steps, up, down, ascend, descend, walk",Kai Wanschura
-󰁡,F0061,hfg,sign,parking garage,"parking lot, car, automobile, vehicle, sign, traffic sign, p",Kai Wanschura
-󰁥,F0065,hfg,people,people dialogue,"communication, talking, chatting, users, humans, conversation, two, face-to-face",Kai Wanschura
-󰁮,F006E,hfg,people,persons hugging,"love, harmony, humans, like, making out, arms",Kai Wanschura
-󰁲,F0072,hfg,interaction,finger pushing button,"pushing, pressing, red, alarm, nuclear missile, launch, start, stop",Kai Wanschura
-󰁸,F0078,hfg,technology,ibeacon,"wireless, technology, iot, internet of things, navigation, localization, antenna, connection, reception",Kai Wanschura
-󰀃,F0003,hfg,other,picture,"photo, picture, frame, landscape",Kai Magnus Müller
-󰀈,F0008,hfg,ui-element,delete,"delete, bin, waste, remove",Kai Magnus Müller
-󰀏,F000F,hfg,ui-element,comment,"comment, write",Kai Magnus Müller
-󰀒,F0012,hfg,technology,keyboard,"keyboard, key, type",Kai Magnus Müller
-󰀕,F0015,hfg,tool,compass,"compass, navigation, direction",Kai Magnus Müller
-󰀙,F0019,hfg,technology,drone,"drone, UAV, quadcopter, RC",Kai Magnus Müller
-󰀜,F001C,hfg,ui-element,more information,"more, plus, add, cross",Kai Magnus Müller
-󰀟,F001F,hfg,ui-element,sort,"sort, list, hieracy",Kai Magnus Müller
-󰀢,F0022,hfg,ui-element,inbox,"entrance, inbox, in",Kai Magnus Müller
-󰀥,F0025,hfg,situation,interview,"interview, talk, speak, bubble",Kai Magnus Müller
-󰀬,F002C,hfg,brand,facebook,"facebook, company, social-media",Kai Magnus Müller
-󰀯,F002F,hfg,brand,instagram,"instagram, facebook, company, social-media",Kai Magnus Müller
-󰀲,F0032,hfg,ui-element,compose,"write, compose, author",Kai Magnus Müller
-󰀵,F0035,hfg,ui-element,add contact,"add, contact",Kai Magnus Müller
-󰀸,F0038,hfg,technology,arduino,"arduino, prototyping, electric, sensor",Kai Magnus Müller
-󰀻,F003B,hfg,ui-element,link,"link, chain",Kai Magnus Müller
-󰁁,F0041,hfg,situation,intricate,"intricate, abstract",Kai Magnus Müller
-󰁄,F0044,hfg,situation,simple,"simple, abstract",Kai Magnus Müller
-󰁇,F0047,hfg,technology,wire,"wire, cord, electric, litz-wire",Kai Magnus Müller
-󰁊,F004A,hfg,other,town,"city, village, town",Kai Magnus Müller
-󰁍,F004D,hfg,technology,potentiometer,potentiometer,Kai Magnus Müller
-󰁐,F0050,hfg,technology,solar cell,"solar, module, cell, photovoltaic",Kai Magnus Müller
-󰁜,F005C,hfg,other,elevator,elevator,Kai Magnus Müller
-󰁟,F005F,hfg,situation,surveilance,"surveilance, camera, CCTV",Kai Magnus Müller
-󰁦,F0066,hfg,technology,circuit,"circuit, electric, prototype",Kai Magnus Müller
-󰁩,F0069,hfg,technology,lighter,"lighter, bic",Kai Magnus Müller
-󰁬,F006C,hfg,animal,goldfish,"goldfish, fish, water",Kai Magnus Müller
-󰁹,F0079,hfg,technology,outlet,outlet,Kai Magnus Müller
-󰀴,F0034,hfg,other,locomotion,"movement, transport, driving, destination, start, end, distance, track",Kai Wanschura
-󰀩,F0029,hfg,people,drunk person,"person, person-activity, person-gesture, person-sport, drunk, alcohol, party, beer, drinking",Johanna Wellnitz
-󰁯,F006F,hfg,people,person with dog,"person, person-activity, dog, walking, animal, pet",Johanna Wellnitz
-󰂟,F009F,hfg,people,trump,"trump, donald, president, america, usa",Sina Schulz
-󰂠,F00A0,hfg,other,toggle button state B,,Baris Camli
+emoji,hexcode,group,subgroups,annotation,hfg_tags,hfg_author,hfg_date
+󰀀,F0000,hfg,ui-element,"return, back button",,Jose Avila,2018-04-18
+󰀁,F0001,hfg,ui-element,close,,Jose Avila,2018-04-18
+󰀄,F0004,hfg,ui-element,forward,,Jose Avila,2018-04-18
+󰀆,F0006,hfg,ui-element,hamburger menu,,Jose Avila,2018-04-18
+󰀋,F000B,hfg,ui-element,upload,,Jose Avila,2018-04-18
+󰀌,F000C,hfg,ui-element,download,,Jose Avila,2018-04-18
+󰀍,F000D,hfg,ui-element,share,,Jose Avila,2018-04-18
+󰀅,F0005,hfg,ui-element,wifi,,Baris Camli,2018-04-18
+󰀉,F0009,hfg,ui-element,copy,,Baris Camli,2018-04-18
+󰀓,F0013,hfg,technology,mouse,,Baris Camli,2018-04-18
+󰀖,F0016,hfg,ui-element,contacts,,Baris Camli,2018-04-18
+󰀚,F001A,hfg,ui-element,filter,,Baris Camli,2018-04-18
+󰀝,F001D,hfg,other,toggle button,,Baris Camli,2018-04-18
+󰀠,F0020,hfg,interaction,tap,,Baris Camli,2018-04-18
+󰀣,F0023,hfg,other,exit,,Baris Camli,2018-04-18
+󰀭,F002D,hfg,brand,Twitter,,Baris Camli,2018-04-18
+󰀰,F0030,hfg,ui-element,cursor,,Baris Camli,2018-04-18
+󰀳,F0033,hfg,other,location indicator,,Baris Camli,2018-04-18
+󰀶,F0036,hfg,technology,augmented reality,,Baris Camli,2018-04-18
+󰀼,F003C,hfg,other,wireframes,,Baris Camli,2018-04-18
+󰀿,F003F,hfg,interaction,double tap,,Baris Camli,2018-04-18
+󰁂,F0042,hfg,ui-element,details,,Baris Camli,2018-04-18
+󰁅,F0045,hfg,ui-element,hold,,Baris Camli,2018-04-18
+󰁈,F0048,hfg,technology,led,,Baris Camli,2018-04-18
+󰁋,F004B,hfg,technology,motor,,Baris Camli,2018-04-18
+󰁎,F004E,hfg,technology,raspberry pi,,Baris Camli,2018-04-18
+󰁑,F0051,hfg,situation,safety,,Baris Camli,2018-04-18
+󰁔,F0054,hfg,technology,virtual reality,,Baris Camli,2018-04-18
+󰁚,F005A,hfg,other,first aid kit,,Baris Camli,2018-04-18
+󰁝,F005D,hfg,other,cafeteria,,Baris Camli,2018-04-18
+󰁣,F0063,hfg,other,code editor,,Baris Camli,2018-04-18
+󰁧,F0067,hfg,technology,cable,,Baris Camli,2018-04-18
+󰁪,F006A,hfg,other,armchair,,Baris Camli,2018-04-18
+󰁭,F006D,hfg,other,donkey,,Baris Camli,2018-04-18
+󰁱,F0071,hfg,interaction,mark,,Baris Camli,2018-04-18
+󰁴,F0074,hfg,interaction,three finger operation,,Baris Camli,2018-04-18
+󰁷,F0077,hfg,interaction,move,,Baris Camli,2018-04-18
+󰀹,F0039,hfg,other,autonom car,,Baris Camli,2018-04-18
+󰀂,F0002,hfg,ui-element,duplicate,"make copy, second, file, create, page, document",Kai Wanschura,2018-04-18
+󰀇,F0007,hfg,ui-element,save,"store, hard drive, record, hdd, harddisk, download",Kai Wanschura,2018-04-18
+󰀊,F000A,hfg,ui-element,edit,"change, editing, pencil, page, document, file, write, writing, scribble",Kai Wanschura,2018-04-18
+󰀑,F0011,hfg,ui-element,home button,"house, main, page, website, navigation, app, ui, symbol, internet, homepage",Kai Wanschura,2018-04-18
+󰀔,F0014,hfg,ui-element,add button,"new, file, plus, more, create, set",Kai Wanschura,2018-04-18
+󰀗,F0017,hfg,technology,tablet,"technology, device, portable, screen, phablet, ipad",Kai Wanschura,2018-04-18
+󰀛,F001B,hfg,technology,gps,"navigation, localization, location, reception, signal, wireless, crosshair, where",Kai Wanschura,2018-04-18
+󰀞,F001E,hfg,interaction,scroll,"vertical, y-axis, mouse, wheel, movement, up, down",Kai Wanschura,2018-04-18
+󰀡,F0021,hfg,other,switch,"toggling, changeover switch, exchange counter, left, right",Kai Wanschura,2018-04-18
+󰀤,F0024,hfg,other,emergency exit,"alarm, fire, escape, way, route, guidance, signage, run, person, people, humans",Kai Wanschura,2018-04-18
+󰀮,F002E,hfg,brand,pinterest,"social, platform, pins",Kai Wanschura,2018-04-18
+󰀱,F0031,hfg,interaction,swipe,"swipe, finger, move, hand, sideways, app",Kai Wanschura,2018-04-18
+󰀷,F0037,hfg,ui-element,archive,"save, save to, library, cupboard, drawer",Kai Wanschura,2018-04-18
+󰀺,F003A,hfg,situation,chats,"messaging, typing, message, text, writing, write, dialog",Kai Wanschura,2018-04-18
+󰁀,F0040,hfg,situation,collaboration,"collab, team, teamwork, group, work, communication, circle",Kai Wanschura,2018-04-18
+󰁃,F0043,hfg,ui-element,overview,"overview, lines, list",Kai Wanschura,2018-04-18
+󰁆,F0046,hfg,interaction,scroll horizontal,"x-axis, move, mouse, scrollwheel, scrolling",Kai Wanschura,2018-04-18
+󰁉,F0049,hfg,other,scale,"measurement, scaling, size, distance, meters, inches, miles, kilometers",Kai Wanschura,2018-04-18
+󰁌,F004C,hfg,interaction,page move,"movement, left, right, site, document, next, previous, paper",Kai Wanschura,2018-04-18
+󰁏,F004F,hfg,technology,smartwatch,"clock, apps, monitor, intelligent, device, armlet",Kai Wanschura,2018-04-18
+󰁕,F0055,hfg,technology,washing machine,"clothing, garment, cleaner, home electronics, appliance",Kai Wanschura,2018-04-18
+󰁖,F0056,hfg,interaction,swipe left,"finger, movement, gesture, touch, app, left, x-axis, hand",Kai Wanschura,2018-04-18
+󰁗,F0057,hfg,interaction,swipe up,"finger, movement, gesture, touch, app, up, y-axis, hand",Kai Wanschura,2018-04-18
+󰁘,F0058,hfg,interaction,swipe right,"finger, movement, gesture, touch, app, right, x-axis, hand",Kai Wanschura,2018-04-18
+󰁙,F0059,hfg,interaction,swipe down,"finger, movement, gesture, touch, app, down, y-axis, hand",Kai Wanschura,2018-04-18
+󰁛,F005B,hfg,other,stairway,"steps, up, down, ascend, descend, walk",Kai Wanschura,2018-04-18
+󰁡,F0061,hfg,sign,parking garage,"parking lot, car, automobile, vehicle, sign, traffic sign, p",Kai Wanschura,2018-04-18
+󰁥,F0065,hfg,people,people dialogue,"communication, talking, chatting, users, humans, conversation, two, face-to-face",Kai Wanschura,2018-04-18
+󰁮,F006E,hfg,people,persons hugging,"love, harmony, humans, like, making out, arms",Kai Wanschura,2018-04-18
+󰁲,F0072,hfg,interaction,finger pushing button,"pushing, pressing, red, alarm, nuclear missile, launch, start, stop",Kai Wanschura,2018-04-18
+󰁸,F0078,hfg,technology,ibeacon,"wireless, technology, iot, internet of things, navigation, localization, antenna, connection, reception",Kai Wanschura,2018-04-18
+󰀃,F0003,hfg,other,picture,"photo, picture, frame, landscape",Kai Magnus Müller,2018-04-18
+󰀈,F0008,hfg,ui-element,delete,"delete, bin, waste, remove",Kai Magnus Müller,2018-04-18
+󰀏,F000F,hfg,ui-element,comment,"comment, write",Kai Magnus Müller,2018-04-18
+󰀒,F0012,hfg,technology,keyboard,"keyboard, key, type",Kai Magnus Müller,2018-04-18
+󰀕,F0015,hfg,tool,compass,"compass, navigation, direction",Kai Magnus Müller,2018-04-18
+󰀙,F0019,hfg,technology,drone,"drone, UAV, quadcopter, RC",Kai Magnus Müller,2018-04-18
+󰀜,F001C,hfg,ui-element,more information,"more, plus, add, cross",Kai Magnus Müller,2018-04-18
+󰀟,F001F,hfg,ui-element,sort,"sort, list, hieracy",Kai Magnus Müller,2018-04-18
+󰀢,F0022,hfg,ui-element,inbox,"entrance, inbox, in",Kai Magnus Müller,2018-04-18
+󰀥,F0025,hfg,situation,interview,"interview, talk, speak, bubble",Kai Magnus Müller,2018-04-18
+󰀬,F002C,hfg,brand,facebook,"facebook, company, social-media",Kai Magnus Müller,2018-04-18
+󰀯,F002F,hfg,brand,instagram,"instagram, facebook, company, social-media",Kai Magnus Müller,2018-04-18
+󰀲,F0032,hfg,ui-element,compose,"write, compose, author",Kai Magnus Müller,2018-04-18
+󰀵,F0035,hfg,ui-element,add contact,"add, contact",Kai Magnus Müller,2018-04-18
+󰀸,F0038,hfg,technology,arduino,"arduino, prototyping, electric, sensor",Kai Magnus Müller,2018-04-18
+󰀻,F003B,hfg,ui-element,link,"link, chain",Kai Magnus Müller,2018-04-18
+󰁁,F0041,hfg,situation,intricate,"intricate, abstract",Kai Magnus Müller,2018-04-18
+󰁄,F0044,hfg,situation,simple,"simple, abstract",Kai Magnus Müller,2018-04-18
+󰁇,F0047,hfg,technology,wire,"wire, cord, electric, litz-wire",Kai Magnus Müller,2018-04-18
+󰁊,F004A,hfg,other,town,"city, village, town",Kai Magnus Müller,2018-04-18
+󰁍,F004D,hfg,technology,potentiometer,potentiometer,Kai Magnus Müller,2018-04-18
+󰁐,F0050,hfg,technology,solar cell,"solar, module, cell, photovoltaic",Kai Magnus Müller,2018-04-18
+󰁜,F005C,hfg,other,elevator,elevator,Kai Magnus Müller,2018-04-18
+󰁟,F005F,hfg,situation,surveilance,"surveilance, camera, CCTV",Kai Magnus Müller,2018-04-18
+󰁦,F0066,hfg,technology,circuit,"circuit, electric, prototype",Kai Magnus Müller,2018-04-18
+󰁩,F0069,hfg,technology,lighter,"lighter, bic",Kai Magnus Müller,2018-04-18
+󰁬,F006C,hfg,animal,goldfish,"goldfish, fish, water",Kai Magnus Müller,2018-04-18
+󰁹,F0079,hfg,technology,outlet,outlet,Kai Magnus Müller,2018-04-18
+󰀴,F0034,hfg,other,locomotion,"movement, transport, driving, destination, start, end, distance, track",Kai Wanschura,2018-04-18
+󰀩,F0029,hfg,people,drunk person,"person, person-activity, person-gesture, person-sport, drunk, alcohol, party, beer, drinking",Johanna Wellnitz,2018-04-18
+󰁯,F006F,hfg,people,person with dog,"person, person-activity, dog, walking, animal, pet",Johanna Wellnitz,2018-04-18
+󰂟,F009F,hfg,people,trump,"trump, donald, president, america, usa",Sina Schulz,2018-04-18
+󰂠,F00A0,hfg,other,toggle button state B,,Baris Camli,2018-04-18

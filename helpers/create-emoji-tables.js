@@ -56,8 +56,10 @@ const hfgExtensions = arrayToEmojiDict( loadCsv('./data/hfg-unicode-extensions.c
 // enhance meta infromations of each emoji
 emojis = _.map(emojis, e => {
   let hfg_author = hfgExtensions[e.emoji] ? hfgExtensions[e.emoji]['hfg_author'] : '';
+  let hfg_date = hfgExtensions[e.emoji] ? hfgExtensions[e.emoji]['hfg_date'] : '';
   if (e.skintone_base_emoji) {
     hfg_author = hfgExtensions[e.skintone_base_emoji] ? hfgExtensions[e.skintone_base_emoji]['hfg_author'] : '';
+    hfg_date = hfgExtensions[e.skintone_base_emoji] ? hfgExtensions[e.skintone_base_emoji]['hfg_date'] : '';
   }
   return {
     emoji: e.emoji,
@@ -68,6 +70,7 @@ emojis = _.map(emojis, e => {
     tags: e.tags ? e.tags.join(', ') : '',
     hfg_tags: hfgExtensions[e.emoji] ? hfgExtensions[e.emoji]['hfg_tags'] : '',
     hfg_author: hfg_author,
+    hfg_date: hfg_date,
     skintone: e.tone ? e.tone : '',
     skintone_base_emoji: e.skintone_base_emoji ? e.skintone_base_emoji : '',
     skintone_base_hexcode: e.skintone_base_hexcode ? e.skintone_base_hexcode : '',
@@ -98,6 +101,7 @@ hfgEmojis = _.map(hfgEmojis, e => {
     tags: '',
     hfg_tags: e.hfg_tags,
     hfg_author: e.hfg_author,
+    hfg_date: e.hfg_date,
     skintone: '',
     skintone_base_emoji: '',
     skintone_base_hexcode: '',
