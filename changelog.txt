@@ -6,7 +6,7 @@
 
 👉 OpenMoji 1.? - ???
 
-+ Added 134 new emojis.
++ Added 135 new emojis.
   Contributions of the OpenMoji Workshop at the HfG Laborwoche 2018 by
   Abby Esquivel, Aileen Gedrat, Anne Frauendorf, Daniel Quiros, Hend Hourani,
   Lois Proksch, Louisa Mantsch, Marleen Heine, Nadja Grün, Sarah Mager,
