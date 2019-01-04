@@ -1,6 +1,5 @@
 const path = require('path');
 const fs = require('fs');
-const { COPYFILE_EXCL } = fs.constants;
 
 const glob = require('glob').sync;
 var argv = process.argv.slice(2);
@@ -36,9 +35,13 @@ svgFiles.forEach((f, i) => {
     throw Error ('Cannot find Unicode definition for '+f);
   }
 
-  const destination = path.join('src', emoji.group, emoji.subgroups, basename+'.svg')
-  fs.copyFileSync(f, destination, COPYFILE_EXCL);
-  console.log(basename+'.svg', '->', destination);
+  const destination = path.join('src', emoji.group, emoji.subgroups, basename+'.svg');
+  if (fs.existsSync(destination)) {
+    console.log(basename+'.svg', '->', destination, '⚠️ OVERWRITE');
+  } else {
+    console.log(basename+'.svg', '->', destination);
+  }
+  fs.copyFileSync(f, destination);
 
   let dt = new Date();
   dt = dt.getFullYear() +'-'+ ('0' + (dt.getMonth()+1)).slice(-2) +'-'+ ('0' + dt.getDate()).slice(-2);
