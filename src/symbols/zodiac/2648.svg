@@ -1,0 +1,18 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>2648</title>
+  <g id="grid">
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
+    <path d="M12.9228,10.959H59.0771A1.9229,1.9229,0,0,1,61,12.8819V59.0361a1.9219,1.9219,0,0,1-1.9219,1.9219H12.9229A1.9229,1.9229,0,0,1,11,59.0351V12.8818A1.9228,1.9228,0,0,1,12.9228,10.959Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2539" ry="2.2539" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2539" ry="2.2539" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <rect x="12" y="12" width="48" height="47.834" fill="#b399c8"/>
+  </g>
+  <g id="line">
+    <path d="M36.3486,50.0508,27.67,27.5381s-1.1094-3.7178-3.7187-3.1318-1.7617,4.5693-.3262,5.9384" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+    <path d="M36.3584,50.0508l8.6787-22.5127s1.1094-3.7178,3.72-3.1318,1.7618,4.5693.3262,5.9384" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+    <rect x="12.25" y="11.75" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
