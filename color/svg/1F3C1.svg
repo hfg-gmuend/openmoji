@@ -1,36 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83C__xDFC1__1_">
-	<rect x="22.4" y="17.3" fill="#FFFFFF" width="6" height="6"/>
-	<rect x="22.4" y="23.3" width="6" height="6"/>
-	<polygon fill="#FFFFFF" points="28.4,33.9 22.4,35.3 22.4,29.3 28.4,29.3 	"/>
-	<rect x="28.4" y="17.3" width="6" height="6"/>
-	<rect x="28.4" y="23.3" fill="#FFFFFF" width="6" height="6"/>
-	<rect x="28.4" y="29.3" width="6" height="5.1"/>
-	<rect x="34.4" y="17.3" fill="#FFFFFF" width="6" height="6"/>
-	<polygon points="28.4,17.3 22.4,17.3 23,16.6 28.4,16 	"/>
-	<rect x="28.4" y="15" fill="#FFFFFF" width="6" height="2.3"/>
-	<polygon points="40.4,17.3 34.4,17.3 34.4,15.6 40.4,16.6 	"/>
-	<rect x="34.4" y="23.3" width="6" height="6"/>
-	<polygon fill="#FFFFFF" points="40.4,35.3 34.4,33.8 34.4,29.3 40.4,29.3 	"/>
-	<polygon points="46.4,23.3 40.4,23.3 40.4,18.6 46.4,20 	"/>
-	<rect x="40.4" y="23.3" fill="#FFFFFF" width="6" height="6"/>
-	<rect x="40.4" y="29.3" width="6" height="6"/>
-	<rect x="46.4" y="20.3" fill="#FFFFFF" width="6" height="3"/>
-	<rect x="46.4" y="23.3" width="6" height="6"/>
-	<rect x="46.4" y="29.3" fill="#FFFFFF" width="6" height="6"/>
-	<rect x="52.4" y="20.3" width="1.7" height="3"/>
-	<rect x="52.4" y="23.3" fill="#FFFFFF" width="1.7" height="6"/>
-	<rect x="52.4" y="29.3" width="1.9" height="6"/>
-	<rect x="40.4" y="35.3" fill="#FFFFFF" width="6" height="1.9"/>
-	<rect x="46.4" y="35.3" width="6" height="3.5"/>
-	<rect x="52.4" y="35.3" fill="#FFFFFF" width="2.1" height="2.4"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M23.1,17.5c2.9-1.8,8.4-4.2,14.4-1.5c3.7,1.7,5.6,4.7,15,4.1c0.8,0,1.5,0.6,1.5,1.4c0,3.3,0,11.1,0,15.1c0,0.6-0.4,1.1-1,1.4
-		c-1.9,1-7.3,0.9-15.5-3c-3.4-1.6-8.6-2.6-14.5,1.4"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="19.3" y1="12.9" x2="19.3" y2="59.8"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>1F3C1</title>
+  
+  <g id="color">
+    <g>
+      <path d="M67,30s-.758-.379-2.0988-.89a41.4813,41.4813,0,0,0-12.0007-2.5992v10A41.4813,41.4813,0,0,1,64.9012,39.11C66.242,39.621,67,40,67,40Z"></path>
+      <path d="M40.9256,27.921A29.5343,29.5343,0,0,0,36,30a29.5053,29.5053,0,0,1-7.0771,2.6738v10A29.5053,29.5053,0,0,0,36,40a29.5343,29.5343,0,0,1,4.9256-2.079Z"></path>
+      <path d="M16.9136,33.2576a39.4092,39.4092,0,0,1-11.8773-3.34v10a39.4092,39.4092,0,0,0,11.8773,3.34Z"></path>
+      <path d="M52.9005,15.5112a32.8093,32.8093,0,0,0-11.9749,1.41v11a32.8093,32.8093,0,0,1,11.9749-1.41Z"></path>
+      <path d="M28.9229,21.6738a34.1166,34.1166,0,0,1-12.0093.5838v11a34.1166,34.1166,0,0,0,12.0093-.5838Z"></path>
+      <path d="M67,9s-.758-.379-2.0988-.89A41.4813,41.4813,0,0,0,52.9005,5.5112v10A41.4813,41.4813,0,0,1,64.9012,18.11C66.242,18.621,67,19,67,19Z"></path>
+      <path d="M40.9256,6A39.3021,39.3021,0,0,0,35,8c-2.3571,1.2571-3.738,2.4434-6.0771,3V21.6738A29.5053,29.5053,0,0,0,36,19a29.5343,29.5343,0,0,1,4.9256-2.079Z"></path>
+      <path d="M16.9136,12.2576a39.4092,39.4092,0,0,1-11.8773-3.34v10a39.4092,39.4092,0,0,0,11.8773,3.34Z"></path>
+    </g>
+  </g>
+  <g id="line">
+    <g>
+      <path d="M66.9637,40s-16-8-31,0S5,39.9174,5,39.9174v-32S20.9637,16,35.9637,8s31,0,31,0Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+      <line x1="5" y1="8.2278" x2="5" y2="67.7722" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></line>
+    </g>
+  </g>
 </svg>

@@ -1,28 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83C__xDFD5__xFE0F__1_">
-	<polyline fill="none" points="26.4,35 11.9,60 40.9,60 26.4,35 	"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M26.4,60"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="46.4,60 
-		46.4,52.3 41.1,47.2 	"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="47" y1="52.2" x2="50" y2="49.1"/>
-	<polyline fill="none" points="26.4,44.2 26.4,60 11.9,60 26.4,35 	"/>
-	
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		26.4,35 11.9,60 40.9,60 34,48 	"/>
-	
-		<line fill="#F1B31C" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="26.4" y1="60" x2="26.4" y2="44.2"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="26.4" y1="44.2" x2="26.4" y2="60"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M65.9,32.6
-		c0-3.5-3.6-6.4-8.1-6.4c-0.4,0-0.8,0-1.1,0.1c-1.9-3.7-6-6.3-10.8-6.3c-6.6,0-12,4.8-12,10.8c0,0.4,0,0.8,0.1,1.2c-3,1-5,3.3-5,5.9
-		c0,3.5,3.6,6.4,8.1,6.4c1.7,0,3.4-0.4,4.9-1.3c1.9,1.6,5,2.6,8.5,2.6c5.8,0,10.5-2.9,10.5-6.4c0-0.2,0-0.5-0.1-0.7
-		C63.9,37.6,65.9,35.3,65.9,32.6z"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M26.4,54c-1,0-3,1-5,1c-2.8,0-5,2.2-5,5h10V54z"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  
+  
+  
+  
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M27,60"></path>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="46.9399,60 
+		46.9399,52.3255 41.6551,47.1613 	"></polyline>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="47.5116" y1="52.2181" x2="50.5178" y2="49.0505"></line>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		27,35 12.5,60 41.5,60 34.5657,48.0444 	"></polyline>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="27" y1="60" x2="27" y2="44.25"></line>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="27" y1="44.25" x2="27" y2="60"></line>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M66.5,32.6158
+		c0-3.5438-3.6409-6.422-8.1319-6.422c-0.3752,0.0031-0.75,0.0268-1.1227,0.0708C55.3433,22.5678,51.2137,20,46.4116,20
+		c-6.6037,0-11.9566,4.845-11.9566,10.8212c0.0012,0.395,0.026,0.7896,0.0743,1.1815C31.5775,32.9659,29.5,35.2594,29.5,37.9378
+		c0,3.5437,3.6409,6.422,8.1319,6.422c1.7071,0.0148,3.3882-0.4304,4.8765-1.2914c1.9213,1.5798,4.9956,2.6089,8.472,2.6089
+		c5.8244,0,10.546-2.8754,10.546-6.4219c-0.001-0.2345-0.0226-0.4684-0.0647-0.6989C64.4176,37.5919,66.5,35.297,66.5,32.6158z"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M27,54c-1,0-3,1-5,1c-2.7614,0-5,2.2386-5,5h10V54z"></path>
+  </g>
 </svg>

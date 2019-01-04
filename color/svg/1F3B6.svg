@@ -1,29 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83C__xDFB6_">
-	<g>
-		<circle fill="#3E4040" cx="15.2" cy="45.7" r="5.5"/>
-		<circle fill="#3E4040" cx="29.4" cy="57.9" r="5.5"/>
-		<circle fill="#3E4040" cx="46.1" cy="45.7" r="5.5"/>
-	</g>
-	<g>
-		
-			<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="15.2" cy="45.7" r="5"/>
-		
-			<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="29.4" cy="57.9" r="5"/>
-		
-			<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="46.1" cy="45.7" r="5"/>
-		
-			<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			56.7,17.2 50.8,17.2 51.1,45.7 		"/>
-		
-			<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			40,29.4 34.1,29.4 34.4,57.9 		"/>
-		
-			<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			25.8,17.2 19.8,17.2 20.2,45.7 		"/>
-	</g>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  <g id="color">
+    <circle fill="#3f3f3f" cx="15.2049" cy="45.7102" r="5.5484" stroke="none"></circle>
+    <circle fill="#3f3f3f" cx="29.4459" cy="57.9304" r="5.548" stroke="none"></circle>
+    <circle fill="#3f3f3f" cx="46.1395" cy="45.7102" r="5.5484" stroke="none"></circle>
+  </g>
+  <g id="hair">
+  </g>
+  <g id="skin">
+  </g>
+  <g id="skin-shadow">
+  </g>
+  <g id="line">
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="15.2049" cy="45.7102" r="5"></circle>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="29.4459" cy="57.9304" r="5"></circle>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="46.1395" cy="45.7102" r="5"></circle>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			56.7293,17.1547 50.7609,17.1547 51.1395,45.7102 		"></polyline>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			40.0358,29.3749 34.0673,29.3749 34.4459,57.9304 		"></polyline>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			25.7947,17.1547 19.8263,17.1547 20.2049,45.7102 		"></polyline>
+  </g>
 </svg>

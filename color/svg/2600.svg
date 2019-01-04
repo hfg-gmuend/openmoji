@@ -1,19 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_x2600__xFE0F_">
-	<g>
-		<polygon fill="#FCEA2B" points="66,36 55.3,41.2 62,51 50.1,50.1 51,62 41.2,55.3 36,66 30.8,55.3 21,62 21.9,50.1 10,51 
-			16.7,41.2 6,36 16.7,30.8 10,21 21.9,21.9 21,10 30.8,16.7 36,6 41.2,16.7 51,10 50.1,21.9 62,21 55.3,30.8 		"/>
-	</g>
-	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="35.9" r="19.8"/>
-	<g>
-		
-			<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			66,36 55.3,41.2 62,51 50.1,50.1 51,62 41.2,55.3 36,66 30.8,55.3 21,62 21.9,50.1 10,51 16.7,41.2 6,36 16.7,30.8 10,21 
-			21.9,21.9 21,10 30.8,16.7 36,6 41.2,16.7 51,10 50.1,21.9 62,21 55.3,30.8 		"/>
-	</g>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  <g id="color">
+    <polygon fill="#FCEA2B" points="66,36 55.3235,41.1816 61.9819,51.0063 50.1418,50.1424 51.0056,61.9823 41.1813,55.3236 36,66 
+			30.8184,55.3235 20.9937,61.9819 21.8576,50.1418 10.0177,51.0056 16.6764,41.1813 6,36 16.6765,30.8184 10.0181,20.9937 
+			21.8582,21.8576 20.9944,10.0177 30.8187,16.6764 36,6 41.1816,16.6765 51.0063,10.0181 50.1424,21.8582 61.9823,20.9944 
+			55.3236,30.8187 		" stroke="none"></polygon>
+  </g>
+  <g id="hair">
+  </g>
+  <g id="skin">
+  </g>
+  <g id="skin-shadow">
+  </g>
+  <g id="line">
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="35.95" r="19.8276"></circle>
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			66,36 55.3235,41.1816 61.9819,51.0063 50.1418,50.1424 51.0056,61.9823 41.1813,55.3236 36,66 30.8184,55.3235 20.9937,61.9819 
+			21.8576,50.1418 10.0177,51.0056 16.6764,41.1813 6,36 16.6765,30.8184 10.0181,20.9937 21.8582,21.8576 20.9944,10.0177 
+			30.8187,16.6764 36,6 41.1816,16.6765 51.0063,10.0181 50.1424,21.8582 61.9823,20.9944 55.3236,30.8187 		"></polygon>
+  </g>
 </svg>

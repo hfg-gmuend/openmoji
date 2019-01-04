@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDE36_">
-	<circle fill="none" stroke="#FDE034" stroke-miterlimit="10" cx="35.6" cy="36" r="23"/>
-	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.6" cy="36" r="23"/>
-	<circle cx="43.8" cy="31.9" r="2.6"/>
-	<circle cx="26.5" cy="31.9" r="2.6"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  
+  
+  
+  
+  <g id="line">
+    <polygon id="SVGID_1_" points="35.6123,12.9539 26.9825,14.6336 21.6827,17.6541 16.792,22.7332 13.3623,30.0838 
+				13.3623,42.4236 18.9619,51.824 26.9825,57.2742 35.6123,58.9539 42.792,57.8035 50.502,53.4735 55.6123,47.3143 
+				58.6123,38.1043 57.8623,30.1238 54.0528,22.2137 49.8428,17.8934 42.5928,14.034 			" fill="#000000" stroke="none"></polygon>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.6123" cy="35.9539" r="23"></circle>
+    <circle cx="43.788" cy="31.9344" r="2.5556" fill="#000000" stroke="none"></circle>
+    <circle cx="26.538" cy="31.9344" r="2.5556" fill="#000000" stroke="none"></circle>
+  </g>
 </svg>

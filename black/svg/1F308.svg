@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83C__xDF08_">
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M68,17.6v21.5c-16,0-28.9,13-28.9,28.9 M34.2,68c0-18.6,15.1-33.6,33.8-33.6 M68,29.2c-21.5,0-39,17.4-39,38.8 M68,11.1v6.5
-		c-27.8,0-50.4,22.6-50.4,50.4 M11.1,68c0-31.4,25.5-56.9,56.9-56.9V4C32.7,4,4,32.7,4,68 M39.1,68h-4.8H29h-4.7h-5.9h-7.4H4
-		 M68,23.6c-24.5,0-44.5,19.9-44.5,44.4"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  
+  
+  
+  
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M68,17.5958v21.4569c-15.9872,0-28.9473,12.9602-28.9473,28.9473 M34.2441,68c0-18.5669,15.113-33.6183,33.7559-33.6183
+		 M68,29.1932c-21.544,0-39.0088,17.3744-39.0088,38.8068 M68,11.0655v6.5303c-27.8375,0-50.4042,22.5667-50.4042,50.4042
+		 M11.0655,68c0-31.4441,25.4904-56.9345,56.9345-56.9345V4C32.6538,4,4,32.6538,4,68 M39.0527,68h-4.8086h-5.2529h-4.6517H18.453
+		h-7.3875H4 M68,23.6124c-24.5432,0-44.5177,19.873-44.5177,44.3876"></path>
+  </g>
 </svg>

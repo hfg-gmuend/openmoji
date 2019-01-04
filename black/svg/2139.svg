@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_x2139__xFE0F__1_">
-	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M59,60H13
-		c-0.5,0-1-0.4-1-1V13c0-0.5,0.4-1,1-1H59c0.5,0,1,0.4,1,1V59C60,59.6,59.6,60,59,60z"/>
-	
-		<line fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="36.5" y1="31.5" x2="36.5" y2="46.5"/>
-	<circle fill="#1D1D1B" cx="36.5" cy="26" r="1.5"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  
+  
+  
+  
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M59.0349,60H12.9651
+		C12.4343,60,12,59.5657,12,59.0349V12.9651C12,12.4343,12.4343,12,12.9651,12h46.0698C59.5657,12,60,12.4343,60,12.9651v46.0698
+		C60,59.5657,59.5657,60,59.0349,60z"></path>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="36.5" y1="31.5" x2="36.5" y2="46.5"></line>
+    <circle fill="#000000" cx="36.5" cy="26" r="1.5" stroke="none"></circle>
+  </g>
 </svg>

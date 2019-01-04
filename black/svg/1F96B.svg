@@ -1,0 +1,12 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>1F96B</title>
+  
+  
+  <g id="line">
+    
+    <line x1="23" y1="5" x2="49" y2="5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></line>
+    <line x1="19" y1="21" x2="53" y2="21" fill="none" stroke="#1d1d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></line>
+    <line x1="19" y1="49" x2="53" y2="49" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></line>
+    <polyline points="19.895 5 19 5 19 60 53 60 53 5 52.105 5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></polyline>
+  </g>
+</svg>

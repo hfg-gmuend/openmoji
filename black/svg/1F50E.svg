@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDD0E__1_">
-	
-		<ellipse transform="matrix(0.5379 -0.843 0.843 0.5379 -1.1578 48.8392)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="44" cy="25.5" rx="14.6" ry="14.6"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M31.3,40l4.4,2.8L25.2,59.2c-0.7,1.2-2.3,1.5-3.6,0.7l0,0c-1.2-0.8-1.6-2.4-0.8-3.5L31.3,40z"/>
-	
-		<ellipse transform="matrix(0.5379 -0.843 0.843 0.5379 -1.1578 48.8391)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="44" cy="25.5" rx="11.2" ry="11.2"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  
+  
+  
+  
+  <g id="line">
+    <ellipse transform="matrix(0.5379 -0.843 0.843 0.5379 -1.1578 48.8391)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="43.9712" cy="25.4757" rx="14.6372" ry="14.6372"></ellipse>
+    <ellipse transform="matrix(0.5379 -0.843 0.843 0.5379 -1.1578 48.8391)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="43.9713" cy="25.4757" rx="11.1657" ry="11.1656"></ellipse>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M31.3102,39.9657l4.4057,2.811L25.22,59.2267c-0.7499,1.1753-2.344,1.4986-3.5606,0.7224l0,0
+		c-1.2166-0.7763-1.595-2.3582-0.8451-3.5335L31.3102,39.9657z"></path>
+  </g>
 </svg>

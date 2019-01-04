@@ -1,7 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<polygon id="_x2196__xFE0F_" fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-	37.8,14 13.6,13.1 14.5,37.4 20.1,37.2 19.5,23 55.4,58.9 59.4,55 23.5,19.1 37.6,19.6 "/>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  
+  
+  
+  
+  <g id="line">
+    <polygon id="_x2196__xFE0F__1_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	37.8362,14.0387 13.6073,13.1416 14.5044,37.3705 20.0624,37.1647 19.5378,23.0048 55.4303,58.8973 59.3629,54.9646 
+	23.4704,19.0721 37.6303,19.5967 "></polygon>
+  </g>
 </svg>

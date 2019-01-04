@@ -1,23 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDD0C__1_">
-	<path fill="#9C9C9A" d="M30.6,51.1c0.5-0.1,1.1,0.2,1.2,0.7l1.5,5.4h8.4l1.5-5.4c0.1-0.5,0.7-0.9,1.2-0.7c0,0,0,0,0,0"/>
-	<path fill="#3F3F3F" d="M33,24.1c-0.6,0-1-0.4-1-1V8.2c0-1.3-1-2.3-2.3-2.3c-1.3,0-2.3,1-2.3,2.3v14.9c0,0.6-0.4,1-1,1"/>
-	<path fill="#3F3F3F" d="M49.5,24.1c-0.6,0-1-0.4-1-1V8.2c0-1.3-1-2.3-2.3-2.3c-1.3,0-2.3,1-2.3,2.3v14.9c0,0.6-0.4,1-1,1"/>
-	<path fill="#D0D0D0" d="M47.6,24.2H20.4v10.5c0,9.5,7.7,17.2,17.1,17.2c3.5,0,7-1.1,9.9-3.1C48.1,40.6,48.1,32.4,47.6,24.2z"/>
-	<path fill="#9C9C9A" d="M47.6,24.2c0.5,8.2,0.5,16.4-0.1,24.5c4.6-3.2,7.3-8.5,7.3-14.1V24.2L47.6,24.2z"/>
-	<path fill="#D0D0D0" d="M41.7,67.1c-0.6,0-1-0.4-1-1V59h-6.1v7.1c0,0.6-0.4,1-1,1"/>
-	<path fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M33,23.1V8.2
-		c0-1.8-1.5-3.3-3.3-3.3h0l0,0c-1.8,0-3.3,1.5-3.3,3.3l0,0v14.9"/>
-	<path fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M49.5,23.1V8.2
-		c0-1.8-1.5-3.3-3.3-3.3h0l0,0c-1.8,0-3.3,1.5-3.3,3.3l0,0v14.9"/>
-	<path fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M19.4,23.2v11.5
-		c0,10,8.1,18.2,18.2,18.2s18.2-8.1,18.2-18.2V23.2H19.4z"/>
-	<polyline fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="31,51.8 32.7,58 
-		42.6,58 44.2,51.8 	"/>
-	<polyline fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="33.6,66.1 
-		33.6,58 41.7,58 41.7,66.1 	"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  <g id="color">
+    <path fill="#9b9b9a" d="M30.644,51.1065c0.5335-0.1424,1.0815,0.1746,1.224,0.708l1.455,5.449h8.387l1.455-5.426
+		c0.143-0.5334,0.6913-0.85,1.2248-0.7071c0.0001,0,0.0002,0,0.0002,0" stroke="none"></path>
+    <path fill="#3F3F3F" d="M33.013,24.1055c-0.5523,0-1-0.4477-1-1V8.2195c0-1.2744-1.0331-2.3075-2.3075-2.3075
+		c-1.2744,0-2.3075,1.0331-2.3075,2.3075v14.883c0,0.5523-0.4477,1-1,1" stroke="none"></path>
+    <path fill="#3F3F3F" d="M49.55,24.1055c-0.5523,0-1-0.4477-1-1V8.2195c-0.001-1.2741-1.0346-2.3062-2.3088-2.3052
+		c-1.2728,0.001-2.3043,1.0325-2.3052,2.3052v14.883c0,0.5523-0.4477,1-1,1" stroke="none"></path>
+    <path fill="#d0cfce" d="M47.601,24.1885H20.435v10.48c-0.0125,9.4811,7.6634,17.1771,17.1444,17.1895
+		c3.5425,0.0047,6.9998-1.0868,9.8976-3.1245C48.0699,40.5639,48.1113,32.3637,47.601,24.1885z" stroke="none"></path>
+    <path fill="#9b9b9a" d="M47.601,24.1885c0.5104,8.1755,0.469,16.3761-0.124,24.546c4.5953-3.2095,7.3349-8.4598,7.339-14.065
+		v-10.48L47.601,24.1885z" stroke="none"></path>
+    <path fill="#d0cfce" d="M41.657,67.0965c-0.5523,0-1-0.4477-1-1v-7.083h-6.063v7.083c0,0.5523-0.4477,1-1,1" stroke="none"></path>
+  </g>
+  <g id="hair">
+  </g>
+  <g id="skin">
+  </g>
+  <g id="skin-shadow">
+  </g>
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M33.013,23.0925V8.2105
+		c0-1.8264-1.4806-3.307-3.307-3.307h0l0,0c-1.8264,0-3.307,1.4806-3.307,3.307l0,0v14.883"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M49.55,23.0925V8.2105
+		c0-1.8264-1.4806-3.307-3.307-3.307h0l0,0c-1.8264,0-3.307,1.4806-3.307,3.307l0,0v14.883"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M19.435,23.1885v11.48
+		c0,10.0461,8.1439,18.19,18.19,18.19s18.19-8.144,18.19-18.19v-11.48H19.435z"></path>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="31.011,51.8095 
+		32.665,58.0005 42.586,58.0005 44.24,51.8335 	"></polyline>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="33.618,66.0835 
+		33.618,58.0005 41.681,58.0005 41.681,66.0835 	"></polyline>
+  </g>
 </svg>

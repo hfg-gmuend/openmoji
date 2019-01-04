@@ -1,26 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDE2F__2_">
-	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M18.2,57.3"/>
-	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M18.2,57.3"/>
-	<circle fill="none" stroke="#FDE034" stroke-miterlimit="10" cx="35" cy="36.1" r="23"/>
-	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M19.3,27.3c0.7-1.4,1.9-2.5,3.4-3c1.4-0.7,3-0.8,4.5-0.4"/>
-	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M49.9,27.3c-1.6-2.8-4.8-4.2-7.9-3.4"/>
-	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35" cy="36.1" r="23"/>
-	<circle cx="43.2" cy="36" r="2.6"/>
-	<circle cx="25.9" cy="36" r="2.6"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M19.3,27.3c0.7-1.4,1.9-2.5,3.4-3c1.4-0.7,3-0.8,4.5-0.4"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M49.9,27.3c-1.6-2.8-4.8-4.2-7.9-3.4"/>
-	
-		<ellipse fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.4" cy="48.5" rx="5.2" ry="6.5"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  
+  
+  
+  
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M18.2007,57.3308"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M18.2008,57.3307"></path>
+    <polygon id="SVGID_1_" points="35,13.0565 26.3702,14.7362 21.0704,17.7567 16.1797,22.8358 12.75,30.1864 12.75,42.5262 
+				18.3496,51.9266 26.3702,57.3768 35,59.0565 42.1797,57.9061 49.8897,53.5761 55,47.4169 58,38.2069 57.25,30.2264 
+				53.4405,22.3163 49.2305,17.996 41.9805,14.1366 			" fill="#000000" stroke="none"></polygon>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M19.2793,27.2567c0.7207-1.3857,1.9278-2.4541,3.3907-3c1.4052-0.7002,3.0205-0.8486,4.5302-0.4209"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M49.8897,27.2567c-1.582-2.7724-4.8037-4.1699-7.9092-3.4306"></path>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35" cy="36.0565" r="23"></circle>
+    <circle cx="43.1758" cy="36.037" r="2.5556" fill="#000000" stroke="none"></circle>
+    <circle cx="25.9258" cy="36.037" r="2.5556" fill="#000000" stroke="none"></circle>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M19.2793,27.2567c0.7207-1.3857,1.9278-2.4541,3.3907-3c1.4052-0.7002,3.0205-0.8486,4.5302-0.4209"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M49.8897,27.2567c-1.582-2.7724-4.8037-4.1699-7.9092-3.4306"></path>
+    <ellipse fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.375" cy="48.4515" rx="5.2452" ry="6.5383"></ellipse>
+  </g>
 </svg>

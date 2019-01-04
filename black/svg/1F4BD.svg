@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDCBD__1_">
-	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M52.5,47.1c-3.6,5.3-9.7,8.8-16.5,8.8c-11,0-20-8.9-20-20S25,16,36,16c6.9,0,12.9,3.5,16.5,8.7"/>
-	
-		<circle fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36" r="5"/>
-	
-		<rect x="11" y="11" fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="50" height="50"/>
-	
-		<polyline fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		44,36.5 44,42 61,44.4 61,36.5 61,36.4 61,28.5 44,31 44,36.4 	"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  
+  
+  
+  
+  <g id="line">
+    <rect x="11" y="10.9583" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="50" height="50"></rect>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M52.5498,47.1172c-3.5867,5.309-9.6606,8.7994-16.5498,8.7994c-11.0227,0-19.9583-8.9356-19.9583-19.9583S24.9773,16,36,16
+		c6.8569,0,12.9061,3.4578,16.4992,8.7249"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M52.5498,47.0458c-3.5867,5.309-9.6606,8.7994-16.5498,8.7994c-11.0227,0-19.9583-8.9356-19.9583-19.9583
+		S24.9773,15.9286,36,15.9286c6.8569,0,12.9061,3.4578,16.4992,8.7249"></path>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="35.9583" r="5"></circle>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		44,36.5005 44,41.9751 61,44.4334 61,36.5 61,36.4334 61,28.5 44,30.9583 44,36.4329 	"></polyline>
+  </g>
 </svg>

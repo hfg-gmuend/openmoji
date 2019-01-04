@@ -1,21 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDE23__1_">
-	<path fill="#FBEA2E" d="M36.2,13.3c-12.6,0-22.8,10.2-22.8,22.8c0,12.6,10.2,22.8,22.8,22.8C48.8,58.9,59,48.7,59,36.1
-		C59,23.5,48.8,13.3,36.2,13.3z"/>
-	<circle fill="none" stroke="#010101" stroke-width="2" stroke-miterlimit="10" cx="36" cy="36" r="23"/>
-	
-		<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="44.5" y1="21.4" x2="50.9" y2="24.7"/>
-	
-		<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="26.9" y1="21.4" x2="20.5" y2="24.7"/>
-	<path fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M24,28c2.3,1.3,4.7,2.7,7,4c-2.3,1.3-4.7,2.7-7,4"/>
-	<path fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M48,28c-2.3,1.3-4.7,2.7-7,4c2.3,1.3,4.7,2.7,7,4"/>
-	<path fill="#FFFFFF" d="M28,51c0.3-0.4,3.3-8.2,8.4-8c4.6,0.2,7.2,7.5,7.6,8C38.7,51,33.3,51,28,51z"/>
-	<path fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M28,51c0.3-0.4,1-8,8.4-8c6.6,0,7.2,7.5,7.6,8C38.7,51,33.3,51,28,51z"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  <g id="color">
+    <path fill="#fcea2b" d="M36.2002,13.3163c-12.5719,0-22.7998,10.2279-22.7998,22.7998c0,12.5718,10.2279,22.7998,22.7998,22.7998
+		C48.772,58.9159,59,48.6879,59,36.1161C59,23.5442,48.772,13.3163,36.2002,13.3163z" stroke="none"></path>
+    <path fill="#FFFFFF" d="M28,51c0.2704-0.3562,3.3099-8.2177,8.4211-8.0038C41.0265,43.1889,43.6499,50.5372,44,51
+		C38.6667,51,33.3333,51,28,51z" stroke="none"></path>
+  </g>
+  <g id="hair">
+  </g>
+  <g id="skin">
+  </g>
+  <g id="skin-shadow">
+  </g>
+  <g id="line">
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="36" cy="36" r="23"></circle>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="44.5361" y1="21.4389" x2="50.9214" y2="24.7158"></line>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="26.9214" y1="21.4389" x2="20.5361" y2="24.7158"></line>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M24,28c2.3334,1.3333,4.6666,2.6667,7,4c-2.3334,1.3333-4.6666,2.6667-7,4"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M48,28c-2.3334,1.3333-4.6666,2.6667-7,4c2.3334,1.3333,4.6666,2.6667,7,4"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M28,51c0.2704-0.3562,1-8,8.4211-8.0038C43,42.9929,43.6499,50.5372,44,51C38.6667,51,33.3333,51,28,51z"></path>
+  </g>
 </svg>

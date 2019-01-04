@@ -1,0 +1,11 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>1F3EE</title>
+  
+  
+  <g id="line">
+    <polyline points="26.84 7.481 26.84 4.972 44.146 4.972 44.146 7.481" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></polyline>
+    <polyline points="44.146 64.657 44.146 67.05 26.84 67.05 26.84 64.657" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></polyline>
+    <rect x="19.125" y="9.871" width="32.7367" height="52.2643" rx="11" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"></rect>
+    
+  </g>
+</svg>

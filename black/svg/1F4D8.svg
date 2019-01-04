@@ -1,0 +1,10 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>1F4D8</title>
+  
+  
+  <g id="line">
+    <line x1="18" y1="13" x2="18" y2="59" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></line>
+    <path d="M62.9087,54.8149A1.986,1.986,0,0,0,64,53.0467V9.0833A2.0833,2.0833,0,0,0,61.9167,7H16.4591a4.7714,4.7714,0,0,0-3.9733,2.13h0a1.889,1.889,0,0,0,1.573,2.9349h3.8086l2.1331-.0177H59.9167v48H14.0583a1.8905,1.8905,0,0,1-1.8916-1.85V10.575" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+    
+  </g>
+</svg>

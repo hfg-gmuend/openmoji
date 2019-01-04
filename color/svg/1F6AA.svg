@@ -1,15 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDEAA__1_">
-	
-		<rect x="18" y="9" fill="#A57939" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="36" height="54"/>
-	<ellipse cx="49" cy="36.5" rx="2.5" ry="2"/>
-	<path d="M49.5,41.6h-1c-0.6,0-1-0.4-1-1v-6.2c0-0.6,0.4-1,1-1h1c0.6,0,1,0.4,1,1v6.2C50.5,41.2,50.1,41.6,49.5,41.6z"/>
-	
-		<rect x="24" y="14.1" fill="#6A462F" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="24" height="16.3"/>
-	
-		<rect x="24" y="45.7" fill="#6A462F" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="24" height="11.2"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  <g id="color">
+    <rect x="18" y="9" fill="#A57939" stroke="none" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="36" height="54"></rect>
+    <rect x="24" y="14.0943" fill="#6A462F" stroke="none" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="24" height="16.3019"></rect>
+    <rect x="24" y="45.6792" fill="#6A462F" stroke="none" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="24" height="11.2075"></rect>
+  </g>
+  <g id="hair">
+  </g>
+  <g id="skin">
+  </g>
+  <g id="skin-shadow">
+  </g>
+  <g id="line">
+    <rect x="18" y="9" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="36" height="54"></rect>
+    <ellipse cx="49" cy="36.5094" rx="2.5" ry="2.0377" fill="#000000" stroke="none"></ellipse>
+    <path d="M49.5,41.6038h-1c-0.5523,0-1-0.4477-1-1v-6.1509c0-0.5523,0.4477-1,1-1h1c0.5523,0,1,0.4477,1,1v6.1509
+		C50.5,41.1561,50.0523,41.6038,49.5,41.6038z" fill="#000000" stroke="none"></path>
+    <rect x="24" y="14.0943" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="24" height="16.3019"></rect>
+    <rect x="24" y="45.6792" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="24" height="11.2075"></rect>
+  </g>
 </svg>

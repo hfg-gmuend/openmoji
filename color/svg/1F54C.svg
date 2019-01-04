@@ -1,26 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDD4C__1_">
-	
-		<rect x="17.5" y="26" fill="#D0CFCE" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="7" height="34"/>
-	
-		<ellipse fill="#F4AA41" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="42" cy="36" rx="12.5" ry="10"/>
-	
-		<rect x="29" y="40" fill="#D0CFCE" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="26" height="20"/>
-	
-		<polygon fill="#F4AA41" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		21,17 17.5,26 24.5,26 	"/>
-	
-		<polygon fill="#3F3F3F" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		24.5,36 17.5,36 15.5,31 26.5,31 	"/>
-	
-		<circle fill="#F4AA41" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="42" cy="24" r="2"/>
-	
-		<rect x="42" y="19" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 84 41)" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="0" height="3"/>
-	
-		<path fill="#9B9B9A" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M42,45l-3.5,5.2c-0.3,0.5-0.5,1.1-0.5,1.7V60h8v-8.1c0-0.6-0.2-1.2-0.5-1.7L42,45z"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  <g id="color">
+    <rect x="17.5" y="26" fill="#D0CFCE" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="7" height="34"></rect>
+    <ellipse fill="#F4AA41" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="42" cy="36" rx="12.5" ry="10"></ellipse>
+    <rect x="29" y="40" fill="#D0CFCE" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="26" height="20"></rect>
+    <polygon fill="#F4AA41" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		21,17 17.5,26 24.5,26 	"></polygon>
+    <polygon fill="#3F3F3F" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		24.5,36 17.5,36 15.5,31 26.5,31 	"></polygon>
+    <circle fill="#F4AA41" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="42" cy="24" r="2"></circle>
+    <rect x="42" y="19" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 84 41)" fill="#FFFFFF" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="0" height="3"></rect>
+    <path fill="#9B9B9A" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M42,45l-3.4962,5.2442C38.1753,50.737,38,51.3161,38,51.9083V60h8v-8.0917c0-0.5922-0.1753-1.1713-0.5038-1.6641L42,45z"></path>
+  </g>
+  <g id="hair">
+  </g>
+  <g id="skin">
+  </g>
+  <g id="skin-shadow">
+  </g>
+  <g id="line">
+    <rect x="17.5" y="26" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="7" height="34"></rect>
+    <ellipse fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="42" cy="36" rx="12.5" ry="10"></ellipse>
+    <rect x="29" y="40" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="26" height="20"></rect>
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		21,17 17.5,26 24.5,26 	"></polygon>
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		24.5,36 17.5,36 15.5,31 26.5,31 	"></polygon>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="42" cy="24" r="2"></circle>
+    <rect x="42" y="19" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 84 41)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="0" height="3"></rect>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M42,45l-3.4962,5.2442C38.1753,50.737,38,51.3161,38,51.9083V60h8v-8.0917c0-0.5922-0.1753-1.1713-0.5038-1.6641L42,45z"></path>
+  </g>
 </svg>

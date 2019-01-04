@@ -1,21 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xDB80__xDC5F_">
-	<path fill="#D0CFCE" d="M33.1,58h-3c-0.6,0-1-0.4-1-1V37c0-0.6,0.4-1,1-1h3c0.6,0,1,0.4,1,1v20C34.1,57.6,33.6,58,33.1,58z"/>
-	<path fill="#9A9B99" d="M38.4,35.4c1.7-2.9,0.7-6.5-2.2-8.2c-2.9-1.7-6.5-0.7-8.2,2.2c-1.7,2.9-0.7,6.5,2.2,8.2
-		S36.7,38.3,38.4,35.4"/>
-	<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -6.5298 62.8599)" fill="#D22F27" cx="51.2" cy="37.1" rx="3" ry="3"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="30" y1="36.4" x2="30" y2="57"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M37.4,34.9c1.4-2.4,0.6-5.4-1.8-6.8c-2.4-1.4-5.4-0.6-6.8,1.8c-1.3,2.2-0.7,4.9,1.2,6.4"/>
-	
-		<rect x="17.6" y="23.1" transform="matrix(0.866 0.5 -0.5 0.866 18.8099 -14.0298)" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="36" height="10"/>
-	<rect x="30.6" y="10.1" transform="matrix(0.5 -0.866 0.866 0.5 -6.5298 44.8599)" fill="#D0CFCE" width="10" height="36"/>
-	<polygon fill="#9A9B99" points="42.1,37.6 42.1,37.6 22.5,14.8 17.5,23.4 	"/>
-	
-		<rect x="17.6" y="23.1" transform="matrix(0.866 0.5 -0.5 0.866 18.8099 -14.0298)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="36" height="10"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  <g id="color">
+    <path fill="#D0CFCE" d="M33.0567,58h-3c-0.5523,0-1-0.4477-1-1V37c0-0.5523,0.4477-1,1-1h3c0.5523,0,1,0.4477,1,1v20
+		C34.0567,57.5523,33.609,58,33.0567,58z" stroke="none"></path>
+    <path fill="#9b9b9a" d="M38.3936,35.4146c1.6566-2.8693,0.6735-6.5382-2.1958-8.1948c-2.8693-1.6566-6.5382-0.6735-8.1948,2.1958
+		c-1.6566,2.8693-0.6735,6.5382,2.1958,8.1948S36.737,38.2838,38.3936,35.4146" stroke="none"></path>
+    <ellipse transform="matrix(0.5 -0.866 0.866 0.5 -6.5298 62.8599)" fill="#D22F27" cx="51.1734" cy="37.0849" rx="3" ry="3" stroke="none"></ellipse>
+    <rect x="17.5849" y="23.0849" transform="matrix(0.866 0.5 -0.5 0.866 18.8099 -14.0298)" fill="#FFFFFF" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="36" height="10"></rect>
+    <rect x="30.5849" y="10.0849" transform="matrix(0.5 -0.866 0.866 0.5 -6.5298 44.8599)" fill="#D0CFCE" width="10" height="36" stroke="none"></rect>
+    <polygon fill="#9b9b9a" points="42.1174,37.63 42.1174,37.63 22.4965,14.7548 17.4965,23.4151 	" stroke="none"></polygon>
+  </g>
+  <g id="hair">
+  </g>
+  <g id="skin">
+  </g>
+  <g id="skin-shadow">
+  </g>
+  <g id="line">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="30" y1="36.354" x2="30" y2="57"></line>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M37.4151,34.9151c1.3807-2.3915,0.5613-5.4494-1.8301-6.8301c-2.3915-1.3807-5.4494-0.5613-6.8301,1.8301
+		c-1.2621,2.1859-0.6859,4.9288,1.2488,6.4385"></path>
+    <rect x="17.5849" y="23.0849" transform="matrix(0.866 0.5 -0.5 0.866 18.8099 -14.0298)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="36" height="10"></rect>
+    <rect x="17.5849" y="23.0849" transform="matrix(0.866 0.5 -0.5 0.866 18.8099 -14.0298)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="36" height="10"></rect>
+  </g>
 </svg>

@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDEA4_">
-	<g>
-		
-			<path fill="none" stroke="#000000" stroke-width="1.8603" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M22.7,49.8c-3.4-0.4-3.7-0.7-3.7-0.7S6.6,43.5,6.8,40.4c0.2-2.8,15.9-3.2,18.5-3.2c0.2,0,0.4,0,0.4,0l19.1,2.4l1,0.1L56.3,41
-			c0.1,0,0.1,0,0.1,0.1l5,3.3l1.9,0.5c0.2,0,0.3,0.2,0.3,0.5l-0.1,1.5c0,0.1-0.1,0.2-0.1,0.3l-0.2,0.2"/>
-		
-			<path fill="none" stroke="#000000" stroke-width="1.8603" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M45.7,39.7c0,0-6.8-5.4-15-6.2c-0.1,0-0.2,0-0.2,0.1l-5.1,3.7L45.7,39.7z"/>
-		
-			<path fill="none" stroke="#000000" stroke-width="1.8603" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M13.9,41c0,0,25,2.4,42.4,5.4"/>
-	</g>
-	<path fill="none" d="M68,47v22H4V47h1c3,0,9,3,15,3s10-3,16-3s11,3,16,3s7-3,15-3H68z"/>
-	<polyline fill="none" points="68,39 68,55 4,55 4,39 	"/>
-	<path fill="none" stroke="#000100" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M5,47c3,0,9,3,15,3s10-3,16-3s11,3,16,3s7-3,15-3"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  
+  
+  
+  
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="1.8603" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M25.7191,37.219c0,0-18.6574,0.1092-18.8835,3.2051c-0.226,3.0959,12.1477,8.6395,12.1477,8.6395s0.7809,0.7927,11.6472,1.303
+			c10.8662,0.5103,28.1411,1.0924,28.1411,1.0924l4.6809-4.3851c0.088-0.0825,0.1418-0.2035,0.1476-0.3325l0.0661-1.4563
+			c0.0099-0.2177-0.1173-0.4093-0.3023-0.4554l-1.9028-0.4743l-5.017-3.2687c-0.0459-0.0299-0.0968-0.0487-0.1496-0.0553
+			L25.7191,37.219z"></path>
+    <path fill="none" stroke="#000000" stroke-width="1.8603" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M45.7345,39.7147c0,0-6.8479-5.3894-15.0213-6.2024c-0.0867-0.0086-0.1747,0.0159-0.2494,0.0692l-5.1414,3.6651L45.7345,39.7147z"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M5,47c3,0,9,3,15,3s10-3,16-3s11,3,16,3s7-3,15-3"></path>
+  </g>
 </svg>

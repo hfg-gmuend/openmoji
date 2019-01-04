@@ -1,0 +1,14 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>1F471</title>
+  
+  
+  
+  <g id="line">
+    
+    <path d="M31.4086,52.7393c-.0466.01,5.0152,2.8314,9.5914,0" fill="none" stroke="#1d1d1b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"></path>
+    <path d="M26.0113,34.0693a11.6088,11.6088,0,0,1,6.5961,0" fill="none" stroke="#000100" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"></path>
+    <path d="M39.6175,34.0693a11.6084,11.6084,0,0,1,6.596,0" fill="none" stroke="#000100" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"></path>
+    <path d="M31.9038,40.8387A2.8387,2.8387,0,1,1,29.0651,38a2.847,2.847,0,0,1,2.8387,2.8387" fill="#000100"></path>
+    <path d="M45.5282,40.8387A2.8388,2.8388,0,1,1,42.6894,38a2.8471,2.8471,0,0,1,2.8388,2.8387" fill="#000100"></path>
+  </g>
+</svg>

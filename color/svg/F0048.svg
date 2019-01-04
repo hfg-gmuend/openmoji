@@ -1,25 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xDB80__xDC48__1_">
-	<path fill="#A3D0E0" d="M31.4,26.7c0,0,9.2-1.8,8.4-9.2C38.5,5.3,38.3,7.1,38.3,7.1l-5.5,1C32.8,8.1,36,21.7,31.4,26.7z"/>
-	
-		<path fill="#A3D0E0" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M34.5,7c-8.1,0-14.8,7.5-14.8,16.7v16.4h29.5"/>
-	
-		<rect x="26.8" y="44.5" fill="#D5D7DD" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="4" height="22.1"/>
-	
-		<rect x="41.3" y="44.5" fill="#D5D7DD" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="4" height="16.5"/>
-	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M25.8,19.1"/>
-	<path fill="#66A7D7" d="M34.5,7.6c0,0,15.3,0.5,15.9,13.9c1,22.1,0.1,18.9,0.1,18.9l-9.3-0.2C41.2,40.2,42.6,15.1,34.5,7.6z"/>
-	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M35.2,7C43.4,7,50,14.5,50,23.8v7.4"/>
-	<rect x="43.3" y="40.8" fill="#66A7D7" width="11.8" height="3.1"/>
-	<rect x="16.3" y="40.8" fill="#A3D0E0" width="27" height="3.1"/>
-	
-		<polygon fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		16,44.5 45.5,44.5 45.9,44.5 56,44.5 56,40.2 45.9,40.2 45.5,40.2 16,40.2 	"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  <g id="color">
+    <path fill="#92d3f5" d="M31.3882,26.7177c0,0,9.2367-1.8188,8.4221-9.1964c-1.3538-12.261-1.4678-10.4237-1.4678-10.4237
+		l-5.5293,1.0104C32.8133,8.1081,35.9998,21.7018,31.3882,26.7177z" stroke="none"></path>
+    <path fill="#92d3f5" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M34.5417,7.0359c-8.1462,0-14.75,7.496-14.75,16.7427v16.388h29.5"></path>
+    <rect x="26.8333" y="44.5" fill="#d0cfce" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="4" height="22.095"></rect>
+    <rect x="41.3333" y="44.5" fill="#d0cfce" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="4" height="16.4792"></rect>
+    <path fill="#61b2e4" d="M34.5417,7.5625c0,0,15.3232,0.5495,15.9047,13.875c0.9664,22.1458,0.0665,18.9191,0.0665,18.9191
+		l-9.3254-0.19C41.1875,40.1667,42.6247,15.125,34.5417,7.5625z" stroke="none"></path>
+    <rect x="43.3333" y="40.7917" fill="#61b2e4" width="11.8333" height="3.0833" stroke="none"></rect>
+    <rect x="16.3353" y="40.7917" fill="#92d3f5" width="26.998" height="3.0833" stroke="none"></rect>
+  </g>
+  <g id="hair">
+  </g>
+  <g id="skin">
+  </g>
+  <g id="skin-shadow">
+  </g>
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M34.5417,7.0359c-8.1462,0-14.75,7.496-14.75,16.7427v16.388h29.5"></path>
+    <rect x="26.8333" y="44.5" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="4" height="22.095"></rect>
+    <rect x="41.3333" y="44.5" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="4" height="16.4792"></rect>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M25.8125,19.0625"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M35.2497,7.0359c8.1462,0,14.75,7.496,14.75,16.7427v7.388"></path>
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		16,44.5 45.5309,44.5 45.9063,44.5 56,44.5 56,40.1667 45.9063,40.1667 45.4999,40.1667 16,40.1667 	"></polygon>
+  </g>
 </svg>

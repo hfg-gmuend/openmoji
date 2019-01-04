@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83C__xDF31__1_">
-	<g>
-		<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M34.9,34"/>
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="36,63.2 
-			36,51.2 31,29.2 		"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="36" y1="51.2" x2="41" y2="41.2"/>
-	</g>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M22.4,20
-		c4.1,1.4,6.1,6.2,6.1,6.2s-4.6,2.5-8.6,1.1c-4.1-1.4-6.1-6.2-6.1-6.2S18.3,18.6,22.4,20z"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M51.9,35.9
-		c4.2,0.9,6.8,5.5,6.8,5.5s-4.2,3-8.4,2.1c-4.2-0.9-6.8-5.5-6.8-5.5S47.7,34.9,51.9,35.9z"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  
+  
+  
+  
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M34.9254,33.9599"></path>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="36,63.1661 
+			36,51.1661 31,29.1661 		"></polyline>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="36" y1="51.1661" x2="41" y2="41.1661"></line>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M22.3618,19.992
+		c4.067,1.3991,6.0978,6.2158,6.0978,6.2158s-4.5639,2.5478-8.6315,1.149s-6.0978-6.2158-6.0978-6.2158
+		S18.2963,18.5952,22.3618,19.992z"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M51.935,35.8718
+		c4.1996,0.9278,6.7648,5.4824,6.7648,5.4824s-4.2448,3.05-8.4449,2.1226s-6.7648-5.4824-6.7648-5.4824
+		S47.7371,34.9462,51.935,35.8718z"></path>
+  </g>
 </svg>

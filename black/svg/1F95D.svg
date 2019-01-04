@@ -1,21 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83E__xDD5D__1_">
-	
-		<circle fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="35.8" r="25"/>
-	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M37.2,26.3l2.4-2.2c1.2-1.1,3-0.2,2.9,1.4l-0.2,3.2c-0.1,0.9,0.6,1.7,1.5,1.8l3.2,0.5c1.6,0.2,2,2.3,0.7,3.1l-2.7,1.8
-		c-0.7,0.5-1,1.5-0.5,2.3l1.6,2.8c0.8,1.4-0.5,3-2,2.5l-3.1-0.9c-0.9-0.3-1.8,0.2-2.1,1l-1.2,3c-0.6,1.5-2.6,1.5-3.2,0l-1.2-3
-		c-0.3-0.8-1.3-1.3-2.1-1L28,43.7c-1.5,0.5-2.8-1.2-2-2.5l1.6-2.8c0.5-0.8,0.2-1.8-0.5-2.3l-2.7-1.8c-1.3-0.9-0.8-2.9,0.7-3.1
-		l3.2-0.5c0.9-0.1,1.5-0.9,1.5-1.8l-0.2-3.2c-0.1-1.6,1.8-2.5,2.9-1.4l2.4,2.2C35.5,26.9,36.5,26.9,37.2,26.3z"/>
-	<ellipse transform="matrix(0.6637 -0.748 0.748 0.6637 -10.7036 26.4534)" fill="#1D1D1B" cx="24.1" cy="25.1" rx="0.9" ry="1.8"/>
-	<ellipse fill="#1D1D1B" cx="35.9" cy="19.1" rx="0.9" ry="1.8"/>
-	<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.805 41.2939)" fill="#1D1D1B" cx="47.9" cy="25.2" rx="1.8" ry="0.9"/>
-	<ellipse transform="matrix(0.1109 -0.9938 0.9938 0.1109 7.1987 84.2474)" fill="#1D1D1B" cx="50.7" cy="38.1" rx="0.9" ry="1.8"/>
-	<ellipse fill="#1D1D1B" cx="21.3" cy="38" rx="1.8" ry="0.9"/>
-	<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -27.5519 49.687)" fill="#1D1D1B" cx="29.3" cy="48.7" rx="1.8" ry="0.9"/>
-	<ellipse transform="matrix(0.882 -0.4712 0.4712 0.882 -17.9005 25.9778)" fill="#1D1D1B" cx="42.9" cy="48.7" rx="0.9" ry="1.8"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  
+  
+  
+  
+  <g id="line">
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36.1375" cy="35.7625" r="25.0125"></circle>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M37.3152,26.3316l2.3679-2.1883c1.156-1.0683,3.0228-0.1693,2.9083,1.4006l-0.2345,3.2157
+		c-0.0658,0.9029,0.5736,1.7048,1.4686,1.8415l3.1872,0.4869c1.5559,0.2377,2.017,2.2578,0.7183,3.147l-2.6603,1.8216
+		c-0.747,0.5115-0.9752,1.5114-0.5241,2.2963l1.6065,2.7955c0.7843,1.3647-0.5076,2.9846-2.0126,2.5237l-3.0829-0.9442
+		c-0.8657-0.2651-1.7897,0.1799-2.1221,1.022l-1.184,2.999c-0.578,1.464-2.65,1.464-3.228,0l-1.184-2.999
+		c-0.3324-0.8421-1.2565-1.2871-2.1221-1.022l-3.0829,0.9442c-1.505,0.4609-2.7969-1.159-2.0126-2.5237l1.6065-2.7955
+		c0.4511-0.785,0.2229-1.7848-0.5241-2.2963l-2.6603-1.8216c-1.2987-0.8893-0.8377-2.9093,0.7183-3.147l3.1872-0.4869
+		c0.895-0.1367,1.5344-0.9386,1.4685-1.8415l-0.2345-3.2157c-0.1145-1.5698,1.7523-2.4688,2.9083-1.4006l2.3679,2.1883
+		C35.6247,26.9461,36.6503,26.9461,37.3152,26.3316z"></path>
+    <ellipse transform="matrix(0.6637 -0.748 0.748 0.6637 -10.6616 26.5469)" fill="#000000" cx="24.191" cy="25.1298" rx="0.9136" ry="1.8273" stroke="none"></ellipse>
+    <ellipse fill="#000000" cx="36.0391" cy="19.0522" rx="0.9136" ry="1.8273" stroke="none"></ellipse>
+    <ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.7684 41.3823)" fill="#000000" cx="48.0686" cy="25.2399" rx="1.8273" ry="0.9136" stroke="none"></ellipse>
+    <ellipse transform="matrix(0.1109 -0.9938 0.9938 0.1109 7.3099 84.3716)" fill="#000000" cx="50.8083" cy="38.1005" rx="0.9136" ry="1.8273" stroke="none"></ellipse>
+    <ellipse fill="#000000" cx="21.4727" cy="37.9896" rx="1.8273" ry="0.9136" stroke="none"></ellipse>
+    <ellipse transform="matrix(0.5 -0.866 0.866 0.5 -27.4894 49.7953)" fill="#000000" cx="29.3792" cy="48.7042" rx="1.8273" ry="0.9136" stroke="none"></ellipse>
+    <ellipse transform="matrix(0.882 -0.4712 0.4712 0.882 -17.8857 26.0367)" fill="#000000" cx="43.0534" cy="48.7368" rx="0.9136" ry="1.8273" stroke="none"></ellipse>
+  </g>
 </svg>

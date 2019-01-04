@@ -1,15 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_x26CF__xFE0F__1_">
-	
-		<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		38.5,25.2 38.4,43.3 39.6,47 39.6,62.7 38.4,62.7 34.8,62.7 33.6,62.7 33.6,47 34.8,43.3 34.8,25.2 	"/>
-	
-		<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		38.5,8.7 38.4,11.9 34.8,11.9 34.8,8.7 	"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M59.6,24.1c-2-4.7-11.3-8.2-22.6-8.2c-11.4,0-20.8,3.6-22.7,8.3l8-1.5c9.7-1.8,19.7-1.9,29.4-0.1L59.6,24.1z"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  
+  
+  
+  
+  <g id="line">
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			38.4652,25.212 38.4363,43.3345 39.6387,46.957 39.6136,62.6632 38.4055,62.6651 34.781,62.6709 33.5728,62.6728 33.5978,46.9667 
+			34.8118,43.3402 34.8407,25.2178 		"></polygon>
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			38.4557,8.7481 38.4363,11.9064 34.8118,11.9064 34.8313,8.7481 		"></polygon>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M59.617,24.0795c-1.9746-4.6504-11.3497-8.173-22.617-8.173c-11.3723,0-20.8169,3.5885-22.6703,8.3033l7.9638-1.5117
+			c9.7199-1.845,19.6978-1.8706,29.4271-0.0755L59.617,24.0795z"></path>
+  </g>
 </svg>

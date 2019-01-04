@@ -1,21 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDCAF__1_">
-	
-		<line fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="59.2" y1="46.1" x2="13.2" y2="46.1"/>
-	
-		<line fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="59.2" y1="54.1" x2="13.2" y2="54.1"/>
-	<g>
-		<path fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M33,37L33,37c-3.5,0-6.3-2.8-6.3-6.3V20.3c0-3.5,2.8-6.3,6.3-6.3l0,0c3.5,0,6.3,2.8,6.3,6.3v10.4C39.3,34.2,36.5,37,33,37z"/>
-		<path fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M52.9,37L52.9,37c-3.5,0-6.3-2.8-6.3-6.3V20.3c0-3.5,2.8-6.3,6.3-6.3l0,0c3.5,0,6.3,2.8,6.3,6.3v10.4C59.2,34.2,56.4,37,52.9,37z"
-			/>
-		
-			<polyline fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			13,18.9 19.3,14.1 19.3,37.1 		"/>
-	</g>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  <g id="color">
+    <line fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="59.1829" y1="46.059" x2="13.1829" y2="46.059"></line>
+    <line fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="59.1829" y1="54.059" x2="13.1829" y2="54.059"></line>
+    <path fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M32.9833,37.0046L32.9833,37.0046c-3.4677,0-6.2789-2.8112-6.2789-6.2789V20.3382c0-3.4677,2.8112-6.2792,6.2789-6.2792l0,0
+			c3.4681,0,6.2792,2.8115,6.2792,6.2792v10.3875C39.2625,34.1934,36.4513,37.0046,32.9833,37.0046z"></path>
+    <path fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M52.9092,37.0046L52.9092,37.0046c-3.4677,0-6.2789-2.8112-6.2789-6.2789V20.3382c0-3.4677,2.8112-6.2792,6.2789-6.2792l0,0
+			c3.4681,0,6.2792,2.8115,6.2792,6.2792v10.3875C59.1884,34.1934,56.3773,37.0046,52.9092,37.0046z"></path>
+    <polyline fill="none" stroke="#D22F27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			12.9843,18.8851 19.3366,14.1262 19.3366,37.0718 		"></polyline>
+  </g>
+  <g id="hair">
+  </g>
+  <g id="skin">
+  </g>
+  <g id="skin-shadow">
+  </g>
+  <g id="line">
+  </g>
 </svg>

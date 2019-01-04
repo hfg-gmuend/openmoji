@@ -1,48 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDE32__1_">
-	<g>
-		<defs>
-			<polygon id="SVGID_1_" points="35.5,13.1 26.9,14.7 21.6,17.8 16.7,22.8 13.3,30.2 13.3,42.5 18.8,51.9 26.9,57.4 35.5,59.1 
-				42.7,57.9 50.4,53.6 55.5,47.4 58.5,38.2 57.8,30.2 53.9,22.3 49.7,18 42.5,14.1 			"/>
-		</defs>
-		<use xlink:href="#SVGID_1_"  overflow="visible" fill="#FCEA2B"/>
-		<clipPath id="SVGID_2_">
-			<use xlink:href="#SVGID_1_"  overflow="visible"/>
-		</clipPath>
-		<rect x="8.3" y="8.1" clip-path="url(#SVGID_2_)" fill="#FCEA2B" width="55.2" height="56"/>
-	</g>
-	<g>
-		<defs>
-			<polygon id="SVGID_3_" points="33,45 29.9,47.1 28.7,49.4 28.3,51.9 32.2,51.8 42.5,51.8 41.1,47.1 37.8,45 			"/>
-		</defs>
-		<clipPath id="SVGID_4_">
-			<use xlink:href="#SVGID_3_"  overflow="visible"/>
-		</clipPath>
-		<rect x="23.3" y="40" clip-path="url(#SVGID_4_)" fill="#FFFFFF" width="24.2" height="16.8"/>
-	</g>
-	<circle fill="none" stroke="#FDE034" stroke-miterlimit="10" cx="35.5" cy="36.1" r="23"/>
-	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M28.3,51.9c0-4,2.4-7.2,7.2-7.2c4.8,0,7.2,3.2,7.2,7.2"/>
-	
-		<line fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="42.7" y1="51.9" x2="28.3" y2="51.9"/>
-	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M19.8,27.3c0.7-1.4,1.9-2.5,3.4-3c1.4-0.7,3-0.8,4.5-0.4"/>
-	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M50.4,27.3c-1.6-2.8-4.8-4.2-7.9-3.4"/>
-	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.5" cy="36.1" r="23"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M28.3,51.9c0-4,2.4-7.2,7.2-7.2c4.8,0,7.2,3.2,7.2,7.2"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="42.7" y1="51.9" x2="28.3" y2="51.9"/>
-	<circle cx="43.7" cy="36" r="2.6"/>
-	<circle cx="26.4" cy="36" r="2.6"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M19.8,27.3c0.7-1.4,1.9-2.5,3.4-3c1.4-0.7,3-0.8,4.5-0.4"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M50.4,27.3c-1.6-2.8-4.8-4.2-7.9-3.4"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  <g id="color">
+    <rect x="8.25" y="8.0565" clip-path="url(#SVGID_2_)" fill="#FCEA2B" width="55.25" height="56" stroke="none"></rect>
+    <rect x="23.3301" y="40.037" clip-path="url(#SVGID_4_)" fill="#FFFFFF" width="24.1504" height="16.8291" stroke="none"></rect>
+    <circle fill="none" stroke="#fcea2b" stroke-miterlimit="10" cx="35.5" cy="36.0565" r="23"></circle>
+  </g>
+  <g id="hair">
+  </g>
+  <g id="skin">
+  </g>
+  <g id="skin-shadow">
+  </g>
+  <g id="line">
+    <polygon id="SVGID_1_" points="35.5,13.0565 26.8702,14.7362 21.5704,17.7567 16.6797,22.8358 13.25,30.1864 13.25,42.5262 
+				18.8496,51.9266 26.8702,57.3768 35.5,59.0565 42.6797,57.9061 50.3897,53.5761 55.5,47.4169 58.5,38.2069 57.75,30.2264 
+				53.9405,22.3163 49.7305,17.996 42.4805,14.1366 			" fill="#000000" stroke="none"></polygon>
+    <polygon id="SVGID_3_" points="33,45.037 29.8702,47.1268 28.6602,49.3661 28.3301,51.8661 32.1602,51.7968 42.4805,51.7968 
+				41.1202,47.1268 37.8496,45.037 			" fill="#000000" stroke="none"></polygon>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M28.3106,51.9266c0-4,2.3896-7.1796,7.1797-7.1796c4.789,0,7.2099,3.1894,7.2099,7.1796"></path>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="42.6797" y1="51.9266" x2="28.3106" y2="51.9266"></line>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M19.7793,27.2567c0.7207-1.3857,1.9278-2.4541,3.3907-3c1.4052-0.7002,3.0205-0.8486,4.5302-0.4209"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M50.3897,27.2567c-1.582-2.7724-4.8037-4.1699-7.9092-3.4306"></path>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.5" cy="36.0565" r="23"></circle>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M28.3106,51.9266c0-4,2.3896-7.1796,7.1797-7.1796c4.789,0,7.2099,3.1894,7.2099,7.1796"></path>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="42.6797" y1="51.9266" x2="28.3106" y2="51.9266"></line>
+    <circle cx="43.6758" cy="36.037" r="2.5556" fill="#000000" stroke="none"></circle>
+    <circle cx="26.4258" cy="36.037" r="2.5556" fill="#000000" stroke="none"></circle>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M19.7793,27.2567c0.7207-1.3857,1.9278-2.4541,3.3907-3c1.4052-0.7002,3.0205-0.8486,4.5302-0.4209"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M50.3897,27.2567c-1.582-2.7724-4.8037-4.1699-7.9092-3.4306"></path>
+  </g>
 </svg>

@@ -1,0 +1,16 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>26D1</title>
+  
+  
+  <g id="line">
+    <path d="M43.29,9.1081V23.6554a15.278,15.278,0,0,1-14.8577,0V8.8881" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"></path>
+    <path d="M16.825,30.71c0-8.3786,4.7-18.3651,11.4251-21.5167a17.8729,17.8729,0,0,1,7.6113-1.6984c10.5135,0,19.0364,9.1465,19.0364,20.4293,0,.4376.0252,2.3551,0,2.7858" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"></path>
+    <path d="M18.2179,41.3893s.9286,21.3579,17.6435,21.3579S53.5049,41.3893,53.5049,41.3893" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"></path>
+    
+    <path d="M27.5039,32.1033a86.4178,86.4178,0,0,0,16.7149,0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+    <path d="M28.4325,60.9222s7.4289,4.6751,14.8577,0" fill="none" stroke="#1d1d1b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"></path>
+    <path d="M28.9477,8.8881s8.354-3.3824,14.1341.166L43.29,23.7458s-7.4288,4.643-14.8577,0Z"></path>
+    <line x1="35.9001" y1="12.3833" x2="35.9001" y2="20.2764" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"></line>
+    <line x1="32.4178" y1="16.3299" x2="39.3823" y2="16.3299" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"></line>
+  </g>
+</svg>

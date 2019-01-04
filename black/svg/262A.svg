@@ -1,13 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_x262A__xFE0F__1_">
-	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M45,57c2,0,3.9-0.3,5.7-0.8c-4.1,3-9.2,4.8-14.7,4.8c-13.8,0-25-11.2-25-25s11.2-25,25-25c5.5,0,10.6,1.8,14.7,4.8
-		C48.9,15.3,47,15,45,15c-11.6,0-21,9.4-21,21C24,47.6,33.4,57,45,57z"/>
-	
-		<polygon fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		50.7,27.9 53,32.7 58.3,33.5 54.5,37.2 55.4,42.5 50.7,40 45.9,42.5 46.8,37.2 43,33.5 48.3,32.7 	"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  
+  
+  
+  
+  
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M45.0001,57c1.9749,0,3.9-0.275,5.7124-0.8C46.5875,59.2249,41.5,61,36,61c-13.8124,0-25-11.1875-25-25s11.1876-25,25-25
+		c5.5,0,10.5875,1.775,14.7125,4.8C48.9001,15.275,46.975,15,45.0001,15C33.4001,15,24,24.4,24,36C24,47.6,33.4001,57,45.0001,57z"></path>
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		50.6518,27.8958 53.0244,32.7032 58.3297,33.4741 54.4907,37.2162 55.397,42.5 50.6518,40.0053 45.9066,42.5 46.8129,37.2162 
+		42.9739,33.4741 48.2792,32.7032 	"></polygon>
+  </g>
 </svg>
