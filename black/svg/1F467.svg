@@ -1,21 +1,16 @@
 <svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-
-
-
-
-
-<g id="line">
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M18,60v-3.123
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M18,60v-3.123
 		c0-4.9942,3.8223-9,8.8145-9c6,5,12,5,18,0c4.9941,0,9.1855,4.0058,9.1855,9V60"></path>
-	<path d="M42,31c0,1.1045-0.8955,2-2,2s-2-0.8955-2-2s0.8955-2,2-2S42,29.8955,42,31"></path>
-	<path d="M34,31c0,1.1045-0.8955,2-2,2s-2-0.8955-2-2s0.8955-2,2-2S34,29.8955,34,31"></path>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M25,32c0,8,4.8145,12.877,10.8145,12.877
+    <path d="M42,31c0,1.1045-0.8955,2-2,2s-2-0.8955-2-2s0.8955-2,2-2S42,29.8955,42,31"></path>
+    <path d="M34,31c0,1.1045-0.8955,2-2,2s-2-0.8955-2-2s0.8955-2,2-2S34,29.8955,34,31"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M25,32c0,8,4.8145,12.877,10.8145,12.877
 		S47,40,47,32c0-4-1-6-1-6c-2-2-4-4-4-4s-12,2-16,4C26,26,25,28,25,32z"></path>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M32.8145,38.25
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M32.8145,38.25
 		c1.875,1,4.125,1,6,0"></path>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M20,46
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M20,46
 		c-4-6-1.7637-8.2832,0.0723-13c1.6367-4.2002-0.209-6.4512,1.291-12.0342C22.8438,15.4658,28.6406,12,35.0723,12
 		c5.4013,0,8.0009,3,8.0009,3c4.169,0.374,7.3731,3.8516,7.4053,8.0371c0.3867,7.1797,1.0244,7.1524,3.4287,12.8223
 		C55.6641,39.9238,54.8789,42.6348,52,46"></path>
-</g>
+  </g>
 </svg>

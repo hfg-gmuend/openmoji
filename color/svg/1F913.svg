@@ -1,5 +1,4 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <rect x="6.6371" y="8.0565" clip-path="url(#SVGID_2_)" fill="#FCEA2B" width="55.25" height="56" stroke="none"></rect>
     <circle fill="none" stroke="#fcea2b" stroke-miterlimit="10" cx="33.8871" cy="36.0565" r="23"></circle>
@@ -9,12 +8,9 @@
     <path fill="#FFFFFF" stroke="none" stroke-width="2" stroke-miterlimit="10" d="M37.8399,47.4307
 		c0.282,1.7234,0.4344,5.4883-3.8566,4.64V47.701c0,0,0.2805,0,0.7321-0.0649"></path>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <polygon id="SVGID_1_" points="33.8871,13.0565 25.2573,14.7362 19.9575,17.7567 15.0668,22.8358 11.6371,30.1864 
 				11.6371,42.5262 17.2367,51.9266 25.2573,57.3768 33.8871,59.0565 41.0668,57.9061 48.7768,53.5761 53.8871,47.4169 

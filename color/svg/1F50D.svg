@@ -1,5 +1,4 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <ellipse transform="matrix(0.8006 -0.5992 0.5992 0.8006 -8.979 22.6777)" fill="#FFFFFF" cx="29.5854" cy="24.8305" rx="11.1656" ry="11.1657" stroke="none"></ellipse>
     <path fill="#92D3F5" d="M39,19c-1.6269-2.1743-5.3114-4.6131-8-5c-1.841-0.2648-5,0-5.3126,1.4508
@@ -12,12 +11,9 @@
 		C33.9592,14.5969,36.4719,16.0889,38.1933,18.3883z" stroke="none"></path>
     <path fill="#3F3F3F" d="M39,42l10,14c0,0,3,4,5,2s0-5,0-5L43,39L39,42z" stroke="none"></path>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <ellipse transform="matrix(0.8006 -0.5992 0.5992 0.8006 -8.979 22.6778)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="29.5854" cy="24.8305" rx="14.6372" ry="14.6372"></ellipse>
     <ellipse transform="matrix(0.8006 -0.5992 0.5992 0.8006 -8.979 22.6777)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="29.5854" cy="24.8305" rx="11.1656" ry="11.1657"></ellipse>

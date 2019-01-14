@@ -1,16 +1,12 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <ellipse fill="#6A462F" cx="36" cy="29.7632" rx="6.2632" ry="4.0263" stroke="none"></ellipse>
     <ellipse fill="#6A462F" cx="36" cy="36.9211" rx="4.4737" ry="2.8759" stroke="none"></ellipse>
     <ellipse fill="#6A462F" cx="36" cy="50.3421" rx="6.2632" ry="10.2895" stroke="none"></ellipse>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		31.5263,34.6842 23.4737,31.1053 20.7895,23.9474 	"></polyline>

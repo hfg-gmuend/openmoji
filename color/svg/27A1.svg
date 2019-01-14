@@ -1,19 +1,11 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
-  <g id="color">
-    <polygon id="_x27A1__xFE0F_" fill="#3F3F3F" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-	49.2124,51.5343 67,35.0363 49.2124,18.5382 45.4234,22.6138 55.8191,32.2554 5,32.2554 5,37.8171 55.8191,37.8171 45.4234,47.4587 
-	"></polygon>
-  </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
-  <g id="line">
-    <polygon id="_x27A1__xFE0F_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-	49.2124,51.5343 67,35.0363 49.2124,18.5382 45.4234,22.6138 55.8191,32.2554 5,32.2554 5,37.8171 55.8191,37.8171 45.4234,47.4587 
-	"></polygon>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>27A1</title>
+  <g id="emoji">
+    <g id="color">
+      <polygon id="_" data-name="➡️" points="45.176 52.49 62.976 35.99 45.176 19.49 41.376 23.59 51.776 33.29 7.575 33.29 7.575 38.79 51.776 38.79 41.376 48.49 45.176 52.49" fill="#3f3f3f"></polygon>
+    </g>
+    <g id="line">
+      <polygon id="_2" data-name="➡️" points="45.176 52.49 62.976 35.99 45.176 19.49 41.376 23.59 51.776 33.29 7.575 33.29 7.575 38.79 51.776 38.79 41.376 48.49 45.176 52.49" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></polygon>
+    </g>
   </g>
 </svg>

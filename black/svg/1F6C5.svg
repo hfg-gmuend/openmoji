@@ -1,7 +1,5 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <title>1F6C5</title>
-  
-  
   <g id="line">
     <polyline points="22 37.67 15.232 37.67 15.232 61.485 22 61.485" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></polyline>
     <rect x="21.8411" y="37.6702" width="28.2019" height="23.815" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></rect>
@@ -11,6 +9,9 @@
     <polyline points="35.676 15.152 18.812 15.057 15 18.925 18.936 22.837 21.178 20.561 23.957 23.323 27.096 20.137 29.643 22.668 32.609 22.914 34.852 20.639 36.01 21.789" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></polyline>
     <ellipse cx="51.0802" cy="18.4088" rx="2.3709" ry="2.3808" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></ellipse>
     <rect x="6" y="6" width="60" height="60" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></rect>
-    
+    <g>
+      <path d="M30,37V34s0-3,3.5357-3H38.25" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+      <path d="M42,37V34s0-3-3.5357-3H33.75" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+    </g>
   </g>
 </svg>

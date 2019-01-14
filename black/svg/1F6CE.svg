@@ -1,20 +1,89 @@
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72 72" style="enable-background:new 0 0 72 72;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#B2B2B2;}
-	.st1{fill:none;stroke:#00A4FF;stroke-width:0.1;stroke-miterlimit:10;}
-	.st2{fill:#F1B31C;stroke:#F1B31C;stroke-miterlimit:10;}
-	.st3{fill:#F1B31C;}
-	.st4{fill:#FFFFFF;}
-	.st5{fill:none;stroke:#6A462F;stroke-width:3;stroke-miterlimit:10;}
-	.st6{fill:none;stroke:#6A462F;stroke-width:2.3562;stroke-miterlimit:10;}
-	.st7{fill:none;stroke:#F1B31C;stroke-width:2.3562;stroke-miterlimit:10;}
-	.st8{fill:none;stroke:#000000;stroke-width:2.3562;stroke-linecap:round;stroke-linejoin:round;}
-	.st9{fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;}
-	.st10{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-miterlimit:10;}
-	.st11{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;}
-	.st12{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
-</style>
-<title>1F6CE</title>
+  <style type="text/css">
+    .st0 {
+      fill: #B2B2B2;
+    }
 
+    .st1 {
+      fill: none;
+      stroke: #00A4FF;
+      stroke-width: 0.1;
+      stroke-miterlimit: 10;
+    }
 
+    .st2 {
+      fill: #F1B31C;
+      stroke: #F1B31C;
+      stroke-miterlimit: 10;
+    }
+
+    .st3 {
+      fill: #F1B31C;
+    }
+
+    .st4 {
+      fill: #FFFFFF;
+    }
+
+    .st5 {
+      fill: none;
+      stroke: #6A462F;
+      stroke-width: 3;
+      stroke-miterlimit: 10;
+    }
+
+    .st6 {
+      fill: none;
+      stroke: #6A462F;
+      stroke-width: 2.3562;
+      stroke-miterlimit: 10;
+    }
+
+    .st7 {
+      fill: none;
+      stroke: #F1B31C;
+      stroke-width: 2.3562;
+      stroke-miterlimit: 10;
+    }
+
+    .st8 {
+      fill: none;
+      stroke: #000000;
+      stroke-width: 2.3562;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+
+    .st9 {
+      fill: none;
+      stroke: #000000;
+      stroke-width: 2;
+      stroke-linejoin: round;
+    }
+
+    .st10 {
+      fill: none;
+      stroke: #000000;
+      stroke-width: 2;
+      stroke-linecap: square;
+      stroke-miterlimit: 10;
+    }
+
+    .st11 {
+      fill: none;
+      stroke: #000000;
+      stroke-width: 2;
+      stroke-linecap: square;
+      stroke-linejoin: round;
+    }
+
+    .st12 {
+      fill: none;
+      stroke: #000000;
+      stroke-width: 2;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+  </style>
+  <title>1F6CE</title>
 </svg>

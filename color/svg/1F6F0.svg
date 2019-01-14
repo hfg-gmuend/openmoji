@@ -1,5 +1,4 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <path fill="#d0cfce" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M24.2814,24.4049c3.6326-3.6326,3.934-9.4125,0.8702-13.3997c-0.3699-0.4815-1.0826-0.53-1.512-0.1007L11.0003,23.5439
@@ -21,12 +20,9 @@
 		l8.4853-8.4853c0.3905-0.3905,1.0237-0.3905,1.4142,0l2.1213,2.1213C53.725,43.8256,53.725,44.4587,53.3345,44.8492z"></path>
     <ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -5.1041 12.3223)" fill="#3f3f3f" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="12.3223" cy="12.3223" rx="2" ry="2"></ellipse>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="45.5" y1="26.5" x2="43.07" y2="28.93"></line>
     <polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="28.93,43.07 26.52,45.49 26,46 	"></polyline>

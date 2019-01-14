@@ -1,5 +1,4 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <path fill="#B1CC33" stroke="none" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M55.2257,56.7807
 		c-10.9878,10.9766-28.7798,10.9766-39.7676,0c-10.9765-10.9878-10.9765-28.7797,0-39.7675l2.6542,2.6542
@@ -9,12 +8,9 @@
     <path fill="#EA5A47" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M49.5241,56.7181c-9.5196,6.8373-22.857,5.9734-31.4119-2.5916c-8.6198-8.6097-9.4396-22.0632-2.4594-31.5942"></path>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M55.2257,56.7807
 		c-10.9878,10.9766-28.7798,10.9766-39.7676,0c-10.9765-10.9878-10.9765-28.7797,0-39.7675l2.6542,2.6542

@@ -1,13 +1,8 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
-  <g id="color">
-  </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="color"> </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 				M10.575,43.2029C10.2,41.7851,10,40.2948,10,38.7571v-1.1077c0-9.4639,7.5752-17.1359,16.9198-17.1359h30.9084"></path>

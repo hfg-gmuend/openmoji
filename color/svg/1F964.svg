@@ -1,15 +1,11 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <polygon fill="#D22F27" stroke="none" stroke-width="2" stroke-miterlimit="10" points="49.9235,50.25 51.9,35.85 20.4,35.85 
 		22.6588,50.25 	"></polygon>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="49.9235,50.25 51.9,35.85 20.4,35.85 
 		22.6588,50.25 	"></polygon>

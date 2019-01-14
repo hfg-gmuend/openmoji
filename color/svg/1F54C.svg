@@ -1,5 +1,4 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <rect x="17.5" y="26" fill="#D0CFCE" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="7" height="34"></rect>
     <ellipse fill="#F4AA41" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="42" cy="36" rx="12.5" ry="10"></ellipse>
@@ -13,12 +12,9 @@
     <path fill="#9B9B9A" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M42,45l-3.4962,5.2442C38.1753,50.737,38,51.3161,38,51.9083V60h8v-8.0917c0-0.5922-0.1753-1.1713-0.5038-1.6641L42,45z"></path>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <rect x="17.5" y="26" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="7" height="34"></rect>
     <ellipse fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="42" cy="36" rx="12.5" ry="10"></ellipse>

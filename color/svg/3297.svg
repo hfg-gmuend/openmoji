@@ -1,14 +1,10 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <circle fill="#d0cfce" stroke="none" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36" r="28"></circle>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <circle fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36" r="28"></circle>
     <path fill="#000000" d="M27.8789,24.5283c0-0.2918-0.2468-0.5283-0.5513-0.5283h-1.3975c-0.3044,0-0.5513,0.2365-0.5513,0.5283v2

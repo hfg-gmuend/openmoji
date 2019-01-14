@@ -1,5 +1,4 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <rect x="40.7218" y="18" transform="matrix(0.7071 0.7071 -0.7071 0.7071 30.8223 -27.4117)" fill="#9B9B9A" width="15.5563" height="11" stroke="none"></rect>
     <polygon fill="#3F3F3F" points="46.0339,22.2119 50.512,17.7338 57.8891,25.1109 52.5221,30.4779 	" stroke="none"></polygon>
@@ -8,12 +7,9 @@
 		c9.8615,2.5932,17.1357,11.5674,17.1357,22.2428c0,12.7025-10.2975,23-23,23c-7.1697,0-13.5723-3.2816-17.7903-8.4237
 		C15.6416,55.4725,17.6063,55.7374,19.6333,55.7374z" stroke="none"></path>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <rect x="40.7218" y="18" transform="matrix(0.7071 0.7071 -0.7071 0.7071 30.8223 -27.4117)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15.5563" height="11"></rect>
     <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="31.769" cy="40.4038" r="23"></circle>

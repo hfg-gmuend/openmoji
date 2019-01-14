@@ -1,14 +1,10 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -14.9122 35.9995)" fill="#ea5a47" cx="36" cy="36.0007" rx="14.9999" ry="14.9999" stroke="none"></ellipse>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -14.9124 36.0002)" fill="none" stroke="#000000" stroke-width="2.0397" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36.0009" rx="14.9998" ry="14.9998"></ellipse>
     <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="12" y1="60" x2="23" y2="49"></line>

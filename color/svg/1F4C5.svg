@@ -1,5 +1,4 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <path fill="#FFFFFF" d="M12,28.1224l-0.003,31.9694l31.6594-0.0054l16.0898-12.0482C59.739,47.9894,60,44.0918,60,44.0918
 		l-0.003-16L12,28.1224z" stroke="none"></path>
@@ -14,12 +13,9 @@
     <line fill-rule="evenodd" clip-rule="evenodd" fill="#9b9b9a" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="22.0151" y1="8.6884" x2="22.0151" y2="18.9976"></line>
     <line fill-rule="evenodd" clip-rule="evenodd" fill="#9b9b9a" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="50.0158" y1="8.6884" x2="50.0158" y2="18.9976"></line>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <ellipse transform="matrix(0.0096 -1 1 0.0096 1.9414 41.6581)" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="22" cy="19.849" rx="3" ry="3"></ellipse>
     <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="26.0057" y1="12.1224" x2="46.0558" y2="12.1224"></line>

@@ -1,5 +1,4 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <path fill="#ea5a47" d="M17.9247,53.9753l-6.625-1.017c0,0-1.0625,0-1.0625-1.25s-0.0625-3.5625-0.0625-3.5625
 		s0.6832-9.4798,2.625-10.625c1.625-0.9583,46.544-0.7036,53.1365-0.5781c0.4728,0.009,0.8668,0.3478,0.9496,0.8133
@@ -12,12 +11,9 @@
     <rect x="40.4872" y="40.3177" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 86.0369 93.3021)" fill="#3f3f3f" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="5.0625" height="12.6667"></rect>
     <path fill="#fcea2b" d="M11.1591,50.6562h2.5783l1.0723-2.3125h-2.8795c-0.4259,0-0.7711,0.3992-0.7711,0.8916V50.6562z" stroke="none"></path>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M17.9247,52.9753l-6.625-0.017c0,0-1.0625,0-1.0625-1.25s-0.0625-3.5625-0.0625-3.5625s0.6832-9.4798,2.625-10.625

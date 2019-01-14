@@ -1,16 +1,12 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <polyline fill="#d0cfce" points="19.7998,43.3879 16.437,46.7507 24.495,54.8088 27.8578,51.446 	" stroke="none"></polyline>
     <polyline fill="#d0cfce" points="19.7986,43.3584 7.5932,31.153 55.8448,16 40.2346,63.7943 27.8714,51.4311 	" stroke="none"></polyline>
     <polyline fill="#b399c8" points="55.9157,16.0709 29.7452,52.4497 40.013,62.7175 55.9157,16.0709 	" stroke="none"></polyline>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		19.8696,43.4293 7.6642,31.2239 55.9157,16.0709 40.3055,63.8653 27.9423,51.502 	"></polyline>

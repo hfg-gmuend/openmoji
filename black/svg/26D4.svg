@@ -1,9 +1,4 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
-  
-  
-  
-  
   <g id="line">
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M36,11c-13.8066,0-25,11.1926-25,25c0,13.8066,11.1934,25,25,25c13.8065,0,25-11.1934,25-25C61,22.1926,49.8065,11,36,11z"></path>

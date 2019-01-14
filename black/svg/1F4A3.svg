@@ -1,9 +1,4 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
-  
-  
-  
-  
   <g id="line">
     <rect x="40.7218" y="18" transform="matrix(0.7071 0.7071 -0.7071 0.7071 30.8223 -27.4117)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15.5563" height="11"></rect>
     <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="31.769" cy="40.4038" r="23"></circle>

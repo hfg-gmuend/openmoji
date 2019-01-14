@@ -1,7 +1,5 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <title>1F698</title>
-  
-  
   <g id="line">
     <polyline points="24.095 37.443 48.756 37.443 45.878 28.852" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></polyline>
     <line x1="32" y1="42.1606" x2="41" y2="42.1606" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"></line>

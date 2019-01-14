@@ -1,17 +1,13 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <polygon fill="#FFFFFF" points="11,57.6968 60,57.6968 60,11.9092 15.9985,11.9092 11.9985,15.9092 	" stroke="none"></polygon>
     <path fill="#9b9b9a" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 			M55.0015,60.9092h-43.003c-0.5514,0-0.9985-0.447-0.9985-0.9985v-43.003c0-0.5514,0.447-0.9985,0.9985-0.9985h43.003
 			c0.5514,0,0.9985,0.447,0.9985,0.9985v43.003C56,60.4621,55.553,60.9092,55.0015,60.9092z"></path>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 			M11,16.9092l4.9985-5h43.003c0.5514,0,0.9985,0.447,0.9985,0.9985v43.003c0,0.5514-0.447,0.9985-0.9985,0.9985"></path>

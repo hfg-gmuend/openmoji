@@ -1,5 +1,4 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <polygon fill="#3F3F3F" points="14.5943,53.154 18.2544,56.814 12.6242,59.0928 	" stroke="none"></polygon>
     <polyline fill="#f4aa41" points="18.0381,41.8761 36.8684,23.0457 48.1813,34.3586 29.5108,53.0291 	" stroke="none"></polyline>
@@ -7,12 +6,9 @@
     <polyline fill="#EA5A47" points="42.9209,16.9933 50.4228,9.4913 61.7357,20.8042 54.2975,28.2424 	" stroke="none"></polyline>
     <polyline fill="#9b9b9a" points="35.6498,24.2643 43.3318,16.5823 54.6447,27.8952 47.0278,35.512 	" stroke="none"></polyline>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		18.6304,56.8203 27.8278,53.2939 53.8207,27.301 43.9212,17.4015 17.9281,43.3946 14.3904,52.6032 	"></polygon>

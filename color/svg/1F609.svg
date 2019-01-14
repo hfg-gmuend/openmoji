@@ -1,14 +1,10 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <rect x="22.8746" y="43.4032" clip-path="url(#SVGID_4_)" fill="#EA5A47" width="23.3258" height="10.8407" stroke="none"></rect>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <polygon id="SVGID_1_" points="34.4354,13.0683 25.8378,14.7417 20.5577,17.751 15.6852,22.8112 12.2683,30.1344 
 				12.2683,42.4282 17.847,51.7936 25.8378,57.2235 34.4354,58.897 41.5884,57.7509 49.2697,53.437 54.361,47.3007 57.3498,38.125 

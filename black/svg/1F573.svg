@@ -1,9 +1,4 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
-  
-  
-  
-  
   <g id="line">
     <ellipse fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="35.5" cy="34.5" rx="32.5" ry="13.5"></ellipse>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M35.5,31c13.5192,0,25.1072,3.3025,30.0053,8

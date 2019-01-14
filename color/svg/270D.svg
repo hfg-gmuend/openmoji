@@ -1,13 +1,11 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <polyline fill="#3F3F3F" points="26.0625,35.7879 45.9,6.2368 50.2011,9.0841 32.1403,33.608 	" stroke="none"></polyline>
     <polyline fill="#3F3F3F" points="18.943,53.7111 15.5519,58.5351 9.7396,62.8728 11.7478,55.8081 15.5519,50.2713 	" stroke="none"></polyline>
     <path fill="#3F3F3F" d="M33.9958,35.1771c-2.5172,0.1295-5.8003,1.3563-8.3175,1.4858c-0.4848,0.0249-0.1311-1.1912-0.6159-1.1663
 		c2.8907-4.2717,5.7815-8.5435,8.6722-12.8152l7.0213,0.1219L33.9958,35.1771z" stroke="none"></path>
   </g>
-  <g id="hair">
-  </g>
+  <g id="hair"> </g>
   <g id="skin">
     <path fill="#fcea2b" d="M12.5112,54.6969c-1.1821-1.3451-2.3342-3.0456-2.2442-4.012l2.6885-18.4595
 		c0-0.8427,0.1873-1.5918,1.0708-2.0703l16.3478-8.2712c0.5202-0.2526-1.2442-2.812,4.2487-0.4575" stroke="none"></path>
@@ -23,8 +21,7 @@
     <polygon fill="#fcea2b" points="38.1318,42.8737 16.516,42.8737 39.1195,22.6815 44.2882,25.4333 	" stroke="none"></polygon>
     <rect x="32.059" y="45.907" fill="#fcea2b" width="21.4808" height="11.2677" stroke="none"></rect>
   </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M10.6323,52.6212l2.3232-20.3958c0-0.8427,0.1873-1.5918,1.0708-2.0703l17.1784-8.7194"></path>

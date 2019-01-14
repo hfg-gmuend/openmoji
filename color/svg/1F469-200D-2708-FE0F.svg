@@ -1,5 +1,4 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <path fill="#FFFFFF" d="M16.6974,58.8529c0,0-0.9644-3.8571-0.1756-7.6612c0.7007-3.3792,4.6186-7.2388,10.2087-7.2388
 			c3.1918,2.1279,5.5264,4.5985,8.6,4.5922h-0.125c3.0736,0.0063,6.308-1.5642,9.4999-3.6922c11.5647-0.0346,10.009,13.9,10.24,14" stroke="none"></path>
@@ -21,15 +20,13 @@
     <polygon fill="#3F3F3F" points="35.7441,50.1755 39.5188,58.8523 35.7441,58.8523 31.7695,58.8523 		" stroke="none"></polygon>
     <path fill="#3F3F3F" d="M33.3735,48.7295c0,0-1.2063,5.0369,2.3073,5.0369s2.3073-5.0369,2.3073-5.0369" stroke="none"></path>
   </g>
-  <g id="hair">
-  </g>
+  <g id="hair"> </g>
   <g id="skin">
     <rect x="16.7583" y="44.3515" fill="#fcea2b" width="6.9637" height="3.8501" stroke="none"></rect>
     <rect x="47.7083" y="44.3515" fill="#fcea2b" width="6.9637" height="3.8501" stroke="none"></rect>
     <ellipse fill="#fcea2b" cx="35.9267" cy="28.7269" rx="11.3386" ry="14.1733" stroke="none"></ellipse>
   </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <path fill="#000000" d="M42.035,26.8457c0,1.1045-0.8965,2-2,2c-1.1035,0-2-0.8955-2-2c0-1.1035,0.8965-2,2-2
 			C41.1385,24.8457,42.035,25.7422,42.035,26.8457" stroke="none"></path>

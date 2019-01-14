@@ -1,8 +1,9 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <title>1F3C1</title>
-  
-  
   <g id="line">
-    
+    <g>
+      <path d="M66.9637,40s-16-8-31,0S5,39.9174,5,39.9174v-32S20.9637,16,35.9637,8s31,0,31,0Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+      <line x1="5" y1="8.2278" x2="5" y2="67.7722" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></line>
+    </g>
   </g>
 </svg>

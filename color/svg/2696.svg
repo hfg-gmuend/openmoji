@@ -1,16 +1,12 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <path fill="#9B9B9A" d="M48.0626,62.92c0-3.3137-5.5964-6-12.5-6s-12.5,2.6863-12.5,6H48.0626z" stroke="none"></path>
     <path fill="#D0CFCE" d="M24.9006,46.9656c0,2.1938-2.1985,3.9723-4.9106,3.9723s-4.9106-1.7785-4.9106-3.9723H24.9006z" stroke="none"></path>
     <path fill="#D0CFCE" d="M57.9006,46.9248c0,2.1938-2.1985,3.9723-4.9106,3.9723c-2.712,0-4.9106-1.7785-4.9106-3.9723H57.9006z" stroke="none"></path>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M15.9996,25.1697c2.6667,0.0001,8.9544-5.3333,20.0002-5.3333S50.6666,23.8365,56,25.1697"></path>

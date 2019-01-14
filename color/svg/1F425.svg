@@ -1,17 +1,13 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  
   <g id="color">
     <ellipse fill="#FCEA2B" stroke="#FCEA2B" stroke-width="1.8" stroke-miterlimit="10" cx="36" cy="43" rx="15" ry="11"></ellipse>
     <path fill="#FCEA2B" d="M42.25,36c2,9,9,9,9,9c2-6-6-11-6-11c7-6,1-10,1-10c0-10-10.375-11-10.375-11C25.5,15,26.25,24,26.25,24
 		c-6,4,0.625,9.75,0.625,9.75S19.25,38,21.25,45c0,0,8,0,8-9" stroke="none"></path>
     <path fill="#F1B31C" d="M36.6219,26.6032c0,0,5.9251-0.2907,0,5.2324C36.6219,31.8356,30.6968,26.6032,36.6219,26.6032z" stroke="none"></path>
   </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
+  <g id="hair"> </g>
+  <g id="skin"> </g>
+  <g id="skin-shadow"> </g>
   <g id="line">
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M23,49c0,0,4.7974,5.0246,13.48,5.0122C45,54,49,49,49,49"></path>
