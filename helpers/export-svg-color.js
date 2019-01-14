@@ -1,13 +1,15 @@
 const fs = require('fs');
 const path = require('path');
 const _ = require('lodash');
+const beautify = require('js-beautify').html;
 const JSDOM = require('jsdom').JSDOM;
 
 const folderSrc = './src';
 const folderOut = './color/svg';
 
 const writeSvg = (filePath, data) => {
-  fs.writeFileSync(filePath, data);
+  const content = beautify(data, { indent_size: 2, max_preserve_newlines: "-1" });
+  fs.writeFileSync(filePath, content);
 }
 
 const generateSvg = (srcFilePath, destFilePath) => {
