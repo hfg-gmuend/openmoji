@@ -28,24 +28,25 @@ const emojis = _.map(emojibaseData, e => {
 let results = [];
 const svgFiles = glob( path.join(argv[0], '*.svg') );
 svgFiles.forEach((f, i) => {
+  let importResult = ''; // NEW, OVERWRITE or ERROR
+  let emojiChar = '';
   const basename = path.basename(f, '.svg');
   const foldername = _.last(path.dirname(f).split('/'));
   const emoji = _.find(emojis, { 'hexcode': basename });
-  if (!emoji) {
-    throw Error ('Cannot find Unicode definition for '+f);
-  }
 
-  const destination = path.join('src', emoji.group, emoji.subgroups, basename+'.svg');
-  if (fs.existsSync(destination)) {
-    console.log(basename+'.svg', '->', destination, '⚠️ OVERWRITE');
+  if (emoji) {
+    emojiChar = emoji.emoji;
+    const destination = path.join('src', emoji.group, emoji.subgroups, basename+'.svg');
+    if (fs.existsSync(destination)) importResult = 'OVERWRITE';
+    else importResult = 'NEW';
+    fs.copyFileSync(f, destination);
   } else {
-    console.log(basename+'.svg', '->', destination);
+    importResult = 'ERROR';
   }
-  fs.copyFileSync(f, destination);
 
   let dt = new Date();
   dt = dt.getFullYear() +'-'+ ('0' + (dt.getMonth()+1)).slice(-2) +'-'+ ('0' + dt.getDate()).slice(-2);
-  results.push([emoji.emoji, basename, '', foldername, dt]);
+  results.push([emojiChar, basename, '', foldername, dt, importResult]);
 });
 
 results.forEach(line => {
