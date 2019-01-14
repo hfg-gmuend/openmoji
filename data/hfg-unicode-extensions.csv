@@ -106,19 +106,19 @@ emoji,hexcode,hfg_tags,hfg_author,hfg_date
 🐲,1F432,"fire, fly",Selina Bauder,2018-04-18
 🦎,1F98E,"fast, small",Selina Bauder,2018-04-18
 🦕,1F995,dinosaur,Selina Bauder,2018-04-18
-↔️,2194,"directions, opposite",Jose Avila,2018-04-18
-↕️,2195,"directions, opposite",Jose Avila,2018-04-18
-↖️,2196,diagonal,Jose Avila,2018-04-18
-↗️,2197,diagonal,Jose Avila,2018-04-18
-↘️,2198,diagonal,Jose Avila,2018-04-18
-↙️,2199,diagonal,Jose Avila,2018-04-18
-⤴️,2934,"direction, curve",Jose Avila,2018-04-18
-⤵️,2935,"direction, curve",Jose Avila,2018-04-18
+↔️,2194,"directions, opposite, left and right",Jose Avila,2018-04-18
+↕️,2195,"directions, opposite, up and down",Jose Avila,2018-04-18
+↖️,2196,"diagonal, left up",Guemil Project,2019-01-14
+↗️,2197,"diagonal, right up",Guemil Project,2019-01-14
+↘️,2198,"diagonal, right down",Guemil Project,2019-01-14
+↙️,2199,"diagonal, left down",Guemil Project,2019-01-14
+⤴️,2934,"direction, curve up",Jose Avila,2018-04-18
+⤵️,2935,"direction, curve down",Jose Avila,2018-04-18
 🔄,1F504,cycle,Jose Avila,2018-04-18
-➡️,27A1,"soon, future",Jose Avila,2018-04-18
-⬅️,2B05,past,Jose Avila,2018-04-18
-⬆️,2B06,above,Jose Avila,2018-04-18
-⬇️,2B07,underneath,Jose Avila,2018-04-18
+➡️,27A1,"right, soon, future",Guemil Project,2019-01-14
+⬅️,2B05,"left, past",Guemil Project,2019-01-14
+⬆️,2B06,"up, above",Guemil Project,2019-01-14
+⬇️,2B07,"down, underneath",Guemil Project,2019-01-14
 ↩️,21A9,"directions, turn arround",Jose Avila,2018-04-18
 ↪️,21AA,"directions, turn arround",Jose Avila,2018-04-18
 🔀,1F500,random,Jose Avila,2018-04-18
@@ -456,7 +456,7 @@ emoji,hexcode,hfg_tags,hfg_author,hfg_date
 🥓,1F953,,Miriam Vollmeier,2018-04-18
 🥖,1F956,,Miriam Vollmeier,2018-04-18
 🥚,1F95A,,Miriam Vollmeier,2018-04-18
-🥣,1F963,,Miriam Vollmeier,2018-04-18
+🥣,1F963,,Guemil Project,2019-01-14
 🥨,1F968,,Miriam Vollmeier,2018-04-18
 🥩,1F969,,Miriam Vollmeier,2018-04-18
 🥪,1F96A,,Miriam Vollmeier,2018-04-18
@@ -732,7 +732,7 @@ emoji,hexcode,hfg_tags,hfg_author,hfg_date
 🏰,1F3F0,"building, culture, historical, war",Martin Wehl,2018-04-18
 💒,1F492,"building, love, marriage, heart",Martin Wehl,2018-04-18
 ⛰️,26F0,"landscape, nature, hiking, climbing, outdoor, adventure",Martin Wehl,2018-04-18
-🌋,1F30B,"landscape, nature, fire, smoke, hot",Martin Wehl,2018-04-18
+🌋,1F30B,"vulcano, landscape, nature, fire, smoke, hot",Guemil Project,2019-01-14
 🏔️,1F3D4,"landscape, nature, hiking, climbing, white, outdoor, adventure",Martin Wehl,2018-04-18
 🏕️,1F3D5,"nature, outdoor, tent, adventure, sleeping",Martin Wehl,2018-04-18
 🏖️,1F3D6,"nature, summer, sun, sand, water, holidays",Martin Wehl,2018-04-18
@@ -779,7 +779,7 @@ emoji,hexcode,hfg_tags,hfg_author,hfg_date
 ☮️,262E,,Jose Avila,2018-04-18
 ☯️,262F,balance,Jose Avila,2018-04-18
 ⚛️,269B,,Jose Avila,2018-04-18
-🔥,1F525,"fire, burn, hot, high temperature, flame, glow, flame, tool",Vanessa Boutzikoudi,2018-04-18
+🔥,1F525,"fire, burn, hot, high temperature, flame, glow, flame, tool",Guemil Project,2019-01-14
 ⚡️,26A1,"lightning, high voltage, storm, current, voltage, volts, lights, light",Vanessa Boutzikoudi,2018-04-18
 ⭐️,2B50,"star, shine, small planet, sky, yellow, sparkle, far away",Vanessa Boutzikoudi,2018-04-18
 ☀️,2600,"sun, sunrise, warm, sunbeams, feel good, beach, tanning, fire, fireball, hot, heavenly body",Vanessa Boutzikoudi,2018-04-18
@@ -916,9 +916,9 @@ emoji,hexcode,hfg_tags,hfg_author,hfg_date
 🚹️,1F6B9,"man, restroom, guy, dude, male, toilet",Ronja Bäurlen,2018-04-18
 🚺️,1F6BA,"woman, female, restroom, chick, women, toilet",Ronja Bäurlen,2018-04-18
 🚻,1F6BB,"unisex, restroom, male, toilet, woman, female",Ronja Bäurlen,2018-04-18
-♿️,267F,"disabled, toilet, restroom",Ronja Bäurlen,2018-04-18
+♿️,267F,"disabled person, wheel chair, toilet, restroom",Guemil Project,2019-01-14
 🚮,1F6AE,"trash, litter, bin, garbage, can, throw, away",Ronja Bäurlen,2018-04-18
-🚰,1F6B0,"water, faucet, tap, glass",Ronja Bäurlen,2018-04-18
+🚰,1F6B0,"water, faucet, tap, glass",Guemil Project,2019-01-14
 🚼️,1F6BC,"baby, changing, station, restroom, toilet",Ronja Bäurlen,2018-04-18
 🚾,1F6BE,"restroom, WC, toilet, water, closet",Ronja Bäurlen,2018-04-18
 🚢,1F6A2,"boat, passengers, ship, travel, sea, atlantic, ocean, water",Ronja Bäurlen,2018-04-18

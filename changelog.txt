@@ -6,6 +6,8 @@
 
 👉 OpenMoji 1.? - ???
 
+* Updated 13 standard emojis with Guemil Project revisions
+
 + Added 135 new emojis.
   Contributions of the OpenMoji Workshop at the HfG Laborwoche 2018 by
   Abby Esquivel, Aileen Gedrat, Anne Frauendorf, Daniel Quiros, Hend Hourani,
