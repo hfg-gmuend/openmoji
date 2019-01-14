@@ -1790,7 +1790,7 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,hfg_date,skint
 🍳,1F373,food-drink,food-prepared,cooking,"egg, frying, pan",,Miriam Vollmeier,2018-04-18,,,,1,2386
 🥘,1F958,food-drink,food-prepared,shallow pan of food,"casserole, food, paella, pan, shallow",,,,,,,3,2387
 🍲,1F372,food-drink,food-prepared,pot of food,"pot, stew",,Miriam Vollmeier,2018-04-18,,,,1,2388
-🥣,1F963,food-drink,food-prepared,bowl with spoon,"breakfast, cereal, congee",,Miriam Vollmeier,2018-04-18,,,,5,2389
+🥣,1F963,food-drink,food-prepared,bowl with spoon,"breakfast, cereal, congee",,Guemil Project,2019-01-14,,,,5,2389
 🥗,1F957,food-drink,food-prepared,green salad,"food, green, salad",,,,,,,3,2390
 🍿,1F37F,food-drink,food-prepared,popcorn,popcorn,,Miriam Vollmeier,2018-04-18,,,,1,2391
 🧂,1F9C2,food-drink,food-prepared,salt,"condiment, shaker",,,,,,,11,2392
@@ -1855,7 +1855,7 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,hfg_date,skint
 🧭,1F9ED,travel-places,place-map,compass,"magnetic, navigation, orienteering",,,,,,,11,2453
 🏔️,1F3D4,travel-places,place-geographic,snow-capped mountain,"cold, mountain, snow","landscape, nature, hiking, climbing, white, outdoor, adventure",Martin Wehl,2018-04-18,,,,1,2455
 ⛰️,26F0,travel-places,place-geographic,mountain,mountain,"landscape, nature, hiking, climbing, outdoor, adventure",Martin Wehl,2018-04-18,,,,1,2457
-🌋,1F30B,travel-places,place-geographic,volcano,"eruption, mountain","landscape, nature, fire, smoke, hot",Martin Wehl,2018-04-18,,,,1,2458
+🌋,1F30B,travel-places,place-geographic,volcano,"eruption, mountain","vulcano, landscape, nature, fire, smoke, hot",Guemil Project,2019-01-14,,,,1,2458
 🗻,1F5FB,travel-places,place-geographic,mount fuji,"fuji, mountain","japan, japanese, geographic",Martin Wehl,2018-04-18,,,,1,2459
 🏕️,1F3D5,travel-places,place-geographic,camping,camping,"nature, outdoor, tent, adventure, sleeping",Martin Wehl,2018-04-18,,,,1,2461
 🏖️,1F3D6,travel-places,place-geographic,beach with umbrella,"beach, umbrella","nature, summer, sun, sand, water, holidays",Martin Wehl,2018-04-18,,,,1,2463
@@ -2045,7 +2045,7 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,hfg_date,skint
 ☃️,2603,travel-places,sky-weather,snowman,"cold, snow",,Lois Proksch,2018-11-16,,,,1,2688
 ⛄️,26C4,travel-places,sky-weather,snowman without snow,"cold, snow, snowman","snowman, frosty, frosty the snowman, snowman, olaf, winter, not snowing",Vanessa Boutzikoudi,2018-04-18,,,,1,2689
 ☄️,2604,travel-places,sky-weather,comet,space,,Lois Proksch,2018-11-16,,,,1,2691
-🔥,1F525,travel-places,sky-weather,fire,"flame, tool","fire, burn, hot, high temperature, flame, glow, flame, tool",Vanessa Boutzikoudi,2018-04-18,,,,1,2692
+🔥,1F525,travel-places,sky-weather,fire,"flame, tool","fire, burn, hot, high temperature, flame, glow, flame, tool",Guemil Project,2019-01-14,,,,1,2692
 💧,1F4A7,travel-places,sky-weather,droplet,"cold, comic, drop, sweat","drops, droplets, raindrops, wet, rain, cold, fluid, liquid, wet, puddle, pearl, tear",Vanessa Boutzikoudi,2018-04-18,,,,1,2693
 🌊,1F30A,travel-places,sky-weather,water wave,"ocean, water, wave","wave, water, salty, sea, wet, cold, sun, beach, vacation, air, surf, sough, listen",Vanessa Boutzikoudi,2018-04-18,,,,1,2694
 🎃,1F383,activities,event,jack-o-lantern,"celebration, halloween, jack, lantern",pumpkin,Laura Humpfer,2018-04-18,,,,1,2695
@@ -2307,8 +2307,8 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,hfg_date,skint
 🗿,1F5FF,objects,other-object,moai,"face, moyai, statue","stone, easter island",Marius Schnabel,2018-04-18,,,,1,3008
 🏧,1F3E7,symbols,transport-sign,ATM sign,"atm, atm sign, automated, bank, teller",,,,,,,1,3009
 🚮,1F6AE,symbols,transport-sign,litter in bin sign,"litter, litter bin","trash, litter, bin, garbage, can, throw, away",Ronja Bäurlen,2018-04-18,,,,1,3010
-🚰,1F6B0,symbols,transport-sign,potable water,"drinking, potable, water","water, faucet, tap, glass",Ronja Bäurlen,2018-04-18,,,,1,3011
-♿️,267F,symbols,transport-sign,wheelchair symbol,access,"disabled, toilet, restroom",Ronja Bäurlen,2018-04-18,,,,1,3012
+🚰,1F6B0,symbols,transport-sign,potable water,"drinking, potable, water","water, faucet, tap, glass",Guemil Project,2019-01-14,,,,1,3011
+♿️,267F,symbols,transport-sign,wheelchair symbol,access,"disabled person, wheel chair, toilet, restroom",Guemil Project,2019-01-14,,,,1,3012
 🚹️,1F6B9,symbols,transport-sign,men’s room,"lavatory, man, restroom, wc","man, restroom, guy, dude, male, toilet",Ronja Bäurlen,2018-04-18,,,,1,3013
 🚺️,1F6BA,symbols,transport-sign,women’s room,"lavatory, restroom, wc, woman","woman, female, restroom, chick, women, toilet",Ronja Bäurlen,2018-04-18,,,,1,3014
 🚻,1F6BB,symbols,transport-sign,restroom,"lavatory, wc","unisex, restroom, male, toilet, woman, female",Ronja Bäurlen,2018-04-18,,,,1,3015
@@ -2331,20 +2331,20 @@ emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author,hfg_date,skint
 🔞,1F51E,symbols,warning,no one under eighteen,"18, age restriction, eighteen, prohibited, underage",,Miriam Vollmeier,2018-04-18,,,,1,3033
 ☢️,2622,symbols,warning,radioactive,sign,,Vincent Seitz,2018-11-16,,,,1,3035
 ☣️,2623,symbols,warning,biohazard,sign,,,,,,,1,3037
-⬆️,2B06,symbols,arrow,up arrow,"arrow, cardinal, direction, north",above,Jose Avila,2018-04-18,,,,1,3039
-↗️,2197,symbols,arrow,up-right arrow,"arrow, direction, intercardinal, northeast",diagonal,Jose Avila,2018-04-18,,,,1,3041
-➡️,27A1,symbols,arrow,right arrow,"arrow, cardinal, direction, east","soon, future",Jose Avila,2018-04-18,,,,1,3043
-↘️,2198,symbols,arrow,down-right arrow,"arrow, direction, intercardinal, southeast",diagonal,Jose Avila,2018-04-18,,,,1,3045
-⬇️,2B07,symbols,arrow,down arrow,"arrow, cardinal, direction, down, south",underneath,Jose Avila,2018-04-18,,,,1,3047
-↙️,2199,symbols,arrow,down-left arrow,"arrow, direction, intercardinal, southwest",diagonal,Jose Avila,2018-04-18,,,,1,3049
-⬅️,2B05,symbols,arrow,left arrow,"arrow, cardinal, direction, west",past,Jose Avila,2018-04-18,,,,1,3051
-↖️,2196,symbols,arrow,up-left arrow,"arrow, direction, intercardinal, northwest",diagonal,Jose Avila,2018-04-18,,,,1,3053
-↕️,2195,symbols,arrow,up-down arrow,arrow,"directions, opposite",Jose Avila,2018-04-18,,,,1,3055
-↔️,2194,symbols,arrow,left-right arrow,arrow,"directions, opposite",Jose Avila,2018-04-18,,,,1,3057
+⬆️,2B06,symbols,arrow,up arrow,"arrow, cardinal, direction, north","up, above",Guemil Project,2019-01-14,,,,1,3039
+↗️,2197,symbols,arrow,up-right arrow,"arrow, direction, intercardinal, northeast","diagonal, right up",Guemil Project,2019-01-14,,,,1,3041
+➡️,27A1,symbols,arrow,right arrow,"arrow, cardinal, direction, east","right, soon, future",Guemil Project,2019-01-14,,,,1,3043
+↘️,2198,symbols,arrow,down-right arrow,"arrow, direction, intercardinal, southeast","diagonal, right down",Guemil Project,2019-01-14,,,,1,3045
+⬇️,2B07,symbols,arrow,down arrow,"arrow, cardinal, direction, down, south","down, underneath",Guemil Project,2019-01-14,,,,1,3047
+↙️,2199,symbols,arrow,down-left arrow,"arrow, direction, intercardinal, southwest","diagonal, left down",Guemil Project,2019-01-14,,,,1,3049
+⬅️,2B05,symbols,arrow,left arrow,"arrow, cardinal, direction, west","left, past",Guemil Project,2019-01-14,,,,1,3051
+↖️,2196,symbols,arrow,up-left arrow,"arrow, direction, intercardinal, northwest","diagonal, left up",Guemil Project,2019-01-14,,,,1,3053
+↕️,2195,symbols,arrow,up-down arrow,arrow,"directions, opposite, up and down",Jose Avila,2018-04-18,,,,1,3055
+↔️,2194,symbols,arrow,left-right arrow,arrow,"directions, opposite, left and right",Jose Avila,2018-04-18,,,,1,3057
 ↩️,21A9,symbols,arrow,right arrow curving left,arrow,"directions, turn arround",Jose Avila,2018-04-18,,,,1,3059
 ↪️,21AA,symbols,arrow,left arrow curving right,arrow,"directions, turn arround",Jose Avila,2018-04-18,,,,1,3061
-⤴️,2934,symbols,arrow,right arrow curving up,arrow,"direction, curve",Jose Avila,2018-04-18,,,,1,3063
-⤵️,2935,symbols,arrow,right arrow curving down,"arrow, down","direction, curve",Jose Avila,2018-04-18,,,,1,3065
+⤴️,2934,symbols,arrow,right arrow curving up,arrow,"direction, curve up",Jose Avila,2018-04-18,,,,1,3063
+⤵️,2935,symbols,arrow,right arrow curving down,"arrow, down","direction, curve down",Jose Avila,2018-04-18,,,,1,3065
 🔃,1F503,symbols,arrow,clockwise vertical arrows,"arrow, clockwise, reload",,Vincent Seitz,2018-11-16,,,,1,3066
 🔄,1F504,symbols,arrow,counterclockwise arrows button,"anticlockwise, arrow, counterclockwise, withershins",cycle,Jose Avila,2018-04-18,,,,1,3067
 🔙,1F519,symbols,arrow,BACK arrow,"arrow, back, back arrow",,Vincent Seitz,2018-11-16,,,,1,3068

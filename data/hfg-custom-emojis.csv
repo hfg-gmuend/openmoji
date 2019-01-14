@@ -103,47 +103,47 @@ emoji,hexcode,group,subgroups,annotation,hfg_tags,hfg_author,hfg_date
 󰂠,F00A0,hfg,other,toggle button state B,,Baris Camli,2018-04-18
 ,F000,hfg,place-building,eiffel tower,"paris, tower, france",Louisa Mantsch,2018-11-16
 ,F001,hfg,food-fruit,half orange fruit,"citrus fruits, half",Hend Hourani,2018-11-16
-,Guemil_Private_Area_001.svg,hfg,emergency,assembly point,,Guemil Project,2019-01-14
-,Guemil_Private_Area_002.svg,hfg,emergency,assembly group,,Guemil Project,2019-01-14
-,Guemil_Private_Area_003.svg,hfg,emergency,authority instruction,,Guemil Project,2019-01-14
-,Guemil_Private_Area_004.svg,hfg,emergency,help others,"help elderly, help wheelchair",Guemil Project,2019-01-14
-,Guemil_Private_Area_005.svg,hfg,emergency,drop cover hold,earthquake safety,Guemil Project,2019-01-14
-,Guemil_Private_Area_006.svg,hfg,emergency,evacuate,,Guemil Project,2019-01-14
-,Guemil_Private_Area_007.svg,hfg,emergency,evacuate vertical,,Guemil Project,2019-01-14
-,Guemil_Private_Area_008.svg,hfg,emergency,evacuate downstairs,,Guemil Project,2019-01-14
-,Guemil_Private_Area_009.svg,hfg,emergency,evacuate to shelter,,Guemil Project,2019-01-14
-,Guemil_Private_Area_010.svg,hfg,emergency,structural fire,,Guemil Project,2019-01-14
-,Guemil_Private_Area_011.svg,hfg,emergency,wild fire,,Guemil Project,2019-01-14
-,Guemil_Private_Area_012.svg,hfg,emergency,evacuate fire,,Guemil Project,2019-01-14
-,Guemil_Private_Area_014.svg,hfg,emergency,warning tsunami,,Guemil Project,2019-01-14
-,Guemil_Private_Area_015.svg,hfg,emergency,warning volcano,,Guemil Project,2019-01-14
-,Guemil_Private_Area_016.svg,hfg,emergency,warning fire,,Guemil Project,2019-01-14
-,Guemil_Private_Area_017.svg,hfg,emergency,authority,,Guemil Project,2019-01-14
-,Guemil_Private_Area_019.svg,hfg,emergency,first aid,red cross,Guemil Project,2019-01-14
-,Guemil_Private_Area_020.svg,hfg,emergency,flagged point,white flag,Guemil Project,2019-01-14
-,Guemil_Private_Area_021.svg,hfg,emergency,flagged building,white flag,Guemil Project,2019-01-14
-,Guemil_Private_Area_022.svg,hfg,emergency,authority building,white flag,Guemil Project,2019-01-14
-,Guemil_Private_Area_023.svg,hfg,emergency,signpost,"orientation, crossroad",Guemil Project,2019-01-14
-,Guemil_Private_Area_024.svg,hfg,emergency,mobile info,,Guemil Project,2019-01-14
-,Guemil_Private_Area_025.svg,hfg,emergency,mobile message,,Guemil Project,2019-01-14
-,Guemil_Private_Area_026.svg,hfg,emergency,charge plug,low battery,Guemil Project,2019-01-14
-,Guemil_Private_Area_027.svg,hfg,emergency,shelter,,Guemil Project,2019-01-14
-,Guemil_Private_Area_028.svg,hfg,emergency,volcano eruption,volcano fumarole,Guemil Project,2019-01-14
-,Guemil_Private_Area_029.svg,hfg,emergency,volcano ashes,volcano eruption,Guemil Project,2019-01-14
-,Guemil_Private_Area_030.svg,hfg,emergency,tsunami,,Guemil Project,2019-01-14
-,Guemil_Private_Area_031.svg,hfg,emergency,earthquake,,Guemil Project,2019-01-14
-,Guemil_Private_Area_032.svg,hfg,emergency,landslide,,Guemil Project,2019-01-14
-,Guemil_Private_Area_033.svg,hfg,emergency,avalanche,,Guemil Project,2019-01-14
-,Guemil_Private_Area_034.svg,hfg,emergency,flood,,Guemil Project,2019-01-14
-,Guemil_Private_Area_035.svg,hfg,emergency,north,,Guemil Project,2019-01-14
-,Guemil_Private_Area_037.svg,hfg,emergency,transmission,,Guemil Project,2019-01-14
-,Guemil_Private_Area_038.svg,hfg,emergency,sos stencil,,Guemil Project,2019-01-14
-,Guemil_Private_Area_039.svg,hfg,emergency,ok stencil,,Guemil Project,2019-01-14
-,Guemil_Private_Area_040.svg,hfg,emergency,no stencil,,Guemil Project,2019-01-14
-,Guemil_Private_Area_041.svg,hfg,emergency,warning strip,,Guemil Project,2019-01-14
-,Guemil_Private_Area_042.svg,hfg,emergency,warning strip right,arrow,Guemil Project,2019-01-14
-,Guemil_Private_Area_043.svg,hfg,emergency,arrow turn right,,Guemil Project,2019-01-14
-,Guemil_Private_Area_046.svg,hfg,emergency,emergency exit door,,Guemil Project,2019-01-14
-,Guemil_Private_Area_047.svg,hfg,emergency,location indicator red,,Guemil Project,2019-01-14
-,Guemil_Private_Area_048.svg,hfg,emergency,electric plug red,,Guemil Project,2019-01-14
-,Guemil_Private_Area_049.svg,hfg,emergency,timer,"clock, alarm",Guemil Project,2019-01-14
+,Guemil_Private_Area_001,hfg,emergency,assembly point,,Guemil Project,2019-01-14
+,Guemil_Private_Area_002,hfg,emergency,assembly group,,Guemil Project,2019-01-14
+,Guemil_Private_Area_003,hfg,emergency,authority instruction,,Guemil Project,2019-01-14
+,Guemil_Private_Area_004,hfg,emergency,help others,"help elderly, help wheelchair",Guemil Project,2019-01-14
+,Guemil_Private_Area_005,hfg,emergency,drop cover hold,earthquake safety,Guemil Project,2019-01-14
+,Guemil_Private_Area_006,hfg,emergency,evacuate,,Guemil Project,2019-01-14
+,Guemil_Private_Area_007,hfg,emergency,evacuate vertical,,Guemil Project,2019-01-14
+,Guemil_Private_Area_008,hfg,emergency,evacuate downstairs,,Guemil Project,2019-01-14
+,Guemil_Private_Area_009,hfg,emergency,evacuate to shelter,,Guemil Project,2019-01-14
+,Guemil_Private_Area_010,hfg,emergency,structural fire,,Guemil Project,2019-01-14
+,Guemil_Private_Area_011,hfg,emergency,wild fire,,Guemil Project,2019-01-14
+,Guemil_Private_Area_012,hfg,emergency,evacuate fire,,Guemil Project,2019-01-14
+,Guemil_Private_Area_014,hfg,emergency,warning tsunami,,Guemil Project,2019-01-14
+,Guemil_Private_Area_015,hfg,emergency,warning volcano,,Guemil Project,2019-01-14
+,Guemil_Private_Area_016,hfg,emergency,warning fire,,Guemil Project,2019-01-14
+,Guemil_Private_Area_017,hfg,emergency,authority,,Guemil Project,2019-01-14
+,Guemil_Private_Area_019,hfg,emergency,first aid,red cross,Guemil Project,2019-01-14
+,Guemil_Private_Area_020,hfg,emergency,flagged point,white flag,Guemil Project,2019-01-14
+,Guemil_Private_Area_021,hfg,emergency,flagged building,white flag,Guemil Project,2019-01-14
+,Guemil_Private_Area_022,hfg,emergency,authority building,white flag,Guemil Project,2019-01-14
+,Guemil_Private_Area_023,hfg,emergency,signpost,"orientation, crossroad",Guemil Project,2019-01-14
+,Guemil_Private_Area_024,hfg,emergency,mobile info,,Guemil Project,2019-01-14
+,Guemil_Private_Area_025,hfg,emergency,mobile message,,Guemil Project,2019-01-14
+,Guemil_Private_Area_026,hfg,emergency,charge plug,low battery,Guemil Project,2019-01-14
+,Guemil_Private_Area_027,hfg,emergency,shelter,,Guemil Project,2019-01-14
+,Guemil_Private_Area_028,hfg,emergency,volcano eruption,volcano fumarole,Guemil Project,2019-01-14
+,Guemil_Private_Area_029,hfg,emergency,volcano ashes,volcano eruption,Guemil Project,2019-01-14
+,Guemil_Private_Area_030,hfg,emergency,tsunami,,Guemil Project,2019-01-14
+,Guemil_Private_Area_031,hfg,emergency,earthquake,,Guemil Project,2019-01-14
+,Guemil_Private_Area_032,hfg,emergency,landslide,,Guemil Project,2019-01-14
+,Guemil_Private_Area_033,hfg,emergency,avalanche,,Guemil Project,2019-01-14
+,Guemil_Private_Area_034,hfg,emergency,flood,,Guemil Project,2019-01-14
+,Guemil_Private_Area_035,hfg,emergency,north,,Guemil Project,2019-01-14
+,Guemil_Private_Area_037,hfg,emergency,transmission,,Guemil Project,2019-01-14
+,Guemil_Private_Area_038,hfg,emergency,sos stencil,,Guemil Project,2019-01-14
+,Guemil_Private_Area_039,hfg,emergency,ok stencil,,Guemil Project,2019-01-14
+,Guemil_Private_Area_040,hfg,emergency,no stencil,,Guemil Project,2019-01-14
+,Guemil_Private_Area_041,hfg,emergency,warning strip,,Guemil Project,2019-01-14
+,Guemil_Private_Area_042,hfg,emergency,warning strip right,arrow,Guemil Project,2019-01-14
+,Guemil_Private_Area_043,hfg,emergency,arrow turn right,,Guemil Project,2019-01-14
+,Guemil_Private_Area_046,hfg,emergency,emergency exit door,,Guemil Project,2019-01-14
+,Guemil_Private_Area_047,hfg,emergency,location indicator red,,Guemil Project,2019-01-14
+,Guemil_Private_Area_048,hfg,emergency,electric plug red,,Guemil Project,2019-01-14
+,Guemil_Private_Area_049,hfg,emergency,timer,"clock, alarm",Guemil Project,2019-01-14
