@@ -1,48 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  <title>Guemil_Private_Area_029</title>
-  <g id="emoji">
-    <g id="grid">
-      <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-      <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-      <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-      <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-      <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    </g>
-    <g id="color">
-      <polygon points="7.785 63.268 21.297 43.369 31.046 36.135 37.309 37.608 42.625 36.135 47.753 42.546 56.1 48.371 62.656 63.268 7.785 63.268" fill="#8f8f8e"/>
-      <circle cx="22.7062" cy="18.6085" r="5.0643" fill="#3f3f3f"/>
-      <circle cx="40.7382" cy="13.0158" r="4.879" fill="#8f8f8e"/>
-      <circle cx="53.0697" cy="25.9463" r="4.879" fill="#8f8f8e"/>
-      <circle cx="32.0388" cy="15.7089" r="6.5809" fill="#8f8f8e"/>
-      <circle cx="43.9506" cy="21.655" r="7.8212" fill="#8f8f8e"/>
-      <circle cx="36.2454" cy="26.2645" r="5.6425" fill="#3f3f3f"/>
-      <polygon points="62.656 63.268 43.483 63.268 47.364 51.131 44.249 48.626 47.753 42.546 56.1 48.371 62.656 63.268" fill="#c9c7c5"/>
-    </g>
-    <g id="line">
-      <polyline points="8.244 62.609 21.297 43.369 31.046 36.135 37.309 37.608 42.625 36.135 47.753 42.546 56.1 48.371 62.456 62.759" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
-      <polyline points="25.214 40.46 26.868 43.992 25.254 50.276 26.17 57.589" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <polyline points="47.753 42.546 44.249 48.626 47.364 51.131 45.786 56.065" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path d="M32.2514,22.279a5.6425,5.6425,0,1,0,8.9467,6.6894,7.7871,7.7871,0,0,0,2.7524.5077" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path d="M40.7382,8.1368a4.8606,4.8606,0,0,0-4.3248,2.6653,6.57,6.57,0,0,0-10.8313,3.6436,5.058,5.058,0,0,0-7.94,4.1628" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path d="M43.9506,13.8337a7.8213,7.8213,0,0,1,7.8212,7.8213" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path d="M51.7575,21.2458a4.883,4.883,0,0,1,6.1912,4.7005" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <circle cx="64.0099" cy="11.7481" r="1.4802"/>
-      <circle cx="58.6793" cy="18.5997" r="1.4802"/>
-      <circle cx="46.4483" cy="18.5997" r="1.4802"/>
-      <circle cx="64.3398" cy="26.4514" r="1.4802"/>
-      <circle cx="58.6793" cy="32.9629" r="1.4802"/>
-      <circle cx="64.0099" cy="40.1445" r="1.4802"/>
-      <circle cx="58.6793" cy="45.9962" r="1.4802"/>
-      <circle cx="64.0099" cy="52.5179" r="1.4802"/>
-      <circle cx="57.3595" cy="60.3594" r="1.4802"/>
-      <circle cx="52.9164" cy="11.7481" r="1.4802"/>
-      <circle cx="41.5145" cy="11.7481" r="1.4802"/>
-      <circle cx="52.9164" cy="26.4514" r="1.4802"/>
-      <circle cx="47.4483" cy="32.9629" r="1.4802"/>
-      <circle cx="52.9164" cy="40.1445" r="1.4802"/>
-      <circle cx="52.2564" cy="52.5179" r="1.4802"/>
-      <circle cx="48.1082" cy="60.3594" r="1.4802"/>
-      <circle cx="41.5145" cy="40.1445" r="1.4802"/>
-    </g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="grid">
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <polygon points="7.785 63.268 21.297 43.369 31.046 36.135 37.309 37.608 42.625 36.135 47.753 42.546 56.1 48.371 62.656 63.268 7.785 63.268" fill="#8f8f8e"/>
+    <circle cx="22.7062" cy="18.6085" r="5.0643" fill="#3f3f3f"/>
+    <circle cx="40.7382" cy="13.0158" r="4.879" fill="#8f8f8e"/>
+    <circle cx="53.0697" cy="25.9463" r="4.879" fill="#8f8f8e"/>
+    <circle cx="32.0388" cy="15.7089" r="6.5809" fill="#8f8f8e"/>
+    <circle cx="43.9506" cy="21.655" r="7.8212" fill="#8f8f8e"/>
+    <circle cx="36.2454" cy="26.2645" r="5.6425" fill="#3f3f3f"/>
+    <polygon points="62.656 63.268 43.483 63.268 47.364 51.131 44.249 48.626 47.753 42.546 56.1 48.371 62.656 63.268" fill="#c9c7c5"/>
+  </g>
+  <g id="line">
+    <polyline points="8.244 62.609 21.297 43.369 31.046 36.135 37.309 37.608 42.625 36.135 47.753 42.546 56.1 48.371 62.456 62.759" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <polyline points="25.214 40.46 26.868 43.992 25.254 50.276 26.17 57.589" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="47.753 42.546 44.249 48.626 47.364 51.131 45.786 56.065" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M32.2514,22.279a5.6425,5.6425,0,1,0,8.9467,6.6894,7.7871,7.7871,0,0,0,2.7524.5077" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M40.7382,8.1368a4.8606,4.8606,0,0,0-4.3248,2.6653,6.57,6.57,0,0,0-10.8313,3.6436,5.058,5.058,0,0,0-7.94,4.1628" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M43.9506,13.8337a7.8213,7.8213,0,0,1,7.8212,7.8213" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M51.7575,21.2458a4.883,4.883,0,0,1,6.1912,4.7005" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle cx="64.0099" cy="11.7481" r="1.4802"/>
+    <circle cx="58.6793" cy="18.5997" r="1.4802"/>
+    <circle cx="46.4483" cy="18.5997" r="1.4802"/>
+    <circle cx="64.3398" cy="26.4514" r="1.4802"/>
+    <circle cx="58.6793" cy="32.9629" r="1.4802"/>
+    <circle cx="64.0099" cy="40.1445" r="1.4802"/>
+    <circle cx="58.6793" cy="45.9962" r="1.4802"/>
+    <circle cx="64.0099" cy="52.5179" r="1.4802"/>
+    <circle cx="57.3595" cy="60.3594" r="1.4802"/>
+    <circle cx="52.9164" cy="11.7481" r="1.4802"/>
+    <circle cx="41.5145" cy="11.7481" r="1.4802"/>
+    <circle cx="52.9164" cy="26.4514" r="1.4802"/>
+    <circle cx="47.4483" cy="32.9629" r="1.4802"/>
+    <circle cx="52.9164" cy="40.1445" r="1.4802"/>
+    <circle cx="52.2564" cy="52.5179" r="1.4802"/>
+    <circle cx="48.1082" cy="60.3594" r="1.4802"/>
+    <circle cx="41.5145" cy="40.1445" r="1.4802"/>
   </g>
 </svg>
