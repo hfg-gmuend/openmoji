@@ -31,9 +31,7 @@ tr:nth-child(even) {
 <table>
     <tr>
         <td>#</td>
-        <td>PNG</td>
         <td>SVG</td>
-        <td>PNG</td>
         <td>SVG</td>
         <td>emoji</td>
         <td>hexcode</td>
@@ -51,9 +49,7 @@ html += _.map(emojisList, (e, i) => {
   return `
     <tr>
         <td>${i}</td>
-        <td><img src="${'black/72x72/' + e.hexcode +'.png'}" height="72" width="72"></td>
         <td><img src="${'black/svg/' + e.hexcode +'.svg'}" height="72" width="72"></td>
-        <td><img src="${'color/72x72/' + e.hexcode +'.png'}" height="72" width="72"></td>
         <td><img src="${'color/svg/' + e.hexcode +'.svg'}" height="72" width="72"></td>
         <td>${e.emoji}</td>
         <td>${e.hexcode}</td>
@@ -63,7 +59,7 @@ html += _.map(emojisList, (e, i) => {
         <td>${e.tags.replace(/,/g, ', ')}</td>
         <td>${e.hfg_tags.replace(/,/g, ', ')}</td>
         <td>${e.hfg_author}</td>
-        <td><a href="src/${e.group +'/'+ e.subgroups +'/'+ e.hexcode +'.ai'}">⬇</a></td>
+        <td><a download href="src/${e.group +'/'+ e.subgroups +'/'+ e.hexcode +'.svg'}">⬇</a></td>
     </tr>
     `;
 }).join('\n');

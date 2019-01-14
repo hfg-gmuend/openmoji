@@ -93,6 +93,7 @@ emojis = _.filter(emojis, (e) => { return e.hfg_author !== '' });
 let hfgEmojis = loadCsv('./data/hfg-custom-emojis.csv');
 hfgEmojis = _.map(hfgEmojis, e => {
   return {
+    // image: `=IMAGE("https://github.com/hfg-gmuend/openmoji/blob/v1.5/color/72x72/${e.hexcode +'.png?raw=true'}")`,
     emoji: e.emoji,
     hexcode: e.hexcode,
     group: e.group,
@@ -109,6 +110,7 @@ hfgEmojis = _.map(hfgEmojis, e => {
     order: '',
   };
 });
+// writeCsv(hfgEmojis, 'data/openmoji-gdoc.csv');
 emojis = [...emojis, ...hfgEmojis];
 
 // -- save to CSV and JSON files --
