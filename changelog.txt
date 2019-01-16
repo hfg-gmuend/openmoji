@@ -6,7 +6,7 @@
 
 👉 OpenMoji 1.? - ???
 
-+ Added 44 "emergency" related emojis contributed by the Guemil Project
++ Added 47 "emergency" related emojis contributed by the Guemil Project
 * Updated 13 standard emojis with Guemil Project revisions
 
 + Added 136 new emojis.
