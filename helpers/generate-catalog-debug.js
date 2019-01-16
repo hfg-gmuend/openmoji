@@ -102,7 +102,7 @@ html += _.map(emojis, (e, i) => {
         <td>${e.group}</td>
         <td>${e.subgroups}</td>
         <td>${e.tags}</td>
-        <td>${e.hfg_author}</td>
+        <td>${e.openmoji_author}</td>
     </tr>
     `;
 }).join('\n');

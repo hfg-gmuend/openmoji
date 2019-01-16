@@ -39,9 +39,9 @@ tr:nth-child(even) {
         <td>subgroups</td>
         <td>annotation</td>
         <td>tags</td>
-        <td>hfg_tags</td>
-        <td>hfg_author</td>
-        <td>AI>⬇</a></td>
+        <td>om_tags</td>
+        <td>om_author</td>
+        <td>⬇</td>
     </tr>
 `;
 
@@ -57,8 +57,8 @@ html += _.map(emojisList, (e, i) => {
         <td>${e.subgroups}</td>
         <td>${e.annotation}</td>
         <td>${e.tags.replace(/,/g, ', ')}</td>
-        <td>${e.hfg_tags.replace(/,/g, ', ')}</td>
-        <td>${e.hfg_author}</td>
+        <td>${e.openmoji_tags.replace(/,/g, ', ')}</td>
+        <td>${e.openmoji_author}</td>
         <td><a download href="src/${e.group +'/'+ e.subgroups +'/'+ e.hexcode +'.svg'}">⬇</a></td>
     </tr>
     `;

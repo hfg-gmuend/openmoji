@@ -50,16 +50,16 @@ _.each(emojibaseData, e => {
 
 
 // load custom meta informations extending the unicode definitions
-const hfgExtensions = arrayToEmojiDict( loadCsv('./data/hfg-unicode-extensions.csv'), 'emoji');
+const enhancements = arrayToEmojiDict( loadCsv('./data/enhancements-emoji-unicode-data.csv'), 'emoji');
 
 // filter out what we want in the end
 // enhance meta infromations of each emoji
 emojis = _.map(emojis, e => {
-  let hfg_author = hfgExtensions[e.emoji] ? hfgExtensions[e.emoji]['hfg_author'] : '';
-  let hfg_date = hfgExtensions[e.emoji] ? hfgExtensions[e.emoji]['hfg_date'] : '';
+  let openmoji_author = enhancements[e.emoji] ? enhancements[e.emoji]['openmoji_author'] : '';
+  let openmoji_date = enhancements[e.emoji] ? enhancements[e.emoji]['openmoji_date'] : '';
   if (e.skintone_base_emoji) {
-    hfg_author = hfgExtensions[e.skintone_base_emoji] ? hfgExtensions[e.skintone_base_emoji]['hfg_author'] : '';
-    hfg_date = hfgExtensions[e.skintone_base_emoji] ? hfgExtensions[e.skintone_base_emoji]['hfg_date'] : '';
+    openmoji_author = enhancements[e.skintone_base_emoji] ? enhancements[e.skintone_base_emoji]['openmoji_author'] : '';
+    openmoji_date = enhancements[e.skintone_base_emoji] ? enhancements[e.skintone_base_emoji]['openmoji_date'] : '';
   }
   return {
     emoji: e.emoji,
@@ -68,9 +68,9 @@ emojis = _.map(emojis, e => {
     subgroups: subgroups[e.subgroup],
     annotation: e.annotation,
     tags: e.tags ? e.tags.join(', ') : '',
-    hfg_tags: hfgExtensions[e.emoji] ? hfgExtensions[e.emoji]['hfg_tags'] : '',
-    hfg_author: hfg_author,
-    hfg_date: hfg_date,
+    openmoji_tags: enhancements[e.emoji] ? enhancements[e.emoji]['openmoji_tags'] : '',
+    openmoji_author: openmoji_author,
+    openmoji_date: openmoji_date,
     skintone: e.tone ? e.tone : '',
     skintone_base_emoji: e.skintone_base_emoji ? e.skintone_base_emoji : '',
     skintone_base_hexcode: e.skintone_base_hexcode ? e.skintone_base_hexcode : '',
@@ -83,26 +83,27 @@ emojis = _.map(emojis, e => {
 emojis = _.sortBy(emojis, [(e) => { return e.order; }]);
 
 // -- save to CSV and JSON files --
-writeJson(emojis, 'data/openmoji-unicode11.json');
-writeCsv(emojis, 'data/openmoji-unicode11.csv');
+writeJson(emojis, 'data/openmoji-emoji11.json');
+writeCsv(emojis, 'data/openmoji-emoji11.csv');
 
 // remove all emojis which not have been designed yet
-emojis = _.filter(emojis, (e) => { return e.hfg_author !== '' });
+emojis = _.filter(emojis, (e) => { return e.openmoji_author !== '' });
 
-// add custom hfg emojis
-let hfgEmojis = loadCsv('./data/hfg-custom-emojis.csv');
-hfgEmojis = _.map(hfgEmojis, e => {
+// add extras
+let extrasOpenMoji = loadCsv('./data/extras-openmoji.csv');
+extrasOpenMoji = _.map(extrasOpenMoji, e => {
+  const codePoint = parseInt(e.hexcode, 16);
   return {
     // image: `=IMAGE("https://github.com/hfg-gmuend/openmoji/blob/v1.5/color/72x72/${e.hexcode +'.png?raw=true'}")`,
-    emoji: e.emoji,
+    emoji: codePoint ? String.fromCodePoint(codePoint) : '',
     hexcode: e.hexcode,
     group: e.group,
     subgroups: e.subgroups,
     annotation: e.annotation,
     tags: '',
-    hfg_tags: e.hfg_tags,
-    hfg_author: e.hfg_author,
-    hfg_date: e.hfg_date,
+    openmoji_tags: e.openmoji_tags,
+    openmoji_author: e.openmoji_author,
+    openmoji_date: e.openmoji_date,
     skintone: '',
     skintone_base_emoji: '',
     skintone_base_hexcode: '',
@@ -110,8 +111,26 @@ hfgEmojis = _.map(hfgEmojis, e => {
     order: '',
   };
 });
-// writeCsv(hfgEmojis, 'data/openmoji-gdoc.csv');
-emojis = [...emojis, ...hfgEmojis];
+let extrasUnicode = loadCsv('./data/extras-unicode.csv');
+extrasUnicode = _.map(extrasUnicode, e => {
+  return {
+    emoji: String.fromCodePoint(parseInt(e.hexcode, 16)),
+    hexcode: e.hexcode,
+    group: e.group,
+    subgroups: e.subgroups,
+    annotation: e.annotation,
+    tags: '',
+    openmoji_tags: e.openmoji_tags,
+    openmoji_author: '',
+    openmoji_date: '',
+    skintone: '',
+    skintone_base_emoji: '',
+    skintone_base_hexcode: '',
+    unicode: e.unicode,
+    order: '',
+  };
+});
+emojis = [...emojis, ...extrasOpenMoji, ...extrasUnicode];
 
 // -- save to CSV and JSON files --
 writeJson(emojis, 'data/openmoji.json');
