@@ -1,0 +1,565 @@
+emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,openmoji_date,skintone,skintone_base_emoji,skintone_base_hexcode,unicode,order
+🥰,1F970,smileys-people,face-positive,smiling face with 3 hearts,"adore, crush, in love",,,,,,,11,15
+🥵,1F975,smileys-people,face-negative,hot face,"feverish, heat stroke, hot, red-faced, sweating",,,,,,,11,68
+🥶,1F976,smileys-people,face-negative,cold face,"blue-faced, cold, freezing, frostbite, icicles",,,,,,,11,69
+🥳,1F973,smileys-people,face-role,partying face,"celebration, hat, horn, party",,,,,,,11,84
+🥴,1F974,smileys-people,face-role,woozy face,"dizzy, intoxicated, tipsy, uneven eyes, wavy mouth",,,,,,,11,85
+🥺,1F97A,smileys-people,face-role,pleading face,"begging, mercy, puppy eyes",,,,,,,11,86
+👺,1F47A,smileys-people,face-fantasy,goblin,"creature, face, fairy tale, fantasy, monster",,,,,,,1,96
+👾,1F47E,smileys-people,face-fantasy,alien monster,"alien, creature, extraterrestrial, face, monster, ufo",,,,,,,1,102
+👮‍♂️,1F46E-200D-2642-FE0F,smileys-people,person-role,man police officer,"cop, man, officer, police",,,,,👮‍♂️,1F46E-200D-2642-FE0F,4,411
+👮‍♀️,1F46E-200D-2640-FE0F,smileys-people,person-role,woman police officer,"cop, officer, police, woman",,,,,👮‍♀️,1F46E-200D-2640-FE0F,4,423
+🕵️‍♂️,1F575-FE0F-200D-2642-FE0F,smileys-people,person-role,man detective,"detective, man, sleuth, spy",,,,,🕵️‍♂️,1F575-FE0F-200D-2642-FE0F,4,442
+🕵️‍♀️,1F575-FE0F-200D-2640-FE0F,smileys-people,person-role,woman detective,"detective, sleuth, spy, woman",,,,,🕵️‍♀️,1F575-FE0F-200D-2640-FE0F,4,456
+💂‍♂️,1F482-200D-2642-FE0F,smileys-people,person-role,man guard,"guard, man",,,,,💂‍♂️,1F482-200D-2642-FE0F,4,476
+💂‍♀️,1F482-200D-2640-FE0F,smileys-people,person-role,woman guard,"guard, woman",,,,,💂‍♀️,1F482-200D-2640-FE0F,4,488
+👷‍♂️,1F477-200D-2642-FE0F,smileys-people,person-role,man construction worker,"construction, man, worker",,,,,👷‍♂️,1F477-200D-2642-FE0F,4,506
+👷‍♀️,1F477-200D-2640-FE0F,smileys-people,person-role,woman construction worker,"construction, woman, worker",,,,,👷‍♀️,1F477-200D-2640-FE0F,4,518
+👳‍♂️,1F473-200D-2642-FE0F,smileys-people,person-role,man wearing turban,"man, turban",,,,,👳‍♂️,1F473-200D-2642-FE0F,4,548
+👳‍♀️,1F473-200D-2640-FE0F,smileys-people,person-role,woman wearing turban,"turban, woman",,,,,👳‍♀️,1F473-200D-2640-FE0F,4,560
+👱‍♂️,1F471-200D-2642-FE0F,smileys-people,person,man: blond hair,"blond, blond-haired man, man",,,,,👱‍♂️,1F471-200D-2642-FE0F,4,596
+👱‍♀️,1F471-200D-2640-FE0F,smileys-people,person,woman: blond hair,"blond-haired woman, blonde, woman",,,,,👱‍♀️,1F471-200D-2640-FE0F,4,608
+👨‍🦰,1F468-200D-1F9B0,smileys-people,person-role,man: red hair,"adult, man, red hair",,,,,👨‍🦰,1F468-200D-1F9B0,11,620
+👩‍🦰,1F469-200D-1F9B0,smileys-people,person-role,woman: red hair,"adult, red hair, woman",,,,,👩‍🦰,1F469-200D-1F9B0,11,626
+👨‍🦱,1F468-200D-1F9B1,smileys-people,person-role,man: curly hair,"adult, curly hair, man",,,,,👨‍🦱,1F468-200D-1F9B1,11,632
+👩‍🦱,1F469-200D-1F9B1,smileys-people,person-role,woman: curly hair,"adult, curly hair, woman",,,,,👩‍🦱,1F469-200D-1F9B1,11,638
+👨‍🦲,1F468-200D-1F9B2,smileys-people,person-role,man: bald,"adult, bald, man",,,,,👨‍🦲,1F468-200D-1F9B2,11,644
+👩‍🦲,1F469-200D-1F9B2,smileys-people,person-role,woman: bald,"adult, bald, woman",,,,,👩‍🦲,1F469-200D-1F9B2,11,650
+👨‍🦳,1F468-200D-1F9B3,smileys-people,person-role,man: white hair,"adult, man, white hair",,,,,👨‍🦳,1F468-200D-1F9B3,11,656
+👩‍🦳,1F469-200D-1F9B3,smileys-people,person-role,woman: white hair,"adult, white hair, woman",,,,,👩‍🦳,1F469-200D-1F9B3,11,662
+🤵,1F935,smileys-people,person-role,man in tuxedo,"groom, man, tuxedo",,,,,🤵,1F935,3,668
+🦸,1F9B8,smileys-people,person-fantasy,superhero,"good, hero, heroine, superpower",,,,,🦸,1F9B8,11,710
+🦸‍♀️,1F9B8-200D-2640-FE0F,smileys-people,person-fantasy,woman superhero,"good, hero, heroine, superpower, woman",,,,,🦸‍♀️,1F9B8-200D-2640-FE0F,11,716
+🦸‍♂️,1F9B8-200D-2642-FE0F,smileys-people,person-fantasy,man superhero,"good, hero, man, superpower",,,,,🦸‍♂️,1F9B8-200D-2642-FE0F,11,728
+🦹,1F9B9,smileys-people,person-fantasy,supervillain,"criminal, evil, superpower, villain",,,,,🦹,1F9B9,11,740
+🦹‍♀️,1F9B9-200D-2640-FE0F,smileys-people,person-fantasy,woman supervillain,"criminal, evil, superpower, villain, woman",,,,,🦹‍♀️,1F9B9-200D-2640-FE0F,11,746
+🦹‍♂️,1F9B9-200D-2642-FE0F,smileys-people,person-fantasy,man supervillain,"criminal, evil, man, superpower, villain",,,,,🦹‍♂️,1F9B9-200D-2642-FE0F,11,758
+🧙‍♀️,1F9D9-200D-2640-FE0F,smileys-people,person-fantasy,woman mage,"sorceress, witch",,,,,🧙‍♀️,1F9D9-200D-2640-FE0F,5,776
+🧙‍♂️,1F9D9-200D-2642-FE0F,smileys-people,person-fantasy,man mage,"sorcerer, wizard",,,,,🧙‍♂️,1F9D9-200D-2642-FE0F,5,788
+🧚,1F9DA,smileys-people,person-fantasy,fairy,"oberon, puck, titania",,,,,🧚,1F9DA,5,800
+🧚‍♀️,1F9DA-200D-2640-FE0F,smileys-people,person-fantasy,woman fairy,titania,,,,,🧚‍♀️,1F9DA-200D-2640-FE0F,5,806
+🧚‍♂️,1F9DA-200D-2642-FE0F,smileys-people,person-fantasy,man fairy,"oberon, puck",,,,,🧚‍♂️,1F9DA-200D-2642-FE0F,5,818
+🧛,1F9DB,smileys-people,person-fantasy,vampire,"dracula, undead",,,,,🧛,1F9DB,5,830
+🧛‍♀️,1F9DB-200D-2640-FE0F,smileys-people,person-fantasy,woman vampire,undead,,,,,🧛‍♀️,1F9DB-200D-2640-FE0F,5,836
+🧛‍♂️,1F9DB-200D-2642-FE0F,smileys-people,person-fantasy,man vampire,"dracula, undead",,,,,🧛‍♂️,1F9DB-200D-2642-FE0F,5,848
+🧜,1F9DC,smileys-people,person-fantasy,merperson,"mermaid, merman, merwoman",,,,,🧜,1F9DC,5,860
+🧝‍♀️,1F9DD-200D-2640-FE0F,smileys-people,person-fantasy,woman elf,magical,,,,,🧝‍♀️,1F9DD-200D-2640-FE0F,5,896
+🧝‍♂️,1F9DD-200D-2642-FE0F,smileys-people,person-fantasy,man elf,magical,,,,,🧝‍♂️,1F9DD-200D-2642-FE0F,5,908
+🧞‍♀️,1F9DE-200D-2640-FE0F,smileys-people,person-fantasy,woman genie,djinn,,,,,,,5,921
+🧞‍♂️,1F9DE-200D-2642-FE0F,smileys-people,person-fantasy,man genie,djinn,,,,,,,5,923
+🧟‍♀️,1F9DF-200D-2640-FE0F,smileys-people,person-fantasy,woman zombie,"undead, walking dead",,,,,,,5,926
+🧟‍♂️,1F9DF-200D-2642-FE0F,smileys-people,person-fantasy,man zombie,"undead, walking dead",,,,,,,5,928
+🙍‍♂️,1F64D-200D-2642-FE0F,smileys-people,person-gesture,man frowning,"frowning, gesture, man",,,,,🙍‍♂️,1F64D-200D-2642-FE0F,4,936
+🙍‍♀️,1F64D-200D-2640-FE0F,smileys-people,person-gesture,woman frowning,"frowning, gesture, woman",,,,,🙍‍♀️,1F64D-200D-2640-FE0F,4,948
+🙎‍♂️,1F64E-200D-2642-FE0F,smileys-people,person-gesture,man pouting,"gesture, man, pouting",,,,,🙎‍♂️,1F64E-200D-2642-FE0F,4,966
+🙎‍♀️,1F64E-200D-2640-FE0F,smileys-people,person-gesture,woman pouting,"gesture, pouting, woman",,,,,🙎‍♀️,1F64E-200D-2640-FE0F,4,978
+🙅‍♂️,1F645-200D-2642-FE0F,smileys-people,person-gesture,man gesturing NO,"forbidden, gesture, hand, man, man gesturing no, prohibited",,,,,🙅‍♂️,1F645-200D-2642-FE0F,4,996
+🙅‍♀️,1F645-200D-2640-FE0F,smileys-people,person-gesture,woman gesturing NO,"forbidden, gesture, hand, prohibited, woman, woman gesturing no",,,,,🙅‍♀️,1F645-200D-2640-FE0F,4,1008
+🙆‍♂️,1F646-200D-2642-FE0F,smileys-people,person-gesture,man gesturing OK,"gesture, hand, man, man gesturing ok, ok",,,,,🙆‍♂️,1F646-200D-2642-FE0F,4,1026
+🙆‍♀️,1F646-200D-2640-FE0F,smileys-people,person-gesture,woman gesturing OK,"gesture, hand, ok, woman, woman gesturing ok",,,,,🙆‍♀️,1F646-200D-2640-FE0F,4,1038
+💁‍♂️,1F481-200D-2642-FE0F,smileys-people,person-gesture,man tipping hand,"man, sassy, tipping hand",,,,,💁‍♂️,1F481-200D-2642-FE0F,4,1056
+💁‍♀️,1F481-200D-2640-FE0F,smileys-people,person-gesture,woman tipping hand,"sassy, tipping hand, woman",,,,,💁‍♀️,1F481-200D-2640-FE0F,4,1068
+🙋‍♂️,1F64B-200D-2642-FE0F,smileys-people,person-gesture,man raising hand,"gesture, man, raising hand",,,,,🙋‍♂️,1F64B-200D-2642-FE0F,4,1086
+🙋‍♀️,1F64B-200D-2640-FE0F,smileys-people,person-gesture,woman raising hand,"gesture, raising hand, woman",,,,,🙋‍♀️,1F64B-200D-2640-FE0F,4,1098
+🙇‍♂️,1F647-200D-2642-FE0F,smileys-people,person-gesture,man bowing,"apology, bowing, favor, gesture, man, sorry",,,,,🙇‍♂️,1F647-200D-2642-FE0F,4,1116
+🙇‍♀️,1F647-200D-2640-FE0F,smileys-people,person-gesture,woman bowing,"apology, bowing, favor, gesture, sorry, woman",,,,,🙇‍♀️,1F647-200D-2640-FE0F,4,1128
+🤷‍♂️,1F937-200D-2642-FE0F,smileys-people,person-gesture,man shrugging,"doubt, ignorance, indifference, man, shrug",,,,,🤷‍♂️,1F937-200D-2642-FE0F,4,1176
+🤷‍♀️,1F937-200D-2640-FE0F,smileys-people,person-gesture,woman shrugging,"doubt, ignorance, indifference, shrug, woman",,,,,🤷‍♀️,1F937-200D-2640-FE0F,4,1188
+💆‍♂️,1F486-200D-2642-FE0F,smileys-people,person-activity,man getting massage,"face, man, massage",,,,,💆‍♂️,1F486-200D-2642-FE0F,4,1206
+💆‍♀️,1F486-200D-2640-FE0F,smileys-people,person-activity,woman getting massage,"face, massage, woman",,,,,💆‍♀️,1F486-200D-2640-FE0F,4,1218
+💇‍♂️,1F487-200D-2642-FE0F,smileys-people,person-activity,man getting haircut,"haircut, man",,,,,💇‍♂️,1F487-200D-2642-FE0F,4,1236
+💇‍♀️,1F487-200D-2640-FE0F,smileys-people,person-activity,woman getting haircut,"haircut, woman",,,,,💇‍♀️,1F487-200D-2640-FE0F,4,1248
+🏃‍♂️,1F3C3-200D-2642-FE0F,smileys-people,person-activity,man running,"man, marathon, racing, running",,,,,🏃‍♂️,1F3C3-200D-2642-FE0F,4,1296
+🏃‍♀️,1F3C3-200D-2640-FE0F,smileys-people,person-activity,woman running,"marathon, racing, running, woman",,,,,🏃‍♀️,1F3C3-200D-2640-FE0F,4,1308
+👯‍♂️,1F46F-200D-2642-FE0F,smileys-people,person-activity,men with bunny ears,"bunny ear, dancer, men, partying",,,,,,,4,1333
+👯‍♀️,1F46F-200D-2640-FE0F,smileys-people,person-activity,women with bunny ears,"bunny ear, dancer, partying, women",,,,,,,4,1335
+🧖,1F9D6,smileys-people,person-activity,person in steamy room,"sauna, steam room",,,,,🧖,1F9D6,5,1337
+🧖‍♀️,1F9D6-200D-2640-FE0F,smileys-people,person-activity,woman in steamy room,"sauna, steam room",,,,,🧖‍♀️,1F9D6-200D-2640-FE0F,5,1343
+🧖‍♂️,1F9D6-200D-2642-FE0F,smileys-people,person-activity,man in steamy room,"sauna, steam room",,,,,🧖‍♂️,1F9D6-200D-2642-FE0F,5,1355
+🧗‍♀️,1F9D7-200D-2640-FE0F,smileys-people,person-activity,woman climbing,climber,,,,,🧗‍♀️,1F9D7-200D-2640-FE0F,5,1373
+🧗‍♂️,1F9D7-200D-2642-FE0F,smileys-people,person-activity,man climbing,climber,,,,,🧗‍♂️,1F9D7-200D-2642-FE0F,5,1385
+🧘‍♀️,1F9D8-200D-2640-FE0F,smileys-people,person-activity,woman in lotus position,"meditation, yoga",,,,,🧘‍♀️,1F9D8-200D-2640-FE0F,5,1403
+🧘‍♂️,1F9D8-200D-2642-FE0F,smileys-people,person-activity,man in lotus position,"meditation, yoga",,,,,🧘‍♂️,1F9D8-200D-2642-FE0F,5,1415
+🕴️,1F574,smileys-people,person-activity,man in suit levitating,"business, man, suit",,,,,🕴️,1F574,1,1440
+🏌️‍♂️,1F3CC-FE0F-200D-2642-FE0F,smileys-people,person-sport,man golfing,"golf, man",,,,,🏌️‍♂️,1F3CC-FE0F-200D-2642-FE0F,4,1472
+🏌️‍♀️,1F3CC-FE0F-200D-2640-FE0F,smileys-people,person-sport,woman golfing,"golf, woman",,,,,🏌️‍♀️,1F3CC-FE0F-200D-2640-FE0F,4,1486
+🏄‍♂️,1F3C4-200D-2642-FE0F,smileys-people,person-sport,man surfing,"man, surfing",,,,,🏄‍♂️,1F3C4-200D-2642-FE0F,4,1506
+🏄‍♀️,1F3C4-200D-2640-FE0F,smileys-people,person-sport,woman surfing,"surfing, woman",,,,,🏄‍♀️,1F3C4-200D-2640-FE0F,4,1518
+🚣‍♂️,1F6A3-200D-2642-FE0F,smileys-people,person-sport,man rowing boat,"boat, man, rowboat",,,,,🚣‍♂️,1F6A3-200D-2642-FE0F,4,1536
+🚣‍♀️,1F6A3-200D-2640-FE0F,smileys-people,person-sport,woman rowing boat,"boat, rowboat, woman",,,,,🚣‍♀️,1F6A3-200D-2640-FE0F,4,1548
+🏊‍♂️,1F3CA-200D-2642-FE0F,smileys-people,person-sport,man swimming,"man, swim",,,,,🏊‍♂️,1F3CA-200D-2642-FE0F,4,1566
+🏊‍♀️,1F3CA-200D-2640-FE0F,smileys-people,person-sport,woman swimming,"swim, woman",,,,,🏊‍♀️,1F3CA-200D-2640-FE0F,4,1578
+⛹️‍♂️,26F9-FE0F-200D-2642-FE0F,smileys-people,person-sport,man bouncing ball,"ball, man",,,,,⛹️‍♂️,26F9-FE0F-200D-2642-FE0F,4,1597
+⛹️‍♀️,26F9-FE0F-200D-2640-FE0F,smileys-people,person-sport,woman bouncing ball,"ball, woman",,,,,⛹️‍♀️,26F9-FE0F-200D-2640-FE0F,4,1611
+🏋️‍♂️,1F3CB-FE0F-200D-2642-FE0F,smileys-people,person-sport,man lifting weights,"man, weight lifter",,,,,🏋️‍♂️,1F3CB-FE0F-200D-2642-FE0F,4,1632
+🏋️‍♀️,1F3CB-FE0F-200D-2640-FE0F,smileys-people,person-sport,woman lifting weights,"weight lifter, woman",,,,,🏋️‍♀️,1F3CB-FE0F-200D-2640-FE0F,4,1646
+🚴‍♂️,1F6B4-200D-2642-FE0F,smileys-people,person-sport,man biking,"bicycle, biking, cyclist, man",,,,,🚴‍♂️,1F6B4-200D-2642-FE0F,4,1666
+🚴‍♀️,1F6B4-200D-2640-FE0F,smileys-people,person-sport,woman biking,"bicycle, biking, cyclist, woman",,,,,🚴‍♀️,1F6B4-200D-2640-FE0F,4,1678
+🚵‍♂️,1F6B5-200D-2642-FE0F,smileys-people,person-sport,man mountain biking,"bicycle, bike, cyclist, man, mountain",,,,,🚵‍♂️,1F6B5-200D-2642-FE0F,4,1696
+🚵‍♀️,1F6B5-200D-2640-FE0F,smileys-people,person-sport,woman mountain biking,"bicycle, bike, biking, cyclist, mountain, woman",,,,,🚵‍♀️,1F6B5-200D-2640-FE0F,4,1708
+🤸‍♂️,1F938-200D-2642-FE0F,smileys-people,person-sport,man cartwheeling,"cartwheel, gymnastics, man",,,,,🤸‍♂️,1F938-200D-2642-FE0F,4,1730
+🤸‍♀️,1F938-200D-2640-FE0F,smileys-people,person-sport,woman cartwheeling,"cartwheel, gymnastics, woman",,,,,🤸‍♀️,1F938-200D-2640-FE0F,4,1742
+🤼‍♂️,1F93C-200D-2642-FE0F,smileys-people,person-sport,men wrestling,"men, wrestle",,,,,,,4,1755
+🤼‍♀️,1F93C-200D-2640-FE0F,smileys-people,person-sport,women wrestling,"women, wrestle",,,,,,,4,1757
+🤽‍♂️,1F93D-200D-2642-FE0F,smileys-people,person-sport,man playing water polo,"man, water polo",,,,,🤽‍♂️,1F93D-200D-2642-FE0F,4,1765
+🤽‍♀️,1F93D-200D-2640-FE0F,smileys-people,person-sport,woman playing water polo,"water polo, woman",,,,,🤽‍♀️,1F93D-200D-2640-FE0F,4,1777
+🤾‍♂️,1F93E-200D-2642-FE0F,smileys-people,person-sport,man playing handball,"handball, man",,,,,🤾‍♂️,1F93E-200D-2642-FE0F,4,1795
+🤾‍♀️,1F93E-200D-2640-FE0F,smileys-people,person-sport,woman playing handball,"handball, woman",,,,,🤾‍♀️,1F93E-200D-2640-FE0F,4,1807
+🤹‍♂️,1F939-200D-2642-FE0F,smileys-people,person-sport,man juggling,"juggling, man, multitask",,,,,🤹‍♂️,1F939-200D-2642-FE0F,4,1825
+🤹‍♀️,1F939-200D-2640-FE0F,smileys-people,person-sport,woman juggling,"juggling, multitask, woman",,,,,🤹‍♀️,1F939-200D-2640-FE0F,4,1837
+👨‍👩‍👦,1F468-200D-1F469-200D-1F466,smileys-people,family,"family: man, woman, boy","boy, family, man, woman",,,,,,,2,1867
+👨‍👩‍👧‍👦,1F468-200D-1F469-200D-1F467-200D-1F466,smileys-people,family,"family: man, woman, girl, boy","boy, family, girl, man, woman",,,,,,,2,1869
+👨‍👩‍👦‍👦,1F468-200D-1F469-200D-1F466-200D-1F466,smileys-people,family,"family: man, woman, boy, boy","boy, family, man, woman",,,,,,,2,1870
+👨‍👩‍👧‍👧,1F468-200D-1F469-200D-1F467-200D-1F467,smileys-people,family,"family: man, woman, girl, girl","family, girl, man, woman",,,,,,,2,1871
+👨‍👨‍👦,1F468-200D-1F468-200D-1F466,smileys-people,family,"family: man, man, boy","boy, family, man",,,,,,,2,1872
+👨‍👨‍👧,1F468-200D-1F468-200D-1F467,smileys-people,family,"family: man, man, girl","family, girl, man",,,,,,,2,1873
+👨‍👨‍👧‍👦,1F468-200D-1F468-200D-1F467-200D-1F466,smileys-people,family,"family: man, man, girl, boy","boy, family, girl, man",,,,,,,2,1874
+👨‍👨‍👦‍👦,1F468-200D-1F468-200D-1F466-200D-1F466,smileys-people,family,"family: man, man, boy, boy","boy, family, man",,,,,,,2,1875
+👨‍👨‍👧‍👧,1F468-200D-1F468-200D-1F467-200D-1F467,smileys-people,family,"family: man, man, girl, girl","family, girl, man",,,,,,,2,1876
+👩‍👩‍👦,1F469-200D-1F469-200D-1F466,smileys-people,family,"family: woman, woman, boy","boy, family, woman",,,,,,,2,1877
+👩‍👩‍👧,1F469-200D-1F469-200D-1F467,smileys-people,family,"family: woman, woman, girl","family, girl, woman",,,,,,,2,1878
+👩‍👩‍👧‍👦,1F469-200D-1F469-200D-1F467-200D-1F466,smileys-people,family,"family: woman, woman, girl, boy","boy, family, girl, woman",,,,,,,2,1879
+👩‍👩‍👦‍👦,1F469-200D-1F469-200D-1F466-200D-1F466,smileys-people,family,"family: woman, woman, boy, boy","boy, family, woman",,,,,,,2,1880
+👩‍👩‍👧‍👧,1F469-200D-1F469-200D-1F467-200D-1F467,smileys-people,family,"family: woman, woman, girl, girl","family, girl, woman",,,,,,,2,1881
+👨‍👦,1F468-200D-1F466,smileys-people,family,"family: man, boy","boy, family, man",,,,,,,4,1882
+👨‍👦‍👦,1F468-200D-1F466-200D-1F466,smileys-people,family,"family: man, boy, boy","boy, family, man",,,,,,,4,1883
+👨‍👧,1F468-200D-1F467,smileys-people,family,"family: man, girl","family, girl, man",,,,,,,4,1884
+👨‍👧‍👦,1F468-200D-1F467-200D-1F466,smileys-people,family,"family: man, girl, boy","boy, family, girl, man",,,,,,,4,1885
+👨‍👧‍👧,1F468-200D-1F467-200D-1F467,smileys-people,family,"family: man, girl, girl","family, girl, man",,,,,,,4,1886
+👩‍👦,1F469-200D-1F466,smileys-people,family,"family: woman, boy","boy, family, woman",,,,,,,4,1887
+👩‍👦‍👦,1F469-200D-1F466-200D-1F466,smileys-people,family,"family: woman, boy, boy","boy, family, woman",,,,,,,4,1888
+👩‍👧,1F469-200D-1F467,smileys-people,family,"family: woman, girl","family, girl, woman",,,,,,,4,1889
+👩‍👧‍👦,1F469-200D-1F467-200D-1F466,smileys-people,family,"family: woman, girl, boy","boy, family, girl, woman",,,,,,,4,1890
+👩‍👧‍👧,1F469-200D-1F467-200D-1F467,smileys-people,family,"family: woman, girl, girl","family, girl, woman",,,,,,,4,1891
+🦵,1F9B5,smileys-people,body,leg,"kick, limb",,,,,🦵,1F9B5,11,1904
+🦶,1F9B6,smileys-people,body,foot,"kick, stomp",,,,,🦶,1F9B6,11,1910
+💅,1F485,smileys-people,body,nail polish,"care, cosmetics, manicure, nail, polish",,,,,💅,1F485,1,2095
+🦴,1F9B4,smileys-people,body,bone,skeleton,,,,,,,11,2126
+🦷,1F9B7,smileys-people,body,tooth,dentist,,,,,,,11,2127
+🧡,1F9E1,smileys-people,emotion,orange heart,orange,,,,,,,5,2142
+🥽,1F97D,smileys-people,clothing,goggles,"eye protection, swimming, welding",,,,,,,11,2169
+🥼,1F97C,smileys-people,clothing,lab coat,"doctor, experiment, scientist",,,,,,,11,2170
+🧣,1F9E3,smileys-people,clothing,scarf,neck,,,,,,,5,2174
+🧤,1F9E4,smileys-people,clothing,gloves,hand,,,,,,,5,2175
+🧦,1F9E6,smileys-people,clothing,socks,stocking,,,,,,,5,2177
+🥾,1F97E,smileys-people,clothing,hiking boot,"backpacking, boot, camping, hiking",,,,,,,11,2190
+🥿,1F97F,smileys-people,clothing,flat shoe,"ballet flat, slip-on, slipper",,,,,,,11,2191
+🦝,1F99D,animals-nature,animal-mammal,raccoon,"curious, sly",,,,,,,11,2214
+🦙,1F999,animals-nature,animal-mammal,llama,"alpaca, guanaco, vicuña, wool",,,,,,,11,2239
+🦛,1F99B,animals-nature,animal-mammal,hippopotamus,hippo,,,,,,,11,2243
+🦘,1F998,animals-nature,animal-mammal,kangaroo,"australia, joey, jump, marsupial",,,,,,,11,2257
+🦡,1F9A1,animals-nature,animal-mammal,badger,"honey badger, pester",,,,,,,11,2258
+🦢,1F9A2,animals-nature,animal-bird,swan,"bird, cygnet, ugly duckling",,,,,,,11,2272
+🦚,1F99A,animals-nature,animal-bird,peacock,"bird, ostentatious, peahen, proud",,,,,,,11,2274
+🦜,1F99C,animals-nature,animal-bird,parrot,"bird, pirate, talk",,,,,,,11,2275
+🦞,1F99E,animals-nature,animal-marine,lobster,"bisque, claws, seafood",,,,,,,11,2295
+🦟,1F99F,animals-nature,animal-bug,mosquito,"disease, fever, insect, malaria, virus",,,,,,,11,2310
+🦠,1F9A0,animals-nature,animal-bug,microbe,"amoeba, bacteria, virus",,,,,,,11,2311
+💮,1F4AE,animals-nature,plant-flower,white flower,flower,,,,,,,1,2314
+🏵️,1F3F5,animals-nature,plant-flower,rosette,plant,,,,,,,1,2316
+🍂,1F342,animals-nature,plant-other,fallen leaf,"falling, leaf",,,,,,,1,2334
+🍃,1F343,animals-nature,plant-other,leaf fluttering in wind,"blow, flutter, leaf, wind",,,,,,,1,2335
+🥭,1F96D,food-drink,food-fruit,mango,"fruit, tropical",,,,,,,11,2343
+🥬,1F96C,food-drink,food-vegetable,leafy green,"bok choy, cabbage, kale, lettuce",,,,,,,11,2361
+🥯,1F96F,food-drink,food-prepared,bagel,"bakery, schmear",,,,,,,11,2370
+🥞,1F95E,food-drink,food-prepared,pancakes,"crêpe, food, hotcake, pancake",,,,,,,3,2371
+🥙,1F959,food-drink,food-prepared,stuffed flatbread,"falafel, flatbread, food, gyro, kebab, stuffed",,,,,,,3,2384
+🥘,1F958,food-drink,food-prepared,shallow pan of food,"casserole, food, paella, pan, shallow",,,,,,,3,2387
+🥗,1F957,food-drink,food-prepared,green salad,"food, green, salad",,,,,,,3,2390
+🧂,1F9C2,food-drink,food-prepared,salt,"condiment, shaker",,,,,,,11,2392
+🍛,1F35B,food-drink,food-asian,curry rice,"curry, rice",,,,,,,1,2398
+🥮,1F96E,food-drink,food-asian,moon cake,"autumn, festival, yuèbǐng",,,,,,,11,2406
+🥟,1F95F,food-drink,food-asian,dumpling,"empanada, gyōza, jiaozi, pierogi, potsticker",,,,,,,5,2408
+🥠,1F960,food-drink,food-asian,fortune cookie,prophecy,,,,,,,5,2409
+🧁,1F9C1,food-drink,food-sweet,cupcake,"bakery, sweet",,,,,,,11,2418
+🧭,1F9ED,travel-places,place-map,compass,"magnetic, navigation, orienteering",,,,,,,11,2453
+🧱,1F9F1,travel-places,place-building,brick,"bricks, clay, mortar, wall",,,,,,,11,2476
+🌁,1F301,travel-places,place-other,foggy,fog,,,,,,,1,2507
+🌉,1F309,travel-places,place-other,bridge at night,"bridge, night",,,,,,,1,2515
+🌌,1F30C,travel-places,place-other,milky way,space,,,,,,,1,2518
+🚄,1F684,travel-places,transport-ground,high-speed train,"railway, shinkansen, speed, train",,,,,,,1,2526
+🛹,1F6F9,travel-places,transport-ground,skateboard,board,,,,,,,11,2554
+🛶,1F6F6,travel-places,transport-water,canoe,boat,,,,,,,3,2571
+🧳,1F9F3,travel-places,hotel,luggage,"packing, travel",,,,,,,11,2597
+🌫️,1F32B,travel-places,sky-weather,fog,cloud,,,,,,,1,2673
+🎆,1F386,activities,event,fireworks,celebration,,,,,,,1,2697
+🎇,1F387,activities,event,sparkler,"celebration, fireworks, sparkle",,,,,,,1,2698
+🧨,1F9E8,activities,event,firecracker,"dynamite, explosive, fireworks",,,,,,,11,2699
+🎍,1F38D,activities,event,pine decoration,"bamboo, celebration, japanese, pine",,,,,,,1,2705
+🎏,1F38F,activities,event,carp streamer,"carp, celebration, streamer",,,,,,,1,2707
+🎐,1F390,activities,event,wind chime,"bell, celebration, chime, wind",,,,,,,1,2708
+🎑,1F391,activities,event,moon viewing ceremony,"celebration, ceremony, moon",,,,,,,1,2709
+🧧,1F9E7,activities,event,red envelope,"gift, good luck, hóngbāo, lai see, money",,,,,,,11,2710
+🥎,1F94E,activities,sport,softball,"ball, glove, underarm",,,,,,,11,2727
+🥏,1F94F,activities,sport,flying disc,ultimate,,,,,,,11,2733
+🥍,1F94D,activities,sport,lacrosse,"ball, goal, stick",,,,,,,11,2738
+🥅,1F945,activities,sport,goal net,"goal, net",,,,,,,3,2743
+🛷,1F6F7,activities,sport,sled,"sledge, sleigh",,,,,,,5,2750
+🧿,1F9FF,activities,game,nazar amulet,"bead, charm, evil-eye, nazar, talisman",,,,,,,11,2755
+🎰,1F3B0,activities,game,slot machine,"game, slot",,,,,,,1,2759
+🧩,1F9E9,activities,game,jigsaw,"clue, interlocking, piece, puzzle",,,,,,,11,2761
+🧸,1F9F8,activities,game,teddy bear,"plaything, plush, stuffed, toy",,,,,,,11,2762
+♠️,2660,activities,game,spade suit,"card, game",,,,,,,1,2764
+♥️,2665,activities,game,heart suit,"card, game",,,,,,,1,2766
+♦️,2666,activities,game,diamond suit,"card, game",,,,,,,1,2768
+♣️,2663,activities,game,club suit,"card, game",,,,,,,1,2770
+♟️,265F,activities,game,chess pawn,"chess, dupe, expendable",,,,,,,11,2772
+🃏,1F0CF,activities,game,joker,"card, game, wildcard",,,,,,,1,2773
+🀄️,1F004,activities,game,mahjong red dragon,"game, mahjong, red",,,,,,,1,2774
+🧵,1F9F5,activities,arts-crafts,thread,"needle, sewing, spool, string",,,,,,,11,2780
+🧶,1F9F6,activities,arts-crafts,yarn,"ball, crochet, knit",,,,,,,11,2781
+📟️,1F4DF,objects,phone,pager,pager,,,,,,,1,2814
+🖲️,1F5B2,objects,computer,trackball,computer,,,,,,,1,2828
+🧮,1F9EE,objects,computer,abacus,calculation,,,,,,,11,2833
+🗞️,1F5DE,objects,book-paper,rolled-up newspaper,"news, newspaper, paper, rolled",,,,,,,1,2866
+🧾,1F9FE,objects,money,receipt,"accounting, bookkeeping, evidence, proof",,,,,,,11,2878
+📇,1F4C7,objects,office,card index,"card, index, rolodex",,,,,,,1,2921
+🧰,1F9F0,objects,tool,toolbox,"chest, mechanic, tool",,,,,,,11,2974
+🧲,1F9F2,objects,tool,magnet,"attraction, horseshoe, magnetic",,,,,,,11,2975
+🧪,1F9EA,objects,science,test tube,"chemist, chemistry, experiment, lab, science",,,,,,,11,2978
+🧫,1F9EB,objects,science,petri dish,"bacteria, biologist, biology, culture, lab",,,,,,,11,2979
+🧬,1F9EC,objects,science,dna,"biologist, evolution, gene, genetics, life",,,,,,,11,2980
+🧴,1F9F4,objects,household,lotion bottle,"lotion, moisturizer, shampoo, sunscreen",,,,,,,11,2994
+🧷,1F9F7,objects,household,safety pin,"diaper, punk rock",,,,,,,11,2995
+🧹,1F9F9,objects,household,broom,"cleaning, sweeping, witch",,,,,,,11,2996
+🧺,1F9FA,objects,household,basket,"farming, laundry, picnic",,,,,,,11,2997
+🧻,1F9FB,objects,household,roll of paper,"paper towels, toilet paper",,,,,,,11,2998
+🧼,1F9FC,objects,household,soap,"bar, bathing, cleaning, lather, soapdish",,,,,,,11,2999
+🧽,1F9FD,objects,household,sponge,"absorbing, cleaning, porous",,,,,,,11,3000
+🧯,1F9EF,objects,household,fire extinguisher,"extinguish, fire, quench",,,,,,,11,3001
+🏧,1F3E7,symbols,transport-sign,ATM sign,"atm, atm sign, automated, bank, teller",,,,,,,1,3009
+🛂,1F6C2,symbols,transport-sign,passport control,"control, passport",,,,,,,1,3018
+🛃,1F6C3,symbols,transport-sign,customs,customs,,,,,,,1,3019
+🚸,1F6B8,symbols,warning,children crossing,"child, crossing, pedestrian, traffic",,,,,,,1,3024
+☣️,2623,symbols,warning,biohazard,sign,,,,,,,1,3037
+♌️,264C,symbols,zodiac,Leo,"leo, lion, zodiac",,,,,,,1,3098
+♾️,267E,symbols,other-symbol,infinity,"forever, unbounded, universal",,,,,,,11,3147
+⚜️,269C,symbols,other-symbol,fleur-de-lis,fleur-de-lis,,,,,,,1,3151
+📛,1F4DB,symbols,other-symbol,name badge,"badge, name",,,,,,,1,3153
+🔰,1F530,symbols,other-symbol,Japanese symbol for beginner,"beginner, chevron, japanese, japanese symbol for beginner, leaf",,,,,,,1,3154
+➰,27B0,symbols,other-symbol,curly loop,"curl, loop",,,,,,,1,3168
+➿,27BF,symbols,other-symbol,double curly loop,"curl, double, loop",,,,,,,1,3169
+〽️,303D,symbols,other-symbol,part alternation mark,"mark, part",,,,,,,1,3171
+✳️,2733,symbols,other-symbol,eight-spoked asterisk,asterisk,,,,,,,1,3173
+✴️,2734,symbols,other-symbol,eight-pointed star,star,,,,,,,1,3175
+❇️,2747,symbols,other-symbol,sparkle,sparkle,,,,,,,1,3177
+‼️,203C,symbols,other-symbol,double exclamation mark,"bangbang, exclamation, mark, punctuation",,,,,,,1,3179
+⁉️,2049,symbols,other-symbol,exclamation question mark,"exclamation, interrobang, mark, punctuation, question",,,,,,,1,3181
+™️,2122,symbols,other-symbol,trade mark,"mark, tm, trademark",,,,,,,1,3193
+#️⃣,0023-FE0F-20E3,symbols,keycap,keycap: #,keycap,,,,,,,3,3194
+*️⃣,002A-FE0F-20E3,symbols,keycap,keycap: *,keycap,,,,,,,3,3196
+0️⃣,0030-FE0F-20E3,symbols,keycap,keycap: 0,keycap,,,,,,,3,3198
+1️⃣,0031-FE0F-20E3,symbols,keycap,keycap: 1,keycap,,,,,,,3,3200
+2️⃣,0032-FE0F-20E3,symbols,keycap,keycap: 2,keycap,,,,,,,3,3202
+3️⃣,0033-FE0F-20E3,symbols,keycap,keycap: 3,keycap,,,,,,,3,3204
+4️⃣,0034-FE0F-20E3,symbols,keycap,keycap: 4,keycap,,,,,,,3,3206
+5️⃣,0035-FE0F-20E3,symbols,keycap,keycap: 5,keycap,,,,,,,3,3208
+6️⃣,0036-FE0F-20E3,symbols,keycap,keycap: 6,keycap,,,,,,,3,3210
+7️⃣,0037-FE0F-20E3,symbols,keycap,keycap: 7,keycap,,,,,,,3,3212
+8️⃣,0038-FE0F-20E3,symbols,keycap,keycap: 8,keycap,,,,,,,3,3214
+9️⃣,0039-FE0F-20E3,symbols,keycap,keycap: 9,keycap,,,,,,,3,3216
+🔟,1F51F,symbols,keycap,keycap: 10,keycap,,,,,,,1,3218
+🅰️,1F170,symbols,alphanum,A button (blood type),"a, a button (blood type), blood type",,,,,,,1,3226
+🆎,1F18E,symbols,alphanum,AB button (blood type),"ab, ab button (blood type), blood type",,,,,,,1,3227
+🅱️,1F171,symbols,alphanum,B button (blood type),"b, b button (blood type), blood type",,,,,,,1,3229
+🆑,1F191,symbols,alphanum,CL button,"cl, cl button",,,,,,,1,3230
+🆓,1F193,symbols,alphanum,FREE button,"free, free button",,,,,,,1,3232
+Ⓜ️,24C2,symbols,alphanum,circled M,"circle, circled m, m",,,,,,,1,3237
+🆖,1F196,symbols,alphanum,NG button,"ng, ng button",,,,,,,1,3239
+🅾️,1F17E,symbols,alphanum,O button (blood type),"blood type, o, o button (blood type)",,,,,,,1,3241
+🆙,1F199,symbols,alphanum,UP! button,"mark, up, up! button",,,,,,,1,3246
+🈁,1F201,symbols,alphanum,Japanese “here” button,"japanese, japanese “here” button, katakana, “here”, ココ",,,,,,,1,3248
+🈷️,1F237,symbols,alphanum,Japanese “monthly amount” button,"ideograph, japanese, japanese “monthly amount” button, “monthly amount”, 月",,,,,,,1,3252
+🈶,1F236,symbols,alphanum,Japanese “not free of charge” button,"ideograph, japanese, japanese “not free of charge” button, “not free of charge”, 有",,,,,,,1,3253
+🈯️,1F22F,symbols,alphanum,Japanese “reserved” button,"ideograph, japanese, japanese “reserved” button, “reserved”, 指",,,,,,,1,3254
+🉐,1F250,symbols,alphanum,Japanese “bargain” button,"ideograph, japanese, japanese “bargain” button, “bargain”, 得",,,,,,,1,3255
+🈹,1F239,symbols,alphanum,Japanese “discount” button,"ideograph, japanese, japanese “discount” button, “discount”, 割",,,,,,,1,3256
+🈚️,1F21A,symbols,alphanum,Japanese “free of charge” button,"ideograph, japanese, japanese “free of charge” button, “free of charge”, 無",,,,,,,1,3257
+🈲,1F232,symbols,alphanum,Japanese “prohibited” button,"ideograph, japanese, japanese “prohibited” button, “prohibited”, 禁",,,,,,,1,3258
+🉑,1F251,symbols,alphanum,Japanese “acceptable” button,"ideograph, japanese, japanese “acceptable” button, “acceptable”, 可",,,,,,,1,3259
+🈸,1F238,symbols,alphanum,Japanese “application” button,"ideograph, japanese, japanese “application” button, “application”, 申",,,,,,,1,3260
+🈴,1F234,symbols,alphanum,Japanese “passing grade” button,"ideograph, japanese, japanese “passing grade” button, “passing grade”, 合",,,,,,,1,3261
+🈳,1F233,symbols,alphanum,Japanese “vacancy” button,"ideograph, japanese, japanese “vacancy” button, “vacancy”, 空",,,,,,,1,3262
+🈺,1F23A,symbols,alphanum,Japanese “open for business” button,"ideograph, japanese, japanese “open for business” button, “open for business”, 営",,,,,,,1,3267
+🈵,1F235,symbols,alphanum,Japanese “no vacancy” button,"ideograph, japanese, japanese “no vacancy” button, “no vacancy”, 満",,,,,,,1,3268
+▪️,25AA,symbols,geometric,black small square,"geometric, square",,,,,,,1,3270
+▫️,25AB,symbols,geometric,white small square,"geometric, square",,,,,,,1,3272
+◻️,25FB,symbols,geometric,white medium square,"geometric, square",,,,,,,1,3274
+◼️,25FC,symbols,geometric,black medium square,"geometric, square",,,,,,,1,3276
+◽️,25FD,symbols,geometric,white medium-small square,"geometric, square",,,,,,,1,3277
+◾️,25FE,symbols,geometric,black medium-small square,"geometric, square",,,,,,,1,3278
+⬛️,2B1B,symbols,geometric,black large square,"geometric, square",,,,,,,1,3279
+⬜️,2B1C,symbols,geometric,white large square,"geometric, square",,,,,,,1,3280
+🔶,1F536,symbols,geometric,large orange diamond,"diamond, geometric, orange",,,,,,,1,3281
+🔷,1F537,symbols,geometric,large blue diamond,"blue, diamond, geometric",,,,,,,1,3282
+🔸,1F538,symbols,geometric,small orange diamond,"diamond, geometric, orange",,,,,,,1,3283
+🔹,1F539,symbols,geometric,small blue diamond,"blue, diamond, geometric",,,,,,,1,3284
+💠,1F4A0,symbols,geometric,diamond with a dot,"comic, diamond, geometric, inside",,,,,,,1,3287
+🔲,1F532,symbols,geometric,black square button,"button, geometric, square",,,,,,,1,3289
+🔳,1F533,symbols,geometric,white square button,"button, geometric, outlined, square",,,,,,,1,3290
+⚪️,26AA,symbols,geometric,white circle,"circle, geometric",,,,,,,1,3291
+⚫️,26AB,symbols,geometric,black circle,"circle, geometric",,,,,,,1,3292
+🔴,1F534,symbols,geometric,red circle,"circle, geometric, red",,,,,,,1,3293
+🔵,1F535,symbols,geometric,blue circle,"blue, circle, geometric",,,,,,,1,3294
+🎌,1F38C,flags,flag,crossed flags,"celebration, cross, crossed, japanese",,,,,,,1,3297
+🇦🇨,1F1E6-1F1E8,flags,country-flag,flag: Ascension Island,"AC, flag",,,,,,,1,3305
+🇦🇩,1F1E6-1F1E9,flags,country-flag,flag: Andorra,"AD, flag",,,,,,,1,3306
+🇦🇪,1F1E6-1F1EA,flags,country-flag,flag: United Arab Emirates,"AE, flag",,,,,,,1,3307
+🇦🇫,1F1E6-1F1EB,flags,country-flag,flag: Afghanistan,"AF, flag",,,,,,,1,3308
+🇦🇬,1F1E6-1F1EC,flags,country-flag,flag: Antigua & Barbuda,"AG, flag",,,,,,,1,3309
+🇦🇮,1F1E6-1F1EE,flags,country-flag,flag: Anguilla,"AI, flag",,,,,,,1,3310
+🇦🇱,1F1E6-1F1F1,flags,country-flag,flag: Albania,"AL, flag",,,,,,,1,3311
+🇦🇲,1F1E6-1F1F2,flags,country-flag,flag: Armenia,"AM, flag",,,,,,,1,3312
+🇦🇴,1F1E6-1F1F4,flags,country-flag,flag: Angola,"AO, flag",,,,,,,1,3313
+🇦🇶,1F1E6-1F1F6,flags,country-flag,flag: Antarctica,"AQ, flag",,,,,,,1,3314
+🇦🇷,1F1E6-1F1F7,flags,country-flag,flag: Argentina,"AR, flag",,,,,,,1,3315
+🇦🇸,1F1E6-1F1F8,flags,country-flag,flag: American Samoa,"AS, flag",,,,,,,1,3316
+🇦🇹,1F1E6-1F1F9,flags,country-flag,flag: Austria,"AT, flag",,,,,,,1,3317
+🇦🇺,1F1E6-1F1FA,flags,country-flag,flag: Australia,"AU, flag",,,,,,,1,3318
+🇦🇼,1F1E6-1F1FC,flags,country-flag,flag: Aruba,"AW, flag",,,,,,,1,3319
+🇦🇽,1F1E6-1F1FD,flags,country-flag,flag: Åland Islands,"AX, flag",,,,,,,1,3320
+🇦🇿,1F1E6-1F1FF,flags,country-flag,flag: Azerbaijan,"AZ, flag",,,,,,,1,3321
+🇧🇦,1F1E7-1F1E6,flags,country-flag,flag: Bosnia & Herzegovina,"BA, flag",,,,,,,1,3322
+🇧🇧,1F1E7-1F1E7,flags,country-flag,flag: Barbados,"BB, flag",,,,,,,1,3323
+🇧🇩,1F1E7-1F1E9,flags,country-flag,flag: Bangladesh,"BD, flag",,,,,,,1,3324
+🇧🇪,1F1E7-1F1EA,flags,country-flag,flag: Belgium,"BE, flag",,,,,,,1,3325
+🇧🇫,1F1E7-1F1EB,flags,country-flag,flag: Burkina Faso,"BF, flag",,,,,,,1,3326
+🇧🇬,1F1E7-1F1EC,flags,country-flag,flag: Bulgaria,"BG, flag",,,,,,,1,3327
+🇧🇭,1F1E7-1F1ED,flags,country-flag,flag: Bahrain,"BH, flag",,,,,,,1,3328
+🇧🇮,1F1E7-1F1EE,flags,country-flag,flag: Burundi,"BI, flag",,,,,,,1,3329
+🇧🇯,1F1E7-1F1EF,flags,country-flag,flag: Benin,"BJ, flag",,,,,,,1,3330
+🇧🇱,1F1E7-1F1F1,flags,country-flag,flag: St. Barthélemy,"BL, flag",,,,,,,1,3331
+🇧🇲,1F1E7-1F1F2,flags,country-flag,flag: Bermuda,"BM, flag",,,,,,,1,3332
+🇧🇳,1F1E7-1F1F3,flags,country-flag,flag: Brunei,"BN, flag",,,,,,,1,3333
+🇧🇴,1F1E7-1F1F4,flags,country-flag,flag: Bolivia,"BO, flag",,,,,,,1,3334
+🇧🇶,1F1E7-1F1F6,flags,country-flag,flag: Caribbean Netherlands,"BQ, flag",,,,,,,1,3335
+🇧🇷,1F1E7-1F1F7,flags,country-flag,flag: Brazil,"BR, flag",,,,,,,1,3336
+🇧🇸,1F1E7-1F1F8,flags,country-flag,flag: Bahamas,"BS, flag",,,,,,,1,3337
+🇧🇹,1F1E7-1F1F9,flags,country-flag,flag: Bhutan,"BT, flag",,,,,,,1,3338
+🇧🇻,1F1E7-1F1FB,flags,country-flag,flag: Bouvet Island,"BV, flag",,,,,,,1,3339
+🇧🇼,1F1E7-1F1FC,flags,country-flag,flag: Botswana,"BW, flag",,,,,,,1,3340
+🇧🇾,1F1E7-1F1FE,flags,country-flag,flag: Belarus,"BY, flag",,,,,,,1,3341
+🇧🇿,1F1E7-1F1FF,flags,country-flag,flag: Belize,"BZ, flag",,,,,,,1,3342
+🇨🇦,1F1E8-1F1E6,flags,country-flag,flag: Canada,"CA, flag",,,,,,,1,3343
+🇨🇨,1F1E8-1F1E8,flags,country-flag,flag: Cocos (Keeling) Islands,"CC, flag",,,,,,,1,3344
+🇨🇩,1F1E8-1F1E9,flags,country-flag,flag: Congo - Kinshasa,"CD, flag",,,,,,,1,3345
+🇨🇫,1F1E8-1F1EB,flags,country-flag,flag: Central African Republic,"CF, flag",,,,,,,1,3346
+🇨🇬,1F1E8-1F1EC,flags,country-flag,flag: Congo - Brazzaville,"CG, flag",,,,,,,1,3347
+🇨🇭,1F1E8-1F1ED,flags,country-flag,flag: Switzerland,"CH, flag",,,,,,,1,3348
+🇨🇮,1F1E8-1F1EE,flags,country-flag,flag: Côte d’Ivoire,"CI, flag",,,,,,,1,3349
+🇨🇰,1F1E8-1F1F0,flags,country-flag,flag: Cook Islands,"CK, flag",,,,,,,1,3350
+🇨🇱,1F1E8-1F1F1,flags,country-flag,flag: Chile,"CL, flag",,,,,,,1,3351
+🇨🇲,1F1E8-1F1F2,flags,country-flag,flag: Cameroon,"CM, flag",,,,,,,1,3352
+🇨🇳,1F1E8-1F1F3,flags,country-flag,flag: China,"CN, flag",,,,,,,1,3353
+🇨🇴,1F1E8-1F1F4,flags,country-flag,flag: Colombia,"CO, flag",,,,,,,1,3354
+🇨🇵,1F1E8-1F1F5,flags,country-flag,flag: Clipperton Island,"CP, flag",,,,,,,1,3355
+🇨🇷,1F1E8-1F1F7,flags,country-flag,flag: Costa Rica,"CR, flag",,,,,,,1,3356
+🇨🇺,1F1E8-1F1FA,flags,country-flag,flag: Cuba,"CU, flag",,,,,,,1,3357
+🇨🇻,1F1E8-1F1FB,flags,country-flag,flag: Cape Verde,"CV, flag",,,,,,,1,3358
+🇨🇼,1F1E8-1F1FC,flags,country-flag,flag: Curaçao,"CW, flag",,,,,,,1,3359
+🇨🇽,1F1E8-1F1FD,flags,country-flag,flag: Christmas Island,"CX, flag",,,,,,,1,3360
+🇨🇾,1F1E8-1F1FE,flags,country-flag,flag: Cyprus,"CY, flag",,,,,,,1,3361
+🇨🇿,1F1E8-1F1FF,flags,country-flag,flag: Czechia,"CZ, flag",,,,,,,1,3362
+🇩🇪,1F1E9-1F1EA,flags,country-flag,flag: Germany,"DE, flag",,,,,,,1,3363
+🇩🇬,1F1E9-1F1EC,flags,country-flag,flag: Diego Garcia,"DG, flag",,,,,,,1,3364
+🇩🇯,1F1E9-1F1EF,flags,country-flag,flag: Djibouti,"DJ, flag",,,,,,,1,3365
+🇩🇰,1F1E9-1F1F0,flags,country-flag,flag: Denmark,"DK, flag",,,,,,,1,3366
+🇩🇲,1F1E9-1F1F2,flags,country-flag,flag: Dominica,"DM, flag",,,,,,,1,3367
+🇩🇴,1F1E9-1F1F4,flags,country-flag,flag: Dominican Republic,"DO, flag",,,,,,,1,3368
+🇩🇿,1F1E9-1F1FF,flags,country-flag,flag: Algeria,"DZ, flag",,,,,,,1,3369
+🇪🇦,1F1EA-1F1E6,flags,country-flag,flag: Ceuta & Melilla,"EA, flag",,,,,,,1,3370
+🇪🇨,1F1EA-1F1E8,flags,country-flag,flag: Ecuador,"EC, flag",,,,,,,1,3371
+🇪🇪,1F1EA-1F1EA,flags,country-flag,flag: Estonia,"EE, flag",,,,,,,1,3372
+🇪🇬,1F1EA-1F1EC,flags,country-flag,flag: Egypt,"EG, flag",,,,,,,1,3373
+🇪🇭,1F1EA-1F1ED,flags,country-flag,flag: Western Sahara,"EH, flag",,,,,,,1,3374
+🇪🇷,1F1EA-1F1F7,flags,country-flag,flag: Eritrea,"ER, flag",,,,,,,1,3375
+🇪🇸,1F1EA-1F1F8,flags,country-flag,flag: Spain,"ES, flag",,,,,,,1,3376
+🇪🇹,1F1EA-1F1F9,flags,country-flag,flag: Ethiopia,"ET, flag",,,,,,,1,3377
+🇪🇺,1F1EA-1F1FA,flags,country-flag,flag: European Union,"EU, flag",,,,,,,1,3378
+🇫🇮,1F1EB-1F1EE,flags,country-flag,flag: Finland,"FI, flag",,,,,,,1,3379
+🇫🇯,1F1EB-1F1EF,flags,country-flag,flag: Fiji,"FJ, flag",,,,,,,1,3380
+🇫🇰,1F1EB-1F1F0,flags,country-flag,flag: Falkland Islands,"FK, flag",,,,,,,1,3381
+🇫🇲,1F1EB-1F1F2,flags,country-flag,flag: Micronesia,"FM, flag",,,,,,,1,3382
+🇫🇴,1F1EB-1F1F4,flags,country-flag,flag: Faroe Islands,"FO, flag",,,,,,,1,3383
+🇫🇷,1F1EB-1F1F7,flags,country-flag,flag: France,"FR, flag",,,,,,,1,3384
+🇬🇦,1F1EC-1F1E6,flags,country-flag,flag: Gabon,"GA, flag",,,,,,,1,3385
+🇬🇧,1F1EC-1F1E7,flags,country-flag,flag: United Kingdom,"GB, flag",,,,,,,1,3386
+🇬🇩,1F1EC-1F1E9,flags,country-flag,flag: Grenada,"GD, flag",,,,,,,1,3387
+🇬🇪,1F1EC-1F1EA,flags,country-flag,flag: Georgia,"GE, flag",,,,,,,1,3388
+🇬🇫,1F1EC-1F1EB,flags,country-flag,flag: French Guiana,"GF, flag",,,,,,,1,3389
+🇬🇬,1F1EC-1F1EC,flags,country-flag,flag: Guernsey,"GG, flag",,,,,,,1,3390
+🇬🇭,1F1EC-1F1ED,flags,country-flag,flag: Ghana,"GH, flag",,,,,,,1,3391
+🇬🇮,1F1EC-1F1EE,flags,country-flag,flag: Gibraltar,"GI, flag",,,,,,,1,3392
+🇬🇱,1F1EC-1F1F1,flags,country-flag,flag: Greenland,"GL, flag",,,,,,,1,3393
+🇬🇲,1F1EC-1F1F2,flags,country-flag,flag: Gambia,"GM, flag",,,,,,,1,3394
+🇬🇳,1F1EC-1F1F3,flags,country-flag,flag: Guinea,"GN, flag",,,,,,,1,3395
+🇬🇵,1F1EC-1F1F5,flags,country-flag,flag: Guadeloupe,"GP, flag",,,,,,,1,3396
+🇬🇶,1F1EC-1F1F6,flags,country-flag,flag: Equatorial Guinea,"GQ, flag",,,,,,,1,3397
+🇬🇷,1F1EC-1F1F7,flags,country-flag,flag: Greece,"GR, flag",,,,,,,1,3398
+🇬🇸,1F1EC-1F1F8,flags,country-flag,flag: South Georgia & South Sandwich Islands,"GS, flag",,,,,,,1,3399
+🇬🇹,1F1EC-1F1F9,flags,country-flag,flag: Guatemala,"GT, flag",,,,,,,1,3400
+🇬🇺,1F1EC-1F1FA,flags,country-flag,flag: Guam,"GU, flag",,,,,,,1,3401
+🇬🇼,1F1EC-1F1FC,flags,country-flag,flag: Guinea-Bissau,"GW, flag",,,,,,,1,3402
+🇬🇾,1F1EC-1F1FE,flags,country-flag,flag: Guyana,"GY, flag",,,,,,,1,3403
+🇭🇰,1F1ED-1F1F0,flags,country-flag,flag: Hong Kong SAR China,"HK, flag",,,,,,,1,3404
+🇭🇲,1F1ED-1F1F2,flags,country-flag,flag: Heard & McDonald Islands,"HM, flag",,,,,,,1,3405
+🇭🇳,1F1ED-1F1F3,flags,country-flag,flag: Honduras,"HN, flag",,,,,,,1,3406
+🇭🇷,1F1ED-1F1F7,flags,country-flag,flag: Croatia,"HR, flag",,,,,,,1,3407
+🇭🇹,1F1ED-1F1F9,flags,country-flag,flag: Haiti,"HT, flag",,,,,,,1,3408
+🇭🇺,1F1ED-1F1FA,flags,country-flag,flag: Hungary,"HU, flag",,,,,,,1,3409
+🇮🇨,1F1EE-1F1E8,flags,country-flag,flag: Canary Islands,"IC, flag",,,,,,,1,3410
+🇮🇩,1F1EE-1F1E9,flags,country-flag,flag: Indonesia,"ID, flag",,,,,,,1,3411
+🇮🇪,1F1EE-1F1EA,flags,country-flag,flag: Ireland,"IE, flag",,,,,,,1,3412
+🇮🇱,1F1EE-1F1F1,flags,country-flag,flag: Israel,"IL, flag",,,,,,,1,3413
+🇮🇲,1F1EE-1F1F2,flags,country-flag,flag: Isle of Man,"IM, flag",,,,,,,1,3414
+🇮🇳,1F1EE-1F1F3,flags,country-flag,flag: India,"IN, flag",,,,,,,1,3415
+🇮🇴,1F1EE-1F1F4,flags,country-flag,flag: British Indian Ocean Territory,"IO, flag",,,,,,,1,3416
+🇮🇶,1F1EE-1F1F6,flags,country-flag,flag: Iraq,"IQ, flag",,,,,,,1,3417
+🇮🇷,1F1EE-1F1F7,flags,country-flag,flag: Iran,"IR, flag",,,,,,,1,3418
+🇮🇸,1F1EE-1F1F8,flags,country-flag,flag: Iceland,"IS, flag",,,,,,,1,3419
+🇮🇹,1F1EE-1F1F9,flags,country-flag,flag: Italy,"IT, flag",,,,,,,1,3420
+🇯🇪,1F1EF-1F1EA,flags,country-flag,flag: Jersey,"JE, flag",,,,,,,1,3421
+🇯🇲,1F1EF-1F1F2,flags,country-flag,flag: Jamaica,"JM, flag",,,,,,,1,3422
+🇯🇴,1F1EF-1F1F4,flags,country-flag,flag: Jordan,"JO, flag",,,,,,,1,3423
+🇯🇵,1F1EF-1F1F5,flags,country-flag,flag: Japan,"JP, flag",,,,,,,1,3424
+🇰🇪,1F1F0-1F1EA,flags,country-flag,flag: Kenya,"KE, flag",,,,,,,1,3425
+🇰🇬,1F1F0-1F1EC,flags,country-flag,flag: Kyrgyzstan,"KG, flag",,,,,,,1,3426
+🇰🇭,1F1F0-1F1ED,flags,country-flag,flag: Cambodia,"KH, flag",,,,,,,1,3427
+🇰🇮,1F1F0-1F1EE,flags,country-flag,flag: Kiribati,"KI, flag",,,,,,,1,3428
+🇰🇲,1F1F0-1F1F2,flags,country-flag,flag: Comoros,"KM, flag",,,,,,,1,3429
+🇰🇳,1F1F0-1F1F3,flags,country-flag,flag: St. Kitts & Nevis,"KN, flag",,,,,,,1,3430
+🇰🇵,1F1F0-1F1F5,flags,country-flag,flag: North Korea,"KP, flag",,,,,,,1,3431
+🇰🇷,1F1F0-1F1F7,flags,country-flag,flag: South Korea,"KR, flag",,,,,,,1,3432
+🇰🇼,1F1F0-1F1FC,flags,country-flag,flag: Kuwait,"KW, flag",,,,,,,1,3433
+🇰🇾,1F1F0-1F1FE,flags,country-flag,flag: Cayman Islands,"KY, flag",,,,,,,1,3434
+🇰🇿,1F1F0-1F1FF,flags,country-flag,flag: Kazakhstan,"KZ, flag",,,,,,,1,3435
+🇱🇦,1F1F1-1F1E6,flags,country-flag,flag: Laos,"LA, flag",,,,,,,1,3436
+🇱🇧,1F1F1-1F1E7,flags,country-flag,flag: Lebanon,"LB, flag",,,,,,,1,3437
+🇱🇨,1F1F1-1F1E8,flags,country-flag,flag: St. Lucia,"LC, flag",,,,,,,1,3438
+🇱🇮,1F1F1-1F1EE,flags,country-flag,flag: Liechtenstein,"LI, flag",,,,,,,1,3439
+🇱🇰,1F1F1-1F1F0,flags,country-flag,flag: Sri Lanka,"LK, flag",,,,,,,1,3440
+🇱🇷,1F1F1-1F1F7,flags,country-flag,flag: Liberia,"LR, flag",,,,,,,1,3441
+🇱🇸,1F1F1-1F1F8,flags,country-flag,flag: Lesotho,"LS, flag",,,,,,,1,3442
+🇱🇹,1F1F1-1F1F9,flags,country-flag,flag: Lithuania,"LT, flag",,,,,,,1,3443
+🇱🇺,1F1F1-1F1FA,flags,country-flag,flag: Luxembourg,"LU, flag",,,,,,,1,3444
+🇱🇻,1F1F1-1F1FB,flags,country-flag,flag: Latvia,"LV, flag",,,,,,,1,3445
+🇱🇾,1F1F1-1F1FE,flags,country-flag,flag: Libya,"LY, flag",,,,,,,1,3446
+🇲🇦,1F1F2-1F1E6,flags,country-flag,flag: Morocco,"MA, flag",,,,,,,1,3447
+🇲🇨,1F1F2-1F1E8,flags,country-flag,flag: Monaco,"MC, flag",,,,,,,1,3448
+🇲🇩,1F1F2-1F1E9,flags,country-flag,flag: Moldova,"MD, flag",,,,,,,1,3449
+🇲🇪,1F1F2-1F1EA,flags,country-flag,flag: Montenegro,"ME, flag",,,,,,,1,3450
+🇲🇫,1F1F2-1F1EB,flags,country-flag,flag: St. Martin,"MF, flag",,,,,,,1,3451
+🇲🇬,1F1F2-1F1EC,flags,country-flag,flag: Madagascar,"MG, flag",,,,,,,1,3452
+🇲🇭,1F1F2-1F1ED,flags,country-flag,flag: Marshall Islands,"MH, flag",,,,,,,1,3453
+🇲🇰,1F1F2-1F1F0,flags,country-flag,flag: Macedonia,"MK, flag",,,,,,,1,3454
+🇲🇱,1F1F2-1F1F1,flags,country-flag,flag: Mali,"ML, flag",,,,,,,1,3455
+🇲🇲,1F1F2-1F1F2,flags,country-flag,flag: Myanmar (Burma),"MM, flag",,,,,,,1,3456
+🇲🇳,1F1F2-1F1F3,flags,country-flag,flag: Mongolia,"MN, flag",,,,,,,1,3457
+🇲🇴,1F1F2-1F1F4,flags,country-flag,flag: Macau SAR China,"MO, flag",,,,,,,1,3458
+🇲🇵,1F1F2-1F1F5,flags,country-flag,flag: Northern Mariana Islands,"MP, flag",,,,,,,1,3459
+🇲🇶,1F1F2-1F1F6,flags,country-flag,flag: Martinique,"MQ, flag",,,,,,,1,3460
+🇲🇷,1F1F2-1F1F7,flags,country-flag,flag: Mauritania,"MR, flag",,,,,,,1,3461
+🇲🇸,1F1F2-1F1F8,flags,country-flag,flag: Montserrat,"MS, flag",,,,,,,1,3462
+🇲🇹,1F1F2-1F1F9,flags,country-flag,flag: Malta,"MT, flag",,,,,,,1,3463
+🇲🇺,1F1F2-1F1FA,flags,country-flag,flag: Mauritius,"MU, flag",,,,,,,1,3464
+🇲🇻,1F1F2-1F1FB,flags,country-flag,flag: Maldives,"MV, flag",,,,,,,1,3465
+🇲🇼,1F1F2-1F1FC,flags,country-flag,flag: Malawi,"MW, flag",,,,,,,1,3466
+🇲🇽,1F1F2-1F1FD,flags,country-flag,flag: Mexico,"MX, flag",,,,,,,1,3467
+🇲🇾,1F1F2-1F1FE,flags,country-flag,flag: Malaysia,"MY, flag",,,,,,,1,3468
+🇲🇿,1F1F2-1F1FF,flags,country-flag,flag: Mozambique,"MZ, flag",,,,,,,1,3469
+🇳🇦,1F1F3-1F1E6,flags,country-flag,flag: Namibia,"NA, flag",,,,,,,1,3470
+🇳🇨,1F1F3-1F1E8,flags,country-flag,flag: New Caledonia,"NC, flag",,,,,,,1,3471
+🇳🇪,1F1F3-1F1EA,flags,country-flag,flag: Niger,"NE, flag",,,,,,,1,3472
+🇳🇫,1F1F3-1F1EB,flags,country-flag,flag: Norfolk Island,"NF, flag",,,,,,,1,3473
+🇳🇬,1F1F3-1F1EC,flags,country-flag,flag: Nigeria,"NG, flag",,,,,,,1,3474
+🇳🇮,1F1F3-1F1EE,flags,country-flag,flag: Nicaragua,"NI, flag",,,,,,,1,3475
+🇳🇱,1F1F3-1F1F1,flags,country-flag,flag: Netherlands,"NL, flag",,,,,,,1,3476
+🇳🇴,1F1F3-1F1F4,flags,country-flag,flag: Norway,"NO, flag",,,,,,,1,3477
+🇳🇵,1F1F3-1F1F5,flags,country-flag,flag: Nepal,"NP, flag",,,,,,,1,3478
+🇳🇷,1F1F3-1F1F7,flags,country-flag,flag: Nauru,"NR, flag",,,,,,,1,3479
+🇳🇺,1F1F3-1F1FA,flags,country-flag,flag: Niue,"NU, flag",,,,,,,1,3480
+🇳🇿,1F1F3-1F1FF,flags,country-flag,flag: New Zealand,"NZ, flag",,,,,,,1,3481
+🇴🇲,1F1F4-1F1F2,flags,country-flag,flag: Oman,"OM, flag",,,,,,,1,3482
+🇵🇦,1F1F5-1F1E6,flags,country-flag,flag: Panama,"PA, flag",,,,,,,1,3483
+🇵🇪,1F1F5-1F1EA,flags,country-flag,flag: Peru,"PE, flag",,,,,,,1,3484
+🇵🇫,1F1F5-1F1EB,flags,country-flag,flag: French Polynesia,"PF, flag",,,,,,,1,3485
+🇵🇬,1F1F5-1F1EC,flags,country-flag,flag: Papua New Guinea,"PG, flag",,,,,,,1,3486
+🇵🇭,1F1F5-1F1ED,flags,country-flag,flag: Philippines,"PH, flag",,,,,,,1,3487
+🇵🇰,1F1F5-1F1F0,flags,country-flag,flag: Pakistan,"PK, flag",,,,,,,1,3488
+🇵🇱,1F1F5-1F1F1,flags,country-flag,flag: Poland,"PL, flag",,,,,,,1,3489
+🇵🇲,1F1F5-1F1F2,flags,country-flag,flag: St. Pierre & Miquelon,"PM, flag",,,,,,,1,3490
+🇵🇳,1F1F5-1F1F3,flags,country-flag,flag: Pitcairn Islands,"PN, flag",,,,,,,1,3491
+🇵🇷,1F1F5-1F1F7,flags,country-flag,flag: Puerto Rico,"PR, flag",,,,,,,1,3492
+🇵🇸,1F1F5-1F1F8,flags,country-flag,flag: Palestinian Territories,"PS, flag",,,,,,,1,3493
+🇵🇹,1F1F5-1F1F9,flags,country-flag,flag: Portugal,"PT, flag",,,,,,,1,3494
+🇵🇼,1F1F5-1F1FC,flags,country-flag,flag: Palau,"PW, flag",,,,,,,1,3495
+🇵🇾,1F1F5-1F1FE,flags,country-flag,flag: Paraguay,"PY, flag",,,,,,,1,3496
+🇶🇦,1F1F6-1F1E6,flags,country-flag,flag: Qatar,"QA, flag",,,,,,,1,3497
+🇷🇪,1F1F7-1F1EA,flags,country-flag,flag: Réunion,"RE, flag",,,,,,,1,3498
+🇷🇴,1F1F7-1F1F4,flags,country-flag,flag: Romania,"RO, flag",,,,,,,1,3499
+🇷🇸,1F1F7-1F1F8,flags,country-flag,flag: Serbia,"RS, flag",,,,,,,1,3500
+🇷🇺,1F1F7-1F1FA,flags,country-flag,flag: Russia,"RU, flag",,,,,,,1,3501
+🇷🇼,1F1F7-1F1FC,flags,country-flag,flag: Rwanda,"RW, flag",,,,,,,1,3502
+🇸🇦,1F1F8-1F1E6,flags,country-flag,flag: Saudi Arabia,"SA, flag",,,,,,,1,3503
+🇸🇧,1F1F8-1F1E7,flags,country-flag,flag: Solomon Islands,"SB, flag",,,,,,,1,3504
+🇸🇨,1F1F8-1F1E8,flags,country-flag,flag: Seychelles,"SC, flag",,,,,,,1,3505
+🇸🇩,1F1F8-1F1E9,flags,country-flag,flag: Sudan,"SD, flag",,,,,,,1,3506
+🇸🇪,1F1F8-1F1EA,flags,country-flag,flag: Sweden,"SE, flag",,,,,,,1,3507
+🇸🇬,1F1F8-1F1EC,flags,country-flag,flag: Singapore,"SG, flag",,,,,,,1,3508
+🇸🇭,1F1F8-1F1ED,flags,country-flag,flag: St. Helena,"SH, flag",,,,,,,1,3509
+🇸🇮,1F1F8-1F1EE,flags,country-flag,flag: Slovenia,"SI, flag",,,,,,,1,3510
+🇸🇯,1F1F8-1F1EF,flags,country-flag,flag: Svalbard & Jan Mayen,"SJ, flag",,,,,,,1,3511
+🇸🇰,1F1F8-1F1F0,flags,country-flag,flag: Slovakia,"SK, flag",,,,,,,1,3512
+🇸🇱,1F1F8-1F1F1,flags,country-flag,flag: Sierra Leone,"SL, flag",,,,,,,1,3513
+🇸🇲,1F1F8-1F1F2,flags,country-flag,flag: San Marino,"SM, flag",,,,,,,1,3514
+🇸🇳,1F1F8-1F1F3,flags,country-flag,flag: Senegal,"SN, flag",,,,,,,1,3515
+🇸🇴,1F1F8-1F1F4,flags,country-flag,flag: Somalia,"SO, flag",,,,,,,1,3516
+🇸🇷,1F1F8-1F1F7,flags,country-flag,flag: Suriname,"SR, flag",,,,,,,1,3517
+🇸🇸,1F1F8-1F1F8,flags,country-flag,flag: South Sudan,"SS, flag",,,,,,,1,3518
+🇸🇹,1F1F8-1F1F9,flags,country-flag,flag: São Tomé & Príncipe,"ST, flag",,,,,,,1,3519
+🇸🇻,1F1F8-1F1FB,flags,country-flag,flag: El Salvador,"SV, flag",,,,,,,1,3520
+🇸🇽,1F1F8-1F1FD,flags,country-flag,flag: Sint Maarten,"SX, flag",,,,,,,1,3521
+🇸🇾,1F1F8-1F1FE,flags,country-flag,flag: Syria,"SY, flag",,,,,,,1,3522
+🇸🇿,1F1F8-1F1FF,flags,country-flag,flag: Swaziland,"SZ, flag",,,,,,,1,3523
+🇹🇦,1F1F9-1F1E6,flags,country-flag,flag: Tristan da Cunha,"TA, flag",,,,,,,1,3524
+🇹🇨,1F1F9-1F1E8,flags,country-flag,flag: Turks & Caicos Islands,"TC, flag",,,,,,,1,3525
+🇹🇩,1F1F9-1F1E9,flags,country-flag,flag: Chad,"TD, flag",,,,,,,1,3526
+🇹🇫,1F1F9-1F1EB,flags,country-flag,flag: French Southern Territories,"TF, flag",,,,,,,1,3527
+🇹🇬,1F1F9-1F1EC,flags,country-flag,flag: Togo,"TG, flag",,,,,,,1,3528
+🇹🇭,1F1F9-1F1ED,flags,country-flag,flag: Thailand,"TH, flag",,,,,,,1,3529
+🇹🇯,1F1F9-1F1EF,flags,country-flag,flag: Tajikistan,"TJ, flag",,,,,,,1,3530
+🇹🇰,1F1F9-1F1F0,flags,country-flag,flag: Tokelau,"TK, flag",,,,,,,1,3531
+🇹🇱,1F1F9-1F1F1,flags,country-flag,flag: Timor-Leste,"TL, flag",,,,,,,1,3532
+🇹🇲,1F1F9-1F1F2,flags,country-flag,flag: Turkmenistan,"TM, flag",,,,,,,1,3533
+🇹🇳,1F1F9-1F1F3,flags,country-flag,flag: Tunisia,"TN, flag",,,,,,,1,3534
+🇹🇴,1F1F9-1F1F4,flags,country-flag,flag: Tonga,"TO, flag",,,,,,,1,3535
+🇹🇷,1F1F9-1F1F7,flags,country-flag,flag: Turkey,"TR, flag",,,,,,,1,3536
+🇹🇹,1F1F9-1F1F9,flags,country-flag,flag: Trinidad & Tobago,"TT, flag",,,,,,,1,3537
+🇹🇻,1F1F9-1F1FB,flags,country-flag,flag: Tuvalu,"TV, flag",,,,,,,1,3538
+🇹🇼,1F1F9-1F1FC,flags,country-flag,flag: Taiwan,"TW, flag",,,,,,,1,3539
+🇹🇿,1F1F9-1F1FF,flags,country-flag,flag: Tanzania,"TZ, flag",,,,,,,1,3540
+🇺🇦,1F1FA-1F1E6,flags,country-flag,flag: Ukraine,"UA, flag",,,,,,,1,3541
+🇺🇬,1F1FA-1F1EC,flags,country-flag,flag: Uganda,"UG, flag",,,,,,,1,3542
+🇺🇲,1F1FA-1F1F2,flags,country-flag,flag: U.S. Outlying Islands,"UM, flag",,,,,,,1,3543
+🇺🇳,1F1FA-1F1F3,flags,country-flag,flag: United Nations,"UN, flag",,,,,,,4,3544
+🇺🇸,1F1FA-1F1F8,flags,country-flag,flag: United States,"US, flag",,,,,,,1,3545
+🇺🇾,1F1FA-1F1FE,flags,country-flag,flag: Uruguay,"UY, flag",,,,,,,1,3546
+🇺🇿,1F1FA-1F1FF,flags,country-flag,flag: Uzbekistan,"UZ, flag",,,,,,,1,3547
+🇻🇦,1F1FB-1F1E6,flags,country-flag,flag: Vatican City,"VA, flag",,,,,,,1,3548
+🇻🇨,1F1FB-1F1E8,flags,country-flag,flag: St. Vincent & Grenadines,"VC, flag",,,,,,,1,3549
+🇻🇪,1F1FB-1F1EA,flags,country-flag,flag: Venezuela,"VE, flag",,,,,,,1,3550
+🇻🇬,1F1FB-1F1EC,flags,country-flag,flag: British Virgin Islands,"VG, flag",,,,,,,1,3551
+🇻🇮,1F1FB-1F1EE,flags,country-flag,flag: U.S. Virgin Islands,"VI, flag",,,,,,,1,3552
+🇻🇳,1F1FB-1F1F3,flags,country-flag,flag: Vietnam,"VN, flag",,,,,,,1,3553
+🇻🇺,1F1FB-1F1FA,flags,country-flag,flag: Vanuatu,"VU, flag",,,,,,,1,3554
+🇼🇫,1F1FC-1F1EB,flags,country-flag,flag: Wallis & Futuna,"WF, flag",,,,,,,1,3555
+🇼🇸,1F1FC-1F1F8,flags,country-flag,flag: Samoa,"WS, flag",,,,,,,1,3556
+🇽🇰,1F1FD-1F1F0,flags,country-flag,flag: Kosovo,"XK, flag",,,,,,,1,3557
+🇾🇪,1F1FE-1F1EA,flags,country-flag,flag: Yemen,"YE, flag",,,,,,,1,3558
+🇾🇹,1F1FE-1F1F9,flags,country-flag,flag: Mayotte,"YT, flag",,,,,,,1,3559
+🇿🇦,1F1FF-1F1E6,flags,country-flag,flag: South Africa,"ZA, flag",,,,,,,1,3560
+🇿🇲,1F1FF-1F1F2,flags,country-flag,flag: Zambia,"ZM, flag",,,,,,,1,3561
+🇿🇼,1F1FF-1F1FC,flags,country-flag,flag: Zimbabwe,"ZW, flag",,,,,,,1,3562
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,1F3F4-E0067-E0062-E0065-E006E-E0067-E007F,flags,subdivision-flag,flag: England,"flag, gbeng",,,,,,,5,3563
+🏴󠁧󠁢󠁳󠁣󠁴󠁿,1F3F4-E0067-E0062-E0073-E0063-E0074-E007F,flags,subdivision-flag,flag: Scotland,"flag, gbsct",,,,,,,5,3564
+🏴󠁧󠁢󠁷󠁬󠁳󠁿,1F3F4-E0067-E0062-E0077-E006C-E0073-E007F,flags,subdivision-flag,flag: Wales,"flag, gbwls",,,,,,,5,3565
