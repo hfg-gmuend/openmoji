@@ -1,5 +1,4 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  <title>1F1F8-1F1ED</title>
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#1e50a0"/>
     <g>
@@ -24,7 +23,7 @@
     <path d="M44.9556,34.81S44,45,52,47" fill="#92d3f5"/>
     <path d="M56,42.9188c-2.4-1.5567-8,0-8,0L52,47Z" fill="#1e50a0" stroke="#1e50a0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <polyline points="46 37 49 41 49 44" fill="none" stroke="#a57939" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <ellipse cx="46.8576" cy="40.5894" rx="0.5" ry="2.6466" transform="translate(-10.3208 16.6359) rotate(-18.1699)" fill="none" stroke="#a57939" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <ellipse cx="46.8576" cy="40.5894" rx=".5" ry="2.6466" transform="translate(-10.3208 16.6359) rotate(-18.1699)" fill="none" stroke="#a57939" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <polygon points="53 32 51 32 50 30 53 32" fill="#f4aa41" stroke="#a57939" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <path d="M55,41H52A2.8222,2.8222,0,0,0,55,41Z" fill="none" stroke="#f4aa41" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <path d="M58.5833,29v9c0,6.75-6.75,9-6.75,9s-6.75-2.25-6.75-9V29S51.9792,25.5937,58.5833,29Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
