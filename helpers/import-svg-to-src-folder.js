@@ -5,25 +5,13 @@ const glob = require('glob').sync;
 var argv = process.argv.slice(2);
 const _ = require('lodash');
 
-const emojibaseData = require('emojibase-data/en/data.json');
-const emojibaseGroups = require('emojibase-data/meta/groups.json');
-const groups = emojibaseGroups.groups;
-const subgroups = emojibaseGroups.subgroups;
+const emojis = require('../data/openmoji.json');
 
 
 if(!argv[0]) {
   help();
   process.exit(1);
 }
-
-const emojis = _.map(emojibaseData, e => {
-  return {
-    emoji: e.emoji,
-    hexcode: e.hexcode,
-    group: groups[e.group],
-    subgroups: subgroups[e.subgroup]
-  };
-});
 
 let results = [];
 const svgFiles = glob( path.join(argv[0], '*.svg') );
