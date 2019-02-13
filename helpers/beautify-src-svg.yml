@@ -1,0 +1,18 @@
+full: true
+plugins:
+  - cleanupAttrs
+  - inlineStyles
+  - cleanupNumericValues:
+      floatPrecision: 4
+  - removeXMLProcInst
+  - removeComments
+  - removeMetadata
+  - removeTitle
+  - removeDesc
+  - removeUselessDefs
+  - removeEmptyText
+  - removeUnusedNS
+  - sortAttrs
+js2svg:
+  pretty: true
+  indent: '  '

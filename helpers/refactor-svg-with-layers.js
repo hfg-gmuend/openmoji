@@ -2,7 +2,6 @@ const fs = require('fs');
 const path = require('path');
 const _ = require('lodash');
 const chroma = require('chroma-js');
-const beautify = require('js-beautify').html;
 const JSDOM = require('jsdom').JSDOM;
 
 const folderIn = './_tmp/2-svg-color-palette-fixed';
@@ -11,8 +10,7 @@ const templateFile = './guidelines/openmoji-template.svg';
 
 
 const writeSvg = (filePath, data) => {
-  const content = beautify(data, { indent_size: 2 });
-  fs.writeFileSync(filePath, content);
+  fs.writeFileSync(filePath, data);
 }
 
 const refactorSvg = (srcFilePath, destFilePath, templateFile, emoji) => {

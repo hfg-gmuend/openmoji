@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Open-source emojis for designers, developers and everyone else!",
   "scripts": {
-    "test": "mocha test/test.js"
+    "test": "mocha test/test.js",
+    "pretty-src-svg": "svgo src/ --config helpers/beautify-src-svg.yml"
   },
   "engines": {
     "node": ">=8.15.0"
@@ -17,10 +18,10 @@
     "csv-write-stream": "^2.0.0",
     "emojibase-data": "^3.0.0",
     "glob": "^7.1.2",
-    "js-beautify": "^1.8.8",
     "jsdom": "^11.11.0",
     "kd-tree-javascript": "^1.0.3",
     "lodash": "^4.17.4",
-    "mocha": "^5.2.0"
+    "mocha": "^5.2.0",
+    "svgo": "^1.1.1"
   }
 }

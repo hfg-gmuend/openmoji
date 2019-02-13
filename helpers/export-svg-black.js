@@ -2,7 +2,6 @@ const glob = require('glob').sync;
 const fs = require('fs');
 const path = require('path');
 const _ = require('lodash');
-const beautify = require('js-beautify').html;
 const JSDOM = require('jsdom').JSDOM;
 
 let colorEmojiPaths = glob('./color/svg/*.svg');
@@ -10,8 +9,7 @@ const folderOut = './black/svg';
 // const folderOut = './color/svg-color-fill';
 
 const writeSvg = (filePath, data) => {
-  const content = beautify(data, { indent_size: 2, max_preserve_newlines: "-1" });
-  fs.writeFileSync(filePath, content);
+  fs.writeFileSync(filePath, data);
 }
 
 const generateSvg = (srcFilePath, destFilePath) => {
