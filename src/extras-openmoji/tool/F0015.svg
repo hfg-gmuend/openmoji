@@ -1,34 +1,46 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  <g id="grid">
-    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"></path>
-    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></path>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></rect>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></rect>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"></circle>
-  </g>
-  <g id="color">
-    <circle fill="#FCEA2B" cx="35.9998" cy="36" r="24" stroke="none"></circle>
-    <path fill="#F1B31C" d="M52.9703,19.0294C57.3135,23.3726,59.9998,29.3726,59.9998,36c0,13.2548-10.7452,24-24,24
-		c-6.6274,0-12.6274-2.6863-16.9705-7.0294" stroke="none"></path>
-    <polyline fill="#FFFFFF" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		33.1714,33.1716 23.979,48.0208 38.8282,38.8284 	"></polyline>
-    <polyline fill="#EA5A47" points="33.1714,33.1716 48.0206,23.9792 38.8282,38.8284 	" stroke="none"></polyline>
-  </g>
-  <g id="hair">
-  </g>
-  <g id="skin">
-  </g>
-  <g id="skin-shadow">
-  </g>
-  <g id="line">
-    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.9998" cy="36" r="24"></circle>
-    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		33.1714,33.1716 23.979,48.0208 38.8282,38.8284 	"></polyline>
-    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		33.1714,33.1716 48.0206,23.9792 38.8282,38.8284 	"></polyline>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="35.9998" y1="21" x2="35.9998" y2="16"></line>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="35.9998" y1="55.9996" x2="35.9998" y2="51"></line>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="50.9998" y1="36" x2="55.9996" y2="35.9998"></line>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="16" y1="35.9998" x2="20.9998" y2="36"></line>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 72 72" style="enable-background:new 0 0 72 72;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B3B3B3;}
+	.st1{fill:none;stroke:#00A5FF;stroke-width:0.1;stroke-miterlimit:10;}
+	.st2{fill:#FCEA2B;}
+	.st3{fill:#F1B31C;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:#EA5A47;}
+	.st6{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="grid">
+	<path class="st0" d="M68,4v64H4V4H68 M72,0H0v72h72V0z"/>
+	<path class="st1" d="M12.9,11h46.2c1.1,0,1.9,0.9,1.9,1.9v0V59c0,1.1-0.9,1.9-1.9,1.9H12.9C11.9,61,11,60.1,11,59l0,0V12.9
+		C11,11.8,11.9,11,12.9,11L12.9,11z"/>
+	<path class="st1" d="M18.3,4h35.5C55,4,56,5,56,6.3v59.5c0,1.2-1,2.3-2.3,2.3H18.3C17,68,16,67,16,65.7V6.3C16,5,17,4,18.3,4z"/>
+	<path class="st1" d="M68,18.3v35.5c0,1.2-1,2.3-2.3,2.3H6.3C5,56,4,55,4,53.7V18.3C4,17,5,16,6.3,16h59.5C67,16,68,17,68,18.3z"/>
+	<circle class="st1" cx="36" cy="36" r="29"/>
+</g>
+<g id="line-supplement">
+	<polyline points="33.2,33.2 48,24 38.8,38.8 	"/>
+</g>
+<g id="color">
+	<circle class="st2" cx="36" cy="36" r="24"/>
+	<path class="st3" d="M53,19c4.3,4.3,7,10.3,7,17c0,13.3-10.7,24-24,24c-6.6,0-12.6-2.7-17-7"/>
+	<polyline class="st4" points="33.2,33.2 24,48 38.8,38.8 	"/>
+	<polyline class="st5" points="33.2,33.2 48,24 38.8,38.8 	"/>
+</g>
+<g id="hair">
+</g>
+<g id="skin">
+</g>
+<g id="skin-shadow">
+</g>
+<g id="line">
+	<circle class="st6" cx="36" cy="36" r="24"/>
+	<polyline class="st6" points="33.2,33.2 24,48 38.8,38.8 	"/>
+	<polyline class="st6" points="33.2,33.2 48,24 38.8,38.8 	"/>
+	<line class="st6" x1="36" y1="21" x2="36" y2="16"/>
+	<line class="st6" x1="36" y1="56" x2="36" y2="51"/>
+	<line class="st6" x1="51" y1="36" x2="56" y2="36"/>
+	<line class="st6" x1="16" y1="36" x2="21" y2="36"/>
+</g>
 </svg>
