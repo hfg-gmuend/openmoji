@@ -33,18 +33,31 @@ table {
 .svg-src #grid {
   display: none;
 }
-.svg-src.line g:not(#line) {
+
+.svg-src.line #color,
+.svg-src.line #color-foreground,
+.svg-src.line #hair,
+.svg-src.line #skin,
+.svg-src.line #skin-shadow {
   display: none;
 }
-.svg-src.color g:not(#color) {
+
+.svg-src.color #line,
+.svg-src.color #line-supplement,
+.svg-src.color #hair,
+.svg-src.color #skin,
+.svg-src.color #skin-shadow {
   display: none;
 }
+
 .svg-src.hair g:not(#hair) {
   display: none;
 }
+
 .svg-src.skin g:not(#skin) {
   display: none;
 }
+
 .svg-src.skin-shadow g:not(#skin-shadow) {
   display: none;
 }
@@ -69,8 +82,8 @@ tr:nth-child(even) {
       <td>old color</td>
       <td>old black</td>
       <td>new color</td>
-      <td>line layer</td>
-      <td>color layer</td>
+      <td>line layers</td>
+      <td>color layers</td>
       <td>hair layer</td>
       <td>skin layer</td>
       <td>skin-shadow layer</td>
@@ -86,6 +99,7 @@ tr:nth-child(even) {
 
 html += _.map(emojis, (e, i) => {
   // if (Math.floor(i/250) !== 0) return;
+  // if (e.hexcode !== '1F6B2') return;
   return `
     <tr>
         <td>${i}</td>
