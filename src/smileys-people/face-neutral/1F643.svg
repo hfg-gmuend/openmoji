@@ -1,50 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="grid">
-	<path fill="#B3B3B3" d="M68,4v64H4V4H68 M72,0H0v72h72V0z"/>
-	<path fill="none" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10" d="M12.923,10.9583h46.1539
-		c1.0621,0,1.9231,0.861,1.9231,1.9231v0v46.1538c0,1.0621-0.861,1.9231-1.9231,1.9231H12.9231
-		c-1.0621,0-1.9231-0.861-1.9231-1.9231l0,0V12.8813C11,11.8193,11.861,10.9583,12.923,10.9583L12.923,10.9583z"/>
-	<path fill="none" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10" d="M18.2537,4h35.4926C54.991,4,56,5.009,56,6.2537
-		v59.4926C56,66.991,54.991,68,53.7463,68H18.2537C17.009,68,16,66.991,16,65.7463V6.2537C16,5.009,17.009,4,18.2537,4z"/>
-	<path fill="none" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10" d="M68,18.2537v35.4926
-		C68,54.991,66.991,56,65.7463,56H6.2537C5.009,56,4,54.991,4,53.7463V18.2537C4,17.009,5.009,16,6.2537,16h59.4926
-		C66.991,16,68,17.009,68,18.2537z"/>
-	<circle fill="none" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10" cx="36" cy="36" r="29"/>
-</g>
-<g id="color">
-	<g>
-		<defs>
-			<polygon id="SVGID_1_" points="1,1 2,1 1,2 			"/>
-		</defs>
-		<defs>
-			<polygon id="SVGID_2_" points="-1,-1 -2,-1 -1,-2 			"/>
-		</defs>
-		<clipPath id="SVGID_3_">
-			<use xlink:href="#SVGID_1_"  overflow="visible"/>
-		</clipPath>
-		<clipPath id="SVGID_4_" clip-path="url(#SVGID_3_)">
-			<use xlink:href="#SVGID_2_"  overflow="visible"/>
-		</clipPath>
-		<rect x="7.8871" y="8.0565" clip-path="url(#SVGID_4_)" fill="#FCEA2B" width="55.25" height="56"/>
-	</g>
-	<circle fill="none" stroke="#FCEA2B" stroke-miterlimit="10" cx="35.8871" cy="36.0565" r="23"/>
-	<circle fill="#FCEA2B" cx="35.8871" cy="36.0565" r="23"/>
-</g>
-<g id="hair">
-</g>
-<g id="skin">
-</g>
-<g id="skin-shadow">
-</g>
-<g id="line">
-	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.8871" cy="36.0565" r="23"/>
-	<circle cx="26.8225" cy="40.076" r="2.5556"/>
-	<circle cx="44.0725" cy="40.076" r="2.5556"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M26.0724,27.2509c6.574-3.5248,14.0454-3.6576,19.6295,0"/>
-</g>
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+  <g id="grid">
+    <path fill="#B3B3B3" d="M68,4v64H4V4H68 M72,0H0v72h72V0z"/>
+    <path fill="none" stroke="#00A5FF" stroke-width=".1" stroke-miterlimit="10" d="M12.923,10.9583h46.1539 c1.0621,0,1.9231,0.861,1.9231,1.9231v0v46.1538c0,1.0621-0.861,1.9231-1.9231,1.9231H12.9231 c-1.0621,0-1.9231-0.861-1.9231-1.9231l0,0V12.8813C11,11.8193,11.861,10.9583,12.923,10.9583L12.923,10.9583z"/>
+    <path fill="none" stroke="#00A5FF" stroke-width=".1" stroke-miterlimit="10" d="M18.2537,4h35.4926C54.991,4,56,5.009,56,6.2537 v59.4926C56,66.991,54.991,68,53.7463,68H18.2537C17.009,68,16,66.991,16,65.7463V6.2537C16,5.009,17.009,4,18.2537,4z"/>
+    <path fill="none" stroke="#00A5FF" stroke-width=".1" stroke-miterlimit="10" d="M68,18.2537v35.4926 C68,54.991,66.991,56,65.7463,56H6.2537C5.009,56,4,54.991,4,53.7463V18.2537C4,17.009,5.009,16,6.2537,16h59.4926 C66.991,16,68,17.009,68,18.2537z"/>
+    <circle fill="none" stroke="#00A5FF" stroke-width=".1" stroke-miterlimit="10" cx="36" cy="36" r="29"/>
+  </g>
+  <g id="color">
+    <g>
+      <defs>
+        <polygon id="SVGID_1_" points="1,1 2,1 1,2"/>
+      </defs>
+      <defs>
+        <polygon id="SVGID_2_" points="-1,-1 -2,-1 -1,-2"/>
+      </defs>
+      <clipPath id="SVGID_3_">
+        <use xlink:href="#SVGID_1_" overflow="visible"/>
+      </clipPath>
+      <clipPath id="SVGID_4_" clip-path="url(#SVGID_3_)">
+        <use xlink:href="#SVGID_2_" overflow="visible"/>
+      </clipPath>
+      <rect x="7.8871" y="8.0565" clip-path="url(#SVGID_4_)" fill="#FCEA2B" width="55.25" height="56"/>
+    </g>
+    <circle fill="none" stroke="#FCEA2B" stroke-miterlimit="10" cx="35.8871" cy="36.0565" r="23"/>
+    <circle fill="#FCEA2B" cx="35.8871" cy="36.0565" r="23"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.8871" cy="36.0565" r="23"/>
+    <circle cx="26.8225" cy="40.076" r="2.5556"/>
+    <circle cx="44.0725" cy="40.076" r="2.5556"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M26.0724,27.2509c6.574-3.5248,14.0454-3.6576,19.6295,0"/>
+  </g>
 </svg>

@@ -1,43 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="grid">
-	<path fill="#B3B3B3" d="M68,4v64H4V4H68 M72,0H0v72h72V0z"/>
-	<path fill="none" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10" d="M12.923,10.9583h46.1539
-		c1.0621,0,1.9231,0.861,1.9231,1.9231v0v46.1538c0,1.0621-0.861,1.9231-1.9231,1.9231H12.9231
-		c-1.0621,0-1.9231-0.861-1.9231-1.9231l0,0V12.8813C11,11.8193,11.861,10.9583,12.923,10.9583L12.923,10.9583z"/>
-	<path fill="none" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10" d="M18.2537,4h35.4926C54.991,4,56,5.009,56,6.2537
-		v59.4926C56,66.991,54.991,68,53.7463,68H18.2537C17.009,68,16,66.991,16,65.7463V6.2537C16,5.009,17.009,4,18.2537,4z"/>
-	<path fill="none" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10" d="M68,18.2537v35.4926
-		C68,54.991,66.991,56,65.7463,56H6.2537C5.009,56,4,54.991,4,53.7463V18.2537C4,17.009,5.009,16,6.2537,16h59.4926
-		C66.991,16,68,17.009,68,18.2537z"/>
-	<circle fill="none" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10" cx="36" cy="36" r="29"/>
-</g>
-<g id="color">
-	<polygon fill="#D0CFCE" points="58.0936,22.6076 35.6729,27.8442 13.9289,22.2732 35.6729,17.4173 	"/>
-	<polygon fill="#9B9B9A" points="58.2211,48.3473 36.0428,54.1045 35.6729,27.0042 58.1657,21.846 	"/>
-	<polygon fill="#D0CFCE" points="13.9856,47.957 35.7027,54.1045 35.6729,27.8442 22.6497,24.6986 13.9832,22.2957 	"/>
-</g>
-<g id="hair">
-</g>
-<g id="skin">
-</g>
-<g id="skin-shadow">
-</g>
-<g id="line">
-	
-		<polyline fill="none" stroke="#000000" stroke-width="2.069" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		35.6352,54.0172 57.4698,48.7313 57.4698,21.7647 35.6167,26.5155 13.7667,21.7647 13.7667,48.7313 35.6013,54.0172 
-		35.6013,30.3713 	"/>
-	
-		<polyline fill="none" stroke="#000000" stroke-width="2.069" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		13.7667,21.7647 35.8082,16.4545 57.4698,21.7647 	"/>
-	<circle cx="21.2735" cy="32.9339" r="3"/>
-	<circle cx="27.2446" cy="44.3761" r="3"/>
-	<circle cx="41.767" cy="45.2211" r="3"/>
-	<circle cx="46.8274" cy="38.0668" r="3"/>
-	<circle cx="51.8878" cy="30.9124" r="3"/>
-	<ellipse cx="35.8312" cy="21.1219" rx="4" ry="1.6191"/>
-</g>
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+  <g id="grid">
+    <path fill="#B3B3B3" d="M68,4v64H4V4H68 M72,0H0v72h72V0z"/>
+    <path fill="none" stroke="#00A5FF" stroke-width=".1" stroke-miterlimit="10" d="M12.923,10.9583h46.1539 c1.0621,0,1.9231,0.861,1.9231,1.9231v0v46.1538c0,1.0621-0.861,1.9231-1.9231,1.9231H12.9231 c-1.0621,0-1.9231-0.861-1.9231-1.9231l0,0V12.8813C11,11.8193,11.861,10.9583,12.923,10.9583L12.923,10.9583z"/>
+    <path fill="none" stroke="#00A5FF" stroke-width=".1" stroke-miterlimit="10" d="M18.2537,4h35.4926C54.991,4,56,5.009,56,6.2537 v59.4926C56,66.991,54.991,68,53.7463,68H18.2537C17.009,68,16,66.991,16,65.7463V6.2537C16,5.009,17.009,4,18.2537,4z"/>
+    <path fill="none" stroke="#00A5FF" stroke-width=".1" stroke-miterlimit="10" d="M68,18.2537v35.4926 C68,54.991,66.991,56,65.7463,56H6.2537C5.009,56,4,54.991,4,53.7463V18.2537C4,17.009,5.009,16,6.2537,16h59.4926 C66.991,16,68,17.009,68,18.2537z"/>
+    <circle fill="none" stroke="#00A5FF" stroke-width=".1" stroke-miterlimit="10" cx="36" cy="36" r="29"/>
+  </g>
+  <g id="color">
+    <polygon fill="#D0CFCE" points="58.0936,22.6076 35.6729,27.8442 13.9289,22.2732 35.6729,17.4173"/>
+    <polygon fill="#9B9B9A" points="58.2211,48.3473 36.0428,54.1045 35.6729,27.0042 58.1657,21.846"/>
+    <polygon fill="#D0CFCE" points="13.9856,47.957 35.7027,54.1045 35.6729,27.8442 22.6497,24.6986 13.9832,22.2957"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <polyline fill="none" stroke="#000000" stroke-width="2.069" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="35.6352,54.0172 57.4698,48.7313 57.4698,21.7647 35.6167,26.5155 13.7667,21.7647 13.7667,48.7313 35.6013,54.0172 35.6013,30.3713"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2.069" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="13.7667,21.7647 35.8082,16.4545 57.4698,21.7647"/>
+    <circle cx="21.2735" cy="32.9339" r="3"/>
+    <circle cx="27.2446" cy="44.3761" r="3"/>
+    <circle cx="41.767" cy="45.2211" r="3"/>
+    <circle cx="46.8274" cy="38.0668" r="3"/>
+    <circle cx="51.8878" cy="30.9124" r="3"/>
+    <ellipse cx="35.8312" cy="21.1219" rx="4" ry="1.6191"/>
+  </g>
 </svg>
