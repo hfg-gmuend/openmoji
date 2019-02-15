@@ -1,14 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  <title>1F317</title>
   <g id="emoji">
     <g id="color">
-      <path d="M21.5485,30.1243a1.5009,1.5009,0,0,0,0-3,1.5009,1.5009,0,0,0,0,3Z" fill="#fcea2b"></path>
-      <path d="M8,36A28,28,0,0,0,36,64V8A28,28,0,0,0,8,36Z" fill="#fcea2b" stroke="#fcea2b" stroke-linecap="round" stroke-linejoin="round"></path>
-      <path d="M64,36A28,28,0,0,0,36,8V64A28,28,0,0,0,64,36Z" fill="#3f3f3f" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+      <path d="M21.5485,30.1243a1.5009,1.5009,0,0,0,0-3,1.5009,1.5009,0,0,0,0,3Z" fill="#fcea2b"/>
+      <path d="M8,36A28,28,0,0,0,36,64V8A28,28,0,0,0,8,36Z" fill="#fcea2b" stroke="#fcea2b" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M64,36A28,28,0,0,0,36,8V64A28,28,0,0,0,64,36Z" fill="#3f3f3f" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     </g>
     <g id="line">
-      <circle cx="36" cy="36" r="28" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
-      <path d="M8,36A28,28,0,0,0,36,64V8A28,28,0,0,0,8,36Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+      <circle cx="36" cy="36" r="28" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M8,36A28,28,0,0,0,36,64V8A28,28,0,0,0,8,36Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     </g>
   </g>
 </svg>

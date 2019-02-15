@@ -1,0 +1,12 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <polyline points="8.406 63.629 21.46 44.389 31.209 37.155 37.472 38.628 42.788 37.155 47.916 43.567 56.263 49.391 62.619 63.779" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="25.377 41.481 27.031 45.012 25.417 51.296 26.333 58.609" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="47.916 43.567 44.411 49.646 47.527 52.151 45.854 57.324" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M32.952,23.7506a5.6368,5.6368,0,0,0-.2644,9.5271" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M44.4923,10.9711a4.3859,4.3859,0,0,0-8.6582-.9971,5.9116,5.9116,0,0,0-9.1162,1.5535,4.5489,4.5489,0,0,0-7.7,3.2892" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M56.0646,22.0283a5.0642,5.0642,0,0,0-7.8906-4.2022" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M38.5432,33.5448a5.6492,5.6492,0,0,0,2.8056-3.7577,7.8122,7.8122,0,0,0,5.8059-3.5711" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M32.8723,20.6177A7.8234,7.8234,0,0,1,47.4982,18.371" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

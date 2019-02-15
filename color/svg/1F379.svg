@@ -1,26 +1,20 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  <g id="color">
-    <path fill="#FCEA2B" d="M55.9612,33c-0.0609-2.0746-0.3269-4.0765-0.7373-6H16.7737c-0.4103,1.9233-0.6752,3.9257-0.736,6H16
-		c0,0.212,0.009,0.4215,0.0139,0.6321C16.0126,33.7559,16,33.8759,16,34.0001h0.022C16.4778,46.2382,25.2458,56,36,56
-		s19.5222-9.7618,19.978-21.9999H56c0-0.1219-0.0127-0.2397-0.014-0.3613C55.991,33.426,56,33.2142,56,33H55.9612z" stroke="none"></path>
-    <path fill="#F1B31C" d="M56,33h-0.0388c-0.0609-2.0746-0.3269-4.0765-0.7373-6h-13c0.4104,1.9235,0.6764,3.9254,0.7373,6H43
-		c0,0.2142-0.009,0.426-0.014,0.6388C42.9873,33.7604,43,33.8781,43,34.0001h-0.022c-0.3594,9.6478-5.8862,17.7524-13.478,20.7528
-		C31.5383,55.5584,33.7239,56,36,56c10.7542,0,19.5222-9.7618,19.978-21.9999H56c0-0.1219-0.0127-0.2397-0.014-0.3613
-		C55.991,33.426,56,33.2142,56,33z" stroke="none"></path>
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+  <g id="line-supplement">
+    <line id="xx" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="16.9" y1="28" x2="55.2" y2="28"/>
   </g>
-  <g id="hair"> </g>
-  <g id="skin"> </g>
-  <g id="skin-shadow"> </g>
+  <g id="color">
+    <path fill="#FCEA2B" d="M56,33c-0.1-2.1-0.3-4.1-0.7-6H16.8c-0.4,1.9-0.7,3.9-0.7,6l0,0c0,0.2,0,0.4,0,0.6c0,0.1,0,0.2,0,0.4l0,0 c0.5,12.2,9.2,22,20,22s19.5-9.8,20-22l0,0c0-0.1,0-0.2,0-0.4C56,33.4,56,33.2,56,33L56,33z"/>
+    <path fill="#F1B31C" d="M56,33L56,33c-0.1-2.1-0.4-4.1-0.8-6h-13c0.4,1.9,0.7,3.9,0.7,6l0,0c0,0.2,0,0.4,0,0.6c0,0.1,0,0.2,0,0.4 l0,0c-0.4,9.6-5.9,17.8-13.5,20.8c2,0.8,4.2,1.2,6.5,1.2c10.8,0,19.5-9.8,20-22l0,0c0-0.1,0-0.2,0-0.4C56,33.4,56,33.2,56,33z"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
   <g id="line">
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36" y1="56" x2="36" y2="67"></line>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="20" y1="67" x2="52" y2="67"></line>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M56,33c0,12.7025-8.9543,23-20,23
-			S16,45.7025,16,33"></path>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M50.1421,15.6152C53.7614,20.3203,56,26.8203,56,34.0001"></path>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M16,34.0001c0-6.9766,2.1137-13.3114,5.554-17.9812"></path>
-    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		43,24 43,11 50,4 	"></polyline>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36" y1="56" x2="36" y2="67"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="20" y1="67" x2="52" y2="67"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M56,33c0,12.7-9,23-20,23S16,45.7,16,33"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M50.1,15.6C53.8,20.3,56,26.8,56,34"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M16,34c0-7,2.1-13.3,5.6-18"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="43,24 43,11 50,4"/>
   </g>
 </svg>

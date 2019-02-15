@@ -1,19 +1,18 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="line">
-    <rect x="13" y="32" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="46" height="26"></rect>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M21,55h-1c-1.6569,0-3-1.3431-3-3V38c0-1.6569,1.3431-3,3-3h1c1.6569,0,3,1.3431,3,3v14C24,53.6569,22.6569,55,21,55z"></path>
-    <rect x="17" y="13" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="38" height="19"></rect>
-    <rect x="29" y="17" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="22" height="15"></rect>
-    <circle cx="29" cy="39" r="2" fill="#000000" stroke="none"></circle>
-    <circle cx="35" cy="39" r="2" fill="#000000" stroke="none"></circle>
-    <circle cx="41" cy="39" r="2" fill="#000000" stroke="none"></circle>
-    <circle cx="29" cy="45" r="2" fill="#000000" stroke="none"></circle>
-    <circle cx="35" cy="45" r="2" fill="#000000" stroke="none"></circle>
-    <circle cx="41" cy="45" r="2" fill="#000000" stroke="none"></circle>
-    <circle cx="29" cy="51" r="2" fill="#000000" stroke="none"></circle>
-    <circle cx="35" cy="51" r="2" fill="#000000" stroke="none"></circle>
-    <circle cx="41" cy="51" r="2" fill="#000000" stroke="none"></circle>
-    <rect x="46" y="37" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="9" height="8"></rect>
+    <rect x="13" y="32" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="46" height="26"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M21,55h-1c-1.6569,0-3-1.3431-3-3V38c0-1.6569,1.3431-3,3-3h1c1.6569,0,3,1.3431,3,3v14C24,53.6569,22.6569,55,21,55z"/>
+    <rect x="17" y="13" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="38" height="19"/>
+    <rect x="29" y="17" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="22" height="15"/>
+    <circle cx="29" cy="39" r="2" fill="#000000" stroke="none"/>
+    <circle cx="35" cy="39" r="2" fill="#000000" stroke="none"/>
+    <circle cx="41" cy="39" r="2" fill="#000000" stroke="none"/>
+    <circle cx="29" cy="45" r="2" fill="#000000" stroke="none"/>
+    <circle cx="35" cy="45" r="2" fill="#000000" stroke="none"/>
+    <circle cx="41" cy="45" r="2" fill="#000000" stroke="none"/>
+    <circle cx="29" cy="51" r="2" fill="#000000" stroke="none"/>
+    <circle cx="35" cy="51" r="2" fill="#000000" stroke="none"/>
+    <circle cx="41" cy="51" r="2" fill="#000000" stroke="none"/>
+    <rect x="46" y="37" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="9" height="8"/>
   </g>
 </svg>

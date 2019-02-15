@@ -1,7 +1,13 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+  <g id="line-supplement">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36" y1="4.2" x2="36" y2="67.7"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="38.9" y1="35.9" x2="33.1" y2="35.9"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="38.9" y1="30.9" x2="33.1" y2="30.9"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="38.9" y1="40.9" x2="33.1" y2="40.9"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="25.6" y1="58.6" x2="46.5" y2="58.6"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="23.6" y1="16" x2="48.4" y2="16"/>
+  </g>
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M35.9315,4c-10.9644,6.4093-18.33,18.3059-18.33,31.9227c0,13.6452,7.3963,25.5629,18.3985,31.9626h0.0685
-		c10.9644-6.4093,18.33-18.3059,18.33-31.9227C54.3985,22.3174,47.0022,10.3998,36,4"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M35.9,4c-11,6.4-18.3,18.3-18.3,31.9S25,61.5,36,67.9h0.1C47,61.5,54.4,49.6,54.4,36C54.4,22.3,47,10.4,35.9,4"/>
   </g>
 </svg>

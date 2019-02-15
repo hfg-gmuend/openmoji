@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  <title>2198</title>
-  <g id="emoji">
-    <g id="color">
-      <polygon id="_" data-name="➡️" points="32.333 54.988 56.587 55.907 55.668 31.653 50.082 31.865 50.577 46.078 19.322 14.823 15.433 18.713 46.688 49.967 32.475 49.472 32.333 54.988" fill="#3f3f3f"></polygon>
-    </g>
-    <g id="line">
-      <polygon id="_2" data-name="➡️" points="32.333 54.988 56.587 55.907 55.668 31.653 50.082 31.865 50.577 46.078 19.322 14.823 15.433 18.713 46.688 49.967 32.475 49.472 32.333 54.988" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></polygon>
-    </g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="color">
+    <polygon id="_x2198__xFE0F__1_" fill="#3F3F3F" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="57.4658,34.702 58.3629,58.9309 34.134,58.0338 34.3399,52.4758 48.4998,53.0004 12.6073,17.1079 16.5399,13.1753 52.4325,49.0678 51.9078,34.9079"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <polygon id="_x2198__xFE0F__1_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="57.4658,34.702 58.3629,58.9309 34.134,58.0338 34.3399,52.4758 48.4998,53.0004 12.6073,17.1079 16.5399,13.1753 52.4325,49.0678 51.9078,34.9079"/>
   </g>
 </svg>

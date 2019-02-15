@@ -1,11 +1,8 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="line">
-    <ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -14.9108 36.0019)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36.0005" cy="35.999" rx="10" ry="10"></ellipse>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="54" y1="54" x2="67" y2="67"></line>
-    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		19.1699,36.042 15.043,15.0425 36.0439,19.1704 	"></polygon>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M39.6855,55.3848c1.2901,1.289,2.8448,2.1445,4.4883,2.582l13.8965-13.8965c-0.4385-1.6426-1.292-3.1992-2.581-4.4883
-		C54.1992,38.291,52.6436,37.4375,51,37L37.1035,50.8965C37.542,52.5391,38.3965,54.0957,39.6855,55.3848z"></path>
+    <ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -14.9108 36.0019)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36.0005" cy="35.999" rx="10" ry="10"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="54" y1="54" x2="67" y2="67"/>
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="19.1699,36.042 15.043,15.0425 36.0439,19.1704"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M39.6855,55.3848c1.2901,1.289,2.8448,2.1445,4.4883,2.582l13.8965-13.8965c-0.4385-1.6426-1.292-3.1992-2.581-4.4883 C54.1992,38.291,52.6436,37.4375,51,37L37.1035,50.8965C37.542,52.5391,38.3965,54.0957,39.6855,55.3848z"/>
   </g>
 </svg>

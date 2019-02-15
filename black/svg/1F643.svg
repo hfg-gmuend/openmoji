@@ -1,12 +1,8 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
   <g id="line">
-    <polygon id="SVGID_1_" points="35.8871,59.0565 44.5169,57.3768 49.8167,54.3563 54.7074,49.2772 58.1371,41.9266 
-				58.1371,29.5868 52.5375,20.1864 44.5169,14.7362 35.8871,13.0565 28.7074,14.2069 20.9974,18.5369 15.8871,24.6961 
-				12.8871,33.9061 13.6371,41.8866 17.4466,49.7967 21.6566,54.117 28.9066,57.9764 			" fill="#000000" stroke="none"></polygon>
-    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.8871" cy="36.0565" r="23"></circle>
-    <circle cx="26.8225" cy="40.076" r="2.5556" fill="#000000" stroke="none"></circle>
-    <circle cx="44.0725" cy="40.076" r="2.5556" fill="#000000" stroke="none"></circle>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M26.0724,27.2509c6.574-3.5248,14.0454-3.6576,19.6295,0"></path>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.8871" cy="36.0565" r="23"/>
+    <circle cx="26.8225" cy="40.076" r="2.5556"/>
+    <circle cx="44.0725" cy="40.076" r="2.5556"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M26.0724,27.2509c6.574-3.5248,14.0454-3.6576,19.6295,0"/>
   </g>
 </svg>

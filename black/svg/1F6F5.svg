@@ -1,23 +1,15 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="line">
-    <ellipse transform="matrix(0.9997 -0.0233 0.0233 0.9997 -1.1828 0.3907)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="16.1562" cy="50.8929" rx="5.4763" ry="5.4764"></ellipse>
-    <circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="51.3977" cy="50.893" r="5.4764"></circle>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M26.2624,50.7765c-0.0016-0.4688-0.0365-0.9374-0.1044-1.4022c-0.2986-2.0411-1.2365-4.0074-2.8138-5.5781
-		c-3.8908-3.8746-10.1993-3.8746-14.0904,0.0001"></path>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M61.6972,50.7765c0-5.4798-4.4421-9.9218-9.9218-9.9218c-5.4795,0-9.9216,4.442-9.9216,9.9218"></path>
-    <rect x="40.4364" y="29.5156" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="18.4261" height="5.6695"></rect>
-    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		14.9234,40.8547 23.4277,23.846 29.0973,23.846 	"></polyline>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="26.2624" y1="50.8929" x2="41.8538" y2="50.8928"></line>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M40.4364,35.1851c0,0-5.6696,21.2609-17.0087,0"></path>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M59.9021,43.3186"></path>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M58.8625,35.1851"></path>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M58.8625,35.1851c0,0,4.2521,7.0871,2.8347,15.5914"></path>
+    <ellipse transform="matrix(0.9997 -0.0233 0.0233 0.9997 -1.1828 0.3907)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="16.1562" cy="50.8929" rx="5.4763" ry="5.4764"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="51.3977" cy="50.893" r="5.4764"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M26.2624,50.7765c-0.0016-0.4688-0.0365-0.9374-0.1044-1.4022c-0.2986-2.0411-1.2365-4.0074-2.8138-5.5781 c-3.8908-3.8746-10.1993-3.8746-14.0904,0.0001"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M61.6972,50.7765c0-5.4798-4.4421-9.9218-9.9218-9.9218c-5.4795,0-9.9216,4.442-9.9216,9.9218"/>
+    <rect x="40.4364" y="29.5156" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="18.4261" height="5.6695"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="14.9234,40.8547 23.4277,23.846 29.0973,23.846"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="26.2624" y1="50.8929" x2="41.8538" y2="50.8928"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M40.4364,35.1851c0,0-5.6696,21.2609-17.0087,0"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M59.9021,43.3186"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M58.8625,35.1851"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M58.8625,35.1851c0,0,4.2521,7.0871,2.8347,15.5914"/>
   </g>
 </svg>

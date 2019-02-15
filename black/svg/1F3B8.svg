@@ -1,25 +1,11 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M34.02,40.1638"></path>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M34.02,40.1638"></path>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M34.02,40.1638"></path>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="20.8988" y1="46.9101" x2="23.2618" y2="49.1996"></line>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M52.3386,22.2637c0,0,1.3423-0.0178,2.2362-0.5799c0.8941-0.562,1.0716-1.066,1.0637-1.542s0.7356-2.3263,2.3062-2.7289
-			c1.5708-0.4028,2.4877-1.2997,2.128-2.2506c-0.3598-0.9508-2.1142-0.6964-2.5538-0.6898
-			c-0.4397,0.0066-3.1881,1.6713-3.1881,1.6713s-3.5106,2.3476-3.9665,2.9203c-0.4557,0.5728-0.5206,1.0193-0.5206,1.0193
-			L26.2045,43.1537"></path>
-    <ellipse transform="matrix(0.9999 -0.0158 0.0158 0.9999 -0.751 0.3649)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="22.7523" cy="47.7785" rx="5.4696" ry="5.4697"></ellipse>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M30.1674,38.3398c-0.6184-1.6047-0.6911-3.4291-0.0767-5.1788c0.8444-2.4046,3.2143-5.4706,3.2061-5.5286
-			c-0.036-0.2561-2.4648-0.6658-4.0754,1.2156c-1.6106,1.8814-1.9747,3.5723-2.4923,4.7953
-			c-0.5176,1.223-0.6392,1.4866-1.4695,2.7743c-0.7821,1.2129-2.3485,2.2248-3.7112,2.4143
-			c-1.3627,0.1894-3.5669,0.6275-6.2429,2.6452c-3.1998,2.4126-5.3398,8.5125-1.546,13.664
-			c1.7344,2.355,6.314,5.2555,11.4299,3.3176c3.7656-1.4265,5.0953-3.635,5.5126-4.6436c0.5701-1.378,0.8892-3.167,0.9549-3.6356
-			c0.1095-0.7806-0.0477-1.6554,1.7554-2.3604c1.8031-0.7051,3.987-1.7099,4.5698-2.3949c0.6572-0.7728,0.7207-1.5145,0.4697-2.1736
-			c-0.1366,0.0216-1.1682,0.3697-3.1645-0.0969c-1.9963-0.4665-2.0687-1.1225-2.3125-1.2866"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M34.02,40.1638"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M34.02,40.1638"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M34.02,40.1638"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="20.8988" y1="46.9101" x2="23.2618" y2="49.1996"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M52.3386,22.2637c0,0,1.3423-0.0178,2.2362-0.5799c0.8941-0.562,1.0716-1.066,1.0637-1.542s0.7356-2.3263,2.3062-2.7289 c1.5708-0.4028,2.4877-1.2997,2.128-2.2506c-0.3598-0.9508-2.1142-0.6964-2.5538-0.6898 c-0.4397,0.0066-3.1881,1.6713-3.1881,1.6713s-3.5106,2.3476-3.9665,2.9203c-0.4557,0.5728-0.5206,1.0193-0.5206,1.0193 L26.2045,43.1537"/>
+    <ellipse transform="matrix(0.9999 -0.0158 0.0158 0.9999 -0.751 0.3649)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="22.7523" cy="47.7785" rx="5.4696" ry="5.4697"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M30.1674,38.3398c-0.6184-1.6047-0.6911-3.4291-0.0767-5.1788c0.8444-2.4046,3.2143-5.4706,3.2061-5.5286 c-0.036-0.2561-2.4648-0.6658-4.0754,1.2156c-1.6106,1.8814-1.9747,3.5723-2.4923,4.7953 c-0.5176,1.223-0.6392,1.4866-1.4695,2.7743c-0.7821,1.2129-2.3485,2.2248-3.7112,2.4143 c-1.3627,0.1894-3.5669,0.6275-6.2429,2.6452c-3.1998,2.4126-5.3398,8.5125-1.546,13.664 c1.7344,2.355,6.314,5.2555,11.4299,3.3176c3.7656-1.4265,5.0953-3.635,5.5126-4.6436c0.5701-1.378,0.8892-3.167,0.9549-3.6356 c0.1095-0.7806-0.0477-1.6554,1.7554-2.3604c1.8031-0.7051,3.987-1.7099,4.5698-2.3949c0.6572-0.7728,0.7207-1.5145,0.4697-2.1736 c-0.1366,0.0216-1.1682,0.3697-3.1645-0.0969c-1.9963-0.4665-2.0687-1.1225-2.3125-1.2866"/>
   </g>
 </svg>

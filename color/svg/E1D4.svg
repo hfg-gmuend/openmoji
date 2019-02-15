@@ -1,0 +1,20 @@
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+  <g id="color">
+    <line fill="none" stroke="#E27022" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="16" y1="36" x2="11" y2="36"/>
+    <line fill="none" stroke="#E27022" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="61" y1="36" x2="56" y2="36"/>
+    <rect x="16" y="35.94" fill="#D22F27" width="40" height="4.06"/>
+    <rect x="16" y="32" fill="#EA5A47" width="40" height="4"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <rect x="16" y="32" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="40" height="8"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="16" y1="36" x2="11" y2="36"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="61" y1="36" x2="56" y2="36"/>
+  </g>
+  <g id="color-foreground">
+    <path fill="#E27022" d="M15,37.0498h-4c-0.5801,0-1.0498-0.4697-1.0498-1.0498S10.4199,34.9502,11,34.9502h4"/>
+    <path fill="#E27022" d="M57,34.9502h4c0.5801,0,1.0498,0.4697,1.0498,1.0498S61.5801,37.0498,61,37.0498h-4"/>
+  </g>
+</svg>

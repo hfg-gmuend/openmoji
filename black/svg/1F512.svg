@@ -1,12 +1,8 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="line">
-    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		53,32.25 54.875,32.25 54.875,59.125 16.875,59.125 16.875,32.25 18.75,32.25 	"></polygon>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M21.3751,28.9146c0-8.3786,6.4151-16.2744,14.3184-16.523c7.9697-0.2507,15.4098,7.2847,14.7416,16.523"></path>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M25.5478,28.9146c0-6.3352,4.5755-12.3054,10.2123-12.4934c5.6843-0.1896,10.9908,5.5081,10.5142,12.4934"></path>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M46.3042,29.9146"></path>
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="53,32.25 54.875,32.25 54.875,59.125 16.875,59.125 16.875,32.25 18.75,32.25"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M21.3751,28.9146c0-8.3786,6.4151-16.2744,14.3184-16.523c7.9697-0.2507,15.4098,7.2847,14.7416,16.523"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M25.5478,28.9146c0-6.3352,4.5755-12.3054,10.2123-12.4934c5.6843-0.1896,10.9908,5.5081,10.5142,12.4934"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M46.3042,29.9146"/>
   </g>
 </svg>

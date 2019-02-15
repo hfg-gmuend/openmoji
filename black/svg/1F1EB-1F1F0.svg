@@ -1,0 +1,12 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 72 72">
+  <defs>
+    <linearGradient id="Unbenannter_Verlauf" data-name="Unbenannter Verlauf" x1="43.5342" y1="40.5" x2="51" y2="40.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf-2" x1="-2465.9315" y1="40.5" x2="-2458.4658" y2="40.5" gradientTransform="matrix(-1, 0, 0, 1, -2407.4658, 0)" xlink:href="#Unbenannter_Verlauf"/>
+  </defs>
+  <g id="line">
+    <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

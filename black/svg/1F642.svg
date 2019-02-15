@@ -1,12 +1,8 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
   <g id="line">
-    <polygon id="SVGID_1_" points="35.8871,13.0565 27.2573,14.7362 21.9575,17.7567 17.0668,22.8358 13.6371,30.1864 
-				13.6371,42.5262 19.2367,51.9266 27.2573,57.3768 35.8871,59.0565 43.0668,57.9061 50.7768,53.5761 55.8871,47.4169 
-				58.8871,38.2069 58.1371,30.2264 54.3276,22.3163 50.1176,17.996 42.8676,14.1366 			" fill="#000000" stroke="none"></polygon>
-    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.8871" cy="36.0565" r="23"></circle>
-    <circle cx="44.0629" cy="32.037" r="2.5556" fill="#000000" stroke="none"></circle>
-    <circle cx="26.8129" cy="32.037" r="2.5556" fill="#000000" stroke="none"></circle>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M45.7019,44.862c-6.574,3.5248-14.0454,3.6576-19.6295,0"></path>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.8871" cy="36.0565" r="23"/>
+    <circle cx="44.0629" cy="32.037" r="2.5556"/>
+    <circle cx="26.8129" cy="32.037" r="2.5556"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M45.7019,44.862c-6.574,3.5248-14.0454,3.6576-19.6295,0"/>
   </g>
 </svg>

@@ -1,0 +1,26 @@
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" style="enable-background:new 0 0 72 72" xml:space="preserve">
+  <style type="text/css">
+    .st1{fill:none;stroke:#00A5FF;stroke-width:0.1;stroke-miterlimit:10}.st6{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+  </style>
+  <g id="line-supplement">
+    <polyline points="33.2,33.2 48,24 38.8,38.8"/>
+  </g>
+  <g id="color">
+    <circle cx="36" cy="36" r="24" style="fill:#FCEA2B"/>
+    <path d="M53,19c4.3,4.3,7,10.3,7,17c0,13.3-10.7,24-24,24c-6.6,0-12.6-2.7-17-7" style="fill:#F1B31C"/>
+    <polyline points="33.2,33.2 24,48 38.8,38.8" style="fill:#FFFFFF"/>
+    <polyline points="33.2,33.2 48,24 38.8,38.8" style="fill:#EA5A47"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <circle class="st6" cx="36" cy="36" r="24"/>
+    <polyline class="st6" points="33.2,33.2 24,48 38.8,38.8"/>
+    <polyline class="st6" points="33.2,33.2 48,24 38.8,38.8"/>
+    <line class="st6" x1="36" y1="21" x2="36" y2="16"/>
+    <line class="st6" x1="36" y1="56" x2="36" y2="51"/>
+    <line class="st6" x1="51" y1="36" x2="56" y2="36"/>
+    <line class="st6" x1="16" y1="36" x2="21" y2="36"/>
+  </g>
+</svg>

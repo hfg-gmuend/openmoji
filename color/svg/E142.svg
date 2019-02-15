@@ -1,0 +1,19 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="color">
+    <rect x="6" y="41" fill="#B1CC33" width="60" height="13" stroke="none"/>
+    <polygon fill="#5C9E31" points="42,41 66,41 66,54 31,54" stroke="none"/>
+    <rect x="6" y="18" fill="#92D3F5" width="60" height="23" stroke="none"/>
+    <polygon fill="#61B2E4" points="61,18 66,18 66,41 42,41" stroke="none"/>
+    <polygon fill="#D0CFCE" points="22,43 33,32 44,43" stroke="none"/>
+    <polygon fill="#D0CFCE" points="28.5464,43.0464 45.0464,26.5464 60.75,42.25" stroke="none"/>
+    <path fill="#9b9b9a" stroke="#9b9b9a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M40.3077,43"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <rect x="6" y="18" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="60" height="36"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="44,43 22,43 33,32 39.9976,38.9976"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="39.7969,33.2031 45,28 60,43 43.9995,43"/>
+  </g>
+</svg>

@@ -1,13 +1,10 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="line">
-    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36" r="29"></circle>
-    <circle cx="26.2456" cy="33.789" r="3" fill="#000000" stroke="none"></circle>
-    <circle cx="42.5544" cy="33.789" r="3" fill="#000000" stroke="none"></circle>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M43.6763,46.3816c-2.1347,1.5846-4.8139,2.5518-7.6766,2.5518c-2.9019,0-5.5262-0.9282-7.6759-2.5523"></path>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M31.7748,23.0042c0,0-4.7748-2.6003-9.5496,1.6523"></path>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M40.2252,23.0042c0,0,4.7748-2.6003,9.5496,1.6523"></path>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36" r="29"/>
+    <circle cx="26.2456" cy="33.789" r="3" fill="#000000" stroke="none"/>
+    <circle cx="42.5544" cy="33.789" r="3" fill="#000000" stroke="none"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M43.6763,46.3816c-2.1347,1.5846-4.8139,2.5518-7.6766,2.5518c-2.9019,0-5.5262-0.9282-7.6759-2.5523"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M31.7748,23.0042c0,0-4.7748-2.6003-9.5496,1.6523"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M40.2252,23.0042c0,0,4.7748-2.6003,9.5496,1.6523"/>
   </g>
 </svg>

@@ -1,19 +1,14 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M49.6856,11.9519h4.9838V63.973c0,1.6568-1.3431,3-3,3H19.82c-1.6569,0-3-1.3432-3-3V11.9519h4.6155"></path>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="50.797" y1="15.8454" x2="50.797" y2="54.9602"></line>
-    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			43.4175,56.3765 43.4175,54.9641 50.7959,54.9602 43.4356,61.4225 20.9001,61.4225 20.9001,15.8454 		"></polyline>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.5808" y1="22.6148" x2="37.3475" y2="22.6148"></line>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.5808" y1="26.6148" x2="41.5632" y2="26.6148"></line>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.5808" y1="30.6148" x2="44.781" y2="30.6148"></line>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.5808" y1="34.6148" x2="38.1335" y2="34.6148"></line>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.5808" y1="38.6148" x2="40.9916" y2="38.6148"></line>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.5808" y1="42.6148" x2="31.7029" y2="42.6148"></line>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M42.2763,10.9439h-3.7961c0.1302-0.3182,0.2034-0.666,0.2034-1.0311c0-1.5047-1.2199-2.7244-2.7247-2.7244
-			c-1.5046,0-2.7244,1.2197-2.7244,2.7244c0,0.3651,0.0729,0.7129,0.2033,1.0311h-4.0611c-2.367,0-4.286,1.9189-4.286,4.286h21.4716
-			C46.5623,12.8628,44.6433,10.9439,42.2763,10.9439z"></path>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M49.6856,11.9519h4.9838V63.973c0,1.6568-1.3431,3-3,3H19.82c-1.6569,0-3-1.3432-3-3V11.9519h4.6155"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="50.797" y1="15.8454" x2="50.797" y2="54.9602"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="43.4175,56.3765 43.4175,54.9641 50.7959,54.9602 43.4356,61.4225 20.9001,61.4225 20.9001,15.8454"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.5808" y1="22.6148" x2="37.3475" y2="22.6148"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.5808" y1="26.6148" x2="41.5632" y2="26.6148"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.5808" y1="30.6148" x2="44.781" y2="30.6148"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.5808" y1="34.6148" x2="38.1335" y2="34.6148"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.5808" y1="38.6148" x2="40.9916" y2="38.6148"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.5808" y1="42.6148" x2="31.7029" y2="42.6148"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M42.2763,10.9439h-3.7961c0.1302-0.3182,0.2034-0.666,0.2034-1.0311c0-1.5047-1.2199-2.7244-2.7247-2.7244 c-1.5046,0-2.7244,1.2197-2.7244,2.7244c0,0.3651,0.0729,0.7129,0.2033,1.0311h-4.0611c-2.367,0-4.286,1.9189-4.286,4.286h21.4716 C46.5623,12.8628,44.6433,10.9439,42.2763,10.9439z"/>
   </g>
 </svg>

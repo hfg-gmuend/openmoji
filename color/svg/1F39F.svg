@@ -1,17 +1,15 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
   <g id="color">
-    <path fill="#D22F27" d="M57.6267,35.9457c-0.0004-4.9364,3.9277-9.1181,9.3725-10.6046l-0.0004-5.1856L4.9834,20.1601
-		l0.0004,5.4745c4.9379,1.6951,8.4047,5.6746,8.405,10.3144s-3.4659,8.6197-8.4035,10.3156l0.0004,5.4746l62.0155-0.0046
-		l-0.0004-5.1856C61.5558,45.0632,57.6271,40.8821,57.6267,35.9457z" stroke="none"></path>
-    <rect x="18.5077" y="25" fill="none" stroke="#FFFFFF" stroke-width="2.0945" stroke-miterlimit="10" width="34" height="20"></rect>
+    <path fill="#D22F27" d="M57.6,35.9c0-4.9,3.9-9.1,9.4-10.6v-5.2H5v5.5c4.9,1.7,8.4,5.7,8.4,10.3S9.9,44.6,5,46.3v5.5h62v-5.2 C61.6,45.1,57.6,40.9,57.6,35.9z"/>
   </g>
-  <g id="hair"> </g>
-  <g id="skin"> </g>
-  <g id="skin-shadow"> </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-width="2.2157" stroke-miterlimit="10" d="M57.1422,35.551
-		c-0.0004-4.9364,3.9277-9.1181,9.3725-10.6046l-0.0004-5.1856L4.4988,19.7654L4.4992,25.24
-		c4.9379,1.6951,8.4047,5.6746,8.405,10.3144S9.4384,44.174,4.5008,45.8699l0.0004,5.4746l62.0155-0.0046l-0.0004-5.1856
-		C61.0713,44.6685,57.1426,40.4874,57.1422,35.551z"></path>
+    <path fill="none" stroke="#000000" stroke-width="2.2157" stroke-linejoin="round" stroke-miterlimit="10" d="M57.1,35.6 c0-4.9,3.9-9.1,9.4-10.6v-5.2h-62v5.5c4.9,1.7,8.4,5.7,8.4,10.3s-3.5,8.6-8.4,10.3v5.5h62v-5.2C61.1,44.7,57.1,40.5,57.1,35.6z"/>
+    <rect x="18.5" y="25" fill="none" stroke="#000000" stroke-width="2.0945" stroke-linejoin="round" stroke-miterlimit="10" width="34" height="20"/>
+  </g>
+  <g id="color-foreground">
+    <rect x="18.5" y="25" fill="none" stroke="#FFFFFF" stroke-width="2.1" stroke-linejoin="round" stroke-miterlimit="10" width="34" height="20"/>
   </g>
 </svg>

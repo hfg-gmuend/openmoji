@@ -1,22 +1,15 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="color">
-    <polygon fill="#A57939" points="38.4652,25.4598 38.4363,43.5823 39.6387,47.2049 39.6136,62.911 38.4055,62.913 34.781,62.9187 
-		33.5728,62.9207 33.5978,47.2145 34.8118,43.5881 34.8407,25.4656 	" stroke="none"></polygon>
-    <polygon fill="#A57939" points="38.4557,8.996 38.4363,12.1543 34.8118,12.1543 34.8313,8.996 	" stroke="none"></polygon>
-    <path fill="#D0CFCE" d="M59.617,24.3273c-1.9746-4.6504-11.3497-8.173-22.617-8.173c-11.3723,0-20.8169,3.5885-22.6703,8.3033
-		l7.9638-1.5117c9.7199-1.845,19.6978-1.8706,29.4271-0.0755L59.617,24.3273z" stroke="none"></path>
+    <polygon fill="#A57939" points="38.4652,25.4598 38.4363,43.5823 39.6387,47.2049 39.6136,62.911 38.4055,62.913 34.781,62.9187 33.5728,62.9207 33.5978,47.2145 34.8118,43.5881 34.8407,25.4656" stroke="none"/>
+    <polygon fill="#A57939" points="38.4557,8.996 38.4363,12.1543 34.8118,12.1543 34.8313,8.996" stroke="none"/>
+    <path fill="#D0CFCE" d="M59.617,24.3273c-1.9746-4.6504-11.3497-8.173-22.617-8.173c-11.3723,0-20.8169,3.5885-22.6703,8.3033 l7.9638-1.5117c9.7199-1.845,19.6978-1.8706,29.4271-0.0755L59.617,24.3273z" stroke="none"/>
   </g>
-  <g id="hair"> </g>
-  <g id="skin"> </g>
-  <g id="skin-shadow"> </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
   <g id="line">
-    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			38.4652,25.212 38.4363,43.3345 39.6387,46.957 39.6136,62.6632 38.4055,62.6651 34.781,62.6709 33.5728,62.6728 33.5978,46.9667 
-			34.8118,43.3402 34.8407,25.2178 		"></polygon>
-    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			38.4557,8.7481 38.4363,11.9064 34.8118,11.9064 34.8313,8.7481 		"></polygon>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M59.617,24.0795c-1.9746-4.6504-11.3497-8.173-22.617-8.173c-11.3723,0-20.8169,3.5885-22.6703,8.3033l7.9638-1.5117
-			c9.7199-1.845,19.6978-1.8706,29.4271-0.0755L59.617,24.0795z"></path>
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="38.4652,25.212 38.4363,43.3345 39.6387,46.957 39.6136,62.6632 38.4055,62.6651 34.781,62.6709 33.5728,62.6728 33.5978,46.9667 34.8118,43.3402 34.8407,25.2178"/>
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="38.4557,8.7481 38.4363,11.9064 34.8118,11.9064 34.8313,8.7481"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M59.617,24.0795c-1.9746-4.6504-11.3497-8.173-22.617-8.173c-11.3723,0-20.8169,3.5885-22.6703,8.3033l7.9638-1.5117 c9.7199-1.845,19.6978-1.8706,29.4271-0.0755L59.617,24.0795z"/>
   </g>
 </svg>

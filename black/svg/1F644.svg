@@ -1,15 +1,10 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
   <g id="line">
-    <circle id="SVGID_1_" cx="36" cy="36.5991" r="23" fill="#000000" stroke="none"></circle>
-    <circle id="SVGID_3_" cx="46" cy="32.5991" r="6.5" fill="#000000" stroke="none"></circle>
-    <circle id="SVGID_5_" cx="46.0556" cy="28.5991" r="2.5556" fill="#000000" stroke="none"></circle>
-    <rect x="37.1111" y="19.6547" clip-path="url(#SVGID_6_)" width="17.8889" height="17.8889" fill="#000000" stroke="none"></rect>
-    <circle id="SVGID_7_" cx="26" cy="32.5991" r="6.5" fill="#000000" stroke="none"></circle>
-    <circle id="SVGID_9_" cx="26.0556" cy="28.5991" r="2.5556" fill="#000000" stroke="none"></circle>
-    <rect x="17.1111" y="19.6547" clip-path="url(#SVGID_10_)" width="17.8889" height="17.8889" fill="#000000" stroke="none"></rect>
-    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36.5991" r="23"></circle>
-    <circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="46" cy="32.5991" r="6.5"></circle>
-    <circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="26" cy="32.5991" r="6.5"></circle>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="31" y1="50.0958" x2="41" y2="50.0958"></line>
+    <circle id="SVGID_5_" cx="46.0556" cy="28.5991" r="2.5556"/>
+    <circle id="SVGID_9_" cx="26.0556" cy="28.5991" r="2.5556"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36.5991" r="23"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="46" cy="32.5991" r="6.5"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="26" cy="32.5991" r="6.5"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="31" y1="50.0958" x2="41" y2="50.0958"/>
   </g>
 </svg>

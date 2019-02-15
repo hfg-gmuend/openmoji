@@ -1,17 +1,13 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
   <g id="color">
-    <rect x="8.3623" y="7.9539" clip-path="url(#SVGID_2_)" fill="#FCEA2B" width="55.25" height="56" stroke="none"></rect>
-    <circle fill="none" stroke="#fcea2b" stroke-miterlimit="10" cx="35.6123" cy="35.9539" r="23"></circle>
+    <circle fill="#FCEA2B" cx="35.6123" cy="35.9539" r="23"/>
   </g>
-  <g id="hair"> </g>
-  <g id="skin"> </g>
-  <g id="skin-shadow"> </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
   <g id="line">
-    <polygon id="SVGID_1_" points="35.6123,12.9539 26.9825,14.6336 21.6827,17.6541 16.792,22.7332 13.3623,30.0838 
-				13.3623,42.4236 18.9619,51.824 26.9825,57.2742 35.6123,58.9539 42.792,57.8035 50.502,53.4735 55.6123,47.3143 
-				58.6123,38.1043 57.8623,30.1238 54.0528,22.2137 49.8428,17.8934 42.5928,14.034 			" fill="#000000" stroke="none"></polygon>
-    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.6123" cy="35.9539" r="23"></circle>
-    <circle cx="43.788" cy="31.9344" r="2.5556" fill="#000000" stroke="none"></circle>
-    <circle cx="26.538" cy="31.9344" r="2.5556" fill="#000000" stroke="none"></circle>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.6123" cy="35.9539" r="23"/>
+    <circle cx="43.788" cy="31.9344" r="2.5556"/>
+    <circle cx="26.538" cy="31.9344" r="2.5556"/>
   </g>
 </svg>

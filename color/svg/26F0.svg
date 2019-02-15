@@ -1,22 +1,16 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
   <g id="color">
-    <path fill="#3F3F3F" d="M51.9792,42.2083c0,0-0.1926-6.17-0.2616-6.8201c-0.063-0.5945-0.6987-1.6345-0.9785-2.1007L48.1667,29
-		L42,24.5l-7.1683,5.3878l2.5745,2.5184L42.3438,33" stroke="none"></path>
-    <polyline fill="#9B9B9A" points="50,39 53.4207,48.131 60,56 12,56 16,49 18,37 25,18 29,22 33,25 37,33 42,33 50,39 	" stroke="none"></polyline>
-    <path fill="none" stroke="#9B9B9A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M50,39"></path>
+    <path fill="#3F3F3F" d="M52,42.2c0,0-0.2-6.2-0.3-6.8s-0.7-1.6-1-2.1L48.2,29L42,24.5l-7.2,5.4l2.6,4.5l4.9-0.4l10.2,13.3L52,42.2z"/>
+    <polyline fill="#9B9B9A" points="50,39 53.4,48.1 60,56 12,56 16,49 18,37 25,18 29,22 33,25 37,33 42,33 50,39"/>
+    <path fill="none" stroke="#9B9B9A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M50,39"/>
   </g>
-  <g id="hair"> </g>
-  <g id="skin"> </g>
-  <g id="skin-shadow"> </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
   <g id="line">
-    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		60,55 53.4207,48.131 50,39 	"></polyline>
-    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		37,33 33,25 29,22 25,18 18,37 16,49 12,55 	"></polyline>
-    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		31,24 32,33 42,33 50,39 49,45 50,50 48,52 45,55 	"></polyline>
-    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		39,28 43,25 47,29 50,34 	"></polyline>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="60,55 53.4,48.1 50,39"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="37,33 33,25 29,22 25,18 18,37 16,49 12,55"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="31,24 32,33 42,33 50,39 49,45 50,50 48,52 45,55"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="39,28 43,25 47,29 50,34"/>
   </g>
 </svg>

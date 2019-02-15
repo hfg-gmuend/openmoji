@@ -6,6 +6,10 @@
 
 👉 OpenMoji 1.? - ???
 
+* Normalized "beautified" all svg source and production files
+
++ Added 261 flags from 🇦🇩 Andorra to 🇿🇼 Zimbabwe
+
 + Added 47 "emergency" related emojis contributed by the Guemil Project
 * Updated 13 standard emojis with Guemil Project revisions
 

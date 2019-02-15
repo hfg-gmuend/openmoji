@@ -1,17 +1,13 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
   <g id="color">
-    <ellipse fill="#3f3f3f" stroke="none" stroke-width="2" stroke-miterlimit="10" cx="35.5" cy="34.5" rx="32.5" ry="13.5"></ellipse>
-    <path fill="#b399c8" stroke="none" stroke-width="2" stroke-miterlimit="10" d="M35.5,31c13.5192,0,25.1072,3.3025,30.0053,8
-		C67.1104,37.4606,68,35.772,68,34c0-7.1797-14.5507-13-32.5-13S3,26.8203,3,34c0,1.772,0.8896,3.4606,2.4947,5
-		C10.3928,34.3025,21.9808,31,35.5,31z"></path>
+    <ellipse fill="#3F3F3F" cx="35.5" cy="34.5" rx="32.5" ry="13.5"/>
+    <path fill="#9B9B9A" d="M35.5,31c13.5192,0,25.1072,3.3025,30.0053,8C67.1104,37.4606,68,35.772,68,34c0-7.1797-14.5507-13-32.5-13 S3,26.8203,3,34c0,1.772,0.8896,3.4606,2.4947,5C10.3928,34.3025,21.9808,31,35.5,31z"/>
   </g>
-  <g id="hair"> </g>
-  <g id="skin"> </g>
-  <g id="skin-shadow"> </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
   <g id="line">
-    <ellipse fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="35.5" cy="34.5" rx="32.5" ry="13.5"></ellipse>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M35.5,31c13.5192,0,25.1072,3.3025,30.0053,8
-		C67.1104,37.4606,68,35.772,68,34c0-7.1797-14.5507-13-32.5-13S3,26.8203,3,34c0,1.772,0.8896,3.4606,2.4947,5
-		C10.3928,34.3025,21.9808,31,35.5,31z"></path>
+    <ellipse fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="35.5" cy="34.5" rx="32.5" ry="13.5"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M35.5,31c13.5192,0,25.1072,3.3025,30.0053,8 C67.1104,37.4606,68,35.772,68,34c0-7.1797-14.5507-13-32.5-13S3,26.8203,3,34c0,1.772,0.8896,3.4606,2.4947,5 C10.3928,34.3025,21.9808,31,35.5,31z"/>
   </g>
 </svg>

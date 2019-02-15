@@ -1,19 +1,15 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
   <g id="color">
-    <rect x="8.875" y="8.0565" clip-path="url(#SVGID_2_)" fill="#FCEA2B" width="55.25" height="56" stroke="none"></rect>
-    <circle fill="none" stroke="#fcea2b" stroke-miterlimit="10" cx="36.125" cy="36.0565" r="23"></circle>
-    <circle fill="#FFFFFF" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36.2" cy="47.4" r="5.7452"></circle>
+    <circle fill="#FCEA2B" cx="36.125" cy="36.0565" r="23"/>
+    <circle fill="#FFFFFF" cx="36.2" cy="47.4" r="5.7452"/>
   </g>
-  <g id="hair"> </g>
-  <g id="skin"> </g>
-  <g id="skin-shadow"> </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
   <g id="line">
-    <polygon id="SVGID_1_" points="36.125,13.0565 27.4952,14.7362 22.1954,17.7567 17.3047,22.8358 13.875,30.1864 13.875,42.5262 
-				19.4746,51.9266 27.4952,57.3768 36.125,59.0565 43.3047,57.9061 51.0147,53.5761 56.125,47.4169 59.125,38.2069 58.375,30.2264 
-				54.5655,22.3163 50.3555,17.996 43.1055,14.1366 			" fill="#000000" stroke="none"></polygon>
-    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36.125" cy="36.0565" r="23"></circle>
-    <circle cx="44.6648" cy="32.037" r="2.5556" fill="#000000" stroke="none"></circle>
-    <circle cx="27.4148" cy="32.037" r="2.5556" fill="#000000" stroke="none"></circle>
-    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36.2" cy="47.4" r="5.7452"></circle>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36.125" cy="36.0565" r="23"/>
+    <circle cx="44.6648" cy="32.037" r="2.5556"/>
+    <circle cx="27.4148" cy="32.037" r="2.5556"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36.2" cy="47.4" r="5.7452"/>
   </g>
 </svg>
