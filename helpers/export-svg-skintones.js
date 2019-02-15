@@ -34,8 +34,8 @@ const generateSkintoneSvg = (srcFilePath, destFilePath, skintoneIndex) => {
 
 const srcEmojis = require('../data/openmoji.json');
 let emojis = require('../data/openmoji.json');
-console.log('Loaded emoijs: ' + emojis.length);
 emojis = _.filter(emojis, (e) => { return e.skintone !== '' });
+console.log('Export SVG Skintones: ' + emojis.length);
 
 emojis.forEach(e => {
   const skintoneBaseEmoji = _.find(srcEmojis, {'hexcode': e.skintone_base_hexcode});

@@ -6,7 +6,6 @@ const JSDOM = require('jsdom').JSDOM;
 
 let colorEmojiPaths = glob('./color/svg/*.svg');
 const folderOut = './black/svg';
-// const folderOut = './color/svg-color-fill';
 
 const writeSvg = (filePath, data) => {
   fs.writeFileSync(filePath, data);
@@ -15,20 +14,16 @@ const writeSvg = (filePath, data) => {
 const generateSvg = (srcFilePath, destFilePath) => {
   const dom = new JSDOM(fs.readFileSync(srcFilePath, 'utf8'));
   const doc = dom.window.document;
-  const query = doc.querySelectorAll('svg > g:not(#line)');
-  // const query = doc.querySelectorAll('#line, #grid');
+  const query = doc.querySelectorAll('#grid, #color, #color-foreground, #skin, #skin-shadow, #hair');
   query.forEach(el => { el.remove() });
   writeSvg(destFilePath, doc.querySelector('svg').outerHTML);
 }
 
-console.log('Loaded emoijs: ' + colorEmojiPaths.length);
-// colorEmojiPaths = [colorEmojiPaths[0]];
-
+console.log('Export SVG Black: ' + colorEmojiPaths.length);
 colorEmojiPaths.forEach(f => {
   generateSvg(
     f,
     path.join(folderOut, path.basename(f))
   );
 });
-
 console.log('✅', colorEmojiPaths.length);

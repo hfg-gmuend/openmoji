@@ -4,7 +4,9 @@
   "description": "Open-source emojis for designers, developers and everyone else!",
   "scripts": {
     "test": "mocha test/test.js",
-    "pretty-src-svg": "find src/ -type f -name '*.svg' -print0 | xargs -0 -n 1 -P 6 svgo --config helpers/beautify-src-svg.yml"
+    "pretty-src-svg": "find src/ -type f -name '*.svg' -print0 | xargs -0 -n 1 -P 6 svgo --config helpers/beautify-svg.yml",
+    "export-svg": "./helpers/export-svg.sh",
+    "export-png": "./helpers/export-png.sh"
   },
   "engines": {
     "node": ">=8.15.0"

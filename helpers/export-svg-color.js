@@ -13,15 +13,17 @@ const writeSvg = (filePath, data) => {
 const generateSvg = (srcFilePath, destFilePath) => {
   const dom = new JSDOM(fs.readFileSync(srcFilePath, 'utf8'));
   const doc = dom.window.document;
-  doc.querySelector('#grid').remove();
+  const query = doc.querySelector('#grid');
+  if (query) query.remove();
   writeSvg(destFilePath, doc.querySelector('svg').outerHTML);
 }
 
 let emojis = require('../data/openmoji.json');
-console.log('Loaded emoijs: ' + emojis.length);
 emojis = _.filter(emojis, (e) => { return e.skintone == ''});
+console.log('Export SVG Color: ' + emojis.length);
 
 emojis.forEach(e => {
+  // console.log(e.hexcode);
   generateSvg(
     path.join(folderSrc, e.group, e.subgroups, e.hexcode + '.svg'),
     path.join(folderOut, e.hexcode + '.svg')
