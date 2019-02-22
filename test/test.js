@@ -27,20 +27,18 @@ describe('Layers in src files', function () {
 describe('Colors in src files', function () {
   let emojis = _.filter(openmojis, (e) => { return e.skintone == ''});
   // emojis = _.filter(openmojis, (e) => { return e.hexcode == 'E25A'});
+
+  // create a mega query string with all valid colors and edge cases like 'none', or shorthand white '#fff' etc.
+  const validColor = [...colors, '#fff', '#000', 'none', '#b3b3b3', '#00a5ff'];
+  let queryStr = '[fill]';
+  validColor.forEach(c => {
+    queryStr += ':not([fill*="'+c.toLowerCase()+'"])';
+    queryStr += ':not([fill*="'+c.toUpperCase()+'"])';
+  });
+  // console.log(queryStr);
   emojis.forEach(emoji => {
     const doc = createDoc(emoji);
     it(emoji.hexcode + '.svg should have valid colors', function(){
-      // create a mega query string with all valid colors and edge cases like 'none', or shorthand white '#fff' etc.
-      let queryStr = '[fill]';
-      queryStr += ':not([fill*="#fff" i])';
-      queryStr += ':not([fill*="#000" i])';
-      queryStr += ':not([fill*="none" i])';
-      queryStr += ':not([fill*="#b3b3b3" i])'; // #grid
-      queryStr += ':not([fill*="#00a5ff" i])'; // #grid
-      colors.forEach(c => {
-        queryStr += ':not([fill*="'+c+'" i])';
-      });
-      // console.log(queryStr);
       const query = doc.querySelectorAll(queryStr);
       // query.forEach(el => { console.log(el.getAttribute('fill')) });
       expect( query.length ).to.equal(0);
