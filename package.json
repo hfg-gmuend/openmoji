@@ -20,7 +20,7 @@
     "csv-write-stream": "^2.0.0",
     "emojibase-data": "^3.0.0",
     "glob": "^7.1.2",
-    "jsdom": "^11.11.0",
+    "jsdom": "^13.2.0",
     "kd-tree-javascript": "^1.0.3",
     "lodash": "^4.17.4",
     "mocha": "^5.2.0",
