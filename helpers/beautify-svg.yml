@@ -4,6 +4,11 @@ plugins:
   - inlineStyles
   - cleanupNumericValues:
       floatPrecision: 4
+  - convertColors:
+      names2hex: true
+      rgb2hex: true
+      shorthex: false
+      shortname: false
   - removeXMLProcInst
   - removeComments
   - removeMetadata
