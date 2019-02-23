@@ -6,7 +6,7 @@
     <path fill="none" stroke="#00A5FF" stroke-width=".1" stroke-miterlimit="10" d="M68,18.2537v35.4926 C68,54.991,66.991,56,65.7463,56H6.2537C5.009,56,4,54.991,4,53.7463V18.2537C4,17.009,5.009,16,6.2537,16h59.4926 C66.991,16,68,17.009,68,18.2537z"/>
     <circle fill="none" stroke="#00A5FF" stroke-width=".1" stroke-miterlimit="10" cx="36" cy="36" r="29"/>
   </g>
-  <g id="line-supplement_1_">
+  <g id="line-supplement">
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M50.3838,47.2065c-1.7396,1.4508-3.5449,2.0133-3.8255,2.096c1.2769,3.8998,1.5308,7.3335,0.8554,9.3629"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M23.7414,31.4072c4.0808-1.403,9.8253,0.1056,12.4177,4.5449c2.5249-4.2094,7.8873-5.739,11.8223-4.7169"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M25.721,59.5755c-0.7095-2.8184-0.848-5.5181,0.3199-10.8352c-0.2215-0.045-2.2221-0.4854-4.1217-1.928"/>

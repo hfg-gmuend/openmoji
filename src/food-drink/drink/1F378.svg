@@ -7,8 +7,8 @@
     <circle fill="none" stroke="#00A5FF" stroke-width=".1" stroke-miterlimit="10" cx="36" cy="36" r="29"/>
   </g>
   <g id="line-supplement">
-    <line id="line-supplement_2_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="45.6863" y1="20.0657" x2="53.668" y2="20.0657"/>
-    <line id="line-supplement_1_" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="18.0445" y1="20.0657" x2="37.0861" y2="20.0657"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="45.6863" y1="20.0657" x2="53.668" y2="20.0657"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="18.0445" y1="20.0657" x2="37.0861" y2="20.0657"/>
   </g>
   <g id="color">
     <polygon fill="#B1CC33" points="17.0606,19 23.5,27.4999 36,43.9999 48.5,27.4999 54.9394,19"/>

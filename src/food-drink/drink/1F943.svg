@@ -6,7 +6,7 @@
     <path fill="none" stroke="#00A5FF" stroke-width=".1" stroke-miterlimit="10" d="M68,18.3v35.5c0,1.2-1,2.3-2.3,2.3H6.3 C5,56,4,55,4,53.7V18.3C4,17,5,16,6.3,16h59.5C67,16,68,17,68,18.3z"/>
     <circle fill="none" stroke="#00A5FF" stroke-width=".1" stroke-miterlimit="10" cx="36" cy="36" r="29"/>
   </g>
-  <g id="line-supplement_1_">
+  <g id="line-supplement">
     <line id="xx" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36.8" y1="37" x2="58.4" y2="37"/>
   </g>
   <g id="color">
