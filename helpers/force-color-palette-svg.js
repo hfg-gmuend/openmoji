@@ -5,9 +5,6 @@ const chroma = require('chroma-js');
 const KDTree = require('kd-tree-javascript').kdTree;
 const JSDOM = require('jsdom').JSDOM;
 
-const folderIn = './_tmp/1-svg-src-4-decimals';
-const folderOut = './_tmp/2-svg-color-palette-fixed';
-
 
 const hexToRGB = (hex) => {
   const rgb = chroma(hex).rgb();
@@ -37,7 +34,7 @@ const writeSvg = (filePath, data) => {
 const forceColors = (srcFilePath, destFilePath, colorPalette) => {
   const dom = new JSDOM(fs.readFileSync(srcFilePath, 'utf8'));
   const doc = dom.window.document;
-  const query = doc.querySelectorAll('[fill], [stroke]');
+  const query = doc.querySelectorAll(':not(#grid) > [fill], :not(#grid) > [stroke]');
   let modified = false;
   query.forEach(s => {
     const fill = s.getAttribute('fill');
@@ -62,25 +59,20 @@ const forceColors = (srcFilePath, destFilePath, colorPalette) => {
     }
   });
   if (modified) {
-    console.log('modified -> ', srcFilePath);
-  } else {
-    console.log(srcFilePath);
+    console.log('wrong colors -> ', srcFilePath);
+    // writeSvg(destFilePath, doc.querySelector('svg').outerHTML);
   }
-  writeSvg(destFilePath, doc.querySelector('svg').outerHTML);
 }
 
 
 let emojis = require('../data/openmoji.json');
 console.log('Loaded emoijs: ' + emojis.length);
-
 emojis = _.filter(emojis, (e) => { return e.skintone == ''});
+console.log('Emoijs without skintones: ' + emojis.length);
 
-emojis.forEach(e => {
-  forceColors(
-    path.join(folderIn, e.hexcode + '.svg'),
-    path.join(folderOut, e.hexcode + '.svg'),
-    colorPalette
-  );
+emojis.forEach(emoji => {
+  const svgFile = path.join('./src', emoji.group, emoji.subgroups, emoji.hexcode + '.svg');
+  forceColors(svgFile, svgFile, colorPalette);
 });
 
 console.log('✅', emojis.length);
