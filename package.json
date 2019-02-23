@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Open-source emojis for designers, developers and everyone else!",
   "scripts": {
-    "test": "mocha test/test.js",
+    "test": "node_modules/.bin/mocha --reporter list",
     "pretty-src-svg": "find src/ -type f -name '*.svg' -print0 | xargs -0 -n 1 -P 6 svgo --config helpers/beautify-svg.yml",
     "export-svg": "./helpers/export-svg.sh",
     "export-png": "./helpers/export-png.sh"
@@ -14,7 +14,7 @@
   "repository": "https://github.com/hfg-gmuend/openmoji",
   "license": "CC-BY-SA-4.0",
   "dependencies": {
-    "chai": "^4.1.2",
+    "chai": "^4.2.0",
     "chroma-js": "^1.4.0",
     "csv-parse": "^2.5.0",
     "csv-write-stream": "^2.0.0",
