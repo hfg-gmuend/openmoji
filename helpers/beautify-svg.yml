@@ -4,6 +4,7 @@ plugins:
   - inlineStyles
   - cleanupNumericValues:
       floatPrecision: 4
+      leadingZero: false
   - convertColors:
       names2hex: true
       rgb2hex: true
