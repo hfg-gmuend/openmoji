@@ -1,10 +1,10 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="grid">
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <path d="M12.9231,10.9583H59.077A1.923,1.923,0,0,1,61,12.8813V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8814A1.9231,1.9231,0,0,1,12.9231,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72 0) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <path d="M12.9231,10.9583H59.077A1.923,1.923,0,0,1,61,12.8813V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8814A1.9231,1.9231,0,0,1,12.9231,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72 0) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
     <g id="_1F4B1" data-name="1F4B1">
@@ -27,7 +27,7 @@
         <polyline points="23.094 45.255 25.453 49.238 21.354 51.53" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
         <path d="M24.5071,49.0837A14.7063,14.7063,0,0,1,13.685,37.7" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
       </g>
-      <rect x="38.8916" y="12.5983" width="2.7489" height=".1161" fill="#f4aa41" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="38.8916" y="12.5983" width="2.7489" height="0.1161" fill="#f4aa41" stroke="#000" stroke-miterlimit="10"/>
       <ellipse cx="33.2144" cy="20.727" rx="3.5258" ry="3.4257" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
       <path d="M27.9556,13.4112V30.4234a.5924.5924,0,0,1-.5976.4064H18.2148a.72.72,0,0,1-.5976-.4064V13.237a.5925.5925,0,0,1,.5976-.4064H27.358a.72.72,0,0,1,.5976.4064Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
       <g>

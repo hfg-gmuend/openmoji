@@ -1,10 +1,10 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="grid">
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
     <path fill="#A57939" d="M50.9266,31.8935c0.3893,0.0047,0.5734,0.5143,0.5734,0.9036v2.294c0,1.6823,1.2468,2.2059,3,3.0462 c0,0,0.5946,0.28,0.8992,0.478C57.6588,40.0837,60.5,48.0256,60.5,50.8295c0,2.8039-2.2386,5.0769-5,5.0769h-3.0361 c-2.7614,0-5-2.2386-5-5l0.0361-3.5c0.0517-1.6036-0.0871-3.5828-1.2586-4.7544c-0.6903-0.6903-1.628-1.0169-2.5215-0.929 c-1.1133,0.1095-2.1593-0.5902-2.2896-1.7013c-0.0026-0.0223-0.0052-0.0448-0.0077-0.0673 c-0.1849-1.668,0.2687-3.3442,1.2016-4.7392c0.8667-1.2961,2.2772-2.7841,4.3758-3.3088 C47,31.9064,49.8532,31.8805,50.9266,31.8935z" stroke="none"/>

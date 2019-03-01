@@ -1,10 +1,10 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="grid">
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
     <path fill="#FCEA2B" d="M25.7052,40.1067c0.1453,0.8051,0.9245,1.4619,1.9675,1.6589l11.9059,2.2495 c0.5576,0.1054,0.564,0.7031,0.0064,0.8085c-3.1597,0.597-9.0176,1.7037-11.9188,2.2519c-1.043,0.1971-1.8155,0.8529-1.9608,1.6579 l-3.1563,17.4924c-0.0868,0.4811-1.0073,0.4811-1.0942,0l-3.1563-17.4921c-0.1453-0.8051-0.9179-1.461-1.9611-1.6581 c-2.9014-0.5479-8.7594-1.6546-11.9193-2.2516c-0.5576-0.1053-0.5576-0.7019,0-0.8072c3.1601-0.597,9.0184-1.7039,11.9197-2.2523 c1.0429-0.1971,1.172-1.1419,1.3173-1.9469l2.6528-14.0921c0.0868-0.4811,2.1538-3.594,2.2406-3.1128 C23.5311,28.057,25.5109,39.0291,25.7052,40.1067z" stroke="none"/>
@@ -18,9 +18,9 @@
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-width=".2549" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.694,29.4823"/>
+    <path fill="none" stroke="#000000" stroke-width="0.2549" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.694,29.4823"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20,32l2.1418-11.1605l0.6996,4.1763c0.1122,0.6679,2.3298,13.9055,2.3298,13.9055c0.2615,1.5604,1.6435,2.8154,3.5205,3.1974 L40,44.4198l-11.3161,2.3026c-1.8724,0.381-3.2513,1.6356-3.5127,3.1963L22.1422,68l-3.029-18.0806 c-0.2615-1.5607-1.6405-2.8153-3.5131-3.1964L4.2836,44.4205l11.3171-2.3031C17.4727,41.7362,18.7387,39.5604,19,38"/>
-    <path fill="none" stroke="#000000" stroke-width=".1841" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M43.0568,11.6316"/>
+    <path fill="none" stroke="#000000" stroke-width="0.1841" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M43.0568,11.6316"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M42.5556,13.4499l1.5469-8.0604l0.5052,3.0162c0.081,0.4824,1.6827,10.0429,1.6827,10.0429 c0.1889,1.1269,1.1869,2.0334,2.5426,2.3092L57,22.4198l-8.1728,1.663c-1.3523,0.2752-2.3482,1.1812-2.5369,2.3084l-2.1876,13.0587 l-2.1876-13.0582c-0.1889-1.1272-1.1848-2.0333-2.5372-2.3085l-8.173-1.6629l8.1735-1.6634 c1.352-0.2753,2.2663-1.8467,2.455-2.9736"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M53.8482,44.267l1.2335-6.4275l0.4029,2.4052c0.0646,0.3847,1.3418,8.0084,1.3418,8.0084 c0.1506,0.8986,0.9465,1.6215,2.0275,1.8414l6.5126,1.3253l-6.5171,1.3261c-1.0783,0.2194-1.8725,0.9419-2.023,1.8408L55.0819,65 l-1.7445-10.4129c-0.1506-0.8988-0.9448-1.6214-2.0232-1.8409l-6.5174-1.326l6.5177-1.3264 c1.0781-0.2195,1.8072-1.4726,1.9577-2.3712"/>
   </g>

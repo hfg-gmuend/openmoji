@@ -1,10 +1,10 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="grid">
     <path d="M68,3.9853v64H4v-64H68m4-4H0v72H72v-72Z" fill="#b3b3b3"/>
-    <rect x="11.0002" y="10.8231" width="50" height="50" rx="1.9231" ry="1.9231" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16.0002" y="3.9853" width="40" height="63.8794" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".0999"/>
-    <rect x="16.0002" y="3.8648" width="40" height="64" rx="2.2537" ry="2.2537" transform="translate(71.865 -0.1354) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <circle cx="36.0002" cy="35.8648" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <rect x="11.0002" y="10.8231" width="50" height="50" rx="1.9231" ry="1.9231" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16.0002" y="3.9853" width="40" height="63.8794" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.0999"/>
+    <rect x="16.0002" y="3.8648" width="40" height="64" rx="2.2537" ry="2.2537" transform="translate(71.865 -0.1354) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36.0002" cy="35.8648" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
     <rect x="4" y="3.9853" width="64" height="64" fill="#8769a8"/>

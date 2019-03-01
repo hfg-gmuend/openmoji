@@ -1,10 +1,10 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="grid">
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
     <path fill="#F4AA41" d="M15.012,20.6113l-8.9258,1.8002L4.89,25l0.8559,1.1667l3.0919-0.3333l4.9593,1.6804 c0,0,3.7749,11.0061,15.0463,9.4478v4.4116V55.625v3.344h3.9148l1.4545-4.9385l0.6012-3.6307l8.5906,6.5854l2.1212-1.0195 l-0.5892-2.5869c0,0-7.0832-5.0589-6.966-5.8439c0.1172-0.785,0.7549-6.3475,0.7549-6.3475s5.5402-0.5884,6.8003-1.3349 c0.5464-0.3237,6.1267-1.1527,6.1267-1.1527s5.1853,9.2167-1.8147,18.3209l1.3274,2.3125L53.8166,59 c0,0,3.4672-5.3228,5.3599-11.5197c2.2364-7.322,3.0499-15.8608,4.4943-18.2303l-1.1135-2.833l-9.0423-6.9512l-3.6978-3.6864 c0,0-5.0878-0.9774-7.0336,0.0591C40.8377,16.875,39.0877,19.5,39.0877,19.5s-8.75,3.3226-10.625,8.4113 c0,0-6.4254,4.6188-12.4627-7.0837L15.012,20.6113z" stroke="none"/>

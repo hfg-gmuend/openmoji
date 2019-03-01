@@ -1,10 +1,10 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="grid">
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
     <path fill="#FCEA2B" d="M44.0422,51.4548c0.4326,4.3927,3.0423,9.3581,10.8915,14.3134c0.7821,0.4938,0.5357,1.6732-0.3778,1.8182 C52.854,67.8564,51.109,68,49.3289,68c-18.0768,0-32.7308-14.3269-32.7308-32c0-17.6731,14.6541-32,32.7308-32 c1.7798,0,3.5246,0.1435,5.2263,0.4135c0.8258,0.131,1.1385,1.1617,0.5234,1.728c-4.0365,3.7157-7.234,7.9623-9.4854,12.8921 c-1.0597,2.3204-1.2184,4.9524-0.4059,7.3704c0.8325,2.4776,2.3223,5.7414,4.9173,8.5959c4.375,4.8125-3.5625,5.375-3.5625,5.375 s-3.1458,0.5833-0.5,3.4375c1.161,1.2524,0.7912,1.964-0.1731,2.7025C49.1335,49.3761,44.0422,51.4548,44.0422,51.4548" stroke="none"/>

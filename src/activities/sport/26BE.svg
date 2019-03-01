@@ -1,15 +1,15 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="grid">
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
     <circle fill="#FFFFFF" cx="36" cy="35.9583" r="29" stroke="none"/>
-    <path opacity=".2" fill="none" stroke="#3f3f3f" stroke-width="3" stroke-miterlimit="10" d="M56.494,57.5182 c-5.2796-5.2522-8.5478-12.5243-8.5478-20.5598c0-8.0081,3.2459-15.2581,8.4939-20.5061"/>
-    <path opacity=".2" fill="none" stroke="#3f3f3f" stroke-width="3" stroke-miterlimit="10" d="M15.5331,16.4522 c5.248,5.248,8.4939,12.498,8.4939,20.5061c0,8.0287-3.2626,15.2954-8.5344,20.5465"/>
+    <path opacity="0.2" fill="none" stroke="#3f3f3f" stroke-width="3" stroke-miterlimit="10" d="M56.494,57.5182 c-5.2796-5.2522-8.5478-12.5243-8.5478-20.5598c0-8.0081,3.2459-15.2581,8.4939-20.5061"/>
+    <path opacity="0.2" fill="none" stroke="#3f3f3f" stroke-width="3" stroke-miterlimit="10" d="M15.5331,16.4522 c5.248,5.248,8.4939,12.498,8.4939,20.5061c0,8.0287-3.2626,15.2954-8.5344,20.5465"/>
     <path fill="#D0CFCE" d="M50.738,10.9985c4.8254,5.1792,7.7822,12.1224,7.7822,19.7596c0,16.0162-12.9837,29-29,29 c-5.3519,0-10.3612-1.4558-14.6646-3.9839C20.1448,61.4195,27.6533,64.9583,36,64.9583c16.0162,0,29-12.9838,29-29 C65,25.327,59.2692,16.047,50.738,10.9985z" stroke="none"/>
   </g>
   <g id="hair"/>

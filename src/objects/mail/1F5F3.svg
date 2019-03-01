@@ -1,17 +1,17 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="grid">
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <rect x="11" y="10.9583" width="50" height="50" rx="1.9231" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72 0) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <rect x="11" y="10.9583" width="50" height="50" rx="1.9231" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72 0) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
     <g id="_1F5F3" data-name="1F5F3">
       <polygon points="42.147 32.46 39.735 38.34 25.83 32.638 25.903 32.46 14.484 32.46 14.484 59.633 57.508 59.633 57.508 32.46 42.147 32.46" fill="#d0cfce"/>
       <polygon points="35.162 59.633 57.516 37.279 57.508 59.633 35.162 59.633" fill="#9b9b9a"/>
       <rect x="24.2575" y="37.2698" width="23.6528" height="3.1959" fill="#d0cfce"/>
-      <rect x="23.7083" y="37.861" width="24.8607" height="1.8457" rx=".774" fill="#9b9b9a"/>
+      <rect x="23.7083" y="37.861" width="24.8607" height="1.8457" rx="0.774" fill="#9b9b9a"/>
     </g>
   </g>
   <g id="line">

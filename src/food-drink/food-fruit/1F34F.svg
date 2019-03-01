@@ -1,10 +1,10 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="grid">
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
     <path fill="#B1CC33" stroke="#B1CC33" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M43.9805,22.748c3.2532-1.7664,6.7524-2.0682,9.8603-0.5143c6.7971,3.4098,9.1671,14.3768,5.3102,24.4942 c-3.8569,10.1286-12.4875,15.573-19.2735,12.1633c-0.4877-0.2459-0.953-0.5297-1.3942-0.849 c-1.2846-0.9296-3.0462-0.93-4.3311-0.0009c-0.4421,0.3197-0.9078,0.6038-1.396,0.8499 c-6.7971,3.4097-15.4276-2.0347-19.2846-12.1633c-3.8569-10.1174-1.4756-21.0845,5.3102-24.4942 c3.1079-1.5539,6.5959-1.2633,9.838,0.4919c0,0,0.0559,0.0336,0.1677,0.0895c0.7379,0.3913,3.9128,1.9564,7.0878,1.9564 c3.1637,0,7.043-1.5652,7.9598-1.9564C43.9022,22.7816,43.9469,22.7592,43.9805,22.748"/>
