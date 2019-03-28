@@ -1,10 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_x25B6__xFE0F_">
-	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M19.6,55.6
-		c0.5,0.2,1,0.3,1.6,0.3c0.8,0,1.7-0.3,2.4-0.8l30-16l0.3-0.3c0.8-0.8,1.2-1.7,1.2-2.8c0-1.1-0.4-2.1-1.2-2.8L53.6,33l-30-16.1
-		c-1.1-0.8-2.7-1-4-0.5c-1.5,0.6-2.5,2.1-2.5,3.7v31.8C17.1,53.5,18.1,55,19.6,55.6z"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M19.5816,55.6062 c0.4848,0.1782,1.0303,0.297,1.5758,0.297c0.8485,0,1.697-0.297,2.4242-0.7722l30-15.9793l0.303-0.297 c0.7879-0.7722,1.2121-1.7227,1.2121-2.7919c0-1.0692-0.4242-2.0791-1.2121-2.7919l-0.303-0.297l-30-16.0981 c-1.0909-0.8316-2.6667-1.0098-4-0.4752c-1.5152,0.594-2.4848,2.0791-2.4848,3.683v31.8397 C17.0967,53.5272,18.0664,55.0122,19.5816,55.6062z"/>
+  </g>
 </svg>

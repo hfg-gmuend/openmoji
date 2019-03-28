@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="emoji">
+    <g id="line">
+      <rect x="30" y="20" width="4" height="4" rx="1.732" transform="translate(4.1507 -5.0632) rotate(9.6714)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <rect x="35" y="21" width="4" height="4" rx="1.732" transform="translate(4.3898 -5.889) rotate(9.6714)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <rect x="40" y="22" width="4" height="4" rx="1.732" transform="matrix(0.9858, 0.168, -0.168, 0.9858, 4.6289, -6.7148)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <rect x="25" y="19" width="4" height="4" rx="1.732" transform="matrix(0.9858, 0.168, -0.168, 0.9858, 3.9117, -4.2375)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="12" y1="18" x2="60" y2="28" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="35" y1="23" x2="35" y2="31" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <rect x="36" y="34" width="6" height="11" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+      <rect x="27" y="34" width="6" height="13" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+      <rect x="27" y="30" width="15" height="23" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

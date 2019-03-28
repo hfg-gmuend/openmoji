@@ -1,0 +1,13 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <g>
+      <path d="M48.4009,52.2372a2.4286,2.4286,0,1,0-4.8-.0008v.4452l0,3.1548-2.05,4.0979-.4957.991-3.0563,6.11,3.2.0005,1.6-1.6,1.6,1.6,1.6-1.6,1.6,1.6,1.6-1.6,1.6,1.6,3.2.0005L50.9358,60.91l-.5629-1.1263L48.4,55.8372l0-3.1548Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path d="M48.4007,53.4372l0,2.4s-4.8-.0116-4.8-.0008l0-2.4Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g>
+      <polyline points="24.22 48.658 23.641 53.203 23.641 67.037 27.37 67.037 27.37 53.203" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect x="24.7518" y="29.5072" width="1.5" height="16"/>
+      <ellipse cx="25.7518" cy="16.8421" rx="9" ry="11.8421" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

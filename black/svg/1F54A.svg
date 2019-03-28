@@ -1,16 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDD4A__1_">
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M12,28"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M18,30.2"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M36.5,43.4c20.3-0.7,13.1-26.9,12.4-23.6C48.3,23.1,29.3,42,27.3,39.4c-2-2.6-4.6-3.3-5.9-1.3c-1.3,2-2,2.6-2,2.6s3.9-0.7,4.6,0.7
-		s2.7,5.6,6.5,5.9c0,0,1.3,0.4,3.9,5.9c3.1,6.4,15.7,0,11.8-3.3s-6.5-2-8.5-3.3S36.5,43.4,36.5,43.4z"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M36.5,29.3c0.2-5-2.3-17.3-4.6-11.5c-2.6,6.5-3.9,8.5-3.9,8.5c-3.1,3-4.3,5.2-4.7,6.6"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M18,30.1752"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M36.49,43.3584c20.3013-0.6549,13.0976-26.8501,12.4427-23.5757c-0.6549,3.2744-19.6464,22.2659-21.6111,19.6464 c-1.9646-2.6195-4.5842-3.2744-5.8939-1.3098c-1.3098,1.9646-1.9646,2.6195-1.9646,2.6195s3.9293-0.6549,4.5842,0.6549 s2.7314,5.6073,6.5488,5.8939c0,0,1.3035,0.4449,3.9293,5.8939c3.0618,6.354,15.7171,0,11.7878-3.2744 s-6.5488-1.9646-8.5134-3.2744S36.49,43.3584,36.49,43.3584z"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M36.5451,29.3142c0.2246-5.0247-2.3348-17.2571-4.6392-11.4961c-2.6195,6.5488-3.9293,8.5134-3.9293,8.5134 c-3.1128,2.9566-4.2643,5.1742-4.6737,6.5586"/>
+  </g>
 </svg>

@@ -1,0 +1,22 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="grid">
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <path fill="#92D3F5" stroke="none" stroke-width="2" stroke-miterlimit="10" d="M59.9589,52.7943H12.0411 c-0.5523,0-1-0.4477-1-1v-29.547c0-0.5523,0.4477-1,1-1h47.9178c0.5523,0,1,0.4477,1,1v29.547 C60.9589,52.3466,60.5112,52.7943,59.9589,52.7943z"/>
+    <path fill="#3F3F3F" stroke="none" stroke-width="2" stroke-miterlimit="10" d="M60,31H12c-0.5523,0-1-0.4477-1-1v-2.8 c0-0.5523,0.4477-1,1-1h48c0.5523,0,1,0.4477,1,1V30C61,30.5523,60.5523,31,60,31z"/>
+    <path fill="#FCEA2B" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.9984,47.8h-1.9471c-1.6645,0-3.0264-1.3619-3.0264-3.0264v-1.9471c0-1.6645,1.3619-3.0265,3.0264-3.0265h1.9471 c1.6645,0,3.0264,1.3619,3.0264,3.0265v1.9471C24.0249,46.4381,22.663,47.8,20.9984,47.8z"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M59.9589,52.7943H12.0411 c-0.5523,0-1-0.4477-1-1v-29.547c0-0.5523,0.4477-1,1-1h47.9178c0.5523,0,1,0.4477,1,1v29.547 C60.9589,52.3466,60.5112,52.7943,59.9589,52.7943z"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M60,31H12c-0.5523,0-1-0.4477-1-1v-2.8 c0-0.5523,0.4477-1,1-1h48c0.5523,0,1,0.4477,1,1V30C61,30.5523,60.5523,31,60,31z"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.9984,47.8h-1.9471c-1.6645,0-3.0264-1.3619-3.0264-3.0264v-1.9471c0-1.6645,1.3619-3.0265,3.0264-3.0265h1.9471 c1.6645,0,3.0264,1.3619,3.0264,3.0265v1.9471C24.0249,46.4381,22.663,47.8,20.9984,47.8z"/>
+  </g>
+</svg>

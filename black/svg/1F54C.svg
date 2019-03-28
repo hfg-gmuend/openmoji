@@ -1,29 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDD4C_">
-	
-		<rect x="29" y="40" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="26" height="20"/>
-	
-		<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		24.5,36 17.5,36 15.5,31 26.5,31 	"/>
-	
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		17.5,31 17.5,26 24.5,26 24.5,31 	"/>
-	
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		24.5,36 24.5,60 17.5,60 17.5,36 	"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M30.5,40c-0.7-1.2-1-2.6-1-4c0-5.5,5.6-10,12.5-10c6.9,0,12.5,4.5,12.5,10c0,1.4-0.3,2.7-1,3.9"/>
-	
-		<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		21,17 17.5,26 24.5,26 	"/>
-	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="42" cy="24" r="2"/>
-	
-		<rect x="42" y="19" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 84 41)" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="0" height="3"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M42,45l-3.5,5.2c-0.3,0.5-0.5,1.1-0.5,1.7V60h8v-8.1c0-0.6-0.2-1.2-0.5-1.7L42,45z"/>
-</g>
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+  <g id="line">
+    <rect x="17.5" y="25.9998" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="7" height="5"/>
+    <rect x="17.5" y="35.9998" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="7" height="24"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M54.5,35.9998c0,1.42-0.37,2.78-1.04,4H30.54c-0.67-1.22-1.04-2.58-1.04-4c0-5.52,5.6-10,12.5-10S54.5,30.4797,54.5,35.9998z"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M55,39.9998v20h-9v-8.09c0-0.59-0.18-1.17-0.5-1.67l-2.84-4.25l-0.66-0.99l-0.66,0.99l-2.84,4.25c-0.32,0.5-0.5,1.08-0.5,1.67v8.09 h-9v-20H55z"/>
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="21,17 17.5,26 24.5,26"/>
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="26.5,30.9998 24.5,35.9998 17.5,35.9998 15.5,30.9998"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="42" cy="24" r="2"/>
+    <rect x="42" y="19" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="0" height="3"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M46,51.9098v8.09h-8v-8.09c0-0.59,0.18-1.17,0.5-1.67l2.84-4.25l0.66-0.99l0.66,0.99l2.84,4.25 C45.82,50.7397,46,51.3198,46,51.9098z"/>
+  </g>
 </svg>

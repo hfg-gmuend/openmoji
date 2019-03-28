@@ -1,36 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDD8C__xFE0F_">
-	<g>
-		<g>
-			
-				<path fill="none" stroke="#000000" stroke-width="2.0863" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-				M20.9,44.3"/>
-		</g>
-	</g>
-	
-		<path fill="none" stroke="#000000" stroke-width="2.0863" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M33.9,48.8"/>
-	
-		<path fill="none" stroke="#000000" stroke-width="2.0863" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M24.4,39.3"/>
-	
-		<path fill="none" stroke="#000000" stroke-width="2.0863" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M24.4,39.4"/>
-	
-		<path fill="none" stroke="#000000" stroke-width="2.0863" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M33.9,48.9"/>
-	
-		<path fill="none" stroke="#000000" stroke-width="2.0863" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M24.1,39.2"/>
-	<path fill="none" stroke="#010202" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M45.9,36.9c-7,6.5-12.5,10.4-15.9,12.6l-7.6-7.7c2.2-3.4,6.1-8.8,12.6-15.8c4.8-5.2,9.8-9.9,13.8-12.4c2.9-1.8,6.6-1.6,8.9,0.7l0,0
-		c2.3,2.3,2.5,5.9,0.7,8.9C55.8,27.1,51,32.1,45.9,36.9"/>
-	<path fill="none" stroke="#010202" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M19.6,44.4c0,0-4.8,2.5-4.2,6.1c0.5,2.9-0.9,3.7-3.2,6c-1.7,1.7,6.5,3.4,9.5,1.8s4.6-3.1,5.7-6.2"/>
-	
-		<line fill="none" stroke="#010202" stroke-width="2.0863" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="27.4" y1="35.3" x2="36.6" y2="44.4"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2.0863" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M21.8926,30.0285"/>
+    <path fill="none" stroke="#000000" stroke-width="2.0863" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.9453,44.2726"/>
+    <path fill="none" stroke="#000000" stroke-width="2.0863" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M33.8974,48.8332"/>
+    <path fill="none" stroke="#000000" stroke-width="2.0863" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M24.3999,39.3357"/>
+    <path fill="none" stroke="#000000" stroke-width="2.0863" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M24.3511,39.4065"/>
+    <path fill="none" stroke="#000000" stroke-width="2.0863" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M33.8788,48.9342"/>
+    <path fill="none" stroke="#000000" stroke-width="2.0863" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M24.1008,39.1562"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M45.8565,36.851c-7.0488,6.5155-12.4768,10.4313-15.8703,12.6073l-7.6389-7.6751c2.1789-3.3949,6.0918-8.8147,12.5932-15.8482 c4.7694-5.1598,9.7635-9.9137,13.8015-12.4485c2.9438-1.8479,6.597-1.5717,8.8659,0.6971l0,0 c2.2688,2.2688,2.5449,5.9222,0.697,8.8659C55.7702,27.0875,51.0162,32.0816,45.8565,36.851"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M19.6432,44.3631c0,0-4.7911,2.4728-4.2087,6.1331c0.457,2.8713-0.8942,3.7226-3.2026,6.031 c-1.7206,1.7206,6.4887,3.4108,9.5042,1.8095s4.5544-3.1402,5.6852-6.1955"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="27.4304" y1="35.2569" x2="36.5691" y2="44.3958"/>
+  </g>
 </svg>

@@ -1,0 +1,304 @@
+emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,openmoji_date,skintone,skintone_base_emoji,skintone_base_hexcode,unicode,order
+🥰,1F970,smileys-people,face-positive,smiling face with 3 hearts,"adore, crush, in love",,,,,,,11,15
+🥵,1F975,smileys-people,face-negative,hot face,"feverish, heat stroke, hot, red-faced, sweating",,,,,,,11,68
+🥶,1F976,smileys-people,face-negative,cold face,"blue-faced, cold, freezing, frostbite, icicles",,,,,,,11,69
+🥳,1F973,smileys-people,face-role,partying face,"celebration, hat, horn, party",,,,,,,11,84
+🥴,1F974,smileys-people,face-role,woozy face,"dizzy, intoxicated, tipsy, uneven eyes, wavy mouth",,,,,,,11,85
+🥺,1F97A,smileys-people,face-role,pleading face,"begging, mercy, puppy eyes",,,,,,,11,86
+👺,1F47A,smileys-people,face-fantasy,goblin,"creature, face, fairy tale, fantasy, monster",,,,,,,1,96
+👾,1F47E,smileys-people,face-fantasy,alien monster,"alien, creature, extraterrestrial, face, monster, ufo",,,,,,,1,102
+👮‍♂️,1F46E-200D-2642-FE0F,smileys-people,person-role,man police officer,"cop, man, officer, police",,,,,👮‍♂️,1F46E-200D-2642-FE0F,4,411
+👮‍♀️,1F46E-200D-2640-FE0F,smileys-people,person-role,woman police officer,"cop, officer, police, woman",,,,,👮‍♀️,1F46E-200D-2640-FE0F,4,423
+🕵️‍♂️,1F575-FE0F-200D-2642-FE0F,smileys-people,person-role,man detective,"detective, man, sleuth, spy",,,,,🕵️‍♂️,1F575-FE0F-200D-2642-FE0F,4,442
+🕵️‍♀️,1F575-FE0F-200D-2640-FE0F,smileys-people,person-role,woman detective,"detective, sleuth, spy, woman",,,,,🕵️‍♀️,1F575-FE0F-200D-2640-FE0F,4,456
+💂‍♂️,1F482-200D-2642-FE0F,smileys-people,person-role,man guard,"guard, man",,,,,💂‍♂️,1F482-200D-2642-FE0F,4,476
+💂‍♀️,1F482-200D-2640-FE0F,smileys-people,person-role,woman guard,"guard, woman",,,,,💂‍♀️,1F482-200D-2640-FE0F,4,488
+👷‍♂️,1F477-200D-2642-FE0F,smileys-people,person-role,man construction worker,"construction, man, worker",,,,,👷‍♂️,1F477-200D-2642-FE0F,4,506
+👷‍♀️,1F477-200D-2640-FE0F,smileys-people,person-role,woman construction worker,"construction, woman, worker",,,,,👷‍♀️,1F477-200D-2640-FE0F,4,518
+👳‍♂️,1F473-200D-2642-FE0F,smileys-people,person-role,man wearing turban,"man, turban",,,,,👳‍♂️,1F473-200D-2642-FE0F,4,548
+👳‍♀️,1F473-200D-2640-FE0F,smileys-people,person-role,woman wearing turban,"turban, woman",,,,,👳‍♀️,1F473-200D-2640-FE0F,4,560
+👱‍♂️,1F471-200D-2642-FE0F,smileys-people,person,man: blond hair,"blond, blond-haired man, man",,,,,👱‍♂️,1F471-200D-2642-FE0F,4,596
+👱‍♀️,1F471-200D-2640-FE0F,smileys-people,person,woman: blond hair,"blond-haired woman, blonde, woman",,,,,👱‍♀️,1F471-200D-2640-FE0F,4,608
+👨‍🦰,1F468-200D-1F9B0,smileys-people,person-role,man: red hair,"adult, man, red hair",,,,,👨‍🦰,1F468-200D-1F9B0,11,620
+👩‍🦰,1F469-200D-1F9B0,smileys-people,person-role,woman: red hair,"adult, red hair, woman",,,,,👩‍🦰,1F469-200D-1F9B0,11,626
+👨‍🦱,1F468-200D-1F9B1,smileys-people,person-role,man: curly hair,"adult, curly hair, man",,,,,👨‍🦱,1F468-200D-1F9B1,11,632
+👩‍🦱,1F469-200D-1F9B1,smileys-people,person-role,woman: curly hair,"adult, curly hair, woman",,,,,👩‍🦱,1F469-200D-1F9B1,11,638
+👨‍🦲,1F468-200D-1F9B2,smileys-people,person-role,man: bald,"adult, bald, man",,,,,👨‍🦲,1F468-200D-1F9B2,11,644
+👩‍🦲,1F469-200D-1F9B2,smileys-people,person-role,woman: bald,"adult, bald, woman",,,,,👩‍🦲,1F469-200D-1F9B2,11,650
+👨‍🦳,1F468-200D-1F9B3,smileys-people,person-role,man: white hair,"adult, man, white hair",,,,,👨‍🦳,1F468-200D-1F9B3,11,656
+👩‍🦳,1F469-200D-1F9B3,smileys-people,person-role,woman: white hair,"adult, white hair, woman",,,,,👩‍🦳,1F469-200D-1F9B3,11,662
+🤵,1F935,smileys-people,person-role,man in tuxedo,"groom, man, tuxedo",,,,,🤵,1F935,3,668
+🦸,1F9B8,smileys-people,person-fantasy,superhero,"good, hero, heroine, superpower",,,,,🦸,1F9B8,11,710
+🦸‍♀️,1F9B8-200D-2640-FE0F,smileys-people,person-fantasy,woman superhero,"good, hero, heroine, superpower, woman",,,,,🦸‍♀️,1F9B8-200D-2640-FE0F,11,716
+🦸‍♂️,1F9B8-200D-2642-FE0F,smileys-people,person-fantasy,man superhero,"good, hero, man, superpower",,,,,🦸‍♂️,1F9B8-200D-2642-FE0F,11,728
+🦹,1F9B9,smileys-people,person-fantasy,supervillain,"criminal, evil, superpower, villain",,,,,🦹,1F9B9,11,740
+🦹‍♀️,1F9B9-200D-2640-FE0F,smileys-people,person-fantasy,woman supervillain,"criminal, evil, superpower, villain, woman",,,,,🦹‍♀️,1F9B9-200D-2640-FE0F,11,746
+🦹‍♂️,1F9B9-200D-2642-FE0F,smileys-people,person-fantasy,man supervillain,"criminal, evil, man, superpower, villain",,,,,🦹‍♂️,1F9B9-200D-2642-FE0F,11,758
+🧙‍♀️,1F9D9-200D-2640-FE0F,smileys-people,person-fantasy,woman mage,"sorceress, witch",,,,,🧙‍♀️,1F9D9-200D-2640-FE0F,5,776
+🧙‍♂️,1F9D9-200D-2642-FE0F,smileys-people,person-fantasy,man mage,"sorcerer, wizard",,,,,🧙‍♂️,1F9D9-200D-2642-FE0F,5,788
+🧚,1F9DA,smileys-people,person-fantasy,fairy,"oberon, puck, titania",,,,,🧚,1F9DA,5,800
+🧚‍♀️,1F9DA-200D-2640-FE0F,smileys-people,person-fantasy,woman fairy,titania,,,,,🧚‍♀️,1F9DA-200D-2640-FE0F,5,806
+🧚‍♂️,1F9DA-200D-2642-FE0F,smileys-people,person-fantasy,man fairy,"oberon, puck",,,,,🧚‍♂️,1F9DA-200D-2642-FE0F,5,818
+🧛,1F9DB,smileys-people,person-fantasy,vampire,"dracula, undead",,,,,🧛,1F9DB,5,830
+🧛‍♀️,1F9DB-200D-2640-FE0F,smileys-people,person-fantasy,woman vampire,undead,,,,,🧛‍♀️,1F9DB-200D-2640-FE0F,5,836
+🧛‍♂️,1F9DB-200D-2642-FE0F,smileys-people,person-fantasy,man vampire,"dracula, undead",,,,,🧛‍♂️,1F9DB-200D-2642-FE0F,5,848
+🧜,1F9DC,smileys-people,person-fantasy,merperson,"mermaid, merman, merwoman",,,,,🧜,1F9DC,5,860
+🧝‍♀️,1F9DD-200D-2640-FE0F,smileys-people,person-fantasy,woman elf,magical,,,,,🧝‍♀️,1F9DD-200D-2640-FE0F,5,896
+🧝‍♂️,1F9DD-200D-2642-FE0F,smileys-people,person-fantasy,man elf,magical,,,,,🧝‍♂️,1F9DD-200D-2642-FE0F,5,908
+🧞‍♀️,1F9DE-200D-2640-FE0F,smileys-people,person-fantasy,woman genie,djinn,,,,,,,5,921
+🧞‍♂️,1F9DE-200D-2642-FE0F,smileys-people,person-fantasy,man genie,djinn,,,,,,,5,923
+🧟‍♀️,1F9DF-200D-2640-FE0F,smileys-people,person-fantasy,woman zombie,"undead, walking dead",,,,,,,5,926
+🧟‍♂️,1F9DF-200D-2642-FE0F,smileys-people,person-fantasy,man zombie,"undead, walking dead",,,,,,,5,928
+🙍‍♂️,1F64D-200D-2642-FE0F,smileys-people,person-gesture,man frowning,"frowning, gesture, man",,,,,🙍‍♂️,1F64D-200D-2642-FE0F,4,936
+🙍‍♀️,1F64D-200D-2640-FE0F,smileys-people,person-gesture,woman frowning,"frowning, gesture, woman",,,,,🙍‍♀️,1F64D-200D-2640-FE0F,4,948
+🙎‍♂️,1F64E-200D-2642-FE0F,smileys-people,person-gesture,man pouting,"gesture, man, pouting",,,,,🙎‍♂️,1F64E-200D-2642-FE0F,4,966
+🙎‍♀️,1F64E-200D-2640-FE0F,smileys-people,person-gesture,woman pouting,"gesture, pouting, woman",,,,,🙎‍♀️,1F64E-200D-2640-FE0F,4,978
+🙅‍♂️,1F645-200D-2642-FE0F,smileys-people,person-gesture,man gesturing NO,"forbidden, gesture, hand, man, man gesturing no, prohibited",,,,,🙅‍♂️,1F645-200D-2642-FE0F,4,996
+🙅‍♀️,1F645-200D-2640-FE0F,smileys-people,person-gesture,woman gesturing NO,"forbidden, gesture, hand, prohibited, woman, woman gesturing no",,,,,🙅‍♀️,1F645-200D-2640-FE0F,4,1008
+🙆‍♂️,1F646-200D-2642-FE0F,smileys-people,person-gesture,man gesturing OK,"gesture, hand, man, man gesturing ok, ok",,,,,🙆‍♂️,1F646-200D-2642-FE0F,4,1026
+🙆‍♀️,1F646-200D-2640-FE0F,smileys-people,person-gesture,woman gesturing OK,"gesture, hand, ok, woman, woman gesturing ok",,,,,🙆‍♀️,1F646-200D-2640-FE0F,4,1038
+💁‍♂️,1F481-200D-2642-FE0F,smileys-people,person-gesture,man tipping hand,"man, sassy, tipping hand",,,,,💁‍♂️,1F481-200D-2642-FE0F,4,1056
+💁‍♀️,1F481-200D-2640-FE0F,smileys-people,person-gesture,woman tipping hand,"sassy, tipping hand, woman",,,,,💁‍♀️,1F481-200D-2640-FE0F,4,1068
+🙋‍♂️,1F64B-200D-2642-FE0F,smileys-people,person-gesture,man raising hand,"gesture, man, raising hand",,,,,🙋‍♂️,1F64B-200D-2642-FE0F,4,1086
+🙋‍♀️,1F64B-200D-2640-FE0F,smileys-people,person-gesture,woman raising hand,"gesture, raising hand, woman",,,,,🙋‍♀️,1F64B-200D-2640-FE0F,4,1098
+🙇‍♂️,1F647-200D-2642-FE0F,smileys-people,person-gesture,man bowing,"apology, bowing, favor, gesture, man, sorry",,,,,🙇‍♂️,1F647-200D-2642-FE0F,4,1116
+🙇‍♀️,1F647-200D-2640-FE0F,smileys-people,person-gesture,woman bowing,"apology, bowing, favor, gesture, sorry, woman",,,,,🙇‍♀️,1F647-200D-2640-FE0F,4,1128
+🤷‍♂️,1F937-200D-2642-FE0F,smileys-people,person-gesture,man shrugging,"doubt, ignorance, indifference, man, shrug",,,,,🤷‍♂️,1F937-200D-2642-FE0F,4,1176
+🤷‍♀️,1F937-200D-2640-FE0F,smileys-people,person-gesture,woman shrugging,"doubt, ignorance, indifference, shrug, woman",,,,,🤷‍♀️,1F937-200D-2640-FE0F,4,1188
+💆‍♂️,1F486-200D-2642-FE0F,smileys-people,person-activity,man getting massage,"face, man, massage",,,,,💆‍♂️,1F486-200D-2642-FE0F,4,1206
+💆‍♀️,1F486-200D-2640-FE0F,smileys-people,person-activity,woman getting massage,"face, massage, woman",,,,,💆‍♀️,1F486-200D-2640-FE0F,4,1218
+💇‍♂️,1F487-200D-2642-FE0F,smileys-people,person-activity,man getting haircut,"haircut, man",,,,,💇‍♂️,1F487-200D-2642-FE0F,4,1236
+💇‍♀️,1F487-200D-2640-FE0F,smileys-people,person-activity,woman getting haircut,"haircut, woman",,,,,💇‍♀️,1F487-200D-2640-FE0F,4,1248
+🏃‍♂️,1F3C3-200D-2642-FE0F,smileys-people,person-activity,man running,"man, marathon, racing, running",,,,,🏃‍♂️,1F3C3-200D-2642-FE0F,4,1296
+🏃‍♀️,1F3C3-200D-2640-FE0F,smileys-people,person-activity,woman running,"marathon, racing, running, woman",,,,,🏃‍♀️,1F3C3-200D-2640-FE0F,4,1308
+👯‍♂️,1F46F-200D-2642-FE0F,smileys-people,person-activity,men with bunny ears,"bunny ear, dancer, men, partying",,,,,,,4,1333
+👯‍♀️,1F46F-200D-2640-FE0F,smileys-people,person-activity,women with bunny ears,"bunny ear, dancer, partying, women",,,,,,,4,1335
+🧖,1F9D6,smileys-people,person-activity,person in steamy room,"sauna, steam room",,,,,🧖,1F9D6,5,1337
+🧖‍♀️,1F9D6-200D-2640-FE0F,smileys-people,person-activity,woman in steamy room,"sauna, steam room",,,,,🧖‍♀️,1F9D6-200D-2640-FE0F,5,1343
+🧖‍♂️,1F9D6-200D-2642-FE0F,smileys-people,person-activity,man in steamy room,"sauna, steam room",,,,,🧖‍♂️,1F9D6-200D-2642-FE0F,5,1355
+🧗‍♀️,1F9D7-200D-2640-FE0F,smileys-people,person-activity,woman climbing,climber,,,,,🧗‍♀️,1F9D7-200D-2640-FE0F,5,1373
+🧗‍♂️,1F9D7-200D-2642-FE0F,smileys-people,person-activity,man climbing,climber,,,,,🧗‍♂️,1F9D7-200D-2642-FE0F,5,1385
+🧘‍♀️,1F9D8-200D-2640-FE0F,smileys-people,person-activity,woman in lotus position,"meditation, yoga",,,,,🧘‍♀️,1F9D8-200D-2640-FE0F,5,1403
+🧘‍♂️,1F9D8-200D-2642-FE0F,smileys-people,person-activity,man in lotus position,"meditation, yoga",,,,,🧘‍♂️,1F9D8-200D-2642-FE0F,5,1415
+🕴️,1F574,smileys-people,person-activity,man in suit levitating,"business, man, suit",,,,,🕴️,1F574,1,1440
+🏌️‍♂️,1F3CC-FE0F-200D-2642-FE0F,smileys-people,person-sport,man golfing,"golf, man",,,,,🏌️‍♂️,1F3CC-FE0F-200D-2642-FE0F,4,1472
+🏌️‍♀️,1F3CC-FE0F-200D-2640-FE0F,smileys-people,person-sport,woman golfing,"golf, woman",,,,,🏌️‍♀️,1F3CC-FE0F-200D-2640-FE0F,4,1486
+🏄‍♂️,1F3C4-200D-2642-FE0F,smileys-people,person-sport,man surfing,"man, surfing",,,,,🏄‍♂️,1F3C4-200D-2642-FE0F,4,1506
+🏄‍♀️,1F3C4-200D-2640-FE0F,smileys-people,person-sport,woman surfing,"surfing, woman",,,,,🏄‍♀️,1F3C4-200D-2640-FE0F,4,1518
+🚣‍♂️,1F6A3-200D-2642-FE0F,smileys-people,person-sport,man rowing boat,"boat, man, rowboat",,,,,🚣‍♂️,1F6A3-200D-2642-FE0F,4,1536
+🚣‍♀️,1F6A3-200D-2640-FE0F,smileys-people,person-sport,woman rowing boat,"boat, rowboat, woman",,,,,🚣‍♀️,1F6A3-200D-2640-FE0F,4,1548
+🏊‍♂️,1F3CA-200D-2642-FE0F,smileys-people,person-sport,man swimming,"man, swim",,,,,🏊‍♂️,1F3CA-200D-2642-FE0F,4,1566
+🏊‍♀️,1F3CA-200D-2640-FE0F,smileys-people,person-sport,woman swimming,"swim, woman",,,,,🏊‍♀️,1F3CA-200D-2640-FE0F,4,1578
+⛹️‍♂️,26F9-FE0F-200D-2642-FE0F,smileys-people,person-sport,man bouncing ball,"ball, man",,,,,⛹️‍♂️,26F9-FE0F-200D-2642-FE0F,4,1597
+⛹️‍♀️,26F9-FE0F-200D-2640-FE0F,smileys-people,person-sport,woman bouncing ball,"ball, woman",,,,,⛹️‍♀️,26F9-FE0F-200D-2640-FE0F,4,1611
+🏋️‍♂️,1F3CB-FE0F-200D-2642-FE0F,smileys-people,person-sport,man lifting weights,"man, weight lifter",,,,,🏋️‍♂️,1F3CB-FE0F-200D-2642-FE0F,4,1632
+🏋️‍♀️,1F3CB-FE0F-200D-2640-FE0F,smileys-people,person-sport,woman lifting weights,"weight lifter, woman",,,,,🏋️‍♀️,1F3CB-FE0F-200D-2640-FE0F,4,1646
+🚴‍♂️,1F6B4-200D-2642-FE0F,smileys-people,person-sport,man biking,"bicycle, biking, cyclist, man",,,,,🚴‍♂️,1F6B4-200D-2642-FE0F,4,1666
+🚴‍♀️,1F6B4-200D-2640-FE0F,smileys-people,person-sport,woman biking,"bicycle, biking, cyclist, woman",,,,,🚴‍♀️,1F6B4-200D-2640-FE0F,4,1678
+🚵‍♂️,1F6B5-200D-2642-FE0F,smileys-people,person-sport,man mountain biking,"bicycle, bike, cyclist, man, mountain",,,,,🚵‍♂️,1F6B5-200D-2642-FE0F,4,1696
+🚵‍♀️,1F6B5-200D-2640-FE0F,smileys-people,person-sport,woman mountain biking,"bicycle, bike, biking, cyclist, mountain, woman",,,,,🚵‍♀️,1F6B5-200D-2640-FE0F,4,1708
+🤸‍♂️,1F938-200D-2642-FE0F,smileys-people,person-sport,man cartwheeling,"cartwheel, gymnastics, man",,,,,🤸‍♂️,1F938-200D-2642-FE0F,4,1730
+🤸‍♀️,1F938-200D-2640-FE0F,smileys-people,person-sport,woman cartwheeling,"cartwheel, gymnastics, woman",,,,,🤸‍♀️,1F938-200D-2640-FE0F,4,1742
+🤼‍♂️,1F93C-200D-2642-FE0F,smileys-people,person-sport,men wrestling,"men, wrestle",,,,,,,4,1755
+🤼‍♀️,1F93C-200D-2640-FE0F,smileys-people,person-sport,women wrestling,"women, wrestle",,,,,,,4,1757
+🤽‍♂️,1F93D-200D-2642-FE0F,smileys-people,person-sport,man playing water polo,"man, water polo",,,,,🤽‍♂️,1F93D-200D-2642-FE0F,4,1765
+🤽‍♀️,1F93D-200D-2640-FE0F,smileys-people,person-sport,woman playing water polo,"water polo, woman",,,,,🤽‍♀️,1F93D-200D-2640-FE0F,4,1777
+🤾‍♂️,1F93E-200D-2642-FE0F,smileys-people,person-sport,man playing handball,"handball, man",,,,,🤾‍♂️,1F93E-200D-2642-FE0F,4,1795
+🤾‍♀️,1F93E-200D-2640-FE0F,smileys-people,person-sport,woman playing handball,"handball, woman",,,,,🤾‍♀️,1F93E-200D-2640-FE0F,4,1807
+🤹‍♂️,1F939-200D-2642-FE0F,smileys-people,person-sport,man juggling,"juggling, man, multitask",,,,,🤹‍♂️,1F939-200D-2642-FE0F,4,1825
+🤹‍♀️,1F939-200D-2640-FE0F,smileys-people,person-sport,woman juggling,"juggling, multitask, woman",,,,,🤹‍♀️,1F939-200D-2640-FE0F,4,1837
+👨‍👩‍👦,1F468-200D-1F469-200D-1F466,smileys-people,family,"family: man, woman, boy","boy, family, man, woman",,,,,,,2,1867
+👨‍👩‍👧‍👦,1F468-200D-1F469-200D-1F467-200D-1F466,smileys-people,family,"family: man, woman, girl, boy","boy, family, girl, man, woman",,,,,,,2,1869
+👨‍👩‍👦‍👦,1F468-200D-1F469-200D-1F466-200D-1F466,smileys-people,family,"family: man, woman, boy, boy","boy, family, man, woman",,,,,,,2,1870
+👨‍👩‍👧‍👧,1F468-200D-1F469-200D-1F467-200D-1F467,smileys-people,family,"family: man, woman, girl, girl","family, girl, man, woman",,,,,,,2,1871
+👨‍👨‍👦,1F468-200D-1F468-200D-1F466,smileys-people,family,"family: man, man, boy","boy, family, man",,,,,,,2,1872
+👨‍👨‍👧,1F468-200D-1F468-200D-1F467,smileys-people,family,"family: man, man, girl","family, girl, man",,,,,,,2,1873
+👨‍👨‍👧‍👦,1F468-200D-1F468-200D-1F467-200D-1F466,smileys-people,family,"family: man, man, girl, boy","boy, family, girl, man",,,,,,,2,1874
+👨‍👨‍👦‍👦,1F468-200D-1F468-200D-1F466-200D-1F466,smileys-people,family,"family: man, man, boy, boy","boy, family, man",,,,,,,2,1875
+👨‍👨‍👧‍👧,1F468-200D-1F468-200D-1F467-200D-1F467,smileys-people,family,"family: man, man, girl, girl","family, girl, man",,,,,,,2,1876
+👩‍👩‍👦,1F469-200D-1F469-200D-1F466,smileys-people,family,"family: woman, woman, boy","boy, family, woman",,,,,,,2,1877
+👩‍👩‍👧,1F469-200D-1F469-200D-1F467,smileys-people,family,"family: woman, woman, girl","family, girl, woman",,,,,,,2,1878
+👩‍👩‍👧‍👦,1F469-200D-1F469-200D-1F467-200D-1F466,smileys-people,family,"family: woman, woman, girl, boy","boy, family, girl, woman",,,,,,,2,1879
+👩‍👩‍👦‍👦,1F469-200D-1F469-200D-1F466-200D-1F466,smileys-people,family,"family: woman, woman, boy, boy","boy, family, woman",,,,,,,2,1880
+👩‍👩‍👧‍👧,1F469-200D-1F469-200D-1F467-200D-1F467,smileys-people,family,"family: woman, woman, girl, girl","family, girl, woman",,,,,,,2,1881
+👨‍👦,1F468-200D-1F466,smileys-people,family,"family: man, boy","boy, family, man",,,,,,,4,1882
+👨‍👦‍👦,1F468-200D-1F466-200D-1F466,smileys-people,family,"family: man, boy, boy","boy, family, man",,,,,,,4,1883
+👨‍👧,1F468-200D-1F467,smileys-people,family,"family: man, girl","family, girl, man",,,,,,,4,1884
+👨‍👧‍👦,1F468-200D-1F467-200D-1F466,smileys-people,family,"family: man, girl, boy","boy, family, girl, man",,,,,,,4,1885
+👨‍👧‍👧,1F468-200D-1F467-200D-1F467,smileys-people,family,"family: man, girl, girl","family, girl, man",,,,,,,4,1886
+👩‍👦,1F469-200D-1F466,smileys-people,family,"family: woman, boy","boy, family, woman",,,,,,,4,1887
+👩‍👦‍👦,1F469-200D-1F466-200D-1F466,smileys-people,family,"family: woman, boy, boy","boy, family, woman",,,,,,,4,1888
+👩‍👧,1F469-200D-1F467,smileys-people,family,"family: woman, girl","family, girl, woman",,,,,,,4,1889
+👩‍👧‍👦,1F469-200D-1F467-200D-1F466,smileys-people,family,"family: woman, girl, boy","boy, family, girl, woman",,,,,,,4,1890
+👩‍👧‍👧,1F469-200D-1F467-200D-1F467,smileys-people,family,"family: woman, girl, girl","family, girl, woman",,,,,,,4,1891
+🦵,1F9B5,smileys-people,body,leg,"kick, limb",,,,,🦵,1F9B5,11,1904
+🦶,1F9B6,smileys-people,body,foot,"kick, stomp",,,,,🦶,1F9B6,11,1910
+💅,1F485,smileys-people,body,nail polish,"care, cosmetics, manicure, nail, polish",,,,,💅,1F485,1,2095
+🦴,1F9B4,smileys-people,body,bone,skeleton,,,,,,,11,2126
+🦷,1F9B7,smileys-people,body,tooth,dentist,,,,,,,11,2127
+🧡,1F9E1,smileys-people,emotion,orange heart,orange,,,,,,,5,2142
+🥽,1F97D,smileys-people,clothing,goggles,"eye protection, swimming, welding",,,,,,,11,2169
+🥼,1F97C,smileys-people,clothing,lab coat,"doctor, experiment, scientist",,,,,,,11,2170
+🧣,1F9E3,smileys-people,clothing,scarf,neck,,,,,,,5,2174
+🧤,1F9E4,smileys-people,clothing,gloves,hand,,,,,,,5,2175
+🧦,1F9E6,smileys-people,clothing,socks,stocking,,,,,,,5,2177
+🥾,1F97E,smileys-people,clothing,hiking boot,"backpacking, boot, camping, hiking",,,,,,,11,2190
+🥿,1F97F,smileys-people,clothing,flat shoe,"ballet flat, slip-on, slipper",,,,,,,11,2191
+🦝,1F99D,animals-nature,animal-mammal,raccoon,"curious, sly",,,,,,,11,2214
+🦙,1F999,animals-nature,animal-mammal,llama,"alpaca, guanaco, vicuña, wool",,,,,,,11,2239
+🦛,1F99B,animals-nature,animal-mammal,hippopotamus,hippo,,,,,,,11,2243
+🦘,1F998,animals-nature,animal-mammal,kangaroo,"australia, joey, jump, marsupial",,,,,,,11,2257
+🦡,1F9A1,animals-nature,animal-mammal,badger,"honey badger, pester",,,,,,,11,2258
+🦢,1F9A2,animals-nature,animal-bird,swan,"bird, cygnet, ugly duckling",,,,,,,11,2272
+🦚,1F99A,animals-nature,animal-bird,peacock,"bird, ostentatious, peahen, proud",,,,,,,11,2274
+🦜,1F99C,animals-nature,animal-bird,parrot,"bird, pirate, talk",,,,,,,11,2275
+🦞,1F99E,animals-nature,animal-marine,lobster,"bisque, claws, seafood",,,,,,,11,2295
+🦟,1F99F,animals-nature,animal-bug,mosquito,"disease, fever, insect, malaria, virus",,,,,,,11,2310
+🦠,1F9A0,animals-nature,animal-bug,microbe,"amoeba, bacteria, virus",,,,,,,11,2311
+💮,1F4AE,animals-nature,plant-flower,white flower,flower,,,,,,,1,2314
+🏵️,1F3F5,animals-nature,plant-flower,rosette,plant,,,,,,,1,2316
+🍂,1F342,animals-nature,plant-other,fallen leaf,"falling, leaf",,,,,,,1,2334
+🍃,1F343,animals-nature,plant-other,leaf fluttering in wind,"blow, flutter, leaf, wind",,,,,,,1,2335
+🥭,1F96D,food-drink,food-fruit,mango,"fruit, tropical",,,,,,,11,2343
+🥬,1F96C,food-drink,food-vegetable,leafy green,"bok choy, cabbage, kale, lettuce",,,,,,,11,2361
+🥯,1F96F,food-drink,food-prepared,bagel,"bakery, schmear",,,,,,,11,2370
+🥞,1F95E,food-drink,food-prepared,pancakes,"crêpe, food, hotcake, pancake",,,,,,,3,2371
+🥙,1F959,food-drink,food-prepared,stuffed flatbread,"falafel, flatbread, food, gyro, kebab, stuffed",,,,,,,3,2384
+🥘,1F958,food-drink,food-prepared,shallow pan of food,"casserole, food, paella, pan, shallow",,,,,,,3,2387
+🥗,1F957,food-drink,food-prepared,green salad,"food, green, salad",,,,,,,3,2390
+🧂,1F9C2,food-drink,food-prepared,salt,"condiment, shaker",,,,,,,11,2392
+🍛,1F35B,food-drink,food-asian,curry rice,"curry, rice",,,,,,,1,2398
+🥮,1F96E,food-drink,food-asian,moon cake,"autumn, festival, yuèbǐng",,,,,,,11,2406
+🥟,1F95F,food-drink,food-asian,dumpling,"empanada, gyōza, jiaozi, pierogi, potsticker",,,,,,,5,2408
+🥠,1F960,food-drink,food-asian,fortune cookie,prophecy,,,,,,,5,2409
+🧁,1F9C1,food-drink,food-sweet,cupcake,"bakery, sweet",,,,,,,11,2418
+🧭,1F9ED,travel-places,place-map,compass,"magnetic, navigation, orienteering",,,,,,,11,2453
+🧱,1F9F1,travel-places,place-building,brick,"bricks, clay, mortar, wall",,,,,,,11,2476
+🌁,1F301,travel-places,place-other,foggy,fog,,,,,,,1,2507
+🌉,1F309,travel-places,place-other,bridge at night,"bridge, night",,,,,,,1,2515
+🌌,1F30C,travel-places,place-other,milky way,space,,,,,,,1,2518
+🚄,1F684,travel-places,transport-ground,high-speed train,"railway, shinkansen, speed, train",,,,,,,1,2526
+🛹,1F6F9,travel-places,transport-ground,skateboard,board,,,,,,,11,2554
+🛶,1F6F6,travel-places,transport-water,canoe,boat,,,,,,,3,2571
+🧳,1F9F3,travel-places,hotel,luggage,"packing, travel",,,,,,,11,2597
+🌫️,1F32B,travel-places,sky-weather,fog,cloud,,,,,,,1,2673
+🎆,1F386,activities,event,fireworks,celebration,,,,,,,1,2697
+🎇,1F387,activities,event,sparkler,"celebration, fireworks, sparkle",,,,,,,1,2698
+🧨,1F9E8,activities,event,firecracker,"dynamite, explosive, fireworks",,,,,,,11,2699
+🎍,1F38D,activities,event,pine decoration,"bamboo, celebration, japanese, pine",,,,,,,1,2705
+🎏,1F38F,activities,event,carp streamer,"carp, celebration, streamer",,,,,,,1,2707
+🎐,1F390,activities,event,wind chime,"bell, celebration, chime, wind",,,,,,,1,2708
+🎑,1F391,activities,event,moon viewing ceremony,"celebration, ceremony, moon",,,,,,,1,2709
+🧧,1F9E7,activities,event,red envelope,"gift, good luck, hóngbāo, lai see, money",,,,,,,11,2710
+🥎,1F94E,activities,sport,softball,"ball, glove, underarm",,,,,,,11,2727
+🥏,1F94F,activities,sport,flying disc,ultimate,,,,,,,11,2733
+🥍,1F94D,activities,sport,lacrosse,"ball, goal, stick",,,,,,,11,2738
+🥅,1F945,activities,sport,goal net,"goal, net",,,,,,,3,2743
+🛷,1F6F7,activities,sport,sled,"sledge, sleigh",,,,,,,5,2750
+🧿,1F9FF,activities,game,nazar amulet,"bead, charm, evil-eye, nazar, talisman",,,,,,,11,2755
+🎰,1F3B0,activities,game,slot machine,"game, slot",,,,,,,1,2759
+🧩,1F9E9,activities,game,jigsaw,"clue, interlocking, piece, puzzle",,,,,,,11,2761
+🧸,1F9F8,activities,game,teddy bear,"plaything, plush, stuffed, toy",,,,,,,11,2762
+♠️,2660,activities,game,spade suit,"card, game",,,,,,,1,2764
+♥️,2665,activities,game,heart suit,"card, game",,,,,,,1,2766
+♦️,2666,activities,game,diamond suit,"card, game",,,,,,,1,2768
+♣️,2663,activities,game,club suit,"card, game",,,,,,,1,2770
+♟️,265F,activities,game,chess pawn,"chess, dupe, expendable",,,,,,,11,2772
+🃏,1F0CF,activities,game,joker,"card, game, wildcard",,,,,,,1,2773
+🀄️,1F004,activities,game,mahjong red dragon,"game, mahjong, red",,,,,,,1,2774
+🧵,1F9F5,activities,arts-crafts,thread,"needle, sewing, spool, string",,,,,,,11,2780
+🧶,1F9F6,activities,arts-crafts,yarn,"ball, crochet, knit",,,,,,,11,2781
+📟️,1F4DF,objects,phone,pager,pager,,,,,,,1,2814
+🖲️,1F5B2,objects,computer,trackball,computer,,,,,,,1,2828
+🧮,1F9EE,objects,computer,abacus,calculation,,,,,,,11,2833
+🗞️,1F5DE,objects,book-paper,rolled-up newspaper,"news, newspaper, paper, rolled",,,,,,,1,2866
+🧾,1F9FE,objects,money,receipt,"accounting, bookkeeping, evidence, proof",,,,,,,11,2878
+📇,1F4C7,objects,office,card index,"card, index, rolodex",,,,,,,1,2921
+🧰,1F9F0,objects,tool,toolbox,"chest, mechanic, tool",,,,,,,11,2974
+🧲,1F9F2,objects,tool,magnet,"attraction, horseshoe, magnetic",,,,,,,11,2975
+🧪,1F9EA,objects,science,test tube,"chemist, chemistry, experiment, lab, science",,,,,,,11,2978
+🧫,1F9EB,objects,science,petri dish,"bacteria, biologist, biology, culture, lab",,,,,,,11,2979
+🧬,1F9EC,objects,science,dna,"biologist, evolution, gene, genetics, life",,,,,,,11,2980
+🧴,1F9F4,objects,household,lotion bottle,"lotion, moisturizer, shampoo, sunscreen",,,,,,,11,2994
+🧷,1F9F7,objects,household,safety pin,"diaper, punk rock",,,,,,,11,2995
+🧹,1F9F9,objects,household,broom,"cleaning, sweeping, witch",,,,,,,11,2996
+🧺,1F9FA,objects,household,basket,"farming, laundry, picnic",,,,,,,11,2997
+🧻,1F9FB,objects,household,roll of paper,"paper towels, toilet paper",,,,,,,11,2998
+🧼,1F9FC,objects,household,soap,"bar, bathing, cleaning, lather, soapdish",,,,,,,11,2999
+🧽,1F9FD,objects,household,sponge,"absorbing, cleaning, porous",,,,,,,11,3000
+🧯,1F9EF,objects,household,fire extinguisher,"extinguish, fire, quench",,,,,,,11,3001
+🏧,1F3E7,symbols,transport-sign,ATM sign,"atm, atm sign, automated, bank, teller",,,,,,,1,3009
+🛂,1F6C2,symbols,transport-sign,passport control,"control, passport",,,,,,,1,3018
+🛃,1F6C3,symbols,transport-sign,customs,customs,,,,,,,1,3019
+🚸,1F6B8,symbols,warning,children crossing,"child, crossing, pedestrian, traffic",,,,,,,1,3024
+☣️,2623,symbols,warning,biohazard,sign,,,,,,,1,3037
+♌️,264C,symbols,zodiac,Leo,"leo, lion, zodiac",,,,,,,1,3098
+♾️,267E,symbols,other-symbol,infinity,"forever, unbounded, universal",,,,,,,11,3147
+⚜️,269C,symbols,other-symbol,fleur-de-lis,fleur-de-lis,,,,,,,1,3151
+📛,1F4DB,symbols,other-symbol,name badge,"badge, name",,,,,,,1,3153
+🔰,1F530,symbols,other-symbol,Japanese symbol for beginner,"beginner, chevron, japanese, japanese symbol for beginner, leaf",,,,,,,1,3154
+➰,27B0,symbols,other-symbol,curly loop,"curl, loop",,,,,,,1,3168
+➿,27BF,symbols,other-symbol,double curly loop,"curl, double, loop",,,,,,,1,3169
+〽️,303D,symbols,other-symbol,part alternation mark,"mark, part",,,,,,,1,3171
+✳️,2733,symbols,other-symbol,eight-spoked asterisk,asterisk,,,,,,,1,3173
+✴️,2734,symbols,other-symbol,eight-pointed star,star,,,,,,,1,3175
+❇️,2747,symbols,other-symbol,sparkle,sparkle,,,,,,,1,3177
+‼️,203C,symbols,other-symbol,double exclamation mark,"bangbang, exclamation, mark, punctuation",,,,,,,1,3179
+⁉️,2049,symbols,other-symbol,exclamation question mark,"exclamation, interrobang, mark, punctuation, question",,,,,,,1,3181
+™️,2122,symbols,other-symbol,trade mark,"mark, tm, trademark",,,,,,,1,3193
+#️⃣,0023-FE0F-20E3,symbols,keycap,keycap: #,keycap,,,,,,,3,3194
+*️⃣,002A-FE0F-20E3,symbols,keycap,keycap: *,keycap,,,,,,,3,3196
+0️⃣,0030-FE0F-20E3,symbols,keycap,keycap: 0,keycap,,,,,,,3,3198
+1️⃣,0031-FE0F-20E3,symbols,keycap,keycap: 1,keycap,,,,,,,3,3200
+2️⃣,0032-FE0F-20E3,symbols,keycap,keycap: 2,keycap,,,,,,,3,3202
+3️⃣,0033-FE0F-20E3,symbols,keycap,keycap: 3,keycap,,,,,,,3,3204
+4️⃣,0034-FE0F-20E3,symbols,keycap,keycap: 4,keycap,,,,,,,3,3206
+5️⃣,0035-FE0F-20E3,symbols,keycap,keycap: 5,keycap,,,,,,,3,3208
+6️⃣,0036-FE0F-20E3,symbols,keycap,keycap: 6,keycap,,,,,,,3,3210
+7️⃣,0037-FE0F-20E3,symbols,keycap,keycap: 7,keycap,,,,,,,3,3212
+8️⃣,0038-FE0F-20E3,symbols,keycap,keycap: 8,keycap,,,,,,,3,3214
+9️⃣,0039-FE0F-20E3,symbols,keycap,keycap: 9,keycap,,,,,,,3,3216
+🔟,1F51F,symbols,keycap,keycap: 10,keycap,,,,,,,1,3218
+🅰️,1F170,symbols,alphanum,A button (blood type),"a, a button (blood type), blood type",,,,,,,1,3226
+🆎,1F18E,symbols,alphanum,AB button (blood type),"ab, ab button (blood type), blood type",,,,,,,1,3227
+🅱️,1F171,symbols,alphanum,B button (blood type),"b, b button (blood type), blood type",,,,,,,1,3229
+🆑,1F191,symbols,alphanum,CL button,"cl, cl button",,,,,,,1,3230
+🆓,1F193,symbols,alphanum,FREE button,"free, free button",,,,,,,1,3232
+Ⓜ️,24C2,symbols,alphanum,circled M,"circle, circled m, m",,,,,,,1,3237
+🆖,1F196,symbols,alphanum,NG button,"ng, ng button",,,,,,,1,3239
+🅾️,1F17E,symbols,alphanum,O button (blood type),"blood type, o, o button (blood type)",,,,,,,1,3241
+🆙,1F199,symbols,alphanum,UP! button,"mark, up, up! button",,,,,,,1,3246
+🈁,1F201,symbols,alphanum,Japanese “here” button,"japanese, japanese “here” button, katakana, “here”, ココ",,,,,,,1,3248
+🈷️,1F237,symbols,alphanum,Japanese “monthly amount” button,"ideograph, japanese, japanese “monthly amount” button, “monthly amount”, 月",,,,,,,1,3252
+🈶,1F236,symbols,alphanum,Japanese “not free of charge” button,"ideograph, japanese, japanese “not free of charge” button, “not free of charge”, 有",,,,,,,1,3253
+🈯️,1F22F,symbols,alphanum,Japanese “reserved” button,"ideograph, japanese, japanese “reserved” button, “reserved”, 指",,,,,,,1,3254
+🉐,1F250,symbols,alphanum,Japanese “bargain” button,"ideograph, japanese, japanese “bargain” button, “bargain”, 得",,,,,,,1,3255
+🈹,1F239,symbols,alphanum,Japanese “discount” button,"ideograph, japanese, japanese “discount” button, “discount”, 割",,,,,,,1,3256
+🈚️,1F21A,symbols,alphanum,Japanese “free of charge” button,"ideograph, japanese, japanese “free of charge” button, “free of charge”, 無",,,,,,,1,3257
+🈲,1F232,symbols,alphanum,Japanese “prohibited” button,"ideograph, japanese, japanese “prohibited” button, “prohibited”, 禁",,,,,,,1,3258
+🉑,1F251,symbols,alphanum,Japanese “acceptable” button,"ideograph, japanese, japanese “acceptable” button, “acceptable”, 可",,,,,,,1,3259
+🈸,1F238,symbols,alphanum,Japanese “application” button,"ideograph, japanese, japanese “application” button, “application”, 申",,,,,,,1,3260
+🈴,1F234,symbols,alphanum,Japanese “passing grade” button,"ideograph, japanese, japanese “passing grade” button, “passing grade”, 合",,,,,,,1,3261
+🈳,1F233,symbols,alphanum,Japanese “vacancy” button,"ideograph, japanese, japanese “vacancy” button, “vacancy”, 空",,,,,,,1,3262
+🈺,1F23A,symbols,alphanum,Japanese “open for business” button,"ideograph, japanese, japanese “open for business” button, “open for business”, 営",,,,,,,1,3267
+🈵,1F235,symbols,alphanum,Japanese “no vacancy” button,"ideograph, japanese, japanese “no vacancy” button, “no vacancy”, 満",,,,,,,1,3268
+▪️,25AA,symbols,geometric,black small square,"geometric, square",,,,,,,1,3270
+▫️,25AB,symbols,geometric,white small square,"geometric, square",,,,,,,1,3272
+◻️,25FB,symbols,geometric,white medium square,"geometric, square",,,,,,,1,3274
+◼️,25FC,symbols,geometric,black medium square,"geometric, square",,,,,,,1,3276
+◽️,25FD,symbols,geometric,white medium-small square,"geometric, square",,,,,,,1,3277
+◾️,25FE,symbols,geometric,black medium-small square,"geometric, square",,,,,,,1,3278
+⬛️,2B1B,symbols,geometric,black large square,"geometric, square",,,,,,,1,3279
+⬜️,2B1C,symbols,geometric,white large square,"geometric, square",,,,,,,1,3280
+🔶,1F536,symbols,geometric,large orange diamond,"diamond, geometric, orange",,,,,,,1,3281
+🔷,1F537,symbols,geometric,large blue diamond,"blue, diamond, geometric",,,,,,,1,3282
+🔸,1F538,symbols,geometric,small orange diamond,"diamond, geometric, orange",,,,,,,1,3283
+🔹,1F539,symbols,geometric,small blue diamond,"blue, diamond, geometric",,,,,,,1,3284
+💠,1F4A0,symbols,geometric,diamond with a dot,"comic, diamond, geometric, inside",,,,,,,1,3287
+🔲,1F532,symbols,geometric,black square button,"button, geometric, square",,,,,,,1,3289
+🔳,1F533,symbols,geometric,white square button,"button, geometric, outlined, square",,,,,,,1,3290
+⚪️,26AA,symbols,geometric,white circle,"circle, geometric",,,,,,,1,3291
+⚫️,26AB,symbols,geometric,black circle,"circle, geometric",,,,,,,1,3292
+🔴,1F534,symbols,geometric,red circle,"circle, geometric, red",,,,,,,1,3293
+🔵,1F535,symbols,geometric,blue circle,"blue, circle, geometric",,,,,,,1,3294
+🎌,1F38C,flags,flag,crossed flags,"celebration, cross, crossed, japanese",,,,,,,1,3297

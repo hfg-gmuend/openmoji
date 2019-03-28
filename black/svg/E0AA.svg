@@ -1,0 +1,9 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path d="M31.3022,26.2034V12.6359A3.0316,3.0316,0,0,0,28.2973,9.631h0a3.0315,3.0315,0,0,0-3.0048,3.0049h0V26.2034" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M47.5144,26.2034V12.6359A3.0315,3.0315,0,0,0,44.51,9.631h0a3.0316,3.0316,0,0,0-3.0049,3.0049h0V26.2034" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M19.5124,26.2944V36.766a16.5724,16.5724,0,0,0,33.1447,0V26.2944Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="30.075 52.337 31.623 57.982 40.638 57.982 42.095 52.337" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="32.442 64.467 32.442 57.982 39.818 57.982 39.818 64.467" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

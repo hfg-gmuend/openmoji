@@ -1,0 +1,15 @@
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" style="enable-background:new 0 0 72 72" xml:space="preserve">
+  <style type="text/css">
+    .st1{fill:none;stroke:#00A4FF;stroke-width:0.1;stroke-miterlimit:10}.st3{fill:#F1B31C}.st11{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round}
+  </style>
+  <g id="emoji">
+    <g id="line">
+      <path d="M19.1,33.3c0-9.8,7.9-17.7,17.6-17.7c9.8,0,17.7,7.9,17.7,17.6c0,0,0,0.1,0,0.1" style="fill:none;stroke:#000000;stroke-width:2.3562;stroke-linecap:round;stroke-linejoin:round"/>
+      <path d="M17.3,34.3h39c0.9,0,1.7,0.8,1.7,1.7v0.1c0,0.9-0.8,1.7-1.7,1.7h-39c-0.9,0-1.7-0.8-1.7-1.7V36 C15.6,35,16.3,34.3,17.3,34.3z" style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round"/>
+      <rect x="35" y="38.4" width="3.5" height="2.4" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-miterlimit:10"/>
+      <rect x="17.4" y="41.9" class="st11" width="37.7" height="3.5"/>
+      <rect x="15" y="45.5" class="st11" width="42.4" height="3.5"/>
+      <path d="M35,15c0-1.3,1-2.4,2.3-2.4c1.3,0,2.4,1,2.4,2.3c0,0,0,0,0,0" style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"/>
+    </g>
+  </g>
+</svg>

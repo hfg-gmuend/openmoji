@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="emoji">
+    <g id="line">
+      <path d="M28.0542,44.3144l1.0332,2.7421.3112,2.0492-1.0159,2.793L27.4042,53.07l-1.6.7034-1.0825.5953-2.4946.6928-.7573-.165-1.9634-.025-2.03-.9106-1.6125-2.0421-.7486-2.0038-.974-2.0116.448-1.2854.3246-1.2306.5009-2.3322,3.8089-2.0374L21.56,41s.9362.4209,1.2579.56c.1121.0485,1.0541.38,1.1731.4077Z" fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.49"/>
+      <line x1="26.8412" y1="36.7588" x2="46.2765" y2="17.3235" fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="31.7824" y1="37.9824" x2="55.3824" y2="14.3824" fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="35.1706" y1="40.2294" x2="51.1353" y2="24.2647" fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="40.1706" y1="18.2294" x2="43.7" y2="14.7" fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="25.1706" y1="33.2294" x2="28.7" y2="29.7" fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="33.1706" y1="46.2294" x2="36.7" y2="42.7" fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="56.1706" y1="19.2294" x2="59.7" y2="15.7" fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M22.6083,30.4963a1.1257,1.1257,0,0,0,0-2.25,1.1257,1.1257,0,0,0,0,2.25Z" fill="#3f3f3f"/>
+      <path d="M30.6083,58.4963a1.1257,1.1257,0,0,0,0-2.25,1.1257,1.1257,0,0,0,0,2.25Z" fill="#3f3f3f"/>
+      <polygon points="40 41 42 41 42.75 38.75 43.5 41 45.5 41 44 42.25 44.5 44.25 42.75 43 41 44.25 41.75 42.25 40 41" fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <polygon points="28 20 30 20 30.75 17.75 31.5 20 33.5 20 32 21.25 32.5 23.25 30.75 22 29 23.25 29.75 21.25 28 20" fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M53.6083,28.4963a1.1257,1.1257,0,0,0,0-2.25,1.1257,1.1257,0,0,0,0,2.25Z" fill="#3f3f3f"/>
+    </g>
+  </g>
+</svg>

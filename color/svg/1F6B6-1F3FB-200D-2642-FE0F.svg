@@ -1,0 +1,20 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="color"/>
+  <g id="hair"/>
+  <g id="skin">
+    <polyline fill="#fadcbc" points="40,29 41,37 37,42 30.1738,67 27,66 31,30" stroke="none"/>
+    <polyline fill="#fadcbc" points="39,39 41,50 48.167,64 46,65 37,53 35,47" stroke="none"/>
+    <path fill="#fadcbc" d="M32,30c0,0,0-1.3501,0-3s0.2246-4.7812,0.5-6.958c0.2754-2.1768,2.2998-3.958,4.5-3.958l0,0 c2.2002,0,4,1.7998,4,4V29" stroke="none"/>
+    <path fill="#fadcbc" d="M41,30" stroke="none"/>
+    <circle fill="#fadcbc" cx="35.8789" cy="8.1211" r="2.8789" stroke="none"/>
+  </g>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M40,29l0.752,6.0156c0.1367,1.0918-0.3145,2.6875-1.001,3.5459l-1.502,1.877c-0.6865,0.8584-1.4863,2.4297-1.7754,3.4912 l-5.7734,21.1406C30.4111,66.1318,29.4033,67,28.4619,67s-1.6094-0.8945-1.4834-1.9873L31,30"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M40,39l1.6426,9.0322c0.1963,1.0821,0.7676,2.7686,1.2685,3.7481l5.3448,10.4394c0.5009,0.9795,0.2363,2.2305-0.5889,2.7803 c-0.8252,0.5498-1.9785,0.2383-2.5635-0.6934l-6.04-9.6132c-0.585-0.9317-1.3477-2.5469-1.6963-3.5909L36,47"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M31,30c0,0,0-1.3501,0-3s0.2246-4.7812,0.5-6.958c0.2754-2.1768,2.2998-3.958,4.5-3.958l0,0c2.2002,0,4,1.7998,4,4V29"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M40,30"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M36,20l0.1875,7.2505c0.0283,1.0996-0.1543,2.8755-0.4072,3.9458L33,43"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="35.8789" cy="8.1211" r="2.8789"/>
+  </g>
+</svg>

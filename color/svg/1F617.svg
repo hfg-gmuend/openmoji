@@ -1,27 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDE17__1_">
-	<path fill="none" stroke="#1F201F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M20.3,44"/>
-	<g>
-		<defs>
-			<polygon id="SVGID_1_" points="34.2,13 25.6,14.7 20.3,17.7 15.4,22.8 12,30.2 12,42.5 17.6,51.9 25.6,57.3 34.2,59 41.4,57.9 
-				49.1,53.5 54.2,47.4 57.2,38.2 56.5,30.2 52.7,22.3 48.5,18 41.2,14.1 			"/>
-		</defs>
-		<use xlink:href="#SVGID_1_"  overflow="visible" fill="#FCEA2B"/>
-		<clipPath id="SVGID_2_">
-			<use xlink:href="#SVGID_1_"  overflow="visible"/>
-		</clipPath>
-	</g>
-	<path fill="none" stroke="#1F201E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M46.2,45.7"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M34.8,42.1c0,0,10.5,3.2,0,5.6c0,0,10.5,3,0,4.9"/>
-	<circle cx="25.6" cy="32.6" r="2.6"/>
-	<circle cx="42.9" cy="32.6" r="2.6"/>
-	
-		<ellipse transform="matrix(2.335999e-03 -1 1 2.335999e-03 -1.6849 70.3642)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="34.4" cy="36" rx="23" ry="23"/>
-</g>
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+  <g id="color">
+    <circle fill="#FCEA2B" cx="34.4208" cy="36.0252" r="22.5687"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M34.8361,42.1175c0,0,10.5248,3.1956,0,5.5637c0,0,10.4577,2.9883,0,4.9125"/>
+    <circle cx="25.6105" cy="32.6037" r="2.6038"/>
+    <circle cx="42.8605" cy="32.6037" r="2.6038"/>
+    <ellipse fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="34.4208" cy="36.0252" rx="23.0001" ry="23.0001"/>
+  </g>
 </svg>

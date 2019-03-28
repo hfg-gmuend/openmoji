@@ -1,42 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDCDD__2_">
-	<rect x="16.4" y="11.4" fill="#FFFFFF" width="39.6" height="49.1"/>
-	<g id="_xD83D__xDCDD_">
-		<polygon fill="#020303" points="38.1,47.2 40.5,49.6 37,50.9 		"/>
-		<polyline fill="#F5AB42" points="39.9,40.2 51.2,28.9 58.6,36.3 47.4,47.5 		"/>
-		<polyline fill="#A47939" points="37.9,46.8 39.9,41.2 46.4,47.6 40.7,49.6 		"/>
-		<polyline fill="#EA5A47" points="54.6,25.1 58.6,21.1 66.4,28.9 62.5,32.9 		"/>
-		<polyline fill="#D0D0D0" points="50.5,29.7 55.1,25.1 62.5,32.4 57.9,37 		"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="22.3" y1="19.9" x2="49.3" y2="19.9"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="22.3" y1="27.9" x2="47.9" y2="27.9"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="22.3" y1="35.9" x2="39.4" y2="35.9"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="22.3" y1="43.9" x2="34.5" y2="43.9"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="22.3" y1="51.9" x2="32.5" y2="51.9"/>
-		<polygon fill="#020303" points="38.1,47.2 40.5,49.6 37,50.9 		"/>
-		
-			<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			40.7,49.6 46.4,47.6 61.9,32 55.5,25.6 39.9,41.2 37.9,46.8 		"/>
-		
-			<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			58.1,23 59.6,21.4 66.1,27.9 64.5,29.5 		"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="40.3" y1="40.8" x2="46.7" y2="47.2"/>
-		
-			<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			37.9,46.8 36.5,51 40.7,49.6 		"/>
-		
-			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="51.3" y1="30.2" x2="57.5" y2="36.4"/>
-		
-			<polyline fill="none" stroke="#000000" stroke-width="2.0206" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			55.3,44.2 55.3,59.9 16.3,59.9 16.3,11.9 55.3,11.9 55.3,20.3 		"/>
-	</g>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="color">
+    <rect x="16.4055" y="11.3783" fill="#FFFFFF" width="39.5645" height="49.0659" stroke="none"/>
+    <polyline fill="#f4aa41" points="39.9312,40.2224 51.2252,28.9284 58.6008,36.304 47.4027,47.5021" stroke="none"/>
+    <polyline fill="#a57939" points="37.9415,46.8185 39.902,41.17 46.3562,47.624 40.7075,49.5846" stroke="none"/>
+    <polyline fill="#EA5A47" points="54.6088,25.0518 58.5874,21.0732 66.4459,28.9316 62.5011,32.8765" stroke="none"/>
+    <polyline fill="#d0cfce" points="50.4943,29.6593 55.1018,25.0519 62.4773,32.4274 57.9089,36.9958" stroke="none"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <polygon fill="#000000" points="38.0702,47.191 40.4564,49.5772 36.9921,50.8566" stroke="none"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="22.3215" y1="19.875" x2="49.3215" y2="19.875"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="22.3215" y1="27.875" x2="47.9215" y2="27.875"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="22.3215" y1="35.875" x2="39.4312" y2="35.875"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="22.3215" y1="43.875" x2="34.5284" y2="43.875"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="22.3215" y1="51.875" x2="32.4675" y2="51.875"/>
+    <polygon fill="#000000" points="38.0702,47.191 40.4564,49.5772 36.9921,50.8566" stroke="none"/>
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="40.6919,49.591 46.3562,47.624 61.9461,32.034 55.492,25.5799 39.902,41.17 37.9282,46.841"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="58.0856,22.9863 59.6411,21.4309 66.0952,27.885 64.4634,29.5168"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="40.2788" y1="40.7932" x2="46.7329" y2="47.2473"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="37.9323,46.8277 36.5493,50.9768 40.7075,49.5846"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="51.3023" y1="30.1572" x2="57.5042" y2="36.3591"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2.0206" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="55.3215,44.228 55.3215,59.875 16.3215,59.875 16.3215,11.875 55.3215,11.875 55.3215,20.3309"/>
+  </g>
 </svg>

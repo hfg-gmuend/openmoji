@@ -1,0 +1,7 @@
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M36,10.9792c0,0-20.2537,5.1291-25,5.0853c0,0-0.9167,38.8939,24.6667,44.9147"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M35.6667,60.9792C61.25,54.9584,61,16.151,61,16.151c-4.7463,0.0437-25-5.0853-25-5.0853"/>
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="26.6438,32.8294 35.8089,46.8398 50.5128,22.5755 45.4101,25.0669 35.8409,40.858 29.8763,31.7401"/>
+  </g>
+</svg>

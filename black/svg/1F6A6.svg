@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDEA6_">
-	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M47,17.8v36c0,3.8-3.2,7-7,7h-8c-3.9,0-7-3.2-7-7v-36
-		c0-3.8,3.1-7,7-7h8C43.8,10.8,47,14,47,17.8z"/>
-	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="36" cy="50.3" r="5"/>
-	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="36" cy="36.3" r="5"/>
-	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="36" cy="21.3" r="5"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M47,18v36c0,3.8-3.2,7-7,7h-8c-3.9,0-7-3.2-7-7V18c0-3.9,3.1-7,7-7h8C43.8,11,47,14.1,47,18z"/>
-	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="50.5" r="5"/>
-	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36.5" r="5"/>
-	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="21.5" r="5"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M47,16v36c0,3.85-3.15,7-7,7h-8c-3.85,0-7-3.15-7-7V16c0-3.85,3.15-7,7-7h8C43.85,9,47,12.15,47,16z"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="48.4723" r="5"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="34.4723" r="5"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="19.4723" r="5"/>
+  </g>
 </svg>

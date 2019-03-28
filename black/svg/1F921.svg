@@ -1,32 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g>
-	<path fill="none" stroke="#D9408F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M17.1,27.7"/>
-	<path fill="none" stroke="#D9408F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M13.9,25.9"/>
-	<ellipse fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="26.7" cy="33.6" rx="3.5" ry="6.3"/>
-	<ellipse fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="43.2" cy="33.6" rx="3.5" ry="6.3"/>
-	<circle cx="34.8" cy="41.7" r="2.7"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M22.4,23.9c2.9-1.6,6.2-1.6,8.7,0"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M38.8,23.9c2.9-1.6,6.2-1.6,8.7,0"/>
-	<g>
-		<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M34.9,58c-12.2-0.4-13.8-8.8-13.8-8.8c-0.5-1.7-1.2-5.8,2.3-3.8c2.7,1.5,5.4,4.4,11.5,4.5"/>
-		<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M34.9,58c12.2-0.3,13.8-8.8,13.8-8.8c0.5-1.7,1.2-5.8-2.3-3.8c-2.7,1.5-5.4,4.4-11.5,4.5"/>
-	</g>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M12.5,30.7c0,0-2-1.5-0.6-3.1c0,0-2.3-2-0.4-3.9c0,0-1.2-4.1,2.1-4.3c0,0-0.4-4.1,4.1-3.6c0,0,2.5-1.8,4.4,0.2c0,0,2.5-1.6,3.8,0.4
-		"/>
-	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="34.9" cy="38.7" r="23"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M56.8,30.7c0,0,2-1.5,0.6-3.1c0,0,2.3-2,0.4-3.9c0,0,1.2-4.1-2.1-4.3c0,0,0.4-4.1-4.1-3.6c0,0-2.5-1.8-4.4,0.2c0,0-2.5-1.6-3.8,0.4
-		"/>
-</g>
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M24.3856,23.9083c2.8989-1.5543,6.1935-1.6129,8.6558,0"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M40.8433,23.9083c2.8989-1.5543,6.1935-1.6129,8.6558,0"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M50.71,49.28c0,0-1.58,8.43-13.81,8.76c-12.18-0.44-13.81-8.76-13.81-8.76c-0.46-1.73-1.2401-5.76,2.28-3.81 c2.7,1.5,5.38,4.37,11.53,4.55c6.16-0.18,8.83-3.05,11.53-4.55C51.95,43.52,51.18,47.55,50.71,49.28z"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M14.5332,30.6666c0,0-2.047-1.4682-0.6019-3.1236c0,0-2.2788-2.0129-0.4281-3.9039c0,0-1.2382-4.0732,2.1382-4.309 c0,0-0.3899-4.0721,4.079-3.5985c0,0,2.5018-1.8015,4.3561,0.2489c0,0,2.5324-1.6079,3.8427,0.4026"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36.9031" cy="38.7337" r="23"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M58.843,30.6666c0,0,2.047-1.4682,0.6019-3.1236c0,0,2.2788-2.0129,0.4281-3.9039c0,0,1.2382-4.0732-2.1382-4.309 c0,0,0.3899-4.0721-4.079-3.5985c0,0-2.5018-1.8015-4.3561,0.2489c0,0-2.5324-1.6079-3.8427,0.4026"/>
+    <ellipse fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="28.7135" cy="33.5517" rx="3.5" ry="6.3045"/>
+    <ellipse fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="45.1713" cy="33.5553" rx="3.5" ry="6.3045"/>
+    <circle cx="36.7837" cy="41.7116" r="2.7351"/>
+  </g>
 </svg>

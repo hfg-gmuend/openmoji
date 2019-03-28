@@ -1,15 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83C__xDFA6_">
-	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M47,50.8l10.5,8.6c1,0.8,2.5,0.1,2.5-1.2V33.1c0-1.3-1.5-2-2.5-1.2l-10.4,8.5"/>
-	
-		<circle fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" cx="19.2" cy="20.2" r="7.1"/>
-	
-		<circle fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" cx="39.6" cy="20.2" r="7.1"/>
-	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M44,59.4H15
-		c-1.7,0-3-1.3-3-3V35c0-1.7,1.3-3,3-3h29c1.7,0,3,1.3,3,3v21.4C47,58.1,45.7,59.4,44,59.4z"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M47,50.8423l10.5433,8.5936C58.5268,60.2376,60,59.5378,60,58.2689v-25.121c0-1.2688-1.4732-1.9686-2.4567-1.167l-10.8349,8.8313"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" cx="19.1667" cy="20.1667" r="7.1458"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" cx="39.5625" cy="20.1667" r="7.1458"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M43.9771,59.4167 H15.0229c-1.6695,0-3.0229-1.3534-3.0229-3.0229V35.0229C12,33.3534,13.3534,32,15.0229,32h28.9543 C45.6466,32,47,33.3534,47,35.0229v21.3709C47,58.0633,45.6466,59.4167,43.9771,59.4167z"/>
+  </g>
 </svg>

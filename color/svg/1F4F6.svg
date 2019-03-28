@@ -1,27 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDCF6_">
-	<g>
-		
-			<rect x="12" y="51" fill="#D0CECE" stroke="#1D1D1B" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="5" height="9"/>
-	</g>
-	<g>
-		
-			<rect x="22.7" y="41" fill="#D0CECE" stroke="#1D1D1B" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="5" height="19"/>
-	</g>
-	<g>
-		
-			<rect x="33.5" y="31" fill="#D0CECE" stroke="#1D1D1B" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="5" height="29"/>
-	</g>
-	<g>
-		
-			<rect x="44.2" y="21" fill="#D0CECE" stroke="#1D1D1B" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="5" height="39"/>
-	</g>
-	<g>
-		
-			<rect x="55" y="12" fill="#D0CECE" stroke="#1D1D1B" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="5" height="48"/>
-	</g>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="color">
+    <rect x="12.0001" y="51" fill="#d0cfce" stroke="none" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="5" height="9.0003"/>
+    <rect x="22.75" y="41" fill="#d0cfce" stroke="none" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="5" height="18.9996"/>
+    <rect x="33.4999" y="31" fill="#d0cfce" stroke="none" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="5" height="28.9991"/>
+    <rect x="44.2497" y="21" fill="#d0cfce" stroke="none" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="5" height="38.9991"/>
+    <rect x="54.9996" y="12" fill="#d0cfce" stroke="none" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="5" height="48"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <rect x="12.0001" y="51" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="5" height="9.0003"/>
+    <rect x="22.75" y="41" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="5" height="18.9996"/>
+    <rect x="33.4999" y="31" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="5" height="28.9991"/>
+    <rect x="44.2497" y="21" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="5" height="38.9991"/>
+    <rect x="54.9996" y="12" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="5" height="48"/>
+  </g>
 </svg>

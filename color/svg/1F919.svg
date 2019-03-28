@@ -1,25 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83E__xDD19__1_">
-	<path fill="#FCEA2F" d="M41.7,53.2l3.4,1.7c3.7,1.2,5.5-6.7-0.4-9.3l-1.9-1.3l3.1,1.3c3.5,1.7,7.6-6.2,0.5-9.7l-2.8-0.6l5,0.6
-		c3.1,1.8,3.7-6.1-1.2-8.4l-15.9-3.2c1.1-10.9,2-17.9-6.1-19.3c-2.5-0.4-5.5,0-4.9,2.5c3.2,14.6-3.1,22.6-4.9,24.5
-		c-7.2,7.2-7.2,18.9,0,26.1c3.1,2.9,6.2,2.7,13.8,2.7c1.4,0,19.6,4.5,19.6,4.5c6.9,1.8,10.6-5.6,6-7.1l-1.5-1"/>
-	<g>
-		<path fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M45.5,36.5
-			c5.9,1.5,9.3-7.6,0.8-9.3l-14.8-2.9c1.1-10.9,2-17.9-6.1-19.3c-2.5-0.4-5.5,0-4.9,2.5c3.2,14.6-3.1,22.6-4.9,24.5
-			c-7.2,7.2-7.2,18.9,0,26.1c3.1,2.9,6.2,2.7,13.8,2.7c1.4,0,20.6,4.7,20.6,4.7c6.9,1.8,9-5.5,4.3-7.1l-4.3-1.6"/>
-		<path fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M44.7,45.6
-			c5.8,1.5,8.1-7.4,0.8-9"/>
-		<path fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M43.4,54.8
-			c5.8,1.6,7.2-7.6,1.3-9.2"/>
-		
-			<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="43.4" y1="54.8" x2="37.7" y2="53.2"/>
-		
-			<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="44.7" y1="45.6" x2="39.7" y2="44.1"/>
-		
-			<line fill="none" stroke="#010101" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="45.5" y1="36.5" x2="41.4" y2="35.7"/>
-	</g>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="color"/>
+  <g id="hair"/>
+  <g id="skin">
+    <path fill="#fcea2b" d="M41.7188,53.1875l3.4339,1.7393c3.6875,1.2188,5.4784-6.7014-0.4496-9.3474l-1.8747-1.2578l3.1326,1.2578 c3.5282,1.6578,7.6417-6.2371,0.4894-9.6956l-2.8458-0.5622l4.9913,0.5622c3.1056,1.8351,3.6609-6.0827-1.2092-8.3927L31.5,24.3125 c1.125-10.875,2-17.875-6.0625-19.3125c-2.4622-0.375-5.5,0-4.875,2.5c3.25,14.625-3.125,22.6042-4.8966,24.4548 c-7.1985,7.1985-7.1985,18.8695,0,26.068c3.1257,2.9355,6.1596,2.7272,13.7716,2.7272c1.4375,0,19.6007,4.4807,19.6007,4.4807 c6.875,1.8125,10.648-5.5724,6.023-7.1349l-1.53-1.0489" stroke="none"/>
+  </g>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M45.5271,36.5453 c5.8565,1.4749,9.2792-7.5763,0.8148-9.3306L31.5,24.3125c1.125-10.875,2-17.875-6.0625-19.3125c-2.4622-0.375-5.5,0-4.875,2.5 c3.25,14.625-3.125,22.6042-4.8966,24.4548c-7.1985,7.1985-7.1985,18.8695,0,26.068c3.1257,2.9355,6.1596,2.7272,13.7716,2.7272 c1.4375,0,20.6327,4.7314,20.6327,4.7314c6.875,1.8125,8.9705-5.5167,4.3455-7.0792l-4.3455-1.5669"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M44.703,45.5795 c5.8255,1.5323,8.0626-7.4024,0.8241-9.0342"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M43.4119,54.7786 c5.8275,1.5711,7.1882-7.5953,1.2911-9.1992"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="43.4119" y1="54.7786" x2="37.719" y2="53.1955"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="44.703" y1="45.5795" x2="39.6754" y2="44.1473"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="45.5271" y1="36.5453" x2="41.3935" y2="35.7015"/>
+  </g>
 </svg>

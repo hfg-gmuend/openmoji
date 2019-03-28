@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="emoji">
+    <g id="line">
+      <path d="M14.146,29H55.854A1.146,1.146,0,0,1,57,30.146V52a0,0,0,0,1,0,0H13a0,0,0,0,1,0,0V30.146A1.146,1.146,0,0,1,14.146,29Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0324"/>
+      <rect x="5" y="17" width="62" height="3" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="16" y1="19" x2="19" y2="25" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="25" y1="19" x2="23" y2="25" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="43" y1="19" x2="46" y2="25" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="52" y1="19" x2="50" y2="25" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="19" y1="25" x2="23" y2="25" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="46" y1="25" x2="50" y2="25" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="48" y1="25" x2="48" y2="28" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="21" y1="25" x2="21" y2="28" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="16" y1="43" x2="54" y2="43" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9877"/>
+      <line x1="16" y1="32" x2="16" y2="43" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9877"/>
+      <line x1="54" y1="32" x2="54" y2="43" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9877"/>
+      <line x1="16" y1="32" x2="54" y2="32" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9877"/>
+      <line x1="40" y1="33" x2="40" y2="42" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9877"/>
+      <line x1="30" y1="33" x2="30" y2="42" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9877"/>
+      <rect x="40" y="32" width="14" height="11" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <rect x="16" y="32" width="14" height="11" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <line x1="35" y1="32" x2="35" y2="43" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9877"/>
+      <rect x="30" y="32" width="5" height="11" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <rect x="35" y="32" width="5" height="11" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="30" y1="43" x2="30" y2="51" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="40" y1="43" x2="40" y2="51" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <circle cx="35.9" cy="39.9" r=".9" fill="#1d1d1b"/>
+    <circle cx="35.9" cy="43.9" r=".9" fill="#1d1d1b"/>
+    <circle cx="35.9" cy="47.9" r=".9" fill="#1d1d1b"/>
+    <g id="_" data-name="👘">
+      <polyline points="26.944 35 24 60 36.079 60 48.158 60 45.214 35" fill="none" stroke="#1d1d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M22.4461,26.3725V36.9412H17.1673v-18.95a1.4518,1.4518,0,0,1,.8427-1.2783L27,11" fill="none" stroke="#1d1d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="30" y1="35" x2="42" y2="35" fill="none" stroke="#1d1d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M45.1673,11l8.99,5.7132A1.4518,1.4518,0,0,1,55,17.9915v18.95H49.7212V26.3725" fill="none" stroke="#1d1d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="_2" data-name="👕">
+      <path d="M29,10.5385,34.376,15.22,31.6271,17C25.528,10.5308,27.59,10.7137,27.59,10.7137a14.6763,14.6763,0,0,1,16.923,0s2.1475-.2556-4.0375,6.2136l-2.7489-1.78L43,10.5385" fill="none" stroke="#1d1d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <circle cx="35.9" cy="21.9" r=".9" fill="#1d1d1b"/>
+    <circle cx="35.9" cy="25.9" r=".9" fill="#1d1d1b"/>
+    <circle cx="35.9" cy="29.9" r=".9" fill="#1d1d1b"/>
+  </g>
+</svg>

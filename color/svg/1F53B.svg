@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDD3B__1_">
-	<path fill="#EA5A47" d="M38.5,57.1l22.2-38.5c1.1-1.9-0.3-4.3-2.5-4.3l-44.5,0c-2.2,0-3.5,2.4-2.5,4.3l22.2,38.5
-		C34.6,59,37.4,59,38.5,57.1z"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M38.5,57.1l22.2-38.5c1.1-1.9-0.3-4.3-2.5-4.3
-		l-44.5,0c-2.2,0-3.5,2.4-2.5,4.3l22.2,38.5C34.6,59,37.4,59,38.5,57.1z"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="color">
+    <path fill="#EA5A47" d="M38.4549,57.1464l22.2257-38.4961c1.0911-1.8898-0.2728-4.252-2.4549-4.252l-44.4514,0 c-2.1821,0-3.5459,2.3622-2.4549,4.252l22.2257,38.4961C34.6362,59.0362,37.3638,59.0362,38.4549,57.1464z" stroke="none"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M38.4549,57.1464l22.2257-38.4961 c1.0911-1.8898-0.2728-4.252-2.4549-4.252l-44.4514,0c-2.1821,0-3.5459,2.3622-2.4549,4.252l22.2257,38.4961 C34.6362,59.0362,37.3638,59.0362,38.4549,57.1464z"/>
+  </g>
 </svg>

@@ -1,31 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDCC6__1_">
-	
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		53.3,12.3 60,12.3 60,28.3 12,28.3 12,12.3 20.5,12.3 	"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="25.6" y1="12.3" x2="48.5" y2="12.3"/>
-	
-		<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M53.3,12.3l-2,3.1c0,0,1,2.8,1.1,2.9c0.3,0.5,0.5,1.1,0.5,1.7c0,1.7-1.4,3-3,3c-1.7,0-3-1.4-3-3c0-0.6,0.2-1.2,0.5-1.7
-		c0.1-0.1-0.9-2.9-0.9-2.9l1.9-3.1"/>
-	
-		<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M25.3,12.3l-2,3.1c0,0,1,2.8,1.1,2.9c0.3,0.5,0.5,1.1,0.5,1.7c0,1.7-1.4,3-3,3c-1.7,0-3-1.4-3-3c0-0.6,0.2-1.2,0.5-1.7
-		c0.1-0.1-0.9-2.9-0.9-2.9l1.9-3.1"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M34.3,38.1c0.5-2.6,2.8-4.5,5.5-4.5l0,0c1.6,0,3,0.6,4,1.6c1.6,1.6,1.4,4.2,0,5.9l-9.6,10.8H39"/>
-	
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		23.3,37.4 28.3,33.6 28.3,51.9 	"/>
-	
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		12,28.1 12,60.1 43.7,60.1 60,48 60,28.1 	"/>
-	
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		59.7,48 43.1,48 43.1,53.5 	"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="53.3494,12.2734 60,12.2734 60,28.2734 12,28.2734 12,12.2734 20.4608,12.2734"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="25.5657" y1="12.2734" x2="48.4804" y2="12.2734"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M53.3494,12.2752l-1.9644,3.1214c0,0,0.9936,2.767,1.0851,2.8995c0.3399,0.4916,0.5366,1.0894,0.5304,1.7326 c-0.0158,1.6567-1.3717,2.987-3.0285,2.9712c-1.6568-0.0159-2.987-1.3718-2.9712-3.0286c0.006-0.6212,0.2003-1.1966,0.5284-1.6723 c0.0816-0.1184-0.9091-2.9024-0.9091-2.9024l1.8603-3.1332"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M25.3298,12.2752l-1.9644,3.1214c0,0,0.9936,2.767,1.0851,2.8995c0.3399,0.4916,0.5366,1.0894,0.5304,1.7326 c-0.0158,1.6567-1.3717,2.987-3.0285,2.9712c-1.6568-0.0159-2.987-1.3718-2.9712-3.0286c0.006-0.6212,0.2003-1.1966,0.5284-1.6723 c0.0816-0.1184-0.9091-2.9024-0.9091-2.9024l1.8603-3.1332"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M34.3355,38.092c0.5248-2.5644,2.7937-4.4936,5.5134-4.4936l0,0c1.5539,0,2.9609,0.63,3.9793,1.6484 c1.5843,1.5842,1.438,4.2167-0.0484,5.8928l-9.5586,10.7799h4.7601"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="23.2764,37.3982 28.3485,33.5984 28.3485,51.9195"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="11.997,28.0918 11.997,60.0918 43.6564,60.0864 59.997,48.0382 59.997,28.0918"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="59.7462,48.0382 43.1384,48.0382 43.1384,53.5175"/>
+  </g>
 </svg>

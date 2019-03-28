@@ -1,17 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDC38__1_">
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M39.4,22.4c0.5,0,0.9-0.3,1-0.8c0.6-2.1,2.6-6.9,7.7-7.6c7.8-1,11,4.2,11,8.4c0,5.1-2.1,5.2-3.4,7.6c-0.3,0.5-0.4,1.1,0,1.4
-		C61,37.1,63.7,61,36,61C11,61,9,41,16.5,31.4c0.3-0.4,0.4-1,0-1.4c-1.5-1.6-4.6-5.7-2.9-9.7C15.7,15,19.8,14,23,14
-		c3,0,7.9,1.9,9.2,7.6c0.1,0.5,0.5,0.8,1,0.8L39.4,22.4z"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M22.4,48.5c0,0,13.6,12.5,28.2,0"/>
-	<circle cx="22.4" cy="23.4" r="3.1"/>
-	<circle cx="49.6" cy="23.4" r="3.1"/>
-	<circle cx="31.8" cy="43.2" r="2.1"/>
-	<circle cx="40.2" cy="43.2" r="2.1"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M39.3855,22.3566c0.4635,0,0.8719-0.305,0.9938-0.7522c0.5599-2.0537,2.5904-6.9293,7.6535-7.6044 c7.8343-1.0446,10.968,4.1783,10.968,8.3565c0,5.0604-2.0891,5.2228-3.4152,7.597c-0.2637,0.4721-0.4077,1.0587-0.0342,1.4497 c5.4428,5.697,8.1892,29.6023-19.5311,29.6023C10.9508,61.0057,9,41,16.4762,31.384c0.333-0.4283,0.391-1.0013,0.0259-1.4026 c-1.4705-1.6157-4.5595-5.6648-2.9399-9.7139c2.0891-5.2228,6.2674-6.2674,9.4011-6.2674c3.0031,0,7.9249,1.9186,9.2492,7.5947 c0.1057,0.4531,0.5276,0.7619,0.9928,0.7619L39.3855,22.3566z"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M22.441,48.4708c0,0,13.5794,12.5348,28.2033,0"/>
+    <circle cx="22.441" cy="23.4012" r="3.1337" fill="#000000" stroke="none"/>
+    <circle cx="49.5997" cy="23.4012" r="3.1337" fill="#000000" stroke="none"/>
+    <circle cx="31.8421" cy="43.248" r="2.0891" fill="#000000" stroke="none"/>
+    <circle cx="40.1986" cy="43.248" r="2.0891" fill="#000000" stroke="none"/>
+  </g>
 </svg>

@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_x23F9__xFE0F__1_">
-	<g>
-		<path fill="#1D1D1B" d="M49.3,18c2.6,0,4.7,2.1,4.7,4.7v26.5c0,2.6-2.1,4.7-4.7,4.7H22.7c-2.6,0-4.7-2.1-4.7-4.7V22.7
-			c0-2.6,2.1-4.7,4.7-4.7H49.3 M49.3,16H22.7C19,16,16,19,16,22.7v26.5c0,3.7,3,6.7,6.7,6.7h26.5c3.7,0,6.7-3,6.7-6.7V22.7
-			C56,19,53,16,49.3,16L49.3,16z"/>
-	</g>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="color"/>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <path fill="#000000" d="M49.2614,18C51.8743,18,54,20.1257,54,22.7386v26.5229C54,51.8743,51.8743,54,49.2614,54H22.7386 C20.1257,54,18,51.8743,18,49.2614V22.7386C18,20.1257,20.1257,18,22.7386,18H49.2614 M49.2614,16H22.7386 C19.017,16,16,19.017,16,22.7386v26.5229C16,52.983,19.017,56,22.7386,56h26.5229C52.983,56,56,52.983,56,49.2614V22.7386 C56,19.017,52.983,16,49.2614,16L49.2614,16z" stroke="none"/>
+  </g>
 </svg>

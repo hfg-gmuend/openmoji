@@ -1,25 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDE90_">
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M61,52.1l3.6-0.1H67l-0.1-4.6h-0.7c0,0,0.6-17.6-1.8-18.5s-27.7-0.6-30.8,0S27,28.6,15.8,39.9L8,42.5c0,0-1.5,0.8-1.6,5.2
-		c0,0-0.9,0.2-0.8,1.5c0.1,1.2-0.5,3.4,4.8,3.7"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="23.1" y1="52.8" x2="48.4" y2="52.3"/>
-	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="16.5" cy="52.3" r="3"/>
-	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="55" cy="52.3" r="3"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M13.3,44.5c0,0-2,1.7-3.6,1.9"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M19.9,41.5c0.4,0,9.3-0.1,9.9-1.6s0.6-6.5,0.6-6.5"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M35.1,40.7h21.8c0.2,0,0.5-0.1,0.6-0.2l2.2-1.8c0.2-0.2,0.4-0.5,0.4-0.8v-5"/>
-	
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		61.7,42.8 61.7,47.6 63.1,48 	"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M61,52.1363l3.5625-0.0738H67L66.875,47.5h-0.6875c0,0,0.625-17.625-1.75-18.5c-2.375-0.875-27.6875-0.5625-30.8125,0 S27,28.625,15.75,39.9375L8,42.48c0,0-1.5,0.8325-1.5625,5.2075c0,0-0.875,0.25-0.75,1.5 c0.1164,1.1644-0.4721,3.4134,4.7511,3.6655"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="23.0625" y1="52.75" x2="48.4378" y2="52.3072"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="16.4803" cy="52.2917" r="3"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="55" cy="52.2917" r="3"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M13.2904,44.4762c0,0-1.9647,1.6588-3.5765,1.9176"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M19.875,41.48c0.375,0.02,9.3125-0.105,9.9375-1.605s0.625-6.5,0.625-6.5"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M35.0625,40.6539h21.7707c0.2292,0,0.4515-0.0788,0.6296-0.2231l2.1667-1.7556C59.8639,38.4853,60,38.1998,60,37.8982v-4.9607"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="61.6577,42.849 61.6577,47.5988 63.1161,48.0481"/>
+  </g>
 </svg>

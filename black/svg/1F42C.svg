@@ -1,15 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDC2C__1_">
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M61.9,35c0,0,1-18-20-14c0,0-4-6-16-3c0,0,5,2,5,5c0,0-14,7-17,21l-7,12c0,0,6,0,8-2c0,0,4,2,8,2c0,0-6-6-4-10s15-8,15-8"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M50.9,38c0,0,14,5,15,2s-4-4.3-4-5"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M47.9,37c0,0-2.7,3.9-4.8,4.9c-1,0.5-1.7,0.1-1.7-1.9"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M45,33.7c0,0-4.5,7.3-7.2,7.3s0.9-9,0.9-9"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M61.8676,35c0,0,1-18-20-14c0,0-4-6-16-3c0,0,5,2,5,5c0,0-14,7-17,21l-7,12c0,0,6,0,8-2c0,0,4,2,8,2c0,0-6-6-4-10s15-8,15-8"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M50.8676,38c0,0,14,5,15,2s-3.9924-4.3333-4-5"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M47.8676,37c0,0-2.7141,3.9146-4.8282,4.9059c-0.9609,0.4506-1.6778,0.0867-1.7301-1.9251"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M45.7843,33.6667c0,0-4.9167,7.3333-7.9167,7.3333s1-9,1-9"/>
+  </g>
 </svg>

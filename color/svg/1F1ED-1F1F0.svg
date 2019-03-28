@@ -1,0 +1,13 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="color">
+    <rect x="5" y="17" width="62" height="38" fill="#d22f27"/>
+    <path d="M35.8475,34.5a5.0785,5.0785,0,0,0-.0008-8.75,5.0785,5.0785,0,0,0-.0007,8.75Z" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26.7115,44.3131a5.0784,5.0784,0,0,0,7.5774-4.3756,5.0785,5.0785,0,0,0-7.5781,4.3744Z" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M37.5577,39.9383a5.0784,5.0784,0,0,0,7.5781,4.3744,5.0786,5.0786,0,0,0-7.5774-4.3757Z" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M25.7108,31.8282a5.0785,5.0785,0,0,0,7.5781,4.3744,5.0784,5.0784,0,0,0-7.5774-4.3756Z" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M45.8034,31.6533a5.0786,5.0786,0,0,1-7.2194,4.944,5.0785,5.0785,0,0,1,7.2185-4.9452Z" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g id="line">
+    <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

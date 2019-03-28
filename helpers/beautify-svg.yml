@@ -1,0 +1,24 @@
+full: true
+plugins:
+  - cleanupAttrs
+  - inlineStyles
+  - cleanupNumericValues:
+      floatPrecision: 4
+      leadingZero: false
+  - convertColors:
+      names2hex: true
+      rgb2hex: true
+      shorthex: false
+      shortname: false
+  - removeXMLProcInst
+  - removeComments
+  - removeMetadata
+  - removeTitle
+  - removeDesc
+  - removeUselessDefs
+  - removeEmptyText
+  - removeUnusedNS
+  - sortAttrs
+js2svg:
+  pretty: true
+  indent: '  '

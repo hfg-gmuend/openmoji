@@ -1,0 +1,17 @@
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" style="enable-background:new 0 0 72 72" xml:space="preserve">
+  <style type="text/css">
+    .st1{fill:none;stroke:#00A5FF;stroke-width:0.1;stroke-miterlimit:10}.st5{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+  </style>
+  <g id="color">
+    <path d="M21.4,51V36c0-8.2,6.6-15,14.9-15l0,0c8.2,0.1,14.9,6.8,14.9,15v15" style="fill:#E85B4C"/>
+    <path d="M21.4,51h30c2.8,0,5,2.2,5,5l0,0c0,2.8-2.2,5-5,5h-30c-2.8,0-5-2.2-5-5l0,0C16.4,53.2,18.6,51,21.4,51z" style="fill:#CFCDCD"/>
+    <path d="M51.4,36c0-8.2-6.6-15-14.8-15l0,0c-1.4,0-2.9,0.2-4.2,0.6c9.4,3.8,10.3,23.2,10.4,29.4h8.7V36z" style="fill:#D0312E"/>
+  </g>
+  <g id="line">
+    <line class="st5" x1="17.8" y1="23.5" x2="13.1" y2="18.8"/>
+    <line class="st5" x1="54.1" y1="23.5" x2="58.8" y2="18.8"/>
+    <line class="st5" x1="36.4" y1="14" x2="36.4" y2="8"/>
+    <path class="st5" d="M21.4,51V36c0-8.2,6.6-15,14.9-15l0,0c8.2,0.1,14.9,6.8,14.9,15v15"/>
+    <path class="st5" d="M21.1,51h30.5c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8H21.1c-2.6,0-4.8-2.1-4.8-4.8l0,0 C16.4,53.2,18.5,51,21.1,51z"/>
+  </g>
+</svg>

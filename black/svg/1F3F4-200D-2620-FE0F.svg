@@ -1,0 +1,5 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path d="M67,56H5a1,1,0,0,1-1-1V17a1,1,0,0,1,1-1H67a1,1,0,0,1,1,1V55A1,1,0,0,1,67,56ZM6,54H66V18H6Z"/>
+  </g>
+</svg>

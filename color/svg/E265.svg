@@ -1,0 +1,18 @@
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+  <g id="color">
+    <rect x="16" y="33" fill="#FFFFFF" width="31" height="6"/>
+    <rect x="16" y="21" fill="#FFFFFF" width="39.9858" height="6"/>
+    <rect x="16" y="45" fill="#FFFFFF" width="26" height="6"/>
+    <rect x="16" y="24" fill="#D0CFCE" width="40" height="3"/>
+    <rect x="16" y="36" fill="#D0CFCE" width="31" height="3"/>
+    <rect x="16.3333" y="48" fill="#D0CFCE" width="26" height="3"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <rect x="16" y="21" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="40" height="6"/>
+    <rect x="16" y="33" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="31" height="6"/>
+    <rect x="16.3333" y="45" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="26" height="6"/>
+  </g>
+</svg>

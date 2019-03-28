@@ -1,25 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDE43__1_">
-	<g>
-		<defs>
-			<polygon id="SVGID_1_" points="35.9,59.1 44.5,57.4 49.8,54.4 54.7,49.3 58.1,41.9 58.1,29.6 52.5,20.2 44.5,14.7 35.9,13.1 
-				28.7,14.2 21,18.5 15.9,24.7 12.9,33.9 13.6,41.9 17.4,49.8 21.7,54.1 28.9,58 			"/>
-		</defs>
-		<use xlink:href="#SVGID_1_"  overflow="visible" fill="#FCEA2B"/>
-		<clipPath id="SVGID_2_">
-			<use xlink:href="#SVGID_1_"  overflow="visible"/>
-		</clipPath>
-		<rect x="7.9" y="8.1" clip-path="url(#SVGID_2_)" fill="#FCEA2B" width="55.2" height="56"/>
-	</g>
-	<circle fill="none" stroke="#FDE034" stroke-miterlimit="10" cx="35.9" cy="36.1" r="23"/>
-	
-		<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.9" cy="36.1" r="23"/>
-	<circle cx="26.8" cy="40.1" r="2.6"/>
-	<circle cx="44.1" cy="40.1" r="2.6"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M26.1,27.3c6.6-3.5,14-3.7,19.6,0"/>
-</g>
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+  <g id="color">
+    <g>
+      <defs>
+        <polygon id="SVGID_1_" points="1,1 2,1 1,2"/>
+      </defs>
+      <defs>
+        <polygon id="SVGID_2_" points="-1,-1 -2,-1 -1,-2"/>
+      </defs>
+      <clipPath id="SVGID_3_">
+        <use xlink:href="#SVGID_1_" overflow="visible"/>
+      </clipPath>
+      <clipPath id="SVGID_4_" clip-path="url(#SVGID_3_)">
+        <use xlink:href="#SVGID_2_" overflow="visible"/>
+      </clipPath>
+      <rect x="7.8871" y="8.0565" clip-path="url(#SVGID_4_)" fill="#FCEA2B" width="55.25" height="56"/>
+    </g>
+    <circle fill="none" stroke="#FCEA2B" stroke-miterlimit="10" cx="35.8871" cy="36.0565" r="23"/>
+    <circle fill="#FCEA2B" cx="35.8871" cy="36.0565" r="23"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.8871" cy="36.0565" r="23"/>
+    <circle cx="26.8225" cy="40.076" r="2.5556"/>
+    <circle cx="44.0725" cy="40.076" r="2.5556"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M26.0724,27.2509c6.574-3.5248,14.0454-3.6576,19.6295,0"/>
+  </g>
 </svg>

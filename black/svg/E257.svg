@@ -1,0 +1,6 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="36,10.9792 11,10.9792 11,16.0207 31.5,34.25 31.5,56.021 40.5,60.9792 40.5,34.25 61,16.0208 61,10.9792 36,10.9792"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M68.0011,43.9411"/>
+  </g>
+</svg>

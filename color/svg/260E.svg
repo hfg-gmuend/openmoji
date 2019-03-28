@@ -1,34 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_x260E__xFE0F__3_">
-	<g id="_x260E__xFE0F__1_">
-		<g>
-			<path fill="#E95A47" d="M62.3,16.5c-8-6-44-6-52,0c0,0-4,4-2,10h13v-5c6-4,24-4,30,0v5h13C66.3,20.5,62.3,16.5,62.3,16.5z"/>
-		</g>
-		<polygon fill="#D22F29" points="51,21.1 64.8,21.1 64.4,26.1 51.9,26 		"/>
-		<polygon fill="#D22F29" points="7.1,21.1 21,21.1 20.6,26.1 8.1,26 		"/>
-	</g>
-	<polygon fill="#E95A47" points="24.9,29.3 19,33 15.2,41.3 14.9,52.3 15,56 57,56 56.7,40.6 53,33 46.9,29 46,27.6 25.7,28.6 	"/>
-	<polygon fill="#D22F29" points="26.8,25 26,29 26,30 46.1,30 45.3,24.5 43.2,24.2 41.7,26.4 30.1,26.5 28.8,24.4 26.7,24.6 	"/>
-	<path fill="#D22F29" d="M39.3,29.8c0,0,12.9,4.4,12.7,25.9c6.4,2.1,5.5-6.5,5.5-6.5l-2.6-13.4l-5.8-6.2L39.3,29.8z"/>
-	<circle cx="30" cy="35" r="2"/>
-	<circle cx="30" cy="41" r="2"/>
-	<circle cx="30" cy="47" r="2"/>
-	<circle cx="36" cy="35" r="2"/>
-	<circle cx="36" cy="41" r="2"/>
-	<circle cx="36" cy="47" r="2"/>
-	<circle cx="42" cy="35" r="2"/>
-	<circle cx="42" cy="41" r="2"/>
-	<circle cx="42" cy="47" r="2"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M26,24v5c0,0-3.5,0.5-7,4s-4,10-4,10v13l3,0h36l3,0V43.1c0,0-0.5-6.6-4-10.1s-7-4-7-4v-5h-3l-1,3H29.8L29,24H26z"/>
-	<g id="_x260E__xFE0F__2_">
-		<g>
-			<path fill="none" stroke="#010103" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-				M62,16.5c-8-6-44-6-52,0c0,0-4,4-2,10h13v-5c6-4,24-4,30,0v5h13C66,20.5,62,16.5,62,16.5z"/>
-		</g>
-	</g>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="color">
+    <path fill="#ea5a47" d="M62.2981,16.4519c-8-6-44-6-52,0c0,0-4,4-2,10h13v-5c6-4,24-4,30,0v5h13 C66.2981,20.4519,62.2981,16.4519,62.2981,16.4519z" stroke="none"/>
+    <polygon fill="#d22f27" points="50.9706,21.1464 64.8475,21.0581 64.4056,26.0962 51.9428,26.0078" stroke="none"/>
+    <polygon fill="#d22f27" points="7.1299,21.1464 21.0069,21.0581 20.565,26.0962 8.1022,26.0078" stroke="none"/>
+    <polygon fill="#ea5a47" points="24.875,29.3125 19,33 15.1875,41.3125 14.9375,52.3125 15,56.0002 57,55.9999 56.6875,40.5625 53,33 46.9375,29 46,27.625 25.6875,28.5625" stroke="none"/>
+    <polygon fill="#d22f27" points="26.75,25 26,29 26,30 46.125,30 45.2812,24.5312 43.1875,24.25 41.6875,26.4375 30.0625,26.5 28.8125,24.4375 26.6562,24.5938" stroke="none"/>
+    <path fill="#d22f27" d="M39.3438,29.8438c0,0,12.9062,4.4062,12.6562,25.9062c6.375,2.0625,5.5-6.5,5.5-6.5l-2.5833-13.4167 l-5.75-6.25L39.3438,29.8438z" stroke="none"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <circle cx="30" cy="35" r="2" fill="#000000" stroke="none"/>
+    <circle cx="30" cy="41" r="2" fill="#000000" stroke="none"/>
+    <circle cx="30" cy="47" r="2" fill="#000000" stroke="none"/>
+    <circle cx="36" cy="35" r="2" fill="#000000" stroke="none"/>
+    <circle cx="36" cy="41" r="2" fill="#000000" stroke="none"/>
+    <circle cx="36" cy="47" r="2" fill="#000000" stroke="none"/>
+    <circle cx="42" cy="35" r="2" fill="#000000" stroke="none"/>
+    <circle cx="42" cy="41" r="2" fill="#000000" stroke="none"/>
+    <circle cx="42" cy="47" r="2" fill="#000000" stroke="none"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M26,24v5c0,0-3.5,0.5-7,4s-4,9.9999-4,9.9999v13.0003L18,56h36l3-0.0001V43.1252c0,0-0.5-6.6252-4-10.1252s-7-4-7-4v-5h-3 l-1.0003,3H29.8133L29,24H26z"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M61.9839,16.4519c-8-6-44-6-52,0c0,0-4,4-2,10h13v-5c6-4,24-4,30,0v5h13C65.9839,20.4519,61.9839,16.4519,61.9839,16.4519z"/>
+  </g>
 </svg>

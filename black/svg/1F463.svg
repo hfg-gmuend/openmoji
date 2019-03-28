@@ -1,29 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83D__xDC63_">
-	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M21,49.2c-1-6.5-10.3-25.9-10.2-28c0.2-5.8,13.7-6.9,14.6-3.3c0.8,3.1,3,21.6,6.4,28.8c1.2,2.8-1.2,6-4.2,6.7
-		C24.7,54.1,21.8,52.6,21,49.2z"/>
-	
-		<circle fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="6.6" cy="16.7" r="2"/>
-	
-		<ellipse transform="matrix(0.8887 -0.4584 0.4584 0.8887 -4.0006 6.879)" fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="12.2" cy="11.7" rx="2" ry="2"/>
-	
-		<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -2.5457 11.2057)" fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="19.6" cy="10.4" rx="2" ry="2"/>
-	
-		<circle fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="27.2" cy="11.7" r="2"/>
-	<path fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M51.2,61.2c1-6.5,10.3-25.9,10.2-28c-0.2-5.8-13.7-6.9-14.6-3.3c-0.8,3.1-3,21.6-6.4,28.8c-1.2,2.8,1.2,6,4.2,6.7
-		C47.6,66.1,50.4,64.6,51.2,61.2z"/>
-	
-		<circle fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="65.7" cy="28.7" r="2"/>
-	
-		<ellipse transform="matrix(0.4584 -0.8887 0.8887 0.4584 11.489 66.2154)" fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="60.1" cy="23.7" rx="2" ry="2"/>
-	
-		<ellipse transform="matrix(0.5 -0.866 0.866 0.5 6.9458 56.7369)" fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="52.6" cy="22.4" rx="2" ry="2"/>
-	
-		<circle fill="none" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="45" cy="23.7" r="2"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M21.0387,49.1542C20.058,42.6274,10.7861,23.2064,10.8414,21.18C11,15.3683,24.5495,14.2716,25.4748,17.9045 c0.7887,3.0966,3.025,21.5698,6.4496,28.813c1.2203,2.8484-1.2185,5.9883-4.2245,6.6612 C24.6939,54.0515,21.8123,52.6128,21.0387,49.1542z"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="6.57" cy="16.7259" r="2"/>
+    <ellipse transform="matrix(0.8887 -0.4584 0.4584 0.8887 -4.0006 6.879)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="12.1703" cy="11.6807" rx="2" ry="2"/>
+    <ellipse transform="matrix(0.866 -0.5 0.5 0.866 -2.5457 11.2057)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="19.6372" cy="10.3532" rx="2" ry="2"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="27.2029" cy="11.6807" r="2"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M51.207,61.1542c0.9807-6.5268,10.2526-25.9477,10.1973-27.9741c-0.1586-5.8118-13.7081-6.9085-14.6334-3.2756 c-0.7887,3.0966-3.025,21.5698-6.4496,28.813c-1.2203,2.8484,1.2185,5.9883,4.2245,6.6611 C47.5518,66.0516,50.4334,64.6128,51.207,61.1542z"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="65.6757" cy="28.726" r="2"/>
+    <ellipse transform="matrix(0.4584 -0.8887 0.8887 0.4584 11.489 66.2154)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="60.0754" cy="23.6808" rx="2" ry="2"/>
+    <ellipse transform="matrix(0.5 -0.866 0.866 0.5 6.9458 56.7369)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="52.6085" cy="22.3532" rx="2" ry="2"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="45.0428" cy="23.6808" r="2"/>
+  </g>
 </svg>

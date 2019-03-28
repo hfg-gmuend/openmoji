@@ -1,21 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83C__xDF93__xFE0F_">
-	<polyline fill="#3F3F3F" stroke="#3F3F3F" stroke-width="2" stroke-miterlimit="10" points="56,27.9 56,45.9 16,45.9 16,27.9 	"/>
-	<circle cx="36" cy="22" r="3"/>
-	<g>
-		<line fill="#F1B31C" stroke="#F1B31C" stroke-width="2" stroke-miterlimit="10" x1="8.8" y1="28.5" x2="8.8" y2="36.9"/>
-		<circle fill="#F1B31C" cx="8.8" cy="36.9" r="2"/>
-		
-			<polygon fill="#F1B31C" stroke="#F1B31C" stroke-width="1.747" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			10.8,45.9 7,45.9 8.9,37.8 8.9,37.8 		"/>
-	</g>
-	
-		<rect x="4" y="22.9" fill="#3F3F3F" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="64" height="5"/>
-	
-		<polyline fill="#3F3F3F" stroke="#000000" stroke-width="1.747" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		56,30.9 56,45.9 16,45.9 16,30.9 	"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="color">
+    <polyline fill="#3F3F3F" stroke="#3F3F3F" stroke-width="2" stroke-miterlimit="10" points="56,27.9166 56,45.896 16,45.896 16,27.9166"/>
+    <line fill="#F1B31C" stroke="#F1B31C" stroke-width="2" stroke-miterlimit="10" x1="8.7932" y1="28.5" x2="8.7932" y2="36.9063"/>
+    <circle fill="#F1B31C" cx="8.7932" cy="36.9063" r="2" stroke="none"/>
+    <polygon fill="#F1B31C" stroke="#F1B31C" stroke-width="1.747" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="10.7932,45.896 7,45.896 8.8966,37.7763 8.8966,37.7763"/>
+    <rect x="4" y="22.875" fill="#3F3F3F" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="64" height="5.0417"/>
+    <polyline fill="#3F3F3F" stroke="none" stroke-width="1.747" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="56,30.9166 56,45.896 16,45.896 16,30.9166"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <circle cx="36" cy="22.0023" r="3" fill="#000000" stroke="none"/>
+    <rect x="4" y="22.875" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="64" height="5.0417"/>
+    <polyline fill="none" stroke="#000000" stroke-width="1.747" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="56,30.9166 56,45.896 16,45.896 16,30.9166"/>
+  </g>
 </svg>

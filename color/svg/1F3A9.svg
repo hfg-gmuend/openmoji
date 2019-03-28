@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83C__xDFA9__1_">
-	<polygon fill="#FCEA2B" points="55.5,51.3 36.5,52.3 17.5,51.3 16.6,32.4 56,32.4 	"/>
-	
-		<polygon fill="#3F3F3F" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		55.4,32.4 54.7,47.3 55.8,21.8 56,19.2 56.5,7.1 16.5,7.1 18.3,47.3 17.6,32.4 	"/>
-	
-		<path fill="#3F3F3F" stroke="#1D1D1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M54.5,51.3c0,0-11.3,1.8-17.5,1.8s-18.5-1.8-18.5-1.8c-7.3-1.2-14-2.1-14,0c0,3.6,14.3,6.4,32,6.4s32-2.9,32-6.4
-		C68.5,49.2,61.8,50.1,54.5,51.3z"/>
-</g>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="color">
+    <polygon fill="#FCEA2B" points="55.5322,51.262 36.5117,52.262 17.4911,51.262 16.5877,32.3764 56,32.3764" stroke="none"/>
+    <polygon fill="#3F3F3F" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="55.355,32.3764 54.6817,47.2519 55.8358,21.7542 55.9525,19.1777 56.5,7.0833 16.5,7.0833 18.3184,47.2519 17.645,32.3764"/>
+    <path fill="#3F3F3F" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M54.5,51.262c0,0-11.2908,1.7703-17.5,1.7703S18.5,51.262,18.5,51.262c-7.3129-1.1586-14-2.0756-14-0.04 c0,3.5608,14.3269,6.4474,32,6.4474s32-2.8866,32-6.4474C68.5,49.1864,61.8129,50.1034,54.5,51.262z"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="55.355,32.3764 54.6817,47.2519 55.8358,21.7542 55.9525,19.1777 56.5,7.0833 16.5,7.0833 18.3184,47.2519 17.645,32.3764"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M54.5,51.262c0,0-11.2908,1.7703-17.5,1.7703S18.5,51.262,18.5,51.262c-7.3129-1.1586-14-2.0756-14-0.04 c0,3.5608,14.3269,6.4474,32,6.4474s32-2.8866,32-6.4474C68.5,49.1864,61.8129,50.1034,54.5,51.262z"/>
+  </g>
 </svg>

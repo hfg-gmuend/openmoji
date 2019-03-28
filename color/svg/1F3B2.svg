@@ -1,25 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
-<g id="_xD83C__xDFB2__1_">
-	<polygon fill="#D0CFCE" points="58.1,22.6 35.7,27.8 13.9,22.3 35.7,17.4 	"/>
-	<polygon fill="#9B9B9A" points="58.2,48.3 36,54.1 35.7,27.8 58.2,22.7 	"/>
-	<polygon fill="#D0CFCE" points="14,48 35.7,54.1 35.7,27.8 22.6,24.7 14,22.3 	"/>
-	
-		<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		58.1,22.6 35.7,27.8 13.9,22.3 35.7,17.4 	"/>
-	
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		58.2,22.7 58.2,48.3 35.7,54.1 35.7,27.8 	"/>
-	
-		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		14,22.3 14,48 35.7,54.1 	"/>
-	<ellipse fill="#EA5A47" cx="36" cy="22" rx="4" ry="1.5"/>
-	<ellipse transform="matrix(0.4271 -0.9042 0.9042 0.4271 -18.235 64.0944)" cx="41.5" cy="46.4" rx="3.5" ry="2.6"/>
-	<ellipse transform="matrix(0.4271 -0.9042 0.9042 0.4271 -7.5763 64.8336)" cx="47.4" cy="38.4" rx="3.5" ry="2.6"/>
-	<ellipse transform="matrix(0.4271 -0.9042 0.9042 0.4271 3.0825 65.5729)" cx="53.3" cy="30.4" rx="3.5" ry="2.6"/>
-	<ellipse transform="matrix(0.7669 -0.6418 0.6418 0.7669 -21.8736 28.1352)" cx="27.8" cy="44.2" rx="2.6" ry="3.5"/>
-	<ellipse transform="matrix(0.7911 -0.6117 0.6117 0.7911 -15.3887 19.4082)" cx="20.7" cy="32.2" rx="2.6" ry="3.5"/>
-</g>
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+  <g id="color">
+    <polygon fill="#D0CFCE" points="58.0936,22.6076 35.6729,27.8442 13.9289,22.2732 35.6729,17.4173"/>
+    <polygon fill="#9B9B9A" points="58.2211,48.3473 36.0428,54.1045 35.6729,27.0042 58.1657,21.846"/>
+    <polygon fill="#D0CFCE" points="13.9856,47.957 35.7027,54.1045 35.6729,27.8442 22.6497,24.6986 13.9832,22.2957"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <polyline fill="none" stroke="#000000" stroke-width="2.069" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="35.6352,54.0172 57.4698,48.7313 57.4698,21.7647 35.6167,26.5155 13.7667,21.7647 13.7667,48.7313 35.6013,54.0172 35.6013,30.3713"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2.069" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="13.7667,21.7647 35.8082,16.4545 57.4698,21.7647"/>
+    <circle cx="21.2735" cy="32.9339" r="3"/>
+    <circle cx="27.2446" cy="44.3761" r="3"/>
+    <circle cx="41.767" cy="45.2211" r="3"/>
+    <circle cx="46.8274" cy="38.0668" r="3"/>
+    <circle cx="51.8878" cy="30.9124" r="3"/>
+    <ellipse cx="35.8312" cy="21.1219" rx="4" ry="1.6191"/>
+  </g>
 </svg>

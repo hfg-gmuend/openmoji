@@ -1,0 +1,12 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <ellipse cx="36.8761" cy="16.2124" rx="16.3717" ry="2.2124" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M19.1968,52.8747H9s1.6088,8.9129,8.0441,8.9129h10.517" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <ellipse cx="35.9912" cy="42.9823" rx="18.8791" ry="21.0177" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M52.7626,52.8747H62.9593s-1.6088,8.9129-8.0441,8.9129H44.3982" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M39.9735,22.85s1.77,1.77-.885,6.1946-7.9646,2.6549-7.9646,2.6549,3.93-.3876,4.4248-3.54c0,0,.8849-2.6549-1.77-5.31" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M31.9038,41.8387A2.8387,2.8387,0,1,1,29.0651,39a2.847,2.847,0,0,1,2.8387,2.8387" fill="#000100"/>
+    <path d="M45.5282,41.8387A2.8388,2.8388,0,1,1,42.6894,39a2.8471,2.8471,0,0,1,2.8388,2.8387" fill="#000100"/>
+    <path d="M31.4086,52.7393c-.0466.01,5.0152,2.8314,9.5914,0" fill="none" stroke="#1d1d1b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>
