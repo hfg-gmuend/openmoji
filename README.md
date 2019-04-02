@@ -11,6 +11,8 @@ This GitHub repository contains all of the source (currently .ai Adobe Illustrat
 
 Interact, create, save, and share your work! 🌈`#openmoji`
 
+⚠️ Please note that the master branch is in active development, so if you're looking for stable production version please use one of the releases.
+
 ## Contributing
 Pull requests are welcome! Please check and follow the [Styleguide](http://openmoji.org/styleguide.html) for new contributions.
 
