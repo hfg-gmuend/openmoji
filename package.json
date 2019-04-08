@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Open-source emojis for designers, developers and everyone else!",
   "scripts": {
-    "test": "node_modules/.bin/mocha --reporter list",
+    "test": "node_modules/.bin/mocha --reporter mochawesome --reporter-options reportDir=test-report,reportFilename=report",
     "pretty-src-svg": "find src/ -type f -name '*.svg' -print0 | xargs -0 -n 1 -P 6 svgo --config helpers/beautify-svg.yml",
     "export-svg": "./helpers/export-svg.sh",
     "export-png": "./helpers/export-png.sh"
@@ -24,6 +24,7 @@
     "kd-tree-javascript": "^1.0.3",
     "lodash": "^4.17.4",
     "mocha": "^5.2.0",
-    "svgo": "^1.1.1"
+    "svgo": "^1.1.1",
+    "mochawesome": "^3.1.1"
   }
 }

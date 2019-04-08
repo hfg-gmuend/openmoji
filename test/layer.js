@@ -3,23 +3,49 @@ const expect = require('chai').expect;
 
 const createDoc = require('./helpers/helpers').createDoc;
 const openmojis = require('../data/openmoji.json');
+const validLayerNames = ['grid', 'line', 'color', 'hair', 'skin', 'skin-shadow', 'color-foreground', 'line-supplement'];
 
 
 describe('Layers', function() {
-  describe('#Source SVG files', function() {
-    const emojis = _.filter(openmojis, (e) => { return e.skintone == '' });
+  const emojis = _.filter(openmojis, (e) => { return e.skintone == '' });
+
+  describe('#line layer existing?', function() {
     emojis.forEach(emoji => {
-      const doc = createDoc(emoji);
-      // it(emoji.hexcode + '.svg should have a #color layer', function(){
-      //   expect( doc.querySelector('#color') ).to.not.be.a('null');
-      // });
-      // it(emoji.hexcode + '.svg should have a #line layer', function(){
-      //   expect( doc.querySelector('#line') ).to.not.be.a('null');
-      // });
-      it(emoji.hexcode + '.svg should have only valid layers', function() {
-        const query = doc.querySelectorAll('svg > g:not(#grid):not(#line):not(#color):not(#hair):not(#skin):not(#skin-shadow):not(#color-foreground):not(#line-supplement)');
-        expect(query.length).to.equal(0);
+      it(`${emoji.emoji} ${emoji.hexcode}.svg should have a #line layer`, function(){
+        const doc = createDoc(emoji);
+        expect( doc.querySelector('#line') ).to.exist;
       });
-    })
+    });
   });
+
+  describe('#color layer existing?', function() {
+    emojis.forEach(emoji => {
+      it(`${emoji.emoji} ${emoji.hexcode}.svg should have a #color layer`, function(){
+        const doc = createDoc(emoji);
+        expect( doc.querySelector('#color') ).to.exist;
+      });
+    });
+  });
+
+  describe('#grid layer existing?', function() {
+    emojis.forEach(emoji => {
+      it(`${emoji.emoji} ${emoji.hexcode}.svg should have a #grid layer`, function(){
+        const doc = createDoc(emoji);
+        expect( doc.querySelector('#grid') ).to.exist;
+      });
+    });
+  });
+
+  describe('Valid layers only?', function() {
+    emojis.forEach(emoji => {
+      it(`${emoji.emoji} ${emoji.hexcode}.svg should have only valid layers`, function() {
+        const doc = createDoc(emoji);
+        const query = doc.querySelectorAll('svg > g');
+        query.forEach(el => {
+          expect(validLayerNames).to.include(el.getAttribute('id'));
+        });
+      });
+    });
+  });
+
 });
