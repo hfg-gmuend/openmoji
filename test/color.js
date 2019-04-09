@@ -1,7 +1,7 @@
 const _   = require('lodash');
 const expect = require('chai').expect;
 
-const createDoc = require('./helpers/helpers').createDoc;
+const createDoc = require('./utils/utils').createDoc;
 const openmojis = require('../data/openmoji.json');
 const colors = require('../data/color-palette.json').colors;
 
