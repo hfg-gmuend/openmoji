@@ -13,7 +13,7 @@
   },
   "repository": "https://github.com/hfg-gmuend/openmoji",
   "license": "CC-BY-SA-4.0",
-  "dependencies": {
+  "devDependencies": {
     "chai": "^4.2.0",
     "chroma-js": "^1.4.0",
     "csv-parse": "^2.5.0",
