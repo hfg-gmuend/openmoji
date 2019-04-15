@@ -6,6 +6,8 @@
 
 👉 OpenMoji 1.? - ???
 
++ Added 25A1 "missing glyph"
+
 * Normalized "beautified" all svg source and production files
 
 + Added 261 flags from 🇦🇩 Andorra to 🇿🇼 Zimbabwe
