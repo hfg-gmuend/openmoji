@@ -12,4 +12,5 @@
     <circle cx="30" cy="30" r="2" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M34,31c-.45,1-1.7187,2-4,2s-3.55-1-4-2" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
   </g>
+  <g id="line"/>
 </svg>
