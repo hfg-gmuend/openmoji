@@ -7,7 +7,7 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <rect x="25" y="17" width="24" height="39" fill="#cfcdcd"/>
+    <rect x="25" y="17" width="24" height="39" fill="#d0cfce"/>
     <path d="M42.3907,16.67C40.985,18.0129,40.63,20.3663,40.63,23.046c0,2.937.125,5.4819,1.7607,6.734" fill="none" stroke="#3f3f3f" stroke-miterlimit="10"/>
     <path d="M42.3907,29.78C40.985,31.1229,40.63,33.4763,40.63,36.156c0,2.937.125,5.4819,1.7607,6.734" fill="none" stroke="#3f3f3f" stroke-miterlimit="10"/>
     <path d="M42.3907,42.89C40.985,44.2329,40.63,46.5863,40.63,49.266c0,2.937.125,5.4819,1.7607,6.734" fill="none" stroke="#3f3f3f" stroke-miterlimit="10"/>
