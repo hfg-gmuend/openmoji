@@ -6,8 +6,8 @@
   </g>
   <g id="hair"/>
   <g id="skin">
-    <circle fill="#e0bb95" cx="35" cy="23" r="3" stroke="none"/>
-    <path fill="#e0bb95" d="M47,33c-4-1-11.0996-3.2002-15-4c-5-1-10,11-10,11h8l4.5039-7.791l10.166,2.166" stroke="none"/>
+    <circle fill="#debb90" cx="35" cy="23" r="3" stroke="none"/>
+    <path fill="#debb90" d="M47,33c-4-1-11.0996-3.2002-15-4c-5-1-10,11-10,11h8l4.5039-7.791l10.166,2.166" stroke="none"/>
   </g>
   <g id="skin-shadow"/>
   <g id="line">

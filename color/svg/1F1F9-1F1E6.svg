@@ -23,7 +23,7 @@
     <path d="M45.9556,35.81S45,46,53,48" fill="#92d3f5"/>
     <path d="M57,43.9188c-2.4-1.5567-8,0-8,0L53,48Z" fill="#1e50a0" stroke="#1e50a0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <polyline points="47 38 50 42 50 45" fill="none" stroke="#a57939" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <ellipse cx="47.8576" cy="41.5894" rx=".5" ry="2.6466" transform="translate(-10.5827 16.9976) rotate(-18.1699)" fill="none" stroke="#a57939" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <ellipse cx="47.8576" cy="41.5894" rx="0.5" ry="2.6466" transform="translate(-10.5827 16.9976) rotate(-18.1699)" fill="none" stroke="#a57939" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <polygon points="54 33 52 33 51 31 54 33" fill="#f4aa41" stroke="#a57939" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <path d="M56,42H53A2.8222,2.8222,0,0,0,56,42Z" fill="none" stroke="#f4aa41" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <path d="M59.5833,30v9c0,6.75-6.75,9-6.75,9s-6.75-2.25-6.75-9V30S52.9792,26.5937,59.5833,30Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>

@@ -5,7 +5,7 @@
     <rect x="5" y="17" width="62" height="13" fill="#1e50a0"/>
     <circle cx="25" cy="36.5" r="13" fill="#fcea2b" stroke="#000" stroke-miterlimit="10"/>
     <line x1="25" y1="23.5" x2="25" y2="48.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
-    <ellipse cx="25" cy="36" rx="1.5" ry=".5" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="25" cy="36" rx="1.5" ry="0.5" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
     <ellipse cx="25" cy="42.5" rx="1.5" ry="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
     <circle cx="25" cy="30" r="1.5" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
     <line x1="22.835" y1="27.75" x2="27.1651" y2="25.25" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>

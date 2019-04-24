@@ -2,10 +2,10 @@
   <g id="color"/>
   <g id="hair"/>
   <g id="skin">
-    <circle fill="#e0bb95" cx="35.9688" cy="8.0938" r="3" stroke="none"/>
-    <polyline fill="#e0bb95" points="40,39 42,49 49.167,64 46.167,66 38,52 36,47" stroke="none"/>
-    <path fill="#e0bb95" d="M31,26c0,0-2-1-2-3c0-1.458,0.9707-2.6514,1.9287-4c1.4385-2.0254,2.2256-3.916,4.5713-3.916 c4.3154,0,4.5,4.1777,4.5,4.916c0,2.1196,0,5.3335,0,8" stroke="none"/>
-    <polyline fill="#e0bb95" points="40,28 41,37 37,42 30.1738,67 26.75,67 31,29 31,26" stroke="none"/>
+    <circle fill="#debb90" cx="35.9688" cy="8.0938" r="3" stroke="none"/>
+    <polyline fill="#debb90" points="40,39 42,49 49.167,64 46.167,66 38,52 36,47" stroke="none"/>
+    <path fill="#debb90" d="M31,26c0,0-2-1-2-3c0-1.458,0.9707-2.6514,1.9287-4c1.4385-2.0254,2.2256-3.916,4.5713-3.916 c4.3154,0,4.5,4.1777,4.5,4.916c0,2.1196,0,5.3335,0,8" stroke="none"/>
+    <polyline fill="#debb90" points="40,28 41,37 37,42 30.1738,67 26.75,67 31,29 31,26" stroke="none"/>
   </g>
   <g id="skin-shadow"/>
   <g id="line">
