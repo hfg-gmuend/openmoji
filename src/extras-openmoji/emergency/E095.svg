@@ -13,7 +13,7 @@
   </g>
   <g id="line">
     <path d="M45.3656,37.4681V54.0234a.919.919,0,0,1-.9727.9727H18.0135a.9747.9747,0,0,1-.9727-.9727V15.117a.9748.9748,0,0,1,.9727-.9727H31.572" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <circle cx="31.2032" cy="59.2523" r="1.9453" fill="#010001"/>
+    <circle cx="31.2032" cy="59.2523" r="1.9453" fill="#000000"/>
     <line x1="33.3345" y1="11.2263" x2="26.3399" y2="11.2263" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <path d="M48.2248,36.861v23.38a3.6908,3.6908,0,0,1-3.68,3.68H17.8616a3.6908,3.6908,0,0,1-3.68-3.68V11.6587a3.6908,3.6908,0,0,1,3.68-3.68H36.9708" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <polyline points="46.892 26.339 46.892 20.594 43.989 20.594" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
