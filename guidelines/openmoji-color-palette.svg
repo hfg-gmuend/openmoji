@@ -1,26 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="960px" height="560px" viewBox="0 0 960 560" enable-background="new 0 0 960 560" xml:space="preserve">
-<title>farbpalette</title>
-<circle fill="#92D3F5" cx="442.96" cy="18.649" r="18.649"/>
-<circle fill="#61B2E4" cx="480" cy="18.649" r="18.649"/>
-<circle fill="#EA5A47" cx="442.96" cy="77.706" r="18.649"/>
-<circle fill="#D22F27" cx="480" cy="77.706" r="18.649"/>
-<circle fill="#B1CC33" cx="442.96" cy="137.021" r="18.649"/>
-<circle fill="#5C9E31" cx="480" cy="137.021" r="18.649"/>
-<circle fill="#FCEA2B" cx="442.96" cy="196.078" r="18.649"/>
-<circle fill="#F1B31C" cx="480" cy="196.078" r="18.649"/>
-<circle fill="#D0CFCE" cx="442.96" cy="255.393" r="18.649"/>
-<circle fill="#9B9B9A" cx="480" cy="255.393" r="18.649"/>
-<circle fill="#3F3F3F" cx="517.04" cy="255.393" r="18.649"/>
-<circle fill="#F4AA41" cx="442.96" cy="422.979" r="18.649"/>
-<circle fill="#E27022" cx="480" cy="422.979" r="18.649"/>
-<circle fill="#FFA7C0" cx="442.96" cy="368.979" r="18.649"/>
-<circle fill="#E67A94" cx="480" cy="368.979" r="18.649"/>
-<circle fill="#B399C8" cx="442.96" cy="482.294" r="18.649"/>
-<circle fill="#8967AA" cx="480" cy="482.294" r="18.649"/>
-<circle fill="#A57939" cx="442.96" cy="541.351" r="18.649"/>
-<circle fill="#6A462F" cx="480" cy="541.351" r="18.649"/>
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#92D3F5;}
+	.st1{fill:#1E50A0;}
+	.st2{fill:#EA5A47;}
+	.st3{fill:#B1CC33;}
+	.st4{fill:#FCEA2B;}
+	.st5{fill:#D0CFCE;}
+	.st6{fill:#61B2E4;}
+	.st7{fill:#D22F27;}
+	.st8{fill:#781E32;}
+	.st9{fill:#5C9E31;}
+	.st10{fill:#186648;}
+	.st11{fill:#F1B31C;}
+	.st12{fill:#9B9B9A;}
+	.st13{fill:#3F3F3F;}
+	.st14{fill:#E67A94;}
+	.st15{fill:#B399C8;}
+	.st16{fill:#8967AA;}
+	.st17{fill:#F4AA41;}
+	.st18{fill:#E27022;}
+	.st19{fill:#A57939;}
+	.st20{fill:#6A462F;}
+	.st21{fill:#FFA7C0;}
+	.st22{fill:#1D1D1B;}
+	.st23{font-family:'ArialMT';}
+	.st24{font-size:5px;}
+	.st25{fill:#FADCBC;}
+	.st26{fill:#DEBB90;}
+	.st27{fill:#C19A65;}
+	.st28{fill:#352318;}
+</style>
+<rect x="70" y="60" class="st0" width="46" height="16"/>
+<rect x="70" y="210" class="st1" width="46" height="16"/>
+<rect x="120" y="60" class="st2" width="46" height="16"/>
+<rect x="170" y="60" class="st3" width="46" height="16"/>
+<rect x="220" y="60" class="st4" width="46" height="16"/>
+<rect x="270" y="60" class="st5" width="46" height="16"/>
+<rect x="70" y="80" class="st6" width="46" height="16"/>
+<rect x="120" y="80" class="st7" width="46" height="16"/>
+<rect x="120" y="210" class="st8" width="46" height="16"/>
+<rect x="170" y="80" class="st9" width="46" height="16"/>
+<rect x="170" y="210" class="st10" width="46" height="16"/>
+<rect x="220" y="80" class="st11" width="46" height="16"/>
+<rect x="270" y="80" class="st12" width="46" height="16"/>
+<rect x="270" y="100" class="st13" width="46" height="16"/>
+<rect x="70" y="160" class="st14" width="46" height="16"/>
+<rect x="120" y="140" class="st15" width="46" height="16"/>
+<rect x="120" y="160" class="st16" width="46" height="16"/>
+<rect x="170" y="140" class="st17" width="46" height="16"/>
+<rect x="170" y="160" class="st18" width="46" height="16"/>
+<rect x="220" y="140" class="st19" width="46" height="16"/>
+<rect x="220" y="160" class="st20" width="46" height="16"/>
+<rect x="70" y="140" class="st21" width="46" height="16"/>
+<text transform="matrix(1 0 0 1 20.0078 64.291)"><tspan x="0" y="0" class="st22 st23 st24">primary </tspan><tspan x="0" y="6" class="st22 st23 st24">colors</tspan></text>
+<text transform="matrix(1 0 0 1 20.0078 24.291)"><tspan x="0" y="0" class="st22 st23 st24">openmoji</tspan><tspan x="0" y="6" class="st22 st23 st24">colors</tspan></text>
+<text transform="matrix(1 0 0 1 20.0078 144.291)"><tspan x="0" y="0" class="st22 st23 st24">secondary </tspan><tspan x="0" y="6" class="st22 st23 st24">colors</tspan></text>
+<text transform="matrix(1 0 0 1 20.0078 214.291)"><tspan x="0" y="0" class="st22 st23 st24">flags:</tspan><tspan x="0" y="6" class="st22 st23 st24">additional </tspan><tspan x="0" y="12" class="st22 st23 st24">colors</tspan></text>
+<rect x="70" y="260" class="st25" width="46" height="16"/>
+<rect x="120" y="260" class="st26" width="46" height="16"/>
+<rect x="170" y="260" class="st27" width="46" height="16"/>
+<rect x="220" y="260" class="st19" width="46" height="16"/>
+<rect x="270" y="260" class="st20" width="46" height="16"/>
+<rect x="320" y="260" class="st28" width="46" height="16"/>
+<text transform="matrix(1 0 0 1 20.0078 264.291)"><tspan x="0" y="0" class="st22 st23 st24">skin tones:</tspan><tspan x="0" y="6" class="st22 st23 st24">will be generated,</tspan><tspan x="0" y="12" class="st22 st23 st24">please don’t use</tspan></text>
 </svg>
