@@ -24,6 +24,10 @@ const generateSkintoneSvg = (srcFilePath, destFilePath, skintoneIndex) => {
   skinFills.forEach(s => {
     s.setAttribute('fill', fitzpatrickColors[skintoneIndex]);
   });
+  const skinStrokes = doc.querySelectorAll('#skin [stroke]');
+  skinStrokes.forEach(s => {
+    s.setAttribute('stroke', fitzpatrickColors[skintoneIndex]);
+  });
   const skinShadowFills = doc.querySelectorAll('#skin-shadow [fill]');
   skinShadowFills.forEach(s => {
     s.setAttribute('fill', shadowColors[skintoneIndex]);
