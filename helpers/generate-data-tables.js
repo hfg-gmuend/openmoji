@@ -83,12 +83,12 @@ emojis = _.map(emojis, e => {
 emojis = _.sortBy(emojis, [(e) => { return e.order; }]);
 
 // -- save to CSV and JSON files --
-writeJson(emojis, 'data/openmoji-emoji11.json');
-writeCsv(emojis, 'data/openmoji-emoji11.csv');
+writeJson(emojis, 'data/openmoji-emoji12.json');
+writeCsv(emojis, 'data/openmoji-emoji12.csv');
 
 // select all emojis which have not been designed yet (without skintones)
 const missingEmojis = _.filter(emojis, (e) => { return e.openmoji_author === '' && e.skintone === '' });
-writeCsv(missingEmojis, 'data/openmoji-emoji11-missing.csv');
+writeCsv(missingEmojis, 'data/openmoji-emoji12-missing.csv');
 
 // remove all emojis which have not been designed yet
 emojis = _.filter(emojis, (e) => { return e.openmoji_author !== '' });
