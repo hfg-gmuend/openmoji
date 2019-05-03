@@ -3,7 +3,7 @@ const _ = require('lodash');
 const csvWriter = require('csv-write-stream');
 const csvParse = require('csv-parse/lib/sync');
 
-const emojibaseData = require('emojibase-data/en/data.json');
+let emojibaseData = require('emojibase-data/en/data.json');
 const emojibaseGroups = require('emojibase-data/meta/groups.json');
 const groups = emojibaseGroups.groups;
 const subgroups = emojibaseGroups.subgroups;
@@ -27,6 +27,14 @@ const writeJson = (data, filePath) => {
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
 }
 
+// TODO is this correct?
+// filter out redundant emojis of the pattern "{single unicode character}-FE0F"
+console.log(emojibaseData.length);
+emojibaseData = _.filter(emojibaseData, (e) => {
+  const found = e.hexcode.endsWith('-FE0F') && ((e.hexcode.match(/-/g) || []).length === 1);
+  return !found;
+});
+console.log(emojibaseData.length);
 
 // -- create emoji tables --
 // create an empty array to hold the emoji definitions

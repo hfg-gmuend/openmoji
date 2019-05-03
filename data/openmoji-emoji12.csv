@@ -17,7 +17,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🤩,1F929,smileys-emotion,face-affection,star-struck,"eyes, face, grinning, star",suprised,Emily Jäger,2018-04-18,,,,5,16
 😘,1F618,smileys-emotion,face-affection,face blowing a kiss,"face, kiss","love, happy",Emily Jäger,2018-04-18,,,,1,17
 😗,1F617,smileys-emotion,face-affection,kissing face,"face, kiss",,Emily Jäger,2018-04-18,,,,1,18
-☺️,263A-FE0F,smileys-emotion,face-affection,smiling face,"face, outlined, relaxed, smile",satisfied,Emily Jäger,2018-04-18,,,,12,19
 ☺️,263A,smileys-emotion,face-affection,smiling face,"face, outlined, relaxed, smile",satisfied,Emily Jäger,2018-04-18,,,,1,20
 😚,1F61A,smileys-emotion,face-affection,kissing face with closed eyes,"closed, eye, face, kiss","love, happy",Emily Jäger,2018-04-18,,,,1,21
 😙,1F619,smileys-emotion,face-affection,kissing face with smiling eyes,"eye, face, kiss, smile",,Emily Jäger,2018-04-18,,,,1,22
@@ -65,7 +64,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😕,1F615,smileys-emotion,face-concerned,confused face,"confused, face, meh",,Mariella Steeb,2018-04-18,,,,1,64
 😟,1F61F,smileys-emotion,face-concerned,worried face,"face, worried",,Mariella Steeb,2018-04-18,,,,1,65
 🙁,1F641,smileys-emotion,face-concerned,slightly frowning face,"face, frown",,Mariella Steeb,2018-04-18,,,,1,66
-☹️,2639-FE0F,smileys-emotion,face-concerned,frowning face,"face, frown",negative,Mariella Steeb,2018-04-18,,,,12,67
 ☹️,2639,smileys-emotion,face-concerned,frowning face,"face, frown",negative,Mariella Steeb,2018-04-18,,,,1,68
 😮,1F62E,smileys-emotion,face-concerned,face with open mouth,"face, mouth, open, sympathy",,Mariella Steeb,2018-04-18,,,,1,69
 😯,1F62F,smileys-emotion,face-concerned,hushed face,"face, hushed, stunned, surprised",,Mariella Steeb,2018-04-18,,,,1,70
@@ -94,7 +92,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😈,1F608,smileys-emotion,face-negative,smiling face with horns,"face, fairy tale, fantasy, horns, smile","malicious, sardonic",Mariella Steeb,2018-04-18,,,,1,93
 👿,1F47F,smileys-emotion,face-negative,angry face with horns,"demon, devil, face, fantasy, imp",mean,Mariella Steeb,2018-04-18,,,,1,94
 💀,1F480,smileys-emotion,face-negative,skull,"death, face, fairy tale, monster",skull,Mariella Steeb,2018-04-18,,,,1,95
-☠️,2620-FE0F,smileys-emotion,face-negative,skull and crossbones,"crossbones, death, face, monster, skull",,Mariella Steeb,2018-04-18,,,,12,96
 ☠️,2620,smileys-emotion,face-negative,skull and crossbones,"crossbones, death, face, monster, skull",,Mariella Steeb,2018-04-18,,,,1,97
 💩,1F4A9,smileys-emotion,face-costume,pile of poo,"dung, face, monster, poo, poop",,Mariella Steeb,2018-04-18,,,,1,98
 🤡,1F921,smileys-emotion,face-costume,clown face,"clown, face",,Emily Jäger,2018-04-18,,,,3,99
@@ -126,10 +123,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💞,1F49E,smileys-emotion,emotion,revolving hearts,revolving,,Laura Humpfer,2018-04-18,,,,1,125
 💕,1F495,smileys-emotion,emotion,two hearts,love,,Laura Humpfer,2018-04-18,,,,1,126
 💟,1F49F,smileys-emotion,emotion,heart decoration,heart,,Laura Humpfer,2018-04-18,,,,1,127
-❣️,2763-FE0F,smileys-emotion,emotion,heart exclamation,"exclamation, mark, punctuation",,Laura Humpfer,2018-04-18,,,,12,128
 ❣️,2763,smileys-emotion,emotion,heart exclamation,"exclamation, mark, punctuation",,Laura Humpfer,2018-04-18,,,,1,129
 💔,1F494,smileys-emotion,emotion,broken heart,"break, broken",heartbreak,Laura Humpfer,2018-04-18,,,,1,130
-❤️,2764-FE0F,smileys-emotion,emotion,red heart,heart,"love, red",Laura Humpfer,2018-04-18,,,,12,131
 ❤️,2764,smileys-emotion,emotion,red heart,heart,"love, red",Laura Humpfer,2018-04-18,,,,1,132
 🧡,1F9E1,smileys-emotion,emotion,orange heart,orange,,,,,,,5,133
 💛,1F49B,smileys-emotion,emotion,yellow heart,yellow,,Laura Humpfer,2018-04-18,,,,1,134
@@ -145,14 +140,11 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💫,1F4AB,smileys-emotion,emotion,dizzy,"comic, star",shootingstar,Laura Humpfer,2018-04-18,,,,1,144
 💦,1F4A6,smileys-emotion,emotion,sweat droplets,"comic, splashing, sweat",,Laura Humpfer,2018-04-18,,,,1,145
 💨,1F4A8,smileys-emotion,emotion,dashing away,"comic, dash, running",,Laura Humpfer,2018-04-18,,,,1,146
-🕳️,1F573-FE0F,smileys-emotion,emotion,hole,hole,,Laura Humpfer,2018-04-18,,,,12,147
 🕳️,1F573,smileys-emotion,emotion,hole,hole,,Laura Humpfer,2018-04-18,,,,1,148
 💣️,1F4A3,smileys-emotion,emotion,bomb,comic,explosion,Laura Humpfer,2018-04-18,,,,1,149
 💬,1F4AC,smileys-emotion,emotion,speech balloon,"balloon, bubble, comic, dialog, speech",talk,Laura Humpfer,2018-04-18,,,,1,150
 👁️‍🗨️,1F441-FE0F-200D-1F5E8-FE0F,smileys-emotion,emotion,eye in speech bubble,"eye, speech bubble, witness","eye, speech bubble, witness",Julian Grüneberg,2018-04-18,,,,4,151
-🗨️,1F5E8-FE0F,smileys-emotion,emotion,left speech bubble,"dialog, speech",,Laura Humpfer,2018-04-18,,,,12,155
 🗨️,1F5E8,smileys-emotion,emotion,left speech bubble,"dialog, speech",,Laura Humpfer,2018-04-18,,,,2,156
-🗯️,1F5EF-FE0F,smileys-emotion,emotion,right anger bubble,"angry, balloon, bubble, mad",,Laura Humpfer,2018-04-18,,,,12,157
 🗯️,1F5EF,smileys-emotion,emotion,right anger bubble,"angry, balloon, bubble, mad",,Laura Humpfer,2018-04-18,,,,1,158
 💭,1F4AD,smileys-emotion,emotion,thought balloon,"balloon, bubble, comic, thought",think,Laura Humpfer,2018-04-18,,,,1,159
 💤,1F4A4,smileys-emotion,emotion,zzz,"comic, sleep",night,Laura Humpfer,2018-04-18,,,,1,160
@@ -168,7 +160,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🤚🏽,1F91A-1F3FD,people-body,hand-fingers-open,raised back of hand: medium skin tone,,,Julian Grüneberg,2018-04-18,3,🤚,1F91A,3,170
 🤚🏾,1F91A-1F3FE,people-body,hand-fingers-open,raised back of hand: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,🤚,1F91A,3,171
 🤚🏿,1F91A-1F3FF,people-body,hand-fingers-open,raised back of hand: dark skin tone,,,Julian Grüneberg,2018-04-18,5,🤚,1F91A,3,172
-🖐️,1F590-FE0F,people-body,hand-fingers-open,hand with fingers splayed,"finger, hand, splayed","Five Hand, Hand, Five, Splayed",Julian Grüneberg,2018-04-18,,,,12,173
 🖐️,1F590,people-body,hand-fingers-open,hand with fingers splayed,"finger, hand, splayed","Five Hand, Hand, Five, Splayed",Julian Grüneberg,2018-04-18,,🖐️,1F590,1,174
 🖐🏻,1F590-1F3FB,people-body,hand-fingers-open,hand with fingers splayed: light skin tone,,,Julian Grüneberg,2018-04-18,1,🖐️,1F590,2,175
 🖐🏼,1F590-1F3FC,people-body,hand-fingers-open,hand with fingers splayed: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,🖐️,1F590,2,176
@@ -199,7 +190,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🤏🏽,1F90F-1F3FD,people-body,hand-fingers-partial,pinching hand: medium skin tone,,,,,3,🤏,1F90F,12,201
 🤏🏾,1F90F-1F3FE,people-body,hand-fingers-partial,pinching hand: medium-dark skin tone,,,,,4,🤏,1F90F,12,202
 🤏🏿,1F90F-1F3FF,people-body,hand-fingers-partial,pinching hand: dark skin tone,,,,,5,🤏,1F90F,12,203
-✌️,270C-FE0F,people-body,hand-fingers-partial,victory hand,"hand, v, victory","hand, v, victory, Air Quotes, quotes, Peace, Peace Sign, V Sign",Julian Grüneberg,2018-04-18,,,,12,204
 ✌️,270C,people-body,hand-fingers-partial,victory hand,"hand, v, victory","hand, v, victory, Air Quotes, quotes, Peace, Peace Sign, V Sign",Julian Grüneberg,2018-04-18,,✌️,270C,1,205
 ✌🏻,270C-1F3FB,people-body,hand-fingers-partial,victory hand: light skin tone,,,Julian Grüneberg,2018-04-18,1,✌️,270C,2,206
 ✌🏼,270C-1F3FC,people-body,hand-fingers-partial,victory hand: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,✌️,270C,2,207
@@ -260,7 +250,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👇🏽,1F447-1F3FD,people-body,hand-single-finger,backhand index pointing down: medium skin tone,,,Julian Grüneberg,2018-04-18,3,👇️,1F447,2,262
 👇🏾,1F447-1F3FE,people-body,hand-single-finger,backhand index pointing down: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,👇️,1F447,2,263
 👇🏿,1F447-1F3FF,people-body,hand-single-finger,backhand index pointing down: dark skin tone,,,Julian Grüneberg,2018-04-18,5,👇️,1F447,2,264
-☝️,261D-FE0F,people-body,hand-single-finger,index pointing up,"finger, hand, index, point, up","finger, hand, index, point, up",Julian Grüneberg,2018-04-18,,,,12,265
 ☝️,261D,people-body,hand-single-finger,index pointing up,"finger, hand, index, point, up","finger, hand, index, point, up",Julian Grüneberg,2018-04-18,,☝️,261D,1,266
 ☝🏻,261D-1F3FB,people-body,hand-single-finger,index pointing up: light skin tone,,,Julian Grüneberg,2018-04-18,1,☝️,261D,2,267
 ☝🏼,261D-1F3FC,people-body,hand-single-finger,index pointing up: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,☝️,261D,2,268
@@ -334,7 +323,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🙏🏽,1F64F-1F3FD,people-body,hands,folded hands: medium skin tone,,,Julian Grüneberg,2018-04-18,3,🙏,1F64F,2,336
 🙏🏾,1F64F-1F3FE,people-body,hands,folded hands: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,🙏,1F64F,2,337
 🙏🏿,1F64F-1F3FF,people-body,hands,folded hands: dark skin tone,,,Julian Grüneberg,2018-04-18,5,🙏,1F64F,2,338
-✍️,270D-FE0F,people-body,hand-prop,writing hand,"hand, write","Writing Hand, Writing, Write",Julian Grüneberg,2018-04-18,,,,12,339
 ✍️,270D,people-body,hand-prop,writing hand,"hand, write","Writing Hand, Writing, Write",Julian Grüneberg,2018-04-18,,✍️,270D,1,340
 ✍🏻,270D-1F3FB,people-body,hand-prop,writing hand: light skin tone,,,Julian Grüneberg,2018-04-18,1,✍️,270D,2,341
 ✍🏼,270D-1F3FC,people-body,hand-prop,writing hand: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,✍️,270D,2,342
@@ -395,7 +383,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦷,1F9B7,people-body,body-parts,tooth,dentist,,,,,,,11,397
 🦴,1F9B4,people-body,body-parts,bone,skeleton,,,,,,,11,398
 👀,1F440,people-body,body-parts,eyes,"eye, face","eye, face, eyes",Julian Grüneberg,2018-04-18,,,,1,399
-👁️,1F441-FE0F,people-body,body-parts,eye,body,"eye, face",Julian Grüneberg,2018-04-18,,,,12,400
 👁️,1F441,people-body,body-parts,eye,body,"eye, face",Julian Grüneberg,2018-04-18,,,,1,401
 👅,1F445,people-body,body-parts,tongue,body,"tongue, kiss, lick, licking",Julian Grüneberg,2018-04-18,,,,1,402
 👄,1F444,people-body,body-parts,mouth,lips,"lips, kiss, mouth",Julian Grüneberg,2018-04-18,,,,1,403
@@ -921,7 +908,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👮🏽‍♀️,1F46E-1F3FD-200D-2640-FE0F,people-body,person-role,woman police officer: medium skin tone,,,,,3,👮‍♀️,1F46E-200D-2640-FE0F,4,1100
 👮🏾‍♀️,1F46E-1F3FE-200D-2640-FE0F,people-body,person-role,woman police officer: medium-dark skin tone,,,,,4,👮‍♀️,1F46E-200D-2640-FE0F,4,1102
 👮🏿‍♀️,1F46E-1F3FF-200D-2640-FE0F,people-body,person-role,woman police officer: dark skin tone,,,,,5,👮‍♀️,1F46E-200D-2640-FE0F,4,1104
-🕵️,1F575-FE0F,people-body,person-role,detective,"sleuth, spy","sleuth, spy, sherlock, investigator, magnifier, magnifying glass, cloak, coat",Lisa Thiel,2018-04-18,,,,12,1106
 🕵️,1F575,people-body,person-role,detective,"sleuth, spy","sleuth, spy, sherlock, investigator, magnifier, magnifying glass, cloak, coat",Lisa Thiel,2018-04-18,,🕵️,1F575,1,1107
 🕵🏻,1F575-1F3FB,people-body,person-role,detective: light skin tone,,,Lisa Thiel,2018-04-18,1,🕵️,1F575,2,1108
 🕵🏼,1F575-1F3FC,people-body,person-role,detective: medium-light skin tone,,,Lisa Thiel,2018-04-18,2,🕵️,1F575,2,1109
@@ -1348,7 +1334,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🕺🏽,1F57A-1F3FD,people-body,person-activity,man dancing: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,🕺,1F57A,3,1742
 🕺🏾,1F57A-1F3FE,people-body,person-activity,man dancing: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,🕺,1F57A,3,1743
 🕺🏿,1F57A-1F3FF,people-body,person-activity,man dancing: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,🕺,1F57A,3,1744
-🕴️,1F574-FE0F,people-body,person-activity,man in suit levitating,"business, man, suit",,,,,,,12,1745
 🕴️,1F574,people-body,person-activity,man in suit levitating,"business, man, suit",,,,,🕴️,1F574,1,1746
 🕴🏻,1F574-1F3FB,people-body,person-activity,man in suit levitating: light skin tone,,,,,1,🕴️,1F574,4,1747
 🕴🏼,1F574-1F3FC,people-body,person-activity,man in suit levitating: medium-light skin tone,,,,,2,🕴️,1F574,4,1748
@@ -1401,7 +1386,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏇🏽,1F3C7-1F3FD,people-body,person-sport,horse racing: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,🏇,1F3C7,4,1821
 🏇🏾,1F3C7-1F3FE,people-body,person-sport,horse racing: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,🏇,1F3C7,4,1822
 🏇🏿,1F3C7-1F3FF,people-body,person-sport,horse racing: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,🏇,1F3C7,4,1823
-⛷️,26F7-FE0F,people-body,person-sport,skier,"ski, snow","winter, sports",Johanna Wellnitz,2018-04-18,,,,12,1824
 ⛷️,26F7,people-body,person-sport,skier,"ski, snow","winter, sports",Johanna Wellnitz,2018-04-18,,,,1,1825
 🏂️,1F3C2,people-body,person-sport,snowboarder,"ski, snow, snowboard","winter, sports",Johanna Wellnitz,2018-04-18,,🏂️,1F3C2,1,1826
 🏂🏻,1F3C2-1F3FB,people-body,person-sport,snowboarder: light skin tone,,,Johanna Wellnitz,2018-04-18,1,🏂️,1F3C2,4,1827
@@ -1409,7 +1393,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏂🏽,1F3C2-1F3FD,people-body,person-sport,snowboarder: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,🏂️,1F3C2,4,1829
 🏂🏾,1F3C2-1F3FE,people-body,person-sport,snowboarder: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,🏂️,1F3C2,4,1830
 🏂🏿,1F3C2-1F3FF,people-body,person-sport,snowboarder: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,🏂️,1F3C2,4,1831
-🏌️,1F3CC-FE0F,people-body,person-sport,person golfing,"ball, golf",sports,Johanna Wellnitz,2018-04-18,,,,12,1832
 🏌️,1F3CC,people-body,person-sport,person golfing,"ball, golf",sports,Johanna Wellnitz,2018-04-18,,🏌️,1F3CC,1,1833
 🏌🏻,1F3CC-1F3FB,people-body,person-sport,person golfing: light skin tone,,,Johanna Wellnitz,2018-04-18,1,🏌️,1F3CC,4,1834
 🏌🏼,1F3CC-1F3FC,people-body,person-sport,person golfing: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,🏌️,1F3CC,4,1835
@@ -1482,7 +1465,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏊🏽‍♀️,1F3CA-1F3FD-200D-2640-FE0F,people-body,person-sport,woman swimming: medium skin tone,,,,,3,🏊‍♀️,1F3CA-200D-2640-FE0F,4,1951
 🏊🏾‍♀️,1F3CA-1F3FE-200D-2640-FE0F,people-body,person-sport,woman swimming: medium-dark skin tone,,,,,4,🏊‍♀️,1F3CA-200D-2640-FE0F,4,1953
 🏊🏿‍♀️,1F3CA-1F3FF-200D-2640-FE0F,people-body,person-sport,woman swimming: dark skin tone,,,,,5,🏊‍♀️,1F3CA-200D-2640-FE0F,4,1955
-⛹️,26F9-FE0F,people-body,person-sport,person bouncing ball,ball,"dribble, sports",Johanna Wellnitz,2018-04-18,,,,12,1957
 ⛹️,26F9,people-body,person-sport,person bouncing ball,ball,"dribble, sports",Johanna Wellnitz,2018-04-18,,⛹️,26F9,1,1958
 ⛹🏻,26F9-1F3FB,people-body,person-sport,person bouncing ball: light skin tone,,,Johanna Wellnitz,2018-04-18,1,⛹️,26F9,2,1959
 ⛹🏼,26F9-1F3FC,people-body,person-sport,person bouncing ball: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,⛹️,26F9,2,1960
@@ -1501,7 +1483,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ⛹🏽‍♀️,26F9-1F3FD-200D-2640-FE0F,people-body,person-sport,woman bouncing ball: medium skin tone,,,,,3,⛹️‍♀️,26F9-FE0F-200D-2640-FE0F,4,1986
 ⛹🏾‍♀️,26F9-1F3FE-200D-2640-FE0F,people-body,person-sport,woman bouncing ball: medium-dark skin tone,,,,,4,⛹️‍♀️,26F9-FE0F-200D-2640-FE0F,4,1988
 ⛹🏿‍♀️,26F9-1F3FF-200D-2640-FE0F,people-body,person-sport,woman bouncing ball: dark skin tone,,,,,5,⛹️‍♀️,26F9-FE0F-200D-2640-FE0F,4,1990
-🏋️,1F3CB-FE0F,people-body,person-sport,person lifting weights,"lifter, weight","sports, power",Johanna Wellnitz,2018-04-18,,,,12,1992
 🏋️,1F3CB,people-body,person-sport,person lifting weights,"lifter, weight","sports, power",Johanna Wellnitz,2018-04-18,,🏋️,1F3CB,1,1993
 🏋🏻,1F3CB-1F3FB,people-body,person-sport,person lifting weights: light skin tone,,,Johanna Wellnitz,2018-04-18,1,🏋️,1F3CB,2,1994
 🏋🏼,1F3CB-1F3FC,people-body,person-sport,person lifting weights: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,🏋️,1F3CB,2,1995
@@ -1769,7 +1750,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👩‍👧,1F469-200D-1F467,people-body,family,"family: woman, girl","family, girl, woman",,,,,,,4,2365
 👩‍👧‍👦,1F469-200D-1F467-200D-1F466,people-body,family,"family: woman, girl, boy","boy, family, girl, woman",,,,,,,4,2366
 👩‍👧‍👧,1F469-200D-1F467-200D-1F467,people-body,family,"family: woman, girl, girl","family, girl, woman",,,,,,,4,2367
-🗣️,1F5E3-FE0F,people-body,person-symbol,speaking head,"face, head, silhouette, speak, speaking","human, person",Johanna Wellnitz,2018-04-18,,,,12,2368
 🗣️,1F5E3,people-body,person-symbol,speaking head,"face, head, silhouette, speak, speaking","human, person",Johanna Wellnitz,2018-04-18,,,,1,2369
 👤,1F464,people-body,person-symbol,bust in silhouette,"bust, silhouette","human, person",Johanna Wellnitz,2018-04-18,,,,1,2370
 👥,1F465,people-body,person-symbol,busts in silhouette,"bust, silhouette","human, person",Johanna Wellnitz,2018-04-18,,,,1,2371
@@ -1830,7 +1810,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐹,1F439,animals-nature,animal-mammal,hamster,"face, pet","rodent, fat, fluffy, corn",Sofie Ascherl,2018-04-18,,,,1,2426
 🐰,1F430,animals-nature,animal-mammal,rabbit face,"bunny, face, pet, rabbit","rodent, teeth, cute, ears, bunny, hopping, easter",Sofie Ascherl,2018-04-18,,,,1,2427
 🐇,1F407,animals-nature,animal-mammal,rabbit,"bunny, pet","rodent, teeth, cute, ears, bunny, hopping, easter",Sofie Ascherl,2018-04-18,,,,1,2428
-🐿️,1F43F-FE0F,animals-nature,animal-mammal,chipmunk,squirrel,"squirrel, alvin",Sofie Ascherl,2018-04-18,,,,12,2429
 🐿️,1F43F,animals-nature,animal-mammal,chipmunk,squirrel,"squirrel, alvin",Sofie Ascherl,2018-04-18,,,,1,2430
 🦔,1F994,animals-nature,animal-mammal,hedgehog,spiny,"prickly, fall, apple, leafs",Sofie Ascherl,2018-04-18,,,,5,2431
 🦇,1F987,animals-nature,animal-mammal,bat,vampire,"batman, dracula",Sofie Ascherl,2018-04-18,,,,3,2432
@@ -1851,7 +1830,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐥,1F425,animals-nature,animal-bird,front-facing baby chick,"baby, bird, chick",,Selina Bauder,2018-04-18,,,,1,2447
 🐦️,1F426,animals-nature,animal-bird,bird,bird,"fly, colourful",Selina Bauder,2018-04-18,,,,1,2448
 🐧,1F427,animals-nature,animal-bird,penguin,bird,,Selina Bauder,2018-04-18,,,,1,2449
-🕊️,1F54A-FE0F,animals-nature,animal-bird,dove,"bird, fly, peace",fly,Selina Bauder,2018-04-18,,,,12,2450
 🕊️,1F54A,animals-nature,animal-bird,dove,"bird, fly, peace",fly,Selina Bauder,2018-04-18,,,,1,2451
 🦅,1F985,animals-nature,animal-bird,eagle,bird,fly,Selina Bauder,2018-04-18,,,,3,2452
 🦆,1F986,animals-nature,animal-bird,duck,bird,"water, fly",Selina Bauder,2018-04-18,,,,3,2453
@@ -1885,9 +1863,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐝,1F41D,animals-nature,animal-bug,honeybee,"bee, insect",,Selina Bauder,2018-04-18,,,,1,2481
 🐞,1F41E,animals-nature,animal-bug,lady beetle,"beetle, insect, ladybird, ladybug",,Selina Bauder,2018-04-18,,,,1,2482
 🦗,1F997,animals-nature,animal-bug,cricket,grasshopper,,Selina Bauder,2018-04-18,,,,5,2483
-🕷️,1F577-FE0F,animals-nature,animal-bug,spider,insect,,Selina Bauder,2018-04-18,,,,12,2484
 🕷️,1F577,animals-nature,animal-bug,spider,insect,,Selina Bauder,2018-04-18,,,,1,2485
-🕸️,1F578-FE0F,animals-nature,animal-bug,spider web,"spider, web",,Selina Bauder,2018-04-18,,,,12,2486
 🕸️,1F578,animals-nature,animal-bug,spider web,"spider, web",,Selina Bauder,2018-04-18,,,,1,2487
 🦂,1F982,animals-nature,animal-bug,scorpion,"scorpio, zodiac",,Selina Bauder,2018-04-18,,,,1,2488
 🦟,1F99F,animals-nature,animal-bug,mosquito,"disease, fever, insect, malaria, virus",,,,,,,11,2489
@@ -1895,7 +1871,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💐,1F490,animals-nature,plant-flower,bouquet,flower,"present, flower, tulip, bouquet",Hilda Kalyoncu,2018-04-18,,,,1,2491
 🌸,1F338,animals-nature,plant-flower,cherry blossom,"blossom, cherry, flower","pink,",Hilda Kalyoncu,2018-04-18,,,,1,2492
 💮,1F4AE,animals-nature,plant-flower,white flower,flower,,,,,,,1,2493
-🏵️,1F3F5-FE0F,animals-nature,plant-flower,rosette,plant,,,,,,,12,2494
 🏵️,1F3F5,animals-nature,plant-flower,rosette,plant,,,,,,,1,2495
 🌹,1F339,animals-nature,plant-flower,rose,flower,"rose, red, nature, present, valentines day",Hilda Kalyoncu,2018-04-18,,,,1,2496
 🥀,1F940,animals-nature,plant-flower,wilted flower,"flower, wilted","rose, wilted, flower, red, sad, plant",Hilda Kalyoncu,2018-04-18,,,,3,2497
@@ -1910,7 +1885,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🌵,1F335,animals-nature,plant-other,cactus,plant,"desert, sun, warm, hot, texas, plant",Hilda Kalyoncu,2018-04-18,,,,1,2506
 🌾,1F33E,animals-nature,plant-other,sheaf of rice,"ear, grain, rice",,Hend Hourani,2018-11-16,,,,1,2507
 🌿,1F33F,animals-nature,plant-other,herb,leaf,green,Hilda Kalyoncu,2018-04-18,,,,1,2508
-☘️,2618-FE0F,animals-nature,plant-other,shamrock,plant,"green, plant",Hilda Kalyoncu,2018-04-18,,,,12,2509
 ☘️,2618,animals-nature,plant-other,shamrock,plant,"green, plant",Hilda Kalyoncu,2018-04-18,,,,1,2510
 🍀,1F340,animals-nature,plant-other,four leaf clover,"4, clover, four, four-leaf clover, leaf","luck, four, leaf, green, plant",Hilda Kalyoncu,2018-04-18,,,,1,2511
 🍁,1F341,animals-nature,plant-other,maple leaf,"falling, leaf, maple","autumn, colorful",Hilda Kalyoncu,2018-04-18,,,,1,2512
@@ -1938,7 +1912,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥔,1F954,food-drink,food-vegetable,potato,"food, vegetable",,Marius Schnabel,2018-04-18,,,,3,2534
 🥕,1F955,food-drink,food-vegetable,carrot,"food, vegetable",,Marius Schnabel,2018-04-18,,,,3,2535
 🌽,1F33D,food-drink,food-vegetable,ear of corn,"corn, ear, maize, maze",yellow,Marius Schnabel,2018-04-18,,,,1,2536
-🌶️,1F336-FE0F,food-drink,food-vegetable,hot pepper,"hot, pepper",red,Marius Schnabel,2018-04-18,,,,12,2537
 🌶️,1F336,food-drink,food-vegetable,hot pepper,"hot, pepper",red,Marius Schnabel,2018-04-18,,,,1,2538
 🥒,1F952,food-drink,food-vegetable,cucumber,"food, pickle, vegetable",,Marius Schnabel,2018-04-18,,,,3,2539
 🥬,1F96C,food-drink,food-vegetable,leafy green,"bok choy, cabbage, kale, lettuce",,,,,,,11,2540
@@ -2033,7 +2006,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧉,1F9C9,food-drink,drink,mate,drink,,,,,,,12,2629
 🧊,1F9CA,food-drink,drink,ice,"cold, ice cube, iceberg",,,,,,,12,2630
 🥢,1F962,food-drink,dishware,chopsticks,hashi,"sticks, eat, chopstick",Jonas Roßner,2018-04-18,,,,5,2631
-🍽️,1F37D-FE0F,food-drink,dishware,fork and knife with plate,"cooking, fork, knife, plate",eat,Jonas Roßner,2018-04-18,,,,12,2632
 🍽️,1F37D,food-drink,dishware,fork and knife with plate,"cooking, fork, knife, plate",eat,Jonas Roßner,2018-04-18,,,,1,2633
 🍴,1F374,food-drink,dishware,fork and knife,"cooking, cutlery, fork, knife",eat,Jonas Roßner,2018-04-18,,,,1,2634
 🥄,1F944,food-drink,dishware,spoon,tableware,"metal, spoon, eat",Jonas Roßner,2018-04-18,,,,3,2635
@@ -2043,36 +2015,23 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🌎️,1F30E,travel-places,place-map,globe showing Americas,"americas, earth, globe, globe showing americas, world","geographic, continent, global, planet",Martin Wehl,2018-04-18,,,,1,2639
 🌏️,1F30F,travel-places,place-map,globe showing Asia-Australia,"asia, australia, earth, globe, globe showing asia-australia, world","geographic, continent, global, planet",Martin Wehl,2018-04-18,,,,1,2640
 🌐,1F310,travel-places,place-map,globe with meridians,"earth, globe, meridians, world","geographic, continent, global, planet, grid",Martin Wehl,2018-04-18,,,,1,2641
-🗺️,1F5FA-FE0F,travel-places,place-map,world map,"map, world","geographic, continent, global, planet, earth",Martin Wehl,2018-04-18,,,,12,2642
 🗺️,1F5FA,travel-places,place-map,world map,"map, world","geographic, continent, global, planet, earth",Martin Wehl,2018-04-18,,,,1,2643
 🗾,1F5FE,travel-places,place-map,map of Japan,"japan, map, map of japan",,Louisa Mantsch,2018-11-16,,,,1,2644
 🧭,1F9ED,travel-places,place-map,compass,"magnetic, navigation, orienteering",,,,,,,11,2645
-🏔️,1F3D4-FE0F,travel-places,place-geographic,snow-capped mountain,"cold, mountain, snow","landscape, nature, hiking, climbing, white, outdoor, adventure",Martin Wehl,2018-04-18,,,,12,2646
 🏔️,1F3D4,travel-places,place-geographic,snow-capped mountain,"cold, mountain, snow","landscape, nature, hiking, climbing, white, outdoor, adventure",Martin Wehl,2018-04-18,,,,1,2647
-⛰️,26F0-FE0F,travel-places,place-geographic,mountain,mountain,"landscape, nature, hiking, climbing, outdoor, adventure",Martin Wehl,2018-04-18,,,,12,2648
 ⛰️,26F0,travel-places,place-geographic,mountain,mountain,"landscape, nature, hiking, climbing, outdoor, adventure",Martin Wehl,2018-04-18,,,,1,2649
 🌋,1F30B,travel-places,place-geographic,volcano,"eruption, mountain","vulcano, landscape, nature, fire, smoke, hot",Guemil Project,2019-01-14,,,,1,2650
 🗻,1F5FB,travel-places,place-geographic,mount fuji,"fuji, mountain","japan, japanese, geographic",Martin Wehl,2018-04-18,,,,1,2651
-🏕️,1F3D5-FE0F,travel-places,place-geographic,camping,camping,"nature, outdoor, tent, adventure, sleeping",Martin Wehl,2018-04-18,,,,12,2652
 🏕️,1F3D5,travel-places,place-geographic,camping,camping,"nature, outdoor, tent, adventure, sleeping",Martin Wehl,2018-04-18,,,,1,2653
-🏖️,1F3D6-FE0F,travel-places,place-geographic,beach with umbrella,"beach, umbrella","nature, summer, sun, sand, water, holidays",Martin Wehl,2018-04-18,,,,12,2654
 🏖️,1F3D6,travel-places,place-geographic,beach with umbrella,"beach, umbrella","nature, summer, sun, sand, water, holidays",Martin Wehl,2018-04-18,,,,1,2655
-🏜️,1F3DC-FE0F,travel-places,place-geographic,desert,desert,"nature, hot, sun, sand, dry",Martin Wehl,2018-04-18,,,,12,2656
 🏜️,1F3DC,travel-places,place-geographic,desert,desert,"nature, hot, sun, sand, dry",Martin Wehl,2018-04-18,,,,1,2657
-🏝️,1F3DD-FE0F,travel-places,place-geographic,desert island,"desert, island","sun, lonely, sand, water, stranded, palm, nature",Martin Wehl,2018-04-18,,,,12,2658
 🏝️,1F3DD,travel-places,place-geographic,desert island,"desert, island","sun, lonely, sand, water, stranded, palm, nature",Martin Wehl,2018-04-18,,,,1,2659
-🏞️,1F3DE-FE0F,travel-places,place-geographic,national park,park,"nature, outdoor, adventure, woods, mountain",Martin Wehl,2018-04-18,,,,12,2660
 🏞️,1F3DE,travel-places,place-geographic,national park,park,"nature, outdoor, adventure, woods, mountain",Martin Wehl,2018-04-18,,,,1,2661
-🏟️,1F3DF-FE0F,travel-places,place-building,stadium,stadium,"building, football, sports, olympic",Martin Wehl,2018-04-18,,,,12,2662
 🏟️,1F3DF,travel-places,place-building,stadium,stadium,"building, football, sports, olympic",Martin Wehl,2018-04-18,,,,1,2663
-🏛️,1F3DB-FE0F,travel-places,place-building,classical building,classical,"building, historical, old, antique",Martin Wehl,2018-04-18,,,,12,2664
 🏛️,1F3DB,travel-places,place-building,classical building,classical,"building, historical, old, antique",Martin Wehl,2018-04-18,,,,1,2665
-🏗️,1F3D7-FE0F,travel-places,place-building,building construction,construction,"work, building lot, crane",Martin Wehl,2018-04-18,,,,12,2666
 🏗️,1F3D7,travel-places,place-building,building construction,construction,"work, building lot, crane",Martin Wehl,2018-04-18,,,,1,2667
 🧱,1F9F1,travel-places,place-building,brick,"bricks, clay, mortar, wall",,,,,,,11,2668
-🏘️,1F3D8-FE0F,travel-places,place-building,houses,houses,"buildings, neighbourhood",Martin Wehl,2018-04-18,,,,12,2669
 🏘️,1F3D8,travel-places,place-building,houses,houses,"buildings, neighbourhood",Martin Wehl,2018-04-18,,,,1,2670
-🏚️,1F3DA-FE0F,travel-places,place-building,derelict house,"derelict, house","building, old, rotten, dangerous",Martin Wehl,2018-04-18,,,,12,2671
 🏚️,1F3DA,travel-places,place-building,derelict house,"derelict, house","building, old, rotten, dangerous",Martin Wehl,2018-04-18,,,,1,2672
 🏠️,1F3E0,travel-places,place-building,house,home,building,Martin Wehl,2018-04-18,,,,1,2673
 🏡,1F3E1,travel-places,place-building,house with garden,"garden, home, house","building, grass, green, tree",Martin Wehl,2018-04-18,,,,1,2674
@@ -2096,21 +2055,18 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🕌,1F54C,travel-places,place-religious,mosque,"islam, muslim, religion","religious, pray, building, god, faith",Martin Wehl,2018-04-18,,,,1,2692
 🛕,1F6D5,travel-places,place-religious,hindu temple,"hindu, temple",,,,,,,12,2693
 🕍,1F54D,travel-places,place-religious,synagogue,"jew, jewish, religion, temple","religious, pray, building, god, faith",Martin Wehl,2018-04-18,,,,1,2694
-⛩️,26E9-FE0F,travel-places,place-religious,shinto shrine,"religion, shinto, shrine","religious, pray, building, god, faith",Martin Wehl,2018-04-18,,,,12,2695
 ⛩️,26E9,travel-places,place-religious,shinto shrine,"religion, shinto, shrine","religious, pray, building, god, faith",Martin Wehl,2018-04-18,,,,1,2696
 🕋,1F54B,travel-places,place-religious,kaaba,"islam, muslim, religion","religious, pray, building, god, black, mecca, faith",Martin Wehl,2018-04-18,,,,1,2697
 ⛲️,26F2,travel-places,place-other,fountain,fountain,,Louisa Mantsch,2018-11-16,,,,1,2698
 ⛺️,26FA,travel-places,place-other,tent,camping,"nature, outdoor, adventure",Martin Wehl,2018-04-18,,,,1,2699
 🌁,1F301,travel-places,place-other,foggy,fog,,,,,,,1,2700
 🌃,1F303,travel-places,place-other,night with stars,"night, star",,Louisa Mantsch,2018-11-16,,,,1,2701
-🏙️,1F3D9-FE0F,travel-places,place-other,cityscape,city,"buildings, metropolis",Martin Wehl,2018-04-18,,,,12,2702
 🏙️,1F3D9,travel-places,place-other,cityscape,city,"buildings, metropolis",Martin Wehl,2018-04-18,,,,1,2703
 🌄,1F304,travel-places,place-other,sunrise over mountains,"morning, mountain, sun, sunrise",,Louisa Mantsch,2018-11-16,,,,1,2704
 🌅,1F305,travel-places,place-other,sunrise,"morning, sun",,Louisa Mantsch,2018-11-16,,,,1,2705
 🌆,1F306,travel-places,place-other,cityscape at dusk,"city, dusk, evening, landscape, sunset",,Louisa Mantsch,2018-11-16,,,,1,2706
 🌇,1F307,travel-places,place-other,sunset,"dusk, sun",,Louisa Mantsch,2018-11-16,,,,1,2707
 🌉,1F309,travel-places,place-other,bridge at night,"bridge, night",,,,,,,1,2708
-♨️,2668-FE0F,travel-places,place-other,hot springs,"hot, hotsprings, springs, steaming",,Louisa Mantsch,2018-11-16,,,,12,2709
 ♨️,2668,travel-places,place-other,hot springs,"hot, hotsprings, springs, steaming",,Louisa Mantsch,2018-11-16,,,,1,2710
 🎠,1F3A0,travel-places,place-other,carousel horse,"carousel, horse",,Louisa Mantsch,2018-11-16,,,,1,2711
 🎡,1F3A1,travel-places,place-other,ferris wheel,"amusement park, ferris, wheel",,Louisa Mantsch,2018-11-16,,,,1,2712
@@ -2145,9 +2101,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🚚,1F69A,travel-places,transport-ground,delivery truck,"delivery, truck","truck, delivery, car, transportation, travel, trucker, driver",Ronja Bäurlen,2018-04-18,,,,1,2741
 🚛,1F69B,travel-places,transport-ground,articulated lorry,"lorry, semi, truck","delivery truck, truck, car, transportation, travel, trucker, truck driver",Ronja Bäurlen,2018-04-18,,,,1,2742
 🚜,1F69C,travel-places,transport-ground,tractor,vehicle,"tractor, towing, vehicle, farm, farming, field, acre",Ronja Bäurlen,2018-04-18,,,,1,2743
-🏎️,1F3CE-FE0F,travel-places,transport-ground,racing car,"car, racing","sports, motor",Johanna Wellnitz,2018-04-18,,,,12,2744
 🏎️,1F3CE,travel-places,transport-ground,racing car,"car, racing","sports, motor",Johanna Wellnitz,2018-04-18,,,,1,2745
-🏍️,1F3CD-FE0F,travel-places,transport-ground,motorcycle,racing,"motorsports, vehicle",Johanna Wellnitz,2018-04-18,,,,12,2746
 🏍️,1F3CD,travel-places,transport-ground,motorcycle,racing,"motorsports, vehicle",Johanna Wellnitz,2018-04-18,,,,1,2747
 🛵,1F6F5,travel-places,transport-ground,motor scooter,"motor, scooter","motor, scooter, transportation, bicycle,",Ronja Bäurlen,2018-04-18,,,,3,2748
 🦽,1F9BD,travel-places,transport-ground,manual wheelchair,accessibility,,,,,,,12,2749
@@ -2157,11 +2111,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🛴,1F6F4,travel-places,transport-ground,kick scooter,"kick, scooter","kick, scooter, city roller",Ronja Bäurlen,2018-04-18,,,,3,2753
 🛹,1F6F9,travel-places,transport-ground,skateboard,board,,,,,,,11,2754
 🚏,1F68F,travel-places,transport-ground,bus stop,"bus, busstop, stop","station, stop, bus, traffic, travel, bus stop, departure, arrive",Ronja Bäurlen,2018-04-18,,,,1,2755
-🛣️,1F6E3-FE0F,travel-places,transport-ground,motorway,"highway, road",,Nadja Grün,2018-11-16,,,,12,2756
 🛣️,1F6E3,travel-places,transport-ground,motorway,"highway, road",,Nadja Grün,2018-11-16,,,,1,2757
-🛤️,1F6E4-FE0F,travel-places,transport-ground,railway track,"railway, train",,Nadja Grün,2018-11-16,,,,12,2758
 🛤️,1F6E4,travel-places,transport-ground,railway track,"railway, train",,Nadja Grün,2018-11-16,,,,1,2759
-🛢️,1F6E2-FE0F,travel-places,transport-ground,oil drum,"drum, oil",,Nadja Grün,2018-11-16,,,,12,2760
 🛢️,1F6E2,travel-places,transport-ground,oil drum,"drum, oil",,Nadja Grün,2018-11-16,,,,1,2761
 ⛽️,26FD,travel-places,transport-ground,fuel pump,"diesel, fuel, fuelpump, gas, pump, station","fuel, gas, station, transportation",Ronja Bäurlen,2018-04-18,,,,1,2762
 🚨,1F6A8,travel-places,transport-ground,police car light,"beacon, car, light, police, revolving",,Nadja Grün,2018-11-16,,,,1,2763
@@ -2173,16 +2124,11 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ⛵️,26F5,travel-places,transport-water,sailboat,"boat, resort, sea, yacht","boat, passengers, ship, travel, sea, atlantic, ocean, water, yacht, resort, sail, sailboat",Ronja Bäurlen,2018-04-18,,,,1,2769
 🛶,1F6F6,travel-places,transport-water,canoe,boat,,,,,,,3,2770
 🚤,1F6A4,travel-places,transport-water,speedboat,boat,"boat, passengers, ship, travel, sea, atlantic, ocean, water, speed",Ronja Bäurlen,2018-04-18,,,,1,2771
-🛳️,1F6F3-FE0F,travel-places,transport-water,passenger ship,"passenger, ship","boat, passengers, ship, travel, sea, atlantic, ocean, water",Ronja Bäurlen,2018-04-18,,,,12,2772
 🛳️,1F6F3,travel-places,transport-water,passenger ship,"passenger, ship","boat, passengers, ship, travel, sea, atlantic, ocean, water",Ronja Bäurlen,2018-04-18,,,,1,2773
-⛴️,26F4-FE0F,travel-places,transport-water,ferry,"boat, passenger",,Lois Proksch,2018-11-16,,,,12,2774
 ⛴️,26F4,travel-places,transport-water,ferry,"boat, passenger",,Lois Proksch,2018-11-16,,,,1,2775
-🛥️,1F6E5-FE0F,travel-places,transport-water,motor boat,"boat, motorboat","boat, passengers, ship, travel, sea, atlantic, ocean, water, motor",Ronja Bäurlen,2018-04-18,,,,12,2776
 🛥️,1F6E5,travel-places,transport-water,motor boat,"boat, motorboat","boat, passengers, ship, travel, sea, atlantic, ocean, water, motor",Ronja Bäurlen,2018-04-18,,,,1,2777
 🚢,1F6A2,travel-places,transport-water,ship,"boat, passenger","boat, passengers, ship, travel, sea, atlantic, ocean, water",Ronja Bäurlen,2018-04-18,,,,1,2778
-✈️,2708-FE0F,travel-places,transport-air,airplane,aeroplane,"fly, airplane, aeroplane, air, sky, travel, departure, arrive",Ronja Bäurlen,2018-04-18,,,,12,2779
 ✈️,2708,travel-places,transport-air,airplane,aeroplane,"fly, airplane, aeroplane, air, sky, travel, departure, arrive",Ronja Bäurlen,2018-04-18,,,,1,2780
-🛩️,1F6E9-FE0F,travel-places,transport-air,small airplane,"aeroplane, airplane","fly, airplane, aeroplane, air, sky, travel, departure, arrive",Ronja Bäurlen,2018-04-18,,,,12,2781
 🛩️,1F6E9,travel-places,transport-air,small airplane,"aeroplane, airplane","fly, airplane, aeroplane, air, sky, travel, departure, arrive",Ronja Bäurlen,2018-04-18,,,,1,2782
 🛫,1F6EB,travel-places,transport-air,airplane departure,"aeroplane, airplane, check-in, departure, departures","fly, airplane, aeroplane, air, sky, travel, departure",Ronja Bäurlen,2018-04-18,,,,1,2783
 🛬,1F6EC,travel-places,transport-air,airplane arrival,"aeroplane, airplane, arrivals, arriving, landing","fly, airplane, aeroplane, air, sky, travel, arrive",Ronja Bäurlen,2018-04-18,,,,1,2784
@@ -2192,22 +2138,17 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🚟,1F69F,travel-places,transport-air,suspension railway,"railway, suspension",,Lois Proksch,2018-11-16,,,,1,2788
 🚠,1F6A0,travel-places,transport-air,mountain cableway,"cable, gondola, mountain","travel, mountain, high",Ronja Bäurlen,2018-04-18,,,,1,2789
 🚡,1F6A1,travel-places,transport-air,aerial tramway,"aerial, cable, car, gondola, tramway",,Lois Proksch,2018-11-16,,,,1,2790
-🛰️,1F6F0-FE0F,travel-places,transport-air,satellite,space,"space, galaxy, satellite",Ronja Bäurlen,2018-04-18,,,,12,2791
 🛰️,1F6F0,travel-places,transport-air,satellite,space,"space, galaxy, satellite",Ronja Bäurlen,2018-04-18,,,,1,2792
 🚀,1F680,travel-places,transport-air,rocket,space,"rocket, space, galaxy, adventure, alien, transportation",Ronja Bäurlen,2018-04-18,,,,1,2793
 🛸,1F6F8,travel-places,transport-air,flying saucer,ufo,"alien, UFO, space, planets, adventures",Ronja Bäurlen,2018-04-18,,,,5,2794
-🛎️,1F6CE-FE0F,travel-places,hotel,bellhop bell,"bell, bellhop, hotel",,Lois Proksch,2018-11-16,,,,12,2795
 🛎️,1F6CE,travel-places,hotel,bellhop bell,"bell, bellhop, hotel",,Lois Proksch,2018-11-16,,,,1,2796
 🧳,1F9F3,travel-places,hotel,luggage,"packing, travel",,,,,,,11,2797
 ⌛️,231B,travel-places,time,hourglass done,"sand, timer","countdown, hourglass",Rana Cakir,2018-04-18,,,,1,2798
 ⏳️,23F3,travel-places,time,hourglass not done,"hourglass, sand, timer",,Rana Cakir,2018-04-18,,,,1,2799
 ⌚️,231A,travel-places,time,watch,clock,"watch, time,",Rana Cakir,2018-04-18,,,,1,2800
 ⏰,23F0,travel-places,time,alarm clock,"alarm, clock",,Rana Cakir,2018-04-18,,,,1,2801
-⏱️,23F1-FE0F,travel-places,time,stopwatch,clock,,Rana Cakir,2018-04-18,,,,12,2802
 ⏱️,23F1,travel-places,time,stopwatch,clock,,Rana Cakir,2018-04-18,,,,1,2803
-⏲️,23F2-FE0F,travel-places,time,timer clock,"clock, timer",time,Rana Cakir,2018-04-18,,,,12,2804
 ⏲️,23F2,travel-places,time,timer clock,"clock, timer",time,Rana Cakir,2018-04-18,,,,1,2805
-🕰️,1F570-FE0F,travel-places,time,mantelpiece clock,clock,,Lois Proksch,2018-11-16,,,,12,2806
 🕰️,1F570,travel-places,time,mantelpiece clock,clock,,Lois Proksch,2018-11-16,,,,1,2807
 🕛️,1F55B,travel-places,time,twelve o’clock,"00, 12, 12:00, clock, o’clock, twelve",time,Rana Cakir,2018-04-18,,,,1,2808
 🕧️,1F567,travel-places,time,twelve-thirty,"12, 12:30, clock, thirty, twelve",time,Rana Cakir,2018-04-18,,,,1,2809
@@ -2245,9 +2186,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🌚,1F31A,travel-places,sky-weather,new moon face,"face, moon",,Lois Proksch,2018-11-16,,,,1,2841
 🌛,1F31B,travel-places,sky-weather,first quarter moon face,"face, moon, quarter","face, first quarter, half moon, moon, full moon, night, night sky, starry sky, light, moonlight, round, celestial bodies, sickle, planet",Vanessa Boutzikoudi,2018-04-18,,,,1,2842
 🌜️,1F31C,travel-places,sky-weather,last quarter moon face,"face, moon, quarter","face, last quarter, half moon, moon, full moon, night, night sky, starry sky, light, moonlight, round, celestial bodies, sickle, planet",Vanessa Boutzikoudi,2018-04-18,,,,1,2843
-🌡️,1F321-FE0F,travel-places,sky-weather,thermometer,weather,"temperatures, room temperatures, degrees, heat, warming, fever, cold, celsius, measure, sick",Vanessa Boutzikoudi,2018-04-18,,,,12,2844
 🌡️,1F321,travel-places,sky-weather,thermometer,weather,"temperatures, room temperatures, degrees, heat, warming, fever, cold, celsius, measure, sick",Vanessa Boutzikoudi,2018-04-18,,,,1,2845
-☀️,2600-FE0F,travel-places,sky-weather,sun,"bright, rays, sunny","sun, sunrise, warm, sunbeams, feel good, beach, tanning, fire, fireball, hot, heavenly body",Vanessa Boutzikoudi,2018-04-18,,,,12,2846
 ☀️,2600,travel-places,sky-weather,sun,"bright, rays, sunny","sun, sunrise, warm, sunbeams, feel good, beach, tanning, fire, fireball, hot, heavenly body",Vanessa Boutzikoudi,2018-04-18,,,,1,2847
 🌝,1F31D,travel-places,sky-weather,full moon face,"bright, face, full, moon","moon, full moon, night, stars, moonlight, disc, no clouds",Vanessa Boutzikoudi,2018-04-18,,,,1,2848
 🌞,1F31E,travel-places,sky-weather,sun with face,"bright, face, sun","sun, face, bright, sun, sunrise, warm, rays, beach, tanning, fire, fireball, hot, celestial bodies, star",Vanessa Boutzikoudi,2018-04-18,,,,1,2849
@@ -2256,44 +2195,28 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🌟,1F31F,travel-places,sky-weather,glowing star,"glittery, glow, shining, sparkle, star","star, shine, glow, bright, sparkle, small planet, sky, yellow, far away, constellation, shooting star, milky way",Vanessa Boutzikoudi,2018-04-18,,,,1,2852
 🌠,1F320,travel-places,sky-weather,shooting star,"falling, shooting, star","shooting star, star, sparkle, shine, bright, far away, sky, star sky, night, wish, lightning",Vanessa Boutzikoudi,2018-04-18,,,,1,2853
 🌌,1F30C,travel-places,sky-weather,milky way,space,,,,,,,1,2854
-☁️,2601-FE0F,travel-places,sky-weather,cloud,weather,"cloud, cloudy, rain, gray, misty, diffuse, sky, dream, fleecy clouds",Vanessa Boutzikoudi,2018-04-18,,,,12,2855
 ☁️,2601,travel-places,sky-weather,cloud,weather,"cloud, cloudy, rain, gray, misty, diffuse, sky, dream, fleecy clouds",Vanessa Boutzikoudi,2018-04-18,,,,1,2856
 ⛅️,26C5,travel-places,sky-weather,sun behind cloud,"cloud, sun","sun, behind, cloud, appear, cloudy, cool, sunny, weather",Vanessa Boutzikoudi,2018-04-18,,,,1,2857
-⛈️,26C8-FE0F,travel-places,sky-weather,cloud with lightning and rain,"cloud, rain, thunder","cloud, lightning, rain, thunder, weather, storm, thunderstorm",Vanessa Boutzikoudi,2018-04-18,,,,12,2858
 ⛈️,26C8,travel-places,sky-weather,cloud with lightning and rain,"cloud, rain, thunder","cloud, lightning, rain, thunder, weather, storm, thunderstorm",Vanessa Boutzikoudi,2018-04-18,,,,1,2859
-🌤️,1F324-FE0F,travel-places,sky-weather,sun behind small cloud,"cloud, sun","sun, behind, small, cloud, sunny, cloudy, rain, cool, sky, weather",Vanessa Boutzikoudi,2018-04-18,,,,12,2860
 🌤️,1F324,travel-places,sky-weather,sun behind small cloud,"cloud, sun","sun, behind, small, cloud, sunny, cloudy, rain, cool, sky, weather",Vanessa Boutzikoudi,2018-04-18,,,,1,2861
-🌥️,1F325-FE0F,travel-places,sky-weather,sun behind large cloud,"cloud, sun","sun, behind, large, cloud, gray, cloudy, rain, diffuse, sky, weather",Vanessa Boutzikoudi,2018-04-18,,,,12,2862
 🌥️,1F325,travel-places,sky-weather,sun behind large cloud,"cloud, sun","sun, behind, large, cloud, gray, cloudy, rain, diffuse, sky, weather",Vanessa Boutzikoudi,2018-04-18,,,,1,2863
-🌦️,1F326-FE0F,travel-places,sky-weather,sun behind rain cloud,"cloud, rain, sun","sun, behind, rain, cloud, wet, rainy, cloudy, cool, weather",Vanessa Boutzikoudi,2018-04-18,,,,12,2864
 🌦️,1F326,travel-places,sky-weather,sun behind rain cloud,"cloud, rain, sun","sun, behind, rain, cloud, wet, rainy, cloudy, cool, weather",Vanessa Boutzikoudi,2018-04-18,,,,1,2865
-🌧️,1F327-FE0F,travel-places,sky-weather,cloud with rain,"cloud, rain","cloud, rain, raindrops, falling, down, wet, cool, cloudy, weather, stormy",Vanessa Boutzikoudi,2018-04-18,,,,12,2866
 🌧️,1F327,travel-places,sky-weather,cloud with rain,"cloud, rain","cloud, rain, raindrops, falling, down, wet, cool, cloudy, weather, stormy",Vanessa Boutzikoudi,2018-04-18,,,,1,2867
-🌨️,1F328-FE0F,travel-places,sky-weather,cloud with snow,"cloud, cold, snow","cloud, snow, falling, ice, wet, cold, cloudy, stormy, weather",Vanessa Boutzikoudi,2018-04-18,,,,12,2868
 🌨️,1F328,travel-places,sky-weather,cloud with snow,"cloud, cold, snow","cloud, snow, falling, ice, wet, cold, cloudy, stormy, weather",Vanessa Boutzikoudi,2018-04-18,,,,1,2869
-🌩️,1F329-FE0F,travel-places,sky-weather,cloud with lightning,"cloud, lightning","cloud, lightning, glaring, wet, cold, cloudy, gray, weather, storm, current, voltage, light up, light",Vanessa Boutzikoudi,2018-04-18,,,,12,2870
 🌩️,1F329,travel-places,sky-weather,cloud with lightning,"cloud, lightning","cloud, lightning, glaring, wet, cold, cloudy, gray, weather, storm, current, voltage, light up, light",Vanessa Boutzikoudi,2018-04-18,,,,1,2871
-🌪️,1F32A-FE0F,travel-places,sky-weather,tornado,"cloud, whirlwind","tornado, wind, blow, sky, dangerous, severe weather, storm, hurricane, typhoon, cyclone",Vanessa Boutzikoudi,2018-04-18,,,,12,2872
 🌪️,1F32A,travel-places,sky-weather,tornado,"cloud, whirlwind","tornado, wind, blow, sky, dangerous, severe weather, storm, hurricane, typhoon, cyclone",Vanessa Boutzikoudi,2018-04-18,,,,1,2873
-🌫️,1F32B-FE0F,travel-places,sky-weather,fog,cloud,,,,,,,12,2874
 🌫️,1F32B,travel-places,sky-weather,fog,cloud,,,,,,,1,2875
-🌬️,1F32C-FE0F,travel-places,sky-weather,wind face,"blow, cloud, face, wind","wind, face, blowing, air, mouth, mother nature, sky",Vanessa Boutzikoudi,2018-04-18,,,,12,2876
 🌬️,1F32C,travel-places,sky-weather,wind face,"blow, cloud, face, wind","wind, face, blowing, air, mouth, mother nature, sky",Vanessa Boutzikoudi,2018-04-18,,,,1,2877
 🌀,1F300,travel-places,sky-weather,cyclone,"dizzy, hurricane, twister, typhoon","whirl, swirl, spiral, funnel, rotation, rotate, air, turbulent",Vanessa Boutzikoudi,2018-04-18,,,,1,2878
 🌈,1F308,travel-places,sky-weather,rainbow,rain,"rainbow, color, colorful, colors formed in the sky, sunbeams, sunlight, facet, sparkle, unicorn",Vanessa Boutzikoudi,2018-04-18,,,,1,2879
 🌂,1F302,travel-places,sky-weather,closed umbrella,"clothing, rain, umbrella",,Lois Proksch,2018-11-16,,,,1,2880
-☂️,2602-FE0F,travel-places,sky-weather,umbrella,"clothing, rain","purple, umbrella, rain, wet, drop, raindrops",Vanessa Boutzikoudi,2018-04-18,,,,12,2881
 ☂️,2602,travel-places,sky-weather,umbrella,"clothing, rain","purple, umbrella, rain, wet, drop, raindrops",Vanessa Boutzikoudi,2018-04-18,,,,1,2882
 ☔️,2614,travel-places,sky-weather,umbrella with rain drops,"clothing, drop, rain, umbrella","umbrella, rain, raindrops, wet, drops, windy, rain falling",Vanessa Boutzikoudi,2018-04-18,,,,1,2883
-⛱️,26F1-FE0F,travel-places,sky-weather,umbrella on ground,"rain, sun, umbrella",,Lois Proksch,2018-11-16,,,,12,2884
 ⛱️,26F1,travel-places,sky-weather,umbrella on ground,"rain, sun, umbrella",,Lois Proksch,2018-11-16,,,,1,2885
 ⚡️,26A1,travel-places,sky-weather,high voltage,"danger, electric, lightning, voltage, zap","lightning, high voltage, storm, current, voltage, volts, lights, light",Vanessa Boutzikoudi,2018-04-18,,,,1,2886
-❄️,2744-FE0F,travel-places,sky-weather,snowflake,"cold, snow","snowflake, snow, ice, icy, wintry, snow storm, white, cold, frosty, season, weather, melting",Vanessa Boutzikoudi,2018-04-18,,,,12,2887
 ❄️,2744,travel-places,sky-weather,snowflake,"cold, snow","snowflake, snow, ice, icy, wintry, snow storm, white, cold, frosty, season, weather, melting",Vanessa Boutzikoudi,2018-04-18,,,,1,2888
-☃️,2603-FE0F,travel-places,sky-weather,snowman,"cold, snow",,Lois Proksch,2018-11-16,,,,12,2889
 ☃️,2603,travel-places,sky-weather,snowman,"cold, snow",,Lois Proksch,2018-11-16,,,,1,2890
 ⛄️,26C4,travel-places,sky-weather,snowman without snow,"cold, snow, snowman","snowman, frosty, frosty the snowman, snowman, olaf, winter, not snowing",Vanessa Boutzikoudi,2018-04-18,,,,1,2891
-☄️,2604-FE0F,travel-places,sky-weather,comet,space,,Lois Proksch,2018-11-16,,,,12,2892
 ☄️,2604,travel-places,sky-weather,comet,space,,Lois Proksch,2018-11-16,,,,1,2893
 🔥,1F525,travel-places,sky-weather,fire,"flame, tool","fire, burn, hot, high temperature, flame, glow, flame, tool",Guemil Project,2019-01-14,,,,1,2894
 💧,1F4A7,travel-places,sky-weather,droplet,"cold, comic, drop, sweat","drops, droplets, raindrops, wet, rain, cold, fluid, liquid, wet, puddle, pearl, tear",Vanessa Boutzikoudi,2018-04-18,,,,1,2895
@@ -2316,12 +2239,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧧,1F9E7,activities,event,red envelope,"gift, good luck, hóngbāo, lai see, money",,,,,,,11,2912
 🎀,1F380,activities,event,ribbon,celebration,"present, gift, decoration, party, girl, girly, fashion",Laura Humpfer,2018-04-18,,,,1,2913
 🎁,1F381,activities,event,wrapped gift,"box, celebration, gift, present, wrapped","present, birthday, christmas",Laura Humpfer,2018-04-18,,,,1,2914
-🎗️,1F397-FE0F,activities,event,reminder ribbon,"celebration, reminder, ribbon",,Laura Humpfer,2018-04-18,,,,12,2915
 🎗️,1F397,activities,event,reminder ribbon,"celebration, reminder, ribbon",,Laura Humpfer,2018-04-18,,,,1,2916
-🎟️,1F39F-FE0F,activities,event,admission tickets,"admission, ticket",,Laura Humpfer,2018-04-18,,,,12,2917
 🎟️,1F39F,activities,event,admission tickets,"admission, ticket",,Laura Humpfer,2018-04-18,,,,1,2918
 🎫,1F3AB,activities,event,ticket,admission,,Laura Humpfer,2018-04-18,,,,1,2919
-🎖️,1F396-FE0F,activities,award-medal,military medal,"celebration, medal, military","Medal, Medallion, Military, Ribbon",Julian Grüneberg,2018-04-18,,,,12,2920
 🎖️,1F396,activities,award-medal,military medal,"celebration, medal, military","Medal, Medallion, Military, Ribbon",Julian Grüneberg,2018-04-18,,,,1,2921
 🏆️,1F3C6,activities,award-medal,trophy,prize,"Trophy, Championship, Winner, Gold Cup, award",Julian Grüneberg,2018-04-18,,,,1,2922
 🏅,1F3C5,activities,award-medal,sports medal,medal,"Sports, Medal, Sporting",Julian Grüneberg,2018-04-18,,,,1,2923
@@ -2348,7 +2268,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥋,1F94B,activities,sport,martial arts uniform,"judo, karate, martial arts, taekwondo, uniform","white, uniform, judo, karate, keikogi, sport",Vanessa Boutzikoudi,2018-04-18,,,,3,2944
 🥅,1F945,activities,sport,goal net,"goal, net",,,,,,,3,2945
 ⛳️,26F3,activities,sport,flag in hole,"golf, hole","flag, golf, golf flag, golf hole with flag, sport, ball, goal",Vanessa Boutzikoudi,2018-04-18,,,,1,2946
-⛸️,26F8-FE0F,activities,sport,ice skate,"ice, skate",,Sarah Mager,2018-11-16,,,,12,2947
 ⛸️,26F8,activities,sport,ice skate,"ice, skate",,Sarah Mager,2018-11-16,,,,1,2948
 🎣,1F3A3,activities,sport,fishing pole,"fish, pole","fishing rod, fishing pole, line, fish, caught, hobby",Vanessa Boutzikoudi,2018-04-18,,,,1,2949
 🤿,1F93F,activities,sport,diving mask,"diving, scuba, snorkeling",,,,,,,12,2950
@@ -2363,33 +2282,25 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🔮,1F52E,activities,game,crystal ball,"ball, crystal, fairy tale, fantasy, fortune, tool",mystery,Marius Schnabel,2018-04-18,,,,1,2959
 🧿,1F9FF,activities,game,nazar amulet,"bead, charm, evil-eye, nazar, talisman",,,,,,,11,2960
 🎮️,1F3AE,activities,game,video game,"controller, game",gamble,Lisa Schulz,2018-04-18,,,,1,2961
-🕹️,1F579-FE0F,activities,game,joystick,"game, video game",,Lisa Schulz,2018-04-18,,,,12,2962
 🕹️,1F579,activities,game,joystick,"game, video game",,Lisa Schulz,2018-04-18,,,,1,2963
 🎰,1F3B0,activities,game,slot machine,"game, slot",,,,,,,1,2964
 🎲,1F3B2,activities,game,game die,"dice, die, game",board game,Lisa Schulz,2018-04-18,,,,1,2965
 🧩,1F9E9,activities,game,puzzle piece,"clue, interlocking, jigsaw, piece, puzzle",,,,,,,11,2966
 🧸,1F9F8,activities,game,teddy bear,"plaything, plush, stuffed, toy",,,,,,,11,2967
-♠️,2660-FE0F,activities,game,spade suit,"card, game",,,,,,,12,2968
 ♠️,2660,activities,game,spade suit,"card, game",,,,,,,1,2969
-♥️,2665-FE0F,activities,game,heart suit,"card, game",,,,,,,12,2970
 ♥️,2665,activities,game,heart suit,"card, game",,,,,,,1,2971
-♦️,2666-FE0F,activities,game,diamond suit,"card, game",,,,,,,12,2972
 ♦️,2666,activities,game,diamond suit,"card, game",,,,,,,1,2973
-♣️,2663-FE0F,activities,game,club suit,"card, game",,,,,,,12,2974
 ♣️,2663,activities,game,club suit,"card, game",,,,,,,1,2975
-♟️,265F-FE0F,activities,game,chess pawn,"chess, dupe, expendable",,,,,,,12,2976
 ♟️,265F,activities,game,chess pawn,"chess, dupe, expendable",,,,,,,11,2977
 🃏,1F0CF,activities,game,joker,"card, game, wildcard",,,,,,,1,2978
 🀄️,1F004,activities,game,mahjong red dragon,"game, mahjong, red",,,,,,,1,2979
 🎴,1F3B4,activities,game,flower playing cards,"card, flower, game, japanese, playing",,Abby Esquivel,2018-11-16,,,,1,2980
 🎭️,1F3AD,activities,arts-crafts,performing arts,"art, mask, performing, theater, theatre","culture, entertainment, education",Martin Wehl,2018-04-18,,,,1,2981
-🖼️,1F5BC-FE0F,activities,arts-crafts,framed picture,"art, frame, museum, painting, picture","culture, artist, entertainment",Martin Wehl,2018-04-18,,,,12,2982
 🖼️,1F5BC,activities,arts-crafts,framed picture,"art, frame, museum, painting, picture","culture, artist, entertainment",Martin Wehl,2018-04-18,,,,1,2983
 🎨,1F3A8,activities,arts-crafts,artist palette,"art, museum, painting, palette","culture, artist, leisure, entertainment",Martin Wehl,2018-04-18,,,,1,2984
 🧵,1F9F5,activities,arts-crafts,thread,"needle, sewing, spool, string",,,,,,,11,2985
 🧶,1F9F6,activities,arts-crafts,yarn,"ball, crochet, knit",,,,,,,11,2986
 👓️,1F453,objects,clothing,glasses,"clothing, eye, eyeglasses, eyewear",,Jonas Roßner,2018-04-18,,,,1,2987
-🕶️,1F576-FE0F,objects,clothing,sunglasses,"dark, eye, eyewear, glasses",sunglasses,Jonas Roßner,2018-04-18,,,,12,2988
 🕶️,1F576,objects,clothing,sunglasses,"dark, eye, eyewear, glasses",sunglasses,Jonas Roßner,2018-04-18,,,,1,2989
 🥽,1F97D,objects,clothing,goggles,"eye protection, swimming, welding",,,,,,,11,2990
 🥼,1F97C,objects,clothing,lab coat,"doctor, experiment, scientist",,,,,,,11,2991
@@ -2412,7 +2323,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👛,1F45B,objects,clothing,purse,"clothing, coin","money,",Jonas Roßner,2018-04-18,,,,1,3008
 👜,1F45C,objects,clothing,handbag,"bag, clothing, purse",,Jonas Roßner,2018-04-18,,,,1,3009
 👝,1F45D,objects,clothing,clutch bag,"bag, clothing, pouch",,Jonas Roßner,2018-04-18,,,,1,3010
-🛍️,1F6CD-FE0F,objects,clothing,shopping bags,"bag, hotel, shopping","buy,",Jonas Roßner,2018-04-18,,,,12,3011
 🛍️,1F6CD,objects,clothing,shopping bags,"bag, hotel, shopping","buy,",Jonas Roßner,2018-04-18,,,,1,3012
 🎒,1F392,objects,clothing,backpack,"bag, rucksack, satchel, school","young,",Jonas Roßner,2018-04-18,,,,1,3013
 👞,1F45E,objects,clothing,man’s shoe,"clothing, man, shoe",,Jonas Roßner,2018-04-18,,,,1,3014
@@ -2428,7 +2338,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🎩,1F3A9,objects,clothing,top hat,"clothing, hat, top, tophat","magic,",Jonas Roßner,2018-04-18,,,,1,3024
 🎓️,1F393,objects,clothing,graduation cap,"cap, celebration, clothing, graduation, hat",,Jonas Roßner,2018-04-18,,,,1,3025
 🧢,1F9E2,objects,clothing,billed cap,baseball cap,,Daniel Quiros,2018-11-16,,,,5,3026
-⛑️,26D1-FE0F,objects,clothing,rescue worker’s helmet,"aid, cross, face, hat, helmet",,Anne Frauendorf,2018-11-16,,,,12,3027
 ⛑️,26D1,objects,clothing,rescue worker’s helmet,"aid, cross, face, hat, helmet",,Anne Frauendorf,2018-11-16,,,,1,3028
 📿,1F4FF,objects,clothing,prayer beads,"beads, clothing, necklace, prayer, religion","expensive, jewelry",Jonas Roßner,2018-04-18,,,,1,3029
 💄,1F484,objects,clothing,lipstick,"cosmetics, makeup",,Anne Frauendorf,2018-11-16,,,,1,3030
@@ -2446,11 +2355,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🎼,1F3BC,objects,music,musical score,"music, score","violin key, rhythm",Sina Schulz,2018-04-18,,,,1,3042
 🎵,1F3B5,objects,music,musical note,"music, note","song, melody, sounds, tone",Sina Schulz,2018-04-18,,,,1,3043
 🎶,1F3B6,objects,music,musical notes,"music, note, notes","melody, harmony, sounds, rhythm",Sina Schulz,2018-04-18,,,,1,3044
-🎙️,1F399-FE0F,objects,music,studio microphone,"mic, microphone, music, studio","studio, microphone, stereo, recording",Sina Schulz,2018-04-18,,,,12,3045
 🎙️,1F399,objects,music,studio microphone,"mic, microphone, music, studio","studio, microphone, stereo, recording",Sina Schulz,2018-04-18,,,,1,3046
-🎚️,1F39A-FE0F,objects,music,level slider,"level, music, slider","studio, music slider",Sina Schulz,2018-04-18,,,,12,3047
 🎚️,1F39A,objects,music,level slider,"level, music, slider","studio, music slider",Sina Schulz,2018-04-18,,,,1,3048
-🎛️,1F39B-FE0F,objects,music,control knobs,"control, knobs, music","music, mix, recording, tool, knobs",Sina Schulz,2018-04-18,,,,12,3049
 🎛️,1F39B,objects,music,control knobs,"control, knobs, music","music, mix, recording, tool, knobs",Sina Schulz,2018-04-18,,,,1,3050
 🎤,1F3A4,objects,music,microphone,"karaoke, mic","sound, loud, stage, speech, singing, karaoke, mic, microphone, tone",Sina Schulz,2018-04-18,,,,1,3051
 🎧️,1F3A7,objects,music,headphone,earbud,"music, headphones",Sina Schulz,2018-04-18,,,,1,3052
@@ -2464,7 +2370,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥁,1F941,objects,musical-instrument,drum,"drumsticks, music","drum, drumsticks, music, beat",Sina Schulz,2018-04-18,,,,3,3060
 📱,1F4F1,objects,phone,mobile phone,"cell, mobile, phone, telephone","smartphone, message, voice, communication",Martin Wehl,2018-04-18,,,,1,3061
 📲,1F4F2,objects,phone,mobile phone with arrow,"arrow, cell, mobile, phone, receive","voice, smartphone, message",Martin Wehl,2018-04-18,,,,1,3062
-☎️,260E-FE0F,objects,phone,telephone,phone,"call, voice, communication",Kai Wanschura,2018-04-18,,,,12,3063
 ☎️,260E,objects,phone,telephone,phone,"call, voice, communication",Kai Wanschura,2018-04-18,,,,1,3064
 📞,1F4DE,objects,phone,telephone receiver,"phone, receiver, telephone","call, voice, communication",Kai Wanschura,2018-04-18,,,,1,3065
 📟️,1F4DF,objects,phone,pager,pager,,,,,,,1,3066
@@ -2472,15 +2377,10 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🔋,1F50B,objects,computer,battery,battery,"electricity, energy, electric",Jonas Roßner,2018-04-18,,,,1,3068
 🔌,1F50C,objects,computer,electric plug,"electric, electricity, plug",,Jonas Roßner,2018-04-18,,,,1,3069
 💻️,1F4BB,objects,computer,laptop computer,"computer, pc, personal","old, retro",Jonas Roßner,2018-04-18,,,,1,3070
-🖥️,1F5A5-FE0F,objects,computer,desktop computer,"computer, desktop","electric, screen",Jonas Roßner,2018-04-18,,,,12,3071
 🖥️,1F5A5,objects,computer,desktop computer,"computer, desktop","electric, screen",Jonas Roßner,2018-04-18,,,,1,3072
-🖨️,1F5A8-FE0F,objects,computer,printer,computer,"color, electric",Jonas Roßner,2018-04-18,,,,12,3073
 🖨️,1F5A8,objects,computer,printer,computer,"color, electric",Jonas Roßner,2018-04-18,,,,1,3074
-⌨️,2328-FE0F,objects,computer,keyboard,computer,"key, write, electric",Jonas Roßner,2018-04-18,,,,12,3075
 ⌨️,2328,objects,computer,keyboard,computer,"key, write, electric",Jonas Roßner,2018-04-18,,,,1,3076
-🖱️,1F5B1-FE0F,objects,computer,computer mouse,computer,"electric, computer, mouse",Jonas Roßner,2018-04-18,,,,12,3077
 🖱️,1F5B1,objects,computer,computer mouse,computer,"electric, computer, mouse",Jonas Roßner,2018-04-18,,,,1,3078
-🖲️,1F5B2-FE0F,objects,computer,trackball,computer,,,,,,,12,3079
 🖲️,1F5B2,objects,computer,trackball,computer,,,,,,,1,3080
 💽,1F4BD,objects,computer,computer disk,"computer, disk, minidisk, optical","old, retro",Jonas Roßner,2018-04-18,,,,1,3081
 💾,1F4BE,objects,computer,floppy disk,"computer, disk, floppy","old, retro",Jonas Roßner,2018-04-18,,,,1,3082
@@ -2488,9 +2388,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📀,1F4C0,objects,computer,dvd,"blu-ray, computer, disk, optical",film,Jonas Roßner,2018-04-18,,,,1,3084
 🧮,1F9EE,objects,computer,abacus,calculation,,,,,,,11,3085
 🎥,1F3A5,objects,light-video,movie camera,"camera, cinema, movie","film, record",Sina Schulz,2018-04-18,,,,1,3086
-🎞️,1F39E-FE0F,objects,light-video,film frames,"cinema, film, frames, movie","clip, film",Sina Schulz,2018-04-18,,,,12,3087
 🎞️,1F39E,objects,light-video,film frames,"cinema, film, frames, movie","clip, film",Sina Schulz,2018-04-18,,,,1,3088
-📽️,1F4FD-FE0F,objects,light-video,film projector,"cinema, film, movie, projector, video","play, film clip, movie",Sina Schulz,2018-04-18,,,,12,3089
 📽️,1F4FD,objects,light-video,film projector,"cinema, film, movie, projector, video","play, film clip, movie",Sina Schulz,2018-04-18,,,,1,3090
 🎬️,1F3AC,objects,light-video,clapper board,"clapper, movie","cut, new recording",Sina Schulz,2018-04-18,,,,1,3091
 📺️,1F4FA,objects,light-video,television,"tv, video","flat screen, tv, modern",Sina Schulz,2018-04-18,,,,1,3092
@@ -2500,7 +2398,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📼,1F4FC,objects,light-video,videocassette,"tape, vhs, video","movie, film, vhs, cassette, record, recording",Sina Schulz,2018-04-18,,,,1,3096
 🔍️,1F50D,objects,light-video,magnifying glass tilted left,"glass, magnifying, search, tool","detail, big, zoom, detective",Sina Schulz,2018-04-18,,,,1,3097
 🔎,1F50E,objects,light-video,magnifying glass tilted right,"glass, magnifying, search, tool","detail, big, zoom, detective",Sina Schulz,2018-04-18,,,,1,3098
-🕯️,1F56F-FE0F,objects,light-video,candle,light,"fire, bright, shine",Sina Schulz,2018-04-18,,,,12,3099
 🕯️,1F56F,objects,light-video,candle,light,"fire, bright, shine",Sina Schulz,2018-04-18,,,,1,3100
 💡,1F4A1,objects,light-video,light bulb,"bulb, comic, electric, idea, light","shine, light, bulb, power, on, electric, idea",Sina Schulz,2018-04-18,,,,1,3101
 🔦,1F526,objects,light-video,flashlight,"electric, light, tool, torch","bright, shine, light, flashlight, gadget",Sina Schulz,2018-04-18,,,,1,3102
@@ -2519,11 +2416,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📜,1F4DC,objects,book-paper,scroll,paper,"old, papyrus, text",Jonas Roßner,2018-04-18,,,,1,3115
 📄,1F4C4,objects,book-paper,page facing up,"document, page","write, text, paper",Jonas Roßner,2018-04-18,,,,1,3116
 📰,1F4F0,objects,book-paper,newspaper,"news, paper","read, news, paper, text",Jonas Roßner,2018-04-18,,,,1,3117
-🗞️,1F5DE-FE0F,objects,book-paper,rolled-up newspaper,"news, newspaper, paper, rolled",,,,,,,12,3118
 🗞️,1F5DE,objects,book-paper,rolled-up newspaper,"news, newspaper, paper, rolled",,,,,,,1,3119
 📑,1F4D1,objects,book-paper,bookmark tabs,"bookmark, mark, marker, tabs",,Abby Esquivel,2018-11-16,,,,1,3120
 🔖,1F516,objects,book-paper,bookmark,mark,"remember,",Jonas Roßner,2018-04-18,,,,1,3121
-🏷️,1F3F7-FE0F,objects,book-paper,label,label,"stick,",Jonas Roßner,2018-04-18,,,,12,3122
 🏷️,1F3F7,objects,book-paper,label,label,"stick,",Jonas Roßner,2018-04-18,,,,1,3123
 💰️,1F4B0,objects,money,money bag,"bag, dollar, money, moneybag",,Marius Schnabel,2018-04-18,,,,1,3124
 💴,1F4B4,objects,money,yen banknote,"banknote, bill, currency, money, note, yen",,Marius Schnabel,2018-04-18,,,,1,3125
@@ -2536,7 +2431,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💹,1F4B9,objects,money,chart increasing with yen,"chart, graph, growth, money, yen",,Marleen Heine,2018-11-16,,,,1,3132
 💱,1F4B1,objects,money,currency exchange,"bank, currency, exchange, money",,Marleen Heine,2018-11-16,,,,1,3133
 💲,1F4B2,objects,money,heavy dollar sign,"currency, dollar, money",,Marleen Heine,2018-11-16,,,,1,3134
-✉️,2709-FE0F,objects,mail,envelope,"email, letter","post, message",Marius Schnabel,2018-04-18,,,,12,3135
 ✉️,2709,objects,mail,envelope,"email, letter","post, message",Marius Schnabel,2018-04-18,,,,1,3136
 📧,1F4E7,objects,mail,e-mail,"email, letter, mail","message, eletronic",Marius Schnabel,2018-04-18,,,,1,3137
 📨,1F4E8,objects,mail,incoming envelope,"e-mail, email, envelope, incoming, letter, receive",,Marleen Heine,2018-11-16,,,,1,3138
@@ -2549,31 +2443,21 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📬️,1F4EC,objects,mail,open mailbox with raised flag,"mail, mailbox, open, postbox",,Marleen Heine,2018-11-16,,,,1,3145
 📭️,1F4ED,objects,mail,open mailbox with lowered flag,"lowered, mail, mailbox, open, postbox",,Marleen Heine,2018-11-16,,,,1,3146
 📮,1F4EE,objects,mail,postbox,"mail, mailbox",post,Marius Schnabel,2018-04-18,,,,1,3147
-🗳️,1F5F3-FE0F,objects,mail,ballot box with ballot,"ballot, box",,Marleen Heine,2018-11-16,,,,12,3148
 🗳️,1F5F3,objects,mail,ballot box with ballot,"ballot, box",,Marleen Heine,2018-11-16,,,,1,3149
-✏️,270F-FE0F,objects,writing,pencil,pencil,,Rana Cakir,2018-04-18,,,,12,3150
 ✏️,270F,objects,writing,pencil,pencil,,Rana Cakir,2018-04-18,,,,1,3151
-✒️,2712-FE0F,objects,writing,black nib,"nib, pen",,Marleen Heine,2018-11-16,,,,12,3152
 ✒️,2712,objects,writing,black nib,"nib, pen",,Marleen Heine,2018-11-16,,,,1,3153
-🖋️,1F58B-FE0F,objects,writing,fountain pen,"fountain, pen",,Rana Cakir,2018-04-18,,,,12,3154
 🖋️,1F58B,objects,writing,fountain pen,"fountain, pen",,Rana Cakir,2018-04-18,,,,1,3155
-🖊️,1F58A-FE0F,objects,writing,pen,ballpoint,,Rana Cakir,2018-04-18,,,,12,3156
 🖊️,1F58A,objects,writing,pen,ballpoint,,Rana Cakir,2018-04-18,,,,1,3157
-🖌️,1F58C-FE0F,objects,writing,paintbrush,painting,"colors, pain, brush",Rana Cakir,2018-04-18,,,,12,3158
 🖌️,1F58C,objects,writing,paintbrush,painting,"colors, pain, brush",Rana Cakir,2018-04-18,,,,1,3159
-🖍️,1F58D-FE0F,objects,writing,crayon,crayon,"painting, colors",Rana Cakir,2018-04-18,,,,12,3160
 🖍️,1F58D,objects,writing,crayon,crayon,"painting, colors",Rana Cakir,2018-04-18,,,,1,3161
 📝,1F4DD,objects,writing,memo,pencil,"pencil, paper, notice",Rana Cakir,2018-04-18,,,,1,3162
 💼,1F4BC,objects,office,briefcase,briefcase,"bag, briefcase, office bag, leather bag",Sina Schulz,2018-04-18,,,,1,3163
 📁,1F4C1,objects,office,file folder,"file, folder","file, folder, paper, organise, structure, office, box",Sina Schulz,2018-04-18,,,,1,3164
 📂,1F4C2,objects,office,open file folder,"file, folder, open","open file, folder, organise, structure, office, box",Sina Schulz,2018-04-18,,,,1,3165
-🗂️,1F5C2-FE0F,objects,office,card index dividers,"card, dividers, index",,Marleen Heine,2018-11-16,,,,12,3166
 🗂️,1F5C2,objects,office,card index dividers,"card, dividers, index",,Marleen Heine,2018-11-16,,,,1,3167
 📅,1F4C5,objects,office,calendar,date,"calendar, day view, pages, analog",Sina Schulz,2018-04-18,,,,1,3168
 📆,1F4C6,objects,office,tear-off calendar,calendar,"calendar, tear off",Sina Schulz,2018-04-18,,,,1,3169
-🗒️,1F5D2-FE0F,objects,office,spiral notepad,"note, pad, spiral","notes, handwrite, paper, pen, spiral block, college",Sina Schulz,2018-04-18,,,,12,3170
 🗒️,1F5D2,objects,office,spiral notepad,"note, pad, spiral","notes, handwrite, paper, pen, spiral block, college",Sina Schulz,2018-04-18,,,,1,3171
-🗓️,1F5D3-FE0F,objects,office,spiral calendar,"calendar, pad, spiral","calendar, year, month view",Sina Schulz,2018-04-18,,,,12,3172
 🗓️,1F5D3,objects,office,spiral calendar,"calendar, pad, spiral","calendar, year, month view",Sina Schulz,2018-04-18,,,,1,3173
 📇,1F4C7,objects,office,card index,"card, index, rolodex",,,,,,,1,3174
 📈,1F4C8,objects,office,chart increasing,"chart, graph, growth, trend, upward","graph going up, upward trend",Sina Schulz,2018-04-18,,,,1,3175
@@ -2583,56 +2467,39 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📌,1F4CC,objects,office,pushpin,pin,"pin, wall, push, paper",Sina Schulz,2018-04-18,,,,1,3179
 📍,1F4CD,objects,office,round pushpin,"pin, pushpin","pin, wall, push, paper, notes",Sina Schulz,2018-04-18,,,,1,3180
 📎,1F4CE,objects,office,paperclip,paperclip,"office, paperclip, organisation",Sina Schulz,2018-04-18,,,,1,3181
-🖇️,1F587-FE0F,objects,office,linked paperclips,"link, paperclip",,Marleen Heine,2018-11-16,,,,12,3182
 🖇️,1F587,objects,office,linked paperclips,"link, paperclip",,Marleen Heine,2018-11-16,,,,1,3183
 📏,1F4CF,objects,office,straight ruler,"ruler, straight edge","ruler, straight, line, measure, detail",Sina Schulz,2018-04-18,,,,1,3184
 📐,1F4D0,objects,office,triangular ruler,"ruler, set, triangle","triangle, ruler, line, measure, detail",Sina Schulz,2018-04-18,,,,1,3185
-✂️,2702-FE0F,objects,office,scissors,"cutting, tool","scissors, cut, cutting, tool, work, paper, material",Sina Schulz,2018-04-18,,,,12,3186
 ✂️,2702,objects,office,scissors,"cutting, tool","scissors, cut, cutting, tool, work, paper, material",Sina Schulz,2018-04-18,,,,1,3187
-🗃️,1F5C3-FE0F,objects,office,card file box,"box, card, file","card, file, system, organising, structure, tidy",Sina Schulz,2018-04-18,,,,12,3188
 🗃️,1F5C3,objects,office,card file box,"box, card, file","card, file, system, organising, structure, tidy",Sina Schulz,2018-04-18,,,,1,3189
-🗄️,1F5C4-FE0F,objects,office,file cabinet,"cabinet, file, filing","box, file system, cabinet, file organising",Sina Schulz,2018-04-18,,,,12,3190
 🗄️,1F5C4,objects,office,file cabinet,"cabinet, file, filing","box, file system, cabinet, file organising",Sina Schulz,2018-04-18,,,,1,3191
-🗑️,1F5D1-FE0F,objects,office,wastebasket,wastebasket,"paper, bin, trash",Sina Schulz,2018-04-18,,,,12,3192
 🗑️,1F5D1,objects,office,wastebasket,wastebasket,"paper, bin, trash",Sina Schulz,2018-04-18,,,,1,3193
 🔒️,1F512,objects,lock,locked,closed,"locker, padlock",Lisa Schulz,2018-04-18,,,,1,3194
 🔓️,1F513,objects,lock,unlocked,"lock, open, unlock","locker, padlock",Lisa Schulz,2018-04-18,,,,1,3195
 🔏,1F50F,objects,lock,locked with pen,"ink, lock, nib, pen, privacy",,Marleen Heine,2018-11-16,,,,1,3196
 🔐,1F510,objects,lock,locked with key,"closed, key, lock, secure",,Lisa Schulz,2018-04-18,,,,1,3197
 🔑,1F511,objects,lock,key,"lock, password",closing,Lisa Schulz,2018-04-18,,,,1,3198
-🗝️,1F5DD-FE0F,objects,lock,old key,"clue, key, lock, old",,Lisa Schulz,2018-04-18,,,,12,3199
 🗝️,1F5DD,objects,lock,old key,"clue, key, lock, old",,Lisa Schulz,2018-04-18,,,,1,3200
 🔨,1F528,objects,tool,hammer,tool,"toolbox, metal, wood",Hilda Kalyoncu,2018-04-18,,,,1,3201
 🪓,1FA93,objects,tool,axe,"chop, hatchet, split, wood",,,,,,,12,3202
-⛏️,26CF-FE0F,objects,tool,pick,"mining, tool",weapon,Hilda Kalyoncu,2018-04-18,,,,12,3203
 ⛏️,26CF,objects,tool,pick,"mining, tool",weapon,Hilda Kalyoncu,2018-04-18,,,,1,3204
-⚒️,2692-FE0F,objects,tool,hammer and pick,"hammer, pick, tool",,Marleen Heine,2018-11-16,,,,12,3205
 ⚒️,2692,objects,tool,hammer and pick,"hammer, pick, tool",,Marleen Heine,2018-11-16,,,,1,3206
-🛠️,1F6E0-FE0F,objects,tool,hammer and wrench,"hammer, spanner, tool, wrench","craft mans, logo",Hilda Kalyoncu,2018-04-18,,,,12,3207
 🛠️,1F6E0,objects,tool,hammer and wrench,"hammer, spanner, tool, wrench","craft mans, logo",Hilda Kalyoncu,2018-04-18,,,,1,3208
-🗡️,1F5E1-FE0F,objects,tool,dagger,"knife, weapon",metal,Hilda Kalyoncu,2018-04-18,,,,12,3209
 🗡️,1F5E1,objects,tool,dagger,"knife, weapon",metal,Hilda Kalyoncu,2018-04-18,,,,1,3210
-⚔️,2694-FE0F,objects,tool,crossed swords,"crossed, swords, weapon",,Marleen Heine,2018-11-16,,,,12,3211
 ⚔️,2694,objects,tool,crossed swords,"crossed, swords, weapon",,Marleen Heine,2018-11-16,,,,1,3212
 🔫,1F52B,objects,tool,pistol,"gun, handgun, revolver, tool, weapon","gun, weapon, pistol",Hilda Kalyoncu,2018-04-18,,,,1,3213
 🏹,1F3F9,objects,tool,bow and arrow,"archer, arrow, bow, sagittarius, zodiac",,Marleen Heine,2018-11-16,,,,1,3214
-🛡️,1F6E1-FE0F,objects,tool,shield,weapon,"protection, fight, middle ages",Hilda Kalyoncu,2018-04-18,,,,12,3215
 🛡️,1F6E1,objects,tool,shield,weapon,"protection, fight, middle ages",Hilda Kalyoncu,2018-04-18,,,,1,3216
 🔧,1F527,objects,tool,wrench,"spanner, tool","toolbox, silver",Hilda Kalyoncu,2018-04-18,,,,1,3217
 🔩,1F529,objects,tool,nut and bolt,"bolt, nut, tool",,Marleen Heine,2018-11-16,,,,1,3218
-⚙️,2699-FE0F,objects,tool,gear,"cog, cogwheel, tool","tool, metal, silver",Hilda Kalyoncu,2018-04-18,,,,12,3219
 ⚙️,2699,objects,tool,gear,"cog, cogwheel, tool","tool, metal, silver",Hilda Kalyoncu,2018-04-18,,,,1,3220
-🗜️,1F5DC-FE0F,objects,tool,clamp,"compress, tool, vice",toolbox,Hilda Kalyoncu,2018-04-18,,,,12,3221
 🗜️,1F5DC,objects,tool,clamp,"compress, tool, vice",toolbox,Hilda Kalyoncu,2018-04-18,,,,1,3222
-⚖️,2696-FE0F,objects,tool,balance scale,"balance, justice, libra, scale, zodiac",silver,Hilda Kalyoncu,2018-04-18,,,,12,3223
 ⚖️,2696,objects,tool,balance scale,"balance, justice, libra, scale, zodiac",silver,Hilda Kalyoncu,2018-04-18,,,,1,3224
 🦯,1F9AF,objects,tool,probing cane,"accessibility, blind",,,,,,,12,3225
 🔗,1F517,objects,tool,link,link,"silver, link",Hilda Kalyoncu,2018-04-18,,,,1,3226
-⛓️,26D3-FE0F,objects,tool,chains,chain,"metal, silver",Hilda Kalyoncu,2018-04-18,,,,12,3227
 ⛓️,26D3,objects,tool,chains,chain,"metal, silver",Hilda Kalyoncu,2018-04-18,,,,1,3228
 🧰,1F9F0,objects,tool,toolbox,"chest, mechanic, tool",,,,,,,11,3229
 🧲,1F9F2,objects,tool,magnet,"attraction, horseshoe, magnetic",,,,,,,11,3230
-⚗️,2697-FE0F,objects,science,alembic,"chemistry, tool",,Marleen Heine,2018-11-16,,,,12,3231
 ⚗️,2697,objects,science,alembic,"chemistry, tool",,Marleen Heine,2018-11-16,,,,1,3232
 🧪,1F9EA,objects,science,test tube,"chemist, chemistry, experiment, lab, science",,,,,,,11,3233
 🧫,1F9EB,objects,science,petri dish,"bacteria, biologist, biology, culture, lab",,,,,,,11,3234
@@ -2646,9 +2513,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🩹,1FA79,objects,medical,adhesive bandage,bandage,,,,,,,12,3242
 🩺,1FA7A,objects,medical,stethoscope,"doctor, heart, medicine",,,,,,,12,3243
 🚪,1F6AA,objects,household,door,door,,Lisa Schulz,2018-04-18,,,,1,3244
-🛏️,1F6CF-FE0F,objects,household,bed,"hotel, sleep",furniture,Lisa Schulz,2018-04-18,,,,12,3245
 🛏️,1F6CF,objects,household,bed,"hotel, sleep",furniture,Lisa Schulz,2018-04-18,,,,1,3246
-🛋️,1F6CB-FE0F,objects,household,couch and lamp,"couch, hotel, lamp",furniture,Lisa Schulz,2018-04-18,,,,12,3247
 🛋️,1F6CB,objects,household,couch and lamp,"couch, hotel, lamp",furniture,Lisa Schulz,2018-04-18,,,,1,3248
 🪑,1FA91,objects,household,chair,"seat, sit",,,,,,,12,3249
 🚽,1F6BD,objects,household,toilet,toilet,,Lisa Schulz,2018-04-18,,,,1,3250
@@ -2665,9 +2530,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧯,1F9EF,objects,household,fire extinguisher,"extinguish, fire, quench",,,,,,,11,3261
 🛒,1F6D2,objects,household,shopping cart,"cart, shopping, trolley",,Marius Schnabel,2018-04-18,,,,3,3262
 🚬,1F6AC,objects,other-object,cigarette,smoking,"tobacco, smoke",Marius Schnabel,2018-04-18,,,,1,3263
-⚰️,26B0-FE0F,objects,other-object,coffin,death,"funeral, dead",Marius Schnabel,2018-04-18,,,,12,3264
 ⚰️,26B0,objects,other-object,coffin,death,"funeral, dead",Marius Schnabel,2018-04-18,,,,1,3265
-⚱️,26B1-FE0F,objects,other-object,funeral urn,"ashes, death, funeral, urn",,Marleen Heine,2018-11-16,,,,12,3266
 ⚱️,26B1,objects,other-object,funeral urn,"ashes, death, funeral, urn",,Marleen Heine,2018-11-16,,,,1,3267
 🗿,1F5FF,objects,other-object,moai,"face, moyai, statue","stone, easter island",Marius Schnabel,2018-04-18,,,,1,3268
 🏧,1F3E7,symbols,transport-sign,ATM sign,"atm, atm sign, automated, bank, teller",,,,,,,1,3269
@@ -2683,7 +2546,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🛃,1F6C3,symbols,transport-sign,customs,customs,,,,,,,1,3279
 🛄,1F6C4,symbols,transport-sign,baggage claim,"baggage, claim",,Vincent Seitz,2018-11-16,,,,1,3280
 🛅,1F6C5,symbols,transport-sign,left luggage,"baggage, locker, luggage",,Vincent Seitz,2018-11-16,,,,1,3281
-⚠️,26A0-FE0F,symbols,warning,warning,warning,,Miriam Vollmeier,2018-04-18,,,,12,3282
 ⚠️,26A0,symbols,warning,warning,warning,,Miriam Vollmeier,2018-04-18,,,,1,3283
 🚸,1F6B8,symbols,warning,children crossing,"child, crossing, pedestrian, traffic",,,,,,,1,3284
 ⛔️,26D4,symbols,warning,no entry,"entry, forbidden, no, not, prohibited, traffic",,Miriam Vollmeier,2018-04-18,,,,1,3285
@@ -2695,37 +2557,21 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🚷,1F6B7,symbols,warning,no pedestrians,"forbidden, no, not, pedestrian, prohibited",,Vincent Seitz,2018-11-16,,,,1,3291
 📵,1F4F5,symbols,warning,no mobile phones,"cell, forbidden, mobile, no, phone",,Miriam Vollmeier,2018-04-18,,,,1,3292
 🔞,1F51E,symbols,warning,no one under eighteen,"18, age restriction, eighteen, prohibited, underage",,Miriam Vollmeier,2018-04-18,,,,1,3293
-☢️,2622-FE0F,symbols,warning,radioactive,sign,,Vincent Seitz,2018-11-16,,,,12,3294
 ☢️,2622,symbols,warning,radioactive,sign,,Vincent Seitz,2018-11-16,,,,1,3295
-☣️,2623-FE0F,symbols,warning,biohazard,sign,,,,,,,12,3296
 ☣️,2623,symbols,warning,biohazard,sign,,,,,,,1,3297
-⬆️,2B06-FE0F,symbols,arrow,up arrow,"arrow, cardinal, direction, north","up, above",Guemil Project,2019-01-14,,,,12,3298
 ⬆️,2B06,symbols,arrow,up arrow,"arrow, cardinal, direction, north","up, above",Guemil Project,2019-01-14,,,,1,3299
-↗️,2197-FE0F,symbols,arrow,up-right arrow,"arrow, direction, intercardinal, northeast","diagonal, right up",Guemil Project,2019-01-14,,,,12,3300
 ↗️,2197,symbols,arrow,up-right arrow,"arrow, direction, intercardinal, northeast","diagonal, right up",Guemil Project,2019-01-14,,,,1,3301
-➡️,27A1-FE0F,symbols,arrow,right arrow,"arrow, cardinal, direction, east","right, soon, future",Guemil Project,2019-01-14,,,,12,3302
 ➡️,27A1,symbols,arrow,right arrow,"arrow, cardinal, direction, east","right, soon, future",Guemil Project,2019-01-14,,,,1,3303
-↘️,2198-FE0F,symbols,arrow,down-right arrow,"arrow, direction, intercardinal, southeast","diagonal, right down",Guemil Project,2019-01-14,,,,12,3304
 ↘️,2198,symbols,arrow,down-right arrow,"arrow, direction, intercardinal, southeast","diagonal, right down",Guemil Project,2019-01-14,,,,1,3305
-⬇️,2B07-FE0F,symbols,arrow,down arrow,"arrow, cardinal, direction, down, south","down, underneath",Guemil Project,2019-01-14,,,,12,3306
 ⬇️,2B07,symbols,arrow,down arrow,"arrow, cardinal, direction, down, south","down, underneath",Guemil Project,2019-01-14,,,,1,3307
-↙️,2199-FE0F,symbols,arrow,down-left arrow,"arrow, direction, intercardinal, southwest","diagonal, left down",Guemil Project,2019-01-14,,,,12,3308
 ↙️,2199,symbols,arrow,down-left arrow,"arrow, direction, intercardinal, southwest","diagonal, left down",Guemil Project,2019-01-14,,,,1,3309
-⬅️,2B05-FE0F,symbols,arrow,left arrow,"arrow, cardinal, direction, west","left, past",Guemil Project,2019-01-14,,,,12,3310
 ⬅️,2B05,symbols,arrow,left arrow,"arrow, cardinal, direction, west","left, past",Guemil Project,2019-01-14,,,,1,3311
-↖️,2196-FE0F,symbols,arrow,up-left arrow,"arrow, direction, intercardinal, northwest","diagonal, left up",Guemil Project,2019-01-14,,,,12,3312
 ↖️,2196,symbols,arrow,up-left arrow,"arrow, direction, intercardinal, northwest","diagonal, left up",Guemil Project,2019-01-14,,,,1,3313
-↕️,2195-FE0F,symbols,arrow,up-down arrow,arrow,"directions, opposite, up and down",Jose Avila,2018-04-18,,,,12,3314
 ↕️,2195,symbols,arrow,up-down arrow,arrow,"directions, opposite, up and down",Jose Avila,2018-04-18,,,,1,3315
-↔️,2194-FE0F,symbols,arrow,left-right arrow,arrow,"directions, opposite, left and right",Jose Avila,2018-04-18,,,,12,3316
 ↔️,2194,symbols,arrow,left-right arrow,arrow,"directions, opposite, left and right",Jose Avila,2018-04-18,,,,1,3317
-↩️,21A9-FE0F,symbols,arrow,right arrow curving left,arrow,"directions, turn arround",Jose Avila,2018-04-18,,,,12,3318
 ↩️,21A9,symbols,arrow,right arrow curving left,arrow,"directions, turn arround",Jose Avila,2018-04-18,,,,1,3319
-↪️,21AA-FE0F,symbols,arrow,left arrow curving right,arrow,"directions, turn arround",Jose Avila,2018-04-18,,,,12,3320
 ↪️,21AA,symbols,arrow,left arrow curving right,arrow,"directions, turn arround",Jose Avila,2018-04-18,,,,1,3321
-⤴️,2934-FE0F,symbols,arrow,right arrow curving up,arrow,"direction, curve up",Jose Avila,2018-04-18,,,,12,3322
 ⤴️,2934,symbols,arrow,right arrow curving up,arrow,"direction, curve up",Jose Avila,2018-04-18,,,,1,3323
-⤵️,2935-FE0F,symbols,arrow,right arrow curving down,"arrow, down","direction, curve down",Jose Avila,2018-04-18,,,,12,3324
 ⤵️,2935,symbols,arrow,right arrow curving down,"arrow, down","direction, curve down",Jose Avila,2018-04-18,,,,1,3325
 🔃,1F503,symbols,arrow,clockwise vertical arrows,"arrow, clockwise, reload",,Vincent Seitz,2018-11-16,,,,1,3326
 🔄,1F504,symbols,arrow,counterclockwise arrows button,"anticlockwise, arrow, counterclockwise, withershins",cycle,Jose Avila,2018-04-18,,,,1,3327
@@ -2735,23 +2581,14 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🔜,1F51C,symbols,arrow,SOON arrow,"arrow, soon, soon arrow",,Vincent Seitz,2018-11-16,,,,1,3331
 🔝,1F51D,symbols,arrow,TOP arrow,"arrow, top, top arrow, up",,Vincent Seitz,2018-11-16,,,,1,3332
 🛐,1F6D0,symbols,religion,place of worship,"religion, worship",pray,Jose Avila,2018-04-18,,,,1,3333
-⚛️,269B-FE0F,symbols,religion,atom symbol,"atheist, atom",,Jose Avila,2018-04-18,,,,12,3334
 ⚛️,269B,symbols,religion,atom symbol,"atheist, atom",,Jose Avila,2018-04-18,,,,1,3335
-🕉️,1F549-FE0F,symbols,religion,om,"hindu, religion",,Sina Chlod,2018-11-16,,,,12,3336
 🕉️,1F549,symbols,religion,om,"hindu, religion",,Sina Chlod,2018-11-16,,,,1,3337
-✡️,2721-FE0F,symbols,religion,star of David,"david, jew, jewish, religion, star, star of david",,Sina Chlod,2018-11-16,,,,12,3338
 ✡️,2721,symbols,religion,star of David,"david, jew, jewish, religion, star, star of david",,Sina Chlod,2018-11-16,,,,1,3339
-☸️,2638-FE0F,symbols,religion,wheel of dharma,"buddhist, dharma, religion, wheel",,Sina Chlod,2018-11-16,,,,12,3340
 ☸️,2638,symbols,religion,wheel of dharma,"buddhist, dharma, religion, wheel",,Sina Chlod,2018-11-16,,,,1,3341
-☯️,262F-FE0F,symbols,religion,yin yang,"religion, tao, taoist, yang, yin",balance,Jose Avila,2018-04-18,,,,12,3342
 ☯️,262F,symbols,religion,yin yang,"religion, tao, taoist, yang, yin",balance,Jose Avila,2018-04-18,,,,1,3343
-✝️,271D-FE0F,symbols,religion,latin cross,"christian, cross, religion",,Jose Avila,2018-04-18,,,,12,3344
 ✝️,271D,symbols,religion,latin cross,"christian, cross, religion",,Jose Avila,2018-04-18,,,,1,3345
-☦️,2626-FE0F,symbols,religion,orthodox cross,"christian, cross, religion",,Sina Chlod,2018-11-16,,,,12,3346
 ☦️,2626,symbols,religion,orthodox cross,"christian, cross, religion",,Sina Chlod,2018-11-16,,,,1,3347
-☪️,262A-FE0F,symbols,religion,star and crescent,"islam, muslim, religion",,Jose Avila,2018-04-18,,,,12,3348
 ☪️,262A,symbols,religion,star and crescent,"islam, muslim, religion",,Jose Avila,2018-04-18,,,,1,3349
-☮️,262E-FE0F,symbols,religion,peace symbol,peace,,Jose Avila,2018-04-18,,,,12,3350
 ☮️,262E,symbols,religion,peace symbol,peace,,Jose Avila,2018-04-18,,,,1,3351
 🕎,1F54E,symbols,religion,menorah,"candelabrum, candlestick, religion",,Sina Chlod,2018-11-16,,,,1,3352
 🔯,1F52F,symbols,religion,dotted six-pointed star,"fortune, star",,Sina Chlod,2018-11-16,,,,1,3353
@@ -2771,29 +2608,20 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🔀,1F500,symbols,av-symbol,shuffle tracks button,"arrow, crossed",random,Jose Avila,2018-04-18,,,,1,3367
 🔁,1F501,symbols,av-symbol,repeat button,"arrow, clockwise, repeat",cycle,Jose Avila,2018-04-18,,,,1,3368
 🔂,1F502,symbols,av-symbol,repeat single button,"arrow, clockwise, once",,Jose Avila,2018-04-18,,,,1,3369
-▶️,25B6-FE0F,symbols,av-symbol,play button,"arrow, play, right, triangle",,Jose Avila,2018-04-18,,,,12,3370
 ▶️,25B6,symbols,av-symbol,play button,"arrow, play, right, triangle",,Jose Avila,2018-04-18,,,,1,3371
 ⏩️,23E9,symbols,av-symbol,fast-forward button,"arrow, double, fast, forward",,Jose Avila,2018-04-18,,,,1,3372
-⏭️,23ED-FE0F,symbols,av-symbol,next track button,"arrow, next scene, next track, triangle",,Jose Avila,2018-04-18,,,,12,3373
 ⏭️,23ED,symbols,av-symbol,next track button,"arrow, next scene, next track, triangle",,Jose Avila,2018-04-18,,,,1,3374
-⏯️,23EF-FE0F,symbols,av-symbol,play or pause button,"arrow, pause, play, right, triangle",,Jose Avila,2018-04-18,,,,12,3375
 ⏯️,23EF,symbols,av-symbol,play or pause button,"arrow, pause, play, right, triangle",,Jose Avila,2018-04-18,,,,1,3376
-◀️,25C0-FE0F,symbols,av-symbol,reverse button,"arrow, left, reverse, triangle",,Jose Avila,2018-04-18,,,,12,3377
 ◀️,25C0,symbols,av-symbol,reverse button,"arrow, left, reverse, triangle",,Jose Avila,2018-04-18,,,,1,3378
 ⏪️,23EA,symbols,av-symbol,fast reverse button,"arrow, double, rewind",,Jose Avila,2018-04-18,,,,1,3379
-⏮️,23EE-FE0F,symbols,av-symbol,last track button,"arrow, previous scene, previous track, triangle",,Jose Avila,2018-04-18,,,,12,3380
 ⏮️,23EE,symbols,av-symbol,last track button,"arrow, previous scene, previous track, triangle",,Jose Avila,2018-04-18,,,,1,3381
 🔼,1F53C,symbols,av-symbol,upwards button,"arrow, button, red",improve,Jose Avila,2018-04-18,,,,1,3382
 ⏫,23EB,symbols,av-symbol,fast up button,"arrow, double",,Jose Avila,2018-04-18,,,,1,3383
 🔽,1F53D,symbols,av-symbol,downwards button,"arrow, button, down, red","decline, decrease",Jose Avila,2018-04-18,,,,1,3384
 ⏬,23EC,symbols,av-symbol,fast down button,"arrow, double, down",,Jose Avila,2018-04-18,,,,1,3385
-⏸️,23F8-FE0F,symbols,av-symbol,pause button,"bar, double, pause, vertical",,Jose Avila,2018-04-18,,,,12,3386
 ⏸️,23F8,symbols,av-symbol,pause button,"bar, double, pause, vertical",,Jose Avila,2018-04-18,,,,1,3387
-⏹️,23F9-FE0F,symbols,av-symbol,stop button,"square, stop",,Jose Avila,2018-04-18,,,,12,3388
 ⏹️,23F9,symbols,av-symbol,stop button,"square, stop",,Jose Avila,2018-04-18,,,,1,3389
-⏺️,23FA-FE0F,symbols,av-symbol,record button,"circle, record",,Jose Avila,2018-04-18,,,,12,3390
 ⏺️,23FA,symbols,av-symbol,record button,"circle, record",,Jose Avila,2018-04-18,,,,1,3391
-⏏️,23CF-FE0F,symbols,av-symbol,eject button,eject,,Jose Avila,2018-04-18,,,,12,3392
 ⏏️,23CF,symbols,av-symbol,eject button,eject,,Jose Avila,2018-04-18,,,,1,3393
 🎦,1F3A6,symbols,av-symbol,cinema,"camera, film, movie",,Jose Avila,2018-04-18,,,,1,3394
 🔅,1F505,symbols,av-symbol,dim button,"brightness, dim, low",,Jose Avila,2018-04-18,,,,1,3395
@@ -2801,28 +2629,19 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📶,1F4F6,symbols,av-symbol,antenna bars,"antenna, bar, cell, mobile, phone",,Jose Avila,2018-04-18,,,,1,3397
 📳,1F4F3,symbols,av-symbol,vibration mode,"cell, mobile, mode, phone, telephone, vibration",silent mode,Jose Avila,2018-04-18,,,,1,3398
 📴,1F4F4,symbols,av-symbol,mobile phone off,"cell, mobile, off, phone, telephone",caos,Jose Avila,2018-04-18,,,,1,3399
-♀️,2640-FE0F,symbols,gender,female sign,woman,"woman, sign, gender",Hilda Kalyoncu,2018-04-18,,,,12,3400
 ♀️,2640,symbols,gender,female sign,woman,"woman, sign, gender",Hilda Kalyoncu,2018-04-18,,,,4,3401
-♂️,2642-FE0F,symbols,gender,male sign,man,"man, sign, gender",Hilda Kalyoncu,2018-04-18,,,,12,3402
 ♂️,2642,symbols,gender,male sign,man,"man, sign, gender",Hilda Kalyoncu,2018-04-18,,,,4,3403
-⚕️,2695-FE0F,symbols,other-symbol,medical symbol,"aesculapius, medicine, staff","medical, staff",Hilda Kalyoncu,2018-04-18,,,,12,3404
 ⚕️,2695,symbols,other-symbol,medical symbol,"aesculapius, medicine, staff","medical, staff",Hilda Kalyoncu,2018-04-18,,,,4,3405
-♾️,267E-FE0F,symbols,other-symbol,infinity,"forever, unbounded, universal",,,,,,,12,3406
 ♾️,267E,symbols,other-symbol,infinity,"forever, unbounded, universal",,,,,,,11,3407
-♻️,267B-FE0F,symbols,other-symbol,recycling symbol,recycle,"recycle, nature",Hilda Kalyoncu,2018-04-18,,,,12,3408
 ♻️,267B,symbols,other-symbol,recycling symbol,recycle,"recycle, nature",Hilda Kalyoncu,2018-04-18,,,,1,3409
-⚜️,269C-FE0F,symbols,other-symbol,fleur-de-lis,fleur-de-lis,,,,,,,12,3410
 ⚜️,269C,symbols,other-symbol,fleur-de-lis,fleur-de-lis,,,,,,,1,3411
 🔱,1F531,symbols,other-symbol,trident emblem,"anchor, emblem, ship, tool, trident","trident, emblem",Hilda Kalyoncu,2018-04-18,,,,1,3412
 📛,1F4DB,symbols,other-symbol,name badge,"badge, name",,,,,,,1,3413
 🔰,1F530,symbols,other-symbol,Japanese symbol for beginner,"beginner, chevron, japanese, japanese symbol for beginner, leaf",,,,,,,1,3414
 ⭕️,2B55,symbols,other-symbol,hollow red circle,"circle, large, o, red","circle, red",Hilda Kalyoncu,2018-04-18,,,,1,3415
 ✅,2705,symbols,other-symbol,check mark button,"button, check, mark, ✓","check, mark, white, right",Hilda Kalyoncu,2018-04-18,,,,1,3416
-☑️,2611-FE0F,symbols,other-symbol,check box with check,"box, check, ✓","check, right, box",Hilda Kalyoncu,2018-04-18,,,,12,3417
 ☑️,2611,symbols,other-symbol,check box with check,"box, check, ✓","check, right, box",Hilda Kalyoncu,2018-04-18,,,,1,3418
-✔️,2714-FE0F,symbols,other-symbol,check mark,"check, mark, ✓","check, mark, right, todo",Hilda Kalyoncu,2018-04-18,,,,12,3419
 ✔️,2714,symbols,other-symbol,check mark,"check, mark, ✓","check, mark, right, todo",Hilda Kalyoncu,2018-04-18,,,,1,3420
-✖️,2716-FE0F,symbols,other-symbol,multiplication sign,"cancel, multiplication, multiply, sign, x, ×","multiplication, x, cancel, wrong",Hilda Kalyoncu,2018-04-18,,,,12,3421
 ✖️,2716,symbols,other-symbol,multiplication sign,"cancel, multiplication, multiply, sign, x, ×","multiplication, x, cancel, wrong",Hilda Kalyoncu,2018-04-18,,,,1,3422
 ❌,274C,symbols,other-symbol,cross mark,"cancel, cross, mark, multiplication, multiply, x, ×","cancel, wrong, multiply, x,",Hilda Kalyoncu,2018-04-18,,,,1,3423
 ❎,274E,symbols,other-symbol,cross mark button,"mark, square, x, ×","mark, square, button",Hilda Kalyoncu,2018-04-18,,,,1,3424
@@ -2831,29 +2650,19 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ➗,2797,symbols,other-symbol,division sign,"division, math, sign, ÷","math, division, sign",Hilda Kalyoncu,2018-04-18,,,,1,3427
 ➰,27B0,symbols,other-symbol,curly loop,"curl, loop",,,,,,,1,3428
 ➿,27BF,symbols,other-symbol,double curly loop,"curl, double, loop",,,,,,,1,3429
-〽️,303D-FE0F,symbols,other-symbol,part alternation mark,"mark, part",,,,,,,12,3430
 〽️,303D,symbols,other-symbol,part alternation mark,"mark, part",,,,,,,1,3431
-✳️,2733-FE0F,symbols,other-symbol,eight-spoked asterisk,"*, asterisk",,,,,,,12,3432
 ✳️,2733,symbols,other-symbol,eight-spoked asterisk,"*, asterisk",,,,,,,1,3433
-✴️,2734-FE0F,symbols,other-symbol,eight-pointed star,"*, star",,,,,,,12,3434
 ✴️,2734,symbols,other-symbol,eight-pointed star,"*, star",,,,,,,1,3435
-❇️,2747-FE0F,symbols,other-symbol,sparkle,*,,,,,,,12,3436
 ❇️,2747,symbols,other-symbol,sparkle,*,,,,,,,1,3437
-‼️,203C-FE0F,symbols,other-symbol,double exclamation mark,"!, !!, bangbang, exclamation, mark",,,,,,,12,3438
 ‼️,203C,symbols,other-symbol,double exclamation mark,"!, !!, bangbang, exclamation, mark",,,,,,,1,3439
-⁉️,2049-FE0F,symbols,other-symbol,exclamation question mark,"!, !?, ?, exclamation, interrobang, mark, punctuation, question",,,,,,,12,3440
 ⁉️,2049,symbols,other-symbol,exclamation question mark,"!, !?, ?, exclamation, interrobang, mark, punctuation, question",,,,,,,1,3441
 ❓️,2753,symbols,other-symbol,question mark,"?, mark, punctuation, question","question, punctation",Hilda Kalyoncu,2018-04-18,,,,1,3442
 ❔,2754,symbols,other-symbol,white question mark,"?, mark, outlined, punctuation, question","punctation, mark, question, white",Hilda Kalyoncu,2018-04-18,,,,1,3443
 ❕,2755,symbols,other-symbol,white exclamation mark,"!, exclamation, mark, outlined, punctuation","exclamation, mark, punctation, white",Hilda Kalyoncu,2018-04-18,,,,1,3444
 ❗️,2757,symbols,other-symbol,exclamation mark,"!, exclamation, mark, punctuation","exclamation, mark, punctation",Hilda Kalyoncu,2018-04-18,,,,1,3445
-〰️,3030-FE0F,symbols,other-symbol,wavy dash,"dash, punctuation, wavy","dash, punctuation, wavy",Hilda Kalyoncu,2018-04-18,,,,12,3446
 〰️,3030,symbols,other-symbol,wavy dash,"dash, punctuation, wavy","dash, punctuation, wavy",Hilda Kalyoncu,2018-04-18,,,,1,3447
-©️,00A9-FE0F,symbols,other-symbol,copyright,c,"copyright, c, sign",Hilda Kalyoncu,2018-04-18,,,,12,3448
 ©️,00A9,symbols,other-symbol,copyright,c,"copyright, c, sign",Hilda Kalyoncu,2018-04-18,,,,1,3449
-®️,00AE-FE0F,symbols,other-symbol,registered,r,"registered, r, sign",Hilda Kalyoncu,2018-04-18,,,,12,3450
 ®️,00AE,symbols,other-symbol,registered,r,"registered, r, sign",Hilda Kalyoncu,2018-04-18,,,,1,3451
-™️,2122-FE0F,symbols,other-symbol,trade mark,"mark, tm, trademark",,,,,,,12,3452
 ™️,2122,symbols,other-symbol,trade mark,"mark, tm, trademark",,,,,,,1,3453
 #️⃣,0023-FE0F-20E3,symbols,keycap,keycap: #,keycap,,,,,,,3,3454
 *️⃣,002A-FE0F-20E3,symbols,keycap,keycap: *,keycap,,,,,,,3,3456
@@ -2873,33 +2682,25 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🔢,1F522,symbols,alphanum,input numbers,"1234, input, numbers",numbers,Jose Avila,2018-04-18,,,,1,3481
 🔣,1F523,symbols,alphanum,input symbols,"input, 〒♪&%","ampersand, music, note, percentage",Jose Avila,2018-04-18,,,,1,3482
 🔤,1F524,symbols,alphanum,input latin letters,"abc, alphabet, input, latin, letters","letters, alphabet",Jose Avila,2018-04-18,,,,1,3483
-🅰️,1F170-FE0F,symbols,alphanum,A button (blood type),"a, a button (blood type), blood type",,,,,,,12,3484
 🅰️,1F170,symbols,alphanum,A button (blood type),"a, a button (blood type), blood type",,,,,,,1,3485
 🆎,1F18E,symbols,alphanum,AB button (blood type),"ab, ab button (blood type), blood type",,,,,,,1,3486
-🅱️,1F171-FE0F,symbols,alphanum,B button (blood type),"b, b button (blood type), blood type",,,,,,,12,3487
 🅱️,1F171,symbols,alphanum,B button (blood type),"b, b button (blood type), blood type",,,,,,,1,3488
 🆑,1F191,symbols,alphanum,CL button,"cl, cl button",,,,,,,1,3489
 🆒,1F192,symbols,alphanum,COOL button,"cool, cool button","popular, nice",Jose Avila,2018-04-18,,,,1,3490
 🆓,1F193,symbols,alphanum,FREE button,"free, free button",,,,,,,1,3491
-ℹ️,2139-FE0F,symbols,alphanum,information,i,"advice, info",Jose Avila,2018-04-18,,,,12,3492
 ℹ️,2139,symbols,alphanum,information,i,"advice, info",Jose Avila,2018-04-18,,,,1,3493
 🆔,1F194,symbols,alphanum,ID button,"id, id button, identity",id card,Jose Avila,2018-04-18,,,,1,3494
-Ⓜ️,24C2-FE0F,symbols,alphanum,circled M,"circle, circled m, m",,,,,,,12,3495
 Ⓜ️,24C2,symbols,alphanum,circled M,"circle, circled m, m",,,,,,,1,3496
 🆕,1F195,symbols,alphanum,NEW button,"new, new button","modern, recent",Jose Avila,2018-04-18,,,,1,3497
 🆖,1F196,symbols,alphanum,NG button,"ng, ng button",,,,,,,1,3498
-🅾️,1F17E-FE0F,symbols,alphanum,O button (blood type),"blood type, o, o button (blood type)",,,,,,,12,3499
 🅾️,1F17E,symbols,alphanum,O button (blood type),"blood type, o, o button (blood type)",,,,,,,1,3500
 🆗,1F197,symbols,alphanum,OK button,"ok, ok button",okay,Jose Avila,2018-04-18,,,,1,3501
-🅿️,1F17F-FE0F,symbols,alphanum,P button,"p button, parking","place, drive",Jose Avila,2018-04-18,,,,12,3502
 🅿️,1F17F,symbols,alphanum,P button,"p button, parking","place, drive",Jose Avila,2018-04-18,,,,1,3503
 🆘,1F198,symbols,alphanum,SOS button,"help, sos, sos button","emergency, warning",Jose Avila,2018-04-18,,,,1,3504
 🆙,1F199,symbols,alphanum,UP! button,"mark, up, up! button",,,,,,,1,3505
 🆚,1F19A,symbols,alphanum,VS button,"versus, vs, vs button",against,Jose Avila,2018-04-18,,,,1,3506
 🈁,1F201,symbols,alphanum,Japanese “here” button,"japanese, japanese “here” button, katakana, “here”, ココ",,,,,,,1,3507
-🈂️,1F202-FE0F,symbols,alphanum,Japanese “service charge” button,"japanese, japanese “service charge” button, katakana, “service charge”, サ",japanese,Jose Avila,2018-04-18,,,,12,3508
 🈂️,1F202,symbols,alphanum,Japanese “service charge” button,"japanese, japanese “service charge” button, katakana, “service charge”, サ",japanese,Jose Avila,2018-04-18,,,,1,3509
-🈷️,1F237-FE0F,symbols,alphanum,Japanese “monthly amount” button,"ideograph, japanese, japanese “monthly amount” button, “monthly amount”, 月",,,,,,,12,3510
 🈷️,1F237,symbols,alphanum,Japanese “monthly amount” button,"ideograph, japanese, japanese “monthly amount” button, “monthly amount”, 月",,,,,,,1,3511
 🈶,1F236,symbols,alphanum,Japanese “not free of charge” button,"ideograph, japanese, japanese “not free of charge” button, “not free of charge”, 有",,,,,,,1,3512
 🈯️,1F22F,symbols,alphanum,Japanese “reserved” button,"ideograph, japanese, japanese “reserved” button, “reserved”, 指",,,,,,,1,3513
@@ -2911,9 +2712,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🈸,1F238,symbols,alphanum,Japanese “application” button,"ideograph, japanese, japanese “application” button, “application”, 申",,,,,,,1,3519
 🈴,1F234,symbols,alphanum,Japanese “passing grade” button,"ideograph, japanese, japanese “passing grade” button, “passing grade”, 合",,,,,,,1,3520
 🈳,1F233,symbols,alphanum,Japanese “vacancy” button,"ideograph, japanese, japanese “vacancy” button, “vacancy”, 空",,,,,,,1,3521
-㊗️,3297-FE0F,symbols,alphanum,Japanese “congratulations” button,"ideograph, japanese, japanese “congratulations” button, “congratulations”, 祝","japanese, compliments",Jose Avila,2018-04-18,,,,12,3522
 ㊗️,3297,symbols,alphanum,Japanese “congratulations” button,"ideograph, japanese, japanese “congratulations” button, “congratulations”, 祝","japanese, compliments",Jose Avila,2018-04-18,,,,1,3523
-㊙️,3299-FE0F,symbols,alphanum,Japanese “secret” button,"ideograph, japanese, japanese “secret” button, “secret”, 秘","japanese, mysterious",Jose Avila,2018-04-18,,,,12,3524
 ㊙️,3299,symbols,alphanum,Japanese “secret” button,"ideograph, japanese, japanese “secret” button, “secret”, 秘","japanese, mysterious",Jose Avila,2018-04-18,,,,1,3525
 🈺,1F23A,symbols,alphanum,Japanese “open for business” button,"ideograph, japanese, japanese “open for business” button, “open for business”, 営",,,,,,,1,3526
 🈵,1F235,symbols,alphanum,Japanese “no vacancy” button,"ideograph, japanese, japanese “no vacancy” button, “no vacancy”, 満",,,,,,,1,3527
@@ -2935,15 +2734,11 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🟫,1F7EB,symbols,geometric,brown square,"brown, square",,,,,,,12,3543
 ⬛️,2B1B,symbols,geometric,black large square,"geometric, square",,,,,,,1,3544
 ⬜️,2B1C,symbols,geometric,white large square,"geometric, square",,,,,,,1,3545
-◼️,25FC-FE0F,symbols,geometric,black medium square,"geometric, square",,,,,,,12,3546
 ◼️,25FC,symbols,geometric,black medium square,"geometric, square",,,,,,,1,3547
-◻️,25FB-FE0F,symbols,geometric,white medium square,"geometric, square",,,,,,,12,3548
 ◻️,25FB,symbols,geometric,white medium square,"geometric, square",,,,,,,1,3549
 ◾️,25FE,symbols,geometric,black medium-small square,"geometric, square",,,,,,,1,3550
 ◽️,25FD,symbols,geometric,white medium-small square,"geometric, square",,,,,,,1,3551
-▪️,25AA-FE0F,symbols,geometric,black small square,"geometric, square",,,,,,,12,3552
 ▪️,25AA,symbols,geometric,black small square,"geometric, square",,,,,,,1,3553
-▫️,25AB-FE0F,symbols,geometric,white small square,"geometric, square",,,,,,,12,3554
 ▫️,25AB,symbols,geometric,white small square,"geometric, square",,,,,,,1,3555
 🔶,1F536,symbols,geometric,large orange diamond,"diamond, geometric, orange",,,,,,,1,3556
 🔷,1F537,symbols,geometric,large blue diamond,"blue, diamond, geometric",,,,,,,1,3557
@@ -2959,7 +2754,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🚩,1F6A9,flags,flag,triangular flag,post,,Aileen Gedrat,2018-11-16,,,,1,3567
 🎌,1F38C,flags,flag,crossed flags,"celebration, cross, crossed, japanese",,,,,,,1,3568
 🏴,1F3F4,flags,flag,black flag,waving,,Aileen Gedrat,2018-11-16,,,,1,3569
-🏳️,1F3F3-FE0F,flags,flag,white flag,waving,white,Aileen Gedrat,2018-11-16,,,,12,3570
 🏳️,1F3F3,flags,flag,white flag,waving,white,Aileen Gedrat,2018-11-16,,,,1,3571
 🏳️‍🌈,1F3F3-FE0F-200D-1F308,flags,flag,rainbow flag,rainbow,color,Aileen Gedrat,2018-11-16,,,,4,3572
 🏴‍☠️,1F3F4-200D-2620-FE0F,flags,flag,pirate flag,"jolly roger, pirate, plunder, treasure",,Aileen Gedrat,2018-11-16,,,,11,3574

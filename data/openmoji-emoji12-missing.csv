@@ -99,7 +99,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👩‍🦽,1F469-200D-1F9BD,people-body,person-activity,woman in manual wheelchair,"accessibility, wheelchair, woman",,,,,👩‍🦽,1F469-200D-1F9BD,12,1697
 🏃‍♂️,1F3C3-200D-2642-FE0F,people-body,person-activity,man running,"man, marathon, racing, running",,,,,🏃‍♂️,1F3C3-200D-2642-FE0F,4,1709
 🏃‍♀️,1F3C3-200D-2640-FE0F,people-body,person-activity,woman running,"marathon, racing, running, woman",,,,,🏃‍♀️,1F3C3-200D-2640-FE0F,4,1721
-🕴️,1F574-FE0F,people-body,person-activity,man in suit levitating,"business, man, suit",,,,,,,12,1745
 🕴️,1F574,people-body,person-activity,man in suit levitating,"business, man, suit",,,,,🕴️,1F574,1,1746
 👯‍♂️,1F46F-200D-2642-FE0F,people-body,person-activity,men with bunny ears,"bunny ear, dancer, men, partying",,,,,,,4,1753
 👯‍♀️,1F46F-200D-2640-FE0F,people-body,person-activity,women with bunny ears,"bunny ear, dancer, partying, women",,,,,,,4,1755
@@ -187,7 +186,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦟,1F99F,animals-nature,animal-bug,mosquito,"disease, fever, insect, malaria, virus",,,,,,,11,2489
 🦠,1F9A0,animals-nature,animal-bug,microbe,"amoeba, bacteria, virus",,,,,,,11,2490
 💮,1F4AE,animals-nature,plant-flower,white flower,flower,,,,,,,1,2493
-🏵️,1F3F5-FE0F,animals-nature,plant-flower,rosette,plant,,,,,,,12,2494
 🏵️,1F3F5,animals-nature,plant-flower,rosette,plant,,,,,,,1,2495
 🍂,1F342,animals-nature,plant-other,fallen leaf,"falling, leaf",,,,,,,1,2513
 🍃,1F343,animals-nature,plant-other,leaf fluttering in wind,"blow, flutter, leaf, wind",,,,,,,1,2514
@@ -229,7 +227,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧳,1F9F3,travel-places,hotel,luggage,"packing, travel",,,,,,,11,2797
 🪐,1FA90,travel-places,sky-weather,ringed planet,"saturn, saturnine",,,,,,,12,2850
 🌌,1F30C,travel-places,sky-weather,milky way,space,,,,,,,1,2854
-🌫️,1F32B-FE0F,travel-places,sky-weather,fog,cloud,,,,,,,12,2874
 🌫️,1F32B,travel-places,sky-weather,fog,cloud,,,,,,,1,2875
 🎆,1F386,activities,event,fireworks,celebration,,,,,,,1,2899
 🎇,1F387,activities,event,sparkler,"celebration, fireworks, sparkle",,,,,,,1,2900
@@ -251,15 +248,10 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🎰,1F3B0,activities,game,slot machine,"game, slot",,,,,,,1,2964
 🧩,1F9E9,activities,game,puzzle piece,"clue, interlocking, jigsaw, piece, puzzle",,,,,,,11,2966
 🧸,1F9F8,activities,game,teddy bear,"plaything, plush, stuffed, toy",,,,,,,11,2967
-♠️,2660-FE0F,activities,game,spade suit,"card, game",,,,,,,12,2968
 ♠️,2660,activities,game,spade suit,"card, game",,,,,,,1,2969
-♥️,2665-FE0F,activities,game,heart suit,"card, game",,,,,,,12,2970
 ♥️,2665,activities,game,heart suit,"card, game",,,,,,,1,2971
-♦️,2666-FE0F,activities,game,diamond suit,"card, game",,,,,,,12,2972
 ♦️,2666,activities,game,diamond suit,"card, game",,,,,,,1,2973
-♣️,2663-FE0F,activities,game,club suit,"card, game",,,,,,,12,2974
 ♣️,2663,activities,game,club suit,"card, game",,,,,,,1,2975
-♟️,265F-FE0F,activities,game,chess pawn,"chess, dupe, expendable",,,,,,,12,2976
 ♟️,265F,activities,game,chess pawn,"chess, dupe, expendable",,,,,,,11,2977
 🃏,1F0CF,activities,game,joker,"card, game, wildcard",,,,,,,1,2978
 🀄️,1F004,activities,game,mahjong red dragon,"game, mahjong, red",,,,,,,1,2979
@@ -280,11 +272,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🩰,1FA70,objects,clothing,ballet shoes,"ballet, dance",,,,,,,12,3020
 🪕,1FA95,objects,musical-instrument,banjo,"music, stringed",,,,,,,12,3059
 📟️,1F4DF,objects,phone,pager,pager,,,,,,,1,3066
-🖲️,1F5B2-FE0F,objects,computer,trackball,computer,,,,,,,12,3079
 🖲️,1F5B2,objects,computer,trackball,computer,,,,,,,1,3080
 🧮,1F9EE,objects,computer,abacus,calculation,,,,,,,11,3085
 🪔,1FA94,objects,light-video,diya lamp,"diya, lamp, oil",,,,,,,12,3104
-🗞️,1F5DE-FE0F,objects,book-paper,rolled-up newspaper,"news, newspaper, paper, rolled",,,,,,,12,3118
 🗞️,1F5DE,objects,book-paper,rolled-up newspaper,"news, newspaper, paper, rolled",,,,,,,1,3119
 🧾,1F9FE,objects,money,receipt,"accounting, bookkeeping, evidence, proof",,,,,,,11,3131
 📇,1F4C7,objects,office,card index,"card, index, rolodex",,,,,,,1,3174
@@ -312,30 +302,20 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🛂,1F6C2,symbols,transport-sign,passport control,"control, passport",,,,,,,1,3278
 🛃,1F6C3,symbols,transport-sign,customs,customs,,,,,,,1,3279
 🚸,1F6B8,symbols,warning,children crossing,"child, crossing, pedestrian, traffic",,,,,,,1,3284
-☣️,2623-FE0F,symbols,warning,biohazard,sign,,,,,,,12,3296
 ☣️,2623,symbols,warning,biohazard,sign,,,,,,,1,3297
 ♌️,264C,symbols,zodiac,Leo,"leo, lion, zodiac",,,,,,,1,3358
-♾️,267E-FE0F,symbols,other-symbol,infinity,"forever, unbounded, universal",,,,,,,12,3406
 ♾️,267E,symbols,other-symbol,infinity,"forever, unbounded, universal",,,,,,,11,3407
-⚜️,269C-FE0F,symbols,other-symbol,fleur-de-lis,fleur-de-lis,,,,,,,12,3410
 ⚜️,269C,symbols,other-symbol,fleur-de-lis,fleur-de-lis,,,,,,,1,3411
 📛,1F4DB,symbols,other-symbol,name badge,"badge, name",,,,,,,1,3413
 🔰,1F530,symbols,other-symbol,Japanese symbol for beginner,"beginner, chevron, japanese, japanese symbol for beginner, leaf",,,,,,,1,3414
 ➰,27B0,symbols,other-symbol,curly loop,"curl, loop",,,,,,,1,3428
 ➿,27BF,symbols,other-symbol,double curly loop,"curl, double, loop",,,,,,,1,3429
-〽️,303D-FE0F,symbols,other-symbol,part alternation mark,"mark, part",,,,,,,12,3430
 〽️,303D,symbols,other-symbol,part alternation mark,"mark, part",,,,,,,1,3431
-✳️,2733-FE0F,symbols,other-symbol,eight-spoked asterisk,"*, asterisk",,,,,,,12,3432
 ✳️,2733,symbols,other-symbol,eight-spoked asterisk,"*, asterisk",,,,,,,1,3433
-✴️,2734-FE0F,symbols,other-symbol,eight-pointed star,"*, star",,,,,,,12,3434
 ✴️,2734,symbols,other-symbol,eight-pointed star,"*, star",,,,,,,1,3435
-❇️,2747-FE0F,symbols,other-symbol,sparkle,*,,,,,,,12,3436
 ❇️,2747,symbols,other-symbol,sparkle,*,,,,,,,1,3437
-‼️,203C-FE0F,symbols,other-symbol,double exclamation mark,"!, !!, bangbang, exclamation, mark",,,,,,,12,3438
 ‼️,203C,symbols,other-symbol,double exclamation mark,"!, !!, bangbang, exclamation, mark",,,,,,,1,3439
-⁉️,2049-FE0F,symbols,other-symbol,exclamation question mark,"!, !?, ?, exclamation, interrobang, mark, punctuation, question",,,,,,,12,3440
 ⁉️,2049,symbols,other-symbol,exclamation question mark,"!, !?, ?, exclamation, interrobang, mark, punctuation, question",,,,,,,1,3441
-™️,2122-FE0F,symbols,other-symbol,trade mark,"mark, tm, trademark",,,,,,,12,3452
 ™️,2122,symbols,other-symbol,trade mark,"mark, tm, trademark",,,,,,,1,3453
 #️⃣,0023-FE0F-20E3,symbols,keycap,keycap: #,keycap,,,,,,,3,3454
 *️⃣,002A-FE0F-20E3,symbols,keycap,keycap: *,keycap,,,,,,,3,3456
@@ -350,21 +330,16 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 8️⃣,0038-FE0F-20E3,symbols,keycap,keycap: 8,keycap,,,,,,,3,3474
 9️⃣,0039-FE0F-20E3,symbols,keycap,keycap: 9,keycap,,,,,,,3,3476
 🔟,1F51F,symbols,keycap,keycap: 10,keycap,,,,,,,1,3478
-🅰️,1F170-FE0F,symbols,alphanum,A button (blood type),"a, a button (blood type), blood type",,,,,,,12,3484
 🅰️,1F170,symbols,alphanum,A button (blood type),"a, a button (blood type), blood type",,,,,,,1,3485
 🆎,1F18E,symbols,alphanum,AB button (blood type),"ab, ab button (blood type), blood type",,,,,,,1,3486
-🅱️,1F171-FE0F,symbols,alphanum,B button (blood type),"b, b button (blood type), blood type",,,,,,,12,3487
 🅱️,1F171,symbols,alphanum,B button (blood type),"b, b button (blood type), blood type",,,,,,,1,3488
 🆑,1F191,symbols,alphanum,CL button,"cl, cl button",,,,,,,1,3489
 🆓,1F193,symbols,alphanum,FREE button,"free, free button",,,,,,,1,3491
-Ⓜ️,24C2-FE0F,symbols,alphanum,circled M,"circle, circled m, m",,,,,,,12,3495
 Ⓜ️,24C2,symbols,alphanum,circled M,"circle, circled m, m",,,,,,,1,3496
 🆖,1F196,symbols,alphanum,NG button,"ng, ng button",,,,,,,1,3498
-🅾️,1F17E-FE0F,symbols,alphanum,O button (blood type),"blood type, o, o button (blood type)",,,,,,,12,3499
 🅾️,1F17E,symbols,alphanum,O button (blood type),"blood type, o, o button (blood type)",,,,,,,1,3500
 🆙,1F199,symbols,alphanum,UP! button,"mark, up, up! button",,,,,,,1,3505
 🈁,1F201,symbols,alphanum,Japanese “here” button,"japanese, japanese “here” button, katakana, “here”, ココ",,,,,,,1,3507
-🈷️,1F237-FE0F,symbols,alphanum,Japanese “monthly amount” button,"ideograph, japanese, japanese “monthly amount” button, “monthly amount”, 月",,,,,,,12,3510
 🈷️,1F237,symbols,alphanum,Japanese “monthly amount” button,"ideograph, japanese, japanese “monthly amount” button, “monthly amount”, 月",,,,,,,1,3511
 🈶,1F236,symbols,alphanum,Japanese “not free of charge” button,"ideograph, japanese, japanese “not free of charge” button, “not free of charge”, 有",,,,,,,1,3512
 🈯️,1F22F,symbols,alphanum,Japanese “reserved” button,"ideograph, japanese, japanese “reserved” button, “reserved”, 指",,,,,,,1,3513
@@ -396,15 +371,11 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🟫,1F7EB,symbols,geometric,brown square,"brown, square",,,,,,,12,3543
 ⬛️,2B1B,symbols,geometric,black large square,"geometric, square",,,,,,,1,3544
 ⬜️,2B1C,symbols,geometric,white large square,"geometric, square",,,,,,,1,3545
-◼️,25FC-FE0F,symbols,geometric,black medium square,"geometric, square",,,,,,,12,3546
 ◼️,25FC,symbols,geometric,black medium square,"geometric, square",,,,,,,1,3547
-◻️,25FB-FE0F,symbols,geometric,white medium square,"geometric, square",,,,,,,12,3548
 ◻️,25FB,symbols,geometric,white medium square,"geometric, square",,,,,,,1,3549
 ◾️,25FE,symbols,geometric,black medium-small square,"geometric, square",,,,,,,1,3550
 ◽️,25FD,symbols,geometric,white medium-small square,"geometric, square",,,,,,,1,3551
-▪️,25AA-FE0F,symbols,geometric,black small square,"geometric, square",,,,,,,12,3552
 ▪️,25AA,symbols,geometric,black small square,"geometric, square",,,,,,,1,3553
-▫️,25AB-FE0F,symbols,geometric,white small square,"geometric, square",,,,,,,12,3554
 ▫️,25AB,symbols,geometric,white small square,"geometric, square",,,,,,,1,3555
 🔶,1F536,symbols,geometric,large orange diamond,"diamond, geometric, orange",,,,,,,1,3556
 🔷,1F537,symbols,geometric,large blue diamond,"blue, diamond, geometric",,,,,,,1,3557
