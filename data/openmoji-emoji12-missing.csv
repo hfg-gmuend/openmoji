@@ -1,13 +1,5 @@
 emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,openmoji_date,skintone,skintone_base_emoji,skintone_base_hexcode,unicode,order
-🥰,1F970,smileys-emotion,face-affection,smiling face with hearts,"adore, crush, hearts, in love",,,,,,,11,14
-🥵,1F975,smileys-emotion,face-unwell,hot face,"feverish, heat stroke, hot, red-faced, sweating",,,,,,,11,54
-🥶,1F976,smileys-emotion,face-unwell,cold face,"blue-faced, cold, freezing, frostbite, icicles",,,,,,,11,55
-🥴,1F974,smileys-emotion,face-unwell,woozy face,"dizzy, intoxicated, tipsy, uneven eyes, wavy mouth",,,,,,,11,56
-🥳,1F973,smileys-emotion,face-hat,partying face,"celebration, hat, horn, party",,,,,,,11,60
-🥺,1F97A,smileys-emotion,face-concerned,pleading face,"begging, mercy, puppy eyes",,,,,,,11,73
 🥱,1F971,smileys-emotion,face-concerned,yawning face,"bored, tired, yawn",,,,,,,12,88
-👺,1F47A,smileys-emotion,face-costume,goblin,"creature, face, fairy tale, fantasy, monster",,,,,,,1,101
-👾,1F47E,smileys-emotion,face-costume,alien monster,"alien, creature, extraterrestrial, face, monster, ufo",,,,,,,1,104
 🧡,1F9E1,smileys-emotion,emotion,orange heart,orange,,,,,,,5,133
 🤎,1F90E,smileys-emotion,emotion,brown heart,"brown, heart",,,,,,,12,138
 🤍,1F90D,smileys-emotion,emotion,white heart,"heart, white",,,,,,,12,140
@@ -49,16 +41,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🙇‍♀️,1F647-200D-2640-FE0F,people-body,person-gesture,woman bowing,"apology, bowing, favor, gesture, sorry, woman",,,,,🙇‍♀️,1F647-200D-2640-FE0F,4,776
 🤷‍♂️,1F937-200D-2642-FE0F,people-body,person-gesture,man shrugging,"doubt, ignorance, indifference, man, shrug",,,,,🤷‍♂️,1F937-200D-2642-FE0F,4,824
 🤷‍♀️,1F937-200D-2640-FE0F,people-body,person-gesture,woman shrugging,"doubt, ignorance, indifference, shrug, woman",,,,,🤷‍♀️,1F937-200D-2640-FE0F,4,836
-👮‍♂️,1F46E-200D-2642-FE0F,people-body,person-role,man police officer,"cop, man, officer, police",,,,,👮‍♂️,1F46E-200D-2642-FE0F,4,1082
-👮‍♀️,1F46E-200D-2640-FE0F,people-body,person-role,woman police officer,"cop, officer, police, woman",,,,,👮‍♀️,1F46E-200D-2640-FE0F,4,1094
-🕵️‍♂️,1F575-FE0F-200D-2642-FE0F,people-body,person-role,man detective,"detective, man, sleuth, spy",,,,,🕵️‍♂️,1F575-FE0F-200D-2642-FE0F,4,1113
-🕵️‍♀️,1F575-FE0F-200D-2640-FE0F,people-body,person-role,woman detective,"detective, sleuth, spy, woman",,,,,🕵️‍♀️,1F575-FE0F-200D-2640-FE0F,4,1127
-💂‍♂️,1F482-200D-2642-FE0F,people-body,person-role,man guard,"guard, man",,,,,💂‍♂️,1F482-200D-2642-FE0F,4,1147
-💂‍♀️,1F482-200D-2640-FE0F,people-body,person-role,woman guard,"guard, woman",,,,,💂‍♀️,1F482-200D-2640-FE0F,4,1159
-👷‍♂️,1F477-200D-2642-FE0F,people-body,person-role,man construction worker,"construction, man, worker",,,,,👷‍♂️,1F477-200D-2642-FE0F,4,1177
-👷‍♀️,1F477-200D-2640-FE0F,people-body,person-role,woman construction worker,"construction, woman, worker",,,,,👷‍♀️,1F477-200D-2640-FE0F,4,1189
-👳‍♂️,1F473-200D-2642-FE0F,people-body,person-role,man wearing turban,"man, turban",,,,,👳‍♂️,1F473-200D-2642-FE0F,4,1219
-👳‍♀️,1F473-200D-2640-FE0F,people-body,person-role,woman wearing turban,"turban, woman",,,,,👳‍♀️,1F473-200D-2640-FE0F,4,1231
 🤵,1F935,people-body,person-role,man in tuxedo,"groom, man, tuxedo",,,,,🤵,1F935,3,1255
 🦸,1F9B8,people-body,person-fantasy,superhero,"good, hero, heroine, superpower",,,,,🦸,1F9B8,11,1297
 🦸‍♂️,1F9B8-200D-2642-FE0F,people-body,person-fantasy,man superhero,"good, hero, man, superpower",,,,,🦸‍♂️,1F9B8-200D-2642-FE0F,11,1303

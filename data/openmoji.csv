@@ -12,6 +12,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😉,1F609,smileys-emotion,face-smiling,winking face,"face, wink",eye,Emily Jäger,2018-04-18,,,,1,11
 😊,1F60A,smileys-emotion,face-smiling,smiling face with smiling eyes,"blush, eye, face, smile",satisfied,Emily Jäger,2018-04-18,,,,1,12
 😇,1F607,smileys-emotion,face-smiling,smiling face with halo,"angel, face, fantasy, halo, innocent",,Emily Jäger,2018-04-18,,,,1,13
+🥰,1F970,smileys-emotion,face-affection,smiling face with hearts,"adore, crush, hearts, in love",,Antonia Wagner,2019-05-03,,,,11,14
 😍,1F60D,smileys-emotion,face-affection,smiling face with heart-eyes,"eye, face, love, smile","hearts, happy",Emily Jäger,2018-04-18,,,,1,15
 🤩,1F929,smileys-emotion,face-affection,star-struck,"eyes, face, grinning, star",suprised,Emily Jäger,2018-04-18,,,,5,16
 😘,1F618,smileys-emotion,face-affection,face blowing a kiss,"face, kiss","love, happy",Emily Jäger,2018-04-18,,,,1,17
@@ -50,9 +51,13 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🤢,1F922,smileys-emotion,face-unwell,nauseated face,"face, nauseated, vomit",green,Emily Jäger,2018-04-18,,,,3,51
 🤮,1F92E,smileys-emotion,face-unwell,face vomiting,"sick, vomit",,Emily Jäger,2018-04-18,,,,5,52
 🤧,1F927,smileys-emotion,face-unwell,sneezing face,"face, gesundheit, sneeze",tissue,Emily Jäger,2018-04-18,,,,3,53
+🥵,1F975,smileys-emotion,face-unwell,hot face,"feverish, heat stroke, hot, red-faced, sweating",,Antonia Wagner,2019-05-03,,,,11,54
+🥶,1F976,smileys-emotion,face-unwell,cold face,"blue-faced, cold, freezing, frostbite, icicles",,Antonia Wagner,2019-05-03,,,,11,55
+🥴,1F974,smileys-emotion,face-unwell,woozy face,"dizzy, intoxicated, tipsy, uneven eyes, wavy mouth",,Antonia Wagner,2019-05-03,,,,11,56
 😵,1F635,smileys-emotion,face-unwell,dizzy face,"dizzy, face",dead eyes,Mariella Steeb,2018-04-18,,,,1,57
 🤯,1F92F,smileys-emotion,face-unwell,exploding head,shocked,explosion,Mariella Steeb,2018-04-18,,,,5,58
 🤠,1F920,smileys-emotion,face-hat,cowboy hat face,"cowboy, cowgirl, face, hat",howdy,Emily Jäger,2018-04-18,,,,3,59
+🥳,1F973,smileys-emotion,face-hat,partying face,"celebration, hat, horn, party",,Antonia Wagner,2019-05-03,,,,11,60
 😎,1F60E,smileys-emotion,face-glasses,smiling face with sunglasses,"bright, cool, face, sun, sunglasses",,Emily Jäger,2018-04-18,,,,1,61
 🤓,1F913,smileys-emotion,face-glasses,nerd face,"face, geek, nerd","glasses, learning",Emily Jäger,2018-04-18,,,,1,62
 🧐,1F9D0,smileys-emotion,face-glasses,face with monocle,stuffy,"glasses, intelligent",Emily Jäger,2018-04-18,,,,5,63
@@ -64,6 +69,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😯,1F62F,smileys-emotion,face-concerned,hushed face,"face, hushed, stunned, surprised",,Mariella Steeb,2018-04-18,,,,1,70
 😲,1F632,smileys-emotion,face-concerned,astonished face,"astonished, face, shocked, totally",,Emily Jäger,2018-04-18,,,,1,71
 😳,1F633,smileys-emotion,face-concerned,flushed face,"dazed, face, flushed",red jaws,Mariella Steeb,2018-04-18,,,,1,72
+🥺,1F97A,smileys-emotion,face-concerned,pleading face,"begging, mercy, puppy eyes",,Antonia Wagner,2019-05-03,,,,11,73
 😦,1F626,smileys-emotion,face-concerned,frowning face with open mouth,"face, frown, mouth, open",,Mariella Steeb,2018-04-18,,,,1,74
 😧,1F627,smileys-emotion,face-concerned,anguished face,"anguished, face",,Mariella Steeb,2018-04-18,,,,1,75
 😨,1F628,smileys-emotion,face-concerned,fearful face,"face, fear, fearful, scared",,Mariella Steeb,2018-04-18,,,,1,76
@@ -89,8 +95,10 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💩,1F4A9,smileys-emotion,face-costume,pile of poo,"dung, face, monster, poo, poop",,Mariella Steeb,2018-04-18,,,,1,98
 🤡,1F921,smileys-emotion,face-costume,clown face,"clown, face",,Emily Jäger,2018-04-18,,,,3,99
 👹,1F479,smileys-emotion,face-costume,ogre,"creature, face, fairy tale, fantasy, monster",,Anne Frauendorf,2018-11-16,,,,1,100
+👺,1F47A,smileys-emotion,face-costume,goblin,"creature, face, fairy tale, fantasy, monster",,Antonia Wagner,2019-05-03,,,,1,101
 👻,1F47B,smileys-emotion,face-costume,ghost,"creature, face, fairy tale, fantasy, monster",ghost,Mariella Steeb,2018-04-18,,,,1,102
 👽️,1F47D,smileys-emotion,face-costume,alien,"creature, extraterrestrial, face, fantasy, ufo",alien,Mariella Steeb,2018-04-18,,,,1,103
+👾,1F47E,smileys-emotion,face-costume,alien monster,"alien, creature, extraterrestrial, face, monster, ufo",,Antonia Wagner,2019-05-03,,,,1,104
 🤖,1F916,smileys-emotion,face-costume,robot,"face, monster",,Mariella Steeb,2018-04-18,,,,1,105
 😺,1F63A,smileys-emotion,cat-face,grinning cat,"cat, face, grinning, mouth, open, smile",grinning,Emily Jäger,2018-04-18,,,,1,106
 😸,1F638,smileys-emotion,cat-face,grinning cat with smiling eyes,"cat, eye, face, grin, smile",grinning,Emily Jäger,2018-04-18,,,,1,107
@@ -676,24 +684,72 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👮🏽,1F46E-1F3FD,people-body,person-role,police officer: medium skin tone,,,Lisa Thiel,2018-04-18,3,👮,1F46E,2,1079
 👮🏾,1F46E-1F3FE,people-body,person-role,police officer: medium-dark skin tone,,,Lisa Thiel,2018-04-18,4,👮,1F46E,2,1080
 👮🏿,1F46E-1F3FF,people-body,person-role,police officer: dark skin tone,,,Lisa Thiel,2018-04-18,5,👮,1F46E,2,1081
+👮‍♂️,1F46E-200D-2642-FE0F,people-body,person-role,man police officer,"cop, man, officer, police",,Antonia Wagner,2019-05-03,,👮‍♂️,1F46E-200D-2642-FE0F,4,1082
+👮🏻‍♂️,1F46E-1F3FB-200D-2642-FE0F,people-body,person-role,man police officer: light skin tone,,,Antonia Wagner,2019-05-03,1,👮‍♂️,1F46E-200D-2642-FE0F,4,1084
+👮🏼‍♂️,1F46E-1F3FC-200D-2642-FE0F,people-body,person-role,man police officer: medium-light skin tone,,,Antonia Wagner,2019-05-03,2,👮‍♂️,1F46E-200D-2642-FE0F,4,1086
+👮🏽‍♂️,1F46E-1F3FD-200D-2642-FE0F,people-body,person-role,man police officer: medium skin tone,,,Antonia Wagner,2019-05-03,3,👮‍♂️,1F46E-200D-2642-FE0F,4,1088
+👮🏾‍♂️,1F46E-1F3FE-200D-2642-FE0F,people-body,person-role,man police officer: medium-dark skin tone,,,Antonia Wagner,2019-05-03,4,👮‍♂️,1F46E-200D-2642-FE0F,4,1090
+👮🏿‍♂️,1F46E-1F3FF-200D-2642-FE0F,people-body,person-role,man police officer: dark skin tone,,,Antonia Wagner,2019-05-03,5,👮‍♂️,1F46E-200D-2642-FE0F,4,1092
+👮‍♀️,1F46E-200D-2640-FE0F,people-body,person-role,woman police officer,"cop, officer, police, woman",,Antonia Wagner,2019-05-03,,👮‍♀️,1F46E-200D-2640-FE0F,4,1094
+👮🏻‍♀️,1F46E-1F3FB-200D-2640-FE0F,people-body,person-role,woman police officer: light skin tone,,,Antonia Wagner,2019-05-03,1,👮‍♀️,1F46E-200D-2640-FE0F,4,1096
+👮🏼‍♀️,1F46E-1F3FC-200D-2640-FE0F,people-body,person-role,woman police officer: medium-light skin tone,,,Antonia Wagner,2019-05-03,2,👮‍♀️,1F46E-200D-2640-FE0F,4,1098
+👮🏽‍♀️,1F46E-1F3FD-200D-2640-FE0F,people-body,person-role,woman police officer: medium skin tone,,,Antonia Wagner,2019-05-03,3,👮‍♀️,1F46E-200D-2640-FE0F,4,1100
+👮🏾‍♀️,1F46E-1F3FE-200D-2640-FE0F,people-body,person-role,woman police officer: medium-dark skin tone,,,Antonia Wagner,2019-05-03,4,👮‍♀️,1F46E-200D-2640-FE0F,4,1102
+👮🏿‍♀️,1F46E-1F3FF-200D-2640-FE0F,people-body,person-role,woman police officer: dark skin tone,,,Antonia Wagner,2019-05-03,5,👮‍♀️,1F46E-200D-2640-FE0F,4,1104
 🕵️,1F575,people-body,person-role,detective,"sleuth, spy","sleuth, spy, sherlock, investigator, magnifier, magnifying glass, cloak, coat",Lisa Thiel,2018-04-18,,🕵️,1F575,1,1107
 🕵🏻,1F575-1F3FB,people-body,person-role,detective: light skin tone,,,Lisa Thiel,2018-04-18,1,🕵️,1F575,2,1108
 🕵🏼,1F575-1F3FC,people-body,person-role,detective: medium-light skin tone,,,Lisa Thiel,2018-04-18,2,🕵️,1F575,2,1109
 🕵🏽,1F575-1F3FD,people-body,person-role,detective: medium skin tone,,,Lisa Thiel,2018-04-18,3,🕵️,1F575,2,1110
 🕵🏾,1F575-1F3FE,people-body,person-role,detective: medium-dark skin tone,,,Lisa Thiel,2018-04-18,4,🕵️,1F575,2,1111
 🕵🏿,1F575-1F3FF,people-body,person-role,detective: dark skin tone,,,Lisa Thiel,2018-04-18,5,🕵️,1F575,2,1112
+🕵️‍♂️,1F575-FE0F-200D-2642-FE0F,people-body,person-role,man detective,"detective, man, sleuth, spy",,Antonia Wagner,2019-05-03,,🕵️‍♂️,1F575-FE0F-200D-2642-FE0F,4,1113
+🕵🏻‍♂️,1F575-1F3FB-200D-2642-FE0F,people-body,person-role,man detective: light skin tone,,,Antonia Wagner,2019-05-03,1,🕵️‍♂️,1F575-FE0F-200D-2642-FE0F,4,1117
+🕵🏼‍♂️,1F575-1F3FC-200D-2642-FE0F,people-body,person-role,man detective: medium-light skin tone,,,Antonia Wagner,2019-05-03,2,🕵️‍♂️,1F575-FE0F-200D-2642-FE0F,4,1119
+🕵🏽‍♂️,1F575-1F3FD-200D-2642-FE0F,people-body,person-role,man detective: medium skin tone,,,Antonia Wagner,2019-05-03,3,🕵️‍♂️,1F575-FE0F-200D-2642-FE0F,4,1121
+🕵🏾‍♂️,1F575-1F3FE-200D-2642-FE0F,people-body,person-role,man detective: medium-dark skin tone,,,Antonia Wagner,2019-05-03,4,🕵️‍♂️,1F575-FE0F-200D-2642-FE0F,4,1123
+🕵🏿‍♂️,1F575-1F3FF-200D-2642-FE0F,people-body,person-role,man detective: dark skin tone,,,Antonia Wagner,2019-05-03,5,🕵️‍♂️,1F575-FE0F-200D-2642-FE0F,4,1125
+🕵️‍♀️,1F575-FE0F-200D-2640-FE0F,people-body,person-role,woman detective,"detective, sleuth, spy, woman",,Antonia Wagner,2019-05-03,,🕵️‍♀️,1F575-FE0F-200D-2640-FE0F,4,1127
+🕵🏻‍♀️,1F575-1F3FB-200D-2640-FE0F,people-body,person-role,woman detective: light skin tone,,,Antonia Wagner,2019-05-03,1,🕵️‍♀️,1F575-FE0F-200D-2640-FE0F,4,1131
+🕵🏼‍♀️,1F575-1F3FC-200D-2640-FE0F,people-body,person-role,woman detective: medium-light skin tone,,,Antonia Wagner,2019-05-03,2,🕵️‍♀️,1F575-FE0F-200D-2640-FE0F,4,1133
+🕵🏽‍♀️,1F575-1F3FD-200D-2640-FE0F,people-body,person-role,woman detective: medium skin tone,,,Antonia Wagner,2019-05-03,3,🕵️‍♀️,1F575-FE0F-200D-2640-FE0F,4,1135
+🕵🏾‍♀️,1F575-1F3FE-200D-2640-FE0F,people-body,person-role,woman detective: medium-dark skin tone,,,Antonia Wagner,2019-05-03,4,🕵️‍♀️,1F575-FE0F-200D-2640-FE0F,4,1137
+🕵🏿‍♀️,1F575-1F3FF-200D-2640-FE0F,people-body,person-role,woman detective: dark skin tone,,,Antonia Wagner,2019-05-03,5,🕵️‍♀️,1F575-FE0F-200D-2640-FE0F,4,1139
 💂,1F482,people-body,person-role,guard,guard,"guard, britain, great britain, queen, england, london, royal guard, furry hat guard, protection",Lisa Thiel,2018-04-18,,💂,1F482,1,1141
 💂🏻,1F482-1F3FB,people-body,person-role,guard: light skin tone,,,Lisa Thiel,2018-04-18,1,💂,1F482,2,1142
 💂🏼,1F482-1F3FC,people-body,person-role,guard: medium-light skin tone,,,Lisa Thiel,2018-04-18,2,💂,1F482,2,1143
 💂🏽,1F482-1F3FD,people-body,person-role,guard: medium skin tone,,,Lisa Thiel,2018-04-18,3,💂,1F482,2,1144
 💂🏾,1F482-1F3FE,people-body,person-role,guard: medium-dark skin tone,,,Lisa Thiel,2018-04-18,4,💂,1F482,2,1145
 💂🏿,1F482-1F3FF,people-body,person-role,guard: dark skin tone,,,Lisa Thiel,2018-04-18,5,💂,1F482,2,1146
+💂‍♂️,1F482-200D-2642-FE0F,people-body,person-role,man guard,"guard, man",,Antonia Wagner,2019-05-03,,💂‍♂️,1F482-200D-2642-FE0F,4,1147
+💂🏻‍♂️,1F482-1F3FB-200D-2642-FE0F,people-body,person-role,man guard: light skin tone,,,Antonia Wagner,2019-05-03,1,💂‍♂️,1F482-200D-2642-FE0F,4,1149
+💂🏼‍♂️,1F482-1F3FC-200D-2642-FE0F,people-body,person-role,man guard: medium-light skin tone,,,Antonia Wagner,2019-05-03,2,💂‍♂️,1F482-200D-2642-FE0F,4,1151
+💂🏽‍♂️,1F482-1F3FD-200D-2642-FE0F,people-body,person-role,man guard: medium skin tone,,,Antonia Wagner,2019-05-03,3,💂‍♂️,1F482-200D-2642-FE0F,4,1153
+💂🏾‍♂️,1F482-1F3FE-200D-2642-FE0F,people-body,person-role,man guard: medium-dark skin tone,,,Antonia Wagner,2019-05-03,4,💂‍♂️,1F482-200D-2642-FE0F,4,1155
+💂🏿‍♂️,1F482-1F3FF-200D-2642-FE0F,people-body,person-role,man guard: dark skin tone,,,Antonia Wagner,2019-05-03,5,💂‍♂️,1F482-200D-2642-FE0F,4,1157
+💂‍♀️,1F482-200D-2640-FE0F,people-body,person-role,woman guard,"guard, woman",,Antonia Wagner,2019-05-03,,💂‍♀️,1F482-200D-2640-FE0F,4,1159
+💂🏻‍♀️,1F482-1F3FB-200D-2640-FE0F,people-body,person-role,woman guard: light skin tone,,,Antonia Wagner,2019-05-03,1,💂‍♀️,1F482-200D-2640-FE0F,4,1161
+💂🏼‍♀️,1F482-1F3FC-200D-2640-FE0F,people-body,person-role,woman guard: medium-light skin tone,,,Antonia Wagner,2019-05-03,2,💂‍♀️,1F482-200D-2640-FE0F,4,1163
+💂🏽‍♀️,1F482-1F3FD-200D-2640-FE0F,people-body,person-role,woman guard: medium skin tone,,,Antonia Wagner,2019-05-03,3,💂‍♀️,1F482-200D-2640-FE0F,4,1165
+💂🏾‍♀️,1F482-1F3FE-200D-2640-FE0F,people-body,person-role,woman guard: medium-dark skin tone,,,Antonia Wagner,2019-05-03,4,💂‍♀️,1F482-200D-2640-FE0F,4,1167
+💂🏿‍♀️,1F482-1F3FF-200D-2640-FE0F,people-body,person-role,woman guard: dark skin tone,,,Antonia Wagner,2019-05-03,5,💂‍♀️,1F482-200D-2640-FE0F,4,1169
 👷,1F477,people-body,person-role,construction worker,"construction, hat, worker","construction, hat, worker, striped west, helmet",Lisa Thiel,2018-04-18,,👷,1F477,1,1171
 👷🏻,1F477-1F3FB,people-body,person-role,construction worker: light skin tone,,,Lisa Thiel,2018-04-18,1,👷,1F477,2,1172
 👷🏼,1F477-1F3FC,people-body,person-role,construction worker: medium-light skin tone,,,Lisa Thiel,2018-04-18,2,👷,1F477,2,1173
 👷🏽,1F477-1F3FD,people-body,person-role,construction worker: medium skin tone,,,Lisa Thiel,2018-04-18,3,👷,1F477,2,1174
 👷🏾,1F477-1F3FE,people-body,person-role,construction worker: medium-dark skin tone,,,Lisa Thiel,2018-04-18,4,👷,1F477,2,1175
 👷🏿,1F477-1F3FF,people-body,person-role,construction worker: dark skin tone,,,Lisa Thiel,2018-04-18,5,👷,1F477,2,1176
+👷‍♂️,1F477-200D-2642-FE0F,people-body,person-role,man construction worker,"construction, man, worker",,Antonia Wagner,2019-05-03,,👷‍♂️,1F477-200D-2642-FE0F,4,1177
+👷🏻‍♂️,1F477-1F3FB-200D-2642-FE0F,people-body,person-role,man construction worker: light skin tone,,,Antonia Wagner,2019-05-03,1,👷‍♂️,1F477-200D-2642-FE0F,4,1179
+👷🏼‍♂️,1F477-1F3FC-200D-2642-FE0F,people-body,person-role,man construction worker: medium-light skin tone,,,Antonia Wagner,2019-05-03,2,👷‍♂️,1F477-200D-2642-FE0F,4,1181
+👷🏽‍♂️,1F477-1F3FD-200D-2642-FE0F,people-body,person-role,man construction worker: medium skin tone,,,Antonia Wagner,2019-05-03,3,👷‍♂️,1F477-200D-2642-FE0F,4,1183
+👷🏾‍♂️,1F477-1F3FE-200D-2642-FE0F,people-body,person-role,man construction worker: medium-dark skin tone,,,Antonia Wagner,2019-05-03,4,👷‍♂️,1F477-200D-2642-FE0F,4,1185
+👷🏿‍♂️,1F477-1F3FF-200D-2642-FE0F,people-body,person-role,man construction worker: dark skin tone,,,Antonia Wagner,2019-05-03,5,👷‍♂️,1F477-200D-2642-FE0F,4,1187
+👷‍♀️,1F477-200D-2640-FE0F,people-body,person-role,woman construction worker,"construction, woman, worker",,Antonia Wagner,2019-05-03,,👷‍♀️,1F477-200D-2640-FE0F,4,1189
+👷🏻‍♀️,1F477-1F3FB-200D-2640-FE0F,people-body,person-role,woman construction worker: light skin tone,,,Antonia Wagner,2019-05-03,1,👷‍♀️,1F477-200D-2640-FE0F,4,1191
+👷🏼‍♀️,1F477-1F3FC-200D-2640-FE0F,people-body,person-role,woman construction worker: medium-light skin tone,,,Antonia Wagner,2019-05-03,2,👷‍♀️,1F477-200D-2640-FE0F,4,1193
+👷🏽‍♀️,1F477-1F3FD-200D-2640-FE0F,people-body,person-role,woman construction worker: medium skin tone,,,Antonia Wagner,2019-05-03,3,👷‍♀️,1F477-200D-2640-FE0F,4,1195
+👷🏾‍♀️,1F477-1F3FE-200D-2640-FE0F,people-body,person-role,woman construction worker: medium-dark skin tone,,,Antonia Wagner,2019-05-03,4,👷‍♀️,1F477-200D-2640-FE0F,4,1197
+👷🏿‍♀️,1F477-1F3FF-200D-2640-FE0F,people-body,person-role,woman construction worker: dark skin tone,,,Antonia Wagner,2019-05-03,5,👷‍♀️,1F477-200D-2640-FE0F,4,1199
 🤴,1F934,people-body,person-role,prince,prince,"prince, charming, crown, fairy tale, fantasy, pink",Lisa Thiel,2018-04-18,,🤴,1F934,3,1201
 🤴🏻,1F934-1F3FB,people-body,person-role,prince: light skin tone,,,Lisa Thiel,2018-04-18,1,🤴,1F934,3,1202
 🤴🏼,1F934-1F3FC,people-body,person-role,prince: medium-light skin tone,,,Lisa Thiel,2018-04-18,2,🤴,1F934,3,1203
@@ -712,6 +768,18 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👳🏽,1F473-1F3FD,people-body,person-role,person wearing turban: medium skin tone,,,Lisa Thiel,2018-04-18,3,👳,1F473,2,1216
 👳🏾,1F473-1F3FE,people-body,person-role,person wearing turban: medium-dark skin tone,,,Lisa Thiel,2018-04-18,4,👳,1F473,2,1217
 👳🏿,1F473-1F3FF,people-body,person-role,person wearing turban: dark skin tone,,,Lisa Thiel,2018-04-18,5,👳,1F473,2,1218
+👳‍♂️,1F473-200D-2642-FE0F,people-body,person-role,man wearing turban,"man, turban",,Antonia Wagner,2019-05-03,,👳‍♂️,1F473-200D-2642-FE0F,4,1219
+👳🏻‍♂️,1F473-1F3FB-200D-2642-FE0F,people-body,person-role,man wearing turban: light skin tone,,,Antonia Wagner,2019-05-03,1,👳‍♂️,1F473-200D-2642-FE0F,4,1221
+👳🏼‍♂️,1F473-1F3FC-200D-2642-FE0F,people-body,person-role,man wearing turban: medium-light skin tone,,,Antonia Wagner,2019-05-03,2,👳‍♂️,1F473-200D-2642-FE0F,4,1223
+👳🏽‍♂️,1F473-1F3FD-200D-2642-FE0F,people-body,person-role,man wearing turban: medium skin tone,,,Antonia Wagner,2019-05-03,3,👳‍♂️,1F473-200D-2642-FE0F,4,1225
+👳🏾‍♂️,1F473-1F3FE-200D-2642-FE0F,people-body,person-role,man wearing turban: medium-dark skin tone,,,Antonia Wagner,2019-05-03,4,👳‍♂️,1F473-200D-2642-FE0F,4,1227
+👳🏿‍♂️,1F473-1F3FF-200D-2642-FE0F,people-body,person-role,man wearing turban: dark skin tone,,,Antonia Wagner,2019-05-03,5,👳‍♂️,1F473-200D-2642-FE0F,4,1229
+👳‍♀️,1F473-200D-2640-FE0F,people-body,person-role,woman wearing turban,"turban, woman",,Antonia Wagner,2019-05-03,,👳‍♀️,1F473-200D-2640-FE0F,4,1231
+👳🏻‍♀️,1F473-1F3FB-200D-2640-FE0F,people-body,person-role,woman wearing turban: light skin tone,,,Antonia Wagner,2019-05-03,1,👳‍♀️,1F473-200D-2640-FE0F,4,1233
+👳🏼‍♀️,1F473-1F3FC-200D-2640-FE0F,people-body,person-role,woman wearing turban: medium-light skin tone,,,Antonia Wagner,2019-05-03,2,👳‍♀️,1F473-200D-2640-FE0F,4,1235
+👳🏽‍♀️,1F473-1F3FD-200D-2640-FE0F,people-body,person-role,woman wearing turban: medium skin tone,,,Antonia Wagner,2019-05-03,3,👳‍♀️,1F473-200D-2640-FE0F,4,1237
+👳🏾‍♀️,1F473-1F3FE-200D-2640-FE0F,people-body,person-role,woman wearing turban: medium-dark skin tone,,,Antonia Wagner,2019-05-03,4,👳‍♀️,1F473-200D-2640-FE0F,4,1239
+👳🏿‍♀️,1F473-1F3FF-200D-2640-FE0F,people-body,person-role,woman wearing turban: dark skin tone,,,Antonia Wagner,2019-05-03,5,👳‍♀️,1F473-200D-2640-FE0F,4,1241
 👲,1F472,people-body,person-role,man with Chinese cap,"gua pi mao, hat, man, man with chinese cap",,Anne Frauendorf,2018-11-16,,👲,1F472,1,1243
 👲🏻,1F472-1F3FB,people-body,person-role,man with Chinese cap: light skin tone,,,Anne Frauendorf,2018-11-16,1,👲,1F472,2,1244
 👲🏼,1F472-1F3FC,people-body,person-role,man with Chinese cap: medium-light skin tone,,,Anne Frauendorf,2018-11-16,2,👲,1F472,2,1245
