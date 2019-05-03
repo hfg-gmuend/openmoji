@@ -10,4 +10,9 @@ function createDoc(emoji) {
   return dom.window.document;
 }
 
+function getSrcFilepath(emoji) {
+  return path.join('./src', emoji.group, emoji.subgroups, emoji.hexcode + '.svg');
+}
+
+module.exports.getSrcFilepath = getSrcFilepath;
 module.exports.createDoc = createDoc;
