@@ -1241,6 +1241,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🍲,1F372,food-drink,food-prepared,pot of food,"pot, stew",,Miriam Vollmeier,2018-04-18,,,,1,2571
 🥣,1F963,food-drink,food-prepared,bowl with spoon,"breakfast, cereal, congee",,Guemil Project,2019-01-14,,,,5,2572
 🍿,1F37F,food-drink,food-prepared,popcorn,popcorn,,Miriam Vollmeier,2018-04-18,,,,1,2574
+🧈,1F9C8,food-drink,food-prepared,butter,dairy,,Evelyn Soos,2019-05-04,,,,12,2575
 🥫,1F96B,food-drink,food-prepared,canned food,can,,Daniel Quiros,2018-11-16,,,,5,2577
 🍱,1F371,food-drink,food-asian,bento box,"bento, box",,Miriam Vollmeier,2018-04-18,,,,1,2578
 🍘,1F358,food-drink,food-asian,rice cracker,"cracker, rice",,Miriam Vollmeier,2018-04-18,,,,1,2579
@@ -1258,6 +1259,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦀,1F980,food-drink,food-marine,crab,"cancer, zodiac","beach, sand, water",Selina Bauder,2018-04-18,,,,1,2595
 🦐,1F990,food-drink,food-marine,shrimp,"food, shellfish, small","swim, animal, water, food",Selina Bauder,2018-04-18,,,,3,2597
 🦑,1F991,food-drink,food-marine,squid,"food, molusc","swim, animal, water",Selina Bauder,2018-04-18,,,,3,2598
+🦪,1F9AA,food-drink,food-marine,oyster,"diving, pearl",,Evelyn Soos,2019-05-04,,,,12,2599
 🍦,1F366,food-drink,food-sweet,soft ice cream,"cream, dessert, ice, icecream, soft, sweet",,Miriam Vollmeier,2018-04-18,,,,1,2600
 🍧,1F367,food-drink,food-sweet,shaved ice,"dessert, ice, shaved, sweet",,Miriam Vollmeier,2018-04-18,,,,1,2601
 🍨,1F368,food-drink,food-sweet,ice cream,"cream, dessert, ice, sweet",,Miriam Vollmeier,2018-04-18,,,,1,2602
@@ -1285,6 +1287,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥂,1F942,food-drink,drink,clinking glasses,"celebrate, clink, drink, glass","party, secco,",Laura Humpfer,2018-04-18,,,,3,2625
 🥃,1F943,food-drink,drink,tumbler glass,"glass, liquor, shot, tumbler, whisky","alcohol, classic",Laura Humpfer,2018-04-18,,,,3,2626
 🥤,1F964,food-drink,drink,cup with straw,"juice, soda","beverage, fastfood",Laura Humpfer,2018-04-18,,,,5,2627
+🧃,1F9C3,food-drink,drink,beverage box,juice box,,Evelyn Soos,2019-05-04,,,,12,2628
+🧉,1F9C9,food-drink,drink,mate,drink,,Evelyn Soos,2019-05-04,,,,12,2629
+🧊,1F9CA,food-drink,drink,ice,"cold, ice cube, iceberg",,Evelyn Soos,2019-05-04,,,,12,2630
 🥢,1F962,food-drink,dishware,chopsticks,hashi,"sticks, eat, chopstick",Jonas Roßner,2018-04-18,,,,5,2631
 🍽️,1F37D,food-drink,dishware,fork and knife with plate,"cooking, fork, knife, plate",eat,Jonas Roßner,2018-04-18,,,,1,2633
 🍴,1F374,food-drink,dishware,fork and knife,"cooking, cutlery, fork, knife",eat,Jonas Roßner,2018-04-18,,,,1,2634
@@ -1331,6 +1336,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🗽,1F5FD,travel-places,place-building,Statue of Liberty,"liberty, statue, statue of liberty",,Louisa Mantsch,2018-11-16,,,,1,2690
 ⛪️,26EA,travel-places,place-religious,church,"christian, cross, religion","religious, pray, cross, building, god, mess, faith",Martin Wehl,2018-04-18,,,,1,2691
 🕌,1F54C,travel-places,place-religious,mosque,"islam, muslim, religion","religious, pray, building, god, faith",Martin Wehl,2018-04-18,,,,1,2692
+🛕,1F6D5,travel-places,place-religious,hindu temple,"hindu, temple",,Evelyn Soos,2019-05-04,,,,12,2693
 🕍,1F54D,travel-places,place-religious,synagogue,"jew, jewish, religion, temple","religious, pray, building, god, faith",Martin Wehl,2018-04-18,,,,1,2694
 ⛩️,26E9,travel-places,place-religious,shinto shrine,"religion, shinto, shrine","religious, pray, building, god, faith",Martin Wehl,2018-04-18,,,,1,2696
 🕋,1F54B,travel-places,place-religious,kaaba,"islam, muslim, religion","religious, pray, building, god, black, mecca, faith",Martin Wehl,2018-04-18,,,,1,2697
@@ -1378,6 +1384,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏎️,1F3CE,travel-places,transport-ground,racing car,"car, racing","sports, motor",Johanna Wellnitz,2018-04-18,,,,1,2745
 🏍️,1F3CD,travel-places,transport-ground,motorcycle,racing,"motorsports, vehicle",Johanna Wellnitz,2018-04-18,,,,1,2747
 🛵,1F6F5,travel-places,transport-ground,motor scooter,"motor, scooter","motor, scooter, transportation, bicycle,",Ronja Bäurlen,2018-04-18,,,,3,2748
+🦽,1F9BD,travel-places,transport-ground,manual wheelchair,accessibility,,Evelyn Soos,2019-05-04,,,,12,2749
+🦼,1F9BC,travel-places,transport-ground,motorized wheelchair,accessibility,,Evelyn Soos,2019-05-04,,,,12,2750
+🛺,1F6FA,travel-places,transport-ground,auto rickshaw,tuk tuk,,Evelyn Soos,2019-05-04,,,,12,2751
 🚲️,1F6B2,travel-places,transport-ground,bicycle,bike,"bike, vehicle, bicycle",Ronja Bäurlen,2018-04-18,,,,1,2752
 🛴,1F6F4,travel-places,transport-ground,kick scooter,"kick, scooter","kick, scooter, city roller",Ronja Bäurlen,2018-04-18,,,,3,2753
 🚏,1F68F,travel-places,transport-ground,bus stop,"bus, busstop, stop","station, stop, bus, traffic, travel, bus stop, departure, arrive",Ronja Bäurlen,2018-04-18,,,,1,2755
@@ -1401,6 +1410,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🛩️,1F6E9,travel-places,transport-air,small airplane,"aeroplane, airplane","fly, airplane, aeroplane, air, sky, travel, departure, arrive",Ronja Bäurlen,2018-04-18,,,,1,2782
 🛫,1F6EB,travel-places,transport-air,airplane departure,"aeroplane, airplane, check-in, departure, departures","fly, airplane, aeroplane, air, sky, travel, departure",Ronja Bäurlen,2018-04-18,,,,1,2783
 🛬,1F6EC,travel-places,transport-air,airplane arrival,"aeroplane, airplane, arrivals, arriving, landing","fly, airplane, aeroplane, air, sky, travel, arrive",Ronja Bäurlen,2018-04-18,,,,1,2784
+🪂,1FA82,travel-places,transport-air,parachute,"hang-glide, parasail, skydive",,Evelyn Soos,2019-05-04,,,,12,2785
 💺,1F4BA,travel-places,transport-air,seat,chair,"seat, chair, lounge, Airplane, sitting, comfort",Ronja Bäurlen,2018-04-18,,,,1,2786
 🚁,1F681,travel-places,transport-air,helicopter,vehicle,"helicopter, air, transportation, sky, fly, flying",Ronja Bäurlen,2018-04-18,,,,1,2787
 🚟,1F69F,travel-places,transport-air,suspension railway,"railway, suspension",,Lois Proksch,2018-11-16,,,,1,2788
@@ -1457,6 +1467,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ☀️,2600,travel-places,sky-weather,sun,"bright, rays, sunny","sun, sunrise, warm, sunbeams, feel good, beach, tanning, fire, fireball, hot, heavenly body",Vanessa Boutzikoudi,2018-04-18,,,,1,2847
 🌝,1F31D,travel-places,sky-weather,full moon face,"bright, face, full, moon","moon, full moon, night, stars, moonlight, disc, no clouds",Vanessa Boutzikoudi,2018-04-18,,,,1,2848
 🌞,1F31E,travel-places,sky-weather,sun with face,"bright, face, sun","sun, face, bright, sun, sunrise, warm, rays, beach, tanning, fire, fireball, hot, celestial bodies, star",Vanessa Boutzikoudi,2018-04-18,,,,1,2849
+🪐,1FA90,travel-places,sky-weather,ringed planet,"saturn, saturnine",,Evelyn Soos,2019-05-04,,,,12,2850
 ⭐️,2B50,travel-places,sky-weather,star,star,"star, shine, small planet, sky, yellow, sparkle, far away",Vanessa Boutzikoudi,2018-04-18,,,,1,2851
 🌟,1F31F,travel-places,sky-weather,glowing star,"glittery, glow, shining, sparkle, star","star, shine, glow, bright, sparkle, small planet, sky, yellow, far away, constellation, shooting star, milky way",Vanessa Boutzikoudi,2018-04-18,,,,1,2852
 🌠,1F320,travel-places,sky-weather,shooting star,"falling, shooting, star","shooting star, star, sparkle, shine, bright, far away, sky, star sky, night, wish, lightning",Vanessa Boutzikoudi,2018-04-18,,,,1,2853
@@ -1522,10 +1533,13 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ⛳️,26F3,activities,sport,flag in hole,"golf, hole","flag, golf, golf flag, golf hole with flag, sport, ball, goal",Vanessa Boutzikoudi,2018-04-18,,,,1,2946
 ⛸️,26F8,activities,sport,ice skate,"ice, skate",,Sarah Mager,2018-11-16,,,,1,2948
 🎣,1F3A3,activities,sport,fishing pole,"fish, pole","fishing rod, fishing pole, line, fish, caught, hobby",Vanessa Boutzikoudi,2018-04-18,,,,1,2949
+🤿,1F93F,activities,sport,diving mask,"diving, scuba, snorkeling",,Evelyn Soos,2019-05-04,,,,12,2950
 🎽,1F3BD,activities,sport,running shirt,"athletics, running, sash, shirt",,Sarah Mager,2018-11-16,,,,1,2951
 🎿,1F3BF,activities,sport,skis,"ski, snow","skis, Skiing, Ski Boot, to ski, winter, snow, hobby, sport",Vanessa Boutzikoudi,2018-04-18,,,,1,2952
 🥌,1F94C,activities,sport,curling stone,"game, rock",,Daniel Quiros,2018-11-16,,,,5,2954
 🎯,1F3AF,activities,game,direct hit,"bullseye, dart, game, hit, target","direct, hit, dart board, archery, bullseye, target, darts, game",Vanessa Boutzikoudi,2018-04-18,,,,1,2955
+🪀,1FA80,activities,game,yo-yo,"fluctuate, toy",,Evelyn Soos,2019-05-04,,,,12,2956
+🪁,1FA81,activities,game,kite,"fly, soar",,Evelyn Soos,2019-05-04,,,,12,2957
 🎱,1F3B1,activities,game,pool 8 ball,"8, ball, billiard, eight, game","pool ball, 8 Ball, black ball, cue ball, magic 8 ball, pool, snooker, billiards, game",Vanessa Boutzikoudi,2018-04-18,,,,1,2958
 🔮,1F52E,activities,game,crystal ball,"ball, crystal, fairy tale, fantasy, fortune, tool",mystery,Marius Schnabel,2018-04-18,,,,1,2959
 🎮️,1F3AE,activities,game,video game,"controller, game",gamble,Lisa Schulz,2018-04-18,,,,1,2961
@@ -1853,8 +1867,15 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🆘,1F198,symbols,alphanum,SOS button,"help, sos, sos button","emergency, warning",Jose Avila,2018-04-18,,,,1,3504
 🆚,1F19A,symbols,alphanum,VS button,"versus, vs, vs button",against,Jose Avila,2018-04-18,,,,1,3506
 🈂️,1F202,symbols,alphanum,Japanese “service charge” button,"japanese, japanese “service charge” button, katakana, “service charge”, サ",japanese,Jose Avila,2018-04-18,,,,1,3509
+🈲,1F232,symbols,alphanum,Japanese “prohibited” button,"ideograph, japanese, japanese “prohibited” button, “prohibited”, 禁",,Evelyn Soos,2019-05-04,,,,1,3517
+🉑,1F251,symbols,alphanum,Japanese “acceptable” button,"ideograph, japanese, japanese “acceptable” button, “acceptable”, 可",,Evelyn Soos,2019-05-04,,,,1,3518
+🈸,1F238,symbols,alphanum,Japanese “application” button,"ideograph, japanese, japanese “application” button, “application”, 申",,Evelyn Soos,2019-05-04,,,,1,3519
+🈴,1F234,symbols,alphanum,Japanese “passing grade” button,"ideograph, japanese, japanese “passing grade” button, “passing grade”, 合",,Evelyn Soos,2019-05-04,,,,1,3520
+🈳,1F233,symbols,alphanum,Japanese “vacancy” button,"ideograph, japanese, japanese “vacancy” button, “vacancy”, 空",,Evelyn Soos,2019-05-04,,,,1,3521
 ㊗️,3297,symbols,alphanum,Japanese “congratulations” button,"ideograph, japanese, japanese “congratulations” button, “congratulations”, 祝","japanese, compliments",Jose Avila,2018-04-18,,,,1,3523
 ㊙️,3299,symbols,alphanum,Japanese “secret” button,"ideograph, japanese, japanese “secret” button, “secret”, 秘","japanese, mysterious",Jose Avila,2018-04-18,,,,1,3525
+🈺,1F23A,symbols,alphanum,Japanese “open for business” button,"ideograph, japanese, japanese “open for business” button, “open for business”, 営",,Evelyn Soos,2019-05-04,,,,1,3526
+🈵,1F235,symbols,alphanum,Japanese “no vacancy” button,"ideograph, japanese, japanese “no vacancy” button, “no vacancy”, 満",,Evelyn Soos,2019-05-04,,,,1,3527
 🔺,1F53A,symbols,geometric,red triangle pointed up,"geometric, red",arrow,Lisa Schulz,2018-04-18,,,,1,3560
 🔻,1F53B,symbols,geometric,red triangle pointed down,"down, geometric, red",arrow,Lisa Schulz,2018-04-18,,,,1,3561
 🔘,1F518,symbols,geometric,radio button,"button, geometric, radio",,Lisa Schulz,2018-04-18,,,,1,3563

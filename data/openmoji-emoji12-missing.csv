@@ -182,32 +182,21 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧆,1F9C6,food-drink,food-prepared,falafel,"chickpea, meatball",,,,,,,12,2567
 🥘,1F958,food-drink,food-prepared,shallow pan of food,"casserole, food, paella, pan, shallow",,,,,,,3,2570
 🥗,1F957,food-drink,food-prepared,green salad,"food, green, salad",,,,,,,3,2573
-🧈,1F9C8,food-drink,food-prepared,butter,dairy,,,,,,,12,2575
 🧂,1F9C2,food-drink,food-prepared,salt,"condiment, shaker",,,,,,,11,2576
 🍛,1F35B,food-drink,food-asian,curry rice,"curry, rice",,,,,,,1,2582
 🥮,1F96E,food-drink,food-asian,moon cake,"autumn, festival, yuèbǐng",,,,,,,11,2590
 🥟,1F95F,food-drink,food-asian,dumpling,"empanada, gyōza, jiaozi, pierogi, potsticker",,,,,,,5,2592
 🥠,1F960,food-drink,food-asian,fortune cookie,prophecy,,,,,,,5,2593
 🦞,1F99E,food-drink,food-marine,lobster,"bisque, claws, seafood",,,,,,,11,2596
-🦪,1F9AA,food-drink,food-marine,oyster,"diving, pearl",,,,,,,12,2599
 🧁,1F9C1,food-drink,food-sweet,cupcake,"bakery, sweet",,,,,,,11,2607
-🧃,1F9C3,food-drink,drink,beverage box,juice box,,,,,,,12,2628
-🧉,1F9C9,food-drink,drink,mate,drink,,,,,,,12,2629
-🧊,1F9CA,food-drink,drink,ice,"cold, ice cube, iceberg",,,,,,,12,2630
 🧭,1F9ED,travel-places,place-map,compass,"magnetic, navigation, orienteering",,,,,,,11,2645
 🧱,1F9F1,travel-places,place-building,brick,"bricks, clay, mortar, wall",,,,,,,11,2668
-🛕,1F6D5,travel-places,place-religious,hindu temple,"hindu, temple",,,,,,,12,2693
 🌁,1F301,travel-places,place-other,foggy,fog,,,,,,,1,2700
 🌉,1F309,travel-places,place-other,bridge at night,"bridge, night",,,,,,,1,2708
 🚄,1F684,travel-places,transport-ground,high-speed train,"railway, shinkansen, speed, train",,,,,,,1,2718
-🦽,1F9BD,travel-places,transport-ground,manual wheelchair,accessibility,,,,,,,12,2749
-🦼,1F9BC,travel-places,transport-ground,motorized wheelchair,accessibility,,,,,,,12,2750
-🛺,1F6FA,travel-places,transport-ground,auto rickshaw,tuk tuk,,,,,,,12,2751
 🛹,1F6F9,travel-places,transport-ground,skateboard,board,,,,,,,11,2754
 🛶,1F6F6,travel-places,transport-water,canoe,boat,,,,,,,3,2770
-🪂,1FA82,travel-places,transport-air,parachute,"hang-glide, parasail, skydive",,,,,,,12,2785
 🧳,1F9F3,travel-places,hotel,luggage,"packing, travel",,,,,,,11,2797
-🪐,1FA90,travel-places,sky-weather,ringed planet,"saturn, saturnine",,,,,,,12,2850
 🌌,1F30C,travel-places,sky-weather,milky way,space,,,,,,,1,2854
 🌫️,1F32B,travel-places,sky-weather,fog,cloud,,,,,,,1,2875
 🎆,1F386,activities,event,fireworks,celebration,,,,,,,1,2899
@@ -222,10 +211,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥏,1F94F,activities,sport,flying disc,ultimate,,,,,,,11,2935
 🥍,1F94D,activities,sport,lacrosse,"ball, goal, stick",,,,,,,11,2940
 🥅,1F945,activities,sport,goal net,"goal, net",,,,,,,3,2945
-🤿,1F93F,activities,sport,diving mask,"diving, scuba, snorkeling",,,,,,,12,2950
 🛷,1F6F7,activities,sport,sled,"sledge, sleigh",,,,,,,5,2953
-🪀,1FA80,activities,game,yo-yo,"fluctuate, toy",,,,,,,12,2956
-🪁,1FA81,activities,game,kite,"fly, soar",,,,,,,12,2957
 🧿,1F9FF,activities,game,nazar amulet,"bead, charm, evil-eye, nazar, talisman",,,,,,,11,2960
 🎰,1F3B0,activities,game,slot machine,"game, slot",,,,,,,1,2964
 🧩,1F9E9,activities,game,puzzle piece,"clue, interlocking, jigsaw, piece, puzzle",,,,,,,11,2966
@@ -328,13 +314,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🉐,1F250,symbols,alphanum,Japanese “bargain” button,"ideograph, japanese, japanese “bargain” button, “bargain”, 得",,,,,,,1,3514
 🈹,1F239,symbols,alphanum,Japanese “discount” button,"ideograph, japanese, japanese “discount” button, “discount”, 割",,,,,,,1,3515
 🈚️,1F21A,symbols,alphanum,Japanese “free of charge” button,"ideograph, japanese, japanese “free of charge” button, “free of charge”, 無",,,,,,,1,3516
-🈲,1F232,symbols,alphanum,Japanese “prohibited” button,"ideograph, japanese, japanese “prohibited” button, “prohibited”, 禁",,,,,,,1,3517
-🉑,1F251,symbols,alphanum,Japanese “acceptable” button,"ideograph, japanese, japanese “acceptable” button, “acceptable”, 可",,,,,,,1,3518
-🈸,1F238,symbols,alphanum,Japanese “application” button,"ideograph, japanese, japanese “application” button, “application”, 申",,,,,,,1,3519
-🈴,1F234,symbols,alphanum,Japanese “passing grade” button,"ideograph, japanese, japanese “passing grade” button, “passing grade”, 合",,,,,,,1,3520
-🈳,1F233,symbols,alphanum,Japanese “vacancy” button,"ideograph, japanese, japanese “vacancy” button, “vacancy”, 空",,,,,,,1,3521
-🈺,1F23A,symbols,alphanum,Japanese “open for business” button,"ideograph, japanese, japanese “open for business” button, “open for business”, 営",,,,,,,1,3526
-🈵,1F235,symbols,alphanum,Japanese “no vacancy” button,"ideograph, japanese, japanese “no vacancy” button, “no vacancy”, 満",,,,,,,1,3527
 🔴,1F534,symbols,geometric,red circle,"circle, geometric, red",,,,,,,1,3528
 🟠,1F7E0,symbols,geometric,orange circle,"circle, orange",,,,,,,12,3529
 🟡,1F7E1,symbols,geometric,yellow circle,"circle, yellow",,,,,,,12,3530
