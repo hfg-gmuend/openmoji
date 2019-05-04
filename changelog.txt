@@ -6,6 +6,8 @@
 
 👉 OpenMoji 1.? - ???
 
+* Refactored source files to follow Emoji v12 categories
+
 + Added 25A1 "missing glyph"
 
 * Normalized "beautified" all svg source and production files
