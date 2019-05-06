@@ -7,7 +7,7 @@ Interested in contributing? Yay! Here are a few infos how the workflow typically
 * **Contribute an Emoji via Github and Pull Requests (Preferred)**
 * **Fix a Bug**
 * **How to Submit a Pull Request**
-* **Overview OpenMoji Repository**
+* **Developer Setup**
 
 
 ## 💌 Contribute an Emoji via Email and Sending .svg Files
@@ -72,18 +72,17 @@ If it's not on the issues list, add it. If it's already on the [issues](https://
 [Fork](https://help.github.com/articles/fork-a-repo/) the OpenMoji respository and create a ["PR" pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) from your fork. 
 
 
-## Overview OpenMoji Repository
+## Developer Setup
 
-`black/` and `color/` Contains all exported .png and .svg files.
+1. Install [node.js](https://nodejs.org) (see version in the file [`.nvmrc`](https://github.com/hfg-gmuend/openmoji/blob/master/.nvmrc#L1))
+2. Open Terminal and navigate over to the `openmoji` folder that you downloaded onto your computer:
 
-`data/` Contains the central openmoji.json with all meta informations for each emoji.
+```
+cd path/to/folder
+```
 
-`font/` Contains the exported OpenMoji fonts.
+3. Run:
 
-`guidelines/` Contains various template files related to the styleguide.
-
-`helpers/` Contains various helper scripts e.g. to export to .png and .svg, generate skintones varians, enforce the OpenMoji color palette ...
-
-`src/` Contains all source .svg files of OpenMoji. The files are broken up into folders and files corresponding with the Unicode groups and sub-groups.
-
-`test/` Automated unit tests to ensure consistency across all source .svg files.
+```
+npm install
+```
