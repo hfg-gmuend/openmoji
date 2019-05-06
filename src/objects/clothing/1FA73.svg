@@ -1,0 +1,23 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>1FA73</title>
+  <g id="grid">
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <path d="M36.6214,42.6711c-2.56,0-3.9347.7605-3.9347,1.8289s-2,6.4131-2,6.4131H16.625V18.9583h40V50.9131H42.5633s-2-5.3446-2-6.4131-1.3743-1.8289-3.9347-1.8289" fill="#d0cfce"/>
+    <rect x="17" y="18" width="39" height="6" fill="#3f3f3f"/>
+  </g>
+  <g id="line">
+    <path d="M36.6214,42.6711c-2.56,0-3.9347.7605-3.9347,1.8289s-2,6.4131-2,6.4131H16.625V17.9583h40V50.9131H42.5633s-2-5.3445-2-6.413-1.3743-1.8289-3.9347-1.8289Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M27.0438,26.328S26.6591,34,18.9562,39.7946" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M45.9562,26.328S46.3409,34,54.0438,39.7946" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="17" y1="24" x2="56" y2="24" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M34,29c2.0039-1.2821-.0281-3.2706,2-4" fill="#d0cfce" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path d="M40,30c-1.6822-1.6822-.9719-4.2706-3-5" fill="#d0cfce" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <circle cx="36.5" cy="25.5" r="0.5" fill="#d0cfce" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+  </g>
+</svg>

@@ -140,29 +140,14 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🎑,1F391,activities,event,moon viewing ceremony,"celebration, ceremony, moon",,,,,,,,1,2911
 🧧,1F9E7,activities,event,red envelope,"gift, good luck, hóngbāo, lai see, money",,,,,,,,11,2912
 🥎,1F94E,activities,sport,softball,"ball, glove, underarm",,,,,,,,11,2929
-🦺,1F9BA,objects,clothing,safety vest,"emergency, safety, vest",,,,,,,,12,2992
-🥻,1F97B,objects,clothing,sari,"clothing, dress",,,,,,,,12,3002
-🩱,1FA71,objects,clothing,one-piece swimsuit,bathing suit,,,,,,,,12,3003
-🩲,1FA72,objects,clothing,briefs,"bathing suit, one-piece, swimsuit, underwear",,,,,,,,12,3004
-🩳,1FA73,objects,clothing,shorts,"bathing suit, pants, underwear",,,,,,,,12,3005
-🩰,1FA70,objects,clothing,ballet shoes,"ballet, dance",,,,,,,,12,3020
-🪕,1FA95,objects,musical-instrument,banjo,"music, stringed",,,,,,,,12,3059
-🪔,1FA94,objects,light-video,diya lamp,"diya, lamp, oil",,,,,,,,12,3104
 🗞️,1F5DE,objects,book-paper,rolled-up newspaper,"news, newspaper, paper, rolled",,,,,,,,1,3119
 🧾,1F9FE,objects,money,receipt,"accounting, bookkeeping, evidence, proof",,,,,,,,11,3131
 📇,1F4C7,objects,office,card index,"card, index, rolodex",,,,,,,,1,3174
-🪓,1FA93,objects,tool,axe,"chop, hatchet, split, wood",,,,,,,,12,3202
-🦯,1F9AF,objects,tool,probing cane,"accessibility, blind",,,,,,,,12,3225
 🧰,1F9F0,objects,tool,toolbox,"chest, mechanic, tool",,,,,,,,11,3229
 🧲,1F9F2,objects,tool,magnet,"attraction, horseshoe, magnetic",,,,,,,,11,3230
 🧪,1F9EA,objects,science,test tube,"chemist, chemistry, experiment, lab, science",,,,,,,,11,3233
 🧫,1F9EB,objects,science,petri dish,"bacteria, biologist, biology, culture, lab",,,,,,,,11,3234
 🧬,1F9EC,objects,science,dna,"biologist, evolution, gene, genetics, life",,,,,,,,11,3235
-🩸,1FA78,objects,medical,drop of blood,"bleed, blood donation, injury, medicine, menstruation",,,,,,,,12,3240
-🩹,1FA79,objects,medical,adhesive bandage,bandage,,,,,,,,12,3242
-🩺,1FA7A,objects,medical,stethoscope,"doctor, heart, medicine",,,,,,,,12,3243
-🪑,1FA91,objects,household,chair,"seat, sit",,,,,,,,12,3249
-🪒,1FA92,objects,household,razor,"sharp, shave",,,,,,,,12,3253
 🧴,1F9F4,objects,household,lotion bottle,"lotion, moisturizer, shampoo, sunscreen",,,,,,,,11,3254
 🧷,1F9F7,objects,household,safety pin,"diaper, punk rock",,,,,,,,11,3255
 🧹,1F9F9,objects,household,broom,"cleaning, sweeping, witch",,,,,,,,11,3256
@@ -220,21 +205,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🈹,1F239,symbols,alphanum,Japanese “discount” button,"ideograph, japanese, japanese “discount” button, “discount”, 割",,,,,,,,1,3515
 🈚️,1F21A,symbols,alphanum,Japanese “free of charge” button,"ideograph, japanese, japanese “free of charge” button, “free of charge”, 無",,,,,,,,1,3516
 🔴,1F534,symbols,geometric,red circle,"circle, geometric, red",,,,,,,,1,3528
-🟠,1F7E0,symbols,geometric,orange circle,"circle, orange",,,,,,,,12,3529
-🟡,1F7E1,symbols,geometric,yellow circle,"circle, yellow",,,,,,,,12,3530
-🟢,1F7E2,symbols,geometric,green circle,"circle, green",,,,,,,,12,3531
 🔵,1F535,symbols,geometric,blue circle,"blue, circle, geometric",,,,,,,,1,3532
-🟣,1F7E3,symbols,geometric,purple circle,"circle, purple",,,,,,,,12,3533
-🟤,1F7E4,symbols,geometric,brown circle,"brown, circle",,,,,,,,12,3534
 ⚫️,26AB,symbols,geometric,black circle,"circle, geometric",,,,,,,,1,3535
 ⚪️,26AA,symbols,geometric,white circle,"circle, geometric",,,,,,,,1,3536
-🟥,1F7E5,symbols,geometric,red square,"red, square",,,,,,,,12,3537
-🟧,1F7E7,symbols,geometric,orange square,"orange, square",,,,,,,,12,3538
-🟨,1F7E8,symbols,geometric,yellow square,"square, yellow",,,,,,,,12,3539
-🟩,1F7E9,symbols,geometric,green square,"green, square",,,,,,,,12,3540
-🟦,1F7E6,symbols,geometric,blue square,"blue, square",,,,,,,,12,3541
-🟪,1F7EA,symbols,geometric,purple square,"purple, square",,,,,,,,12,3542
-🟫,1F7EB,symbols,geometric,brown square,"brown, square",,,,,,,,12,3543
 🔷,1F537,symbols,geometric,large blue diamond,"blue, diamond, geometric",,,,,,,,1,3557
 🔸,1F538,symbols,geometric,small orange diamond,"diamond, geometric, orange",,,,,,,,1,3558
 🔹,1F539,symbols,geometric,small blue diamond,"blue, diamond, geometric",,,,,,,,1,3559

@@ -1,22 +1,20 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>1F528</title>
   <g id="grid">
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
     <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <polygon fill="#A57939" points="36.8768,23.43 36.8479,41.5525 38.0503,45.1751 38.0252,60.8812 36.8171,60.8831 33.1926,60.8889 31.9844,60.8908 32.0094,45.1847 33.2234,41.5583 33.2523,23.4358" stroke="none"/>
-    <path fill="#9B9B9A" d="M28.7035,9.5998v9.8995h12.7279v-5.6569c0,0,8.4853,0,11.3137,2.8284c0,0-3.5355-6.364-11.3137-7.0711 S28.7035,9.5998,28.7035,9.5998z" stroke="none"/>
-    <path fill="#D0CFCE" d="M24.8899,10.4785L24.858,18.498l0,0c-1.1236,0.7516-2.5836,0.7574-3.7013,0.0147l0,0l0.0319-8.0195l0,0 C22.2148,9.467,23.8719,9.4604,24.8899,10.4785L24.8899,10.4785z" stroke="none"/>
+    <polygon points="37.877 21.43 37.848 43.552 39.05 47.175 39.025 62.881 37.817 62.883 34.193 62.889 32.984 62.891 33.009 47.185 34.223 43.558 34.252 21.436 37.877 21.43" fill="#a57939"/>
+    <path d="M29.7035,11.6v9.9H42.4314V15.8424s8.4853,0,11.3137,2.8284A15.1442,15.1442,0,0,0,42.4314,11.6,60.523,60.523,0,0,0,29.7035,11.6Z" fill="#9b9b9a"/>
+    <path d="M25.89,12.4785l-.0319,8.02h0a3.3363,3.3363,0,0,1-3.7013.0147h0l.0319-8.0195h0a2.6172,2.6172,0,0,1,3.7013-.0147Z" fill="#d0cfce"/>
   </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
   <g id="line">
-    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="36.8768,23.43 36.8479,41.5525 38.0503,45.1751 38.0252,60.8812 36.8171,60.8831 33.1926,60.8889 31.9844,60.8908 32.0094,45.1847 33.2234,41.5583 33.2523,23.4358"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M28.7035,9.5998v9.8995h12.7279v-5.6569c0,0,8.4853,0,11.3137,2.8284c0,0-3.5355-6.364-11.3137-7.0711 S28.7035,9.5998,28.7035,9.5998z"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M24.8899,10.4785L24.858,18.498l0,0c-1.1236,0.7516-2.5836,0.7574-3.7013,0.0147l0,0l0.0319-8.0195l0,0 C22.2148,9.467,23.8719,9.4604,24.8899,10.4785L24.8899,10.4785z"/>
+    <polygon points="37.877 21.5 37.848 43.552 39.05 47.175 39.025 62.881 37.817 62.883 34.193 62.889 32.984 62.891 33.009 47.185 34.223 43.558 34.252 21.5 37.877 21.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M29.7035,11.6v9.9H42.4314V15.8424s8.4853,0,11.3137,2.8284A15.1442,15.1442,0,0,0,42.4314,11.6,60.523,60.523,0,0,0,29.7035,11.6Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M25.89,12.4785l-.0319,8.02h0a3.3363,3.3363,0,0,1-3.7013.0147h0l.0319-8.0195h0a2.6172,2.6172,0,0,1,3.7013-.0147Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>

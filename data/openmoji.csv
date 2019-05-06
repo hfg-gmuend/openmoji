@@ -1903,6 +1903,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🕶️,1F576,objects,clothing,sunglasses,"dark, eye, eyewear, glasses",sunglasses,Jonas Roßner,2018-04-18,,,,,1,2989
 🥽,1F97D,objects,clothing,goggles,"eye protection, swimming, welding",,Laura Schießer,2019-05-06,,,,,11,2990
 🥼,1F97C,objects,clothing,lab coat,"doctor, experiment, scientist",,Laura Schießer,2019-05-06,,,,,11,2991
+🦺,1F9BA,objects,clothing,safety vest,"emergency, safety, vest",,Sam Eckert,2019-05-06,,,,,12,2992
 👔,1F454,objects,clothing,necktie,"clothing, tie","cravatte, smart",Jonas Roßner,2018-04-18,,,,,1,2993
 👕,1F455,objects,clothing,t-shirt,"clothing, shirt, tshirt",,Jonas Roßner,2018-04-18,,,,,1,2994
 👖,1F456,objects,clothing,jeans,"clothing, pants, trousers",,Jonas Roßner,2018-04-18,,,,,1,2995
@@ -1912,6 +1913,10 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧦,1F9E6,objects,clothing,socks,stocking,,Laura Schießer,2019-05-06,,,,,5,2999
 👗,1F457,objects,clothing,dress,clothing,"beautiful, dress, woman",Jonas Roßner,2018-04-18,,,,,1,3000
 👘,1F458,objects,clothing,kimono,clothing,"japan, clothing",Jonas Roßner,2018-04-18,,,,,1,3001
+🥻,1F97B,objects,clothing,sari,"clothing, dress",,Sam Eckert,2019-05-06,,,,,12,3002
+🩱,1FA71,objects,clothing,one-piece swimsuit,bathing suit,,Sam Eckert,2019-05-06,,,,,12,3003
+🩲,1FA72,objects,clothing,briefs,"bathing suit, one-piece, swimsuit, underwear",,Sam Eckert,2019-05-06,,,,,12,3004
+🩳,1FA73,objects,clothing,shorts,"bathing suit, pants, underwear",,Sam Eckert,2019-05-06,,,,,12,3005
 👙,1F459,objects,clothing,bikini,"clothing, swim","summer,",Jonas Roßner,2018-04-18,,,,,1,3006
 👚,1F45A,objects,clothing,woman’s clothes,"clothing, woman",,Jonas Roßner,2018-04-18,,,,,1,3007
 👛,1F45B,objects,clothing,purse,"clothing, coin","money,",Jonas Roßner,2018-04-18,,,,,1,3008
@@ -1925,6 +1930,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥿,1F97F,objects,clothing,flat shoe,"ballet flat, slip-on, slipper",,Laura Schießer,2019-05-06,,,,,11,3017
 👠,1F460,objects,clothing,high-heeled shoe,"clothing, heel, shoe, woman",,Jonas Roßner,2018-04-18,,,,,1,3018
 👡,1F461,objects,clothing,woman’s sandal,"clothing, sandal, shoe, woman",,Jonas Roßner,2018-04-18,,,,,1,3019
+🩰,1FA70,objects,clothing,ballet shoes,"ballet, dance",,Sam Eckert,2019-05-06,,,,,12,3020
 👢,1F462,objects,clothing,woman’s boot,"boot, clothing, shoe, woman",,Jonas Roßner,2018-04-18,,,,,1,3021
 👑,1F451,objects,clothing,crown,"clothing, king, queen","crone, gold,",Jonas Roßner,2018-04-18,,,,,1,3022
 👒,1F452,objects,clothing,woman’s hat,"clothing, hat, woman","beautiful,",Jonas Roßner,2018-04-18,,,,,1,3023
@@ -1959,6 +1965,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🎹,1F3B9,objects,musical-instrument,musical keyboard,"instrument, keyboard, music, piano","keyboard, piano keys, chords",Sina Schulz,2018-04-18,,,,,1,3056
 🎺,1F3BA,objects,musical-instrument,trumpet,"instrument, music","trumpet, horns, music, woodwind instrument",Sina Schulz,2018-04-18,,,,,1,3057
 🎻,1F3BB,objects,musical-instrument,violin,"instrument, music","string, violin, fiddle, bow",Sina Schulz,2018-04-18,,,,,1,3058
+🪕,1FA95,objects,musical-instrument,banjo,"music, stringed",,Sam Eckert,2019-05-06,,,,,12,3059
 🥁,1F941,objects,musical-instrument,drum,"drumsticks, music","drum, drumsticks, music, beat",Sina Schulz,2018-04-18,,,,,3,3060
 📱,1F4F1,objects,phone,mobile phone,"cell, mobile, phone, telephone","smartphone, message, voice, communication",Martin Wehl,2018-04-18,,,,,1,3061
 📲,1F4F2,objects,phone,mobile phone with arrow,"arrow, cell, mobile, phone, receive","voice, smartphone, message",Martin Wehl,2018-04-18,,,,,1,3062
@@ -1994,6 +2001,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💡,1F4A1,objects,light-video,light bulb,"bulb, comic, electric, idea, light","shine, light, bulb, power, on, electric, idea",Sina Schulz,2018-04-18,,,,,1,3101
 🔦,1F526,objects,light-video,flashlight,"electric, light, tool, torch","bright, shine, light, flashlight, gadget",Sina Schulz,2018-04-18,,,,,1,3102
 🏮,1F3EE,objects,light-video,red paper lantern,"bar, lantern, light, red",,Abby Esquivel,2018-11-16,,,,,1,3103
+🪔,1FA94,objects,light-video,diya lamp,"diya, lamp, oil",,Sam Eckert,2019-05-06,,,,,12,3104
 📔,1F4D4,objects,book-paper,notebook with decorative cover,"book, cover, decorated, notebook",,Abby Esquivel,2018-11-16,,,,,1,3105
 📕,1F4D5,objects,book-paper,closed book,"book, closed","book, read, write, closed",Jonas Roßner,2018-04-18,,,,,1,3106
 📖,1F4D6,objects,book-paper,open book,"book, open","book, read, write, open",Jonas Roßner,2018-04-18,,,,,1,3107
@@ -2069,6 +2077,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🔑,1F511,objects,lock,key,"lock, password",closing,Lisa Schulz,2018-04-18,,,,,1,3198
 🗝️,1F5DD,objects,lock,old key,"clue, key, lock, old",,Lisa Schulz,2018-04-18,,,,,1,3200
 🔨,1F528,objects,tool,hammer,tool,"toolbox, metal, wood",Hilda Kalyoncu,2018-04-18,,,,,1,3201
+🪓,1FA93,objects,tool,axe,"chop, hatchet, split, wood",,Sam Eckert,2019-05-06,,,,,12,3202
 ⛏️,26CF,objects,tool,pick,"mining, tool",weapon,Hilda Kalyoncu,2018-04-18,,,,,1,3204
 ⚒️,2692,objects,tool,hammer and pick,"hammer, pick, tool",,Marleen Heine,2018-11-16,,,,,1,3206
 🛠️,1F6E0,objects,tool,hammer and wrench,"hammer, spanner, tool, wrench","craft mans, logo",Hilda Kalyoncu,2018-04-18,,,,,1,3208
@@ -2082,6 +2091,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ⚙️,2699,objects,tool,gear,"cog, cogwheel, tool","tool, metal, silver",Hilda Kalyoncu,2018-04-18,,,,,1,3220
 🗜️,1F5DC,objects,tool,clamp,"compress, tool, vice",toolbox,Hilda Kalyoncu,2018-04-18,,,,,1,3222
 ⚖️,2696,objects,tool,balance scale,"balance, justice, libra, scale, zodiac",silver,Hilda Kalyoncu,2018-04-18,,,,,1,3224
+🦯,1F9AF,objects,tool,probing cane,"accessibility, blind",,Sam Eckert,2019-05-06,,,,,12,3225
 🔗,1F517,objects,tool,link,link,"silver, link",Hilda Kalyoncu,2018-04-18,,,,,1,3226
 ⛓️,26D3,objects,tool,chains,chain,"metal, silver",Hilda Kalyoncu,2018-04-18,,,,,1,3228
 ⚗️,2697,objects,science,alembic,"chemistry, tool",,Marleen Heine,2018-11-16,,,,,1,3232
@@ -2089,13 +2099,18 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🔭,1F52D,objects,science,telescope,"science, tool","stars, sky, space",Sina Schulz,2018-04-18,,,,,1,3237
 📡,1F4E1,objects,science,satellite antenna,"antenna, dish, satellite","signal, receive, radiation",Sina Schulz,2018-04-18,,,,,1,3238
 💉,1F489,objects,medical,syringe,"medicine, needle, shot, sick",health,Marius Schnabel,2018-04-18,,,,,1,3239
+🩸,1FA78,objects,medical,drop of blood,"bleed, blood donation, injury, medicine, menstruation",,Sam Eckert,2019-05-06,,,,,12,3240
 💊,1F48A,objects,medical,pill,"doctor, medicine, sick",health,Marius Schnabel,2018-04-18,,,,,1,3241
+🩹,1FA79,objects,medical,adhesive bandage,bandage,,Sam Eckert,2019-05-06,,,,,12,3242
+🩺,1FA7A,objects,medical,stethoscope,"doctor, heart, medicine",,Sam Eckert,2019-05-06,,,,,12,3243
 🚪,1F6AA,objects,household,door,door,,Lisa Schulz,2018-04-18,,,,,1,3244
 🛏️,1F6CF,objects,household,bed,"hotel, sleep",furniture,Lisa Schulz,2018-04-18,,,,,1,3246
 🛋️,1F6CB,objects,household,couch and lamp,"couch, hotel, lamp",furniture,Lisa Schulz,2018-04-18,,,,,1,3248
+🪑,1FA91,objects,household,chair,"seat, sit",,Sam Eckert,2019-05-06,,,,,12,3249
 🚽,1F6BD,objects,household,toilet,toilet,,Lisa Schulz,2018-04-18,,,,,1,3250
 🚿,1F6BF,objects,household,shower,water,wash,Lisa Schulz,2018-04-18,,,,,1,3251
 🛁,1F6C1,objects,household,bathtub,bath,"wash, water, foam",Lisa Schulz,2018-04-18,,,,,1,3252
+🪒,1FA92,objects,household,razor,"sharp, shave",,Sam Eckert,2019-05-06,,,,,12,3253
 🛒,1F6D2,objects,household,shopping cart,"cart, shopping, trolley",,Marius Schnabel,2018-04-18,,,,,3,3262
 🚬,1F6AC,objects,other-object,cigarette,smoking,"tobacco, smoke",Marius Schnabel,2018-04-18,,,,,1,3263
 ⚰️,26B0,objects,other-object,coffin,death,"funeral, dead",Marius Schnabel,2018-04-18,,,,,1,3265
@@ -2236,6 +2251,18 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ㊙️,3299,symbols,alphanum,Japanese “secret” button,"ideograph, japanese, japanese “secret” button, “secret”, 秘","japanese, mysterious",Jose Avila,2018-04-18,,,,,1,3525
 🈺,1F23A,symbols,alphanum,Japanese “open for business” button,"ideograph, japanese, japanese “open for business” button, “open for business”, 営",,Evelyn Soos,2019-05-04,,,,,1,3526
 🈵,1F235,symbols,alphanum,Japanese “no vacancy” button,"ideograph, japanese, japanese “no vacancy” button, “no vacancy”, 満",,Evelyn Soos,2019-05-04,,,,,1,3527
+🟠,1F7E0,symbols,geometric,orange circle,"circle, orange",,Sam Eckert,2019-05-06,,,,,12,3529
+🟡,1F7E1,symbols,geometric,yellow circle,"circle, yellow",,Sam Eckert,2019-05-06,,,,,12,3530
+🟢,1F7E2,symbols,geometric,green circle,"circle, green",,Sam Eckert,2019-05-06,,,,,12,3531
+🟣,1F7E3,symbols,geometric,purple circle,"circle, purple",,Sam Eckert,2019-05-06,,,,,12,3533
+🟤,1F7E4,symbols,geometric,brown circle,"brown, circle",,Sam Eckert,2019-05-06,,,,,12,3534
+🟥,1F7E5,symbols,geometric,red square,"red, square",,Sam Eckert,2019-05-06,,,,,12,3537
+🟧,1F7E7,symbols,geometric,orange square,"orange, square",,Sam Eckert,2019-05-06,,,,,12,3538
+🟨,1F7E8,symbols,geometric,yellow square,"square, yellow",,Sam Eckert,2019-05-06,,,,,12,3539
+🟩,1F7E9,symbols,geometric,green square,"green, square",,Sam Eckert,2019-05-06,,,,,12,3540
+🟦,1F7E6,symbols,geometric,blue square,"blue, square",,Sam Eckert,2019-05-06,,,,,12,3541
+🟪,1F7EA,symbols,geometric,purple square,"purple, square",,Sam Eckert,2019-05-06,,,,,12,3542
+🟫,1F7EB,symbols,geometric,brown square,"brown, square",,Sam Eckert,2019-05-06,,,,,12,3543
 ⬛️,2B1B,symbols,geometric,black large square,"geometric, square",,Laura Schießer,2019-05-06,,,,,1,3544
 ⬜️,2B1C,symbols,geometric,white large square,"geometric, square",,Laura Schießer,2019-05-06,,,,,1,3545
 ◼️,25FC,symbols,geometric,black medium square,"geometric, square",,Laura Schießer,2019-05-06,,,,,1,3547
