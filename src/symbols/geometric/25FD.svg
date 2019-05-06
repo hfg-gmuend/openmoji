@@ -1,0 +1,16 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>25FD</title>
+  <g id="grid">
+    <path d="M68,4.0209v64H4v-64H68m4-4H0v72H72v-72Z" fill="#b3b3b3"/>
+    <path d="M12.923,10.9792H59.0769A1.9231,1.9231,0,0,1,61,12.9022V59.0561a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0561V12.9022A1.923,1.923,0,0,1,12.923,10.9792Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4.0209" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4.0209" width="40" height="64" rx="2.2537" transform="translate(72.0209 0.0209) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36.0209" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <rect x="20.2643" y="20.2017" width="31.4714" height="31.4714" fill="#ffffff" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+  <g id="line">
+    <rect x="20.2643" y="20.2017" width="31.4714" height="31.4714" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,17 +1,11 @@
 emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,openmoji_date,skintone,skintone_combination,skintone_base_emoji,skintone_base_hexcode,unicode,order
 🥱,1F971,smileys-emotion,face-concerned,yawning face,"bored, tired, yawn",,,,,,,,12,88
-🧡,1F9E1,smileys-emotion,emotion,orange heart,orange,,,,,,,,5,133
 🤎,1F90E,smileys-emotion,emotion,brown heart,"brown, heart",,,,,,,,12,138
 🤍,1F90D,smileys-emotion,emotion,white heart,"heart, white",,,,,,,,12,140
 🤏,1F90F,people-body,hand-fingers-partial,pinching hand,small amount,,,,,single,🤏,1F90F,12,198
-💅,1F485,people-body,hand-prop,nail polish,"care, cosmetics, manicure, nail, polish",,,,,single,💅,1F485,1,346
 🦾,1F9BE,people-body,body-parts,mechanical arm,"accessibility, prosthetic",,,,,,,,12,364
 🦿,1F9BF,people-body,body-parts,mechanical leg,"accessibility, prosthetic",,,,,,,,12,365
-🦵,1F9B5,people-body,body-parts,leg,"kick, limb",,,,,single,🦵,1F9B5,11,366
-🦶,1F9B6,people-body,body-parts,foot,"kick, stomp",,,,,single,🦶,1F9B6,11,372
 🦻,1F9BB,people-body,body-parts,ear with hearing aid,"accessibility, hard of hearing",,,,,single,🦻,1F9BB,12,384
-🦷,1F9B7,people-body,body-parts,tooth,dentist,,,,,,,,11,397
-🦴,1F9B4,people-body,body-parts,bone,skeleton,,,,,,,,11,398
 👱‍♂️,1F471-200D-2642-FE0F,people-body,person,man: blond hair,"blond, blond-haired man, hair, man",,,,,single,👱‍♂️,1F471-200D-2642-FE0F,4,452
 👨‍🦰,1F468-200D-1F9B0,people-body,person,man: red hair,"adult, man, red hair",,,,,single,👨‍🦰,1F468-200D-1F9B0,11,464
 👨‍🦱,1F468-200D-1F9B1,people-body,person,man: curly hair,"adult, curly hair, man",,,,,single,👨‍🦱,1F468-200D-1F9B1,11,470
@@ -154,16 +148,10 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦧,1F9A7,animals-nature,animal-mammal,orangutan,ape,,,,,,,,12,2385
 🦮,1F9AE,animals-nature,animal-mammal,guide dog,"accessibility, blind, guide",,,,,,,,12,2388
 🐕‍🦺,1F415-200D-1F9BA,animals-nature,animal-mammal,service dog,"accessibility, assistance, dog, service",,,,,,,,12,2389
-🦝,1F99D,animals-nature,animal-mammal,raccoon,"curious, sly",,,,,,,,11,2393
-🦙,1F999,animals-nature,animal-mammal,llama,"alpaca, guanaco, vicuña, wool",,,,,,,,11,2418
-🦛,1F99B,animals-nature,animal-mammal,hippopotamus,hippo,,,,,,,,11,2422
 🦥,1F9A5,animals-nature,animal-mammal,sloth,"lazy, slow",,,,,,,,12,2436
 🦦,1F9A6,animals-nature,animal-mammal,otter,"fishing, playful",,,,,,,,12,2437
 🦨,1F9A8,animals-nature,animal-mammal,skunk,stink,,,,,,,,12,2438
-🦘,1F998,animals-nature,animal-mammal,kangaroo,"australia, joey, jump, marsupial",,,,,,,,11,2439
 🦡,1F9A1,animals-nature,animal-mammal,badger,"honey badger, pester",,,,,,,,11,2440
-🦢,1F9A2,animals-nature,animal-bird,swan,"bird, cygnet, ugly duckling",,,,,,,,11,2454
-🦚,1F99A,animals-nature,animal-bird,peacock,"bird, ostentatious, peahen, proud",,,,,,,,11,2457
 🦜,1F99C,animals-nature,animal-bird,parrot,"bird, pirate, talk",,,,,,,,11,2458
 🦟,1F99F,animals-nature,animal-bug,mosquito,"disease, fever, insect, malaria, virus",,,,,,,,11,2489
 🦠,1F9A0,animals-nature,animal-bug,microbe,"amoeba, bacteria, virus",,,,,,,,11,2490
@@ -225,18 +213,11 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🀄️,1F004,activities,game,mahjong red dragon,"game, mahjong, red",,,,,,,,1,2979
 🧵,1F9F5,activities,arts-crafts,thread,"needle, sewing, spool, string",,,,,,,,11,2985
 🧶,1F9F6,activities,arts-crafts,yarn,"ball, crochet, knit",,,,,,,,11,2986
-🥽,1F97D,objects,clothing,goggles,"eye protection, swimming, welding",,,,,,,,11,2990
-🥼,1F97C,objects,clothing,lab coat,"doctor, experiment, scientist",,,,,,,,11,2991
 🦺,1F9BA,objects,clothing,safety vest,"emergency, safety, vest",,,,,,,,12,2992
-🧣,1F9E3,objects,clothing,scarf,neck,,,,,,,,5,2996
-🧤,1F9E4,objects,clothing,gloves,hand,,,,,,,,5,2997
-🧦,1F9E6,objects,clothing,socks,stocking,,,,,,,,5,2999
 🥻,1F97B,objects,clothing,sari,"clothing, dress",,,,,,,,12,3002
 🩱,1FA71,objects,clothing,one-piece swimsuit,bathing suit,,,,,,,,12,3003
 🩲,1FA72,objects,clothing,briefs,"bathing suit, one-piece, swimsuit, underwear",,,,,,,,12,3004
 🩳,1FA73,objects,clothing,shorts,"bathing suit, pants, underwear",,,,,,,,12,3005
-🥾,1F97E,objects,clothing,hiking boot,"backpacking, boot, camping, hiking",,,,,,,,11,3016
-🥿,1F97F,objects,clothing,flat shoe,"ballet flat, slip-on, slipper",,,,,,,,11,3017
 🩰,1FA70,objects,clothing,ballet shoes,"ballet, dance",,,,,,,,12,3020
 🪕,1FA95,objects,musical-instrument,banjo,"music, stringed",,,,,,,,12,3059
 📟️,1F4DF,objects,phone,pager,pager,,,,,,,,1,3066
@@ -330,15 +311,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🟦,1F7E6,symbols,geometric,blue square,"blue, square",,,,,,,,12,3541
 🟪,1F7EA,symbols,geometric,purple square,"purple, square",,,,,,,,12,3542
 🟫,1F7EB,symbols,geometric,brown square,"brown, square",,,,,,,,12,3543
-⬛️,2B1B,symbols,geometric,black large square,"geometric, square",,,,,,,,1,3544
-⬜️,2B1C,symbols,geometric,white large square,"geometric, square",,,,,,,,1,3545
-◼️,25FC,symbols,geometric,black medium square,"geometric, square",,,,,,,,1,3547
-◻️,25FB,symbols,geometric,white medium square,"geometric, square",,,,,,,,1,3549
-◾️,25FE,symbols,geometric,black medium-small square,"geometric, square",,,,,,,,1,3550
-◽️,25FD,symbols,geometric,white medium-small square,"geometric, square",,,,,,,,1,3551
-▪️,25AA,symbols,geometric,black small square,"geometric, square",,,,,,,,1,3553
-▫️,25AB,symbols,geometric,white small square,"geometric, square",,,,,,,,1,3555
-🔶,1F536,symbols,geometric,large orange diamond,"diamond, geometric, orange",,,,,,,,1,3556
 🔷,1F537,symbols,geometric,large blue diamond,"blue, diamond, geometric",,,,,,,,1,3557
 🔸,1F538,symbols,geometric,small orange diamond,"diamond, geometric, orange",,,,,,,,1,3558
 🔹,1F539,symbols,geometric,small blue diamond,"blue, diamond, geometric",,,,,,,,1,3559

@@ -126,7 +126,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ❣️,2763,smileys-emotion,emotion,heart exclamation,"exclamation, mark, punctuation",,Laura Humpfer,2018-04-18,,,,,1,129
 💔,1F494,smileys-emotion,emotion,broken heart,"break, broken",heartbreak,Laura Humpfer,2018-04-18,,,,,1,130
 ❤️,2764,smileys-emotion,emotion,red heart,heart,"love, red",Laura Humpfer,2018-04-18,,,,,1,132
-🧡,1F9E1,smileys-emotion,emotion,orange heart,orange,,,,,,,,5,133
+🧡,1F9E1,smileys-emotion,emotion,orange heart,orange,,Laura Schießer,2019-05-06,,,,,5,133
 💛,1F49B,smileys-emotion,emotion,yellow heart,yellow,,Laura Humpfer,2018-04-18,,,,,1,134
 💚,1F49A,smileys-emotion,emotion,green heart,green,,Laura Humpfer,2018-04-18,,,,,1,135
 💙,1F499,smileys-emotion,emotion,blue heart,blue,,Laura Humpfer,2018-04-18,,,,,1,136
@@ -329,12 +329,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ✍🏽,270D-1F3FD,people-body,hand-prop,writing hand: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,✍️,270D,2,343
 ✍🏾,270D-1F3FE,people-body,hand-prop,writing hand: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,✍️,270D,2,344
 ✍🏿,270D-1F3FF,people-body,hand-prop,writing hand: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,✍️,270D,2,345
-💅,1F485,people-body,hand-prop,nail polish,"care, cosmetics, manicure, nail, polish",,,,,single,💅,1F485,1,346
-💅🏻,1F485-1F3FB,people-body,hand-prop,nail polish: light skin tone,,,,,1,single,💅,1F485,2,347
-💅🏼,1F485-1F3FC,people-body,hand-prop,nail polish: medium-light skin tone,,,,,2,single,💅,1F485,2,348
-💅🏽,1F485-1F3FD,people-body,hand-prop,nail polish: medium skin tone,,,,,3,single,💅,1F485,2,349
-💅🏾,1F485-1F3FE,people-body,hand-prop,nail polish: medium-dark skin tone,,,,,4,single,💅,1F485,2,350
-💅🏿,1F485-1F3FF,people-body,hand-prop,nail polish: dark skin tone,,,,,5,single,💅,1F485,2,351
+💅,1F485,people-body,hand-prop,nail polish,"care, cosmetics, manicure, nail, polish",,Laura Schießer,2019-05-06,,single,💅,1F485,1,346
+💅🏻,1F485-1F3FB,people-body,hand-prop,nail polish: light skin tone,,,Laura Schießer,2019-05-06,1,single,💅,1F485,2,347
+💅🏼,1F485-1F3FC,people-body,hand-prop,nail polish: medium-light skin tone,,,Laura Schießer,2019-05-06,2,single,💅,1F485,2,348
+💅🏽,1F485-1F3FD,people-body,hand-prop,nail polish: medium skin tone,,,Laura Schießer,2019-05-06,3,single,💅,1F485,2,349
+💅🏾,1F485-1F3FE,people-body,hand-prop,nail polish: medium-dark skin tone,,,Laura Schießer,2019-05-06,4,single,💅,1F485,2,350
+💅🏿,1F485-1F3FF,people-body,hand-prop,nail polish: dark skin tone,,,Laura Schießer,2019-05-06,5,single,💅,1F485,2,351
 🤳,1F933,people-body,hand-prop,selfie,"camera, phone","camera, phone",Julian Grüneberg,2018-04-18,,single,🤳,1F933,3,352
 🤳🏻,1F933-1F3FB,people-body,hand-prop,selfie: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,🤳,1F933,3,353
 🤳🏼,1F933-1F3FC,people-body,hand-prop,selfie: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,🤳,1F933,3,354
@@ -349,18 +349,18 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💪🏿,1F4AA-1F3FF,people-body,body-parts,flexed biceps: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,💪,1F4AA,2,363
 🦾,1F9BE,people-body,body-parts,mechanical arm,"accessibility, prosthetic",,,,,,,,12,364
 🦿,1F9BF,people-body,body-parts,mechanical leg,"accessibility, prosthetic",,,,,,,,12,365
-🦵,1F9B5,people-body,body-parts,leg,"kick, limb",,,,,single,🦵,1F9B5,11,366
-🦵🏻,1F9B5-1F3FB,people-body,body-parts,leg: light skin tone,,,,,1,single,🦵,1F9B5,11,367
-🦵🏼,1F9B5-1F3FC,people-body,body-parts,leg: medium-light skin tone,,,,,2,single,🦵,1F9B5,11,368
-🦵🏽,1F9B5-1F3FD,people-body,body-parts,leg: medium skin tone,,,,,3,single,🦵,1F9B5,11,369
-🦵🏾,1F9B5-1F3FE,people-body,body-parts,leg: medium-dark skin tone,,,,,4,single,🦵,1F9B5,11,370
-🦵🏿,1F9B5-1F3FF,people-body,body-parts,leg: dark skin tone,,,,,5,single,🦵,1F9B5,11,371
-🦶,1F9B6,people-body,body-parts,foot,"kick, stomp",,,,,single,🦶,1F9B6,11,372
-🦶🏻,1F9B6-1F3FB,people-body,body-parts,foot: light skin tone,,,,,1,single,🦶,1F9B6,11,373
-🦶🏼,1F9B6-1F3FC,people-body,body-parts,foot: medium-light skin tone,,,,,2,single,🦶,1F9B6,11,374
-🦶🏽,1F9B6-1F3FD,people-body,body-parts,foot: medium skin tone,,,,,3,single,🦶,1F9B6,11,375
-🦶🏾,1F9B6-1F3FE,people-body,body-parts,foot: medium-dark skin tone,,,,,4,single,🦶,1F9B6,11,376
-🦶🏿,1F9B6-1F3FF,people-body,body-parts,foot: dark skin tone,,,,,5,single,🦶,1F9B6,11,377
+🦵,1F9B5,people-body,body-parts,leg,"kick, limb",,Laura Schießer,2019-05-06,,single,🦵,1F9B5,11,366
+🦵🏻,1F9B5-1F3FB,people-body,body-parts,leg: light skin tone,,,Laura Schießer,2019-05-06,1,single,🦵,1F9B5,11,367
+🦵🏼,1F9B5-1F3FC,people-body,body-parts,leg: medium-light skin tone,,,Laura Schießer,2019-05-06,2,single,🦵,1F9B5,11,368
+🦵🏽,1F9B5-1F3FD,people-body,body-parts,leg: medium skin tone,,,Laura Schießer,2019-05-06,3,single,🦵,1F9B5,11,369
+🦵🏾,1F9B5-1F3FE,people-body,body-parts,leg: medium-dark skin tone,,,Laura Schießer,2019-05-06,4,single,🦵,1F9B5,11,370
+🦵🏿,1F9B5-1F3FF,people-body,body-parts,leg: dark skin tone,,,Laura Schießer,2019-05-06,5,single,🦵,1F9B5,11,371
+🦶,1F9B6,people-body,body-parts,foot,"kick, stomp",,Laura Schießer,2019-05-06,,single,🦶,1F9B6,11,372
+🦶🏻,1F9B6-1F3FB,people-body,body-parts,foot: light skin tone,,,Laura Schießer,2019-05-06,1,single,🦶,1F9B6,11,373
+🦶🏼,1F9B6-1F3FC,people-body,body-parts,foot: medium-light skin tone,,,Laura Schießer,2019-05-06,2,single,🦶,1F9B6,11,374
+🦶🏽,1F9B6-1F3FD,people-body,body-parts,foot: medium skin tone,,,Laura Schießer,2019-05-06,3,single,🦶,1F9B6,11,375
+🦶🏾,1F9B6-1F3FE,people-body,body-parts,foot: medium-dark skin tone,,,Laura Schießer,2019-05-06,4,single,🦶,1F9B6,11,376
+🦶🏿,1F9B6-1F3FF,people-body,body-parts,foot: dark skin tone,,,Laura Schießer,2019-05-06,5,single,🦶,1F9B6,11,377
 👂️,1F442,people-body,body-parts,ear,body,"ear, hear, listen",Julian Grüneberg,2018-04-18,,single,👂️,1F442,1,378
 👂🏻,1F442-1F3FB,people-body,body-parts,ear: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,👂️,1F442,2,379
 👂🏼,1F442-1F3FC,people-body,body-parts,ear: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,👂️,1F442,2,380
@@ -380,8 +380,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👃🏾,1F443-1F3FE,people-body,body-parts,nose: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,👃,1F443,2,394
 👃🏿,1F443-1F3FF,people-body,body-parts,nose: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,👃,1F443,2,395
 🧠,1F9E0,people-body,body-parts,brain,intelligent,"brain, intelligent, clever",Julian Grüneberg,2018-04-18,,,,,5,396
-🦷,1F9B7,people-body,body-parts,tooth,dentist,,,,,,,,11,397
-🦴,1F9B4,people-body,body-parts,bone,skeleton,,,,,,,,11,398
+🦷,1F9B7,people-body,body-parts,tooth,dentist,,Laura Schießer,2019-05-06,,,,,11,397
+🦴,1F9B4,people-body,body-parts,bone,skeleton,,Laura Schießer,2019-05-06,,,,,11,398
 👀,1F440,people-body,body-parts,eyes,"eye, face","eye, face, eyes",Julian Grüneberg,2018-04-18,,,,,1,399
 👁️,1F441,people-body,body-parts,eye,body,"eye, face",Julian Grüneberg,2018-04-18,,,,,1,401
 👅,1F445,people-body,body-parts,tongue,body,"tongue, kiss, lick, licking",Julian Grüneberg,2018-04-18,,,,,1,402
@@ -1774,7 +1774,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐩,1F429,animals-nature,animal-mammal,poodle,dog,,Anne Frauendorf,2018-11-16,,,,,1,2390
 🐺,1F43A,animals-nature,animal-mammal,wolf,face,"pack, wild, free, forest, dog",Sofie Ascherl,2018-04-18,,,,,1,2391
 🦊,1F98A,animals-nature,animal-mammal,fox,face,"smart, red, quick, intelligent",Sofie Ascherl,2018-04-18,,,,,3,2392
-🦝,1F99D,animals-nature,animal-mammal,raccoon,"curious, sly",,,,,,,,11,2393
+🦝,1F99D,animals-nature,animal-mammal,raccoon,"curious, sly",,Laura Schießer,2019-05-06,,,,,11,2393
 🐱,1F431,animals-nature,animal-mammal,cat face,"cat, face, pet","pet, kitty, kitten, miau",Sofie Ascherl,2018-04-18,,,,,1,2394
 🐈️,1F408,animals-nature,animal-mammal,cat,pet,"pet, kitty, kitten, miau",Sofie Ascherl,2018-04-18,,,,,1,2395
 🦁,1F981,animals-nature,animal-mammal,lion,"face, leo, zodiac","king, simba, royal, wild, cat",Sofie Ascherl,2018-04-18,,,,,1,2396
@@ -1799,11 +1799,11 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐐,1F410,animals-nature,animal-mammal,goat,"capricorn, zodiac","horns, farm, milk, cheese",Sofie Ascherl,2018-04-18,,,,,1,2415
 🐪,1F42A,animals-nature,animal-mammal,camel,"dromedary, hump","desert, oasis, sahara, sun, hot, hump",Sofie Ascherl,2018-04-18,,,,,1,2416
 🐫,1F42B,animals-nature,animal-mammal,two-hump camel,"bactrian, camel, hump","desert, oasis, sahara, sun, hot, hump",Sofie Ascherl,2018-04-18,,,,,1,2417
-🦙,1F999,animals-nature,animal-mammal,llama,"alpaca, guanaco, vicuña, wool",,,,,,,,11,2418
+🦙,1F999,animals-nature,animal-mammal,llama,"alpaca, guanaco, vicuña, wool",,Laura Schießer,2019-05-06,,,,,11,2418
 🦒,1F992,animals-nature,animal-mammal,giraffe,spots,"long, neck, trees, big",Sofie Ascherl,2018-04-18,,,,,5,2419
 🐘,1F418,animals-nature,animal-mammal,elephant,elephant,"big, wrinkles, trunk, töröö",Sofie Ascherl,2018-04-18,,,,,1,2420
 🦏,1F98F,animals-nature,animal-mammal,rhinoceros,rhinoceros,"rhino, horn, africa",Sofie Ascherl,2018-04-18,,,,,3,2421
-🦛,1F99B,animals-nature,animal-mammal,hippopotamus,hippo,,,,,,,,11,2422
+🦛,1F99B,animals-nature,animal-mammal,hippopotamus,hippo,,Laura Schießer,2019-05-06,,,,,11,2422
 🐭,1F42D,animals-nature,animal-mammal,mouse face,"face, mouse","cute, whiskers, tiny, rodent",Sofie Ascherl,2018-04-18,,,,,1,2423
 🐁,1F401,animals-nature,animal-mammal,mouse,mouse,"small, cute, whiskers, tiny, rodent",Sofie Ascherl,2018-04-18,,,,,1,2424
 🐀,1F400,animals-nature,animal-mammal,rat,rat,"rodent, plaque, fleas, canal, garbage",Sofie Ascherl,2018-04-18,,,,,1,2425
@@ -1819,7 +1819,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦥,1F9A5,animals-nature,animal-mammal,sloth,"lazy, slow",,,,,,,,12,2436
 🦦,1F9A6,animals-nature,animal-mammal,otter,"fishing, playful",,,,,,,,12,2437
 🦨,1F9A8,animals-nature,animal-mammal,skunk,stink,,,,,,,,12,2438
-🦘,1F998,animals-nature,animal-mammal,kangaroo,"australia, joey, jump, marsupial",,,,,,,,11,2439
+🦘,1F998,animals-nature,animal-mammal,kangaroo,"australia, joey, jump, marsupial",,Laura Schießer,2019-05-06,,,,,11,2439
 🦡,1F9A1,animals-nature,animal-mammal,badger,"honey badger, pester",,,,,,,,11,2440
 🐾,1F43E,animals-nature,animal-mammal,paw prints,"feet, paw, print","paws, feet, pet, animal",Sofie Ascherl,2018-04-18,,,,,1,2441
 🦃,1F983,animals-nature,animal-bird,turkey,bird,,Selina Bauder,2018-04-18,,,,,1,2442
@@ -1833,10 +1833,10 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🕊️,1F54A,animals-nature,animal-bird,dove,"bird, fly, peace",fly,Selina Bauder,2018-04-18,,,,,1,2451
 🦅,1F985,animals-nature,animal-bird,eagle,bird,fly,Selina Bauder,2018-04-18,,,,,3,2452
 🦆,1F986,animals-nature,animal-bird,duck,bird,"water, fly",Selina Bauder,2018-04-18,,,,,3,2453
-🦢,1F9A2,animals-nature,animal-bird,swan,"bird, cygnet, ugly duckling",,,,,,,,11,2454
+🦢,1F9A2,animals-nature,animal-bird,swan,"bird, cygnet, ugly duckling",,Laura Schießer,2019-05-06,,,,,11,2454
 🦉,1F989,animals-nature,animal-bird,owl,"bird, wise",,Selina Bauder,2018-04-18,,,,,3,2455
 🦩,1F9A9,animals-nature,animal-bird,flamingo,"flamboyant, tropical",flamingo,Mariella Steeb,2018-04-18,,,,,12,2456
-🦚,1F99A,animals-nature,animal-bird,peacock,"bird, ostentatious, peahen, proud",,,,,,,,11,2457
+🦚,1F99A,animals-nature,animal-bird,peacock,"bird, ostentatious, peahen, proud",,Laura Schießer,2019-05-06,,,,,11,2457
 🦜,1F99C,animals-nature,animal-bird,parrot,"bird, pirate, talk",,,,,,,,11,2458
 🐸,1F438,animals-nature,animal-amphibian,frog,face,"jump, green",Selina Bauder,2018-04-18,,,,,1,2459
 🐊,1F40A,animals-nature,animal-reptile,crocodile,crocodile,dinosaur,Selina Bauder,2018-04-18,,,,,1,2460
@@ -2302,16 +2302,16 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧶,1F9F6,activities,arts-crafts,yarn,"ball, crochet, knit",,,,,,,,11,2986
 👓️,1F453,objects,clothing,glasses,"clothing, eye, eyeglasses, eyewear",,Jonas Roßner,2018-04-18,,,,,1,2987
 🕶️,1F576,objects,clothing,sunglasses,"dark, eye, eyewear, glasses",sunglasses,Jonas Roßner,2018-04-18,,,,,1,2989
-🥽,1F97D,objects,clothing,goggles,"eye protection, swimming, welding",,,,,,,,11,2990
-🥼,1F97C,objects,clothing,lab coat,"doctor, experiment, scientist",,,,,,,,11,2991
+🥽,1F97D,objects,clothing,goggles,"eye protection, swimming, welding",,Laura Schießer,2019-05-06,,,,,11,2990
+🥼,1F97C,objects,clothing,lab coat,"doctor, experiment, scientist",,Laura Schießer,2019-05-06,,,,,11,2991
 🦺,1F9BA,objects,clothing,safety vest,"emergency, safety, vest",,,,,,,,12,2992
 👔,1F454,objects,clothing,necktie,"clothing, tie","cravatte, smart",Jonas Roßner,2018-04-18,,,,,1,2993
 👕,1F455,objects,clothing,t-shirt,"clothing, shirt, tshirt",,Jonas Roßner,2018-04-18,,,,,1,2994
 👖,1F456,objects,clothing,jeans,"clothing, pants, trousers",,Jonas Roßner,2018-04-18,,,,,1,2995
-🧣,1F9E3,objects,clothing,scarf,neck,,,,,,,,5,2996
-🧤,1F9E4,objects,clothing,gloves,hand,,,,,,,,5,2997
+🧣,1F9E3,objects,clothing,scarf,neck,,Laura Schießer,2019-05-06,,,,,5,2996
+🧤,1F9E4,objects,clothing,gloves,hand,,Laura Schießer,2019-05-06,,,,,5,2997
 🧥,1F9E5,objects,clothing,coat,jacket,,Daniel Quiros,2018-11-16,,,,,5,2998
-🧦,1F9E6,objects,clothing,socks,stocking,,,,,,,,5,2999
+🧦,1F9E6,objects,clothing,socks,stocking,,Laura Schießer,2019-05-06,,,,,5,2999
 👗,1F457,objects,clothing,dress,clothing,"beautiful, dress, woman",Jonas Roßner,2018-04-18,,,,,1,3000
 👘,1F458,objects,clothing,kimono,clothing,"japan, clothing",Jonas Roßner,2018-04-18,,,,,1,3001
 🥻,1F97B,objects,clothing,sari,"clothing, dress",,,,,,,,12,3002
@@ -2327,8 +2327,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🎒,1F392,objects,clothing,backpack,"bag, rucksack, satchel, school","young,",Jonas Roßner,2018-04-18,,,,,1,3013
 👞,1F45E,objects,clothing,man’s shoe,"clothing, man, shoe",,Jonas Roßner,2018-04-18,,,,,1,3014
 👟,1F45F,objects,clothing,running shoe,"athletic, clothing, shoe, sneaker",,Jonas Roßner,2018-04-18,,,,,1,3015
-🥾,1F97E,objects,clothing,hiking boot,"backpacking, boot, camping, hiking",,,,,,,,11,3016
-🥿,1F97F,objects,clothing,flat shoe,"ballet flat, slip-on, slipper",,,,,,,,11,3017
+🥾,1F97E,objects,clothing,hiking boot,"backpacking, boot, camping, hiking",,Laura Schießer,2019-05-06,,,,,11,3016
+🥿,1F97F,objects,clothing,flat shoe,"ballet flat, slip-on, slipper",,Laura Schießer,2019-05-06,,,,,11,3017
 👠,1F460,objects,clothing,high-heeled shoe,"clothing, heel, shoe, woman",,Jonas Roßner,2018-04-18,,,,,1,3018
 👡,1F461,objects,clothing,woman’s sandal,"clothing, sandal, shoe, woman",,Jonas Roßner,2018-04-18,,,,,1,3019
 🩰,1FA70,objects,clothing,ballet shoes,"ballet, dance",,,,,,,,12,3020
@@ -2732,15 +2732,15 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🟦,1F7E6,symbols,geometric,blue square,"blue, square",,,,,,,,12,3541
 🟪,1F7EA,symbols,geometric,purple square,"purple, square",,,,,,,,12,3542
 🟫,1F7EB,symbols,geometric,brown square,"brown, square",,,,,,,,12,3543
-⬛️,2B1B,symbols,geometric,black large square,"geometric, square",,,,,,,,1,3544
-⬜️,2B1C,symbols,geometric,white large square,"geometric, square",,,,,,,,1,3545
-◼️,25FC,symbols,geometric,black medium square,"geometric, square",,,,,,,,1,3547
-◻️,25FB,symbols,geometric,white medium square,"geometric, square",,,,,,,,1,3549
-◾️,25FE,symbols,geometric,black medium-small square,"geometric, square",,,,,,,,1,3550
-◽️,25FD,symbols,geometric,white medium-small square,"geometric, square",,,,,,,,1,3551
-▪️,25AA,symbols,geometric,black small square,"geometric, square",,,,,,,,1,3553
-▫️,25AB,symbols,geometric,white small square,"geometric, square",,,,,,,,1,3555
-🔶,1F536,symbols,geometric,large orange diamond,"diamond, geometric, orange",,,,,,,,1,3556
+⬛️,2B1B,symbols,geometric,black large square,"geometric, square",,Laura Schießer,2019-05-06,,,,,1,3544
+⬜️,2B1C,symbols,geometric,white large square,"geometric, square",,Laura Schießer,2019-05-06,,,,,1,3545
+◼️,25FC,symbols,geometric,black medium square,"geometric, square",,Laura Schießer,2019-05-06,,,,,1,3547
+◻️,25FB,symbols,geometric,white medium square,"geometric, square",,Laura Schießer,2019-05-06,,,,,1,3549
+◾️,25FE,symbols,geometric,black medium-small square,"geometric, square",,Laura Schießer,2019-05-06,,,,,1,3550
+◽️,25FD,symbols,geometric,white medium-small square,"geometric, square",,Laura Schießer,2019-05-06,,,,,1,3551
+▪️,25AA,symbols,geometric,black small square,"geometric, square",,Laura Schießer,2019-05-06,,,,,1,3553
+▫️,25AB,symbols,geometric,white small square,"geometric, square",,Laura Schießer,2019-05-06,,,,,1,3555
+🔶,1F536,symbols,geometric,large orange diamond,"diamond, geometric, orange",,Laura Schießer,2019-05-06,,,,,1,3556
 🔷,1F537,symbols,geometric,large blue diamond,"blue, diamond, geometric",,,,,,,,1,3557
 🔸,1F538,symbols,geometric,small orange diamond,"diamond, geometric, orange",,,,,,,,1,3558
 🔹,1F539,symbols,geometric,small blue diamond,"blue, diamond, geometric",,,,,,,,1,3559
