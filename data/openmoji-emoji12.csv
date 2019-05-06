@@ -2558,7 +2558,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📵,1F4F5,symbols,warning,no mobile phones,"cell, forbidden, mobile, no, phone",,Miriam Vollmeier,2018-04-18,,,,,1,3292
 🔞,1F51E,symbols,warning,no one under eighteen,"18, age restriction, eighteen, prohibited, underage",,Miriam Vollmeier,2018-04-18,,,,,1,3293
 ☢️,2622,symbols,warning,radioactive,sign,,Vincent Seitz,2018-11-16,,,,,1,3295
-☣️,2623,symbols,warning,biohazard,sign,,,,,,,,1,3297
+☣️,2623,symbols,warning,biohazard,sign,,Selina Lange,2019-05-06,,,,,1,3297
 ⬆️,2B06,symbols,arrow,up arrow,"arrow, cardinal, direction, north","up, above",Guemil Project,2019-01-14,,,,,1,3299
 ↗️,2197,symbols,arrow,up-right arrow,"arrow, direction, intercardinal, northeast","diagonal, right up",Guemil Project,2019-01-14,,,,,1,3301
 ➡️,27A1,symbols,arrow,right arrow,"arrow, cardinal, direction, east","right, soon, future",Guemil Project,2019-01-14,,,,,1,3303
@@ -2596,7 +2596,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ♉️,2649,symbols,zodiac,Taurus,"bull, ox, taurus, zodiac",,Sina Chlod,2018-11-16,,,,,1,3355
 ♊️,264A,symbols,zodiac,Gemini,"gemini, twins, zodiac",,Sina Chlod,2018-11-16,,,,,1,3356
 ♋️,264B,symbols,zodiac,Cancer,"cancer, crab, zodiac",,Sina Chlod,2018-11-16,,,,,1,3357
-♌️,264C,symbols,zodiac,Leo,"leo, lion, zodiac",,,,,,,,1,3358
+♌️,264C,symbols,zodiac,Leo,"leo, lion, zodiac",,Selina Lange,2019-05-06,,,,,1,3358
 ♍️,264D,symbols,zodiac,Virgo,"virgo, zodiac",,Sina Chlod,2018-11-16,,,,,1,3359
 ♎️,264E,symbols,zodiac,Libra,"balance, justice, libra, scales, zodiac",,Sina Chlod,2018-11-16,,,,,1,3360
 ♏️,264F,symbols,zodiac,Scorpio,"scorpio, scorpion, scorpius, zodiac",,Sina Chlod,2018-11-16,,,,,1,3361
@@ -2632,12 +2632,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ♀️,2640,symbols,gender,female sign,woman,"woman, sign, gender",Hilda Kalyoncu,2018-04-18,,,,,4,3401
 ♂️,2642,symbols,gender,male sign,man,"man, sign, gender",Hilda Kalyoncu,2018-04-18,,,,,4,3403
 ⚕️,2695,symbols,other-symbol,medical symbol,"aesculapius, medicine, staff","medical, staff",Hilda Kalyoncu,2018-04-18,,,,,4,3405
-♾️,267E,symbols,other-symbol,infinity,"forever, unbounded, universal",,,,,,,,11,3407
+♾️,267E,symbols,other-symbol,infinity,"forever, unbounded, universal",,Selina Lange,2019-05-06,,,,,11,3407
 ♻️,267B,symbols,other-symbol,recycling symbol,recycle,"recycle, nature",Hilda Kalyoncu,2018-04-18,,,,,1,3409
-⚜️,269C,symbols,other-symbol,fleur-de-lis,fleur-de-lis,,,,,,,,1,3411
+⚜️,269C,symbols,other-symbol,fleur-de-lis,fleur-de-lis,,Selina Lange,2019-05-06,,,,,1,3411
 🔱,1F531,symbols,other-symbol,trident emblem,"anchor, emblem, ship, tool, trident","trident, emblem",Hilda Kalyoncu,2018-04-18,,,,,1,3412
-📛,1F4DB,symbols,other-symbol,name badge,"badge, name",,,,,,,,1,3413
-🔰,1F530,symbols,other-symbol,Japanese symbol for beginner,"beginner, chevron, japanese, japanese symbol for beginner, leaf",,,,,,,,1,3414
+📛,1F4DB,symbols,other-symbol,name badge,"badge, name",,Selina Lange,2019-05-06,,,,,1,3413
+🔰,1F530,symbols,other-symbol,Japanese symbol for beginner,"beginner, chevron, japanese, japanese symbol for beginner, leaf",,Selina Lange,2019-05-06,,,,,1,3414
 ⭕️,2B55,symbols,other-symbol,hollow red circle,"circle, large, o, red","circle, red",Hilda Kalyoncu,2018-04-18,,,,,1,3415
 ✅,2705,symbols,other-symbol,check mark button,"button, check, mark, ✓","check, mark, white, right",Hilda Kalyoncu,2018-04-18,,,,,1,3416
 ☑️,2611,symbols,other-symbol,check box with check,"box, check, ✓","check, right, box",Hilda Kalyoncu,2018-04-18,,,,,1,3418
@@ -2648,14 +2648,14 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ➕,2795,symbols,other-symbol,plus sign,"+, math, plus, sign","math, plus, sign",Hilda Kalyoncu,2018-04-18,,,,,1,3425
 ➖,2796,symbols,other-symbol,minus sign,"-, math, minus, sign, −","math, minus, sign",Hilda Kalyoncu,2018-04-18,,,,,1,3426
 ➗,2797,symbols,other-symbol,division sign,"division, math, sign, ÷","math, division, sign",Hilda Kalyoncu,2018-04-18,,,,,1,3427
-➰,27B0,symbols,other-symbol,curly loop,"curl, loop",,,,,,,,1,3428
-➿,27BF,symbols,other-symbol,double curly loop,"curl, double, loop",,,,,,,,1,3429
-〽️,303D,symbols,other-symbol,part alternation mark,"mark, part",,,,,,,,1,3431
-✳️,2733,symbols,other-symbol,eight-spoked asterisk,"*, asterisk",,,,,,,,1,3433
-✴️,2734,symbols,other-symbol,eight-pointed star,"*, star",,,,,,,,1,3435
-❇️,2747,symbols,other-symbol,sparkle,*,,,,,,,,1,3437
-‼️,203C,symbols,other-symbol,double exclamation mark,"!, !!, bangbang, exclamation, mark",,,,,,,,1,3439
-⁉️,2049,symbols,other-symbol,exclamation question mark,"!, !?, ?, exclamation, interrobang, mark, punctuation, question",,,,,,,,1,3441
+➰,27B0,symbols,other-symbol,curly loop,"curl, loop",,Selina Lange,2019-05-06,,,,,1,3428
+➿,27BF,symbols,other-symbol,double curly loop,"curl, double, loop",,Selina Lange,2019-05-06,,,,,1,3429
+〽️,303D,symbols,other-symbol,part alternation mark,"mark, part",,Selina Lange,2019-05-06,,,,,1,3431
+✳️,2733,symbols,other-symbol,eight-spoked asterisk,"*, asterisk",,Selina Lange,2019-05-06,,,,,1,3433
+✴️,2734,symbols,other-symbol,eight-pointed star,"*, star",,Selina Lange,2019-05-06,,,,,1,3435
+❇️,2747,symbols,other-symbol,sparkle,*,,Selina Lange,2019-05-06,,,,,1,3437
+‼️,203C,symbols,other-symbol,double exclamation mark,"!, !!, bangbang, exclamation, mark",,Selina Lange,2019-05-06,,,,,1,3439
+⁉️,2049,symbols,other-symbol,exclamation question mark,"!, !?, ?, exclamation, interrobang, mark, punctuation, question",,Selina Lange,2019-05-06,,,,,1,3441
 ❓️,2753,symbols,other-symbol,question mark,"?, mark, punctuation, question","question, punctation",Hilda Kalyoncu,2018-04-18,,,,,1,3442
 ❔,2754,symbols,other-symbol,white question mark,"?, mark, outlined, punctuation, question","punctation, mark, question, white",Hilda Kalyoncu,2018-04-18,,,,,1,3443
 ❕,2755,symbols,other-symbol,white exclamation mark,"!, exclamation, mark, outlined, punctuation","exclamation, mark, punctation, white",Hilda Kalyoncu,2018-04-18,,,,,1,3444
@@ -2663,20 +2663,20 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 〰️,3030,symbols,other-symbol,wavy dash,"dash, punctuation, wavy","dash, punctuation, wavy",Hilda Kalyoncu,2018-04-18,,,,,1,3447
 ©️,00A9,symbols,other-symbol,copyright,c,"copyright, c, sign",Hilda Kalyoncu,2018-04-18,,,,,1,3449
 ®️,00AE,symbols,other-symbol,registered,r,"registered, r, sign",Hilda Kalyoncu,2018-04-18,,,,,1,3451
-™️,2122,symbols,other-symbol,trade mark,"mark, tm, trademark",,,,,,,,1,3453
-#️⃣,0023-FE0F-20E3,symbols,keycap,keycap: #,keycap,,,,,,,,3,3454
-*️⃣,002A-FE0F-20E3,symbols,keycap,keycap: *,keycap,,,,,,,,3,3456
-0️⃣,0030-FE0F-20E3,symbols,keycap,keycap: 0,keycap,,,,,,,,3,3458
-1️⃣,0031-FE0F-20E3,symbols,keycap,keycap: 1,keycap,,,,,,,,3,3460
-2️⃣,0032-FE0F-20E3,symbols,keycap,keycap: 2,keycap,,,,,,,,3,3462
-3️⃣,0033-FE0F-20E3,symbols,keycap,keycap: 3,keycap,,,,,,,,3,3464
-4️⃣,0034-FE0F-20E3,symbols,keycap,keycap: 4,keycap,,,,,,,,3,3466
-5️⃣,0035-FE0F-20E3,symbols,keycap,keycap: 5,keycap,,,,,,,,3,3468
-6️⃣,0036-FE0F-20E3,symbols,keycap,keycap: 6,keycap,,,,,,,,3,3470
-7️⃣,0037-FE0F-20E3,symbols,keycap,keycap: 7,keycap,,,,,,,,3,3472
-8️⃣,0038-FE0F-20E3,symbols,keycap,keycap: 8,keycap,,,,,,,,3,3474
-9️⃣,0039-FE0F-20E3,symbols,keycap,keycap: 9,keycap,,,,,,,,3,3476
-🔟,1F51F,symbols,keycap,keycap: 10,keycap,,,,,,,,1,3478
+™️,2122,symbols,other-symbol,trade mark,"mark, tm, trademark",,Selina Lange,2019-05-06,,,,,1,3453
+#️⃣,0023-FE0F-20E3,symbols,keycap,keycap: #,keycap,,Selina Lange,2019-05-06,,,,,3,3454
+*️⃣,002A-FE0F-20E3,symbols,keycap,keycap: *,keycap,,Selina Lange,2019-05-06,,,,,3,3456
+0️⃣,0030-FE0F-20E3,symbols,keycap,keycap: 0,keycap,,Selina Lange,2019-05-06,,,,,3,3458
+1️⃣,0031-FE0F-20E3,symbols,keycap,keycap: 1,keycap,,Selina Lange,2019-05-06,,,,,3,3460
+2️⃣,0032-FE0F-20E3,symbols,keycap,keycap: 2,keycap,,Selina Lange,2019-05-06,,,,,3,3462
+3️⃣,0033-FE0F-20E3,symbols,keycap,keycap: 3,keycap,,Selina Lange,2019-05-06,,,,,3,3464
+4️⃣,0034-FE0F-20E3,symbols,keycap,keycap: 4,keycap,,Selina Lange,2019-05-06,,,,,3,3466
+5️⃣,0035-FE0F-20E3,symbols,keycap,keycap: 5,keycap,,Selina Lange,2019-05-06,,,,,3,3468
+6️⃣,0036-FE0F-20E3,symbols,keycap,keycap: 6,keycap,,Selina Lange,2019-05-06,,,,,3,3470
+7️⃣,0037-FE0F-20E3,symbols,keycap,keycap: 7,keycap,,Selina Lange,2019-05-06,,,,,3,3472
+8️⃣,0038-FE0F-20E3,symbols,keycap,keycap: 8,keycap,,Selina Lange,2019-05-06,,,,,3,3474
+9️⃣,0039-FE0F-20E3,symbols,keycap,keycap: 9,keycap,,Selina Lange,2019-05-06,,,,,3,3476
+🔟,1F51F,symbols,keycap,keycap: 10,keycap,,Selina Lange,2019-05-06,,,,,1,3478
 🔠,1F520,symbols,alphanum,input latin uppercase,"abcd, input, latin, letters, uppercase","letters, alphabet",Jose Avila,2018-04-18,,,,,1,3479
 🔡,1F521,symbols,alphanum,input latin lowercase,"abcd, input, latin, letters, lowercase","letters, alphabet",Jose Avila,2018-04-18,,,,,1,3480
 🔢,1F522,symbols,alphanum,input numbers,"1234, input, numbers",numbers,Jose Avila,2018-04-18,,,,,1,3481
