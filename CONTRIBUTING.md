@@ -3,76 +3,61 @@ Contributing to OpenMoji
 
 Interested in contributing? Yay! Here are a few infos how the workflow typically works:
 
-* **Contribute an Emoji via Email and Sending .ai Files**
+* **Contribute an Emoji via Email and Sending .svg Files**
 * **Contribute an Emoji via Github and Pull Requests (Preferred)**
 * **Fix a Bug**
 * **How to Submit a Pull Request**
 * **Overview OpenMoji Repository**
 
-## 💌 Contribute an Emoji via Email and Sending .ai Files
 
-Simply send us the source .ai files and the meta informations via email.
+## 💌 Contribute an Emoji via Email and Sending .svg Files
+
+Simply send us the source .svg file and the meta informations via email e.g.:
 
 ```csv
-emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author
-ℹ️,2139,symbols,alphanum,information,i,"advice,info",Jose Avila
+emoji,hexcode,openmoji_tags,openmoji_author
+ℹ️,2139,"advice,info",Jose Avila
 ```
 
-You can find the email address at [openmoji.org/about](http://openmoji.org/about.html#contact). Thanks 🙏!
+You can find the email address at [openmoji.org/about](http://openmoji.org/about/#contact). Thanks 🙏!
+
 
 ## 🚀 Contribute an Emoji via Github and Pull Requests (preferred)
 
 If you have an original idea about a new emoji or you spot one which is missing according to the Unicode definition, open an [issue](https://github.com/hfg-gmuend/openmoji/issues) describing your emoji, and let us know you are interested! Initiate a discussion, wait for the green light, and then assign it to yourself!
 
+
 ### 1. Meta Infos
-Before you start working on the .ai files you should have filled out the meta informations, as all file names are deduced from the hexcode of the emoji.
+Before you start working on a source .svg file you should find and name .svg file with the corresponding hexcode. Either the emoji is already defined in Unicode or you have to propose a hexcode which is in the private use area.
 
-If the emoji is defined in Unicode, the corresponding meta informations look like this:
+Add your meta infos at the very end of one of the files below:
+* `data/enhancements-emoji-unicode-data.csv` if your emoji is already part of an Emoji Unicode standard e.g. [Emoji v12](https://unicode.org/Public/emoji/12.0/emoji-test.txt).
+* `data/extras-openmoji.csv` if your emoji is currently not part of Unicode.
+* `data/extras-unicode.csv` if your emoji is not part of an Emoji Unicode standard, but you could "recycle" an exiting Unicode for it e.g. ⬌ (25A1)
 
-```csv
-emoji,hexcode,group,subgroups,annotation,tags,hfg_tags,hfg_author
-ℹ️,2139,symbols,alphanum,information,i,"advice,info",Jose Avila
-```
+N.B. the properties prefixed `openmoji_` are not part of the Unicode specification.
 
-N.B. the properties hfg_tags and hfg_author are not part of the Unicode specification.
-
-`hfg_tags`: optionally, extend the description with custom tags. 
-
-`hfg_author`: state who designed it in First Lastname.
-
-If you are designing a new emoji which is not defined in Unicode, you will have to pick an empty hexcode from the private use area. We have generated a few empty ones at the end of `data/openmoji.csv`, please use the first available one. Try also to find for the remaining fields useful values.
+Run `node helpers/generate-data-tables.js` to generate from the .csv files above the deduced OpenMoji data tables. This is important as the automated unit test and other mechanisms rely on the central data file `data/openmoji.json`
 
 
-### 2. File Conventions
+### 2. Design Your Emoji
+🙏 Please follow the [OpenMoji Styleguide](http://openmoji.org/styleguide)
+
+✅ Run `npm test` to check whether your emoji passes our automated tests.
+
+
+### 3. File Conventions
 
 In order to merge you emoji as seamless as possible into the OpenMoji collection, please bear the following file conventions in mind:
 
-* src/{group}/{subgroups}/{hexcode}.ai
-* black/72x72/{hexcode}.png
-* black/618x618/{hexcode}.png
-* black/svg/{hexcode}.svg
-* black/72x72/{hexcode}.png
-* black/618x618/{hexcode}.png
-* black/svg/{hexcode}.svg
+* src/{group}/{subgroups}/{hexcode}.svg
 
 e.g. 🐌
 
-* src/animals-nature/animal-bug/1F40C.ai
-* black/72x72/1F40C.png
-* black/618x618/1F40C.png
-* black/svg/1F40C.svg
-* black/72x72/1F40C.png
-* black/618x618/1F40C.png
-* black/svg/1F40C.svg
-
-You can generate the .png and .svg files with [`ai-export-src-file.jsx`](https://github.com/hfg-gmuend/openmoji/blob/master/helpers/illustrator/ai-export-src/ai-export-src-file.jsx). The script runs directly inside Adobe Illustator. [Instructions](https://github.com/hfg-gmuend/openmoji/blob/master/helpers/illustrator) on how to run and setup it are available in the same folder too.
+* src/animals-nature/animal-bug/1F40C.svg
 
 
-### 3. Submission
-
-We kindly ask you to submit per PR just a single emoji (in black and color).
-
-There might be exceptions with emoijs which belong together, think of families like hand gesture, arrows etc. When your are planning to submit more than a singe emoji in a PR, please contact us first.
+### 4. Submission
 
 Yay! Now all your files are ready to go! Please submit a PR against the master branch. Thanks 🙏!
 
@@ -84,21 +69,21 @@ If it's not on the issues list, add it. If it's already on the [issues](https://
 
 ## How to Submit a Pull Request
 
-If you have not done it yet, please [fork](https://help.github.com/articles/fork-a-repo/) the OpenMoji respository.
-
-How to create a ["PR" pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) from your fork. 
+[Fork](https://help.github.com/articles/fork-a-repo/) the OpenMoji respository and create a ["PR" pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) from your fork. 
 
 
 ## Overview OpenMoji Repository
 
-`black/` and `color/` Contains all exported .png and .svg files. The .ai files are broken up into folders 
+`black/` and `color/` Contains all exported .png and .svg files.
 
-`data/` Contains a central .csv table with all the meta informations for each emoji.
+`data/` Contains the central openmoji.json with all meta informations for each emoji.
 
-`font/` Contains the exported .otf OpenMoji fonts
+`font/` Contains the exported OpenMoji fonts.
 
-`guidelines/` Contains various template files related to the guidelines.
+`guidelines/` Contains various template files related to the styleguide.
 
-`helpers/` Contains various helper scripts e.g. to export .ai files to .png and .svg images.
+`helpers/` Contains various helper scripts e.g. to export to .png and .svg, generate skintones varians, enforce the OpenMoji color palette ...
 
-`src/` Contains all the source .ai files of OpenMoji. The .ai files are broken up into folders and files corresponding with the Unicode groups and sub-groups.
+`src/` Contains all source .svg files of OpenMoji. The files are broken up into folders and files corresponding with the Unicode groups and sub-groups.
+
+`test/` Automated unit tests to ensure consistency across all source .svg files.
