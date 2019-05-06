@@ -3,7 +3,7 @@ const _ = require('lodash');
 const csvWriter = require('csv-write-stream');
 const csvParse = require('csv-parse/lib/sync');
 
-let emojibaseData = require('emojibase-data/en/data.json');
+const emojibaseData = require('emojibase-data/en/data.json');
 const emojibaseGroups = require('emojibase-data/meta/groups.json');
 const groups = emojibaseGroups.groups;
 const subgroups = emojibaseGroups.subgroups;
@@ -27,15 +27,6 @@ const writeJson = (data, filePath) => {
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
 }
 
-// TODO is this correct?
-// filter out redundant emojis of the pattern "{single unicode character}-FE0F"
-console.log(emojibaseData.length);
-emojibaseData = _.filter(emojibaseData, (e) => {
-  const found = e.hexcode.endsWith('-FE0F') && ((e.hexcode.match(/-/g) || []).length === 1);
-  return !found;
-});
-console.log(emojibaseData.length);
-
 // -- create emoji tables --
 // create an empty array to hold the emoji definitions
 let emojis = [];
@@ -45,10 +36,19 @@ _.each(emojibaseData, e => {
   if (e.skins) {
     e['skintone_base_emoji'] = e.emoji;
     e['skintone_base_hexcode'] = e.hexcode;
+    e['skintone_combination'] = 'single';
     // add skintone_base_emoji prop
     const skintones = _.map(e.skins, (s) => {
       s['skintone_base_emoji'] = e.emoji;
       s['skintone_base_hexcode'] = e.hexcode;
+      // TODO: how to deal with multi skin tones combinations
+      if (_.isArray(s.tone)) {
+        // console.warn(`Warning: ${s.emoji} ${s.hexcode} is a multi skin tones combination`);
+        s.tone = s.tone.join(',');
+        s['skintone_combination'] = 'multiple';
+      } else {
+        s['skintone_combination'] = 'single';
+      }
       return s;
     })
     emojis = [...emojis, ...skintones];
@@ -80,6 +80,7 @@ emojis = _.map(emojis, e => {
     openmoji_author: openmoji_author,
     openmoji_date: openmoji_date,
     skintone: e.tone ? e.tone : '',
+    skintone_combination: e.skintone_combination ? e.skintone_combination : '',
     skintone_base_emoji: e.skintone_base_emoji ? e.skintone_base_emoji : '',
     skintone_base_hexcode: e.skintone_base_hexcode ? e.skintone_base_hexcode : '',
     unicode: e.version,
@@ -117,6 +118,7 @@ extrasOpenMoji = _.map(extrasOpenMoji, e => {
     openmoji_author: e.openmoji_author,
     openmoji_date: e.openmoji_date,
     skintone: '',
+    skintone_combination: '',
     skintone_base_emoji: '',
     skintone_base_hexcode: '',
     unicode: '',
@@ -136,6 +138,7 @@ extrasUnicode = _.map(extrasUnicode, e => {
     openmoji_author: e.openmoji_author,
     openmoji_date: e.openmoji_date,
     skintone: '',
+    skintone_combination: '',
     skintone_base_emoji: '',
     skintone_base_hexcode: '',
     unicode: e.unicode,
