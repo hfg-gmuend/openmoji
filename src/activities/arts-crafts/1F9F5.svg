@@ -1,0 +1,33 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>1F9F5</title>
+  <g id="grid">
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72 0) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <polyline points="49.224 17.187 53.891 12.36 17.207 12.36 21.875 17.187" fill="#d0cfce"/>
+    <polyline points="49.224 54.526 53.891 59.353 17.207 59.353 21.875 54.526" fill="#d0cfce"/>
+    <rect x="22.0343" y="17.1871" width="27.3651" height="37.5202" fill="#ea5a47"/>
+    <rect x="42.9257" y="17.1871" width="6.4737" height="37.5202" fill="#d22f27"/>
+  </g>
+  <g id="line">
+    <polyline points="49.224 17.187 53.891 12.36 17.207 12.36 21.875 17.187" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="21.8746" y1="17.1871" x2="49.2242" y2="17.1871" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.1579"/>
+    <line x1="22.2017" y1="54.7073" x2="49.232" y2="54.7073" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.1579"/>
+    <polyline points="49.224 54.707 53.891 59.534 17.207 59.534 21.875 54.707" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g>
+      <line x1="22.0343" y1="17.1871" x2="49.0646" y2="17.1871" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="22.0115" y1="22.5471" x2="49.0874" y2="22.5471" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="21.9887" y1="27.9071" x2="49.1102" y2="27.9071" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="21.9659" y1="33.2672" x2="49.133" y2="33.2672" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="21.943" y1="38.6272" x2="49.1558" y2="38.6272" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="21.9202" y1="43.9872" x2="49.1786" y2="43.9872" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="21.8974" y1="49.3472" x2="49.2014" y2="49.3472" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="21.8746" y1="54.7073" x2="49.2242" y2="54.7073" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <path d="M22.2017,43.9829h27.03a9.5279,9.5279,0,0,1,5.6467,2.5918c3.2368,3.2368,5.9341,5.9342,11.3288,5.3947" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
