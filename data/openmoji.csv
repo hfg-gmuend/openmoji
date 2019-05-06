@@ -84,6 +84,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😓,1F613,smileys-emotion,face-concerned,downcast face with sweat,"cold, face, sweat",,Mariella Steeb,2018-04-18,,,,,1,85
 😩,1F629,smileys-emotion,face-concerned,weary face,"face, tired, weary",distraught,Mariella Steeb,2018-04-18,,,,,1,86
 😫,1F62B,smileys-emotion,face-concerned,tired face,"face, tired",exhausted,Mariella Steeb,2018-04-18,,,,,1,87
+🥱,1F971,smileys-emotion,face-concerned,yawning face,"bored, tired, yawn",,Laura Dworatschek,2019-05-06,,,,,12,88
 😤,1F624,smileys-emotion,face-negative,face with steam from nose,"face, triumph, won",,Mariella Steeb,2018-04-18,,,,,1,89
 😡,1F621,smileys-emotion,face-negative,pouting face,"angry, face, mad, pouting, rage, red",,Mariella Steeb,2018-04-18,,,,,1,90
 😠,1F620,smileys-emotion,face-negative,angry face,"angry, face, mad",,Mariella Steeb,2018-04-18,,,,,1,91
@@ -130,7 +131,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💚,1F49A,smileys-emotion,emotion,green heart,green,,Laura Humpfer,2018-04-18,,,,,1,135
 💙,1F499,smileys-emotion,emotion,blue heart,blue,,Laura Humpfer,2018-04-18,,,,,1,136
 💜,1F49C,smileys-emotion,emotion,purple heart,purple,,Laura Humpfer,2018-04-18,,,,,1,137
+🤎,1F90E,smileys-emotion,emotion,brown heart,"brown, heart",,Laura Dworatschek,2019-05-06,,,,,12,138
 🖤,1F5A4,smileys-emotion,emotion,black heart,"black, evil, wicked",,Laura Humpfer,2018-04-18,,,,,3,139
+🤍,1F90D,smileys-emotion,emotion,white heart,"heart, white",,Laura Dworatschek,2019-05-06,,,,,12,140
 💯,1F4AF,smileys-emotion,emotion,hundred points,"100, full, hundred, score","perfect, excellent",Jose Avila,2018-04-18,,,,,1,141
 💢,1F4A2,smileys-emotion,emotion,anger symbol,"angry, comic, mad",,Anne Frauendorf,2018-11-16,,,,,1,142
 💥,1F4A5,smileys-emotion,emotion,collision,"boom, comic",explosion,Laura Humpfer,2018-04-18,,,,,1,143
@@ -181,6 +184,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👌🏽,1F44C-1F3FD,people-body,hand-fingers-partial,OK hand: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,👌,1F44C,2,195
 👌🏾,1F44C-1F3FE,people-body,hand-fingers-partial,OK hand: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,👌,1F44C,2,196
 👌🏿,1F44C-1F3FF,people-body,hand-fingers-partial,OK hand: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,👌,1F44C,2,197
+🤏,1F90F,people-body,hand-fingers-partial,pinching hand,small amount,,Laura Dworatschek,2019-05-06,,single,🤏,1F90F,12,198
+🤏🏻,1F90F-1F3FB,people-body,hand-fingers-partial,pinching hand: light skin tone,,,Laura Dworatschek,2019-05-06,1,single,🤏,1F90F,12,199
+🤏🏼,1F90F-1F3FC,people-body,hand-fingers-partial,pinching hand: medium-light skin tone,,,Laura Dworatschek,2019-05-06,2,single,🤏,1F90F,12,200
+🤏🏽,1F90F-1F3FD,people-body,hand-fingers-partial,pinching hand: medium skin tone,,,Laura Dworatschek,2019-05-06,3,single,🤏,1F90F,12,201
+🤏🏾,1F90F-1F3FE,people-body,hand-fingers-partial,pinching hand: medium-dark skin tone,,,Laura Dworatschek,2019-05-06,4,single,🤏,1F90F,12,202
+🤏🏿,1F90F-1F3FF,people-body,hand-fingers-partial,pinching hand: dark skin tone,,,Laura Dworatschek,2019-05-06,5,single,🤏,1F90F,12,203
 ✌️,270C,people-body,hand-fingers-partial,victory hand,"hand, v, victory","hand, v, victory, Air Quotes, quotes, Peace, Peace Sign, V Sign",Julian Grüneberg,2018-04-18,,single,✌️,270C,1,205
 ✌🏻,270C-1F3FB,people-body,hand-fingers-partial,victory hand: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,✌️,270C,2,206
 ✌🏼,270C-1F3FC,people-body,hand-fingers-partial,victory hand: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,✌️,270C,2,207
@@ -338,6 +347,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💪🏽,1F4AA-1F3FD,people-body,body-parts,flexed biceps: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,💪,1F4AA,2,361
 💪🏾,1F4AA-1F3FE,people-body,body-parts,flexed biceps: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,💪,1F4AA,2,362
 💪🏿,1F4AA-1F3FF,people-body,body-parts,flexed biceps: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,💪,1F4AA,2,363
+🦾,1F9BE,people-body,body-parts,mechanical arm,"accessibility, prosthetic",,Laura Dworatschek,2019-05-06,,,,,12,364
+🦿,1F9BF,people-body,body-parts,mechanical leg,"accessibility, prosthetic",,Laura Dworatschek,2019-05-06,,,,,12,365
 🦵,1F9B5,people-body,body-parts,leg,"kick, limb",,Laura Schießer,2019-05-06,,single,🦵,1F9B5,11,366
 🦵🏻,1F9B5-1F3FB,people-body,body-parts,leg: light skin tone,,,Laura Schießer,2019-05-06,1,single,🦵,1F9B5,11,367
 🦵🏼,1F9B5-1F3FC,people-body,body-parts,leg: medium-light skin tone,,,Laura Schießer,2019-05-06,2,single,🦵,1F9B5,11,368
@@ -356,6 +367,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👂🏽,1F442-1F3FD,people-body,body-parts,ear: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,👂️,1F442,2,381
 👂🏾,1F442-1F3FE,people-body,body-parts,ear: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,👂️,1F442,2,382
 👂🏿,1F442-1F3FF,people-body,body-parts,ear: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,👂️,1F442,2,383
+🦻,1F9BB,people-body,body-parts,ear with hearing aid,"accessibility, hard of hearing",,Laura Dworatschek,2019-05-06,,single,🦻,1F9BB,12,384
+🦻🏻,1F9BB-1F3FB,people-body,body-parts,ear with hearing aid: light skin tone,,,Laura Dworatschek,2019-05-06,1,single,🦻,1F9BB,12,385
+🦻🏼,1F9BB-1F3FC,people-body,body-parts,ear with hearing aid: medium-light skin tone,,,Laura Dworatschek,2019-05-06,2,single,🦻,1F9BB,12,386
+🦻🏽,1F9BB-1F3FD,people-body,body-parts,ear with hearing aid: medium skin tone,,,Laura Dworatschek,2019-05-06,3,single,🦻,1F9BB,12,387
+🦻🏾,1F9BB-1F3FE,people-body,body-parts,ear with hearing aid: medium-dark skin tone,,,Laura Dworatschek,2019-05-06,4,single,🦻,1F9BB,12,388
+🦻🏿,1F9BB-1F3FF,people-body,body-parts,ear with hearing aid: dark skin tone,,,Laura Dworatschek,2019-05-06,5,single,🦻,1F9BB,12,389
 👃,1F443,people-body,body-parts,nose,body,"nose, smell",Julian Grüneberg,2018-04-18,,single,👃,1F443,1,390
 👃🏻,1F443-1F3FB,people-body,body-parts,nose: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,👃,1F443,2,391
 👃🏼,1F443-1F3FC,people-body,body-parts,nose: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,👃,1F443,2,392
@@ -609,6 +626,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🙋🏽‍♀️,1F64B-1F3FD-200D-2640-FE0F,people-body,person-gesture,woman raising hand: medium skin tone,,,Rifat Erdogan,2019-05-06,3,single,🙋‍♀️,1F64B-200D-2640-FE0F,4,722
 🙋🏾‍♀️,1F64B-1F3FE-200D-2640-FE0F,people-body,person-gesture,woman raising hand: medium-dark skin tone,,,Rifat Erdogan,2019-05-06,4,single,🙋‍♀️,1F64B-200D-2640-FE0F,4,724
 🙋🏿‍♀️,1F64B-1F3FF-200D-2640-FE0F,people-body,person-gesture,woman raising hand: dark skin tone,,,Rifat Erdogan,2019-05-06,5,single,🙋‍♀️,1F64B-200D-2640-FE0F,4,726
+🧏,1F9CF,people-body,person-gesture,deaf person,"accessibility, deaf, ear, hear",,Laura Dworatschek,2019-05-06,,single,🧏,1F9CF,12,728
+🧏🏻,1F9CF-1F3FB,people-body,person-gesture,deaf person: light skin tone,,,Laura Dworatschek,2019-05-06,1,single,🧏,1F9CF,12,729
+🧏🏼,1F9CF-1F3FC,people-body,person-gesture,deaf person: medium-light skin tone,,,Laura Dworatschek,2019-05-06,2,single,🧏,1F9CF,12,730
+🧏🏽,1F9CF-1F3FD,people-body,person-gesture,deaf person: medium skin tone,,,Laura Dworatschek,2019-05-06,3,single,🧏,1F9CF,12,731
+🧏🏾,1F9CF-1F3FE,people-body,person-gesture,deaf person: medium-dark skin tone,,,Laura Dworatschek,2019-05-06,4,single,🧏,1F9CF,12,732
+🧏🏿,1F9CF-1F3FF,people-body,person-gesture,deaf person: dark skin tone,,,Laura Dworatschek,2019-05-06,5,single,🧏,1F9CF,12,733
 🙇,1F647,people-body,person-gesture,person bowing,"apology, bow, gesture, sorry","human, head, face",Johanna Wellnitz,2018-04-18,,single,🙇,1F647,1,758
 🙇🏻,1F647-1F3FB,people-body,person-gesture,person bowing: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,🙇,1F647,2,759
 🙇🏼,1F647-1F3FC,people-body,person-gesture,person bowing: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,🙇,1F647,2,760
@@ -1197,6 +1220,60 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🚶🏽‍♀️,1F6B6-1F3FD-200D-2640-FE0F,people-body,person-activity,woman walking: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,🚶‍♀️,1F6B6-200D-2640-FE0F,4,1601
 🚶🏾‍♀️,1F6B6-1F3FE-200D-2640-FE0F,people-body,person-activity,woman walking: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,🚶‍♀️,1F6B6-200D-2640-FE0F,4,1603
 🚶🏿‍♀️,1F6B6-1F3FF-200D-2640-FE0F,people-body,person-activity,woman walking: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,🚶‍♀️,1F6B6-200D-2640-FE0F,4,1605
+🧍,1F9CD,people-body,person-activity,person standing,"stand, standing",,Laura Dworatschek,2019-05-06,,single,🧍,1F9CD,12,1607
+🧍🏻,1F9CD-1F3FB,people-body,person-activity,person standing: light skin tone,,,Laura Dworatschek,2019-05-06,1,single,🧍,1F9CD,12,1608
+🧍🏼,1F9CD-1F3FC,people-body,person-activity,person standing: medium-light skin tone,,,Laura Dworatschek,2019-05-06,2,single,🧍,1F9CD,12,1609
+🧍🏽,1F9CD-1F3FD,people-body,person-activity,person standing: medium skin tone,,,Laura Dworatschek,2019-05-06,3,single,🧍,1F9CD,12,1610
+🧍🏾,1F9CD-1F3FE,people-body,person-activity,person standing: medium-dark skin tone,,,Laura Dworatschek,2019-05-06,4,single,🧍,1F9CD,12,1611
+🧍🏿,1F9CD-1F3FF,people-body,person-activity,person standing: dark skin tone,,,Laura Dworatschek,2019-05-06,5,single,🧍,1F9CD,12,1612
+🧍‍♂️,1F9CD-200D-2642-FE0F,people-body,person-activity,man standing,"man, standing",,Laura Dworatschek,2019-05-06,,single,🧍‍♂️,1F9CD-200D-2642-FE0F,12,1613
+🧍🏻‍♂️,1F9CD-1F3FB-200D-2642-FE0F,people-body,person-activity,man standing: light skin tone,,,Laura Dworatschek,2019-05-06,1,single,🧍‍♂️,1F9CD-200D-2642-FE0F,12,1615
+🧍🏼‍♂️,1F9CD-1F3FC-200D-2642-FE0F,people-body,person-activity,man standing: medium-light skin tone,,,Laura Dworatschek,2019-05-06,2,single,🧍‍♂️,1F9CD-200D-2642-FE0F,12,1617
+🧍🏽‍♂️,1F9CD-1F3FD-200D-2642-FE0F,people-body,person-activity,man standing: medium skin tone,,,Laura Dworatschek,2019-05-06,3,single,🧍‍♂️,1F9CD-200D-2642-FE0F,12,1619
+🧍🏾‍♂️,1F9CD-1F3FE-200D-2642-FE0F,people-body,person-activity,man standing: medium-dark skin tone,,,Laura Dworatschek,2019-05-06,4,single,🧍‍♂️,1F9CD-200D-2642-FE0F,12,1621
+🧍🏿‍♂️,1F9CD-1F3FF-200D-2642-FE0F,people-body,person-activity,man standing: dark skin tone,,,Laura Dworatschek,2019-05-06,5,single,🧍‍♂️,1F9CD-200D-2642-FE0F,12,1623
+🧍‍♀️,1F9CD-200D-2640-FE0F,people-body,person-activity,woman standing,"standing, woman",,Laura Dworatschek,2019-05-06,,single,🧍‍♀️,1F9CD-200D-2640-FE0F,12,1625
+🧍🏻‍♀️,1F9CD-1F3FB-200D-2640-FE0F,people-body,person-activity,woman standing: light skin tone,,,Laura Dworatschek,2019-05-06,1,single,🧍‍♀️,1F9CD-200D-2640-FE0F,12,1627
+🧍🏼‍♀️,1F9CD-1F3FC-200D-2640-FE0F,people-body,person-activity,woman standing: medium-light skin tone,,,Laura Dworatschek,2019-05-06,2,single,🧍‍♀️,1F9CD-200D-2640-FE0F,12,1629
+🧍🏽‍♀️,1F9CD-1F3FD-200D-2640-FE0F,people-body,person-activity,woman standing: medium skin tone,,,Laura Dworatschek,2019-05-06,3,single,🧍‍♀️,1F9CD-200D-2640-FE0F,12,1631
+🧍🏾‍♀️,1F9CD-1F3FE-200D-2640-FE0F,people-body,person-activity,woman standing: medium-dark skin tone,,,Laura Dworatschek,2019-05-06,4,single,🧍‍♀️,1F9CD-200D-2640-FE0F,12,1633
+🧍🏿‍♀️,1F9CD-1F3FF-200D-2640-FE0F,people-body,person-activity,woman standing: dark skin tone,,,Laura Dworatschek,2019-05-06,5,single,🧍‍♀️,1F9CD-200D-2640-FE0F,12,1635
+🧎,1F9CE,people-body,person-activity,person kneeling,"kneel, kneeling",,Laura Dworatschek,2019-05-06,,single,🧎,1F9CE,12,1637
+🧎🏻,1F9CE-1F3FB,people-body,person-activity,person kneeling: light skin tone,,,Laura Dworatschek,2019-05-06,1,single,🧎,1F9CE,12,1638
+🧎🏼,1F9CE-1F3FC,people-body,person-activity,person kneeling: medium-light skin tone,,,Laura Dworatschek,2019-05-06,2,single,🧎,1F9CE,12,1639
+🧎🏽,1F9CE-1F3FD,people-body,person-activity,person kneeling: medium skin tone,,,Laura Dworatschek,2019-05-06,3,single,🧎,1F9CE,12,1640
+🧎🏾,1F9CE-1F3FE,people-body,person-activity,person kneeling: medium-dark skin tone,,,Laura Dworatschek,2019-05-06,4,single,🧎,1F9CE,12,1641
+🧎🏿,1F9CE-1F3FF,people-body,person-activity,person kneeling: dark skin tone,,,Laura Dworatschek,2019-05-06,5,single,🧎,1F9CE,12,1642
+🧎‍♂️,1F9CE-200D-2642-FE0F,people-body,person-activity,man kneeling,"kneeling, man",,Laura Dworatschek,2019-05-06,,single,🧎‍♂️,1F9CE-200D-2642-FE0F,12,1643
+🧎🏻‍♂️,1F9CE-1F3FB-200D-2642-FE0F,people-body,person-activity,man kneeling: light skin tone,,,Laura Dworatschek,2019-05-06,1,single,🧎‍♂️,1F9CE-200D-2642-FE0F,12,1645
+🧎🏼‍♂️,1F9CE-1F3FC-200D-2642-FE0F,people-body,person-activity,man kneeling: medium-light skin tone,,,Laura Dworatschek,2019-05-06,2,single,🧎‍♂️,1F9CE-200D-2642-FE0F,12,1647
+🧎🏽‍♂️,1F9CE-1F3FD-200D-2642-FE0F,people-body,person-activity,man kneeling: medium skin tone,,,Laura Dworatschek,2019-05-06,3,single,🧎‍♂️,1F9CE-200D-2642-FE0F,12,1649
+🧎🏾‍♂️,1F9CE-1F3FE-200D-2642-FE0F,people-body,person-activity,man kneeling: medium-dark skin tone,,,Laura Dworatschek,2019-05-06,4,single,🧎‍♂️,1F9CE-200D-2642-FE0F,12,1651
+🧎🏿‍♂️,1F9CE-1F3FF-200D-2642-FE0F,people-body,person-activity,man kneeling: dark skin tone,,,Laura Dworatschek,2019-05-06,5,single,🧎‍♂️,1F9CE-200D-2642-FE0F,12,1653
+🧎‍♀️,1F9CE-200D-2640-FE0F,people-body,person-activity,woman kneeling,"kneeling, woman",,Laura Dworatschek,2019-05-06,,single,🧎‍♀️,1F9CE-200D-2640-FE0F,12,1655
+🧎🏻‍♀️,1F9CE-1F3FB-200D-2640-FE0F,people-body,person-activity,woman kneeling: light skin tone,,,Laura Dworatschek,2019-05-06,1,single,🧎‍♀️,1F9CE-200D-2640-FE0F,12,1657
+🧎🏼‍♀️,1F9CE-1F3FC-200D-2640-FE0F,people-body,person-activity,woman kneeling: medium-light skin tone,,,Laura Dworatschek,2019-05-06,2,single,🧎‍♀️,1F9CE-200D-2640-FE0F,12,1659
+🧎🏽‍♀️,1F9CE-1F3FD-200D-2640-FE0F,people-body,person-activity,woman kneeling: medium skin tone,,,Laura Dworatschek,2019-05-06,3,single,🧎‍♀️,1F9CE-200D-2640-FE0F,12,1661
+🧎🏾‍♀️,1F9CE-1F3FE-200D-2640-FE0F,people-body,person-activity,woman kneeling: medium-dark skin tone,,,Laura Dworatschek,2019-05-06,4,single,🧎‍♀️,1F9CE-200D-2640-FE0F,12,1663
+🧎🏿‍♀️,1F9CE-1F3FF-200D-2640-FE0F,people-body,person-activity,woman kneeling: dark skin tone,,,Laura Dworatschek,2019-05-06,5,single,🧎‍♀️,1F9CE-200D-2640-FE0F,12,1665
+👨‍🦼,1F468-200D-1F9BC,people-body,person-activity,man in motorized wheelchair,"accessibility, man, wheelchair",,Laura Dworatschek,2019-05-06,,single,👨‍🦼,1F468-200D-1F9BC,12,1679
+👨🏻‍🦼,1F468-1F3FB-200D-1F9BC,people-body,person-activity,man in motorized wheelchair: light skin tone,,,Laura Dworatschek,2019-05-06,1,single,👨‍🦼,1F468-200D-1F9BC,12,1680
+👨🏼‍🦼,1F468-1F3FC-200D-1F9BC,people-body,person-activity,man in motorized wheelchair: medium-light skin tone,,,Laura Dworatschek,2019-05-06,2,single,👨‍🦼,1F468-200D-1F9BC,12,1681
+👨🏽‍🦼,1F468-1F3FD-200D-1F9BC,people-body,person-activity,man in motorized wheelchair: medium skin tone,,,Laura Dworatschek,2019-05-06,3,single,👨‍🦼,1F468-200D-1F9BC,12,1682
+👨🏾‍🦼,1F468-1F3FE-200D-1F9BC,people-body,person-activity,man in motorized wheelchair: medium-dark skin tone,,,Laura Dworatschek,2019-05-06,4,single,👨‍🦼,1F468-200D-1F9BC,12,1683
+👨🏿‍🦼,1F468-1F3FF-200D-1F9BC,people-body,person-activity,man in motorized wheelchair: dark skin tone,,,Laura Dworatschek,2019-05-06,5,single,👨‍🦼,1F468-200D-1F9BC,12,1684
+👩‍🦼,1F469-200D-1F9BC,people-body,person-activity,woman in motorized wheelchair,"accessibility, wheelchair, woman",,Laura Dworatschek,2019-05-06,,single,👩‍🦼,1F469-200D-1F9BC,12,1685
+👩🏻‍🦼,1F469-1F3FB-200D-1F9BC,people-body,person-activity,woman in motorized wheelchair: light skin tone,,,Laura Dworatschek,2019-05-06,1,single,👩‍🦼,1F469-200D-1F9BC,12,1686
+👩🏼‍🦼,1F469-1F3FC-200D-1F9BC,people-body,person-activity,woman in motorized wheelchair: medium-light skin tone,,,Laura Dworatschek,2019-05-06,2,single,👩‍🦼,1F469-200D-1F9BC,12,1687
+👩🏽‍🦼,1F469-1F3FD-200D-1F9BC,people-body,person-activity,woman in motorized wheelchair: medium skin tone,,,Laura Dworatschek,2019-05-06,3,single,👩‍🦼,1F469-200D-1F9BC,12,1688
+👩🏾‍🦼,1F469-1F3FE-200D-1F9BC,people-body,person-activity,woman in motorized wheelchair: medium-dark skin tone,,,Laura Dworatschek,2019-05-06,4,single,👩‍🦼,1F469-200D-1F9BC,12,1689
+👩🏿‍🦼,1F469-1F3FF-200D-1F9BC,people-body,person-activity,woman in motorized wheelchair: dark skin tone,,,Laura Dworatschek,2019-05-06,5,single,👩‍🦼,1F469-200D-1F9BC,12,1690
+👩‍🦽,1F469-200D-1F9BD,people-body,person-activity,woman in manual wheelchair,"accessibility, wheelchair, woman",,Laura Dworatschek,2019-05-06,,single,👩‍🦽,1F469-200D-1F9BD,12,1697
+👩🏻‍🦽,1F469-1F3FB-200D-1F9BD,people-body,person-activity,woman in manual wheelchair: light skin tone,,,Laura Dworatschek,2019-05-06,1,single,👩‍🦽,1F469-200D-1F9BD,12,1698
+👩🏼‍🦽,1F469-1F3FC-200D-1F9BD,people-body,person-activity,woman in manual wheelchair: medium-light skin tone,,,Laura Dworatschek,2019-05-06,2,single,👩‍🦽,1F469-200D-1F9BD,12,1699
+👩🏽‍🦽,1F469-1F3FD-200D-1F9BD,people-body,person-activity,woman in manual wheelchair: medium skin tone,,,Laura Dworatschek,2019-05-06,3,single,👩‍🦽,1F469-200D-1F9BD,12,1700
+👩🏾‍🦽,1F469-1F3FE-200D-1F9BD,people-body,person-activity,woman in manual wheelchair: medium-dark skin tone,,,Laura Dworatschek,2019-05-06,4,single,👩‍🦽,1F469-200D-1F9BD,12,1701
+👩🏿‍🦽,1F469-1F3FF-200D-1F9BD,people-body,person-activity,woman in manual wheelchair: dark skin tone,,,Laura Dworatschek,2019-05-06,5,single,👩‍🦽,1F469-200D-1F9BD,12,1702
 🏃,1F3C3,people-body,person-activity,person running,"marathon, running","human, person",Johanna Wellnitz,2018-04-18,,single,🏃,1F3C3,1,1703
 🏃🏻,1F3C3-1F3FB,people-body,person-activity,person running: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,🏃,1F3C3,2,1704
 🏃🏼,1F3C3-1F3FC,people-body,person-activity,person running: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,🏃,1F3C3,2,1705
@@ -2273,13 +2350,22 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🔢,1F522,symbols,alphanum,input numbers,"1234, input, numbers",numbers,Jose Avila,2018-04-18,,,,,1,3481
 🔣,1F523,symbols,alphanum,input symbols,"input, 〒♪&%","ampersand, music, note, percentage",Jose Avila,2018-04-18,,,,,1,3482
 🔤,1F524,symbols,alphanum,input latin letters,"abc, alphabet, input, latin, letters","letters, alphabet",Jose Avila,2018-04-18,,,,,1,3483
+🅰️,1F170,symbols,alphanum,A button (blood type),"a, a button (blood type), blood type",,Laura Dworatschek,2019-05-06,,,,,1,3485
+🆎,1F18E,symbols,alphanum,AB button (blood type),"ab, ab button (blood type), blood type",,Laura Dworatschek,2019-05-06,,,,,1,3486
+🅱️,1F171,symbols,alphanum,B button (blood type),"b, b button (blood type), blood type",,Laura Dworatschek,2019-05-06,,,,,1,3488
+🆑,1F191,symbols,alphanum,CL button,"cl, cl button",,Laura Dworatschek,2019-05-06,,,,,1,3489
 🆒,1F192,symbols,alphanum,COOL button,"cool, cool button","popular, nice",Jose Avila,2018-04-18,,,,,1,3490
+🆓,1F193,symbols,alphanum,FREE button,"free, free button",,Laura Dworatschek,2019-05-06,,,,,1,3491
 ℹ️,2139,symbols,alphanum,information,i,"advice, info",Jose Avila,2018-04-18,,,,,1,3493
 🆔,1F194,symbols,alphanum,ID button,"id, id button, identity",id card,Jose Avila,2018-04-18,,,,,1,3494
+Ⓜ️,24C2,symbols,alphanum,circled M,"circle, circled m, m",,Laura Dworatschek,2019-05-06,,,,,1,3496
 🆕,1F195,symbols,alphanum,NEW button,"new, new button","modern, recent",Jose Avila,2018-04-18,,,,,1,3497
+🆖,1F196,symbols,alphanum,NG button,"ng, ng button",,Laura Dworatschek,2019-05-06,,,,,1,3498
+🅾️,1F17E,symbols,alphanum,O button (blood type),"blood type, o, o button (blood type)",,Laura Dworatschek,2019-05-06,,,,,1,3500
 🆗,1F197,symbols,alphanum,OK button,"ok, ok button",okay,Jose Avila,2018-04-18,,,,,1,3501
 🅿️,1F17F,symbols,alphanum,P button,"p button, parking","place, drive",Jose Avila,2018-04-18,,,,,1,3503
 🆘,1F198,symbols,alphanum,SOS button,"help, sos, sos button","emergency, warning",Jose Avila,2018-04-18,,,,,1,3504
+🆙,1F199,symbols,alphanum,UP! button,"mark, up, up! button",,Laura Dworatschek,2019-05-06,,,,,1,3505
 🆚,1F19A,symbols,alphanum,VS button,"versus, vs, vs button",against,Jose Avila,2018-04-18,,,,,1,3506
 🈂️,1F202,symbols,alphanum,Japanese “service charge” button,"japanese, japanese “service charge” button, katakana, “service charge”, サ",japanese,Jose Avila,2018-04-18,,,,,1,3509
 🈲,1F232,symbols,alphanum,Japanese “prohibited” button,"ideograph, japanese, japanese “prohibited” button, “prohibited”, 禁",,Evelyn Soos,2019-05-04,,,,,1,3517
@@ -2317,6 +2403,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🔘,1F518,symbols,geometric,radio button,"button, geometric, radio",,Lisa Schulz,2018-04-18,,,,,1,3563
 🏁,1F3C1,flags,flag,chequered flag,"checkered, chequered, racing","black, white, grid, racing",Aileen Gedrat,2018-11-16,,,,,1,3566
 🚩,1F6A9,flags,flag,triangular flag,post,,Aileen Gedrat,2018-11-16,,,,,1,3567
+🎌,1F38C,flags,flag,crossed flags,"celebration, cross, crossed, japanese",,Laura Dworatschek,2019-05-06,,,,,1,3568
 🏴,1F3F4,flags,flag,black flag,waving,,Aileen Gedrat,2018-11-16,,,,,1,3569
 🏳️,1F3F3,flags,flag,white flag,waving,white,Aileen Gedrat,2018-11-16,,,,,1,3571
 🏳️‍🌈,1F3F3-FE0F-200D-1F308,flags,flag,rainbow flag,rainbow,color,Aileen Gedrat,2018-11-16,,,,,4,3572

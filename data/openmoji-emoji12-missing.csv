@@ -1,26 +1,9 @@
 emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,openmoji_date,skintone,skintone_combination,skintone_base_emoji,skintone_base_hexcode,unicode,order
-🥱,1F971,smileys-emotion,face-concerned,yawning face,"bored, tired, yawn",,,,,,,,12,88
-🤎,1F90E,smileys-emotion,emotion,brown heart,"brown, heart",,,,,,,,12,138
-🤍,1F90D,smileys-emotion,emotion,white heart,"heart, white",,,,,,,,12,140
-🤏,1F90F,people-body,hand-fingers-partial,pinching hand,small amount,,,,,single,🤏,1F90F,12,198
-🦾,1F9BE,people-body,body-parts,mechanical arm,"accessibility, prosthetic",,,,,,,,12,364
-🦿,1F9BF,people-body,body-parts,mechanical leg,"accessibility, prosthetic",,,,,,,,12,365
-🦻,1F9BB,people-body,body-parts,ear with hearing aid,"accessibility, hard of hearing",,,,,single,🦻,1F9BB,12,384
-🧏,1F9CF,people-body,person-gesture,deaf person,"accessibility, deaf, ear, hear",,,,,single,🧏,1F9CF,12,728
 🧏‍♂️,1F9CF-200D-2642-FE0F,people-body,person-gesture,deaf man,"deaf, man",,,,,single,🧏‍♂️,1F9CF-200D-2642-FE0F,12,734
 🧏‍♀️,1F9CF-200D-2640-FE0F,people-body,person-gesture,deaf woman,"deaf, woman",,,,,single,🧏‍♀️,1F9CF-200D-2640-FE0F,12,746
-🧍,1F9CD,people-body,person-activity,person standing,"stand, standing",,,,,single,🧍,1F9CD,12,1607
-🧍‍♂️,1F9CD-200D-2642-FE0F,people-body,person-activity,man standing,"man, standing",,,,,single,🧍‍♂️,1F9CD-200D-2642-FE0F,12,1613
-🧍‍♀️,1F9CD-200D-2640-FE0F,people-body,person-activity,woman standing,"standing, woman",,,,,single,🧍‍♀️,1F9CD-200D-2640-FE0F,12,1625
-🧎,1F9CE,people-body,person-activity,person kneeling,"kneel, kneeling",,,,,single,🧎,1F9CE,12,1637
-🧎‍♂️,1F9CE-200D-2642-FE0F,people-body,person-activity,man kneeling,"kneeling, man",,,,,single,🧎‍♂️,1F9CE-200D-2642-FE0F,12,1643
-🧎‍♀️,1F9CE-200D-2640-FE0F,people-body,person-activity,woman kneeling,"kneeling, woman",,,,,single,🧎‍♀️,1F9CE-200D-2640-FE0F,12,1655
 👨‍🦯,1F468-200D-1F9AF,people-body,person-activity,man with probing cane,"accessibility, blind, man",,,,,single,👨‍🦯,1F468-200D-1F9AF,12,1667
 👩‍🦯,1F469-200D-1F9AF,people-body,person-activity,woman with probing cane,"accessibility, blind, woman",,,,,single,👩‍🦯,1F469-200D-1F9AF,12,1673
-👨‍🦼,1F468-200D-1F9BC,people-body,person-activity,man in motorized wheelchair,"accessibility, man, wheelchair",,,,,single,👨‍🦼,1F468-200D-1F9BC,12,1679
-👩‍🦼,1F469-200D-1F9BC,people-body,person-activity,woman in motorized wheelchair,"accessibility, wheelchair, woman",,,,,single,👩‍🦼,1F469-200D-1F9BC,12,1685
 👨‍🦽,1F468-200D-1F9BD,people-body,person-activity,man in manual wheelchair,"accessibility, man, wheelchair",,,,,single,👨‍🦽,1F468-200D-1F9BD,12,1691
-👩‍🦽,1F469-200D-1F9BD,people-body,person-activity,woman in manual wheelchair,"accessibility, wheelchair, woman",,,,,single,👩‍🦽,1F469-200D-1F9BD,12,1697
 🕴️,1F574,people-body,person-activity,man in suit levitating,"business, man, suit",,,,,single,🕴️,1F574,1,1746
 🧖,1F9D6,people-body,person-activity,person in steamy room,"sauna, steam room",,,,,single,🧖,1F9D6,5,1757
 🧖‍♂️,1F9D6-200D-2642-FE0F,people-body,person-activity,man in steamy room,"sauna, steam room",,,,,single,🧖‍♂️,1F9D6-200D-2642-FE0F,5,1763
@@ -163,15 +146,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 8️⃣,0038-FE0F-20E3,symbols,keycap,keycap: 8,keycap,,,,,,,,3,3474
 9️⃣,0039-FE0F-20E3,symbols,keycap,keycap: 9,keycap,,,,,,,,3,3476
 🔟,1F51F,symbols,keycap,keycap: 10,keycap,,,,,,,,1,3478
-🅰️,1F170,symbols,alphanum,A button (blood type),"a, a button (blood type), blood type",,,,,,,,1,3485
-🆎,1F18E,symbols,alphanum,AB button (blood type),"ab, ab button (blood type), blood type",,,,,,,,1,3486
-🅱️,1F171,symbols,alphanum,B button (blood type),"b, b button (blood type), blood type",,,,,,,,1,3488
-🆑,1F191,symbols,alphanum,CL button,"cl, cl button",,,,,,,,1,3489
-🆓,1F193,symbols,alphanum,FREE button,"free, free button",,,,,,,,1,3491
-Ⓜ️,24C2,symbols,alphanum,circled M,"circle, circled m, m",,,,,,,,1,3496
-🆖,1F196,symbols,alphanum,NG button,"ng, ng button",,,,,,,,1,3498
-🅾️,1F17E,symbols,alphanum,O button (blood type),"blood type, o, o button (blood type)",,,,,,,,1,3500
-🆙,1F199,symbols,alphanum,UP! button,"mark, up, up! button",,,,,,,,1,3505
 🈁,1F201,symbols,alphanum,Japanese “here” button,"japanese, japanese “here” button, katakana, “here”, ココ",,,,,,,,1,3507
 🈷️,1F237,symbols,alphanum,Japanese “monthly amount” button,"ideograph, japanese, japanese “monthly amount” button, “monthly amount”, 月",,,,,,,,1,3511
 🈶,1F236,symbols,alphanum,Japanese “not free of charge” button,"ideograph, japanese, japanese “not free of charge” button, “not free of charge”, 有",,,,,,,,1,3512
@@ -189,4 +163,3 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💠,1F4A0,symbols,geometric,diamond with a dot,"comic, diamond, geometric, inside",,,,,,,,1,3562
 🔳,1F533,symbols,geometric,white square button,"button, geometric, outlined, square",,,,,,,,1,3564
 🔲,1F532,symbols,geometric,black square button,"button, geometric, square",,,,,,,,1,3565
-🎌,1F38C,flags,flag,crossed flags,"celebration, cross, crossed, japanese",,,,,,,,1,3568
