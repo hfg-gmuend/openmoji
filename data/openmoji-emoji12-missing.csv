@@ -6,16 +6,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦾,1F9BE,people-body,body-parts,mechanical arm,"accessibility, prosthetic",,,,,,,,12,364
 🦿,1F9BF,people-body,body-parts,mechanical leg,"accessibility, prosthetic",,,,,,,,12,365
 🦻,1F9BB,people-body,body-parts,ear with hearing aid,"accessibility, hard of hearing",,,,,single,🦻,1F9BB,12,384
-👱‍♂️,1F471-200D-2642-FE0F,people-body,person,man: blond hair,"blond, blond-haired man, hair, man",,,,,single,👱‍♂️,1F471-200D-2642-FE0F,4,452
-👨‍🦰,1F468-200D-1F9B0,people-body,person,man: red hair,"adult, man, red hair",,,,,single,👨‍🦰,1F468-200D-1F9B0,11,464
-👨‍🦱,1F468-200D-1F9B1,people-body,person,man: curly hair,"adult, curly hair, man",,,,,single,👨‍🦱,1F468-200D-1F9B1,11,470
-👨‍🦳,1F468-200D-1F9B3,people-body,person,man: white hair,"adult, man, white hair",,,,,single,👨‍🦳,1F468-200D-1F9B3,11,476
-👨‍🦲,1F468-200D-1F9B2,people-body,person,man: bald,"adult, bald, man",,,,,single,👨‍🦲,1F468-200D-1F9B2,11,482
-👱‍♀️,1F471-200D-2640-FE0F,people-body,person,woman: blond hair,"blond-haired woman, blonde, hair, woman",,,,,single,👱‍♀️,1F471-200D-2640-FE0F,4,494
-👩‍🦰,1F469-200D-1F9B0,people-body,person,woman: red hair,"adult, red hair, woman",,,,,single,👩‍🦰,1F469-200D-1F9B0,11,506
-👩‍🦱,1F469-200D-1F9B1,people-body,person,woman: curly hair,"adult, curly hair, woman",,,,,single,👩‍🦱,1F469-200D-1F9B1,11,512
-👩‍🦳,1F469-200D-1F9B3,people-body,person,woman: white hair,"adult, white hair, woman",,,,,single,👩‍🦳,1F469-200D-1F9B3,11,518
-👩‍🦲,1F469-200D-1F9B2,people-body,person,woman: bald,"adult, bald, woman",,,,,single,👩‍🦲,1F469-200D-1F9B2,11,524
 🙍‍♂️,1F64D-200D-2642-FE0F,people-body,person-gesture,man frowning,"frowning, gesture, man",,,,,single,🙍‍♂️,1F64D-200D-2642-FE0F,4,554
 🙍‍♀️,1F64D-200D-2640-FE0F,people-body,person-gesture,woman frowning,"frowning, gesture, woman",,,,,single,🙍‍♀️,1F64D-200D-2640-FE0F,4,566
 🙎‍♂️,1F64E-200D-2642-FE0F,people-body,person-gesture,man pouting,"gesture, man, pouting",,,,,single,🙎‍♂️,1F64E-200D-2642-FE0F,4,584
@@ -35,21 +25,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🙇‍♀️,1F647-200D-2640-FE0F,people-body,person-gesture,woman bowing,"apology, bowing, favor, gesture, sorry, woman",,,,,single,🙇‍♀️,1F647-200D-2640-FE0F,4,776
 🤷‍♂️,1F937-200D-2642-FE0F,people-body,person-gesture,man shrugging,"doubt, ignorance, indifference, man, shrug",,,,,single,🤷‍♂️,1F937-200D-2642-FE0F,4,824
 🤷‍♀️,1F937-200D-2640-FE0F,people-body,person-gesture,woman shrugging,"doubt, ignorance, indifference, shrug, woman",,,,,single,🤷‍♀️,1F937-200D-2640-FE0F,4,836
-🤵,1F935,people-body,person-role,man in tuxedo,"groom, man, tuxedo",,,,,single,🤵,1F935,3,1255
-🦸,1F9B8,people-body,person-fantasy,superhero,"good, hero, heroine, superpower",,,,,single,🦸,1F9B8,11,1297
-🦸‍♂️,1F9B8-200D-2642-FE0F,people-body,person-fantasy,man superhero,"good, hero, man, superpower",,,,,single,🦸‍♂️,1F9B8-200D-2642-FE0F,11,1303
-🦸‍♀️,1F9B8-200D-2640-FE0F,people-body,person-fantasy,woman superhero,"good, hero, heroine, superpower, woman",,,,,single,🦸‍♀️,1F9B8-200D-2640-FE0F,11,1315
-🦹,1F9B9,people-body,person-fantasy,supervillain,"criminal, evil, superpower, villain",,,,,single,🦹,1F9B9,11,1327
-🦹‍♂️,1F9B9-200D-2642-FE0F,people-body,person-fantasy,man supervillain,"criminal, evil, man, superpower, villain",,,,,single,🦹‍♂️,1F9B9-200D-2642-FE0F,11,1333
-🦹‍♀️,1F9B9-200D-2640-FE0F,people-body,person-fantasy,woman supervillain,"criminal, evil, superpower, villain, woman",,,,,single,🦹‍♀️,1F9B9-200D-2640-FE0F,11,1345
-🧙‍♂️,1F9D9-200D-2642-FE0F,people-body,person-fantasy,man mage,"sorcerer, wizard",,,,,single,🧙‍♂️,1F9D9-200D-2642-FE0F,5,1363
-🧙‍♀️,1F9D9-200D-2640-FE0F,people-body,person-fantasy,woman mage,"sorceress, witch",,,,,single,🧙‍♀️,1F9D9-200D-2640-FE0F,5,1375
-🧚,1F9DA,people-body,person-fantasy,fairy,"oberon, puck, titania",,,,,single,🧚,1F9DA,5,1387
-🧚‍♂️,1F9DA-200D-2642-FE0F,people-body,person-fantasy,man fairy,"oberon, puck",,,,,single,🧚‍♂️,1F9DA-200D-2642-FE0F,5,1393
-🧚‍♀️,1F9DA-200D-2640-FE0F,people-body,person-fantasy,woman fairy,titania,,,,,single,🧚‍♀️,1F9DA-200D-2640-FE0F,5,1405
-🧛,1F9DB,people-body,person-fantasy,vampire,"dracula, undead",,,,,single,🧛,1F9DB,5,1417
-🧛‍♂️,1F9DB-200D-2642-FE0F,people-body,person-fantasy,man vampire,"dracula, undead",,,,,single,🧛‍♂️,1F9DB-200D-2642-FE0F,5,1423
-🧛‍♀️,1F9DB-200D-2640-FE0F,people-body,person-fantasy,woman vampire,undead,,,,,single,🧛‍♀️,1F9DB-200D-2640-FE0F,5,1435
 🧜,1F9DC,people-body,person-fantasy,merperson,"mermaid, merman, merwoman",,,,,single,🧜,1F9DC,5,1447
 🧝‍♂️,1F9DD-200D-2642-FE0F,people-body,person-fantasy,man elf,magical,,,,,single,🧝‍♂️,1F9DD-200D-2642-FE0F,5,1483
 🧝‍♀️,1F9DD-200D-2640-FE0F,people-body,person-fantasy,woman elf,magical,,,,,single,🧝‍♀️,1F9DD-200D-2640-FE0F,5,1495

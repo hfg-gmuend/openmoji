@@ -434,72 +434,72 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧔🏽,1F9D4-1F3FD,people-body,person,"man: medium skin tone, beard",,,Lisa Thiel,2018-04-18,3,single,🧔,1F9D4,5,449
 🧔🏾,1F9D4-1F3FE,people-body,person,"man: medium-dark skin tone, beard",,,Lisa Thiel,2018-04-18,4,single,🧔,1F9D4,5,450
 🧔🏿,1F9D4-1F3FF,people-body,person,"man: dark skin tone, beard",,,Lisa Thiel,2018-04-18,5,single,🧔,1F9D4,5,451
-👱‍♂️,1F471-200D-2642-FE0F,people-body,person,man: blond hair,"blond, blond-haired man, hair, man",,,,,single,👱‍♂️,1F471-200D-2642-FE0F,4,452
-👱🏻‍♂️,1F471-1F3FB-200D-2642-FE0F,people-body,person,"man: light skin tone, blond hair",,,,,1,single,👱‍♂️,1F471-200D-2642-FE0F,4,454
-👱🏼‍♂️,1F471-1F3FC-200D-2642-FE0F,people-body,person,"man: medium-light skin tone, blond hair",,,,,2,single,👱‍♂️,1F471-200D-2642-FE0F,4,456
-👱🏽‍♂️,1F471-1F3FD-200D-2642-FE0F,people-body,person,"man: medium skin tone, blond hair",,,,,3,single,👱‍♂️,1F471-200D-2642-FE0F,4,458
-👱🏾‍♂️,1F471-1F3FE-200D-2642-FE0F,people-body,person,"man: medium-dark skin tone, blond hair",,,,,4,single,👱‍♂️,1F471-200D-2642-FE0F,4,460
-👱🏿‍♂️,1F471-1F3FF-200D-2642-FE0F,people-body,person,"man: dark skin tone, blond hair",,,,,5,single,👱‍♂️,1F471-200D-2642-FE0F,4,462
-👨‍🦰,1F468-200D-1F9B0,people-body,person,man: red hair,"adult, man, red hair",,,,,single,👨‍🦰,1F468-200D-1F9B0,11,464
-👨🏻‍🦰,1F468-1F3FB-200D-1F9B0,people-body,person,"man: light skin tone, red hair",,,,,1,single,👨‍🦰,1F468-200D-1F9B0,11,465
-👨🏼‍🦰,1F468-1F3FC-200D-1F9B0,people-body,person,"man: medium-light skin tone, red hair",,,,,2,single,👨‍🦰,1F468-200D-1F9B0,11,466
-👨🏽‍🦰,1F468-1F3FD-200D-1F9B0,people-body,person,"man: medium skin tone, red hair",,,,,3,single,👨‍🦰,1F468-200D-1F9B0,11,467
-👨🏾‍🦰,1F468-1F3FE-200D-1F9B0,people-body,person,"man: medium-dark skin tone, red hair",,,,,4,single,👨‍🦰,1F468-200D-1F9B0,11,468
-👨🏿‍🦰,1F468-1F3FF-200D-1F9B0,people-body,person,"man: dark skin tone, red hair",,,,,5,single,👨‍🦰,1F468-200D-1F9B0,11,469
-👨‍🦱,1F468-200D-1F9B1,people-body,person,man: curly hair,"adult, curly hair, man",,,,,single,👨‍🦱,1F468-200D-1F9B1,11,470
-👨🏻‍🦱,1F468-1F3FB-200D-1F9B1,people-body,person,"man: light skin tone, curly hair",,,,,1,single,👨‍🦱,1F468-200D-1F9B1,11,471
-👨🏼‍🦱,1F468-1F3FC-200D-1F9B1,people-body,person,"man: medium-light skin tone, curly hair",,,,,2,single,👨‍🦱,1F468-200D-1F9B1,11,472
-👨🏽‍🦱,1F468-1F3FD-200D-1F9B1,people-body,person,"man: medium skin tone, curly hair",,,,,3,single,👨‍🦱,1F468-200D-1F9B1,11,473
-👨🏾‍🦱,1F468-1F3FE-200D-1F9B1,people-body,person,"man: medium-dark skin tone, curly hair",,,,,4,single,👨‍🦱,1F468-200D-1F9B1,11,474
-👨🏿‍🦱,1F468-1F3FF-200D-1F9B1,people-body,person,"man: dark skin tone, curly hair",,,,,5,single,👨‍🦱,1F468-200D-1F9B1,11,475
-👨‍🦳,1F468-200D-1F9B3,people-body,person,man: white hair,"adult, man, white hair",,,,,single,👨‍🦳,1F468-200D-1F9B3,11,476
-👨🏻‍🦳,1F468-1F3FB-200D-1F9B3,people-body,person,"man: light skin tone, white hair",,,,,1,single,👨‍🦳,1F468-200D-1F9B3,11,477
-👨🏼‍🦳,1F468-1F3FC-200D-1F9B3,people-body,person,"man: medium-light skin tone, white hair",,,,,2,single,👨‍🦳,1F468-200D-1F9B3,11,478
-👨🏽‍🦳,1F468-1F3FD-200D-1F9B3,people-body,person,"man: medium skin tone, white hair",,,,,3,single,👨‍🦳,1F468-200D-1F9B3,11,479
-👨🏾‍🦳,1F468-1F3FE-200D-1F9B3,people-body,person,"man: medium-dark skin tone, white hair",,,,,4,single,👨‍🦳,1F468-200D-1F9B3,11,480
-👨🏿‍🦳,1F468-1F3FF-200D-1F9B3,people-body,person,"man: dark skin tone, white hair",,,,,5,single,👨‍🦳,1F468-200D-1F9B3,11,481
-👨‍🦲,1F468-200D-1F9B2,people-body,person,man: bald,"adult, bald, man",,,,,single,👨‍🦲,1F468-200D-1F9B2,11,482
-👨🏻‍🦲,1F468-1F3FB-200D-1F9B2,people-body,person,"man: light skin tone, bald",,,,,1,single,👨‍🦲,1F468-200D-1F9B2,11,483
-👨🏼‍🦲,1F468-1F3FC-200D-1F9B2,people-body,person,"man: medium-light skin tone, bald",,,,,2,single,👨‍🦲,1F468-200D-1F9B2,11,484
-👨🏽‍🦲,1F468-1F3FD-200D-1F9B2,people-body,person,"man: medium skin tone, bald",,,,,3,single,👨‍🦲,1F468-200D-1F9B2,11,485
-👨🏾‍🦲,1F468-1F3FE-200D-1F9B2,people-body,person,"man: medium-dark skin tone, bald",,,,,4,single,👨‍🦲,1F468-200D-1F9B2,11,486
-👨🏿‍🦲,1F468-1F3FF-200D-1F9B2,people-body,person,"man: dark skin tone, bald",,,,,5,single,👨‍🦲,1F468-200D-1F9B2,11,487
+👱‍♂️,1F471-200D-2642-FE0F,people-body,person,man: blond hair,"blond, blond-haired man, hair, man",,Nadine Bartel,2019-05-06,,single,👱‍♂️,1F471-200D-2642-FE0F,4,452
+👱🏻‍♂️,1F471-1F3FB-200D-2642-FE0F,people-body,person,"man: light skin tone, blond hair",,,Nadine Bartel,2019-05-06,1,single,👱‍♂️,1F471-200D-2642-FE0F,4,454
+👱🏼‍♂️,1F471-1F3FC-200D-2642-FE0F,people-body,person,"man: medium-light skin tone, blond hair",,,Nadine Bartel,2019-05-06,2,single,👱‍♂️,1F471-200D-2642-FE0F,4,456
+👱🏽‍♂️,1F471-1F3FD-200D-2642-FE0F,people-body,person,"man: medium skin tone, blond hair",,,Nadine Bartel,2019-05-06,3,single,👱‍♂️,1F471-200D-2642-FE0F,4,458
+👱🏾‍♂️,1F471-1F3FE-200D-2642-FE0F,people-body,person,"man: medium-dark skin tone, blond hair",,,Nadine Bartel,2019-05-06,4,single,👱‍♂️,1F471-200D-2642-FE0F,4,460
+👱🏿‍♂️,1F471-1F3FF-200D-2642-FE0F,people-body,person,"man: dark skin tone, blond hair",,,Nadine Bartel,2019-05-06,5,single,👱‍♂️,1F471-200D-2642-FE0F,4,462
+👨‍🦰,1F468-200D-1F9B0,people-body,person,man: red hair,"adult, man, red hair",,Nadine Bartel,2019-05-06,,single,👨‍🦰,1F468-200D-1F9B0,11,464
+👨🏻‍🦰,1F468-1F3FB-200D-1F9B0,people-body,person,"man: light skin tone, red hair",,,Nadine Bartel,2019-05-06,1,single,👨‍🦰,1F468-200D-1F9B0,11,465
+👨🏼‍🦰,1F468-1F3FC-200D-1F9B0,people-body,person,"man: medium-light skin tone, red hair",,,Nadine Bartel,2019-05-06,2,single,👨‍🦰,1F468-200D-1F9B0,11,466
+👨🏽‍🦰,1F468-1F3FD-200D-1F9B0,people-body,person,"man: medium skin tone, red hair",,,Nadine Bartel,2019-05-06,3,single,👨‍🦰,1F468-200D-1F9B0,11,467
+👨🏾‍🦰,1F468-1F3FE-200D-1F9B0,people-body,person,"man: medium-dark skin tone, red hair",,,Nadine Bartel,2019-05-06,4,single,👨‍🦰,1F468-200D-1F9B0,11,468
+👨🏿‍🦰,1F468-1F3FF-200D-1F9B0,people-body,person,"man: dark skin tone, red hair",,,Nadine Bartel,2019-05-06,5,single,👨‍🦰,1F468-200D-1F9B0,11,469
+👨‍🦱,1F468-200D-1F9B1,people-body,person,man: curly hair,"adult, curly hair, man",,Nadine Bartel,2019-05-06,,single,👨‍🦱,1F468-200D-1F9B1,11,470
+👨🏻‍🦱,1F468-1F3FB-200D-1F9B1,people-body,person,"man: light skin tone, curly hair",,,Nadine Bartel,2019-05-06,1,single,👨‍🦱,1F468-200D-1F9B1,11,471
+👨🏼‍🦱,1F468-1F3FC-200D-1F9B1,people-body,person,"man: medium-light skin tone, curly hair",,,Nadine Bartel,2019-05-06,2,single,👨‍🦱,1F468-200D-1F9B1,11,472
+👨🏽‍🦱,1F468-1F3FD-200D-1F9B1,people-body,person,"man: medium skin tone, curly hair",,,Nadine Bartel,2019-05-06,3,single,👨‍🦱,1F468-200D-1F9B1,11,473
+👨🏾‍🦱,1F468-1F3FE-200D-1F9B1,people-body,person,"man: medium-dark skin tone, curly hair",,,Nadine Bartel,2019-05-06,4,single,👨‍🦱,1F468-200D-1F9B1,11,474
+👨🏿‍🦱,1F468-1F3FF-200D-1F9B1,people-body,person,"man: dark skin tone, curly hair",,,Nadine Bartel,2019-05-06,5,single,👨‍🦱,1F468-200D-1F9B1,11,475
+👨‍🦳,1F468-200D-1F9B3,people-body,person,man: white hair,"adult, man, white hair",,Nadine Bartel,2019-05-06,,single,👨‍🦳,1F468-200D-1F9B3,11,476
+👨🏻‍🦳,1F468-1F3FB-200D-1F9B3,people-body,person,"man: light skin tone, white hair",,,Nadine Bartel,2019-05-06,1,single,👨‍🦳,1F468-200D-1F9B3,11,477
+👨🏼‍🦳,1F468-1F3FC-200D-1F9B3,people-body,person,"man: medium-light skin tone, white hair",,,Nadine Bartel,2019-05-06,2,single,👨‍🦳,1F468-200D-1F9B3,11,478
+👨🏽‍🦳,1F468-1F3FD-200D-1F9B3,people-body,person,"man: medium skin tone, white hair",,,Nadine Bartel,2019-05-06,3,single,👨‍🦳,1F468-200D-1F9B3,11,479
+👨🏾‍🦳,1F468-1F3FE-200D-1F9B3,people-body,person,"man: medium-dark skin tone, white hair",,,Nadine Bartel,2019-05-06,4,single,👨‍🦳,1F468-200D-1F9B3,11,480
+👨🏿‍🦳,1F468-1F3FF-200D-1F9B3,people-body,person,"man: dark skin tone, white hair",,,Nadine Bartel,2019-05-06,5,single,👨‍🦳,1F468-200D-1F9B3,11,481
+👨‍🦲,1F468-200D-1F9B2,people-body,person,man: bald,"adult, bald, man",,Nadine Bartel,2019-05-06,,single,👨‍🦲,1F468-200D-1F9B2,11,482
+👨🏻‍🦲,1F468-1F3FB-200D-1F9B2,people-body,person,"man: light skin tone, bald",,,Nadine Bartel,2019-05-06,1,single,👨‍🦲,1F468-200D-1F9B2,11,483
+👨🏼‍🦲,1F468-1F3FC-200D-1F9B2,people-body,person,"man: medium-light skin tone, bald",,,Nadine Bartel,2019-05-06,2,single,👨‍🦲,1F468-200D-1F9B2,11,484
+👨🏽‍🦲,1F468-1F3FD-200D-1F9B2,people-body,person,"man: medium skin tone, bald",,,Nadine Bartel,2019-05-06,3,single,👨‍🦲,1F468-200D-1F9B2,11,485
+👨🏾‍🦲,1F468-1F3FE-200D-1F9B2,people-body,person,"man: medium-dark skin tone, bald",,,Nadine Bartel,2019-05-06,4,single,👨‍🦲,1F468-200D-1F9B2,11,486
+👨🏿‍🦲,1F468-1F3FF-200D-1F9B2,people-body,person,"man: dark skin tone, bald",,,Nadine Bartel,2019-05-06,5,single,👨‍🦲,1F468-200D-1F9B2,11,487
 👩,1F469,people-body,person,woman,adult,"human, person",Johanna Wellnitz,2018-04-18,,single,👩,1F469,1,488
 👩🏻,1F469-1F3FB,people-body,person,woman: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,👩,1F469,2,489
 👩🏼,1F469-1F3FC,people-body,person,woman: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,👩,1F469,2,490
 👩🏽,1F469-1F3FD,people-body,person,woman: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,👩,1F469,2,491
 👩🏾,1F469-1F3FE,people-body,person,woman: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,👩,1F469,2,492
 👩🏿,1F469-1F3FF,people-body,person,woman: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,👩,1F469,2,493
-👱‍♀️,1F471-200D-2640-FE0F,people-body,person,woman: blond hair,"blond-haired woman, blonde, hair, woman",,,,,single,👱‍♀️,1F471-200D-2640-FE0F,4,494
-👱🏻‍♀️,1F471-1F3FB-200D-2640-FE0F,people-body,person,"woman: light skin tone, blond hair",,,,,1,single,👱‍♀️,1F471-200D-2640-FE0F,4,496
-👱🏼‍♀️,1F471-1F3FC-200D-2640-FE0F,people-body,person,"woman: medium-light skin tone, blond hair",,,,,2,single,👱‍♀️,1F471-200D-2640-FE0F,4,498
-👱🏽‍♀️,1F471-1F3FD-200D-2640-FE0F,people-body,person,"woman: medium skin tone, blond hair",,,,,3,single,👱‍♀️,1F471-200D-2640-FE0F,4,500
-👱🏾‍♀️,1F471-1F3FE-200D-2640-FE0F,people-body,person,"woman: medium-dark skin tone, blond hair",,,,,4,single,👱‍♀️,1F471-200D-2640-FE0F,4,502
-👱🏿‍♀️,1F471-1F3FF-200D-2640-FE0F,people-body,person,"woman: dark skin tone, blond hair",,,,,5,single,👱‍♀️,1F471-200D-2640-FE0F,4,504
-👩‍🦰,1F469-200D-1F9B0,people-body,person,woman: red hair,"adult, red hair, woman",,,,,single,👩‍🦰,1F469-200D-1F9B0,11,506
-👩🏻‍🦰,1F469-1F3FB-200D-1F9B0,people-body,person,"woman: light skin tone, red hair",,,,,1,single,👩‍🦰,1F469-200D-1F9B0,11,507
-👩🏼‍🦰,1F469-1F3FC-200D-1F9B0,people-body,person,"woman: medium-light skin tone, red hair",,,,,2,single,👩‍🦰,1F469-200D-1F9B0,11,508
-👩🏽‍🦰,1F469-1F3FD-200D-1F9B0,people-body,person,"woman: medium skin tone, red hair",,,,,3,single,👩‍🦰,1F469-200D-1F9B0,11,509
-👩🏾‍🦰,1F469-1F3FE-200D-1F9B0,people-body,person,"woman: medium-dark skin tone, red hair",,,,,4,single,👩‍🦰,1F469-200D-1F9B0,11,510
-👩🏿‍🦰,1F469-1F3FF-200D-1F9B0,people-body,person,"woman: dark skin tone, red hair",,,,,5,single,👩‍🦰,1F469-200D-1F9B0,11,511
-👩‍🦱,1F469-200D-1F9B1,people-body,person,woman: curly hair,"adult, curly hair, woman",,,,,single,👩‍🦱,1F469-200D-1F9B1,11,512
-👩🏻‍🦱,1F469-1F3FB-200D-1F9B1,people-body,person,"woman: light skin tone, curly hair",,,,,1,single,👩‍🦱,1F469-200D-1F9B1,11,513
-👩🏼‍🦱,1F469-1F3FC-200D-1F9B1,people-body,person,"woman: medium-light skin tone, curly hair",,,,,2,single,👩‍🦱,1F469-200D-1F9B1,11,514
-👩🏽‍🦱,1F469-1F3FD-200D-1F9B1,people-body,person,"woman: medium skin tone, curly hair",,,,,3,single,👩‍🦱,1F469-200D-1F9B1,11,515
-👩🏾‍🦱,1F469-1F3FE-200D-1F9B1,people-body,person,"woman: medium-dark skin tone, curly hair",,,,,4,single,👩‍🦱,1F469-200D-1F9B1,11,516
-👩🏿‍🦱,1F469-1F3FF-200D-1F9B1,people-body,person,"woman: dark skin tone, curly hair",,,,,5,single,👩‍🦱,1F469-200D-1F9B1,11,517
-👩‍🦳,1F469-200D-1F9B3,people-body,person,woman: white hair,"adult, white hair, woman",,,,,single,👩‍🦳,1F469-200D-1F9B3,11,518
-👩🏻‍🦳,1F469-1F3FB-200D-1F9B3,people-body,person,"woman: light skin tone, white hair",,,,,1,single,👩‍🦳,1F469-200D-1F9B3,11,519
-👩🏼‍🦳,1F469-1F3FC-200D-1F9B3,people-body,person,"woman: medium-light skin tone, white hair",,,,,2,single,👩‍🦳,1F469-200D-1F9B3,11,520
-👩🏽‍🦳,1F469-1F3FD-200D-1F9B3,people-body,person,"woman: medium skin tone, white hair",,,,,3,single,👩‍🦳,1F469-200D-1F9B3,11,521
-👩🏾‍🦳,1F469-1F3FE-200D-1F9B3,people-body,person,"woman: medium-dark skin tone, white hair",,,,,4,single,👩‍🦳,1F469-200D-1F9B3,11,522
-👩🏿‍🦳,1F469-1F3FF-200D-1F9B3,people-body,person,"woman: dark skin tone, white hair",,,,,5,single,👩‍🦳,1F469-200D-1F9B3,11,523
-👩‍🦲,1F469-200D-1F9B2,people-body,person,woman: bald,"adult, bald, woman",,,,,single,👩‍🦲,1F469-200D-1F9B2,11,524
-👩🏻‍🦲,1F469-1F3FB-200D-1F9B2,people-body,person,"woman: light skin tone, bald",,,,,1,single,👩‍🦲,1F469-200D-1F9B2,11,525
-👩🏼‍🦲,1F469-1F3FC-200D-1F9B2,people-body,person,"woman: medium-light skin tone, bald",,,,,2,single,👩‍🦲,1F469-200D-1F9B2,11,526
-👩🏽‍🦲,1F469-1F3FD-200D-1F9B2,people-body,person,"woman: medium skin tone, bald",,,,,3,single,👩‍🦲,1F469-200D-1F9B2,11,527
-👩🏾‍🦲,1F469-1F3FE-200D-1F9B2,people-body,person,"woman: medium-dark skin tone, bald",,,,,4,single,👩‍🦲,1F469-200D-1F9B2,11,528
-👩🏿‍🦲,1F469-1F3FF-200D-1F9B2,people-body,person,"woman: dark skin tone, bald",,,,,5,single,👩‍🦲,1F469-200D-1F9B2,11,529
+👱‍♀️,1F471-200D-2640-FE0F,people-body,person,woman: blond hair,"blond-haired woman, blonde, hair, woman",,Nadine Bartel,2019-05-06,,single,👱‍♀️,1F471-200D-2640-FE0F,4,494
+👱🏻‍♀️,1F471-1F3FB-200D-2640-FE0F,people-body,person,"woman: light skin tone, blond hair",,,Nadine Bartel,2019-05-06,1,single,👱‍♀️,1F471-200D-2640-FE0F,4,496
+👱🏼‍♀️,1F471-1F3FC-200D-2640-FE0F,people-body,person,"woman: medium-light skin tone, blond hair",,,Nadine Bartel,2019-05-06,2,single,👱‍♀️,1F471-200D-2640-FE0F,4,498
+👱🏽‍♀️,1F471-1F3FD-200D-2640-FE0F,people-body,person,"woman: medium skin tone, blond hair",,,Nadine Bartel,2019-05-06,3,single,👱‍♀️,1F471-200D-2640-FE0F,4,500
+👱🏾‍♀️,1F471-1F3FE-200D-2640-FE0F,people-body,person,"woman: medium-dark skin tone, blond hair",,,Nadine Bartel,2019-05-06,4,single,👱‍♀️,1F471-200D-2640-FE0F,4,502
+👱🏿‍♀️,1F471-1F3FF-200D-2640-FE0F,people-body,person,"woman: dark skin tone, blond hair",,,Nadine Bartel,2019-05-06,5,single,👱‍♀️,1F471-200D-2640-FE0F,4,504
+👩‍🦰,1F469-200D-1F9B0,people-body,person,woman: red hair,"adult, red hair, woman",,Nadine Bartel,2019-05-06,,single,👩‍🦰,1F469-200D-1F9B0,11,506
+👩🏻‍🦰,1F469-1F3FB-200D-1F9B0,people-body,person,"woman: light skin tone, red hair",,,Nadine Bartel,2019-05-06,1,single,👩‍🦰,1F469-200D-1F9B0,11,507
+👩🏼‍🦰,1F469-1F3FC-200D-1F9B0,people-body,person,"woman: medium-light skin tone, red hair",,,Nadine Bartel,2019-05-06,2,single,👩‍🦰,1F469-200D-1F9B0,11,508
+👩🏽‍🦰,1F469-1F3FD-200D-1F9B0,people-body,person,"woman: medium skin tone, red hair",,,Nadine Bartel,2019-05-06,3,single,👩‍🦰,1F469-200D-1F9B0,11,509
+👩🏾‍🦰,1F469-1F3FE-200D-1F9B0,people-body,person,"woman: medium-dark skin tone, red hair",,,Nadine Bartel,2019-05-06,4,single,👩‍🦰,1F469-200D-1F9B0,11,510
+👩🏿‍🦰,1F469-1F3FF-200D-1F9B0,people-body,person,"woman: dark skin tone, red hair",,,Nadine Bartel,2019-05-06,5,single,👩‍🦰,1F469-200D-1F9B0,11,511
+👩‍🦱,1F469-200D-1F9B1,people-body,person,woman: curly hair,"adult, curly hair, woman",,Nadine Bartel,2019-05-06,,single,👩‍🦱,1F469-200D-1F9B1,11,512
+👩🏻‍🦱,1F469-1F3FB-200D-1F9B1,people-body,person,"woman: light skin tone, curly hair",,,Nadine Bartel,2019-05-06,1,single,👩‍🦱,1F469-200D-1F9B1,11,513
+👩🏼‍🦱,1F469-1F3FC-200D-1F9B1,people-body,person,"woman: medium-light skin tone, curly hair",,,Nadine Bartel,2019-05-06,2,single,👩‍🦱,1F469-200D-1F9B1,11,514
+👩🏽‍🦱,1F469-1F3FD-200D-1F9B1,people-body,person,"woman: medium skin tone, curly hair",,,Nadine Bartel,2019-05-06,3,single,👩‍🦱,1F469-200D-1F9B1,11,515
+👩🏾‍🦱,1F469-1F3FE-200D-1F9B1,people-body,person,"woman: medium-dark skin tone, curly hair",,,Nadine Bartel,2019-05-06,4,single,👩‍🦱,1F469-200D-1F9B1,11,516
+👩🏿‍🦱,1F469-1F3FF-200D-1F9B1,people-body,person,"woman: dark skin tone, curly hair",,,Nadine Bartel,2019-05-06,5,single,👩‍🦱,1F469-200D-1F9B1,11,517
+👩‍🦳,1F469-200D-1F9B3,people-body,person,woman: white hair,"adult, white hair, woman",,Nadine Bartel,2019-05-06,,single,👩‍🦳,1F469-200D-1F9B3,11,518
+👩🏻‍🦳,1F469-1F3FB-200D-1F9B3,people-body,person,"woman: light skin tone, white hair",,,Nadine Bartel,2019-05-06,1,single,👩‍🦳,1F469-200D-1F9B3,11,519
+👩🏼‍🦳,1F469-1F3FC-200D-1F9B3,people-body,person,"woman: medium-light skin tone, white hair",,,Nadine Bartel,2019-05-06,2,single,👩‍🦳,1F469-200D-1F9B3,11,520
+👩🏽‍🦳,1F469-1F3FD-200D-1F9B3,people-body,person,"woman: medium skin tone, white hair",,,Nadine Bartel,2019-05-06,3,single,👩‍🦳,1F469-200D-1F9B3,11,521
+👩🏾‍🦳,1F469-1F3FE-200D-1F9B3,people-body,person,"woman: medium-dark skin tone, white hair",,,Nadine Bartel,2019-05-06,4,single,👩‍🦳,1F469-200D-1F9B3,11,522
+👩🏿‍🦳,1F469-1F3FF-200D-1F9B3,people-body,person,"woman: dark skin tone, white hair",,,Nadine Bartel,2019-05-06,5,single,👩‍🦳,1F469-200D-1F9B3,11,523
+👩‍🦲,1F469-200D-1F9B2,people-body,person,woman: bald,"adult, bald, woman",,Nadine Bartel,2019-05-06,,single,👩‍🦲,1F469-200D-1F9B2,11,524
+👩🏻‍🦲,1F469-1F3FB-200D-1F9B2,people-body,person,"woman: light skin tone, bald",,,Nadine Bartel,2019-05-06,1,single,👩‍🦲,1F469-200D-1F9B2,11,525
+👩🏼‍🦲,1F469-1F3FC-200D-1F9B2,people-body,person,"woman: medium-light skin tone, bald",,,Nadine Bartel,2019-05-06,2,single,👩‍🦲,1F469-200D-1F9B2,11,526
+👩🏽‍🦲,1F469-1F3FD-200D-1F9B2,people-body,person,"woman: medium skin tone, bald",,,Nadine Bartel,2019-05-06,3,single,👩‍🦲,1F469-200D-1F9B2,11,527
+👩🏾‍🦲,1F469-1F3FE-200D-1F9B2,people-body,person,"woman: medium-dark skin tone, bald",,,Nadine Bartel,2019-05-06,4,single,👩‍🦲,1F469-200D-1F9B2,11,528
+👩🏿‍🦲,1F469-1F3FF-200D-1F9B2,people-body,person,"woman: dark skin tone, bald",,,Nadine Bartel,2019-05-06,5,single,👩‍🦲,1F469-200D-1F9B2,11,529
 🧓,1F9D3,people-body,person,older person,"adult, gender-neutral, old, unspecified gender","human, person",Johanna Wellnitz,2018-04-18,,single,🧓,1F9D3,5,530
 🧓🏻,1F9D3-1F3FB,people-body,person,older person: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,🧓,1F9D3,5,531
 🧓🏼,1F9D3-1F3FC,people-body,person,older person: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,🧓,1F9D3,5,532
@@ -1004,12 +1004,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧕🏽,1F9D5-1F3FD,people-body,person-role,woman with headscarf: medium skin tone,,,Lisa Thiel,2018-04-18,3,single,🧕,1F9D5,5,1252
 🧕🏾,1F9D5-1F3FE,people-body,person-role,woman with headscarf: medium-dark skin tone,,,Lisa Thiel,2018-04-18,4,single,🧕,1F9D5,5,1253
 🧕🏿,1F9D5-1F3FF,people-body,person-role,woman with headscarf: dark skin tone,,,Lisa Thiel,2018-04-18,5,single,🧕,1F9D5,5,1254
-🤵,1F935,people-body,person-role,man in tuxedo,"groom, man, tuxedo",,,,,single,🤵,1F935,3,1255
-🤵🏻,1F935-1F3FB,people-body,person-role,man in tuxedo: light skin tone,,,,,1,single,🤵,1F935,3,1256
-🤵🏼,1F935-1F3FC,people-body,person-role,man in tuxedo: medium-light skin tone,,,,,2,single,🤵,1F935,3,1257
-🤵🏽,1F935-1F3FD,people-body,person-role,man in tuxedo: medium skin tone,,,,,3,single,🤵,1F935,3,1258
-🤵🏾,1F935-1F3FE,people-body,person-role,man in tuxedo: medium-dark skin tone,,,,,4,single,🤵,1F935,3,1259
-🤵🏿,1F935-1F3FF,people-body,person-role,man in tuxedo: dark skin tone,,,,,5,single,🤵,1F935,3,1260
+🤵,1F935,people-body,person-role,man in tuxedo,"groom, man, tuxedo",,Nadine Bartel,2019-05-06,,single,🤵,1F935,3,1255
+🤵🏻,1F935-1F3FB,people-body,person-role,man in tuxedo: light skin tone,,,Nadine Bartel,2019-05-06,1,single,🤵,1F935,3,1256
+🤵🏼,1F935-1F3FC,people-body,person-role,man in tuxedo: medium-light skin tone,,,Nadine Bartel,2019-05-06,2,single,🤵,1F935,3,1257
+🤵🏽,1F935-1F3FD,people-body,person-role,man in tuxedo: medium skin tone,,,Nadine Bartel,2019-05-06,3,single,🤵,1F935,3,1258
+🤵🏾,1F935-1F3FE,people-body,person-role,man in tuxedo: medium-dark skin tone,,,Nadine Bartel,2019-05-06,4,single,🤵,1F935,3,1259
+🤵🏿,1F935-1F3FF,people-body,person-role,man in tuxedo: dark skin tone,,,Nadine Bartel,2019-05-06,5,single,🤵,1F935,3,1260
 👰,1F470,people-body,person-role,bride with veil,"bride, veil, wedding","bride, veil, wedding, woman, female, marriage, married, love, wedding dress",Lisa Thiel,2018-04-18,,single,👰,1F470,1,1261
 👰🏻,1F470-1F3FB,people-body,person-role,bride with veil: light skin tone,,,Lisa Thiel,2018-04-18,1,single,👰,1F470,2,1262
 👰🏼,1F470-1F3FC,people-body,person-role,bride with veil: medium-light skin tone,,,Lisa Thiel,2018-04-18,2,single,👰,1F470,2,1263
@@ -1046,96 +1046,96 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🤶🏽,1F936-1F3FD,people-body,person-fantasy,Mrs. Claus: medium skin tone,,,Lisa Thiel,2018-04-18,3,single,🤶,1F936,3,1294
 🤶🏾,1F936-1F3FE,people-body,person-fantasy,Mrs. Claus: medium-dark skin tone,,,Lisa Thiel,2018-04-18,4,single,🤶,1F936,3,1295
 🤶🏿,1F936-1F3FF,people-body,person-fantasy,Mrs. Claus: dark skin tone,,,Lisa Thiel,2018-04-18,5,single,🤶,1F936,3,1296
-🦸,1F9B8,people-body,person-fantasy,superhero,"good, hero, heroine, superpower",,,,,single,🦸,1F9B8,11,1297
-🦸🏻,1F9B8-1F3FB,people-body,person-fantasy,superhero: light skin tone,,,,,1,single,🦸,1F9B8,11,1298
-🦸🏼,1F9B8-1F3FC,people-body,person-fantasy,superhero: medium-light skin tone,,,,,2,single,🦸,1F9B8,11,1299
-🦸🏽,1F9B8-1F3FD,people-body,person-fantasy,superhero: medium skin tone,,,,,3,single,🦸,1F9B8,11,1300
-🦸🏾,1F9B8-1F3FE,people-body,person-fantasy,superhero: medium-dark skin tone,,,,,4,single,🦸,1F9B8,11,1301
-🦸🏿,1F9B8-1F3FF,people-body,person-fantasy,superhero: dark skin tone,,,,,5,single,🦸,1F9B8,11,1302
-🦸‍♂️,1F9B8-200D-2642-FE0F,people-body,person-fantasy,man superhero,"good, hero, man, superpower",,,,,single,🦸‍♂️,1F9B8-200D-2642-FE0F,11,1303
-🦸🏻‍♂️,1F9B8-1F3FB-200D-2642-FE0F,people-body,person-fantasy,man superhero: light skin tone,,,,,1,single,🦸‍♂️,1F9B8-200D-2642-FE0F,11,1305
-🦸🏼‍♂️,1F9B8-1F3FC-200D-2642-FE0F,people-body,person-fantasy,man superhero: medium-light skin tone,,,,,2,single,🦸‍♂️,1F9B8-200D-2642-FE0F,11,1307
-🦸🏽‍♂️,1F9B8-1F3FD-200D-2642-FE0F,people-body,person-fantasy,man superhero: medium skin tone,,,,,3,single,🦸‍♂️,1F9B8-200D-2642-FE0F,11,1309
-🦸🏾‍♂️,1F9B8-1F3FE-200D-2642-FE0F,people-body,person-fantasy,man superhero: medium-dark skin tone,,,,,4,single,🦸‍♂️,1F9B8-200D-2642-FE0F,11,1311
-🦸🏿‍♂️,1F9B8-1F3FF-200D-2642-FE0F,people-body,person-fantasy,man superhero: dark skin tone,,,,,5,single,🦸‍♂️,1F9B8-200D-2642-FE0F,11,1313
-🦸‍♀️,1F9B8-200D-2640-FE0F,people-body,person-fantasy,woman superhero,"good, hero, heroine, superpower, woman",,,,,single,🦸‍♀️,1F9B8-200D-2640-FE0F,11,1315
-🦸🏻‍♀️,1F9B8-1F3FB-200D-2640-FE0F,people-body,person-fantasy,woman superhero: light skin tone,,,,,1,single,🦸‍♀️,1F9B8-200D-2640-FE0F,11,1317
-🦸🏼‍♀️,1F9B8-1F3FC-200D-2640-FE0F,people-body,person-fantasy,woman superhero: medium-light skin tone,,,,,2,single,🦸‍♀️,1F9B8-200D-2640-FE0F,11,1319
-🦸🏽‍♀️,1F9B8-1F3FD-200D-2640-FE0F,people-body,person-fantasy,woman superhero: medium skin tone,,,,,3,single,🦸‍♀️,1F9B8-200D-2640-FE0F,11,1321
-🦸🏾‍♀️,1F9B8-1F3FE-200D-2640-FE0F,people-body,person-fantasy,woman superhero: medium-dark skin tone,,,,,4,single,🦸‍♀️,1F9B8-200D-2640-FE0F,11,1323
-🦸🏿‍♀️,1F9B8-1F3FF-200D-2640-FE0F,people-body,person-fantasy,woman superhero: dark skin tone,,,,,5,single,🦸‍♀️,1F9B8-200D-2640-FE0F,11,1325
-🦹,1F9B9,people-body,person-fantasy,supervillain,"criminal, evil, superpower, villain",,,,,single,🦹,1F9B9,11,1327
-🦹🏻,1F9B9-1F3FB,people-body,person-fantasy,supervillain: light skin tone,,,,,1,single,🦹,1F9B9,11,1328
-🦹🏼,1F9B9-1F3FC,people-body,person-fantasy,supervillain: medium-light skin tone,,,,,2,single,🦹,1F9B9,11,1329
-🦹🏽,1F9B9-1F3FD,people-body,person-fantasy,supervillain: medium skin tone,,,,,3,single,🦹,1F9B9,11,1330
-🦹🏾,1F9B9-1F3FE,people-body,person-fantasy,supervillain: medium-dark skin tone,,,,,4,single,🦹,1F9B9,11,1331
-🦹🏿,1F9B9-1F3FF,people-body,person-fantasy,supervillain: dark skin tone,,,,,5,single,🦹,1F9B9,11,1332
-🦹‍♂️,1F9B9-200D-2642-FE0F,people-body,person-fantasy,man supervillain,"criminal, evil, man, superpower, villain",,,,,single,🦹‍♂️,1F9B9-200D-2642-FE0F,11,1333
-🦹🏻‍♂️,1F9B9-1F3FB-200D-2642-FE0F,people-body,person-fantasy,man supervillain: light skin tone,,,,,1,single,🦹‍♂️,1F9B9-200D-2642-FE0F,11,1335
-🦹🏼‍♂️,1F9B9-1F3FC-200D-2642-FE0F,people-body,person-fantasy,man supervillain: medium-light skin tone,,,,,2,single,🦹‍♂️,1F9B9-200D-2642-FE0F,11,1337
-🦹🏽‍♂️,1F9B9-1F3FD-200D-2642-FE0F,people-body,person-fantasy,man supervillain: medium skin tone,,,,,3,single,🦹‍♂️,1F9B9-200D-2642-FE0F,11,1339
-🦹🏾‍♂️,1F9B9-1F3FE-200D-2642-FE0F,people-body,person-fantasy,man supervillain: medium-dark skin tone,,,,,4,single,🦹‍♂️,1F9B9-200D-2642-FE0F,11,1341
-🦹🏿‍♂️,1F9B9-1F3FF-200D-2642-FE0F,people-body,person-fantasy,man supervillain: dark skin tone,,,,,5,single,🦹‍♂️,1F9B9-200D-2642-FE0F,11,1343
-🦹‍♀️,1F9B9-200D-2640-FE0F,people-body,person-fantasy,woman supervillain,"criminal, evil, superpower, villain, woman",,,,,single,🦹‍♀️,1F9B9-200D-2640-FE0F,11,1345
-🦹🏻‍♀️,1F9B9-1F3FB-200D-2640-FE0F,people-body,person-fantasy,woman supervillain: light skin tone,,,,,1,single,🦹‍♀️,1F9B9-200D-2640-FE0F,11,1347
-🦹🏼‍♀️,1F9B9-1F3FC-200D-2640-FE0F,people-body,person-fantasy,woman supervillain: medium-light skin tone,,,,,2,single,🦹‍♀️,1F9B9-200D-2640-FE0F,11,1349
-🦹🏽‍♀️,1F9B9-1F3FD-200D-2640-FE0F,people-body,person-fantasy,woman supervillain: medium skin tone,,,,,3,single,🦹‍♀️,1F9B9-200D-2640-FE0F,11,1351
-🦹🏾‍♀️,1F9B9-1F3FE-200D-2640-FE0F,people-body,person-fantasy,woman supervillain: medium-dark skin tone,,,,,4,single,🦹‍♀️,1F9B9-200D-2640-FE0F,11,1353
-🦹🏿‍♀️,1F9B9-1F3FF-200D-2640-FE0F,people-body,person-fantasy,woman supervillain: dark skin tone,,,,,5,single,🦹‍♀️,1F9B9-200D-2640-FE0F,11,1355
+🦸,1F9B8,people-body,person-fantasy,superhero,"good, hero, heroine, superpower",,Nadine Bartel,2019-05-06,,single,🦸,1F9B8,11,1297
+🦸🏻,1F9B8-1F3FB,people-body,person-fantasy,superhero: light skin tone,,,Nadine Bartel,2019-05-06,1,single,🦸,1F9B8,11,1298
+🦸🏼,1F9B8-1F3FC,people-body,person-fantasy,superhero: medium-light skin tone,,,Nadine Bartel,2019-05-06,2,single,🦸,1F9B8,11,1299
+🦸🏽,1F9B8-1F3FD,people-body,person-fantasy,superhero: medium skin tone,,,Nadine Bartel,2019-05-06,3,single,🦸,1F9B8,11,1300
+🦸🏾,1F9B8-1F3FE,people-body,person-fantasy,superhero: medium-dark skin tone,,,Nadine Bartel,2019-05-06,4,single,🦸,1F9B8,11,1301
+🦸🏿,1F9B8-1F3FF,people-body,person-fantasy,superhero: dark skin tone,,,Nadine Bartel,2019-05-06,5,single,🦸,1F9B8,11,1302
+🦸‍♂️,1F9B8-200D-2642-FE0F,people-body,person-fantasy,man superhero,"good, hero, man, superpower",,Nadine Bartel,2019-05-06,,single,🦸‍♂️,1F9B8-200D-2642-FE0F,11,1303
+🦸🏻‍♂️,1F9B8-1F3FB-200D-2642-FE0F,people-body,person-fantasy,man superhero: light skin tone,,,Nadine Bartel,2019-05-06,1,single,🦸‍♂️,1F9B8-200D-2642-FE0F,11,1305
+🦸🏼‍♂️,1F9B8-1F3FC-200D-2642-FE0F,people-body,person-fantasy,man superhero: medium-light skin tone,,,Nadine Bartel,2019-05-06,2,single,🦸‍♂️,1F9B8-200D-2642-FE0F,11,1307
+🦸🏽‍♂️,1F9B8-1F3FD-200D-2642-FE0F,people-body,person-fantasy,man superhero: medium skin tone,,,Nadine Bartel,2019-05-06,3,single,🦸‍♂️,1F9B8-200D-2642-FE0F,11,1309
+🦸🏾‍♂️,1F9B8-1F3FE-200D-2642-FE0F,people-body,person-fantasy,man superhero: medium-dark skin tone,,,Nadine Bartel,2019-05-06,4,single,🦸‍♂️,1F9B8-200D-2642-FE0F,11,1311
+🦸🏿‍♂️,1F9B8-1F3FF-200D-2642-FE0F,people-body,person-fantasy,man superhero: dark skin tone,,,Nadine Bartel,2019-05-06,5,single,🦸‍♂️,1F9B8-200D-2642-FE0F,11,1313
+🦸‍♀️,1F9B8-200D-2640-FE0F,people-body,person-fantasy,woman superhero,"good, hero, heroine, superpower, woman",,Nadine Bartel,2019-05-06,,single,🦸‍♀️,1F9B8-200D-2640-FE0F,11,1315
+🦸🏻‍♀️,1F9B8-1F3FB-200D-2640-FE0F,people-body,person-fantasy,woman superhero: light skin tone,,,Nadine Bartel,2019-05-06,1,single,🦸‍♀️,1F9B8-200D-2640-FE0F,11,1317
+🦸🏼‍♀️,1F9B8-1F3FC-200D-2640-FE0F,people-body,person-fantasy,woman superhero: medium-light skin tone,,,Nadine Bartel,2019-05-06,2,single,🦸‍♀️,1F9B8-200D-2640-FE0F,11,1319
+🦸🏽‍♀️,1F9B8-1F3FD-200D-2640-FE0F,people-body,person-fantasy,woman superhero: medium skin tone,,,Nadine Bartel,2019-05-06,3,single,🦸‍♀️,1F9B8-200D-2640-FE0F,11,1321
+🦸🏾‍♀️,1F9B8-1F3FE-200D-2640-FE0F,people-body,person-fantasy,woman superhero: medium-dark skin tone,,,Nadine Bartel,2019-05-06,4,single,🦸‍♀️,1F9B8-200D-2640-FE0F,11,1323
+🦸🏿‍♀️,1F9B8-1F3FF-200D-2640-FE0F,people-body,person-fantasy,woman superhero: dark skin tone,,,Nadine Bartel,2019-05-06,5,single,🦸‍♀️,1F9B8-200D-2640-FE0F,11,1325
+🦹,1F9B9,people-body,person-fantasy,supervillain,"criminal, evil, superpower, villain",,Nadine Bartel,2019-05-06,,single,🦹,1F9B9,11,1327
+🦹🏻,1F9B9-1F3FB,people-body,person-fantasy,supervillain: light skin tone,,,Nadine Bartel,2019-05-06,1,single,🦹,1F9B9,11,1328
+🦹🏼,1F9B9-1F3FC,people-body,person-fantasy,supervillain: medium-light skin tone,,,Nadine Bartel,2019-05-06,2,single,🦹,1F9B9,11,1329
+🦹🏽,1F9B9-1F3FD,people-body,person-fantasy,supervillain: medium skin tone,,,Nadine Bartel,2019-05-06,3,single,🦹,1F9B9,11,1330
+🦹🏾,1F9B9-1F3FE,people-body,person-fantasy,supervillain: medium-dark skin tone,,,Nadine Bartel,2019-05-06,4,single,🦹,1F9B9,11,1331
+🦹🏿,1F9B9-1F3FF,people-body,person-fantasy,supervillain: dark skin tone,,,Nadine Bartel,2019-05-06,5,single,🦹,1F9B9,11,1332
+🦹‍♂️,1F9B9-200D-2642-FE0F,people-body,person-fantasy,man supervillain,"criminal, evil, man, superpower, villain",,Nadine Bartel,2019-05-06,,single,🦹‍♂️,1F9B9-200D-2642-FE0F,11,1333
+🦹🏻‍♂️,1F9B9-1F3FB-200D-2642-FE0F,people-body,person-fantasy,man supervillain: light skin tone,,,Nadine Bartel,2019-05-06,1,single,🦹‍♂️,1F9B9-200D-2642-FE0F,11,1335
+🦹🏼‍♂️,1F9B9-1F3FC-200D-2642-FE0F,people-body,person-fantasy,man supervillain: medium-light skin tone,,,Nadine Bartel,2019-05-06,2,single,🦹‍♂️,1F9B9-200D-2642-FE0F,11,1337
+🦹🏽‍♂️,1F9B9-1F3FD-200D-2642-FE0F,people-body,person-fantasy,man supervillain: medium skin tone,,,Nadine Bartel,2019-05-06,3,single,🦹‍♂️,1F9B9-200D-2642-FE0F,11,1339
+🦹🏾‍♂️,1F9B9-1F3FE-200D-2642-FE0F,people-body,person-fantasy,man supervillain: medium-dark skin tone,,,Nadine Bartel,2019-05-06,4,single,🦹‍♂️,1F9B9-200D-2642-FE0F,11,1341
+🦹🏿‍♂️,1F9B9-1F3FF-200D-2642-FE0F,people-body,person-fantasy,man supervillain: dark skin tone,,,Nadine Bartel,2019-05-06,5,single,🦹‍♂️,1F9B9-200D-2642-FE0F,11,1343
+🦹‍♀️,1F9B9-200D-2640-FE0F,people-body,person-fantasy,woman supervillain,"criminal, evil, superpower, villain, woman",,Nadine Bartel,2019-05-06,,single,🦹‍♀️,1F9B9-200D-2640-FE0F,11,1345
+🦹🏻‍♀️,1F9B9-1F3FB-200D-2640-FE0F,people-body,person-fantasy,woman supervillain: light skin tone,,,Nadine Bartel,2019-05-06,1,single,🦹‍♀️,1F9B9-200D-2640-FE0F,11,1347
+🦹🏼‍♀️,1F9B9-1F3FC-200D-2640-FE0F,people-body,person-fantasy,woman supervillain: medium-light skin tone,,,Nadine Bartel,2019-05-06,2,single,🦹‍♀️,1F9B9-200D-2640-FE0F,11,1349
+🦹🏽‍♀️,1F9B9-1F3FD-200D-2640-FE0F,people-body,person-fantasy,woman supervillain: medium skin tone,,,Nadine Bartel,2019-05-06,3,single,🦹‍♀️,1F9B9-200D-2640-FE0F,11,1351
+🦹🏾‍♀️,1F9B9-1F3FE-200D-2640-FE0F,people-body,person-fantasy,woman supervillain: medium-dark skin tone,,,Nadine Bartel,2019-05-06,4,single,🦹‍♀️,1F9B9-200D-2640-FE0F,11,1353
+🦹🏿‍♀️,1F9B9-1F3FF-200D-2640-FE0F,people-body,person-fantasy,woman supervillain: dark skin tone,,,Nadine Bartel,2019-05-06,5,single,🦹‍♀️,1F9B9-200D-2640-FE0F,11,1355
 🧙,1F9D9,people-body,person-fantasy,mage,"sorcerer, sorceress, witch, wizard","sorcerer, sorceress, witch, wizard, magician, wand, sage",Lisa Thiel,2018-04-18,,single,🧙,1F9D9,5,1357
 🧙🏻,1F9D9-1F3FB,people-body,person-fantasy,mage: light skin tone,,,Lisa Thiel,2018-04-18,1,single,🧙,1F9D9,5,1358
 🧙🏼,1F9D9-1F3FC,people-body,person-fantasy,mage: medium-light skin tone,,,Lisa Thiel,2018-04-18,2,single,🧙,1F9D9,5,1359
 🧙🏽,1F9D9-1F3FD,people-body,person-fantasy,mage: medium skin tone,,,Lisa Thiel,2018-04-18,3,single,🧙,1F9D9,5,1360
 🧙🏾,1F9D9-1F3FE,people-body,person-fantasy,mage: medium-dark skin tone,,,Lisa Thiel,2018-04-18,4,single,🧙,1F9D9,5,1361
 🧙🏿,1F9D9-1F3FF,people-body,person-fantasy,mage: dark skin tone,,,Lisa Thiel,2018-04-18,5,single,🧙,1F9D9,5,1362
-🧙‍♂️,1F9D9-200D-2642-FE0F,people-body,person-fantasy,man mage,"sorcerer, wizard",,,,,single,🧙‍♂️,1F9D9-200D-2642-FE0F,5,1363
-🧙🏻‍♂️,1F9D9-1F3FB-200D-2642-FE0F,people-body,person-fantasy,man mage: light skin tone,,,,,1,single,🧙‍♂️,1F9D9-200D-2642-FE0F,5,1365
-🧙🏼‍♂️,1F9D9-1F3FC-200D-2642-FE0F,people-body,person-fantasy,man mage: medium-light skin tone,,,,,2,single,🧙‍♂️,1F9D9-200D-2642-FE0F,5,1367
-🧙🏽‍♂️,1F9D9-1F3FD-200D-2642-FE0F,people-body,person-fantasy,man mage: medium skin tone,,,,,3,single,🧙‍♂️,1F9D9-200D-2642-FE0F,5,1369
-🧙🏾‍♂️,1F9D9-1F3FE-200D-2642-FE0F,people-body,person-fantasy,man mage: medium-dark skin tone,,,,,4,single,🧙‍♂️,1F9D9-200D-2642-FE0F,5,1371
-🧙🏿‍♂️,1F9D9-1F3FF-200D-2642-FE0F,people-body,person-fantasy,man mage: dark skin tone,,,,,5,single,🧙‍♂️,1F9D9-200D-2642-FE0F,5,1373
-🧙‍♀️,1F9D9-200D-2640-FE0F,people-body,person-fantasy,woman mage,"sorceress, witch",,,,,single,🧙‍♀️,1F9D9-200D-2640-FE0F,5,1375
-🧙🏻‍♀️,1F9D9-1F3FB-200D-2640-FE0F,people-body,person-fantasy,woman mage: light skin tone,,,,,1,single,🧙‍♀️,1F9D9-200D-2640-FE0F,5,1377
-🧙🏼‍♀️,1F9D9-1F3FC-200D-2640-FE0F,people-body,person-fantasy,woman mage: medium-light skin tone,,,,,2,single,🧙‍♀️,1F9D9-200D-2640-FE0F,5,1379
-🧙🏽‍♀️,1F9D9-1F3FD-200D-2640-FE0F,people-body,person-fantasy,woman mage: medium skin tone,,,,,3,single,🧙‍♀️,1F9D9-200D-2640-FE0F,5,1381
-🧙🏾‍♀️,1F9D9-1F3FE-200D-2640-FE0F,people-body,person-fantasy,woman mage: medium-dark skin tone,,,,,4,single,🧙‍♀️,1F9D9-200D-2640-FE0F,5,1383
-🧙🏿‍♀️,1F9D9-1F3FF-200D-2640-FE0F,people-body,person-fantasy,woman mage: dark skin tone,,,,,5,single,🧙‍♀️,1F9D9-200D-2640-FE0F,5,1385
-🧚,1F9DA,people-body,person-fantasy,fairy,"oberon, puck, titania",,,,,single,🧚,1F9DA,5,1387
-🧚🏻,1F9DA-1F3FB,people-body,person-fantasy,fairy: light skin tone,,,,,1,single,🧚,1F9DA,5,1388
-🧚🏼,1F9DA-1F3FC,people-body,person-fantasy,fairy: medium-light skin tone,,,,,2,single,🧚,1F9DA,5,1389
-🧚🏽,1F9DA-1F3FD,people-body,person-fantasy,fairy: medium skin tone,,,,,3,single,🧚,1F9DA,5,1390
-🧚🏾,1F9DA-1F3FE,people-body,person-fantasy,fairy: medium-dark skin tone,,,,,4,single,🧚,1F9DA,5,1391
-🧚🏿,1F9DA-1F3FF,people-body,person-fantasy,fairy: dark skin tone,,,,,5,single,🧚,1F9DA,5,1392
-🧚‍♂️,1F9DA-200D-2642-FE0F,people-body,person-fantasy,man fairy,"oberon, puck",,,,,single,🧚‍♂️,1F9DA-200D-2642-FE0F,5,1393
-🧚🏻‍♂️,1F9DA-1F3FB-200D-2642-FE0F,people-body,person-fantasy,man fairy: light skin tone,,,,,1,single,🧚‍♂️,1F9DA-200D-2642-FE0F,5,1395
-🧚🏼‍♂️,1F9DA-1F3FC-200D-2642-FE0F,people-body,person-fantasy,man fairy: medium-light skin tone,,,,,2,single,🧚‍♂️,1F9DA-200D-2642-FE0F,5,1397
-🧚🏽‍♂️,1F9DA-1F3FD-200D-2642-FE0F,people-body,person-fantasy,man fairy: medium skin tone,,,,,3,single,🧚‍♂️,1F9DA-200D-2642-FE0F,5,1399
-🧚🏾‍♂️,1F9DA-1F3FE-200D-2642-FE0F,people-body,person-fantasy,man fairy: medium-dark skin tone,,,,,4,single,🧚‍♂️,1F9DA-200D-2642-FE0F,5,1401
-🧚🏿‍♂️,1F9DA-1F3FF-200D-2642-FE0F,people-body,person-fantasy,man fairy: dark skin tone,,,,,5,single,🧚‍♂️,1F9DA-200D-2642-FE0F,5,1403
-🧚‍♀️,1F9DA-200D-2640-FE0F,people-body,person-fantasy,woman fairy,titania,,,,,single,🧚‍♀️,1F9DA-200D-2640-FE0F,5,1405
-🧚🏻‍♀️,1F9DA-1F3FB-200D-2640-FE0F,people-body,person-fantasy,woman fairy: light skin tone,,,,,1,single,🧚‍♀️,1F9DA-200D-2640-FE0F,5,1407
-🧚🏼‍♀️,1F9DA-1F3FC-200D-2640-FE0F,people-body,person-fantasy,woman fairy: medium-light skin tone,,,,,2,single,🧚‍♀️,1F9DA-200D-2640-FE0F,5,1409
-🧚🏽‍♀️,1F9DA-1F3FD-200D-2640-FE0F,people-body,person-fantasy,woman fairy: medium skin tone,,,,,3,single,🧚‍♀️,1F9DA-200D-2640-FE0F,5,1411
-🧚🏾‍♀️,1F9DA-1F3FE-200D-2640-FE0F,people-body,person-fantasy,woman fairy: medium-dark skin tone,,,,,4,single,🧚‍♀️,1F9DA-200D-2640-FE0F,5,1413
-🧚🏿‍♀️,1F9DA-1F3FF-200D-2640-FE0F,people-body,person-fantasy,woman fairy: dark skin tone,,,,,5,single,🧚‍♀️,1F9DA-200D-2640-FE0F,5,1415
-🧛,1F9DB,people-body,person-fantasy,vampire,"dracula, undead",,,,,single,🧛,1F9DB,5,1417
-🧛🏻,1F9DB-1F3FB,people-body,person-fantasy,vampire: light skin tone,,,,,1,single,🧛,1F9DB,5,1418
-🧛🏼,1F9DB-1F3FC,people-body,person-fantasy,vampire: medium-light skin tone,,,,,2,single,🧛,1F9DB,5,1419
-🧛🏽,1F9DB-1F3FD,people-body,person-fantasy,vampire: medium skin tone,,,,,3,single,🧛,1F9DB,5,1420
-🧛🏾,1F9DB-1F3FE,people-body,person-fantasy,vampire: medium-dark skin tone,,,,,4,single,🧛,1F9DB,5,1421
-🧛🏿,1F9DB-1F3FF,people-body,person-fantasy,vampire: dark skin tone,,,,,5,single,🧛,1F9DB,5,1422
-🧛‍♂️,1F9DB-200D-2642-FE0F,people-body,person-fantasy,man vampire,"dracula, undead",,,,,single,🧛‍♂️,1F9DB-200D-2642-FE0F,5,1423
-🧛🏻‍♂️,1F9DB-1F3FB-200D-2642-FE0F,people-body,person-fantasy,man vampire: light skin tone,,,,,1,single,🧛‍♂️,1F9DB-200D-2642-FE0F,5,1425
-🧛🏼‍♂️,1F9DB-1F3FC-200D-2642-FE0F,people-body,person-fantasy,man vampire: medium-light skin tone,,,,,2,single,🧛‍♂️,1F9DB-200D-2642-FE0F,5,1427
-🧛🏽‍♂️,1F9DB-1F3FD-200D-2642-FE0F,people-body,person-fantasy,man vampire: medium skin tone,,,,,3,single,🧛‍♂️,1F9DB-200D-2642-FE0F,5,1429
-🧛🏾‍♂️,1F9DB-1F3FE-200D-2642-FE0F,people-body,person-fantasy,man vampire: medium-dark skin tone,,,,,4,single,🧛‍♂️,1F9DB-200D-2642-FE0F,5,1431
-🧛🏿‍♂️,1F9DB-1F3FF-200D-2642-FE0F,people-body,person-fantasy,man vampire: dark skin tone,,,,,5,single,🧛‍♂️,1F9DB-200D-2642-FE0F,5,1433
-🧛‍♀️,1F9DB-200D-2640-FE0F,people-body,person-fantasy,woman vampire,undead,,,,,single,🧛‍♀️,1F9DB-200D-2640-FE0F,5,1435
-🧛🏻‍♀️,1F9DB-1F3FB-200D-2640-FE0F,people-body,person-fantasy,woman vampire: light skin tone,,,,,1,single,🧛‍♀️,1F9DB-200D-2640-FE0F,5,1437
-🧛🏼‍♀️,1F9DB-1F3FC-200D-2640-FE0F,people-body,person-fantasy,woman vampire: medium-light skin tone,,,,,2,single,🧛‍♀️,1F9DB-200D-2640-FE0F,5,1439
-🧛🏽‍♀️,1F9DB-1F3FD-200D-2640-FE0F,people-body,person-fantasy,woman vampire: medium skin tone,,,,,3,single,🧛‍♀️,1F9DB-200D-2640-FE0F,5,1441
-🧛🏾‍♀️,1F9DB-1F3FE-200D-2640-FE0F,people-body,person-fantasy,woman vampire: medium-dark skin tone,,,,,4,single,🧛‍♀️,1F9DB-200D-2640-FE0F,5,1443
-🧛🏿‍♀️,1F9DB-1F3FF-200D-2640-FE0F,people-body,person-fantasy,woman vampire: dark skin tone,,,,,5,single,🧛‍♀️,1F9DB-200D-2640-FE0F,5,1445
+🧙‍♂️,1F9D9-200D-2642-FE0F,people-body,person-fantasy,man mage,"sorcerer, wizard",,Nadine Bartel,2019-05-06,,single,🧙‍♂️,1F9D9-200D-2642-FE0F,5,1363
+🧙🏻‍♂️,1F9D9-1F3FB-200D-2642-FE0F,people-body,person-fantasy,man mage: light skin tone,,,Nadine Bartel,2019-05-06,1,single,🧙‍♂️,1F9D9-200D-2642-FE0F,5,1365
+🧙🏼‍♂️,1F9D9-1F3FC-200D-2642-FE0F,people-body,person-fantasy,man mage: medium-light skin tone,,,Nadine Bartel,2019-05-06,2,single,🧙‍♂️,1F9D9-200D-2642-FE0F,5,1367
+🧙🏽‍♂️,1F9D9-1F3FD-200D-2642-FE0F,people-body,person-fantasy,man mage: medium skin tone,,,Nadine Bartel,2019-05-06,3,single,🧙‍♂️,1F9D9-200D-2642-FE0F,5,1369
+🧙🏾‍♂️,1F9D9-1F3FE-200D-2642-FE0F,people-body,person-fantasy,man mage: medium-dark skin tone,,,Nadine Bartel,2019-05-06,4,single,🧙‍♂️,1F9D9-200D-2642-FE0F,5,1371
+🧙🏿‍♂️,1F9D9-1F3FF-200D-2642-FE0F,people-body,person-fantasy,man mage: dark skin tone,,,Nadine Bartel,2019-05-06,5,single,🧙‍♂️,1F9D9-200D-2642-FE0F,5,1373
+🧙‍♀️,1F9D9-200D-2640-FE0F,people-body,person-fantasy,woman mage,"sorceress, witch",,Nadine Bartel,2019-05-06,,single,🧙‍♀️,1F9D9-200D-2640-FE0F,5,1375
+🧙🏻‍♀️,1F9D9-1F3FB-200D-2640-FE0F,people-body,person-fantasy,woman mage: light skin tone,,,Nadine Bartel,2019-05-06,1,single,🧙‍♀️,1F9D9-200D-2640-FE0F,5,1377
+🧙🏼‍♀️,1F9D9-1F3FC-200D-2640-FE0F,people-body,person-fantasy,woman mage: medium-light skin tone,,,Nadine Bartel,2019-05-06,2,single,🧙‍♀️,1F9D9-200D-2640-FE0F,5,1379
+🧙🏽‍♀️,1F9D9-1F3FD-200D-2640-FE0F,people-body,person-fantasy,woman mage: medium skin tone,,,Nadine Bartel,2019-05-06,3,single,🧙‍♀️,1F9D9-200D-2640-FE0F,5,1381
+🧙🏾‍♀️,1F9D9-1F3FE-200D-2640-FE0F,people-body,person-fantasy,woman mage: medium-dark skin tone,,,Nadine Bartel,2019-05-06,4,single,🧙‍♀️,1F9D9-200D-2640-FE0F,5,1383
+🧙🏿‍♀️,1F9D9-1F3FF-200D-2640-FE0F,people-body,person-fantasy,woman mage: dark skin tone,,,Nadine Bartel,2019-05-06,5,single,🧙‍♀️,1F9D9-200D-2640-FE0F,5,1385
+🧚,1F9DA,people-body,person-fantasy,fairy,"oberon, puck, titania",,Nadine Bartel,2019-05-06,,single,🧚,1F9DA,5,1387
+🧚🏻,1F9DA-1F3FB,people-body,person-fantasy,fairy: light skin tone,,,Nadine Bartel,2019-05-06,1,single,🧚,1F9DA,5,1388
+🧚🏼,1F9DA-1F3FC,people-body,person-fantasy,fairy: medium-light skin tone,,,Nadine Bartel,2019-05-06,2,single,🧚,1F9DA,5,1389
+🧚🏽,1F9DA-1F3FD,people-body,person-fantasy,fairy: medium skin tone,,,Nadine Bartel,2019-05-06,3,single,🧚,1F9DA,5,1390
+🧚🏾,1F9DA-1F3FE,people-body,person-fantasy,fairy: medium-dark skin tone,,,Nadine Bartel,2019-05-06,4,single,🧚,1F9DA,5,1391
+🧚🏿,1F9DA-1F3FF,people-body,person-fantasy,fairy: dark skin tone,,,Nadine Bartel,2019-05-06,5,single,🧚,1F9DA,5,1392
+🧚‍♂️,1F9DA-200D-2642-FE0F,people-body,person-fantasy,man fairy,"oberon, puck",,Nadine Bartel,2019-05-06,,single,🧚‍♂️,1F9DA-200D-2642-FE0F,5,1393
+🧚🏻‍♂️,1F9DA-1F3FB-200D-2642-FE0F,people-body,person-fantasy,man fairy: light skin tone,,,Nadine Bartel,2019-05-06,1,single,🧚‍♂️,1F9DA-200D-2642-FE0F,5,1395
+🧚🏼‍♂️,1F9DA-1F3FC-200D-2642-FE0F,people-body,person-fantasy,man fairy: medium-light skin tone,,,Nadine Bartel,2019-05-06,2,single,🧚‍♂️,1F9DA-200D-2642-FE0F,5,1397
+🧚🏽‍♂️,1F9DA-1F3FD-200D-2642-FE0F,people-body,person-fantasy,man fairy: medium skin tone,,,Nadine Bartel,2019-05-06,3,single,🧚‍♂️,1F9DA-200D-2642-FE0F,5,1399
+🧚🏾‍♂️,1F9DA-1F3FE-200D-2642-FE0F,people-body,person-fantasy,man fairy: medium-dark skin tone,,,Nadine Bartel,2019-05-06,4,single,🧚‍♂️,1F9DA-200D-2642-FE0F,5,1401
+🧚🏿‍♂️,1F9DA-1F3FF-200D-2642-FE0F,people-body,person-fantasy,man fairy: dark skin tone,,,Nadine Bartel,2019-05-06,5,single,🧚‍♂️,1F9DA-200D-2642-FE0F,5,1403
+🧚‍♀️,1F9DA-200D-2640-FE0F,people-body,person-fantasy,woman fairy,titania,,Nadine Bartel,2019-05-06,,single,🧚‍♀️,1F9DA-200D-2640-FE0F,5,1405
+🧚🏻‍♀️,1F9DA-1F3FB-200D-2640-FE0F,people-body,person-fantasy,woman fairy: light skin tone,,,Nadine Bartel,2019-05-06,1,single,🧚‍♀️,1F9DA-200D-2640-FE0F,5,1407
+🧚🏼‍♀️,1F9DA-1F3FC-200D-2640-FE0F,people-body,person-fantasy,woman fairy: medium-light skin tone,,,Nadine Bartel,2019-05-06,2,single,🧚‍♀️,1F9DA-200D-2640-FE0F,5,1409
+🧚🏽‍♀️,1F9DA-1F3FD-200D-2640-FE0F,people-body,person-fantasy,woman fairy: medium skin tone,,,Nadine Bartel,2019-05-06,3,single,🧚‍♀️,1F9DA-200D-2640-FE0F,5,1411
+🧚🏾‍♀️,1F9DA-1F3FE-200D-2640-FE0F,people-body,person-fantasy,woman fairy: medium-dark skin tone,,,Nadine Bartel,2019-05-06,4,single,🧚‍♀️,1F9DA-200D-2640-FE0F,5,1413
+🧚🏿‍♀️,1F9DA-1F3FF-200D-2640-FE0F,people-body,person-fantasy,woman fairy: dark skin tone,,,Nadine Bartel,2019-05-06,5,single,🧚‍♀️,1F9DA-200D-2640-FE0F,5,1415
+🧛,1F9DB,people-body,person-fantasy,vampire,"dracula, undead",,Nadine Bartel,2019-05-06,,single,🧛,1F9DB,5,1417
+🧛🏻,1F9DB-1F3FB,people-body,person-fantasy,vampire: light skin tone,,,Nadine Bartel,2019-05-06,1,single,🧛,1F9DB,5,1418
+🧛🏼,1F9DB-1F3FC,people-body,person-fantasy,vampire: medium-light skin tone,,,Nadine Bartel,2019-05-06,2,single,🧛,1F9DB,5,1419
+🧛🏽,1F9DB-1F3FD,people-body,person-fantasy,vampire: medium skin tone,,,Nadine Bartel,2019-05-06,3,single,🧛,1F9DB,5,1420
+🧛🏾,1F9DB-1F3FE,people-body,person-fantasy,vampire: medium-dark skin tone,,,Nadine Bartel,2019-05-06,4,single,🧛,1F9DB,5,1421
+🧛🏿,1F9DB-1F3FF,people-body,person-fantasy,vampire: dark skin tone,,,Nadine Bartel,2019-05-06,5,single,🧛,1F9DB,5,1422
+🧛‍♂️,1F9DB-200D-2642-FE0F,people-body,person-fantasy,man vampire,"dracula, undead",,Nadine Bartel,2019-05-06,,single,🧛‍♂️,1F9DB-200D-2642-FE0F,5,1423
+🧛🏻‍♂️,1F9DB-1F3FB-200D-2642-FE0F,people-body,person-fantasy,man vampire: light skin tone,,,Nadine Bartel,2019-05-06,1,single,🧛‍♂️,1F9DB-200D-2642-FE0F,5,1425
+🧛🏼‍♂️,1F9DB-1F3FC-200D-2642-FE0F,people-body,person-fantasy,man vampire: medium-light skin tone,,,Nadine Bartel,2019-05-06,2,single,🧛‍♂️,1F9DB-200D-2642-FE0F,5,1427
+🧛🏽‍♂️,1F9DB-1F3FD-200D-2642-FE0F,people-body,person-fantasy,man vampire: medium skin tone,,,Nadine Bartel,2019-05-06,3,single,🧛‍♂️,1F9DB-200D-2642-FE0F,5,1429
+🧛🏾‍♂️,1F9DB-1F3FE-200D-2642-FE0F,people-body,person-fantasy,man vampire: medium-dark skin tone,,,Nadine Bartel,2019-05-06,4,single,🧛‍♂️,1F9DB-200D-2642-FE0F,5,1431
+🧛🏿‍♂️,1F9DB-1F3FF-200D-2642-FE0F,people-body,person-fantasy,man vampire: dark skin tone,,,Nadine Bartel,2019-05-06,5,single,🧛‍♂️,1F9DB-200D-2642-FE0F,5,1433
+🧛‍♀️,1F9DB-200D-2640-FE0F,people-body,person-fantasy,woman vampire,undead,,Nadine Bartel,2019-05-06,,single,🧛‍♀️,1F9DB-200D-2640-FE0F,5,1435
+🧛🏻‍♀️,1F9DB-1F3FB-200D-2640-FE0F,people-body,person-fantasy,woman vampire: light skin tone,,,Nadine Bartel,2019-05-06,1,single,🧛‍♀️,1F9DB-200D-2640-FE0F,5,1437
+🧛🏼‍♀️,1F9DB-1F3FC-200D-2640-FE0F,people-body,person-fantasy,woman vampire: medium-light skin tone,,,Nadine Bartel,2019-05-06,2,single,🧛‍♀️,1F9DB-200D-2640-FE0F,5,1439
+🧛🏽‍♀️,1F9DB-1F3FD-200D-2640-FE0F,people-body,person-fantasy,woman vampire: medium skin tone,,,Nadine Bartel,2019-05-06,3,single,🧛‍♀️,1F9DB-200D-2640-FE0F,5,1441
+🧛🏾‍♀️,1F9DB-1F3FE-200D-2640-FE0F,people-body,person-fantasy,woman vampire: medium-dark skin tone,,,Nadine Bartel,2019-05-06,4,single,🧛‍♀️,1F9DB-200D-2640-FE0F,5,1443
+🧛🏿‍♀️,1F9DB-1F3FF-200D-2640-FE0F,people-body,person-fantasy,woman vampire: dark skin tone,,,Nadine Bartel,2019-05-06,5,single,🧛‍♀️,1F9DB-200D-2640-FE0F,5,1445
 🧜,1F9DC,people-body,person-fantasy,merperson,"mermaid, merman, merwoman",,,,,single,🧜,1F9DC,5,1447
 🧜🏻,1F9DC-1F3FB,people-body,person-fantasy,merperson: light skin tone,,,,,1,single,🧜,1F9DC,5,1448
 🧜🏼,1F9DC-1F3FC,people-body,person-fantasy,merperson: medium-light skin tone,,,,,2,single,🧜,1F9DC,5,1449
