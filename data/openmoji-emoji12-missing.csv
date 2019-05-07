@@ -1,9 +1,6 @@
 emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,openmoji_date,skintone,skintone_combination,skintone_base_emoji,skintone_base_hexcode,unicode,order
 🧏‍♂️,1F9CF-200D-2642-FE0F,people-body,person-gesture,deaf man,"deaf, man",,,,,single,🧏‍♂️,1F9CF-200D-2642-FE0F,12,734
 🧏‍♀️,1F9CF-200D-2640-FE0F,people-body,person-gesture,deaf woman,"deaf, woman",,,,,single,🧏‍♀️,1F9CF-200D-2640-FE0F,12,746
-👨‍🦯,1F468-200D-1F9AF,people-body,person-activity,man with probing cane,"accessibility, blind, man",,,,,single,👨‍🦯,1F468-200D-1F9AF,12,1667
-👩‍🦯,1F469-200D-1F9AF,people-body,person-activity,woman with probing cane,"accessibility, blind, woman",,,,,single,👩‍🦯,1F469-200D-1F9AF,12,1673
-👨‍🦽,1F468-200D-1F9BD,people-body,person-activity,man in manual wheelchair,"accessibility, man, wheelchair",,,,,single,👨‍🦽,1F468-200D-1F9BD,12,1691
 🕴️,1F574,people-body,person-activity,man in suit levitating,"business, man, suit",,,,,single,🕴️,1F574,1,1746
 🧖,1F9D6,people-body,person-activity,person in steamy room,"sauna, steam room",,,,,single,🧖,1F9D6,5,1757
 🧖‍♂️,1F9D6-200D-2642-FE0F,people-body,person-activity,man in steamy room,"sauna, steam room",,,,,single,🧖‍♂️,1F9D6-200D-2642-FE0F,5,1763
@@ -47,12 +44,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦱,1F9B1,component,hair-style,curly hair,"afro, curly, ringlets",,,,,,,,11,2379
 🦳,1F9B3,component,hair-style,white hair,"gray, hair, old, white",,,,,,,,11,2380
 🦲,1F9B2,component,hair-style,bald,"chemotherapy, hairless, no hair, shaven",,,,,,,,11,2381
-🦧,1F9A7,animals-nature,animal-mammal,orangutan,ape,,,,,,,,12,2385
-🦮,1F9AE,animals-nature,animal-mammal,guide dog,"accessibility, blind, guide",,,,,,,,12,2388
-🐕‍🦺,1F415-200D-1F9BA,animals-nature,animal-mammal,service dog,"accessibility, assistance, dog, service",,,,,,,,12,2389
-🦥,1F9A5,animals-nature,animal-mammal,sloth,"lazy, slow",,,,,,,,12,2436
-🦦,1F9A6,animals-nature,animal-mammal,otter,"fishing, playful",,,,,,,,12,2437
-🦨,1F9A8,animals-nature,animal-mammal,skunk,stink,,,,,,,,12,2438
 🦡,1F9A1,animals-nature,animal-mammal,badger,"honey badger, pester",,,,,,,,11,2440
 🦜,1F99C,animals-nature,animal-bird,parrot,"bird, pirate, talk",,,,,,,,11,2458
 🦟,1F99F,animals-nature,animal-bug,mosquito,"disease, fever, insect, malaria, virus",,,,,,,,11,2489
@@ -63,13 +54,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🍃,1F343,animals-nature,plant-other,leaf fluttering in wind,"blow, flutter, leaf, wind",,,,,,,,1,2514
 🥭,1F96D,food-drink,food-fruit,mango,"fruit, tropical",,,,,,,,11,2522
 🥬,1F96C,food-drink,food-vegetable,leafy green,"bok choy, cabbage, kale, lettuce",,,,,,,,11,2540
-🧄,1F9C4,food-drink,food-vegetable,garlic,flavoring,,,,,,,,12,2542
-🧅,1F9C5,food-drink,food-vegetable,onion,flavoring,,,,,,,,12,2543
 🥯,1F96F,food-drink,food-prepared,bagel,"bakery, schmear",,,,,,,,11,2551
 🥞,1F95E,food-drink,food-prepared,pancakes,"crêpe, food, hotcake, pancake",,,,,,,,3,2552
-🧇,1F9C7,food-drink,food-prepared,waffle,"indecisive, iron",,,,,,,,12,2553
 🥙,1F959,food-drink,food-prepared,stuffed flatbread,"falafel, flatbread, food, gyro, kebab, stuffed",,,,,,,,3,2566
-🧆,1F9C6,food-drink,food-prepared,falafel,"chickpea, meatball",,,,,,,,12,2567
 🥘,1F958,food-drink,food-prepared,shallow pan of food,"casserole, food, paella, pan, shallow",,,,,,,,3,2570
 🥗,1F957,food-drink,food-prepared,green salad,"food, green, salad",,,,,,,,3,2573
 🧂,1F9C2,food-drink,food-prepared,salt,"condiment, shaker",,,,,,,,11,2576
@@ -79,13 +66,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥠,1F960,food-drink,food-asian,fortune cookie,prophecy,,,,,,,,5,2593
 🦞,1F99E,food-drink,food-marine,lobster,"bisque, claws, seafood",,,,,,,,11,2596
 🧭,1F9ED,travel-places,place-map,compass,"magnetic, navigation, orienteering",,,,,,,,11,2645
-🈁,1F201,symbols,alphanum,Japanese “here” button,"japanese, japanese “here” button, katakana, “here”, ココ",,,,,,,,1,3507
-🈷️,1F237,symbols,alphanum,Japanese “monthly amount” button,"ideograph, japanese, japanese “monthly amount” button, “monthly amount”, 月",,,,,,,,1,3511
-🈶,1F236,symbols,alphanum,Japanese “not free of charge” button,"ideograph, japanese, japanese “not free of charge” button, “not free of charge”, 有",,,,,,,,1,3512
-🈯️,1F22F,symbols,alphanum,Japanese “reserved” button,"ideograph, japanese, japanese “reserved” button, “reserved”, 指",,,,,,,,1,3513
-🉐,1F250,symbols,alphanum,Japanese “bargain” button,"ideograph, japanese, japanese “bargain” button, “bargain”, 得",,,,,,,,1,3514
-🈹,1F239,symbols,alphanum,Japanese “discount” button,"ideograph, japanese, japanese “discount” button, “discount”, 割",,,,,,,,1,3515
-🈚️,1F21A,symbols,alphanum,Japanese “free of charge” button,"ideograph, japanese, japanese “free of charge” button, “free of charge”, 無",,,,,,,,1,3516
 🔴,1F534,symbols,geometric,red circle,"circle, geometric, red",,,,,,,,1,3528
 🔵,1F535,symbols,geometric,blue circle,"blue, circle, geometric",,,,,,,,1,3532
 ⚫️,26AB,symbols,geometric,black circle,"circle, geometric",,,,,,,,1,3535
