@@ -1981,7 +1981,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🍪,1F36A,food-drink,food-sweet,cookie,"dessert, sweet",,Miriam Vollmeier,2018-04-18,,,,,1,2604
 🎂,1F382,food-drink,food-sweet,birthday cake,"birthday, cake, celebration, dessert, pastry, sweet",,Miriam Vollmeier,2018-04-18,,,,,1,2605
 🍰,1F370,food-drink,food-sweet,shortcake,"cake, dessert, pastry, slice, sweet",,Miriam Vollmeier,2018-04-18,,,,,1,2606
-🧁,1F9C1,food-drink,food-sweet,cupcake,"bakery, sweet",,,,,,,,11,2607
+🧁,1F9C1,food-drink,food-sweet,cupcake,"bakery, sweet",,Jonas Dunkel,2019-05-07,,,,,11,2607
 🥧,1F967,food-drink,food-sweet,pie,"filling, pastry",,Miriam Vollmeier,2018-04-18,,,,,5,2608
 🍫,1F36B,food-drink,food-sweet,chocolate bar,"bar, chocolate, dessert, sweet",,Miriam Vollmeier,2018-04-18,,,,,1,2609
 🍬,1F36C,food-drink,food-sweet,candy,"dessert, sweet",,Miriam Vollmeier,2018-04-18,,,,,1,2610
@@ -2030,7 +2030,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏟️,1F3DF,travel-places,place-building,stadium,stadium,"building, football, sports, olympic",Martin Wehl,2018-04-18,,,,,1,2663
 🏛️,1F3DB,travel-places,place-building,classical building,classical,"building, historical, old, antique",Martin Wehl,2018-04-18,,,,,1,2665
 🏗️,1F3D7,travel-places,place-building,building construction,construction,"work, building lot, crane",Martin Wehl,2018-04-18,,,,,1,2667
-🧱,1F9F1,travel-places,place-building,brick,"bricks, clay, mortar, wall",,,,,,,,11,2668
+🧱,1F9F1,travel-places,place-building,brick,"bricks, clay, mortar, wall",,Jonas Dunkel,2019-05-07,,,,,11,2668
 🏘️,1F3D8,travel-places,place-building,houses,houses,"buildings, neighbourhood",Martin Wehl,2018-04-18,,,,,1,2670
 🏚️,1F3DA,travel-places,place-building,derelict house,"derelict, house","building, old, rotten, dangerous",Martin Wehl,2018-04-18,,,,,1,2672
 🏠️,1F3E0,travel-places,place-building,house,home,building,Martin Wehl,2018-04-18,,,,,1,2673
@@ -2059,14 +2059,14 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🕋,1F54B,travel-places,place-religious,kaaba,"islam, muslim, religion","religious, pray, building, god, black, mecca, faith",Martin Wehl,2018-04-18,,,,,1,2697
 ⛲️,26F2,travel-places,place-other,fountain,fountain,,Louisa Mantsch,2018-11-16,,,,,1,2698
 ⛺️,26FA,travel-places,place-other,tent,camping,"nature, outdoor, adventure",Martin Wehl,2018-04-18,,,,,1,2699
-🌁,1F301,travel-places,place-other,foggy,fog,,,,,,,,1,2700
+🌁,1F301,travel-places,place-other,foggy,fog,,Jonas Dunkel,2019-05-07,,,,,1,2700
 🌃,1F303,travel-places,place-other,night with stars,"night, star",,Louisa Mantsch,2018-11-16,,,,,1,2701
 🏙️,1F3D9,travel-places,place-other,cityscape,city,"buildings, metropolis",Martin Wehl,2018-04-18,,,,,1,2703
 🌄,1F304,travel-places,place-other,sunrise over mountains,"morning, mountain, sun, sunrise",,Louisa Mantsch,2018-11-16,,,,,1,2704
 🌅,1F305,travel-places,place-other,sunrise,"morning, sun",,Louisa Mantsch,2018-11-16,,,,,1,2705
 🌆,1F306,travel-places,place-other,cityscape at dusk,"city, dusk, evening, landscape, sunset",,Louisa Mantsch,2018-11-16,,,,,1,2706
 🌇,1F307,travel-places,place-other,sunset,"dusk, sun",,Louisa Mantsch,2018-11-16,,,,,1,2707
-🌉,1F309,travel-places,place-other,bridge at night,"bridge, night",,,,,,,,1,2708
+🌉,1F309,travel-places,place-other,bridge at night,"bridge, night",,Jonas Dunkel,2019-05-07,,,,,1,2708
 ♨️,2668,travel-places,place-other,hot springs,"hot, hotsprings, springs, steaming",,Louisa Mantsch,2018-11-16,,,,,1,2710
 🎠,1F3A0,travel-places,place-other,carousel horse,"carousel, horse",,Louisa Mantsch,2018-11-16,,,,,1,2711
 🎡,1F3A1,travel-places,place-other,ferris wheel,"amusement park, ferris, wheel",,Louisa Mantsch,2018-11-16,,,,,1,2712
@@ -2075,7 +2075,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🎪,1F3AA,travel-places,place-other,circus tent,"circus, tent","fun, leisure, entertainment, red, white",Martin Wehl,2018-04-18,,,,,1,2715
 🚂,1F682,travel-places,transport-ground,locomotive,"engine, railway, steam, train","Train, Locomotive, travel, drive",Ronja Bäurlen,2018-04-18,,,,,1,2716
 🚃,1F683,travel-places,transport-ground,railway car,"car, electric, railway, train, tram, trolleybus","train, locomotive, railway car, travel",Ronja Bäurlen,2018-04-18,,,,,1,2717
-🚄,1F684,travel-places,transport-ground,high-speed train,"railway, shinkansen, speed, train",,,,,,,,1,2718
+🚄,1F684,travel-places,transport-ground,high-speed train,"railway, shinkansen, speed, train",,Jonas Dunkel,2019-05-07,,,,,1,2718
 🚅,1F685,travel-places,transport-ground,bullet train,"bullet, railway, shinkansen, speed, train","train, locomotive, railway car, travel, transportation",Ronja Bäurlen,2018-04-18,,,,,1,2719
 🚆,1F686,travel-places,transport-ground,train,railway,,Nadja Grün,2018-11-16,,,,,1,2720
 🚇️,1F687,travel-places,transport-ground,metro,subway,,Nadja Grün,2018-11-16,,,,,1,2721
@@ -2109,7 +2109,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🛺,1F6FA,travel-places,transport-ground,auto rickshaw,tuk tuk,,Evelyn Soos,2019-05-04,,,,,12,2751
 🚲️,1F6B2,travel-places,transport-ground,bicycle,bike,"bike, vehicle, bicycle",Ronja Bäurlen,2018-04-18,,,,,1,2752
 🛴,1F6F4,travel-places,transport-ground,kick scooter,"kick, scooter","kick, scooter, city roller",Ronja Bäurlen,2018-04-18,,,,,3,2753
-🛹,1F6F9,travel-places,transport-ground,skateboard,board,,,,,,,,11,2754
+🛹,1F6F9,travel-places,transport-ground,skateboard,board,,Jonas Dunkel,2019-05-07,,,,,11,2754
 🚏,1F68F,travel-places,transport-ground,bus stop,"bus, busstop, stop","station, stop, bus, traffic, travel, bus stop, departure, arrive",Ronja Bäurlen,2018-04-18,,,,,1,2755
 🛣️,1F6E3,travel-places,transport-ground,motorway,"highway, road",,Nadja Grün,2018-11-16,,,,,1,2757
 🛤️,1F6E4,travel-places,transport-ground,railway track,"railway, train",,Nadja Grün,2018-11-16,,,,,1,2759
@@ -2122,7 +2122,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🚧,1F6A7,travel-places,transport-ground,construction,barrier,"barrier, warning, stop, attention, traffic",Ronja Bäurlen,2018-04-18,,,,,1,2767
 ⚓️,2693,travel-places,transport-water,anchor,"ship, tool","boat, ship, travel, sea, atlantic, ocean, water, tool, anchor, metal",Ronja Bäurlen,2018-04-18,,,,,1,2768
 ⛵️,26F5,travel-places,transport-water,sailboat,"boat, resort, sea, yacht","boat, passengers, ship, travel, sea, atlantic, ocean, water, yacht, resort, sail, sailboat",Ronja Bäurlen,2018-04-18,,,,,1,2769
-🛶,1F6F6,travel-places,transport-water,canoe,boat,,,,,,,,3,2770
+🛶,1F6F6,travel-places,transport-water,canoe,boat,,Jonas Dunkel,2019-05-07,,,,,3,2770
 🚤,1F6A4,travel-places,transport-water,speedboat,boat,"boat, passengers, ship, travel, sea, atlantic, ocean, water, speed",Ronja Bäurlen,2018-04-18,,,,,1,2771
 🛳️,1F6F3,travel-places,transport-water,passenger ship,"passenger, ship","boat, passengers, ship, travel, sea, atlantic, ocean, water",Ronja Bäurlen,2018-04-18,,,,,1,2773
 ⛴️,26F4,travel-places,transport-water,ferry,"boat, passenger",,Lois Proksch,2018-11-16,,,,,1,2775
@@ -2142,7 +2142,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🚀,1F680,travel-places,transport-air,rocket,space,"rocket, space, galaxy, adventure, alien, transportation",Ronja Bäurlen,2018-04-18,,,,,1,2793
 🛸,1F6F8,travel-places,transport-air,flying saucer,ufo,"alien, UFO, space, planets, adventures",Ronja Bäurlen,2018-04-18,,,,,5,2794
 🛎️,1F6CE,travel-places,hotel,bellhop bell,"bell, bellhop, hotel",,Lois Proksch,2018-11-16,,,,,1,2796
-🧳,1F9F3,travel-places,hotel,luggage,"packing, travel",,,,,,,,11,2797
+🧳,1F9F3,travel-places,hotel,luggage,"packing, travel",,Jonas Dunkel,2019-05-07,,,,,11,2797
 ⌛️,231B,travel-places,time,hourglass done,"sand, timer","countdown, hourglass",Rana Cakir,2018-04-18,,,,,1,2798
 ⏳️,23F3,travel-places,time,hourglass not done,"hourglass, sand, timer",,Rana Cakir,2018-04-18,,,,,1,2799
 ⌚️,231A,travel-places,time,watch,clock,"watch, time,",Rana Cakir,2018-04-18,,,,,1,2800
@@ -2194,7 +2194,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ⭐️,2B50,travel-places,sky-weather,star,star,"star, shine, small planet, sky, yellow, sparkle, far away",Vanessa Boutzikoudi,2018-04-18,,,,,1,2851
 🌟,1F31F,travel-places,sky-weather,glowing star,"glittery, glow, shining, sparkle, star","star, shine, glow, bright, sparkle, small planet, sky, yellow, far away, constellation, shooting star, milky way",Vanessa Boutzikoudi,2018-04-18,,,,,1,2852
 🌠,1F320,travel-places,sky-weather,shooting star,"falling, shooting, star","shooting star, star, sparkle, shine, bright, far away, sky, star sky, night, wish, lightning",Vanessa Boutzikoudi,2018-04-18,,,,,1,2853
-🌌,1F30C,travel-places,sky-weather,milky way,space,,,,,,,,1,2854
+🌌,1F30C,travel-places,sky-weather,milky way,space,,Jonas Dunkel,2019-05-07,,,,,1,2854
 ☁️,2601,travel-places,sky-weather,cloud,weather,"cloud, cloudy, rain, gray, misty, diffuse, sky, dream, fleecy clouds",Vanessa Boutzikoudi,2018-04-18,,,,,1,2856
 ⛅️,26C5,travel-places,sky-weather,sun behind cloud,"cloud, sun","sun, behind, cloud, appear, cloudy, cool, sunny, weather",Vanessa Boutzikoudi,2018-04-18,,,,,1,2857
 ⛈️,26C8,travel-places,sky-weather,cloud with lightning and rain,"cloud, rain, thunder","cloud, lightning, rain, thunder, weather, storm, thunderstorm",Vanessa Boutzikoudi,2018-04-18,,,,,1,2859
@@ -2205,7 +2205,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🌨️,1F328,travel-places,sky-weather,cloud with snow,"cloud, cold, snow","cloud, snow, falling, ice, wet, cold, cloudy, stormy, weather",Vanessa Boutzikoudi,2018-04-18,,,,,1,2869
 🌩️,1F329,travel-places,sky-weather,cloud with lightning,"cloud, lightning","cloud, lightning, glaring, wet, cold, cloudy, gray, weather, storm, current, voltage, light up, light",Vanessa Boutzikoudi,2018-04-18,,,,,1,2871
 🌪️,1F32A,travel-places,sky-weather,tornado,"cloud, whirlwind","tornado, wind, blow, sky, dangerous, severe weather, storm, hurricane, typhoon, cyclone",Vanessa Boutzikoudi,2018-04-18,,,,,1,2873
-🌫️,1F32B,travel-places,sky-weather,fog,cloud,,,,,,,,1,2875
+🌫️,1F32B,travel-places,sky-weather,fog,cloud,,Jonas Dunkel,2019-05-07,,,,,1,2875
 🌬️,1F32C,travel-places,sky-weather,wind face,"blow, cloud, face, wind","wind, face, blowing, air, mouth, mother nature, sky",Vanessa Boutzikoudi,2018-04-18,,,,,1,2877
 🌀,1F300,travel-places,sky-weather,cyclone,"dizzy, hurricane, twister, typhoon","whirl, swirl, spiral, funnel, rotation, rotate, air, turbulent",Vanessa Boutzikoudi,2018-04-18,,,,,1,2878
 🌈,1F308,travel-places,sky-weather,rainbow,rain,"rainbow, color, colorful, colors formed in the sky, sunbeams, sunlight, facet, sparkle, unicorn",Vanessa Boutzikoudi,2018-04-18,,,,,1,2879
@@ -2223,20 +2223,20 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🌊,1F30A,travel-places,sky-weather,water wave,"ocean, water, wave","wave, water, salty, sea, wet, cold, sun, beach, vacation, air, surf, sough, listen",Vanessa Boutzikoudi,2018-04-18,,,,,1,2896
 🎃,1F383,activities,event,jack-o-lantern,"celebration, halloween, jack, lantern",pumpkin,Laura Humpfer,2018-04-18,,,,,1,2897
 🎄,1F384,activities,event,Christmas tree,"celebration, christmas, tree",,Laura Humpfer,2018-04-18,,,,,1,2898
-🎆,1F386,activities,event,fireworks,celebration,,,,,,,,1,2899
-🎇,1F387,activities,event,sparkler,"celebration, fireworks, sparkle",,,,,,,,1,2900
-🧨,1F9E8,activities,event,firecracker,"dynamite, explosive, fireworks",,,,,,,,11,2901
+🎆,1F386,activities,event,fireworks,celebration,,Jonas Dunkel,2019-05-07,,,,,1,2899
+🎇,1F387,activities,event,sparkler,"celebration, fireworks, sparkle",,Jonas Dunkel,2019-05-07,,,,,1,2900
+🧨,1F9E8,activities,event,firecracker,"dynamite, explosive, fireworks",,Jonas Dunkel,2019-05-07,,,,,11,2901
 ✨,2728,activities,event,sparkles,"*, sparkle, star","magic, beautiful",Laura Humpfer,2018-04-18,,,,,1,2902
 🎈,1F388,activities,event,balloon,celebration,"balloon, birthday, party, decoration",Laura Humpfer,2018-04-18,,,,,1,2903
 🎉,1F389,activities,event,party popper,"celebration, party, popper, tada","decoration, happy",Laura Humpfer,2018-04-18,,,,,1,2904
 🎊,1F38A,activities,event,confetti ball,"ball, celebration, confetti","decoration, happy",Laura Humpfer,2018-04-18,,,,,1,2905
 🎋,1F38B,activities,event,tanabata tree,"banner, celebration, japanese, tree",,Laura Humpfer,2018-04-18,,,,,1,2906
-🎍,1F38D,activities,event,pine decoration,"bamboo, celebration, japanese, pine",,,,,,,,1,2907
+🎍,1F38D,activities,event,pine decoration,"bamboo, celebration, japanese, pine",,Jonas Dunkel,2019-05-07,,,,,1,2907
 🎎,1F38E,activities,event,Japanese dolls,"celebration, doll, festival, japanese, japanese dolls",,Laura Humpfer,2018-04-18,,,,,1,2908
-🎏,1F38F,activities,event,carp streamer,"carp, celebration, streamer",,,,,,,,1,2909
-🎐,1F390,activities,event,wind chime,"bell, celebration, chime, wind",,,,,,,,1,2910
-🎑,1F391,activities,event,moon viewing ceremony,"celebration, ceremony, moon",,,,,,,,1,2911
-🧧,1F9E7,activities,event,red envelope,"gift, good luck, hóngbāo, lai see, money",,,,,,,,11,2912
+🎏,1F38F,activities,event,carp streamer,"carp, celebration, streamer",,Jonas Dunkel,2019-05-07,,,,,1,2909
+🎐,1F390,activities,event,wind chime,"bell, celebration, chime, wind",,Jonas Dunkel,2019-05-07,,,,,1,2910
+🎑,1F391,activities,event,moon viewing ceremony,"celebration, ceremony, moon",,Jonas Dunkel,2019-05-07,,,,,1,2911
+🧧,1F9E7,activities,event,red envelope,"gift, good luck, hóngbāo, lai see, money",,Jonas Dunkel,2019-05-07,,,,,11,2912
 🎀,1F380,activities,event,ribbon,celebration,"present, gift, decoration, party, girl, girly, fashion",Laura Humpfer,2018-04-18,,,,,1,2913
 🎁,1F381,activities,event,wrapped gift,"box, celebration, gift, present, wrapped","present, birthday, christmas",Laura Humpfer,2018-04-18,,,,,1,2914
 🎗️,1F397,activities,event,reminder ribbon,"celebration, reminder, ribbon",,Laura Humpfer,2018-04-18,,,,,1,2916
@@ -2250,7 +2250,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥉,1F949,activities,award-medal,3rd place medal,"bronze, medal, third","Bronze, Medal, Bronze Medal, Third Place, Third Place Medal, 3rd Place Medal",Julian Grüneberg,2018-04-18,,,,,3,2926
 ⚽️,26BD,activities,sport,soccer ball,"ball, football, soccer","soccer, ball, football, game, ball game, team sports",Vanessa Boutzikoudi,2018-04-18,,,,,1,2927
 ⚾️,26BE,activities,sport,baseball,ball,"baseball, white, ball, american, game, ball game, team sports",Vanessa Boutzikoudi,2018-04-18,,,,,1,2928
-🥎,1F94E,activities,sport,softball,"ball, glove, underarm",,,,,,,,11,2929
+🥎,1F94E,activities,sport,softball,"ball, glove, underarm",,Jonas Dunkel,2019-05-07,,,,,11,2929
 🏀,1F3C0,activities,sport,basketball,"ball, hoop","basketball, orange ball, team sport, sport, canadian sport, game",Vanessa Boutzikoudi,2018-04-18,,,,,1,2930
 🏐,1F3D0,activities,sport,volleyball,"ball, game","ball, ball game, team sport, sport, hobby, olympic games",Vanessa Boutzikoudi,2018-04-18,,,,,1,2931
 🏈,1F3C8,activities,sport,american football,"american, ball, football","american, football, american game, oval ball, ball game, superbowl, team sport",Vanessa Boutzikoudi,2018-04-18,,,,,1,2932
