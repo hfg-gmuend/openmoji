@@ -11,7 +11,7 @@
     <line x1="32.7318" y1="33.1606" x2="35.7116" y2="33.1606" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.001"/>
     <line x1="35.7116" y1="36.1404" x2="35.7116" y2="33.1606" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6683"/>
     <line x1="36.7049" y1="40.1135" x2="36.7049" y2="37.1337" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.001"/>
-    <path d="M38.5822,34.9626c-1.2029-.676-2.5481-.5659-3.0044.246l4.3563,2.4483C40.39,36.8451,39.7851,35.6387,38.5822,34.9626Z" stroke="#1d1d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3337"/>
+    <path d="M38.5822,34.9626c-1.2029-.676-2.5481-.5659-3.0044.246l4.3563,2.4483C40.39,36.8451,39.7851,35.6387,38.5822,34.9626Z" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3337"/>
   </g>
   <g id="line">
     <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

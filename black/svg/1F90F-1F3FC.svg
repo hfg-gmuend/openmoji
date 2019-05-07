@@ -1,0 +1,14 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <g id="Pinching_Hand-2" data-name="Pinching Hand">
+      <path d="M31.7356,42.1428c-.869,2.5155-1.12,4.3475-1.7985,5.5912a2.1933,2.1933,0,0,1-2.582,1.0226,47.1968,47.1968,0,0,0-6.2064-1.455,2.15,2.15,0,0,1-.6908-.2417c-4.0951-2.2435-8.509-3.4083-9.4579-2.4594a2.3467,2.3467,0,0,0-.7764,2.9644c.7646,2.2938,7.2284,5.2139,8.5651,6.728l5.849,5.8491S31.61,65.0583,35.435,65.0372C47.4984,64.9708,54.9871,49.2418,55,45.4723a21.652,21.652,0,0,0-.2793-3.2872,19.0358,19.0358,0,0,0-.7777-3.0063" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M24.5042,35.6935l-8.5093,2.0318a3.4311,3.4311,0,0,1-4.429-2.0319c-.1935-1.8834.4621-2.4049,1.8585-3.39a6.0112,6.0112,0,0,1,1.1023-.4777l9.6243-3.05a3.6991,3.6991,0,0,1,1.8252-.0553" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="31.7356" y1="42.1428" x2="24.6377" y2="35.7709" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M25.01,28.6125a4.3334,4.3334,0,0,1,2.349.6306,3.4038,3.4038,0,0,1,.787.6513l8.3294,6.694" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M32.4365,29.9218,25.01,15.2084c-.875-2.0782-1.511-3.5464,0-4.687,1.511-1.15,2.9907-.3613,4.141,1.15.156.2047,8.5493,13.0158,11.0839,17.2661v.01" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M48.0929,31.395C46.7086,25.8774,42.0178,10.1967,41.93,9.9724a2.7784,2.7784,0,0,0-3.4342-2.0532c-1.7839.6727-2.02,2.6907-1.7391,4.4594l.9758,6.6879" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M47.4,18.5064c.1188-1.9068.6442-3.596,2.2763-3.7827a2.4638,2.4638,0,0,1,2.5623,1.4977,5.272,5.272,0,0,1,.5568,2.1762c.2324,3.92,1.1653,20.2393,1.1653,20.2393a3.2433,3.2433,0,0,1-.0292.5362" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="39.6751" y1="28.0814" x2="43.1657" y2="33.5938" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

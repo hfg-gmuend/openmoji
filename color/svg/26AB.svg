@@ -1,0 +1,8 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="color">
+    <circle cx="36.0254" cy="36.0391" r="14.9981"/>
+  </g>
+  <g id="line">
+    <circle cx="36.0254" cy="36.0391" r="14.9981" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg id="Ebenen" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <circle cx="36" cy="36" r="23" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M60,33c1.6569,0,3,1.7909,3,4s-1.3431,4-3,4" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M12,33c-1.6569,0-3,1.7909-3,4s1.3431,4,3,4" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M30.1909,45.2984a4.6637,4.6637,0,1,0,8.732,2.338,4.6953,4.6953,0,0,1-.3334.522" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path d="M30.0307,35.2045a3.6692,3.6692,0,1,0-5.4566-4.5612,3.6908,3.6908,0,0,1,.4109-.262" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path d="M46.0094,41.45a.9212.9212,0,0,0,1.1346-.6873l.3727-1.5183a7.5664,7.5664,0,0,0,1.7679-8.6451,1.6806,1.6806,0,0,0-1.242-1.3673" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path d="M45.5815,45.6005a.9316.9316,0,0,0,.4694-.612.9212.9212,0,0,0-.6874-1.1345l.4473-1.822" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path d="M38,21a3,3,0,0,1,0,6" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path d="M38.5,37.5a2,2,0,0,1,0-4" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path d="M25,42a2,2,0,0,1,0-4" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+  </g>
+</svg>

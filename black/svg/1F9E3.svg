@@ -1,0 +1,11 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path id="Scarf_Line_1" data-name="Scarf Line 1" d="M58.5325,26.2869c-.5538-3.29-3.2062-3.5652-5.06-4.0526a1.65,1.65,0,0,1-1.1647-2.0749,9.3069,9.3069,0,0,0,.3488-4.9872c-.84-2.7235-4.5033-4.4717-5.0751-4.0175a20.7541,20.7541,0,0,1-11.6084,4.017,20.7541,20.7541,0,0,1-11.6084-4.017c-.5718-.4542-4.2353,1.294-5.0751,4.0175a9.497,9.497,0,0,0,.394,5.1338,1.472,1.472,0,0,1-.9778,1.8647c-1.8562.533-4.7145.6862-5.2919,4.1162-1.1975,7.1144,3.9252,8.4664,6.6654,8.8068,7.8862.98,23.8853.8409,31.7876,0C54.6128,34.8016,59.73,33.4013,58.5325,26.2869Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Scarf_Line_2" data-name="Scarf Line 2" x1="56.0565" y1="54.7112" x2="56.0565" y2="37.3367" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <line id="Scarf_Line_3" data-name="Scarf Line 3" x1="42.8003" y1="56.1176" x2="42.8003" y2="38.7431" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <line id="Scarf_Line_4" data-name="Scarf Line 4" x1="52.2194" y1="59.9794" x2="52.2194" y2="53.9648" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <line id="Scarf_Line_5" data-name="Scarf Line 5" x1="49.5534" y1="60.3075" x2="49.5534" y2="54.293" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <line id="Scarf_Line_6" data-name="Scarf Line 6" x1="46.8874" y1="60.6356" x2="46.8874" y2="54.6211" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path id="Scarf_Line_7" data-name="Scarf Line 7" d="M22.98,23.4314c3.7066,1.6744,7.5693,2.1755,12.993,2.1755a25.1354,25.1354,0,0,0,7.1648-1.0878" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <g id="Kneeing_Woman" data-name="Kneeing Woman">
+      <circle cx="37.9688" cy="18.094" r="3" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path d="M29,51.042c4.0423,0,6.95-.1135,9.0284-.264a5.4916,5.4916,0,0,0,5.0991-5.855l-.2027-5.3-.6323-10.5385A4.3671,4.3671,0,0,0,38,25.042h0a4.6314,4.6314,0,0,0-4.4463,4.0171L33,34.021l-.7,7.021" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M31.89,44.762l-8.7493,2.4432a4.4945,4.4945,0,0,0-1.75.9614l-.075.067a3.9881,3.9881,0,0,0,.3105,6.3276,8.1207,8.1207,0,0,0,4.4127,1.23,145.2047,145.2047,0,0,0,15.94-.7448" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <polyline points="38.115 29.992 37.369 40.305 26.845 43.248" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <path d="M41.354,15.2087s.5786-.27.9253.0177c.408.3372.6855,1.5991,1.1679,2.145A3.2612,3.2612,0,0,0,45.26,18.4431" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

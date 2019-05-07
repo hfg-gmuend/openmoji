@@ -1,0 +1,21 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line-supplement">
+    <g>
+      <rect x="15.3251" y="40.8262" width="3.8984" height="4.9305" rx="1.9492" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.8"/>
+      <rect x="20.6434" y="37.3392" width="3.8984" height="4.9305" rx="1.9492" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.8"/>
+      <rect x="25.8054" y="39.2222" width="3.8984" height="4.9305" rx="1.9492" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.8"/>
+      <rect x="31.1035" y="46.7949" width="3.8984" height="4.9305" rx="1.9492" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.8"/>
+    </g>
+  </g>
+  <g id="line">
+    <g>
+      <path d="M20.1911,56.5317,19.9775,43.071a2.7166,2.7166,0,0,0-2.6543-2.5732,2.4951,2.4951,0,0,0-2.5687,2.5682l.0579,16.625" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M30.5822,56.7946l-.171-15.1713s-.2535-2.584-2.5475-2.5838c-2.3,0-2.7,2.5877-2.7,2.5877" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M35.7659,59.691l-.1381-10.9389a2.4433,2.4433,0,0,0-2.499-2.1085,2.5578,2.5578,0,0,0-2.6371,2.11" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M25.2486,55.2329,25.112,39.1482A2.4431,2.4431,0,0,0,22.613,37.04a2.5577,2.5577,0,0,0-2.637,2.1095l.0281,5.6" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <line x1="39.0003" y1="36.5615" x2="45.4183" y2="26.9072" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M36.0822,43.5322s1.87-1.39,2.44-1.9154a3.9748,3.9748,0,0,0,1.4771-3.45,1.82,1.82,0,0,0-2.07-1.5135" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polygon points="43.152 25.408 52.816 11.013 58.03 13.766 48.201 28.747 45.418 26.907 43.152 25.408" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg id="Ebenen" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path d="M29.8021,32.5882c-.0114-3.5853,1.6194-7.117,5.1825-8.5828a7.1956,7.1956,0,0,1,5.5074-.0042c2.9734,1.276,4.6026,4.4632,5.7132,7.5022a66.7013,66.7013,0,0,1,2.61,9.38c.2643,1.2761.4358,2.5771.6448,3.863.16.9815,1.1217,3.6747.7448,4.5942-.55,1.3419-5.7909-.4749-6.967-.941A25.49,25.49,0,0,1,36.3318,44.2a19.4484,19.4484,0,0,1-5.5989-7.0507A11.7711,11.7711,0,0,1,29.8021,32.5882Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M27.8484,16.864,23.08,18.779A7.48,7.48,0,0,1,23,17.7408a6.6464,6.6464,0,0,1,5.7246-6.8221" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M52.769,53.4211a24.8711,24.8711,0,0,1,.9267,4.2946c-.7615.3807-1.5229,1.9036-2.2843,2.2843a50.4224,50.4224,0,0,0-2.282-5.8286C48.4063,52.548,47.48,51.4162,46.6957,50" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M29.5575,19.0681a3.4693,3.4693,0,0,1-5.3388-.749" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="34.6957" y1="45" x2="34.6957" y2="52" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="57.0873" y1="52" x2="61" y2="52" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="13" y1="52.1722" x2="42.9895" y2="52.1722" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M34.2793,44.01c-4.4155,0-7.995-5.3692-7.995-11.9924,0-5.1589,2.1758-9.5439,5.2226-11.2366A7.4106,7.4106,0,0,1,35.9924,7.4615a7.5768,7.5768,0,0,1,7.4184,7.1139c.12,2.2168.0732,4.46.0353,6.6942-.0156.9227-.03,1.8438-.03,2.7608v1.7054" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M31.6974,20.781c-.0874.0469-.1714.1034-.2575.1544A8.1279,8.1279,0,0,0,37,18a6.5956,6.5956,0,0,0,1-2c-.3762-.7827-2.6641-5.37-7-6-.1248-.0181-.2732-.02-.4079-.0312" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="40.6957" y1="48" x2="40.6957" y2="52" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

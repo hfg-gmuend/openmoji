@@ -1,0 +1,19 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="color">
+    <g id="color-2" data-name="color">
+      <polygon id="SVGID" points="35.936 12.582 27.04 14.313 21.577 17.427 16.535 22.662 13 30.24 13 42.96 18.772 52.65 27.04 58.269 35.936 60 43.337 58.814 51.285 54.351 56.553 48.001 59.645 38.507 58.872 30.281 54.945 22.127 50.605 17.673 43.132 13.695 35.936 12.582" fill="#fcea2b"/>
+    </g>
+  </g>
+  <g id="line">
+    <g>
+      <path d="M31.238,31.3856a3.46,3.46,0,1,1-3.46-3.46,3.4616,3.4616,0,0,1,3.46,3.46"/>
+      <circle cx="36" cy="36" r="23" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path d="M48,31.3856a3.46,3.46,0,1,1-3.46-3.46,3.4615,3.4615,0,0,1,3.46,3.46"/>
+      <path d="M27,44.1262c1.8768-1.5425,5.8239-2.494,10-2.4149,3.8343.0726,7.2926,1.0032,9,2.4149" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M22,27c1.1854-2.4206,3-5,9-4" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M51,27c-1.1854-2.4206-3-5-9-4" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="26" cy="30" r="1" fill="#fff"/>
+      <circle cx="43" cy="30" r="1" fill="#fff"/>
+    </g>
+  </g>
+</svg>

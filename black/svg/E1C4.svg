@@ -7,7 +7,4 @@
     <rect x="30.6033" y="10.0777" transform="matrix(0.5 -0.866 0.866 0.5 -6.5143 44.8714)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="9.9998" height="35.9992"/>
     <path d="M52.7,34.5c1.4,0.8,1.9,2.7,1.1,4.1s-2.7,1.9-4.1,1.1L52.7,34.5z"/>
   </g>
-  <g id="color-foreground_1_">
-    <path id="xx" fill="#D22F27" d="M54.2,37.1c0,1.7-1.4,3-3,3c-0.2,0-0.4,0-0.6-0.1l2.9-5C53.9,35.6,54.2,36.3,54.2,37.1z"/>
-  </g>
 </svg>

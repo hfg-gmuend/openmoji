@@ -1,0 +1,38 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line-supplement">
+    <g id="AB_Button" data-name="AB Button">
+      <path d="M59.0349,60.1373h-46.07A.9679.9679,0,0,1,12,59.1722v-46.07a.9679.9679,0,0,1,.9651-.9651h46.07A.9679.9679,0,0,1,60,13.1024v46.07A.9679.9679,0,0,1,59.0349,60.1373Z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+      <g>
+        <g>
+          <polyline points="33.287 43.637 26.858 28.637 20.43 43.637" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <line x1="22.5724" y1="40.0457" x2="31.1438" y2="40.0457" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g>
+          <path d="M46.6551,36.1373h-5.72V28.6654h5.72a3.736,3.736,0,0,1,3.736,3.736h0A3.7359,3.7359,0,0,1,46.6551,36.1373Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path d="M46.6551,43.6094h-5.72V36.1373h5.72a3.736,3.736,0,0,1,3.736,3.736h0A3.7361,3.7361,0,0,1,46.6551,43.6094Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="color">
+    <g id="color-2" data-name="color">
+      <path d="M59.0349,60.1372h-46.07A.9679.9679,0,0,1,12,59.1721v-46.07a.9679.9679,0,0,1,.9651-.9651h46.07A.9679.9679,0,0,1,60,13.1023v46.07A.9679.9679,0,0,1,59.0349,60.1372Z" fill="#d22f27"/>
+    </g>
+  </g>
+  <g id="line"/>
+  <g id="color-foreground">
+    <g id="AB_Button-2" data-name="AB Button">
+      <path d="M59.0349,60.1372h-46.07A.9679.9679,0,0,1,12,59.1721v-46.07a.9679.9679,0,0,1,.9651-.9651h46.07A.9679.9679,0,0,1,60,13.1023v46.07A.9679.9679,0,0,1,59.0349,60.1372Z" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="2"/>
+      <g>
+        <g>
+          <polyline points="33.287 43.637 26.858 28.637 20.43 43.637" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <line x1="22.5724" y1="40.0456" x2="31.1438" y2="40.0456" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g>
+          <path d="M46.6551,36.1372h-5.72v-7.472h5.72a3.7361,3.7361,0,0,1,3.736,3.7361h0A3.7359,3.7359,0,0,1,46.6551,36.1372Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path d="M46.6551,43.6093h-5.72V36.1372h5.72a3.736,3.736,0,0,1,3.736,3.736h0A3.7361,3.7361,0,0,1,46.6551,43.6093Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

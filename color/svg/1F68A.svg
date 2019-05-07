@@ -1,11 +1,11 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="color">
     <polygon points="21 50 11 61 61 61 51 50 21 50" fill="#3f3f3f"/>
-    <rect x="21.6" y="15" width="28.8" height="33" rx="3.0558" ry="3.0558" fill="#cfcdcd"/>
-    <rect x="25" y="19" width="22" height="14" fill="#65b3e2"/>
-    <polyline points="47 19 25 19 25 33" fill="#94d3f3"/>
-    <rect x="25" y="37" width="5" height="5" fill="#fbe844"/>
-    <rect x="42" y="37" width="5" height="5" fill="#fbe844"/>
+    <rect x="21.6" y="15" width="28.8" height="33" rx="3.0558" ry="3.0558" fill="#d0cfce"/>
+    <rect x="25" y="19" width="22" height="14" fill="#61b2e4"/>
+    <polyline points="47 19 25 19 25 33" fill="#92d3f5"/>
+    <rect x="25" y="37" width="5" height="5" fill="#fcea2b"/>
+    <rect x="42" y="37" width="5" height="5" fill="#fcea2b"/>
   </g>
   <g id="line">
     <rect x="21.6" y="15" width="28.8" height="33" rx="3.0558" ry="3.0558" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

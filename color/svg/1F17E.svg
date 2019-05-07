@@ -1,0 +1,20 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line-supplement">
+    <g id="O_Button" data-name="O Button">
+      <path d="M59.0349,60h-46.07A.9679.9679,0,0,1,12,59.0349v-46.07A.9679.9679,0,0,1,12.9651,12h46.07A.9679.9679,0,0,1,60,12.9651v46.07A.9679.9679,0,0,1,59.0349,60Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path d="M35.75,46.5116h0a7.8572,7.8572,0,0,1-7.8571-7.8571V32.3687A7.8572,7.8572,0,0,1,35.75,24.5116h0a7.8572,7.8572,0,0,1,7.8571,7.8571v6.2858A7.8572,7.8572,0,0,1,35.75,46.5116Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+  <g id="color">
+    <g id="color-2" data-name="color">
+      <path d="M59.0349,60h-46.07A.9679.9679,0,0,1,12,59.0349v-46.07A.9679.9679,0,0,1,12.9651,12h46.07A.9679.9679,0,0,1,60,12.9651v46.07A.9679.9679,0,0,1,59.0349,60Z" fill="#d22f27"/>
+    </g>
+  </g>
+  <g id="line"/>
+  <g id="color-foreground">
+    <g id="O_Button-2" data-name="O Button">
+      <path d="M59.0349,60h-46.07A.9679.9679,0,0,1,12,59.0349v-46.07A.9679.9679,0,0,1,12.9651,12h46.07A.9679.9679,0,0,1,60,12.9651v46.07A.9679.9679,0,0,1,59.0349,60Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <path d="M35.75,46.5116h0a7.8572,7.8572,0,0,1-7.8571-7.8571V32.3687A7.8572,7.8572,0,0,1,35.75,24.5116h0a7.8572,7.8572,0,0,1,7.8571,7.8571v6.2858A7.8572,7.8572,0,0,1,35.75,46.5116Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

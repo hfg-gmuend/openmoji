@@ -1,21 +1,21 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="color">
-    <rect x="4" y="3.8981" width="64" height="64.1019" fill="#e0702e"/>
+    <rect x="4" y="3.8981" width="64" height="64.1019" fill="#e27022"/>
     <polyline points="9.923 46 9.923 29 19.923 29 19.923 46" fill="#9b9b9a"/>
     <rect x="33.9231" y="33" width="13" height="35" fill="#9b9b9a"/>
     <polyline points="50.923 68 50.923 37 66.923 37 66.923 68" fill="#d0cfce"/>
     <polyline points="4.923 68 4.923 46 38.923 46 38.923 68" fill="#d0cfce"/>
-    <rect x="8.9231" y="49.0035" width="2.9913" height="5.9965" fill="#fbe844"/>
-    <rect x="14.9231" y="49.0035" width="2.9913" height="5.9965" fill="#fbe844"/>
-    <rect x="26.9231" y="49.0035" width="2.9913" height="5.9965" fill="#fbe844"/>
-    <rect x="32.9231" y="49.0035" width="2.9913" height="5.9965" fill="#fbe844"/>
-    <rect x="54.9231" y="40.0035" width="2.9913" height="5.9965" fill="#fbe844"/>
-    <rect x="60.9231" y="50.0035" width="2.9913" height="5.9965" fill="#fbe844"/>
-    <rect x="60.9231" y="60.0035" width="2.9913" height="5.9965" fill="#fbe844"/>
-    <rect x="54.9231" y="60.0035" width="2.9913" height="5.9965" fill="#fbe844"/>
-    <rect x="32.9231" y="59.0035" width="2.9913" height="5.9965" fill="#fbe844"/>
-    <rect x="20.9231" y="59.0035" width="2.9913" height="5.9965" fill="#fbe844"/>
-    <rect x="8.9231" y="59.0035" width="2.9913" height="5.9965" fill="#fbe844"/>
+    <rect x="8.9231" y="49.0035" width="2.9913" height="5.9965" fill="#fcea2b"/>
+    <rect x="14.9231" y="49.0035" width="2.9913" height="5.9965" fill="#fcea2b"/>
+    <rect x="26.9231" y="49.0035" width="2.9913" height="5.9965" fill="#fcea2b"/>
+    <rect x="32.9231" y="49.0035" width="2.9913" height="5.9965" fill="#fcea2b"/>
+    <rect x="54.9231" y="40.0035" width="2.9913" height="5.9965" fill="#fcea2b"/>
+    <rect x="60.9231" y="50.0035" width="2.9913" height="5.9965" fill="#fcea2b"/>
+    <rect x="60.9231" y="60.0035" width="2.9913" height="5.9965" fill="#fcea2b"/>
+    <rect x="54.9231" y="60.0035" width="2.9913" height="5.9965" fill="#fcea2b"/>
+    <rect x="32.9231" y="59.0035" width="2.9913" height="5.9965" fill="#fcea2b"/>
+    <rect x="20.9231" y="59.0035" width="2.9913" height="5.9965" fill="#fcea2b"/>
+    <rect x="8.9231" y="59.0035" width="2.9913" height="5.9965" fill="#fcea2b"/>
   </g>
   <g id="line">
     <polyline points="50.924 66.629 50.924 36.629 66.924 36.629 66.924 66.629" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

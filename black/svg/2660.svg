@@ -1,0 +1,9 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path d="M32.814,52.5342c-.7883,3.5789-5.4354,8.8653-7.341,9.6969H36.2049" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M39.6361,53.8994c1.4294,3.4293,5.2216,7.6009,6.8963,8.3317H35.8" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M39.1914,52.5342a8.1474,8.1474,0,0,0,.4447,1.3652" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M36.0027,7.8005c.3513.2848,20.4292,24.8088,21.5632,27.1833s2.0772,4.4586,1.88,6.6775-.64,12.786-12.786,12.786c-5.2284,0-10.6577-4.4038-10.6577-5.7374" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M36.0027,7.8005c-.3513.2848-20.4292,24.8088-21.5633,27.1833s-2.0771,4.4586-1.88,6.6775.64,12.786,12.7861,12.786c5.2283,0,10.6577-4.4038,10.6577-5.7374" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

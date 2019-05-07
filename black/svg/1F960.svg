@@ -1,0 +1,6 @@
+<svg id="Ebenen" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path d="M38.0889,37.0473a25.4023,25.4023,0,0,0-5.68,1.2274,29.259,29.259,0,0,0-10.8,7.09l-.005.0055c-.0782.0857-.236.26-.242.269a14.5063,14.5063,0,0,0,2.3722,2.8561A19.3988,19.3988,0,1,0,25.5228,23.95a20.1316,20.1316,0,0,0-4.1612,4.5053c.006.0091.1638.1832.242.269l.005.0055C26.1318,33.6782,34,37,34,37" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="17.847 38.124 12.73 34.876 16.116 29.541 24.294 34.732" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

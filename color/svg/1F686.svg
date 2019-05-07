@@ -1,9 +1,9 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="color">
-    <rect x="21.6" y="11" width="28.8" height="33.6" rx="3.0558" ry="3.0558" fill="#cfcdcd"/>
-    <rect x="25" y="18" width="22" height="10" fill="#3f4040"/>
-    <rect x="25" y="35" width="5" height="5" fill="#fbe844"/>
-    <rect x="42" y="35" width="5" height="5" fill="#fbe844"/>
+    <rect x="21.6" y="11" width="28.8" height="33.6" rx="3.0558" ry="3.0558" fill="#d0cfce"/>
+    <rect x="25" y="18" width="22" height="10" fill="#3f3f3f"/>
+    <rect x="25" y="35" width="5" height="5" fill="#fcea2b"/>
+    <rect x="42" y="35" width="5" height="5" fill="#fcea2b"/>
   </g>
   <g id="line">
     <line x1="25" y1="48" x2="12" y2="61" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>

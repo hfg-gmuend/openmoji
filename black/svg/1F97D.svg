@@ -1,0 +1,7 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path id="Goggles_Line_1" data-name="Goggles Line 1" d="M60.9993,28.0757c-4.3022-2.1077-14.5834-4.0517-25.0311-3.8172-10.4477-.2345-20.729,1.7095-25.0311,3.8172a3.6433,3.6433,0,0,0-2.0242,3.3275l.0689,5.424c0,5.8974,2.47,14.3065,18.0489,11.7363a6.9243,6.9243,0,0,0,5.5518-5.1653l.899-3.1641a2.43,2.43,0,0,1,.7017-1.1973,2.7591,2.7591,0,0,1,2.9227-.4146,2.6605,2.6605,0,0,1,1.3933,1.7426l.8547,3.0334a6.9243,6.9243,0,0,0,5.5518,5.1653c15.5789,2.57,18.0489-5.8389,18.0489-11.7363l.0689-5.424A3.6433,3.6433,0,0,0,60.9993,28.0757Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline id="Goggles_Line_2" data-name="Goggles Line 2" points="9.503 29.17 5.168 31.951 5.549 40.438 10.078 43.096" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline id="Goggles_Line_3" data-name="Goggles Line 3" points="62.405 29.17 66.74 31.951 66.359 40.438 61.83 43.096" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

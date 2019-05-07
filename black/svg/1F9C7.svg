@@ -1,0 +1,16 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <g>
+      <rect x="11.9698" y="11.9299" width="47.9343" height="47.9343" rx="1.9608" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <rect x="18.798" y="18.8517" width="7.312" height="7.312" rx="0.2991" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <rect x="32.4141" y="18.8517" width="7.312" height="7.312" rx="0.2991" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <rect x="45.7829" y="18.8517" width="7.312" height="7.312" rx="0.2991" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <rect x="18.798" y="32.4556" width="7.312" height="7.312" rx="0.2991" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <rect x="32.4141" y="32.4556" width="7.312" height="7.312" rx="0.2991" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <rect x="45.7829" y="32.4556" width="7.312" height="7.312" rx="0.2991" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <rect x="18.798" y="46.254" width="7.312" height="7.312" rx="0.2991" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <rect x="32.4141" y="46.254" width="7.312" height="7.312" rx="0.2991" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <rect x="45.7829" y="46.254" width="7.312" height="7.312" rx="0.2991" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

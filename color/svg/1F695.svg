@@ -21,7 +21,7 @@
     <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="12.3,43.6 10.5,45.8 6.8,45.7"/>
     <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.1" y1="44.1" x2="50.1" y2="44.1"/>
   </g>
-  <g id="color-foreground_1_">
+  <g id="color-foreground">
     <line id="xx" fill="none" stroke="#F1B31C" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.1" y1="44.1" x2="50.1" y2="44.1"/>
   </g>
 </svg>

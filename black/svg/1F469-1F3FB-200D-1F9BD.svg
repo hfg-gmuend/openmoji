@@ -1,0 +1,16 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <g>
+      <path d="M50.6893,56.2733c1.2029,0,2.0025-1.1774,2.0025-2.9466,0,0-.5521-10.1825-.7413-12.6232S49.6163,36.77,46.2372,36.77" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M48.5236,53.9444c.2431,1.625,1.0247,2.3289,2.1657,2.3289" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M26.6665,47.2741a5.5241,5.5241,0,1,0,5.595-5.4522h0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M35.7363,23.1906l-4.2117-.53c-1.6558-.1986-2.778.05-3.2461.9936l-3.2843,7.4285a1.24,1.24,0,0,0-.1059.5016v7.2824c0,1.5175.7256,2.1706,1.6838,2.1706" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M32.0927,22.7321c-1.6558-.1986-3.3032.15-3.7713,1.0938l-3.2843,7.4285a1.2415,1.2415,0,0,0-.1059.5016v7.2824c0,1.5175.7256,2.1706,1.6838,2.1706" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M30.3619,31.9354H31.96a25.3413,25.3413,0,0,1,6.5707,1.4732" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="34.319" cy="16.0278" r="3.5434" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M22.6036,39.7447a12.2418,12.2418,0,1,0,7.4671-4.3666" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M33.7712,22.9433c1.9651.2473,2.4765,0,3.6456,1.553a5.2977,5.2977,0,0,1,.8515,3.1919,4.2853,4.2853,0,0,1-.8515,2.51l.0172,2.2355" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M30.1682,12.994s-.5786-.27-.9252.0177c-.4081.3371-.6856,1.5991-1.168,2.145a3.2608,3.2608,0,0,1-1.8128,1.0716" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

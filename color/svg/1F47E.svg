@@ -1,0 +1,33 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="color">
+    <polygon points="10 24 10 38 13 38 13 41 16 41 16 48 22 48 22 54 27 54 28 54 28 48 44 48 44 54 50 54 50 48 56 48 56 41 59 41 59 38 62 38 62 23 56 23 56 27 56 28 49 28 49 23 45 23 45 17 39 17 39 23 32 23 32 17 26 17 26 23 22 23 22 28 16 28 16 23 10 23 10 24" fill="#8967aa"/>
+    <rect x="16" y="54" width="6" height="6" fill="#8967aa"/>
+    <rect x="50" y="54" width="6" height="6" fill="#8967aa"/>
+  </g>
+  <g id="line">
+    <rect x="25.175" y="34" width="3.6" height="6" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="22 48 16 48 16 42" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="22.583 28 22.583 23 26 23" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="48.708 28 48.708 23 45.292 23" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="13 38 10 38 10 23 16 23 16 38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="56 38 56 23 62 23 62 38 59 38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="26 23 26 17 32 17 32 23" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="39 23 39 17 45 17 45 23" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="16 38 19 38 19 41 13 41 13 38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="59 38 59 41 53 41 53 38 56 38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <rect x="16" y="54" width="6" height="6" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <rect x="50" y="54" width="6" height="6" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <polyline points="28 48 28 54 22 54 22 48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="50 48 56 48 56 42" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="44 48 44 54 50 54 50 48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <rect x="43.425" y="34" width="3.6" height="6" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M44,48h0Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M39,23h0Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M16,28h0Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M49,28h0Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="28" y1="48" x2="44" y2="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="32" y1="23" x2="39" y2="23" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="16" y1="28" x2="22" y2="28" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="49" y1="28" x2="56" y2="28" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

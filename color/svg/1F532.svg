@@ -1,0 +1,10 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="color">
+    <rect x="16" y="16" width="40" height="40"/>
+    <rect x="25" y="26" width="21" height="21" fill="#fff"/>
+  </g>
+  <g id="line">
+    <rect x="16" y="16" width="40" height="40" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <rect x="25" y="26" width="21" height="21" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+</svg>

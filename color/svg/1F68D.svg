@@ -1,9 +1,9 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="color">
-    <rect x="27.6889" y="10.9583" width="16.9457" height="4.9408" rx="2.4704" ry="2.4704" fill="#fbe844"/>
-    <path d="M24.23,13.9583H47.7695A7.2305,7.2305,0,0,1,55,21.1888V47.4583a1.5,1.5,0,0,1-1.5,1.5h-35a1.5,1.5,0,0,1-1.5-1.5v-26.27a7.23,7.23,0,0,1,7.23-7.23Z" fill="#fbe844"/>
-    <rect x="17" y="38.9583" width="38" height="10" fill="#f0b233"/>
-    <rect x="20" y="20.9583" width="31" height="13" fill="#94d3f3"/>
+    <rect x="27.6889" y="10.9583" width="16.9457" height="4.9408" rx="2.4704" ry="2.4704" fill="#fcea2b"/>
+    <path d="M24.23,13.9583H47.7695A7.2305,7.2305,0,0,1,55,21.1888V47.4583a1.5,1.5,0,0,1-1.5,1.5h-35a1.5,1.5,0,0,1-1.5-1.5v-26.27a7.23,7.23,0,0,1,7.23-7.23Z" fill="#fcea2b"/>
+    <rect x="17" y="38.9583" width="38" height="10" fill="#f4aa41"/>
+    <rect x="20" y="20.9583" width="31" height="13" fill="#92d3f5"/>
     <rect x="20" y="41.9583" width="7" height="3" fill="#fff"/>
     <rect x="44" y="41.9583" width="7" height="3" fill="#fff"/>
     <rect x="16" y="48.9583" width="40" height="8" rx="2.6211" ry="2.6211" fill="#3f3f3f"/>

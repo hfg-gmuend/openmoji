@@ -1,0 +1,12 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path id="Lab_Coat_Line_1" data-name="Lab Coat Line 1" d="M22.7533,15.2636c-2.7882,6.0459-9.9021,28.4251-9.9021,28.4251s1.7292.4715,6.99,2.563l5.0809-15.9212L22.7533,59.0663c2.1667,2.9359,14.1113,3.7278,14.1113,3.7278s.2875-32.6316,0-35.1819C36.6366,25.59,30.35,10.4773,30.35,10.4773S23.7944,13.0063,22.7533,15.2636Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Lab_Coat_Line_2" data-name="Lab Coat Line 2" d="M36.9924,27.6122c.5146-4.5652,3.7021-17.2377,3.7021-17.2377s7.2171,3.584,8.4351,5.7508C52.5274,22.17,59.1488,43.3522,59.1488,43.3522s-2.2463.8884-7.5068,2.98L48.1364,32.0759l.7988,28.2451c-2.1666,2.9359-11.9428,2.4731-11.9428,2.4731" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline id="Lab_Coat_Line_3" data-name="Lab Coat Line 3" points="27.592 11.855 26.814 19.201 29.234 19.201 27.681 21.942 36.865 29.318" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline id="Lab_Coat_Line_4" data-name="Lab Coat Line 4" points="43.549 11.95 45.215 19.201 42.352 19.201 44.046 21.851 36.992 29.318" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Lab_Coat_Line_5" data-name="Lab Coat Line 5" d="M40.6945,10.3745a14.0517,14.0517,0,0,0-10.3444.1028" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Lab_Coat_Line_6" data-name="Lab Coat Line 6" x1="40.8957" y1="31.0173" x2="45.215" y2="31.0173" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path id="Lab_Coat_Line_6-2" data-name="Lab Coat Line 6" d="M28.7541,46.149h4.3193v3.4579a2.5561,2.5561,0,0,1-2.5561,2.5561H28.7541V49.5764" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Lab_Coat_Line_6-3" data-name="Lab Coat Line 6" d="M45.0722,46.149H40.7528v3.4579A2.5562,2.5562,0,0,0,43.309,52.163h1.7632V49.5764" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

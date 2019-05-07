@@ -1,0 +1,30 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="hair">
+    <g id="hair-2" data-name="hair">
+      <path d="M27,38c-3,0-4-7-4-14,0-6,5-12,14-12s14,6,14,12c0,7-1,14-4,14" fill="#fcea2b"/>
+    </g>
+  </g>
+  <g id="skin">
+    <g id="skin-2" data-name="skin">
+      <path d="M25.9692,30.5c-.1015,7.999,4.0635,14,11,14,7.0635,0,11.0635-6,11.0635-14,0-5-3-10-3-10-8,0-10,3-16,1A17.0768,17.0768,0,0,0,25.9692,30.5Z" fill="#debb90"/>
+    </g>
+  </g>
+  <g id="color">
+    <g id="color-2" data-name="color">
+      <path d="M18.0586,60.9561V57.123c0-4.9941,5.0078-9,10-9q9,7.5,18,0c4.9941,0,10,4.0059,10,9v3.8331Z" fill="#92d3f5"/>
+    </g>
+  </g>
+  <g id="line">
+    <g id="line-2" data-name="line">
+      <path d="M42.873,30a2,2,0,1,1-2-2,2,2,0,0,1,2,2"/>
+      <path d="M34.873,30a2,2,0,1,1-2-2,2,2,0,0,1,2,2"/>
+      <path d="M33.873,38.25a8.2737,8.2737,0,0,0,6,0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M27,38c-3,0-4-7-4-14,0-6,5-12,14-12s14,6,14,12c0,7-1,14-4,14" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M18,60V57c0-4.9941,5.0078-9,10-9q9,7.5,18,0c4.9941,0,10,4.0059,10,9v3" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M42.873,30a2,2,0,1,1-2-2,2,2,0,0,1,2,2"/>
+      <path d="M34.873,30a2,2,0,1,1-2-2,2,2,0,0,1,2,2"/>
+      <path d="M25.9365,31c-.1015,7.999,4.9365,14,11,14C42.873,45,48,39,48,31c0-5-3-11-3-11-8,0-10,3-16,1C29,21,26,26,25.9365,31Z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M33.873,38.25a8.2737,8.2737,0,0,0,6,0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path id="Swan_Line_1" data-name="Swan Line 1" d="M27.1986,41.0877c3.045-.91,8.4833-7.14,19.8118-2.7989,8.2484,3.1606,12.9832-2.8445,12.9832-2.8445S57.8916,57.793,47.4045,60.3609c-7.2623,1.7782-22.7242,2.1761-28.0357,0-9.18-3.7611-8.2246-15.4921-5.3956-20.54,2.911-5.1941,10.142-8.5786,10.2681-19.3019" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Swan_Line_2" data-name="Swan Line 2" d="M23.77,43.5077c.71-12.0817,7.0657-20.416,6.1609-26.3062-.6954-4.5273-3.7741-7.76-8.2922-6.3379-3.1468.99-7.0343,9.2494-7.0343,9.2494,2.9462,1.17,7.426-2.1242,7.426-2.1242" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Swan_Line_3" data-name="Swan Line 3" d="M49.6121,44.31c-2.1331,3.4989-11.9,5.3058-16.6525,5.4247" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

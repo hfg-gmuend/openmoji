@@ -7,10 +7,10 @@
   </g>
   <g id="hair"/>
   <g id="skin">
-    <path fill="#fadcbc" d="M46,44" stroke="none"/>
-    <path fill="#fadcbc" d="M48,48" stroke="none"/>
-    <circle fill="#fadcbc" cx="28.3857" cy="13.0625" r="2.9687" stroke="none"/>
-    <path fill="#fadcbc" d="M34,28l1,3l-6.7949,8l-0.0967,2.3262L33,50l3.417-2L33,40l9-5l2-4l-9-13l-5,1l2,7l-8,2.2188 c0,0,0.8125,1.7187,1.9375,1.5312s6-0.9687,7.25-2.25" stroke="none"/>
+    <path fill="#fadcbc" d="M46,44" stroke="#fadcbc"/>
+    <path fill="#fadcbc" d="M48,48" stroke="#fadcbc"/>
+    <circle fill="#fadcbc" cx="28.3857" cy="13.0625" r="2.9687" stroke="#fadcbc"/>
+    <path fill="#fadcbc" d="M34,28l1,3l-6.7949,8l-0.0967,2.3262L33,50l3.417-2L33,40l9-5l2-4l-9-13l-5,1l2,7l-8,2.2188 c0,0,0.8125,1.7187,1.9375,1.5312s6-0.9687,7.25-2.25" stroke="#fadcbc"/>
   </g>
   <g id="skin-shadow"/>
   <g id="line">

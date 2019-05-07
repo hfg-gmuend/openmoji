@@ -1,0 +1,16 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path d="M39.9928,63.82A23.9672,23.9672,0,0,0,54.93,59.7071s2-13-10-13c-3.1918,2.1279-5.9264,3.5984-9,3.5921h.125c-3.0736.0063-5.8081-1.4642-9-3.5921-12,0-10,13-10,13,9.9776,6.0208,14.368,3.708,28.1188-1.5619l.6171-3.5208-24.0677,1.35" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M45.511,50.67l.797,2.48-1.1339,4.9948" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M41.9928,28.8463a2,2,0,1,1-2-2,2.0007,2.0007,0,0,1,2,2"/>
+    <path d="M33.9928,28.8463a2,2,0,1,1-2-2,2.0007,2.0007,0,0,1,2,2"/>
+    <path d="M35.9927,38.8487a7.6528,7.6528,0,0,1-3.4473-.8579,1,1,0,0,1,.8946-1.7891,5.3772,5.3772,0,0,0,5.1054,0,1,1,0,0,1,.8946,1.7891A7.6528,7.6528,0,0,1,35.9927,38.8487Z"/>
+    <line x1="40.7621" y1="55.0244" x2="40.7621" y2="59.7728" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M33.8291,20.6964c-2.9676,3.9172-8.2893.2-9.097,7.6924a17.83,17.83,0,0,0-.0949,1.8417c0,7.8276,5.0765,14.1732,11.3386,14.1732s11.3386-6.3456,11.3386-14.1732a17.8264,17.8264,0,0,0-.101-1.9c-1.4014-7.134-7.5085-4.5481-9.289-7.9906" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M39.834,10.2366s3.7378-5.1462-3.5483-5.184l-.0316.0077c-7.2861.0378-3.5482,5.184-3.5482,5.184" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M32.6318,11.965c-1.1446-3.7662,8.4185-4.1724,7.2,0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M24.7109,31.7423C18.5374,19.706,27.0713,12.86,36.02,12.86" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M47.4747,31.7028C49.84,30.2834,53.25,13.1766,36.2255,12.86" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M35.9046,24.72h0a2,2,0,0,1-2-2v-4a2,2,0,0,1,2-2h0a2,2,0,0,1,2,2v4A2,2,0,0,1,35.9046,24.72Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

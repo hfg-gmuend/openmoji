@@ -1,0 +1,10 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path d="M17,59.9583v-3c0-4.9941,5.0078-9,10-9q9,7.5,18,0c4.9941,0,10,4.0059,10,9v3" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M41.873,29.9583a2,2,0,0,1-4,0c0-1.1045,2.0225-2,3.127-2a3.2627,3.2627,0,0,1,.873,2"/>
+    <path d="M34,29.9583a2,2,0,0,1-4,0,3.1184,3.1184,0,0,1,1-2c1.1045,0,3,.8955,3,2"/>
+    <path d="M39,37.9583c-1-2-5-2-6,0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M18.8634,46.6893c-3.7227-5.8565-.628-10.08,1.18-14.7246,1.6357-4.2-.209-6.4512,1.291-12.0342,1.48-5.5,7.2773-8.9658,13.709-8.9658,5.4,0,8,3,8,3a8.1321,8.1321,0,0,1,7.4052,8.0371c.3867,7.18,1.0244,7.1523,3.4287,12.8222a11.5986,11.5986,0,0,1-1.4463,11.6631" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M25.0431,30.9647c0,8,5,14,11,14s11-6,11-14c0-5-2-8-6-12-4,4-16,9-16,11Z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

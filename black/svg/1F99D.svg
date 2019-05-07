@@ -1,0 +1,9 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path id="Raccoon_Line_1" data-name="Raccoon Line 1" d="M67.2223,45.4956c-8.5835-1.8729-10.1291-26.8593-24.2655-25.8323-7.6982.5593-16.6668,5.6741-22.2635,6.5983a3.9075,3.9075,0,0,1-2.7307-.4559,3.7672,3.7672,0,0,1-1.6771-2.5171c-.1828-.8992-.5442-2.24-1.0917-2.364C14.0624,20.6675,11.81,24.1,11.81,24.1a9.9569,9.9569,0,0,1-2.501,2.8858c-2.0327,1.6158-4.6068,2.7269-4.5291,3.1064.3167,1.5468,2.4434,1.8351,4.2617,2.0749,2.2874.3017,4.9741,2.8107,5.75,4.1116,2.6978,4.5216.43,13.6571-2.0894,16.6384" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Raccoon_Line_2" data-name="Raccoon Line 2" d="M53.2587,34.456c.9481,5.1214-2.7548,12.6329-2.7548,18.4612" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Raccoon_Line_3" data-name="Raccoon Line 3" d="M26.3763,35.494s2.9038,4.5632.83,7.882c-1.6289,2.6061-3.7693,7.0031-4.6134,8.771a1.3545,1.3545,0,0,1-1.2227.77h-.0206a1.3523,1.3523,0,0,1-1.2828-1.7886,14.0455,14.0455,0,0,0,.5021-8.1674" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Raccoon_Line_4" data-name="Raccoon Line 4" d="M47.0738,35.494s2.9039,4.5632.83,7.882c-1.6288,2.6061-3.7693,7.0031-4.6134,8.771a1.3543,1.3543,0,0,1-1.2226.77h-.0206a1.3524,1.3524,0,0,1-1.2829-1.7886c.6141-1.8177,1.8478-7.8764,1.0786-11.21,0,0-9.73.6118-14.6366,3.4571" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Raccoon_Line_5" data-name="Raccoon Line 5" d="M20.5686,42.9612c-.575-3.0259-2.8886-3.6623-5.7772-6.6824" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

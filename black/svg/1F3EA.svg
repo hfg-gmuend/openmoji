@@ -9,8 +9,8 @@
     <rect x="38" y="45" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="10" height="10"/>
     <rect x="48" y="45" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="10" height="10"/>
     <ellipse fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="19" cy="37" rx="7" ry="5"/>
-    <path fill="none" stroke="#000000" stroke-width=".8571" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M16.577,35.9892c0.0859-0.4199,0.4575-0.7358,0.9028-0.7358l0,0c0.2544,0,0.4848,0.1032,0.6516,0.2699 c0.2594,0.2594,0.2355,0.6905-0.0079,0.9649l-1.5652,1.7652h1.843"/>
-    <polyline fill="none" stroke="#000000" stroke-width=".8571" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="20.778,35.2534 19.6632,37.7737 21.4179,37.7737"/>
-    <line fill="none" stroke="#000000" stroke-width=".8571" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="21.1289" y1="36.8447" x2="21.1289" y2="38.2534"/>
+    <path fill="none" stroke="#000000" stroke-width="0.8571" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M16.577,35.9892c0.0859-0.4199,0.4575-0.7358,0.9028-0.7358l0,0c0.2544,0,0.4848,0.1032,0.6516,0.2699 c0.2594,0.2594,0.2355,0.6905-0.0079,0.9649l-1.5652,1.7652h1.843"/>
+    <polyline fill="none" stroke="#000000" stroke-width="0.8571" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="20.778,35.2534 19.6632,37.7737 21.4179,37.7737"/>
+    <line fill="none" stroke="#000000" stroke-width="0.8571" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="21.1289" y1="36.8447" x2="21.1289" y2="38.2534"/>
   </g>
 </svg>

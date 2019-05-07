@@ -1,0 +1,40 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="hair">
+    <g id="hair-2" data-name="hair">
+      <path d="M25.69,38.0571c-3,0-4-7-4-14,0-6,5-12,14-12s14,6,14,12c0,7-1,14-4,14" fill="#fcea2b"/>
+    </g>
+  </g>
+  <g id="skin">
+    <g id="skin-2" data-name="skin">
+      <path d="M24.626,30.5571c-.1015,7.999,4.0635,14,11,14,7.0635,0,11.0635-6,11.0635-14,0-5-3-10-3-10-8,0-10,3-16,1A17.0768,17.0768,0,0,0,24.626,30.5571Z" fill="#debb90"/>
+    </g>
+  </g>
+  <g id="color">
+    <path d="M35.626,45.0571c-3.4313-.0664-8.6068-5.6579-8.6068-5.6579l-13.6279-.0206A82.1292,82.1292,0,0,1,17.71,47.8244a50.06,50.06,0,0,1,2.834,9.9442H51.4564a50.06,50.06,0,0,1,2.834-9.9442,83.77,83.77,0,0,1,4.3183-8.4458L44.6613,39.4S39.129,45.1248,35.626,45.0571Z" fill="#d22f27"/>
+    <g id="color-2" data-name="color">
+      <path d="M17.1757,61.0132V57.18c0-4.9941,5.0078-9,10-9q9,7.5,18,0c4.9941,0,10,4.0059,10,9v3.8331Z" fill="#3f3f3f"/>
+    </g>
+    <path d="M31.6431,60.9583h8.975C44.2066,58.0577,46.21,47.42,46.21,47.42a15.4949,15.4949,0,0,1-20.1372.0186S28.0681,58.0329,31.6431,60.9583Z"/>
+  </g>
+  <g id="line">
+    <g>
+      <path d="M26.4573,39.3983l-13.066-.02A51.9422,51.9422,0,0,1,17.71,47.8244c.5209,1.3022.9637,2.565,1.34,3.7777" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M53.0032,51.432c.365-1.1606.7906-2.3662,1.2872-3.6076a51.95,51.95,0,0,1,4.3183-8.4458L44.7246,39.4" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M41.5625,30.0571a2,2,0,1,1-2-2,2,2,0,0,1,2,2"/>
+      <path d="M33.5625,30.0571a2,2,0,1,1-2-2,2,2,0,0,1,2,2"/>
+      <path d="M32.5543,39.0288a6.3729,6.3729,0,0,1,6,0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M37.9992,38.49a6.5515,6.5515,0,0,1,.7386.3369" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M17.1171,60.0571v-3c0-4.9941,5.0078-9,10-9q9,7.5,18,0c4.9941,0,10,4.0059,10,9v3" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M25.69,38.0571c-3,0-4-7-4-14,0-6,5-12,14-12s14,6,14,12c0,7-1,14-4,14" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M41.5625,30.0571a2,2,0,1,1-2-2,2,2,0,0,1,2,2"/>
+      <path d="M33.5625,30.0571a2,2,0,1,1-2-2,2,2,0,0,1,2,2"/>
+      <path d="M24.626,31.0571c-.1015,7.999,4.9365,14,11,14,5.9365,0,11.0635-6,11.0635-14,0-5-3-11-3-11-8,0-10,3-16,1C27.69,21.0571,24.69,26.0571,24.626,31.0571Z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M32.546,39.0649a6.3739,6.3739,0,0,1,6,0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M32.4733,39.0649a6.3745,6.3745,0,0,1,6,0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g>
+        <polygon points="33.563 38.733 33.877 41.126 34.704 38.763 34.613 38.733 33.563 38.733" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+        <polygon points="37.457 38.733 37.3 41.126 36.473 38.763 36.406 38.733 37.457 38.733" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+    </g>
+  </g>
+</svg>

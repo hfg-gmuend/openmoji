@@ -18,9 +18,9 @@
       <line x1="38.4106" y1="34.3001" x2="48.0911" y2="34.3001" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9361"/>
       <line x1="38.4106" y1="38.6564" x2="48.0911" y2="38.6564" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9361"/>
     </g>
-    <circle cx="31.1189" cy="30.6452" r="2.9042" fill="#1f509e" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9681"/>
-    <circle cx="12.7661" cy="38.2922" r="2.9042" fill="#1f509e" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9681"/>
-    <circle cx="60.1776" cy="38.2922" r="2.9042" fill="#1f509e" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9681"/>
+    <circle cx="31.1189" cy="30.6452" r="2.9042" fill="#1e50a0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9681"/>
+    <circle cx="12.7661" cy="38.2922" r="2.9042" fill="#1e50a0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9681"/>
+    <circle cx="60.1776" cy="38.2922" r="2.9042" fill="#1e50a0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9681"/>
   </g>
   <g id="line">
     <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

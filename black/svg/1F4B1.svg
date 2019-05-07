@@ -9,7 +9,7 @@
         <polyline points="23.094 45.255 25.453 49.238 21.354 51.53" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
         <path d="M24.5071,49.0837A14.7063,14.7063,0,0,1,13.685,37.7" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
       </g>
-      <rect x="38.8916" y="12.5983" width="2.7489" height=".1161" fill="#f4aa41" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="38.8916" y="12.5983" width="2.7489" height="0.1161" fill="#f4aa41" stroke="#000" stroke-miterlimit="10"/>
       <ellipse cx="33.2144" cy="20.727" rx="3.5258" ry="3.4257" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
       <path d="M27.9556,13.4112V30.4234a.5924.5924,0,0,1-.5976.4064H18.2148a.72.72,0,0,1-.5976-.4064V13.237a.5925.5925,0,0,1,.5976-.4064H27.358a.72.72,0,0,1,.5976.4064Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
       <g>

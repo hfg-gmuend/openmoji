@@ -1,0 +1,8 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="line">
+    <path id="Hippo_Line_1" data-name="Hippo Line 1" d="M66.6608,39.6834c-1.3173-.9056,0-4.3423-.6738-7.0877-.9658-3.9355-3.9112-10.2021-8.4651-12.178-6.7333-2.9217-25.4332,1.3831-32.501-.597-1.21-.339-1.2381-1.734-2.49-1.626a3.4576,3.4576,0,0,0-2.1519,1.7212c-.6187.9484-.6439,1.3464-1.7069,1.7367-1.1863.4358-3.4952.3436-4.5523,1.0363-.6936.4545-.5377,1.7278-1.0719,2.3619-1.16,1.3777-6.0434,1.2573-7.2305,2.6121-1.2076,1.3781-1.3044,6.34.2406,7.3254,3.4307,2.1875,11.5958-2.5,14.321-1.8045,3.94,1.0058,4.6074,5.4884,5.3646,7.9464,1.07,3.475,1.0679,12.5651,1.0679,12.5651h4.0866" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Hippo_Line_2" data-name="Hippo Line 2" d="M30.99,41.1255c6.3125,5.4647,20.5831.0133,23.7117-1.304,2.7079-1.14,2.72,13.6,2.72,13.6h4.633" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Hippo_Line_3" data-name="Hippo Line 3" d="M24.67,38.3847c-.5153,5.1478-4.9217,15.0371-4.9217,15.0371h3.4138" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Hippo_Line_4" data-name="Hippo Line 4" d="M48.2783,42.04c1.2472,2.8857-.2823,11.3814-.2823,11.3814h4.1453" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
