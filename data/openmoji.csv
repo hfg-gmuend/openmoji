@@ -1621,6 +1621,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦉,1F989,animals-nature,animal-bird,owl,"bird, wise",,Selina Bauder,2018-04-18,,,,,3,2455
 🦩,1F9A9,animals-nature,animal-bird,flamingo,"flamboyant, tropical",flamingo,Mariella Steeb,2018-04-18,,,,,12,2456
 🦚,1F99A,animals-nature,animal-bird,peacock,"bird, ostentatious, peahen, proud",,Laura Schießer,2019-05-06,,,,,11,2457
+🦜,1F99C,animals-nature,animal-bird,parrot,"bird, pirate, talk",,Ricarda Krejci,2019-05-07,,,,,11,2458
 🐸,1F438,animals-nature,animal-amphibian,frog,face,"jump, green",Selina Bauder,2018-04-18,,,,,1,2459
 🐊,1F40A,animals-nature,animal-reptile,crocodile,crocodile,dinosaur,Selina Bauder,2018-04-18,,,,,1,2460
 🐢,1F422,animals-nature,animal-reptile,turtle,"terrapin, tortoise","slow, water, sand",Selina Bauder,2018-04-18,,,,,1,2461
@@ -1649,8 +1650,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🕷️,1F577,animals-nature,animal-bug,spider,insect,,Selina Bauder,2018-04-18,,,,,1,2485
 🕸️,1F578,animals-nature,animal-bug,spider web,"spider, web",,Selina Bauder,2018-04-18,,,,,1,2487
 🦂,1F982,animals-nature,animal-bug,scorpion,"scorpio, zodiac",,Selina Bauder,2018-04-18,,,,,1,2488
+🦟,1F99F,animals-nature,animal-bug,mosquito,"disease, fever, insect, malaria, virus",,Ricarda Krejci,2019-05-07,,,,,11,2489
+🦠,1F9A0,animals-nature,animal-bug,microbe,"amoeba, bacteria, virus",,Ricarda Krejci,2019-05-07,,,,,11,2490
 💐,1F490,animals-nature,plant-flower,bouquet,flower,"present, flower, tulip, bouquet",Hilda Kalyoncu,2018-04-18,,,,,1,2491
 🌸,1F338,animals-nature,plant-flower,cherry blossom,"blossom, cherry, flower","pink,",Hilda Kalyoncu,2018-04-18,,,,,1,2492
+💮,1F4AE,animals-nature,plant-flower,white flower,flower,,Ricarda Krejci,2019-05-07,,,,,1,2493
+🏵️,1F3F5,animals-nature,plant-flower,rosette,plant,,Ricarda Krejci,2019-05-07,,,,,1,2495
 🌹,1F339,animals-nature,plant-flower,rose,flower,"rose, red, nature, present, valentines day",Hilda Kalyoncu,2018-04-18,,,,,1,2496
 🥀,1F940,animals-nature,plant-flower,wilted flower,"flower, wilted","rose, wilted, flower, red, sad, plant",Hilda Kalyoncu,2018-04-18,,,,,3,2497
 🌺,1F33A,animals-nature,plant-flower,hibiscus,flower,pink,Hilda Kalyoncu,2018-04-18,,,,,1,2498
@@ -1667,6 +1672,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ☘️,2618,animals-nature,plant-other,shamrock,plant,"green, plant",Hilda Kalyoncu,2018-04-18,,,,,1,2510
 🍀,1F340,animals-nature,plant-other,four leaf clover,"4, clover, four, four-leaf clover, leaf","luck, four, leaf, green, plant",Hilda Kalyoncu,2018-04-18,,,,,1,2511
 🍁,1F341,animals-nature,plant-other,maple leaf,"falling, leaf, maple","autumn, colorful",Hilda Kalyoncu,2018-04-18,,,,,1,2512
+🍂,1F342,animals-nature,plant-other,fallen leaf,"falling, leaf",,Ricarda Krejci,2019-05-07,,,,,1,2513
+🍃,1F343,animals-nature,plant-other,leaf fluttering in wind,"blow, flutter, leaf, wind",,Ricarda Krejci,2019-05-07,,,,,1,2514
 🍇,1F347,food-drink,food-fruit,grapes,"fruit, grape",,Hend Hourani,2018-11-16,,,,,1,2515
 🍈,1F348,food-drink,food-fruit,melon,fruit,,Hend Hourani,2018-11-16,,,,,1,2516
 🍉,1F349,food-drink,food-fruit,watermelon,fruit,"melon, red",Marius Schnabel,2018-04-18,,,,,1,2517
@@ -1674,6 +1681,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🍋,1F34B,food-drink,food-fruit,lemon,"citrus, fruit",yellow,Marius Schnabel,2018-04-18,,,,,1,2519
 🍌,1F34C,food-drink,food-fruit,banana,fruit,yellow,Marius Schnabel,2018-04-18,,,,,1,2520
 🍍,1F34D,food-drink,food-fruit,pineapple,fruit,tropical,Marius Schnabel,2018-04-18,,,,,1,2521
+🥭,1F96D,food-drink,food-fruit,mango,"fruit, tropical",,Ricarda Krejci,2019-05-07,,,,,11,2522
 🍎,1F34E,food-drink,food-fruit,red apple,"apple, fruit, red",,Hend Hourani,2018-11-16,,,,,1,2523
 🍏,1F34F,food-drink,food-fruit,green apple,"apple, fruit, green",,Marius Schnabel,2018-04-18,,,,,1,2524
 🍐,1F350,food-drink,food-fruit,pear,fruit,green,Marius Schnabel,2018-04-18,,,,,1,2525
@@ -1690,6 +1698,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🌽,1F33D,food-drink,food-vegetable,ear of corn,"corn, ear, maize, maze",yellow,Marius Schnabel,2018-04-18,,,,,1,2536
 🌶️,1F336,food-drink,food-vegetable,hot pepper,"hot, pepper",red,Marius Schnabel,2018-04-18,,,,,1,2538
 🥒,1F952,food-drink,food-vegetable,cucumber,"food, pickle, vegetable",,Marius Schnabel,2018-04-18,,,,,3,2539
+🥬,1F96C,food-drink,food-vegetable,leafy green,"bok choy, cabbage, kale, lettuce",,Ricarda Krejci,2019-05-07,,,,,11,2540
 🥦,1F966,food-drink,food-vegetable,broccoli,wild cabbage,,Marius Schnabel,2018-04-18,,,,,5,2541
 🧄,1F9C4,food-drink,food-vegetable,garlic,flavoring,,Yasmin Abdullahi,2019-05-07,,,,,12,2542
 🧅,1F9C5,food-drink,food-vegetable,onion,flavoring,,Yasmin Abdullahi,2019-05-07,,,,,12,2543
@@ -1700,6 +1709,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥐,1F950,food-drink,food-prepared,croissant,"bread, crescent roll, food, french",,Miriam Vollmeier,2018-04-18,,,,,3,2548
 🥖,1F956,food-drink,food-prepared,baguette bread,"baguette, bread, food, french",,Miriam Vollmeier,2018-04-18,,,,,3,2549
 🥨,1F968,food-drink,food-prepared,pretzel,twisted,,Miriam Vollmeier,2018-04-18,,,,,5,2550
+🥯,1F96F,food-drink,food-prepared,bagel,"bakery, schmear",,Ricarda Krejci,2019-05-07,,,,,11,2551
+🥞,1F95E,food-drink,food-prepared,pancakes,"crêpe, food, hotcake, pancake",,Ricarda Krejci,2019-05-07,,,,,3,2552
 🧇,1F9C7,food-drink,food-prepared,waffle,"indecisive, iron",,Yasmin Abdullahi,2019-05-07,,,,,12,2553
 🧀,1F9C0,food-drink,food-prepared,cheese wedge,cheese,,Miriam Vollmeier,2018-04-18,,,,,1,2554
 🍖,1F356,food-drink,food-prepared,meat on bone,"bone, meat",,Miriam Vollmeier,2018-04-18,,,,,1,2555
@@ -1713,18 +1724,23 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥪,1F96A,food-drink,food-prepared,sandwich,bread,,Miriam Vollmeier,2018-04-18,,,,,5,2563
 🌮,1F32E,food-drink,food-prepared,taco,mexican,,Miriam Vollmeier,2018-04-18,,,,,1,2564
 🌯,1F32F,food-drink,food-prepared,burrito,"mexican, wrap",,Miriam Vollmeier,2018-04-18,,,,,1,2565
+🥙,1F959,food-drink,food-prepared,stuffed flatbread,"falafel, flatbread, food, gyro, kebab, stuffed",,Ricarda Krejci,2019-05-07,,,,,3,2566
 🧆,1F9C6,food-drink,food-prepared,falafel,"chickpea, meatball",,Yasmin Abdullahi,2019-05-07,,,,,12,2567
 🥚,1F95A,food-drink,food-prepared,egg,food,,Miriam Vollmeier,2018-04-18,,,,,3,2568
 🍳,1F373,food-drink,food-prepared,cooking,"egg, frying, pan",,Miriam Vollmeier,2018-04-18,,,,,1,2569
+🥘,1F958,food-drink,food-prepared,shallow pan of food,"casserole, food, paella, pan, shallow",,Ricarda Krejci,2019-05-07,,,,,3,2570
 🍲,1F372,food-drink,food-prepared,pot of food,"pot, stew",,Miriam Vollmeier,2018-04-18,,,,,1,2571
 🥣,1F963,food-drink,food-prepared,bowl with spoon,"breakfast, cereal, congee",,Guemil Project,2019-01-14,,,,,5,2572
+🥗,1F957,food-drink,food-prepared,green salad,"food, green, salad",,Ricarda Krejci,2019-05-07,,,,,3,2573
 🍿,1F37F,food-drink,food-prepared,popcorn,popcorn,,Miriam Vollmeier,2018-04-18,,,,,1,2574
 🧈,1F9C8,food-drink,food-prepared,butter,dairy,,Evelyn Soos,2019-05-04,,,,,12,2575
+🧂,1F9C2,food-drink,food-prepared,salt,"condiment, shaker",,Ricarda Krejci,2019-05-07,,,,,11,2576
 🥫,1F96B,food-drink,food-prepared,canned food,can,,Daniel Quiros,2018-11-16,,,,,5,2577
 🍱,1F371,food-drink,food-asian,bento box,"bento, box",,Miriam Vollmeier,2018-04-18,,,,,1,2578
 🍘,1F358,food-drink,food-asian,rice cracker,"cracker, rice",,Miriam Vollmeier,2018-04-18,,,,,1,2579
 🍙,1F359,food-drink,food-asian,rice ball,"ball, japanese, rice",,Miriam Vollmeier,2018-04-18,,,,,1,2580
 🍚,1F35A,food-drink,food-asian,cooked rice,"cooked, rice",,Miriam Vollmeier,2018-04-18,,,,,1,2581
+🍛,1F35B,food-drink,food-asian,curry rice,"curry, rice",,Ricarda Krejci,2019-05-07,,,,,1,2582
 🍜,1F35C,food-drink,food-asian,steaming bowl,"bowl, noodle, ramen, steaming",,Hend Hourani,2018-11-16,,,,,1,2583
 🍝,1F35D,food-drink,food-asian,spaghetti,pasta,,Miriam Vollmeier,2018-04-18,,,,,1,2584
 🍠,1F360,food-drink,food-asian,roasted sweet potato,"potato, roasted, sweet",,Miriam Vollmeier,2018-04-18,,,,,1,2585
@@ -1732,9 +1748,13 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🍣,1F363,food-drink,food-asian,sushi,sushi,,Miriam Vollmeier,2018-04-18,,,,,1,2587
 🍤,1F364,food-drink,food-asian,fried shrimp,"fried, prawn, shrimp, tempura",,Miriam Vollmeier,2018-04-18,,,,,1,2588
 🍥,1F365,food-drink,food-asian,fish cake with swirl,"cake, fish, pastry, swirl",,Hend Hourani,2018-11-16,,,,,1,2589
+🥮,1F96E,food-drink,food-asian,moon cake,"autumn, festival, yuèbǐng",,Ricarda Krejci,2019-05-07,,,,,11,2590
 🍡,1F361,food-drink,food-asian,dango,"dessert, japanese, skewer, stick, sweet",,Miriam Vollmeier,2018-04-18,,,,,1,2591
+🥟,1F95F,food-drink,food-asian,dumpling,"empanada, gyōza, jiaozi, pierogi, potsticker",,Ricarda Krejci,2019-05-07,,,,,5,2592
+🥠,1F960,food-drink,food-asian,fortune cookie,prophecy,,Ricarda Krejci,2019-05-07,,,,,5,2593
 🥡,1F961,food-drink,food-asian,takeout box,oyster pail,,Daniel Quiros,2018-11-16,,,,,5,2594
 🦀,1F980,food-drink,food-marine,crab,"cancer, zodiac","beach, sand, water",Selina Bauder,2018-04-18,,,,,1,2595
+🦞,1F99E,food-drink,food-marine,lobster,"bisque, claws, seafood",,Ricarda Krejci,2019-05-07,,,,,11,2596
 🦐,1F990,food-drink,food-marine,shrimp,"food, shellfish, small","swim, animal, water, food",Selina Bauder,2018-04-18,,,,,3,2597
 🦑,1F991,food-drink,food-marine,squid,"food, molusc","swim, animal, water",Selina Bauder,2018-04-18,,,,,3,2598
 🦪,1F9AA,food-drink,food-marine,oyster,"diving, pearl",,Evelyn Soos,2019-05-04,,,,,12,2599
@@ -2479,11 +2499,15 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ㊙️,3299,symbols,alphanum,Japanese “secret” button,"ideograph, japanese, japanese “secret” button, “secret”, 秘","japanese, mysterious",Jose Avila,2018-04-18,,,,,1,3525
 🈺,1F23A,symbols,alphanum,Japanese “open for business” button,"ideograph, japanese, japanese “open for business” button, “open for business”, 営",,Evelyn Soos,2019-05-04,,,,,1,3526
 🈵,1F235,symbols,alphanum,Japanese “no vacancy” button,"ideograph, japanese, japanese “no vacancy” button, “no vacancy”, 満",,Evelyn Soos,2019-05-04,,,,,1,3527
+🔴,1F534,symbols,geometric,red circle,"circle, geometric, red",,Ricarda Krejci,2019-05-07,,,,,1,3528
 🟠,1F7E0,symbols,geometric,orange circle,"circle, orange",,Sam Eckert,2019-05-06,,,,,12,3529
 🟡,1F7E1,symbols,geometric,yellow circle,"circle, yellow",,Sam Eckert,2019-05-06,,,,,12,3530
 🟢,1F7E2,symbols,geometric,green circle,"circle, green",,Sam Eckert,2019-05-06,,,,,12,3531
+🔵,1F535,symbols,geometric,blue circle,"blue, circle, geometric",,Ricarda Krejci,2019-05-07,,,,,1,3532
 🟣,1F7E3,symbols,geometric,purple circle,"circle, purple",,Sam Eckert,2019-05-06,,,,,12,3533
 🟤,1F7E4,symbols,geometric,brown circle,"brown, circle",,Sam Eckert,2019-05-06,,,,,12,3534
+⚫️,26AB,symbols,geometric,black circle,"circle, geometric",,Ricarda Krejci,2019-05-07,,,,,1,3535
+⚪️,26AA,symbols,geometric,white circle,"circle, geometric",,Ricarda Krejci,2019-05-07,,,,,1,3536
 🟥,1F7E5,symbols,geometric,red square,"red, square",,Sam Eckert,2019-05-06,,,,,12,3537
 🟧,1F7E7,symbols,geometric,orange square,"orange, square",,Sam Eckert,2019-05-06,,,,,12,3538
 🟨,1F7E8,symbols,geometric,yellow square,"square, yellow",,Sam Eckert,2019-05-06,,,,,12,3539
@@ -2500,9 +2524,15 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ▪️,25AA,symbols,geometric,black small square,"geometric, square",,Laura Schießer,2019-05-06,,,,,1,3553
 ▫️,25AB,symbols,geometric,white small square,"geometric, square",,Laura Schießer,2019-05-06,,,,,1,3555
 🔶,1F536,symbols,geometric,large orange diamond,"diamond, geometric, orange",,Laura Schießer,2019-05-06,,,,,1,3556
+🔷,1F537,symbols,geometric,large blue diamond,"blue, diamond, geometric",,Ricarda Krejci,2019-05-07,,,,,1,3557
+🔸,1F538,symbols,geometric,small orange diamond,"diamond, geometric, orange",,Ricarda Krejci,2019-05-07,,,,,1,3558
+🔹,1F539,symbols,geometric,small blue diamond,"blue, diamond, geometric",,Ricarda Krejci,2019-05-07,,,,,1,3559
 🔺,1F53A,symbols,geometric,red triangle pointed up,"geometric, red",arrow,Lisa Schulz,2018-04-18,,,,,1,3560
 🔻,1F53B,symbols,geometric,red triangle pointed down,"down, geometric, red",arrow,Lisa Schulz,2018-04-18,,,,,1,3561
+💠,1F4A0,symbols,geometric,diamond with a dot,"comic, diamond, geometric, inside",,Ricarda Krejci,2019-05-07,,,,,1,3562
 🔘,1F518,symbols,geometric,radio button,"button, geometric, radio",,Lisa Schulz,2018-04-18,,,,,1,3563
+🔳,1F533,symbols,geometric,white square button,"button, geometric, outlined, square",,Ricarda Krejci,2019-05-07,,,,,1,3564
+🔲,1F532,symbols,geometric,black square button,"button, geometric, square",,Ricarda Krejci,2019-05-07,,,,,1,3565
 🏁,1F3C1,flags,flag,chequered flag,"checkered, chequered, racing","black, white, grid, racing",Aileen Gedrat,2018-11-16,,,,,1,3566
 🚩,1F6A9,flags,flag,triangular flag,post,,Aileen Gedrat,2018-11-16,,,,,1,3567
 🎌,1F38C,flags,flag,crossed flags,"celebration, cross, crossed, japanese",,Laura Dworatschek,2019-05-06,,,,,1,3568
@@ -2919,12 +2949,16 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E246,extras-openmoji,ui-element,people dialogue,,"communication, talking, chatting, users, humans, conversation, two, face-to-face",Kai Wanschura,2018-04-18,,,,,,
 ,E240,extras-openmoji,ui-element,mark,,,Baris Camli,2018-04-18,,,,,,
 ,E245,extras-openmoji,ui-element,toggle button state B,,,Baris Camli,2018-04-18,,,,,,
-,E0C1,extras-openmoji,food-drink,maultasche,,"swabian, schwäbisch, meal, germany",Fanny Jung,2019-05-06,,,,,,
-,E146,extras-openmoji,objects,spätzlepresse,,"swabian, schwäbisch, spätzle, germany",Fanny Jung,2019-05-06,,,,,,
+,E0C1,extras-openmoji,food-drink,maultasche,,"swabian, schwäbisch, schwaebisch, meal, germany",Fanny Jung,2019-05-06,,,,,,
+,E146,extras-openmoji,objects,spätzlepresse,,"swabian, schwäbisch, schwaebisch, spätzle, germany",Fanny Jung,2019-05-06,,,,,,
 ,E147,extras-openmoji,objects,european name badge,,,Selina Lange,2019-05-06,,,,,,
-,E0C3,extras-openmoji,food-drink,pretzel,,"swabian, schwäbisch, brezel, germany",Tonia Reinhardt,2019-05-07,,,,,,
-,E20A,extras-openmoji,travel-places,stuttgart fernsehturm,,"swabian, schwäbisch, germany",Tonia Reinhardt,2019-05-07,,,,,,
-,E148,extras-openmoji,objects,kehrwoche,,"swabian, schwäbisch, germany, broom",Tonia Reinhardt,2019-05-07,,,,,,
+,E0C3,extras-openmoji,food-drink,pretzel,,"swabian, schwäbisch, schwaebisch, brezel, germany",Tonia Reinhardt,2019-05-07,,,,,,
+,E20A,extras-openmoji,travel-places,stuttgart fernsehturm,,"swabian, schwäbisch, schwaebisch, germany",Tonia Reinhardt,2019-05-07,,,,,,
+,E148,extras-openmoji,objects,kehrwoche,,"swabian, schwäbisch, schwaebisch, germany, broom",Tonia Reinhardt,2019-05-07,,,,,,
+,E207,extras-openmoji,travel-places,schwäbisch gmünd forum gold und silber,,"swabian, schwäbisch, schwaebisch, germany, schwaebisch gmuend",Ricarda Krejci,2019-05-07,,,,,,
+,E208,extras-openmoji,travel-places,schwäbisch gmünd fünfknopfturm,,"tower, schwaebisch gmuend",Ricarda Krejci,2019-05-07,,,,,,
+,E209,extras-openmoji,travel-places,schwäbisch gmünd ratshaus,,"town hall, schwaebisch gmuend",Ricarda Krejci,2019-05-07,,,,,,
+,E0C2,extras-openmoji,food-drink,lentils with spaetzle,,"swabian, schwäbisch, meal, germany",Ricarda Krejci,2019-05-07,,,,,,
 ⬌,2b0c,extras-unicode,symbol-other,left right black arrow,,,Guemil Project,2019-01-14,,,,,4,
 ⬍,2b0d,extras-unicode,symbol-other,up down black arrow,,,Guemil Project,2019-01-14,,,,,4,
 ⮏,2b8f,extras-unicode,symbol-other,anticlockwise triangle-headed top u-shaped arrow,,,Guemil Project,2019-01-14,,,,,7,
