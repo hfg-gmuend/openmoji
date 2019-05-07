@@ -6,12 +6,12 @@
     <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
-    <g id="color">
-      <rect x="16" y="16" width="40" height="40" />
-      <rect x="25" y="26" width="21" height="21" fill="#fff" />
-    </g>
-    <g id="line">
-        <rect x="16" y="16" width="40" height="40" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-        <rect x="25" y="26" width="21" height="21" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-    </g>
+  <g id="color">
+    <rect x="16" y="16" width="40" height="40"/>
+    <rect x="25" y="26" width="21" height="21" fill="#fff"/>
+  </g>
+  <g id="line">
+    <rect x="16" y="16" width="40" height="40" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <rect x="25" y="26" width="21" height="21" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
 </svg>
