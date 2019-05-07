@@ -60,7 +60,7 @@ const forceColors = (srcFilePath, destFilePath, colorPalette) => {
   });
   if (modified) {
     console.log('wrong colors -> ', srcFilePath);
-    // writeSvg(destFilePath, doc.querySelector('svg').outerHTML);
+    writeSvg(destFilePath, doc.querySelector('svg').outerHTML);
   }
 }
 
