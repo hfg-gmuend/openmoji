@@ -1322,6 +1322,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🕺🏽,1F57A-1F3FD,people-body,person-activity,man dancing: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,🕺,1F57A,3,1742
 🕺🏾,1F57A-1F3FE,people-body,person-activity,man dancing: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,🕺,1F57A,3,1743
 🕺🏿,1F57A-1F3FF,people-body,person-activity,man dancing: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,🕺,1F57A,3,1744
+🕴️,1F574,people-body,person-activity,man in suit levitating,"business, man, suit",,Florian Nagel,2019-05-07,,single,🕴️,1F574,1,1746
+🕴🏻,1F574-1F3FB,people-body,person-activity,man in suit levitating: light skin tone,,,Florian Nagel,2019-05-07,1,single,🕴️,1F574,4,1747
+🕴🏼,1F574-1F3FC,people-body,person-activity,man in suit levitating: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🕴️,1F574,4,1748
+🕴🏽,1F574-1F3FD,people-body,person-activity,man in suit levitating: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🕴️,1F574,4,1749
+🕴🏾,1F574-1F3FE,people-body,person-activity,man in suit levitating: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🕴️,1F574,4,1750
+🕴🏿,1F574-1F3FF,people-body,person-activity,man in suit levitating: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🕴️,1F574,4,1751
 👯,1F46F,people-body,person-activity,people with bunny ears,"bunny ear, dancer, partying","human, person",Johanna Wellnitz,2018-04-18,,,,,1,1752
 👯‍♂️,1F46F-200D-2642-FE0F,people-body,person-activity,men with bunny ears,"bunny ear, dancer, men, partying",,Rifat Erdogan,2019-05-06,,,,,4,1753
 👯‍♀️,1F46F-200D-2640-FE0F,people-body,person-activity,women with bunny ears,"bunny ear, dancer, partying, women",,Rifat Erdogan,2019-05-06,,,,,4,1755
@@ -1331,6 +1337,18 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧗🏽,1F9D7-1F3FD,people-body,person-activity,person climbing: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,🧗,1F9D7,5,1790
 🧗🏾,1F9D7-1F3FE,people-body,person-activity,person climbing: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,🧗,1F9D7,5,1791
 🧗🏿,1F9D7-1F3FF,people-body,person-activity,person climbing: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,🧗,1F9D7,5,1792
+🧗‍♂️,1F9D7-200D-2642-FE0F,people-body,person-activity,man climbing,climber,,Florian Nagel,2019-05-07,,single,🧗‍♂️,1F9D7-200D-2642-FE0F,5,1793
+🧗🏻‍♂️,1F9D7-1F3FB-200D-2642-FE0F,people-body,person-activity,man climbing: light skin tone,,,Florian Nagel,2019-05-07,1,single,🧗‍♂️,1F9D7-200D-2642-FE0F,5,1795
+🧗🏼‍♂️,1F9D7-1F3FC-200D-2642-FE0F,people-body,person-activity,man climbing: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🧗‍♂️,1F9D7-200D-2642-FE0F,5,1797
+🧗🏽‍♂️,1F9D7-1F3FD-200D-2642-FE0F,people-body,person-activity,man climbing: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🧗‍♂️,1F9D7-200D-2642-FE0F,5,1799
+🧗🏾‍♂️,1F9D7-1F3FE-200D-2642-FE0F,people-body,person-activity,man climbing: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🧗‍♂️,1F9D7-200D-2642-FE0F,5,1801
+🧗🏿‍♂️,1F9D7-1F3FF-200D-2642-FE0F,people-body,person-activity,man climbing: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🧗‍♂️,1F9D7-200D-2642-FE0F,5,1803
+🧗‍♀️,1F9D7-200D-2640-FE0F,people-body,person-activity,woman climbing,climber,,Florian Nagel,2019-05-07,,single,🧗‍♀️,1F9D7-200D-2640-FE0F,5,1805
+🧗🏻‍♀️,1F9D7-1F3FB-200D-2640-FE0F,people-body,person-activity,woman climbing: light skin tone,,,Florian Nagel,2019-05-07,1,single,🧗‍♀️,1F9D7-200D-2640-FE0F,5,1807
+🧗🏼‍♀️,1F9D7-1F3FC-200D-2640-FE0F,people-body,person-activity,woman climbing: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🧗‍♀️,1F9D7-200D-2640-FE0F,5,1809
+🧗🏽‍♀️,1F9D7-1F3FD-200D-2640-FE0F,people-body,person-activity,woman climbing: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🧗‍♀️,1F9D7-200D-2640-FE0F,5,1811
+🧗🏾‍♀️,1F9D7-1F3FE-200D-2640-FE0F,people-body,person-activity,woman climbing: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🧗‍♀️,1F9D7-200D-2640-FE0F,5,1813
+🧗🏿‍♀️,1F9D7-1F3FF-200D-2640-FE0F,people-body,person-activity,woman climbing: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🧗‍♀️,1F9D7-200D-2640-FE0F,5,1815
 🤺,1F93A,people-body,person-sport,person fencing,"fencer, fencing, sword","epee, sports",Johanna Wellnitz,2018-04-18,,,,,3,1817
 🏇,1F3C7,people-body,person-sport,horse racing,"horse, jockey, racehorse, racing","animal, sports",Johanna Wellnitz,2018-04-18,,single,🏇,1F3C7,1,1818
 🏇🏻,1F3C7-1F3FB,people-body,person-sport,horse racing: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,🏇,1F3C7,4,1819
@@ -1351,79 +1369,237 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏌🏽,1F3CC-1F3FD,people-body,person-sport,person golfing: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,🏌️,1F3CC,4,1836
 🏌🏾,1F3CC-1F3FE,people-body,person-sport,person golfing: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,🏌️,1F3CC,4,1837
 🏌🏿,1F3CC-1F3FF,people-body,person-sport,person golfing: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,🏌️,1F3CC,4,1838
+🏌️‍♂️,1F3CC-FE0F-200D-2642-FE0F,people-body,person-sport,man golfing,"golf, man",,Florian Nagel,2019-05-07,,single,🏌️‍♂️,1F3CC-FE0F-200D-2642-FE0F,4,1839
+🏌🏻‍♂️,1F3CC-1F3FB-200D-2642-FE0F,people-body,person-sport,man golfing: light skin tone,,,Florian Nagel,2019-05-07,1,single,🏌️‍♂️,1F3CC-FE0F-200D-2642-FE0F,4,1843
+🏌🏼‍♂️,1F3CC-1F3FC-200D-2642-FE0F,people-body,person-sport,man golfing: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🏌️‍♂️,1F3CC-FE0F-200D-2642-FE0F,4,1845
+🏌🏽‍♂️,1F3CC-1F3FD-200D-2642-FE0F,people-body,person-sport,man golfing: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🏌️‍♂️,1F3CC-FE0F-200D-2642-FE0F,4,1847
+🏌🏾‍♂️,1F3CC-1F3FE-200D-2642-FE0F,people-body,person-sport,man golfing: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🏌️‍♂️,1F3CC-FE0F-200D-2642-FE0F,4,1849
+🏌🏿‍♂️,1F3CC-1F3FF-200D-2642-FE0F,people-body,person-sport,man golfing: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🏌️‍♂️,1F3CC-FE0F-200D-2642-FE0F,4,1851
+🏌️‍♀️,1F3CC-FE0F-200D-2640-FE0F,people-body,person-sport,woman golfing,"golf, woman",,Florian Nagel,2019-05-07,,single,🏌️‍♀️,1F3CC-FE0F-200D-2640-FE0F,4,1853
+🏌🏻‍♀️,1F3CC-1F3FB-200D-2640-FE0F,people-body,person-sport,woman golfing: light skin tone,,,Florian Nagel,2019-05-07,1,single,🏌️‍♀️,1F3CC-FE0F-200D-2640-FE0F,4,1857
+🏌🏼‍♀️,1F3CC-1F3FC-200D-2640-FE0F,people-body,person-sport,woman golfing: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🏌️‍♀️,1F3CC-FE0F-200D-2640-FE0F,4,1859
+🏌🏽‍♀️,1F3CC-1F3FD-200D-2640-FE0F,people-body,person-sport,woman golfing: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🏌️‍♀️,1F3CC-FE0F-200D-2640-FE0F,4,1861
+🏌🏾‍♀️,1F3CC-1F3FE-200D-2640-FE0F,people-body,person-sport,woman golfing: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🏌️‍♀️,1F3CC-FE0F-200D-2640-FE0F,4,1863
+🏌🏿‍♀️,1F3CC-1F3FF-200D-2640-FE0F,people-body,person-sport,woman golfing: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🏌️‍♀️,1F3CC-FE0F-200D-2640-FE0F,4,1865
 🏄️,1F3C4,people-body,person-sport,person surfing,surfing,"water, ocean, sea, wave, surfer, sports",Johanna Wellnitz,2018-04-18,,single,🏄️,1F3C4,1,1867
 🏄🏻,1F3C4-1F3FB,people-body,person-sport,person surfing: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,🏄️,1F3C4,2,1868
 🏄🏼,1F3C4-1F3FC,people-body,person-sport,person surfing: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,🏄️,1F3C4,2,1869
 🏄🏽,1F3C4-1F3FD,people-body,person-sport,person surfing: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,🏄️,1F3C4,2,1870
 🏄🏾,1F3C4-1F3FE,people-body,person-sport,person surfing: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,🏄️,1F3C4,2,1871
 🏄🏿,1F3C4-1F3FF,people-body,person-sport,person surfing: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,🏄️,1F3C4,2,1872
+🏄‍♂️,1F3C4-200D-2642-FE0F,people-body,person-sport,man surfing,"man, surfing",,Florian Nagel,2019-05-07,,single,🏄‍♂️,1F3C4-200D-2642-FE0F,4,1873
+🏄🏻‍♂️,1F3C4-1F3FB-200D-2642-FE0F,people-body,person-sport,man surfing: light skin tone,,,Florian Nagel,2019-05-07,1,single,🏄‍♂️,1F3C4-200D-2642-FE0F,4,1875
+🏄🏼‍♂️,1F3C4-1F3FC-200D-2642-FE0F,people-body,person-sport,man surfing: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🏄‍♂️,1F3C4-200D-2642-FE0F,4,1877
+🏄🏽‍♂️,1F3C4-1F3FD-200D-2642-FE0F,people-body,person-sport,man surfing: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🏄‍♂️,1F3C4-200D-2642-FE0F,4,1879
+🏄🏾‍♂️,1F3C4-1F3FE-200D-2642-FE0F,people-body,person-sport,man surfing: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🏄‍♂️,1F3C4-200D-2642-FE0F,4,1881
+🏄🏿‍♂️,1F3C4-1F3FF-200D-2642-FE0F,people-body,person-sport,man surfing: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🏄‍♂️,1F3C4-200D-2642-FE0F,4,1883
+🏄‍♀️,1F3C4-200D-2640-FE0F,people-body,person-sport,woman surfing,"surfing, woman",,Florian Nagel,2019-05-07,,single,🏄‍♀️,1F3C4-200D-2640-FE0F,4,1885
+🏄🏻‍♀️,1F3C4-1F3FB-200D-2640-FE0F,people-body,person-sport,woman surfing: light skin tone,,,Florian Nagel,2019-05-07,1,single,🏄‍♀️,1F3C4-200D-2640-FE0F,4,1887
+🏄🏼‍♀️,1F3C4-1F3FC-200D-2640-FE0F,people-body,person-sport,woman surfing: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🏄‍♀️,1F3C4-200D-2640-FE0F,4,1889
+🏄🏽‍♀️,1F3C4-1F3FD-200D-2640-FE0F,people-body,person-sport,woman surfing: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🏄‍♀️,1F3C4-200D-2640-FE0F,4,1891
+🏄🏾‍♀️,1F3C4-1F3FE-200D-2640-FE0F,people-body,person-sport,woman surfing: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🏄‍♀️,1F3C4-200D-2640-FE0F,4,1893
+🏄🏿‍♀️,1F3C4-1F3FF-200D-2640-FE0F,people-body,person-sport,woman surfing: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🏄‍♀️,1F3C4-200D-2640-FE0F,4,1895
 🚣,1F6A3,people-body,person-sport,person rowing boat,"boat, rowboat","sports, kayak, canoe, water",Johanna Wellnitz,2018-04-18,,single,🚣,1F6A3,1,1897
 🚣🏻,1F6A3-1F3FB,people-body,person-sport,person rowing boat: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,🚣,1F6A3,2,1898
 🚣🏼,1F6A3-1F3FC,people-body,person-sport,person rowing boat: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,🚣,1F6A3,2,1899
 🚣🏽,1F6A3-1F3FD,people-body,person-sport,person rowing boat: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,🚣,1F6A3,2,1900
 🚣🏾,1F6A3-1F3FE,people-body,person-sport,person rowing boat: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,🚣,1F6A3,2,1901
 🚣🏿,1F6A3-1F3FF,people-body,person-sport,person rowing boat: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,🚣,1F6A3,2,1902
+🚣‍♂️,1F6A3-200D-2642-FE0F,people-body,person-sport,man rowing boat,"boat, man, rowboat",,Florian Nagel,2019-05-07,,single,🚣‍♂️,1F6A3-200D-2642-FE0F,4,1903
+🚣🏻‍♂️,1F6A3-1F3FB-200D-2642-FE0F,people-body,person-sport,man rowing boat: light skin tone,,,Florian Nagel,2019-05-07,1,single,🚣‍♂️,1F6A3-200D-2642-FE0F,4,1905
+🚣🏼‍♂️,1F6A3-1F3FC-200D-2642-FE0F,people-body,person-sport,man rowing boat: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🚣‍♂️,1F6A3-200D-2642-FE0F,4,1907
+🚣🏽‍♂️,1F6A3-1F3FD-200D-2642-FE0F,people-body,person-sport,man rowing boat: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🚣‍♂️,1F6A3-200D-2642-FE0F,4,1909
+🚣🏾‍♂️,1F6A3-1F3FE-200D-2642-FE0F,people-body,person-sport,man rowing boat: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🚣‍♂️,1F6A3-200D-2642-FE0F,4,1911
+🚣🏿‍♂️,1F6A3-1F3FF-200D-2642-FE0F,people-body,person-sport,man rowing boat: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🚣‍♂️,1F6A3-200D-2642-FE0F,4,1913
+🚣‍♀️,1F6A3-200D-2640-FE0F,people-body,person-sport,woman rowing boat,"boat, rowboat, woman",,Florian Nagel,2019-05-07,,single,🚣‍♀️,1F6A3-200D-2640-FE0F,4,1915
+🚣🏻‍♀️,1F6A3-1F3FB-200D-2640-FE0F,people-body,person-sport,woman rowing boat: light skin tone,,,Florian Nagel,2019-05-07,1,single,🚣‍♀️,1F6A3-200D-2640-FE0F,4,1917
+🚣🏼‍♀️,1F6A3-1F3FC-200D-2640-FE0F,people-body,person-sport,woman rowing boat: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🚣‍♀️,1F6A3-200D-2640-FE0F,4,1919
+🚣🏽‍♀️,1F6A3-1F3FD-200D-2640-FE0F,people-body,person-sport,woman rowing boat: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🚣‍♀️,1F6A3-200D-2640-FE0F,4,1921
+🚣🏾‍♀️,1F6A3-1F3FE-200D-2640-FE0F,people-body,person-sport,woman rowing boat: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🚣‍♀️,1F6A3-200D-2640-FE0F,4,1923
+🚣🏿‍♀️,1F6A3-1F3FF-200D-2640-FE0F,people-body,person-sport,woman rowing boat: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🚣‍♀️,1F6A3-200D-2640-FE0F,4,1925
 🏊️,1F3CA,people-body,person-sport,person swimming,swim,"sports, water",Johanna Wellnitz,2018-04-18,,single,🏊️,1F3CA,1,1927
 🏊🏻,1F3CA-1F3FB,people-body,person-sport,person swimming: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,🏊️,1F3CA,2,1928
 🏊🏼,1F3CA-1F3FC,people-body,person-sport,person swimming: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,🏊️,1F3CA,2,1929
 🏊🏽,1F3CA-1F3FD,people-body,person-sport,person swimming: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,🏊️,1F3CA,2,1930
 🏊🏾,1F3CA-1F3FE,people-body,person-sport,person swimming: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,🏊️,1F3CA,2,1931
 🏊🏿,1F3CA-1F3FF,people-body,person-sport,person swimming: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,🏊️,1F3CA,2,1932
+🏊‍♂️,1F3CA-200D-2642-FE0F,people-body,person-sport,man swimming,"man, swim",,Florian Nagel,2019-05-07,,single,🏊‍♂️,1F3CA-200D-2642-FE0F,4,1933
+🏊🏻‍♂️,1F3CA-1F3FB-200D-2642-FE0F,people-body,person-sport,man swimming: light skin tone,,,Florian Nagel,2019-05-07,1,single,🏊‍♂️,1F3CA-200D-2642-FE0F,4,1935
+🏊🏼‍♂️,1F3CA-1F3FC-200D-2642-FE0F,people-body,person-sport,man swimming: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🏊‍♂️,1F3CA-200D-2642-FE0F,4,1937
+🏊🏽‍♂️,1F3CA-1F3FD-200D-2642-FE0F,people-body,person-sport,man swimming: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🏊‍♂️,1F3CA-200D-2642-FE0F,4,1939
+🏊🏾‍♂️,1F3CA-1F3FE-200D-2642-FE0F,people-body,person-sport,man swimming: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🏊‍♂️,1F3CA-200D-2642-FE0F,4,1941
+🏊🏿‍♂️,1F3CA-1F3FF-200D-2642-FE0F,people-body,person-sport,man swimming: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🏊‍♂️,1F3CA-200D-2642-FE0F,4,1943
+🏊‍♀️,1F3CA-200D-2640-FE0F,people-body,person-sport,woman swimming,"swim, woman",,Florian Nagel,2019-05-07,,single,🏊‍♀️,1F3CA-200D-2640-FE0F,4,1945
+🏊🏻‍♀️,1F3CA-1F3FB-200D-2640-FE0F,people-body,person-sport,woman swimming: light skin tone,,,Florian Nagel,2019-05-07,1,single,🏊‍♀️,1F3CA-200D-2640-FE0F,4,1947
+🏊🏼‍♀️,1F3CA-1F3FC-200D-2640-FE0F,people-body,person-sport,woman swimming: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🏊‍♀️,1F3CA-200D-2640-FE0F,4,1949
+🏊🏽‍♀️,1F3CA-1F3FD-200D-2640-FE0F,people-body,person-sport,woman swimming: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🏊‍♀️,1F3CA-200D-2640-FE0F,4,1951
+🏊🏾‍♀️,1F3CA-1F3FE-200D-2640-FE0F,people-body,person-sport,woman swimming: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🏊‍♀️,1F3CA-200D-2640-FE0F,4,1953
+🏊🏿‍♀️,1F3CA-1F3FF-200D-2640-FE0F,people-body,person-sport,woman swimming: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🏊‍♀️,1F3CA-200D-2640-FE0F,4,1955
 ⛹️,26F9,people-body,person-sport,person bouncing ball,ball,"dribble, sports",Johanna Wellnitz,2018-04-18,,single,⛹️,26F9,1,1958
 ⛹🏻,26F9-1F3FB,people-body,person-sport,person bouncing ball: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,⛹️,26F9,2,1959
 ⛹🏼,26F9-1F3FC,people-body,person-sport,person bouncing ball: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,⛹️,26F9,2,1960
 ⛹🏽,26F9-1F3FD,people-body,person-sport,person bouncing ball: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,⛹️,26F9,2,1961
 ⛹🏾,26F9-1F3FE,people-body,person-sport,person bouncing ball: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,⛹️,26F9,2,1962
 ⛹🏿,26F9-1F3FF,people-body,person-sport,person bouncing ball: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,⛹️,26F9,2,1963
+⛹️‍♂️,26F9-FE0F-200D-2642-FE0F,people-body,person-sport,man bouncing ball,"ball, man",,Florian Nagel,2019-05-07,,single,⛹️‍♂️,26F9-FE0F-200D-2642-FE0F,4,1964
+⛹🏻‍♂️,26F9-1F3FB-200D-2642-FE0F,people-body,person-sport,man bouncing ball: light skin tone,,,Florian Nagel,2019-05-07,1,single,⛹️‍♂️,26F9-FE0F-200D-2642-FE0F,4,1968
+⛹🏼‍♂️,26F9-1F3FC-200D-2642-FE0F,people-body,person-sport,man bouncing ball: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,⛹️‍♂️,26F9-FE0F-200D-2642-FE0F,4,1970
+⛹🏽‍♂️,26F9-1F3FD-200D-2642-FE0F,people-body,person-sport,man bouncing ball: medium skin tone,,,Florian Nagel,2019-05-07,3,single,⛹️‍♂️,26F9-FE0F-200D-2642-FE0F,4,1972
+⛹🏾‍♂️,26F9-1F3FE-200D-2642-FE0F,people-body,person-sport,man bouncing ball: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,⛹️‍♂️,26F9-FE0F-200D-2642-FE0F,4,1974
+⛹🏿‍♂️,26F9-1F3FF-200D-2642-FE0F,people-body,person-sport,man bouncing ball: dark skin tone,,,Florian Nagel,2019-05-07,5,single,⛹️‍♂️,26F9-FE0F-200D-2642-FE0F,4,1976
+⛹️‍♀️,26F9-FE0F-200D-2640-FE0F,people-body,person-sport,woman bouncing ball,"ball, woman",,Florian Nagel,2019-05-07,,single,⛹️‍♀️,26F9-FE0F-200D-2640-FE0F,4,1978
+⛹🏻‍♀️,26F9-1F3FB-200D-2640-FE0F,people-body,person-sport,woman bouncing ball: light skin tone,,,Florian Nagel,2019-05-07,1,single,⛹️‍♀️,26F9-FE0F-200D-2640-FE0F,4,1982
+⛹🏼‍♀️,26F9-1F3FC-200D-2640-FE0F,people-body,person-sport,woman bouncing ball: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,⛹️‍♀️,26F9-FE0F-200D-2640-FE0F,4,1984
+⛹🏽‍♀️,26F9-1F3FD-200D-2640-FE0F,people-body,person-sport,woman bouncing ball: medium skin tone,,,Florian Nagel,2019-05-07,3,single,⛹️‍♀️,26F9-FE0F-200D-2640-FE0F,4,1986
+⛹🏾‍♀️,26F9-1F3FE-200D-2640-FE0F,people-body,person-sport,woman bouncing ball: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,⛹️‍♀️,26F9-FE0F-200D-2640-FE0F,4,1988
+⛹🏿‍♀️,26F9-1F3FF-200D-2640-FE0F,people-body,person-sport,woman bouncing ball: dark skin tone,,,Florian Nagel,2019-05-07,5,single,⛹️‍♀️,26F9-FE0F-200D-2640-FE0F,4,1990
 🏋️,1F3CB,people-body,person-sport,person lifting weights,"lifter, weight","sports, power",Johanna Wellnitz,2018-04-18,,single,🏋️,1F3CB,1,1993
 🏋🏻,1F3CB-1F3FB,people-body,person-sport,person lifting weights: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,🏋️,1F3CB,2,1994
 🏋🏼,1F3CB-1F3FC,people-body,person-sport,person lifting weights: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,🏋️,1F3CB,2,1995
 🏋🏽,1F3CB-1F3FD,people-body,person-sport,person lifting weights: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,🏋️,1F3CB,2,1996
 🏋🏾,1F3CB-1F3FE,people-body,person-sport,person lifting weights: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,🏋️,1F3CB,2,1997
 🏋🏿,1F3CB-1F3FF,people-body,person-sport,person lifting weights: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,🏋️,1F3CB,2,1998
+🏋️‍♂️,1F3CB-FE0F-200D-2642-FE0F,people-body,person-sport,man lifting weights,"man, weight lifter",,Florian Nagel,2019-05-07,,single,🏋️‍♂️,1F3CB-FE0F-200D-2642-FE0F,4,1999
+🏋🏻‍♂️,1F3CB-1F3FB-200D-2642-FE0F,people-body,person-sport,man lifting weights: light skin tone,,,Florian Nagel,2019-05-07,1,single,🏋️‍♂️,1F3CB-FE0F-200D-2642-FE0F,4,2003
+🏋🏼‍♂️,1F3CB-1F3FC-200D-2642-FE0F,people-body,person-sport,man lifting weights: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🏋️‍♂️,1F3CB-FE0F-200D-2642-FE0F,4,2005
+🏋🏽‍♂️,1F3CB-1F3FD-200D-2642-FE0F,people-body,person-sport,man lifting weights: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🏋️‍♂️,1F3CB-FE0F-200D-2642-FE0F,4,2007
+🏋🏾‍♂️,1F3CB-1F3FE-200D-2642-FE0F,people-body,person-sport,man lifting weights: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🏋️‍♂️,1F3CB-FE0F-200D-2642-FE0F,4,2009
+🏋🏿‍♂️,1F3CB-1F3FF-200D-2642-FE0F,people-body,person-sport,man lifting weights: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🏋️‍♂️,1F3CB-FE0F-200D-2642-FE0F,4,2011
+🏋️‍♀️,1F3CB-FE0F-200D-2640-FE0F,people-body,person-sport,woman lifting weights,"weight lifter, woman",,Florian Nagel,2019-05-07,,single,🏋️‍♀️,1F3CB-FE0F-200D-2640-FE0F,4,2013
+🏋🏻‍♀️,1F3CB-1F3FB-200D-2640-FE0F,people-body,person-sport,woman lifting weights: light skin tone,,,Florian Nagel,2019-05-07,1,single,🏋️‍♀️,1F3CB-FE0F-200D-2640-FE0F,4,2017
+🏋🏼‍♀️,1F3CB-1F3FC-200D-2640-FE0F,people-body,person-sport,woman lifting weights: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🏋️‍♀️,1F3CB-FE0F-200D-2640-FE0F,4,2019
+🏋🏽‍♀️,1F3CB-1F3FD-200D-2640-FE0F,people-body,person-sport,woman lifting weights: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🏋️‍♀️,1F3CB-FE0F-200D-2640-FE0F,4,2021
+🏋🏾‍♀️,1F3CB-1F3FE-200D-2640-FE0F,people-body,person-sport,woman lifting weights: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🏋️‍♀️,1F3CB-FE0F-200D-2640-FE0F,4,2023
+🏋🏿‍♀️,1F3CB-1F3FF-200D-2640-FE0F,people-body,person-sport,woman lifting weights: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🏋️‍♀️,1F3CB-FE0F-200D-2640-FE0F,4,2025
 🚴,1F6B4,people-body,person-sport,person biking,"bicycle, biking, cyclist",sports,Johanna Wellnitz,2018-04-18,,single,🚴,1F6B4,1,2027
 🚴🏻,1F6B4-1F3FB,people-body,person-sport,person biking: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,🚴,1F6B4,2,2028
 🚴🏼,1F6B4-1F3FC,people-body,person-sport,person biking: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,🚴,1F6B4,2,2029
 🚴🏽,1F6B4-1F3FD,people-body,person-sport,person biking: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,🚴,1F6B4,2,2030
 🚴🏾,1F6B4-1F3FE,people-body,person-sport,person biking: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,🚴,1F6B4,2,2031
 🚴🏿,1F6B4-1F3FF,people-body,person-sport,person biking: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,🚴,1F6B4,2,2032
+🚴‍♂️,1F6B4-200D-2642-FE0F,people-body,person-sport,man biking,"bicycle, biking, cyclist, man",,Florian Nagel,2019-05-07,,single,🚴‍♂️,1F6B4-200D-2642-FE0F,4,2033
+🚴🏻‍♂️,1F6B4-1F3FB-200D-2642-FE0F,people-body,person-sport,man biking: light skin tone,,,Florian Nagel,2019-05-07,1,single,🚴‍♂️,1F6B4-200D-2642-FE0F,4,2035
+🚴🏼‍♂️,1F6B4-1F3FC-200D-2642-FE0F,people-body,person-sport,man biking: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🚴‍♂️,1F6B4-200D-2642-FE0F,4,2037
+🚴🏽‍♂️,1F6B4-1F3FD-200D-2642-FE0F,people-body,person-sport,man biking: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🚴‍♂️,1F6B4-200D-2642-FE0F,4,2039
+🚴🏾‍♂️,1F6B4-1F3FE-200D-2642-FE0F,people-body,person-sport,man biking: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🚴‍♂️,1F6B4-200D-2642-FE0F,4,2041
+🚴🏿‍♂️,1F6B4-1F3FF-200D-2642-FE0F,people-body,person-sport,man biking: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🚴‍♂️,1F6B4-200D-2642-FE0F,4,2043
+🚴‍♀️,1F6B4-200D-2640-FE0F,people-body,person-sport,woman biking,"bicycle, biking, cyclist, woman",,Florian Nagel,2019-05-07,,single,🚴‍♀️,1F6B4-200D-2640-FE0F,4,2045
+🚴🏻‍♀️,1F6B4-1F3FB-200D-2640-FE0F,people-body,person-sport,woman biking: light skin tone,,,Florian Nagel,2019-05-07,1,single,🚴‍♀️,1F6B4-200D-2640-FE0F,4,2047
+🚴🏼‍♀️,1F6B4-1F3FC-200D-2640-FE0F,people-body,person-sport,woman biking: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🚴‍♀️,1F6B4-200D-2640-FE0F,4,2049
+🚴🏽‍♀️,1F6B4-1F3FD-200D-2640-FE0F,people-body,person-sport,woman biking: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🚴‍♀️,1F6B4-200D-2640-FE0F,4,2051
+🚴🏾‍♀️,1F6B4-1F3FE-200D-2640-FE0F,people-body,person-sport,woman biking: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🚴‍♀️,1F6B4-200D-2640-FE0F,4,2053
+🚴🏿‍♀️,1F6B4-1F3FF-200D-2640-FE0F,people-body,person-sport,woman biking: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🚴‍♀️,1F6B4-200D-2640-FE0F,4,2055
 🚵,1F6B5,people-body,person-sport,person mountain biking,"bicycle, bicyclist, bike, cyclist, mountain",,Anne Frauendorf,2018-11-16,,single,🚵,1F6B5,1,2057
 🚵🏻,1F6B5-1F3FB,people-body,person-sport,person mountain biking: light skin tone,,,Anne Frauendorf,2018-11-16,1,single,🚵,1F6B5,2,2058
 🚵🏼,1F6B5-1F3FC,people-body,person-sport,person mountain biking: medium-light skin tone,,,Anne Frauendorf,2018-11-16,2,single,🚵,1F6B5,2,2059
 🚵🏽,1F6B5-1F3FD,people-body,person-sport,person mountain biking: medium skin tone,,,Anne Frauendorf,2018-11-16,3,single,🚵,1F6B5,2,2060
 🚵🏾,1F6B5-1F3FE,people-body,person-sport,person mountain biking: medium-dark skin tone,,,Anne Frauendorf,2018-11-16,4,single,🚵,1F6B5,2,2061
 🚵🏿,1F6B5-1F3FF,people-body,person-sport,person mountain biking: dark skin tone,,,Anne Frauendorf,2018-11-16,5,single,🚵,1F6B5,2,2062
+🚵‍♂️,1F6B5-200D-2642-FE0F,people-body,person-sport,man mountain biking,"bicycle, bike, cyclist, man, mountain",,Florian Nagel,2019-05-07,,single,🚵‍♂️,1F6B5-200D-2642-FE0F,4,2063
+🚵🏻‍♂️,1F6B5-1F3FB-200D-2642-FE0F,people-body,person-sport,man mountain biking: light skin tone,,,Florian Nagel,2019-05-07,1,single,🚵‍♂️,1F6B5-200D-2642-FE0F,4,2065
+🚵🏼‍♂️,1F6B5-1F3FC-200D-2642-FE0F,people-body,person-sport,man mountain biking: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🚵‍♂️,1F6B5-200D-2642-FE0F,4,2067
+🚵🏽‍♂️,1F6B5-1F3FD-200D-2642-FE0F,people-body,person-sport,man mountain biking: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🚵‍♂️,1F6B5-200D-2642-FE0F,4,2069
+🚵🏾‍♂️,1F6B5-1F3FE-200D-2642-FE0F,people-body,person-sport,man mountain biking: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🚵‍♂️,1F6B5-200D-2642-FE0F,4,2071
+🚵🏿‍♂️,1F6B5-1F3FF-200D-2642-FE0F,people-body,person-sport,man mountain biking: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🚵‍♂️,1F6B5-200D-2642-FE0F,4,2073
+🚵‍♀️,1F6B5-200D-2640-FE0F,people-body,person-sport,woman mountain biking,"bicycle, bike, biking, cyclist, mountain, woman",,Florian Nagel,2019-05-07,,single,🚵‍♀️,1F6B5-200D-2640-FE0F,4,2075
+🚵🏻‍♀️,1F6B5-1F3FB-200D-2640-FE0F,people-body,person-sport,woman mountain biking: light skin tone,,,Florian Nagel,2019-05-07,1,single,🚵‍♀️,1F6B5-200D-2640-FE0F,4,2077
+🚵🏼‍♀️,1F6B5-1F3FC-200D-2640-FE0F,people-body,person-sport,woman mountain biking: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🚵‍♀️,1F6B5-200D-2640-FE0F,4,2079
+🚵🏽‍♀️,1F6B5-1F3FD-200D-2640-FE0F,people-body,person-sport,woman mountain biking: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🚵‍♀️,1F6B5-200D-2640-FE0F,4,2081
+🚵🏾‍♀️,1F6B5-1F3FE-200D-2640-FE0F,people-body,person-sport,woman mountain biking: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🚵‍♀️,1F6B5-200D-2640-FE0F,4,2083
+🚵🏿‍♀️,1F6B5-1F3FF-200D-2640-FE0F,people-body,person-sport,woman mountain biking: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🚵‍♀️,1F6B5-200D-2640-FE0F,4,2085
 🤸,1F938,people-body,person-sport,person cartwheeling,"cartwheel, gymnastics",sports,Johanna Wellnitz,2018-04-18,,single,🤸,1F938,3,2087
 🤸🏻,1F938-1F3FB,people-body,person-sport,person cartwheeling: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,🤸,1F938,3,2088
 🤸🏼,1F938-1F3FC,people-body,person-sport,person cartwheeling: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,🤸,1F938,3,2089
 🤸🏽,1F938-1F3FD,people-body,person-sport,person cartwheeling: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,🤸,1F938,3,2090
 🤸🏾,1F938-1F3FE,people-body,person-sport,person cartwheeling: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,🤸,1F938,3,2091
 🤸🏿,1F938-1F3FF,people-body,person-sport,person cartwheeling: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,🤸,1F938,3,2092
+🤸‍♂️,1F938-200D-2642-FE0F,people-body,person-sport,man cartwheeling,"cartwheel, gymnastics, man",,Florian Nagel,2019-05-07,,single,🤸‍♂️,1F938-200D-2642-FE0F,4,2093
+🤸🏻‍♂️,1F938-1F3FB-200D-2642-FE0F,people-body,person-sport,man cartwheeling: light skin tone,,,Florian Nagel,2019-05-07,1,single,🤸‍♂️,1F938-200D-2642-FE0F,4,2095
+🤸🏼‍♂️,1F938-1F3FC-200D-2642-FE0F,people-body,person-sport,man cartwheeling: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🤸‍♂️,1F938-200D-2642-FE0F,4,2097
+🤸🏽‍♂️,1F938-1F3FD-200D-2642-FE0F,people-body,person-sport,man cartwheeling: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🤸‍♂️,1F938-200D-2642-FE0F,4,2099
+🤸🏾‍♂️,1F938-1F3FE-200D-2642-FE0F,people-body,person-sport,man cartwheeling: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🤸‍♂️,1F938-200D-2642-FE0F,4,2101
+🤸🏿‍♂️,1F938-1F3FF-200D-2642-FE0F,people-body,person-sport,man cartwheeling: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🤸‍♂️,1F938-200D-2642-FE0F,4,2103
+🤸‍♀️,1F938-200D-2640-FE0F,people-body,person-sport,woman cartwheeling,"cartwheel, gymnastics, woman",,Florian Nagel,2019-05-07,,single,🤸‍♀️,1F938-200D-2640-FE0F,4,2105
+🤸🏻‍♀️,1F938-1F3FB-200D-2640-FE0F,people-body,person-sport,woman cartwheeling: light skin tone,,,Florian Nagel,2019-05-07,1,single,🤸‍♀️,1F938-200D-2640-FE0F,4,2107
+🤸🏼‍♀️,1F938-1F3FC-200D-2640-FE0F,people-body,person-sport,woman cartwheeling: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🤸‍♀️,1F938-200D-2640-FE0F,4,2109
+🤸🏽‍♀️,1F938-1F3FD-200D-2640-FE0F,people-body,person-sport,woman cartwheeling: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🤸‍♀️,1F938-200D-2640-FE0F,4,2111
+🤸🏾‍♀️,1F938-1F3FE-200D-2640-FE0F,people-body,person-sport,woman cartwheeling: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🤸‍♀️,1F938-200D-2640-FE0F,4,2113
+🤸🏿‍♀️,1F938-1F3FF-200D-2640-FE0F,people-body,person-sport,woman cartwheeling: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🤸‍♀️,1F938-200D-2640-FE0F,4,2115
 🤼,1F93C,people-body,person-sport,people wrestling,"wrestle, wrestler","fighting, sports",Johanna Wellnitz,2018-04-18,,,,,3,2117
+🤼‍♂️,1F93C-200D-2642-FE0F,people-body,person-sport,men wrestling,"men, wrestle",,Florian Nagel,2019-05-07,,,,,4,2118
+🤼‍♀️,1F93C-200D-2640-FE0F,people-body,person-sport,women wrestling,"women, wrestle",,Florian Nagel,2019-05-07,,,,,4,2120
 🤽,1F93D,people-body,person-sport,person playing water polo,"polo, water",sports,Johanna Wellnitz,2018-04-18,,single,🤽,1F93D,3,2122
 🤽🏻,1F93D-1F3FB,people-body,person-sport,person playing water polo: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,🤽,1F93D,3,2123
 🤽🏼,1F93D-1F3FC,people-body,person-sport,person playing water polo: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,🤽,1F93D,3,2124
 🤽🏽,1F93D-1F3FD,people-body,person-sport,person playing water polo: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,🤽,1F93D,3,2125
 🤽🏾,1F93D-1F3FE,people-body,person-sport,person playing water polo: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,🤽,1F93D,3,2126
 🤽🏿,1F93D-1F3FF,people-body,person-sport,person playing water polo: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,🤽,1F93D,3,2127
+🤽‍♂️,1F93D-200D-2642-FE0F,people-body,person-sport,man playing water polo,"man, water polo",,Florian Nagel,2019-05-07,,single,🤽‍♂️,1F93D-200D-2642-FE0F,4,2128
+🤽🏻‍♂️,1F93D-1F3FB-200D-2642-FE0F,people-body,person-sport,man playing water polo: light skin tone,,,Florian Nagel,2019-05-07,1,single,🤽‍♂️,1F93D-200D-2642-FE0F,4,2130
+🤽🏼‍♂️,1F93D-1F3FC-200D-2642-FE0F,people-body,person-sport,man playing water polo: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🤽‍♂️,1F93D-200D-2642-FE0F,4,2132
+🤽🏽‍♂️,1F93D-1F3FD-200D-2642-FE0F,people-body,person-sport,man playing water polo: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🤽‍♂️,1F93D-200D-2642-FE0F,4,2134
+🤽🏾‍♂️,1F93D-1F3FE-200D-2642-FE0F,people-body,person-sport,man playing water polo: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🤽‍♂️,1F93D-200D-2642-FE0F,4,2136
+🤽🏿‍♂️,1F93D-1F3FF-200D-2642-FE0F,people-body,person-sport,man playing water polo: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🤽‍♂️,1F93D-200D-2642-FE0F,4,2138
+🤽‍♀️,1F93D-200D-2640-FE0F,people-body,person-sport,woman playing water polo,"water polo, woman",,Florian Nagel,2019-05-07,,single,🤽‍♀️,1F93D-200D-2640-FE0F,4,2140
+🤽🏻‍♀️,1F93D-1F3FB-200D-2640-FE0F,people-body,person-sport,woman playing water polo: light skin tone,,,Florian Nagel,2019-05-07,1,single,🤽‍♀️,1F93D-200D-2640-FE0F,4,2142
+🤽🏼‍♀️,1F93D-1F3FC-200D-2640-FE0F,people-body,person-sport,woman playing water polo: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🤽‍♀️,1F93D-200D-2640-FE0F,4,2144
+🤽🏽‍♀️,1F93D-1F3FD-200D-2640-FE0F,people-body,person-sport,woman playing water polo: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🤽‍♀️,1F93D-200D-2640-FE0F,4,2146
+🤽🏾‍♀️,1F93D-1F3FE-200D-2640-FE0F,people-body,person-sport,woman playing water polo: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🤽‍♀️,1F93D-200D-2640-FE0F,4,2148
+🤽🏿‍♀️,1F93D-1F3FF-200D-2640-FE0F,people-body,person-sport,woman playing water polo: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🤽‍♀️,1F93D-200D-2640-FE0F,4,2150
 🤾,1F93E,people-body,person-sport,person playing handball,"ball, handball","sports, indoor",Johanna Wellnitz,2018-04-18,,single,🤾,1F93E,3,2152
 🤾🏻,1F93E-1F3FB,people-body,person-sport,person playing handball: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,🤾,1F93E,3,2153
 🤾🏼,1F93E-1F3FC,people-body,person-sport,person playing handball: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,🤾,1F93E,3,2154
 🤾🏽,1F93E-1F3FD,people-body,person-sport,person playing handball: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,🤾,1F93E,3,2155
 🤾🏾,1F93E-1F3FE,people-body,person-sport,person playing handball: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,🤾,1F93E,3,2156
 🤾🏿,1F93E-1F3FF,people-body,person-sport,person playing handball: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,🤾,1F93E,3,2157
+🤾‍♂️,1F93E-200D-2642-FE0F,people-body,person-sport,man playing handball,"handball, man",,Florian Nagel,2019-05-07,,single,🤾‍♂️,1F93E-200D-2642-FE0F,4,2158
+🤾🏻‍♂️,1F93E-1F3FB-200D-2642-FE0F,people-body,person-sport,man playing handball: light skin tone,,,Florian Nagel,2019-05-07,1,single,🤾‍♂️,1F93E-200D-2642-FE0F,4,2160
+🤾🏼‍♂️,1F93E-1F3FC-200D-2642-FE0F,people-body,person-sport,man playing handball: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🤾‍♂️,1F93E-200D-2642-FE0F,4,2162
+🤾🏽‍♂️,1F93E-1F3FD-200D-2642-FE0F,people-body,person-sport,man playing handball: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🤾‍♂️,1F93E-200D-2642-FE0F,4,2164
+🤾🏾‍♂️,1F93E-1F3FE-200D-2642-FE0F,people-body,person-sport,man playing handball: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🤾‍♂️,1F93E-200D-2642-FE0F,4,2166
+🤾🏿‍♂️,1F93E-1F3FF-200D-2642-FE0F,people-body,person-sport,man playing handball: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🤾‍♂️,1F93E-200D-2642-FE0F,4,2168
+🤾‍♀️,1F93E-200D-2640-FE0F,people-body,person-sport,woman playing handball,"handball, woman",,Florian Nagel,2019-05-07,,single,🤾‍♀️,1F93E-200D-2640-FE0F,4,2170
+🤾🏻‍♀️,1F93E-1F3FB-200D-2640-FE0F,people-body,person-sport,woman playing handball: light skin tone,,,Florian Nagel,2019-05-07,1,single,🤾‍♀️,1F93E-200D-2640-FE0F,4,2172
+🤾🏼‍♀️,1F93E-1F3FC-200D-2640-FE0F,people-body,person-sport,woman playing handball: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🤾‍♀️,1F93E-200D-2640-FE0F,4,2174
+🤾🏽‍♀️,1F93E-1F3FD-200D-2640-FE0F,people-body,person-sport,woman playing handball: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🤾‍♀️,1F93E-200D-2640-FE0F,4,2176
+🤾🏾‍♀️,1F93E-1F3FE-200D-2640-FE0F,people-body,person-sport,woman playing handball: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🤾‍♀️,1F93E-200D-2640-FE0F,4,2178
+🤾🏿‍♀️,1F93E-1F3FF-200D-2640-FE0F,people-body,person-sport,woman playing handball: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🤾‍♀️,1F93E-200D-2640-FE0F,4,2180
 🤹,1F939,people-body,person-sport,person juggling,"balance, juggle, multitask, skill",artist,Johanna Wellnitz,2018-04-18,,single,🤹,1F939,3,2182
 🤹🏻,1F939-1F3FB,people-body,person-sport,person juggling: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,🤹,1F939,3,2183
 🤹🏼,1F939-1F3FC,people-body,person-sport,person juggling: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,🤹,1F939,3,2184
 🤹🏽,1F939-1F3FD,people-body,person-sport,person juggling: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,🤹,1F939,3,2185
 🤹🏾,1F939-1F3FE,people-body,person-sport,person juggling: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,🤹,1F939,3,2186
 🤹🏿,1F939-1F3FF,people-body,person-sport,person juggling: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,🤹,1F939,3,2187
+🤹‍♂️,1F939-200D-2642-FE0F,people-body,person-sport,man juggling,"juggling, man, multitask",,Florian Nagel,2019-05-07,,single,🤹‍♂️,1F939-200D-2642-FE0F,4,2188
+🤹🏻‍♂️,1F939-1F3FB-200D-2642-FE0F,people-body,person-sport,man juggling: light skin tone,,,Florian Nagel,2019-05-07,1,single,🤹‍♂️,1F939-200D-2642-FE0F,4,2190
+🤹🏼‍♂️,1F939-1F3FC-200D-2642-FE0F,people-body,person-sport,man juggling: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🤹‍♂️,1F939-200D-2642-FE0F,4,2192
+🤹🏽‍♂️,1F939-1F3FD-200D-2642-FE0F,people-body,person-sport,man juggling: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🤹‍♂️,1F939-200D-2642-FE0F,4,2194
+🤹🏾‍♂️,1F939-1F3FE-200D-2642-FE0F,people-body,person-sport,man juggling: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🤹‍♂️,1F939-200D-2642-FE0F,4,2196
+🤹🏿‍♂️,1F939-1F3FF-200D-2642-FE0F,people-body,person-sport,man juggling: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🤹‍♂️,1F939-200D-2642-FE0F,4,2198
+🤹‍♀️,1F939-200D-2640-FE0F,people-body,person-sport,woman juggling,"juggling, multitask, woman",,Florian Nagel,2019-05-07,,single,🤹‍♀️,1F939-200D-2640-FE0F,4,2200
+🤹🏻‍♀️,1F939-1F3FB-200D-2640-FE0F,people-body,person-sport,woman juggling: light skin tone,,,Florian Nagel,2019-05-07,1,single,🤹‍♀️,1F939-200D-2640-FE0F,4,2202
+🤹🏼‍♀️,1F939-1F3FC-200D-2640-FE0F,people-body,person-sport,woman juggling: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🤹‍♀️,1F939-200D-2640-FE0F,4,2204
+🤹🏽‍♀️,1F939-1F3FD-200D-2640-FE0F,people-body,person-sport,woman juggling: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🤹‍♀️,1F939-200D-2640-FE0F,4,2206
+🤹🏾‍♀️,1F939-1F3FE-200D-2640-FE0F,people-body,person-sport,woman juggling: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🤹‍♀️,1F939-200D-2640-FE0F,4,2208
+🤹🏿‍♀️,1F939-1F3FF-200D-2640-FE0F,people-body,person-sport,woman juggling: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🤹‍♀️,1F939-200D-2640-FE0F,4,2210
 🧘,1F9D8,people-body,person-resting,person in lotus position,"meditation, yoga","human, person, exercise",Johanna Wellnitz,2018-04-18,,single,🧘,1F9D8,5,2212
 🧘🏻,1F9D8-1F3FB,people-body,person-resting,person in lotus position: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,🧘,1F9D8,5,2213
 🧘🏼,1F9D8-1F3FC,people-body,person-resting,person in lotus position: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,🧘,1F9D8,5,2214
 🧘🏽,1F9D8-1F3FD,people-body,person-resting,person in lotus position: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,🧘,1F9D8,5,2215
 🧘🏾,1F9D8-1F3FE,people-body,person-resting,person in lotus position: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,🧘,1F9D8,5,2216
 🧘🏿,1F9D8-1F3FF,people-body,person-resting,person in lotus position: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,🧘,1F9D8,5,2217
+🧘‍♂️,1F9D8-200D-2642-FE0F,people-body,person-resting,man in lotus position,"meditation, yoga",,Florian Nagel,2019-05-07,,single,🧘‍♂️,1F9D8-200D-2642-FE0F,5,2218
+🧘🏻‍♂️,1F9D8-1F3FB-200D-2642-FE0F,people-body,person-resting,man in lotus position: light skin tone,,,Florian Nagel,2019-05-07,1,single,🧘‍♂️,1F9D8-200D-2642-FE0F,5,2220
+🧘🏼‍♂️,1F9D8-1F3FC-200D-2642-FE0F,people-body,person-resting,man in lotus position: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🧘‍♂️,1F9D8-200D-2642-FE0F,5,2222
+🧘🏽‍♂️,1F9D8-1F3FD-200D-2642-FE0F,people-body,person-resting,man in lotus position: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🧘‍♂️,1F9D8-200D-2642-FE0F,5,2224
+🧘🏾‍♂️,1F9D8-1F3FE-200D-2642-FE0F,people-body,person-resting,man in lotus position: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🧘‍♂️,1F9D8-200D-2642-FE0F,5,2226
+🧘🏿‍♂️,1F9D8-1F3FF-200D-2642-FE0F,people-body,person-resting,man in lotus position: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🧘‍♂️,1F9D8-200D-2642-FE0F,5,2228
+🧘‍♀️,1F9D8-200D-2640-FE0F,people-body,person-resting,woman in lotus position,"meditation, yoga",,Florian Nagel,2019-05-07,,single,🧘‍♀️,1F9D8-200D-2640-FE0F,5,2230
+🧘🏻‍♀️,1F9D8-1F3FB-200D-2640-FE0F,people-body,person-resting,woman in lotus position: light skin tone,,,Florian Nagel,2019-05-07,1,single,🧘‍♀️,1F9D8-200D-2640-FE0F,5,2232
+🧘🏼‍♀️,1F9D8-1F3FC-200D-2640-FE0F,people-body,person-resting,woman in lotus position: medium-light skin tone,,,Florian Nagel,2019-05-07,2,single,🧘‍♀️,1F9D8-200D-2640-FE0F,5,2234
+🧘🏽‍♀️,1F9D8-1F3FD-200D-2640-FE0F,people-body,person-resting,woman in lotus position: medium skin tone,,,Florian Nagel,2019-05-07,3,single,🧘‍♀️,1F9D8-200D-2640-FE0F,5,2236
+🧘🏾‍♀️,1F9D8-1F3FE-200D-2640-FE0F,people-body,person-resting,woman in lotus position: medium-dark skin tone,,,Florian Nagel,2019-05-07,4,single,🧘‍♀️,1F9D8-200D-2640-FE0F,5,2238
+🧘🏿‍♀️,1F9D8-1F3FF-200D-2640-FE0F,people-body,person-resting,woman in lotus position: dark skin tone,,,Florian Nagel,2019-05-07,5,single,🧘‍♀️,1F9D8-200D-2640-FE0F,5,2240
 🛀,1F6C0,people-body,person-resting,person taking bath,"bath, bathtub",,Anne Frauendorf,2018-11-16,,single,🛀,1F6C0,1,2242
 🛀🏻,1F6C0-1F3FB,people-body,person-resting,person taking bath: light skin tone,,,Anne Frauendorf,2018-11-16,1,single,🛀,1F6C0,2,2243
 🛀🏼,1F6C0-1F3FC,people-body,person-resting,person taking bath: medium-light skin tone,,,Anne Frauendorf,2018-11-16,2,single,🛀,1F6C0,2,2244

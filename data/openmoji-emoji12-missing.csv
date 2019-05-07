@@ -1,40 +1,9 @@
 emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,openmoji_date,skintone,skintone_combination,skintone_base_emoji,skintone_base_hexcode,unicode,order
 🧏‍♂️,1F9CF-200D-2642-FE0F,people-body,person-gesture,deaf man,"deaf, man",,,,,single,🧏‍♂️,1F9CF-200D-2642-FE0F,12,734
 🧏‍♀️,1F9CF-200D-2640-FE0F,people-body,person-gesture,deaf woman,"deaf, woman",,,,,single,🧏‍♀️,1F9CF-200D-2640-FE0F,12,746
-🕴️,1F574,people-body,person-activity,man in suit levitating,"business, man, suit",,,,,single,🕴️,1F574,1,1746
 🧖,1F9D6,people-body,person-activity,person in steamy room,"sauna, steam room",,,,,single,🧖,1F9D6,5,1757
 🧖‍♂️,1F9D6-200D-2642-FE0F,people-body,person-activity,man in steamy room,"sauna, steam room",,,,,single,🧖‍♂️,1F9D6-200D-2642-FE0F,5,1763
 🧖‍♀️,1F9D6-200D-2640-FE0F,people-body,person-activity,woman in steamy room,"sauna, steam room",,,,,single,🧖‍♀️,1F9D6-200D-2640-FE0F,5,1775
-🧗‍♂️,1F9D7-200D-2642-FE0F,people-body,person-activity,man climbing,climber,,,,,single,🧗‍♂️,1F9D7-200D-2642-FE0F,5,1793
-🧗‍♀️,1F9D7-200D-2640-FE0F,people-body,person-activity,woman climbing,climber,,,,,single,🧗‍♀️,1F9D7-200D-2640-FE0F,5,1805
-🏌️‍♂️,1F3CC-FE0F-200D-2642-FE0F,people-body,person-sport,man golfing,"golf, man",,,,,single,🏌️‍♂️,1F3CC-FE0F-200D-2642-FE0F,4,1839
-🏌️‍♀️,1F3CC-FE0F-200D-2640-FE0F,people-body,person-sport,woman golfing,"golf, woman",,,,,single,🏌️‍♀️,1F3CC-FE0F-200D-2640-FE0F,4,1853
-🏄‍♂️,1F3C4-200D-2642-FE0F,people-body,person-sport,man surfing,"man, surfing",,,,,single,🏄‍♂️,1F3C4-200D-2642-FE0F,4,1873
-🏄‍♀️,1F3C4-200D-2640-FE0F,people-body,person-sport,woman surfing,"surfing, woman",,,,,single,🏄‍♀️,1F3C4-200D-2640-FE0F,4,1885
-🚣‍♂️,1F6A3-200D-2642-FE0F,people-body,person-sport,man rowing boat,"boat, man, rowboat",,,,,single,🚣‍♂️,1F6A3-200D-2642-FE0F,4,1903
-🚣‍♀️,1F6A3-200D-2640-FE0F,people-body,person-sport,woman rowing boat,"boat, rowboat, woman",,,,,single,🚣‍♀️,1F6A3-200D-2640-FE0F,4,1915
-🏊‍♂️,1F3CA-200D-2642-FE0F,people-body,person-sport,man swimming,"man, swim",,,,,single,🏊‍♂️,1F3CA-200D-2642-FE0F,4,1933
-🏊‍♀️,1F3CA-200D-2640-FE0F,people-body,person-sport,woman swimming,"swim, woman",,,,,single,🏊‍♀️,1F3CA-200D-2640-FE0F,4,1945
-⛹️‍♂️,26F9-FE0F-200D-2642-FE0F,people-body,person-sport,man bouncing ball,"ball, man",,,,,single,⛹️‍♂️,26F9-FE0F-200D-2642-FE0F,4,1964
-⛹️‍♀️,26F9-FE0F-200D-2640-FE0F,people-body,person-sport,woman bouncing ball,"ball, woman",,,,,single,⛹️‍♀️,26F9-FE0F-200D-2640-FE0F,4,1978
-🏋️‍♂️,1F3CB-FE0F-200D-2642-FE0F,people-body,person-sport,man lifting weights,"man, weight lifter",,,,,single,🏋️‍♂️,1F3CB-FE0F-200D-2642-FE0F,4,1999
-🏋️‍♀️,1F3CB-FE0F-200D-2640-FE0F,people-body,person-sport,woman lifting weights,"weight lifter, woman",,,,,single,🏋️‍♀️,1F3CB-FE0F-200D-2640-FE0F,4,2013
-🚴‍♂️,1F6B4-200D-2642-FE0F,people-body,person-sport,man biking,"bicycle, biking, cyclist, man",,,,,single,🚴‍♂️,1F6B4-200D-2642-FE0F,4,2033
-🚴‍♀️,1F6B4-200D-2640-FE0F,people-body,person-sport,woman biking,"bicycle, biking, cyclist, woman",,,,,single,🚴‍♀️,1F6B4-200D-2640-FE0F,4,2045
-🚵‍♂️,1F6B5-200D-2642-FE0F,people-body,person-sport,man mountain biking,"bicycle, bike, cyclist, man, mountain",,,,,single,🚵‍♂️,1F6B5-200D-2642-FE0F,4,2063
-🚵‍♀️,1F6B5-200D-2640-FE0F,people-body,person-sport,woman mountain biking,"bicycle, bike, biking, cyclist, mountain, woman",,,,,single,🚵‍♀️,1F6B5-200D-2640-FE0F,4,2075
-🤸‍♂️,1F938-200D-2642-FE0F,people-body,person-sport,man cartwheeling,"cartwheel, gymnastics, man",,,,,single,🤸‍♂️,1F938-200D-2642-FE0F,4,2093
-🤸‍♀️,1F938-200D-2640-FE0F,people-body,person-sport,woman cartwheeling,"cartwheel, gymnastics, woman",,,,,single,🤸‍♀️,1F938-200D-2640-FE0F,4,2105
-🤼‍♂️,1F93C-200D-2642-FE0F,people-body,person-sport,men wrestling,"men, wrestle",,,,,,,,4,2118
-🤼‍♀️,1F93C-200D-2640-FE0F,people-body,person-sport,women wrestling,"women, wrestle",,,,,,,,4,2120
-🤽‍♂️,1F93D-200D-2642-FE0F,people-body,person-sport,man playing water polo,"man, water polo",,,,,single,🤽‍♂️,1F93D-200D-2642-FE0F,4,2128
-🤽‍♀️,1F93D-200D-2640-FE0F,people-body,person-sport,woman playing water polo,"water polo, woman",,,,,single,🤽‍♀️,1F93D-200D-2640-FE0F,4,2140
-🤾‍♂️,1F93E-200D-2642-FE0F,people-body,person-sport,man playing handball,"handball, man",,,,,single,🤾‍♂️,1F93E-200D-2642-FE0F,4,2158
-🤾‍♀️,1F93E-200D-2640-FE0F,people-body,person-sport,woman playing handball,"handball, woman",,,,,single,🤾‍♀️,1F93E-200D-2640-FE0F,4,2170
-🤹‍♂️,1F939-200D-2642-FE0F,people-body,person-sport,man juggling,"juggling, man, multitask",,,,,single,🤹‍♂️,1F939-200D-2642-FE0F,4,2188
-🤹‍♀️,1F939-200D-2640-FE0F,people-body,person-sport,woman juggling,"juggling, multitask, woman",,,,,single,🤹‍♀️,1F939-200D-2640-FE0F,4,2200
-🧘‍♂️,1F9D8-200D-2642-FE0F,people-body,person-resting,man in lotus position,"meditation, yoga",,,,,single,🧘‍♂️,1F9D8-200D-2642-FE0F,5,2218
-🧘‍♀️,1F9D8-200D-2640-FE0F,people-body,person-resting,woman in lotus position,"meditation, yoga",,,,,single,🧘‍♀️,1F9D8-200D-2640-FE0F,5,2230
 🏻,1F3FB,component,skin-tone,light skin tone,"skin tone, type 1–2",,,,,,,,1,2373
 🏼,1F3FC,component,skin-tone,medium-light skin tone,"skin tone, type 3",,,,,,,,1,2374
 🏽,1F3FD,component,skin-tone,medium skin tone,"skin tone, type 4",,,,,,,,1,2375
