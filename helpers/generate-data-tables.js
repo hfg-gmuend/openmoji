@@ -89,7 +89,7 @@ emojis = _.map(emojis, e => {
 });
 
 // sort by recommended order of unicode standard
-emojis = _.sortBy(emojis, [(e) => { return e.order; }]);
+emojis = _.orderBy(emojis, ['order', 'group', 'subgroups', 'hexcode'], ['asc', 'asc', 'asc', 'asc']);
 
 // -- save to CSV and JSON files --
 writeJson(emojis, 'data/openmoji-emoji12.json');
@@ -145,6 +145,8 @@ extrasUnicode = _.map(extrasUnicode, e => {
     order: '',
   };
 });
+extrasOpenMoji = _.orderBy(extrasOpenMoji, ['order', 'group', 'subgroups', 'hexcode'], ['asc', 'asc', 'asc', 'asc']);
+extrasUnicode = _.orderBy(extrasUnicode, ['order', 'group', 'subgroups', 'hexcode'], ['asc', 'asc', 'asc', 'asc']);
 emojis = [...emojis, ...extrasOpenMoji, ...extrasUnicode];
 
 // -- save to CSV and JSON files --
