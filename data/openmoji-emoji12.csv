@@ -2416,7 +2416,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📜,1F4DC,objects,book-paper,scroll,paper,"old, papyrus, text",Jonas Roßner,2018-04-18,,,,,1,3115
 📄,1F4C4,objects,book-paper,page facing up,"document, page","write, text, paper",Jonas Roßner,2018-04-18,,,,,1,3116
 📰,1F4F0,objects,book-paper,newspaper,"news, paper","read, news, paper, text",Jonas Roßner,2018-04-18,,,,,1,3117
-🗞️,1F5DE,objects,book-paper,rolled-up newspaper,"news, newspaper, paper, rolled",,,,,,,,1,3119
+🗞️,1F5DE,objects,book-paper,rolled-up newspaper,"news, newspaper, paper, rolled",,Tonia Reinhardt,2019-05-07,,,,,1,3119
 📑,1F4D1,objects,book-paper,bookmark tabs,"bookmark, mark, marker, tabs",,Abby Esquivel,2018-11-16,,,,,1,3120
 🔖,1F516,objects,book-paper,bookmark,mark,"remember,",Jonas Roßner,2018-04-18,,,,,1,3121
 🏷️,1F3F7,objects,book-paper,label,label,"stick,",Jonas Roßner,2018-04-18,,,,,1,3123
@@ -2427,7 +2427,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💷,1F4B7,objects,money,pound banknote,"banknote, bill, currency, money, note, pound",,Marius Schnabel,2018-04-18,,,,,1,3128
 💸,1F4B8,objects,money,money with wings,"banknote, bill, fly, money, wings",,Marius Schnabel,2018-04-18,,,,,1,3129
 💳️,1F4B3,objects,money,credit card,"card, credit, money",,Marius Schnabel,2018-04-18,,,,,1,3130
-🧾,1F9FE,objects,money,receipt,"accounting, bookkeeping, evidence, proof",,,,,,,,11,3131
+🧾,1F9FE,objects,money,receipt,"accounting, bookkeeping, evidence, proof",,Tonia Reinhardt,2019-05-07,,,,,11,3131
 💹,1F4B9,objects,money,chart increasing with yen,"chart, graph, growth, money, yen",,Marleen Heine,2018-11-16,,,,,1,3132
 💱,1F4B1,objects,money,currency exchange,"bank, currency, exchange, money",,Marleen Heine,2018-11-16,,,,,1,3133
 💲,1F4B2,objects,money,heavy dollar sign,"currency, dollar, money",,Marleen Heine,2018-11-16,,,,,1,3134
@@ -2459,7 +2459,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📆,1F4C6,objects,office,tear-off calendar,calendar,"calendar, tear off",Sina Schulz,2018-04-18,,,,,1,3169
 🗒️,1F5D2,objects,office,spiral notepad,"note, pad, spiral","notes, handwrite, paper, pen, spiral block, college",Sina Schulz,2018-04-18,,,,,1,3171
 🗓️,1F5D3,objects,office,spiral calendar,"calendar, pad, spiral","calendar, year, month view",Sina Schulz,2018-04-18,,,,,1,3173
-📇,1F4C7,objects,office,card index,"card, index, rolodex",,,,,,,,1,3174
+📇,1F4C7,objects,office,card index,"card, index, rolodex",,Tonia Reinhardt,2019-05-07,,,,,1,3174
 📈,1F4C8,objects,office,chart increasing,"chart, graph, growth, trend, upward","graph going up, upward trend",Sina Schulz,2018-04-18,,,,,1,3175
 📉,1F4C9,objects,office,chart decreasing,"chart, down, graph, trend","graph going down, downtrend",Sina Schulz,2018-04-18,,,,,1,3176
 📊,1F4CA,objects,office,bar chart,"bar, chart, graph","data, chart, sheet, graph",Sina Schulz,2018-04-18,,,,,1,3177
@@ -2498,12 +2498,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦯,1F9AF,objects,tool,probing cane,"accessibility, blind",,Sam Eckert,2019-05-06,,,,,12,3225
 🔗,1F517,objects,tool,link,link,"silver, link",Hilda Kalyoncu,2018-04-18,,,,,1,3226
 ⛓️,26D3,objects,tool,chains,chain,"metal, silver",Hilda Kalyoncu,2018-04-18,,,,,1,3228
-🧰,1F9F0,objects,tool,toolbox,"chest, mechanic, tool",,,,,,,,11,3229
-🧲,1F9F2,objects,tool,magnet,"attraction, horseshoe, magnetic",,,,,,,,11,3230
+🧰,1F9F0,objects,tool,toolbox,"chest, mechanic, tool",,Tonia Reinhardt,2019-05-07,,,,,11,3229
+🧲,1F9F2,objects,tool,magnet,"attraction, horseshoe, magnetic",,Tonia Reinhardt,2019-05-07,,,,,11,3230
 ⚗️,2697,objects,science,alembic,"chemistry, tool",,Marleen Heine,2018-11-16,,,,,1,3232
-🧪,1F9EA,objects,science,test tube,"chemist, chemistry, experiment, lab, science",,,,,,,,11,3233
-🧫,1F9EB,objects,science,petri dish,"bacteria, biologist, biology, culture, lab",,,,,,,,11,3234
-🧬,1F9EC,objects,science,dna,"biologist, evolution, gene, genetics, life",,,,,,,,11,3235
+🧪,1F9EA,objects,science,test tube,"chemist, chemistry, experiment, lab, science",,Tonia Reinhardt,2019-05-07,,,,,11,3233
+🧫,1F9EB,objects,science,petri dish,"bacteria, biologist, biology, culture, lab",,Tonia Reinhardt,2019-05-07,,,,,11,3234
+🧬,1F9EC,objects,science,dna,"biologist, evolution, gene, genetics, life",,Tonia Reinhardt,2019-05-07,,,,,11,3235
 🔬,1F52C,objects,science,microscope,"science, tool",,Marleen Heine,2018-11-16,,,,,1,3236
 🔭,1F52D,objects,science,telescope,"science, tool","stars, sky, space",Sina Schulz,2018-04-18,,,,,1,3237
 📡,1F4E1,objects,science,satellite antenna,"antenna, dish, satellite","signal, receive, radiation",Sina Schulz,2018-04-18,,,,,1,3238
@@ -2520,20 +2520,20 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🚿,1F6BF,objects,household,shower,water,wash,Lisa Schulz,2018-04-18,,,,,1,3251
 🛁,1F6C1,objects,household,bathtub,bath,"wash, water, foam",Lisa Schulz,2018-04-18,,,,,1,3252
 🪒,1FA92,objects,household,razor,"sharp, shave",,Sam Eckert,2019-05-06,,,,,12,3253
-🧴,1F9F4,objects,household,lotion bottle,"lotion, moisturizer, shampoo, sunscreen",,,,,,,,11,3254
-🧷,1F9F7,objects,household,safety pin,"diaper, punk rock",,,,,,,,11,3255
-🧹,1F9F9,objects,household,broom,"cleaning, sweeping, witch",,,,,,,,11,3256
-🧺,1F9FA,objects,household,basket,"farming, laundry, picnic",,,,,,,,11,3257
-🧻,1F9FB,objects,household,roll of paper,"paper towels, toilet paper",,,,,,,,11,3258
-🧼,1F9FC,objects,household,soap,"bar, bathing, cleaning, lather, soapdish",,,,,,,,11,3259
-🧽,1F9FD,objects,household,sponge,"absorbing, cleaning, porous",,,,,,,,11,3260
-🧯,1F9EF,objects,household,fire extinguisher,"extinguish, fire, quench",,,,,,,,11,3261
+🧴,1F9F4,objects,household,lotion bottle,"lotion, moisturizer, shampoo, sunscreen",,Tonia Reinhardt,2019-05-07,,,,,11,3254
+🧷,1F9F7,objects,household,safety pin,"diaper, punk rock",,Tonia Reinhardt,2019-05-07,,,,,11,3255
+🧹,1F9F9,objects,household,broom,"cleaning, sweeping, witch",,Tonia Reinhardt,2019-05-07,,,,,11,3256
+🧺,1F9FA,objects,household,basket,"farming, laundry, picnic",,Tonia Reinhardt,2019-05-07,,,,,11,3257
+🧻,1F9FB,objects,household,roll of paper,"paper towels, toilet paper",,Tonia Reinhardt,2019-05-07,,,,,11,3258
+🧼,1F9FC,objects,household,soap,"bar, bathing, cleaning, lather, soapdish",,Tonia Reinhardt,2019-05-07,,,,,11,3259
+🧽,1F9FD,objects,household,sponge,"absorbing, cleaning, porous",,Tonia Reinhardt,2019-05-07,,,,,11,3260
+🧯,1F9EF,objects,household,fire extinguisher,"extinguish, fire, quench",,Tonia Reinhardt,2019-05-07,,,,,11,3261
 🛒,1F6D2,objects,household,shopping cart,"cart, shopping, trolley",,Marius Schnabel,2018-04-18,,,,,3,3262
 🚬,1F6AC,objects,other-object,cigarette,smoking,"tobacco, smoke",Marius Schnabel,2018-04-18,,,,,1,3263
 ⚰️,26B0,objects,other-object,coffin,death,"funeral, dead",Marius Schnabel,2018-04-18,,,,,1,3265
 ⚱️,26B1,objects,other-object,funeral urn,"ashes, death, funeral, urn",,Marleen Heine,2018-11-16,,,,,1,3267
 🗿,1F5FF,objects,other-object,moai,"face, moyai, statue","stone, easter island",Marius Schnabel,2018-04-18,,,,,1,3268
-🏧,1F3E7,symbols,transport-sign,ATM sign,"atm, atm sign, automated, bank, teller",,,,,,,,1,3269
+🏧,1F3E7,symbols,transport-sign,ATM sign,"atm, atm sign, automated, bank, teller",,Tonia Reinhardt,2019-05-07,,,,,1,3269
 🚮,1F6AE,symbols,transport-sign,litter in bin sign,"litter, litter bin","trash, litter, bin, garbage, can, throw, away",Ronja Bäurlen,2018-04-18,,,,,1,3270
 🚰,1F6B0,symbols,transport-sign,potable water,"drinking, potable, water","water, faucet, tap, glass",Guemil Project,2019-01-14,,,,,1,3271
 ♿️,267F,symbols,transport-sign,wheelchair symbol,access,"disabled person, wheel chair, toilet, restroom",Guemil Project,2019-01-14,,,,,1,3272
@@ -2542,12 +2542,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🚻,1F6BB,symbols,transport-sign,restroom,"lavatory, wc","unisex, restroom, male, toilet, woman, female",Ronja Bäurlen,2018-04-18,,,,,1,3275
 🚼️,1F6BC,symbols,transport-sign,baby symbol,"baby, changing","baby, changing, station, restroom, toilet",Ronja Bäurlen,2018-04-18,,,,,1,3276
 🚾,1F6BE,symbols,transport-sign,water closet,"closet, lavatory, restroom, water, wc","restroom, WC, toilet, water, closet",Ronja Bäurlen,2018-04-18,,,,,1,3277
-🛂,1F6C2,symbols,transport-sign,passport control,"control, passport",,,,,,,,1,3278
-🛃,1F6C3,symbols,transport-sign,customs,customs,,,,,,,,1,3279
+🛂,1F6C2,symbols,transport-sign,passport control,"control, passport",,Tonia Reinhardt,2019-05-07,,,,,1,3278
+🛃,1F6C3,symbols,transport-sign,customs,customs,,Tonia Reinhardt,2019-05-07,,,,,1,3279
 🛄,1F6C4,symbols,transport-sign,baggage claim,"baggage, claim",,Vincent Seitz,2018-11-16,,,,,1,3280
 🛅,1F6C5,symbols,transport-sign,left luggage,"baggage, locker, luggage",,Vincent Seitz,2018-11-16,,,,,1,3281
 ⚠️,26A0,symbols,warning,warning,warning,,Miriam Vollmeier,2018-04-18,,,,,1,3283
-🚸,1F6B8,symbols,warning,children crossing,"child, crossing, pedestrian, traffic",,,,,,,,1,3284
+🚸,1F6B8,symbols,warning,children crossing,"child, crossing, pedestrian, traffic",,Tonia Reinhardt,2019-05-07,,,,,1,3284
 ⛔️,26D4,symbols,warning,no entry,"entry, forbidden, no, not, prohibited, traffic",,Miriam Vollmeier,2018-04-18,,,,,1,3285
 🚫,1F6AB,symbols,warning,prohibited,"entry, forbidden, no, not",,Miriam Vollmeier,2018-04-18,,,,,1,3286
 🚳,1F6B3,symbols,warning,no bicycles,"bicycle, bike, forbidden, no, prohibited",,Miriam Vollmeier,2018-04-18,,,,,1,3287
