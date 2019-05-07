@@ -1754,11 +1754,11 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👤,1F464,people-body,person-symbol,bust in silhouette,"bust, silhouette","human, person",Johanna Wellnitz,2018-04-18,,,,,1,2370
 👥,1F465,people-body,person-symbol,busts in silhouette,"bust, silhouette","human, person",Johanna Wellnitz,2018-04-18,,,,,1,2371
 👣,1F463,people-body,person-symbol,footprints,"clothing, footprint, print","clothing, footprint, print",Julian Grüneberg,2018-04-18,,,,,1,2372
-🏻,1F3FB,component,skin-tone,light skin tone,"skin tone, type 1–2",,,,,,,,1,2373
-🏼,1F3FC,component,skin-tone,medium-light skin tone,"skin tone, type 3",,,,,,,,1,2374
-🏽,1F3FD,component,skin-tone,medium skin tone,"skin tone, type 4",,,,,,,,1,2375
-🏾,1F3FE,component,skin-tone,medium-dark skin tone,"skin tone, type 5",,,,,,,,1,2376
-🏿,1F3FF,component,skin-tone,dark skin tone,"skin tone, type 6",,,,,,,,1,2377
+🏻,1F3FB,component,skin-tone,light skin tone,"skin tone, type 1–2",,Benedikt Groß,2019-05-07,,,,,1,2373
+🏼,1F3FC,component,skin-tone,medium-light skin tone,"skin tone, type 3",,Benedikt Groß,2019-05-07,,,,,1,2374
+🏽,1F3FD,component,skin-tone,medium skin tone,"skin tone, type 4",,Benedikt Groß,2019-05-07,,,,,1,2375
+🏾,1F3FE,component,skin-tone,medium-dark skin tone,"skin tone, type 5",,Benedikt Groß,2019-05-07,,,,,1,2376
+🏿,1F3FF,component,skin-tone,dark skin tone,"skin tone, type 6",,Benedikt Groß,2019-05-07,,,,,1,2377
 🦰,1F9B0,component,hair-style,red hair,"ginger, redhead",,,,,,,,11,2378
 🦱,1F9B1,component,hair-style,curly hair,"afro, curly, ringlets",,,,,,,,11,2379
 🦳,1F9B3,component,hair-style,white hair,"gray, hair, old, white",,,,,,,,11,2380

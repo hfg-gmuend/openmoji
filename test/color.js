@@ -7,7 +7,15 @@ const colors = require('../data/color-palette.json').colors;
 
 
 describe('Color', function() {
-  const emojis = _.filter(openmojis, (e) => { return e.skintone == ''});
+  // exclude all emojis with a skintone modifier
+  let emojis = _.filter(openmojis, (e) => { return e.skintone == ''});
+  // exclude the "Emoji Modifier Fitzpatrick"
+  emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FB'});
+  emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FC'});
+  emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FD'});
+  emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FE'});
+  emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FF'});
+
   // valid colors and edge cases like 'none', or shorthand white '#fff' etc.
   const validColors = [...colors, '#fff', '#000', 'none'];
 
