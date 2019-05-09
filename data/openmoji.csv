@@ -1786,6 +1786,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦦,1F9A6,animals-nature,animal-mammal,otter,"fishing, playful",,Yasmin Abdullahi,2019-05-07,,,,,12,2437
 🦨,1F9A8,animals-nature,animal-mammal,skunk,stink,,Yasmin Abdullahi,2019-05-07,,,,,12,2438
 🦘,1F998,animals-nature,animal-mammal,kangaroo,"australia, joey, jump, marsupial",,Laura Schießer,2019-05-06,,,,,11,2439
+🦡,1F9A1,animals-nature,animal-mammal,badger,"honey badger, pester",,Laura Schießer,2019-05-07,,,,,11,2440
 🐾,1F43E,animals-nature,animal-mammal,paw prints,"feet, paw, print","paws, feet, pet, animal",Sofie Ascherl,2018-04-18,,,,,1,2441
 🦃,1F983,animals-nature,animal-bird,turkey,bird,,Selina Bauder,2018-04-18,,,,,1,2442
 🐔,1F414,animals-nature,animal-bird,chicken,bird,egg,Selina Bauder,2018-04-18,,,,,1,2443
@@ -1982,7 +1983,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🌐,1F310,travel-places,place-map,globe with meridians,"earth, globe, meridians, world","geographic, continent, global, planet, grid",Martin Wehl,2018-04-18,,,,,1,2641
 🗺️,1F5FA,travel-places,place-map,world map,"map, world","geographic, continent, global, planet, earth",Martin Wehl,2018-04-18,,,,,1,2643
 🗾,1F5FE,travel-places,place-map,map of Japan,"japan, map, map of japan",,Louisa Mantsch,2018-11-16,,,,,1,2644
-🧭,1F9ED,travel-places,place-map,compass,"magnetic, navigation, orienteering","navigation, direction",Kai Magnus Müller,2018-04-18,,,,,11,2645
+🧭,1F9ED,travel-places,place-map,compass,"magnetic, navigation, orienteering","wayfinding, direction",Kai Magnus Müller,2018-04-18,,,,,11,2645
 🏔️,1F3D4,travel-places,place-geographic,snow-capped mountain,"cold, mountain, snow","landscape, nature, hiking, climbing, white, outdoor, adventure",Martin Wehl,2018-04-18,,,,,1,2647
 ⛰️,26F0,travel-places,place-geographic,mountain,mountain,"landscape, nature, hiking, climbing, outdoor, adventure",Martin Wehl,2018-04-18,,,,,1,2649
 🌋,1F30B,travel-places,place-geographic,volcano,"eruption, mountain","vulcano, landscape, nature, fire, smoke, hot",Guemil Project,2019-01-14,,,,,1,2650
