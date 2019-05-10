@@ -41,7 +41,6 @@ _.each(emojibaseData, e => {
     const skintones = _.map(e.skins, (s) => {
       s['skintone_base_emoji'] = e.emoji;
       s['skintone_base_hexcode'] = e.hexcode;
-      // TODO: how to deal with multi skin tones combinations
       if (_.isArray(s.tone)) {
         // console.warn(`Warning: ${s.emoji} ${s.hexcode} is a multi skin tones combination`);
         s.tone = s.tone.join(',');
