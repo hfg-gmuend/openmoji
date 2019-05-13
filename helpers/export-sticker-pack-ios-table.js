@@ -1,41 +1,18 @@
-const glob = require('glob').sync;
 const fs = require('fs');
 const path = require('path');
 const _ = require('lodash');
 
-const emojisList = require('../data/openmoji.json');
+let emojis = require('../data/openmoji.json');
+emojis = _.filter(emojis, (e) => { return e.skintone == ''});
+console.log('Stickers: ' + emojis.length);
 
-const folders = [
-  "src/smileys-people/**/*.ai",
-  "src/food-drink/**/*.ai",
-  "src/animals-nature/**/*.ai",
-  "src/travel-places/**/*.ai",
-  "src/objects/**/*.ai",
-  "src/activities/**/*.ai",
-  "src/flags/**/*.ai",
-  "src/hfg/**/*.ai",
-  "src/symbols/**/*.ai",
-];
-
-const arrayToEmojiDict = (array) => {
-  return array.reduce((o, a) => Object.assign(o, { [a.hexcode]: a }), {});
-}
-
-const emojiDict = arrayToEmojiDict(emojisList)
-
-let files = [];
-_.each(folders, f => {
-  files = files.concat(glob(f));
-});
-files = _.map(files, f => {
-  const basename = path.basename(f, '.ai');
-  const emojiData = emojiDict[basename];
-  return { basename: basename, order: emojiData ? emojiData.order : 100000 }; // 100000 = some high number to put them last
-});
-// sort by offical unicode spec
-files = _.sortBy(files, ['order']);
-files = _.map(files, f => {
-  return { filename: f.basename + '.sticker'};
+const files = emojis.map(e => {
+  const png = e.hexcode + '.png';
+  fs.copyFileSync(
+    path.join('color', '618x618', png),
+    path.join('_tmp', 'stickers', png)
+  );
+  return { filename: e.hexcode + '.sticker'};
 });
 
 const sortedStickers = {
