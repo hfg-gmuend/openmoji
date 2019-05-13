@@ -6,7 +6,8 @@
     "test": "node_modules/.bin/mocha --reporter mochawesome --reporter-options reportDir=test-report,reportFilename=report",
     "pretty-src-svg": "find src/ -type f -name '*.svg' -print0 | xargs -0 -n 1 -P 6 svgo --config helpers/beautify-svg.yml",
     "export-svg": "./helpers/export-svg.sh",
-    "export-png": "./helpers/export-png.sh"
+    "export-png": "./helpers/export-png.sh",
+    "export-svg-font": "node helpers/export-svg-font.js"
   },
   "engines": {
     "node": ">=8.15.0"
