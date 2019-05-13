@@ -68,6 +68,12 @@ const forceColors = (srcFilePath, destFilePath, colorPalette) => {
 let emojis = require('../data/openmoji.json');
 console.log('Loaded emoijs: ' + emojis.length);
 emojis = _.filter(emojis, (e) => { return e.skintone == ''});
+// exclude the "Emoji Modifier Fitzpatrick"
+emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FB'});
+emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FC'});
+emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FD'});
+emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FE'});
+emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FF'});
 console.log('Emoijs without skintones: ' + emojis.length);
 
 emojis.forEach(emoji => {
