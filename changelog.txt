@@ -4,18 +4,23 @@
 
 --------------------------------------------------------------------------------
 
-👉 OpenMoji 1.? - ???
+👉 OpenMoji 2.0 - ???
 
-* Refactored source files to follow Emoji v12 categories
++ Added 377 new emojis.
+  Contributions of the OpenMoji course at the HfG Schwäbisch Gmünd by
+  Benedikt Groß and Daniel Utz with Antonia Wagner, Evelyn Soos, Fanny Jung,
+  Florian Nagel, Jonas Dunkel, Laura Dworatschek, Laura Schießer, Nadine Bartel,
+  Ricarda Krejci, Rifat Erdogan, Sam Eckert, Selina Lange, Tonia Reinhardt
+  and Yasmin Abdullahi.
+
++ Added basic support for multiple skintone modifiers
+  e.g. 1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FB
 
 + Added 25A1 "missing glyph"
-
-* Normalized "beautified" all svg source and production files
 
 + Added 261 flags from 🇦🇩 Andorra to 🇿🇼 Zimbabwe
 
 + Added 47 "emergency" related emojis contributed by the Guemil Project
-* Updated 13 standard emojis with Guemil Project revisions
 
 + Added 136 new emojis.
   Contributions of the OpenMoji Workshop at the HfG Laborwoche 2018 by
@@ -23,23 +28,39 @@
   Lois Proksch, Louisa Mantsch, Marleen Heine, Nadja Grün, Sarah Mager,
   Sina Chlod, Vincent Seitz
 
++ Added ca. 15000+ unit tests to ensure automated quality assurance
+
+
+* Refactored source files to follow Emoji v12 categories
+
+* Normalised "beautified" all svg source and production files
+
+* Updated 13 standard emojis with Guemil Project revisions
+
 * Fixed flags 1F3C1, 1F3F3, 1F3F3-FE0F-200D-1F308, 1F3F4 to ensure consistency
 
-- Ditched .ai source files in favour of .svg! Yay!
-+ Converted source files from .ai to .svg
+* Converted source files from .ai to .svg
+
 * Refactored source files to follow new mandatory layer structure
+
 * Analysed, fixed and simplified all shape types for every emoji (e.g. removed mask shapes)
+
 * Fixed every emoji to follow the OpenMoji color palette
 
 * Added property contribution date (hfg_date) to the openmoji json/csv "data" files
 
 * Fixed hour glasses to obey the laws of gravity
 
+
+- Ditched .ai source files in favour of .svg! Yay!
+
+
 --------------------------------------------------------------------------------
 
 👉 OpenMoji 1.0 - 18 April 2018
 
 Initial public release
+
 
 --------------------------------------------------------------------------------
 
