@@ -2838,7 +2838,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🇫🇴,1F1EB-1F1F4,flags,country-flag,flag: Faroe Islands,"FO, flag",,Ferdinand Sorg,2019-02-13,,,,,1,3654
 🇫🇷,1F1EB-1F1F7,flags,country-flag,flag: France,"FR, flag",,Ferdinand Sorg,2019-02-13,,,,,1,3655
 🇬🇦,1F1EC-1F1E6,flags,country-flag,flag: Gabon,"GA, flag",,Ferdinand Sorg,2019-02-13,,,,,1,3656
-🇬🇧,1F1EC-1F1E7,flags,country-flag,flag: United Kingdom,"GB, flag",,Daniel Utz,2019-02-13,,,,,1,3657
+🇬🇧,1F1EC-1F1E7,flags,country-flag,flag: United Kingdom,"GB, flag","union jack, england, uk, great britain",Daniel Utz,2019-02-13,,,,,1,3657
 🇬🇩,1F1EC-1F1E9,flags,country-flag,flag: Grenada,"GD, flag",,Ferdinand Sorg,2019-02-13,,,,,1,3658
 🇬🇪,1F1EC-1F1EA,flags,country-flag,flag: Georgia,"GE, flag",,Ferdinand Sorg,2019-02-13,,,,,1,3659
 🇬🇫,1F1EC-1F1EB,flags,country-flag,flag: French Guiana,"GF, flag",,Ferdinand Sorg,2019-02-13,,,,,1,3660
@@ -2995,7 +2995,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🇹🇿,1F1F9-1F1FF,flags,country-flag,flag: Tanzania,"TZ, flag",,Ferdinand Sorg,2019-02-13,,,,,1,3811
 🇺🇦,1F1FA-1F1E6,flags,country-flag,flag: Ukraine,"UA, flag",,Ferdinand Sorg,2019-02-13,,,,,1,3812
 🇺🇬,1F1FA-1F1EC,flags,country-flag,flag: Uganda,"UG, flag",,Daniela Ivandikov,2019-02-13,,,,,1,3813
-🇺🇲,1F1FA-1F1F2,flags,country-flag,flag: U.S. Outlying Islands,"UM, flag",,Ferdinand Sorg,2019-02-13,,,,,1,3814
+🇺🇲,1F1FA-1F1F2,flags,country-flag,flag: U.S. Outlying Islands,"UM, flag","usa, united states, us",Ferdinand Sorg,2019-02-13,,,,,1,3814
 🇺🇳,1F1FA-1F1F3,flags,country-flag,flag: United Nations,"UN, flag",,Daniela Ivandikov,2019-02-13,,,,,4,3815
 🇺🇸,1F1FA-1F1F8,flags,country-flag,flag: United States,"US, flag",,Ferdinand Sorg,2019-02-13,,,,,1,3816
 🇺🇾,1F1FA-1F1FE,flags,country-flag,flag: Uruguay,"UY, flag",,Ferdinand Sorg,2019-02-13,,,,,1,3817
