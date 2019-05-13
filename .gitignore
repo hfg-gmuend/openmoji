@@ -2,3 +2,5 @@
 node_modules/*
 _tmp/*
 test-report/*
+font/tmp-color/*
+font/tmp-black/*
