@@ -47,9 +47,16 @@ describe('Color', function() {
     emojis.forEach(emoji => {
       it(`${emoji.emoji} ${emoji.hexcode}.svg #line layer should have only black strokes`, function(){
         const doc = createDoc(emoji);
-        const query = doc.querySelectorAll('#line > [stroke]');
+        const query = doc.querySelectorAll('#line > [stroke], #line-supplement > [stroke]');
         query.forEach(el => {
           expect(['black', '#000000', '#000', 'none']).to.include(el.getAttribute('stroke').toLowerCase());
+        });
+      });
+      it(`${emoji.emoji} ${emoji.hexcode}.svg #line layer should have only black or white fills (if any)`, function(){
+        const doc = createDoc(emoji);
+        const query = doc.querySelectorAll('#line > [fill], #line-supplement > [fill]');
+        query.forEach(el => {
+          expect(['black', '#000000', '#000', 'white', '#ffffff', '#fff', 'none']).to.include(el.getAttribute('fill').toLowerCase());
         });
       });
     });
