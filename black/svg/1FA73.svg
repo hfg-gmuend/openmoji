@@ -4,8 +4,8 @@
     <path d="M27.0438,26.328S26.6591,34,18.9562,39.7946" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <path d="M45.9562,26.328S46.3409,34,54.0438,39.7946" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="17" y1="24" x2="56" y2="24" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path d="M34,29c2.0039-1.2821-.0281-3.2706,2-4" fill="#d0cfce" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
-    <path d="M40,30c-1.6822-1.6822-.9719-4.2706-3-5" fill="#d0cfce" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
-    <circle cx="36.5" cy="25.5" r="0.5" fill="#d0cfce" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path d="M34,29c2.0039-1.2821-.0281-3.2706,2-4" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path d="M40,30c-1.6822-1.6822-.9719-4.2706-3-5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <circle cx="36.5" cy="25.5" r="0.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
   </g>
 </svg>
