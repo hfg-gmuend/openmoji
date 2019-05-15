@@ -4,7 +4,11 @@
 
 --------------------------------------------------------------------------------
 
-👉 OpenMoji 2.0 - ???
+👉 OpenMoji 12.0 - 15 May 2019
+
+Full support for all emojis of Unicode 12.0/Emoji 12.0 and 3030 new emojis,
+skin tones support, refactoring all source files from .ai to .svg, better
+quality assurance with ca. 17000+ automated unit test ...
 
 + Added 377 new emojis.
   Contributions of the OpenMoji course at the HfG Schwäbisch Gmünd by
@@ -18,7 +22,7 @@
 
 + Added 25A1 "missing glyph"
 
-+ Added 261 flags from 🇦🇩 Andorra to 🇿🇼 Zimbabwe
++ Added 261 flags from Andorra to Zimbabwe
 
 + Added 47 "emergency" related emojis contributed by the Guemil Project
 
@@ -28,7 +32,7 @@
   Lois Proksch, Louisa Mantsch, Marleen Heine, Nadja Grün, Sarah Mager,
   Sina Chlod, Vincent Seitz
 
-+ Added ca. 15000+ unit tests to ensure automated quality assurance
++ Added ca. 17000+ unit tests to ensure automated quality assurance
 
 
 * Refactored source files to follow Emoji v12 categories
