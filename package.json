@@ -7,7 +7,8 @@
     "pretty-src-svg": "find src/ -type f -name '*.svg' -print0 | xargs -0 -n 1 -P 6 svgo --config helpers/beautify-svg.yml",
     "export-svg": "./helpers/export-svg.sh",
     "export-png": "./helpers/export-png.sh",
-    "export-svg-font": "node helpers/export-svg-font.js"
+    "export-svg-font": "node helpers/export-svg-font.js",
+    "export-zip": "./helpers/export-zip.sh"
   },
   "engines": {
     "node": ">=8.15.0"
