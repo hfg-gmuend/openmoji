@@ -1,6 +1,6 @@
 {
   "name": "OpenMoji",
-  "version": "1.0.0",
+  "version": "12.0.0",
   "description": "Open-source emojis for designers, developers and everyone else!",
   "scripts": {
     "test": "node_modules/.bin/mocha --reporter mochawesome --reporter-options reportDir=test-report,reportFilename=report",
