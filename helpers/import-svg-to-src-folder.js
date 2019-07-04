@@ -5,7 +5,7 @@ const glob = require('glob').sync;
 var argv = process.argv.slice(2);
 const _ = require('lodash');
 
-const emojis = require('../data/openmoji-emoji12.json');
+const emojis = require('../data/openmoji.json');
 
 
 if(!argv[0]) {
