@@ -1,8 +1,11 @@
 const _ = require('lodash');
 const expect = require('chai').expect;
 
+const argv = require('optimist').demand('openmoji-data-json').argv;
+const openmojiDataJson = argv['openmoji-data-json'];
+const openmojis = require(openmojiDataJson);
+
 const createDoc = require('./utils/utils').createDoc;
-const openmojis = require('../data/openmoji.json');
 const validLayerNames = ['grid', 'line', 'color', 'hair', 'skin', 'skin-shadow', 'color-foreground', 'line-supplement'];
 
 

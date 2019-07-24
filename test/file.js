@@ -1,9 +1,12 @@
 const fs = require('fs');
-const _   = require('lodash');
+const _ = require('lodash');
 const expect = require('chai').expect;
 
+const argv = require('optimist').demand('openmoji-data-json').argv;
+const openmojiDataJson = argv['openmoji-data-json'];
+const openmojis = require(openmojiDataJson);
+
 const getSrcFilepath = require('./utils/utils').getSrcFilepath;
-const openmojis = require('../data/openmoji.json');
 
 
 describe('File integrity', function() {
