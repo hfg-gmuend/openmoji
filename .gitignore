@@ -1,7 +1,7 @@
 .DS_Store
 node_modules/*
 _tmp/*
-test-report/*
+test/report/*
 font/tmp-color/*
 font/tmp-black/*
 color/pdf/*
