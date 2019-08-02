@@ -1,16 +1,16 @@
-const _ = require('lodash');
-const expect = require('chai').expect;
+const { filter } = require('lodash');
+const { expect } = require('chai');
 
 const argv = require('optimist').demand('openmoji-data-json').argv;
 const openmojiDataJson = argv['openmoji-data-json'];
 const openmojis = require(openmojiDataJson);
 
-const createDoc = require('./utils/utils').createDoc;
+const { createDoc } = require('./utils/utils');
 const validLayerNames = ['grid', 'line', 'color', 'hair', 'skin', 'skin-shadow', 'color-foreground', 'line-supplement'];
 
 
 describe('Layers', function() {
-  const emojis = _.filter(openmojis, (e) => { return e.skintone == '' });
+  const emojis = filter(openmojis, (e) => { return e.skintone == '' });
 
   describe('#line layer existing?', function() {
     emojis.forEach(emoji => {

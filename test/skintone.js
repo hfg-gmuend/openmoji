@@ -1,16 +1,16 @@
-const _ = require('lodash');
-const expect = require('chai').expect;
+const { filter } = require('lodash');
+const { expect } = require('chai');
 
 const argv = require('optimist').demand('openmoji-data-json').argv;
 const openmojiDataJson = argv['openmoji-data-json'];
 const openmojis = require(openmojiDataJson);
 
-const createDoc = require('./utils/utils').createDoc;
-const colors = require('../data/color-palette.json').colors;
+const { createDoc } = require('./utils/utils');
+const { colors } = require('../data/color-palette.json');
 
 
 describe('Skintone', function() {
-  const emojis = _.filter(openmojis, (e) => { return e.emoji === e.skintone_base_emoji});
+  const emojis = filter(openmojis, (e) => { return e.emoji === e.skintone_base_emoji});
   const validColors = ['#fcea2b', 'none'];
 
   describe('Skintones layers existing?', function() {

@@ -1,16 +1,16 @@
 const fs = require('fs');
-const _ = require('lodash');
-const expect = require('chai').expect;
+const { filter } = require('lodash');
+const { expect } = require('chai');
 
 const argv = require('optimist').demand('openmoji-data-json').argv;
 const openmojiDataJson = argv['openmoji-data-json'];
 const openmojis = require(openmojiDataJson);
 
-const getSrcFilepath = require('./utils/utils').getSrcFilepath;
+const { getSrcFilepath } = require('./utils/utils');
 
 
 describe('File integrity', function() {
-  const emojis = _.filter(openmojis, (e) => { return e.skintone == ''});
+  const emojis = filter(openmojis, (e) => { return e.skintone == ''});
 
   describe('Source SVG exists?', function() {
     emojis.forEach(emoji => {

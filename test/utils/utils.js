@@ -1,7 +1,6 @@
-const fs   = require('fs');
-const path   = require('path');
-const _   = require('lodash');
-const JSDOM = require('jsdom').JSDOM;
+const fs = require('fs');
+const path = require('path');
+const { JSDOM } = require('jsdom');
 
 const argv = require('optimist').demand('openmoji-src-folder').argv;
 const openmojiSrcFolder = argv['openmoji-src-folder'];
