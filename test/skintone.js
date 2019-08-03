@@ -13,7 +13,7 @@ describe('Skintone', function() {
   const emojis = filter(openmojis, (e) => { return e.emoji === e.skintone_base_emoji});
   const validColors = ['#fcea2b', 'none'];
 
-  describe('Skintones layers existing?', function() {
+  describe('Skintone layer existing?', function() {
     emojis.forEach(emoji => {
       it(`${emoji.emoji} ${emoji.hexcode}.svg should have a #skin layer`, function(){
         const doc = createDoc(emoji);

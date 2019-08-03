@@ -22,7 +22,7 @@ describe('Color', function() {
   // valid colors and edge cases like 'none', or shorthand white '#fff' etc.
   const validColors = [...colors, '#fff', '#000', 'none'];
 
-  describe('Fill colors included in color palette?', function() {
+  describe('Fill colors included in OpenMoji color palette?', function() {
     emojis.forEach(emoji => {
       it(`${emoji.emoji} ${emoji.hexcode}.svg should have correct fill colors`, function(){
         const doc = createDoc(emoji);
@@ -34,7 +34,7 @@ describe('Color', function() {
     });
   });
 
-  describe('Stroke colors included in color palette?', function() {
+  describe('Stroke colors included in OpenMoji color palette?', function() {
     emojis.forEach(emoji => {
       it(`${emoji.emoji} ${emoji.hexcode}.svg should have correct stroke colors`, function(){
         const doc = createDoc(emoji);

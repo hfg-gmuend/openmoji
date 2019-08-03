@@ -39,9 +39,9 @@ describe('Layers', function() {
     });
   });
 
-  describe('Valid layers only?', function() {
+  describe('Layers (<g> elements) have valid OpenMoji layer names?', function() {
     emojis.forEach(emoji => {
-      it(`${emoji.emoji} ${emoji.hexcode}.svg should have only valid layers`, function() {
+      it(`${emoji.emoji} ${emoji.hexcode}.svg should only have valid OpenMoji layers`, function() {
         const doc = createDoc(emoji);
         const query = doc.querySelectorAll('svg > g');
         query.forEach(el => {
