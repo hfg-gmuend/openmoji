@@ -43,7 +43,7 @@ Run `node helpers/generate-data-tables.js` to generate from the .csv files above
 ### 2. Design Your Emoji
 🙏 Please follow the [OpenMoji Styleguide](http://openmoji.org/styleguide)
 
-✅ Run `npm test` to check whether your emoji passes our automated tests.
+✅ Use the [OpenMoji Tester App](https://openmoji-tester.glitch.me/) to check whether your emoji passes our automated tests. All of your svg files have to produce green tests only. Fix your files until everything is green! Please! :)
 
 
 ### 3. File Conventions
