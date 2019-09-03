@@ -51425,6 +51425,23 @@
     "order": ""
   },
   {
+    "emoji": "",
+    "hexcode": "E044",
+    "group": "extras-openmoji",
+    "subgroups": "brand",
+    "annotation": "youtube",
+    "tags": "",
+    "openmoji_tags": "social, platform, video, brand",
+    "openmoji_author": "Romain Bazile",
+    "openmoji_date": "2019-09-03",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": "",
+    "order": ""
+  },
+  {
     "emoji": "",
     "hexcode": "E080",
     "group": "extras-openmoji",
