@@ -5,6 +5,8 @@
 --------------------------------------------------------------------------------
 👉 OpenMoji 12.X - XXX
 
++ Added youtube logo, contributed by Romain Bazile @gromain
+
 * Small fixes for 1F4A9, 1F9B0, 1F9B1, 1F9B2, 1F9B3, 1F9B8, 1F9B9,
   1F9CF-200D-2642-FE0F, 1F9D6, 1F9D9, 1F9DA, 1F9DB, 1F62C, 1F473-200D-2642-FE0F,
   1F473, 1F534, 1F535, 1F601, 1F624, 26AA, 26AB.
