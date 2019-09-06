@@ -1,13 +1,12 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="line">
-    <circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="36" cy="36" r="23"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M31.7799,31.4626 c0,2.4645-2.0004,4.4626-4.4626,4.4626s-4.4626-1.9981-4.4626-4.4626c0-2.4622,2.0004-4.4626,4.4626-4.4626 S31.7799,29.0004,31.7799,31.4626"/>
-    <path fill="#000000" d="M28.3376,32.4695c0,1.1045-0.8965,2-2,2c-1.1035,0-2-0.8955-2-2c0-1.1035,0.8965-2,2-2 C27.4411,30.4695,28.3376,31.366,28.3376,32.4695" stroke="none"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M49.7799,31.4626 c0,2.4645-2.0004,4.4626-4.4626,4.4626c-2.4622,0-4.4626-1.9981-4.4626-4.4626c0-2.4622,2.0004-4.4626,4.4626-4.4626 C47.7795,27,49.7799,29.0004,49.7799,31.4626"/>
-    <path fill="#000000" d="M48.3173,30.9252c0,1.1045-0.8965,2-2,2c-1.1035,0-2-0.8955-2-2c0-1.1035,0.8965-2,2-2 C47.4208,28.9252,48.3173,29.8217,48.3173,30.9252" stroke="none"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M41.2456,23.7432c0.4132-0.344,2.2456-1.7915,4.9091-1.6364c2.1608,0.1259,3.61,1.2333,4.0909,1.6364"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M22.8173,23.7432c0.4132-0.344,2.2456-1.7915,4.9091-1.6364c2.1608,0.1259,3.61,1.2333,4.0909,1.6364"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M30.8317,46.7908c-2.199-1.0742-3.9778-2.8081-4.9168-4.9729 M30.8317,46.7908 M41.1803,46.8788 M41.7481,46.5925 M46.245,41.818 c-0.8692,2.0234-2.4789,3.6854-4.4969,4.7746 M26.1534,41.818c1.8055,0.9018,5.4625,1.4962,9.5171,1.5426 c4.4161,0.0505,8.5899-0.5572,10.5745-1.5426"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M41.7397,42.818c0,6.0751-2.5324,11-5.6562,11 s-5.6563-4.9249-5.6563-11"/>
+    <circle cx="36" cy="36.0001" r="23" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="26.3444" y1="40.701" x2="26.3444" y2="48.4864" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="32.3444" y1="40.701" x2="32.3444" y2="48.4864" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="38.3444" y1="40.701" x2="38.3444" y2="48.4864" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="44.3444" y1="40.701" x2="44.3444" y2="48.4864" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <rect x="21.3211" y="40.4449" width="29.3577" height="8.0415" rx="4.0207" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <circle cx="27.375" cy="31.2568" r="2.6038"/>
+    <circle cx="44.625" cy="31.2568" r="2.6038"/>
   </g>
 </svg>

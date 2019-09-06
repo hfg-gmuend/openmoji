@@ -1,9 +1,8 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  <g id="color"/>
-  <g id="skin">
-    <path d="M30.3742,41.4385H43.94a10.3091,10.3091,0,0,0-2.3566-6.8293,9.873,9.873,0,0,0-6.0846-3.4484,9.6907,9.6907,0,0,0-5.1247.6923Z" fill="#fcea2b" stroke="#fcea2b" stroke-miterlimit="10" stroke-width="2"/>
+  <g id="color">
+    <path d="M16.9,51H54.09a28.31,28.31,0,0,0-6.46-18.7A27.08,27.08,0,0,0,31,22.85a26.5,26.5,0,0,0-14,1.9Z" fill="#fcea2b" stroke="#fcea2b" stroke-miterlimit="10" stroke-width="2"/>
   </g>
   <g id="line">
-    <path d="M44.6378,41.4385a15.496,15.496,0,0,0-2.7266-6.877,9.4984,9.4984,0,0,0-.84-.944,10.6167,10.6167,0,0,0-7.16-2.806h-.0635a10.8889,10.8889,0,0,0-3.6845.6608" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M56,51c-1.12-6.83-3.55-13.82-7.47-18.85a28.3839,28.3839,0,0,0-2.31-2.59c-8-7.83-18.82-7.71-19.63-7.69h-.17a29.9986,29.9986,0,0,0-10.1,1.81" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>
