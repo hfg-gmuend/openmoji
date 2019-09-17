@@ -5,6 +5,7 @@ Interested in contributing? Yay! Here are a few infos how the workflow typically
 
 * **Contribute an Emoji via Email and Sending .svg Files**
 * **Contribute an Emoji via Github and Pull Requests (Preferred)**
+* **Hexcodes extras-openmoji**
 * **Fix a Bug**
 * **How to Submit a Pull Request**
 * **Developer Setup**
@@ -26,7 +27,7 @@ If you have an original idea about a new emoji or you spot one which is missing 
 
 
 ### 1. Meta Infos
-Before you start working on a source .svg file you should find and name .svg file with the corresponding hexcode. Either the emoji is already defined in Unicode or you have to propose a hexcode which is in the private use area.
+Before you start working on a source .svg file you should find and name .svg file with the corresponding hexcode. Either the emoji is already defined in Unicode or you have to propose a hexcode which is in the private use area (see below in Hexcodes extras-openmoji).
 
 Add your meta infos at the very end of one of the files below:
 * `data/enhancements-emoji-unicode-data.csv` if your emoji is already part of an Emoji Unicode standard e.g. [Emoji v12](https://unicode.org/Public/emoji/12.0/emoji-test.txt).
@@ -60,6 +61,23 @@ Before you gon on to submit we aks you should to normalize the formatting of the
 
 ### 5. Submission
 Yay! Now all your files are ready to go! Please submit a PR against the master branch. Thanks 🙏!
+
+
+## Hexcodes extras-openmoji
+
+Emojis that are not (yet) defined in Unicode are located in the [Private Use Area](https://en.wikipedia.org/wiki/Private_Use_Areas). The Hexcode runs from `E000` to `F8FF`. The total number of code points is 6.400.
+
+For the OpenMoji project we divided the private use are into 100 equal sized blocks of 64 code points:
+
+
+| subcategory | block start | block end | 
+| --- | --- | --- | 
+| animals-nature | E000 | E040 | 
+| brand | E040 | E080 | 
+| emergency | E080 | E0C0 |
+| … | … | … |
+
+If a subgroup needs more than 64 code points, then the subgroup continues in the next free block. An overview gives this [Google Doc](https://docs.google.com/spreadsheets/d/1xq4uJshm3eHi8BfqMlvWdXfansNugto1XJjPFbBCnV4/edit?usp=sharing). The names of subgroups (in extras-openmoji) are a close as possible aligned with already defined [Unicode Emoji](https://unicode.org/Public/emoji/12.0/emoji-test.txt) ones.
 
 
 ## 🐞Fix a Bug
