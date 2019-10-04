@@ -1,8 +1,8 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="color">
-    <rect x="5" y="17" width="62" height="38" fill="#1e50a0"/>
+    <rect x="5" y="17" width="62" height="38" fill="#d22f27"/>
     <rect x="5" y="17" width="62" height="13" fill="#f1b31c"/>
-    <rect x="5" y="30" width="62" height="12" fill="#d22f27"/>
+    <rect x="5" y="30" width="62" height="12" fill="#1e50a0"/>
     <g>
       <circle cx="36" cy="33" r="1" fill="#fff"/>
       <circle cx="32" cy="34" r="1" fill="#fff"/>
