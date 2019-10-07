@@ -8,7 +8,7 @@
   </g>
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#1e50a0"/>
-    <path d="M13,55H5L59,17h8Z" fill="#fff" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="m 5,55 v -5 l 62,-33 -0.05393,5.053932 z" fill="#fff" stroke="#fff" stroke-miterlimit="10"/>
     <path d="M5,17v5L67,55V50Z" fill="#fff" stroke="#fff" stroke-miterlimit="10"/>
   </g>
   <g id="line">

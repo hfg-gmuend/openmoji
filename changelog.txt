@@ -7,8 +7,11 @@
 
 + Added Youtube and Github logo, contributed by Romain Bazile @gromain
 
+* Fix 1F3F4-E0067-E0062-E0073-E0063-E0074-E007F by Carlin Mackenzie @carlinmack
+  Correct diagonal line on Scottish flag
+
 * Fix 1F473-200D-2640-FE0F
-  women wearing turban should not show hair #20, thanks Gurmukh Panesar @gurmukhp
+  Women wearing turban should not show hair #20, thanks Gurmukh Panesar @gurmukhp
 
 * Fix 1F3F3-FE0F-200D-1F308
   Issue #27, Rainbow flag now shows the right colors and display as a country
