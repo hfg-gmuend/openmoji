@@ -5,6 +5,9 @@
 --------------------------------------------------------------------------------
 👉 OpenMoji 12.X - XXX
 
+* Fix 1F1FB-1F1EA by Jonathan Dixon @jonpdixon
+  Correct colour order and number of stars on Venezuelan flag
+  
 + Added Youtube and Github logo, contributed by Romain Bazile @gromain
 
 * Fix 1F3F4-E0067-E0062-E0073-E0063-E0074-E007F by Carlin Mackenzie @carlinmack
