@@ -31,11 +31,21 @@ describe('OpenMoji file format', function() {
     });
   });
 
-  describe('SVG is styled with embedded styles / has no global css style element?', function() {
+  describe('SVG is styled without a global css style element?', function() {
     emojis.forEach(emoji => {
       it(`${emoji.emoji} ${emoji.hexcode}.svg should not use global style sheets`, function(){
         const doc = createDoc(emoji);
         expect( doc.querySelector('style') ).to.not.exist;
+      });
+    });
+  });
+
+  describe('All basic shapes (rect, circle, line etc) without a style attribute?', function() {
+    emojis.forEach(emoji => {
+      it(`${emoji.emoji} ${emoji.hexcode}.svg should not contain basic shapes with a style attribute`, function(){
+        const doc = createDoc(emoji);
+        const elementsWithStyleAttribute = doc.querySelectorAll(':not(#grid) > [style]');
+        expect( elementsWithStyleAttribute.length ).to.equal(0);
       });
     });
   });
