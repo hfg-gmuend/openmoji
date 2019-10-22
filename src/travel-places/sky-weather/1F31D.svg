@@ -8,7 +8,7 @@
   </g>
   <g id="color">
     <circle cx="36" cy="36" r="28" fill="#fcea2b" stroke="#fcea2b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path d="M29,62c20.0033,0,16.6634-52,16.6634-52s24.9582,7,16.6388,35S13.4011,62,29,62Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.204" opacity="0.4"/>
+    <path d="M29,62c20.0033,0,16.6634-52,16.6634-52s24.9582,7,16.6388,35S13.4011,62,29,62Z" fill="#f1b31c" stroke-miterlimit="10" stroke-width="0.204" opacity="0.4"/>
   </g>
   <g id="line">
     <rect x="34" y="37" width="4" height="2" stroke-width="0.25" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
