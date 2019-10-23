@@ -16,10 +16,13 @@ const writeSvg = (filePath, data) => {
 const generateSkintoneSingle = (srcFilePath, destFilePath, skintoneIndex) => {
   const dom = new JSDOM(fs.readFileSync(srcFilePath, 'utf8'));
   const doc = dom.window.document;
-  const hairFills = doc.querySelectorAll('#hair [fill]');
-  hairFills.forEach(s => {
-    s.setAttribute('fill', hairColors[skintoneIndex]);
-  });
+	// Change hair color unless 1F471 blond person, 1F9B0 red hair component or 1F9B3 white hair component is specified
+  if (!destFilePath.match(/1F471|1F9B0|1F9B3/)) {
+		const hairFills = doc.querySelectorAll('#hair [fill]');
+  	hairFills.forEach(s => {
+    	s.setAttribute('fill', hairColors[skintoneIndex]);
+  	});
+	}
   const skinFills = doc.querySelectorAll('#skin [fill]');
   skinFills.forEach(s => {
     s.setAttribute('fill', fitzpatrickColors[skintoneIndex]);
