@@ -19,7 +19,7 @@
     "chai": "^4.2.0",
     "characterset": "^1.3.0",
     "chroma-js": "^1.4.0",
-    "csv-parse": "^2.5.0",
+    "csv-parse": "^4.4.6",
     "csv-write-stream": "^2.0.0",
     "emojibase-data": "^4.0.0-alpha.0",
     "glob": "^7.1.2",
