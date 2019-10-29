@@ -5,6 +5,10 @@
 --------------------------------------------------------------------------------
 👉 OpenMoji 12.X - XXX
 
+* Fix 1F31A 1F31D moon emojis by Carlin Mackenzie @carlinmack
+  Same smile and face for both moon emojis
+  Change colour of full moon shadow
+
 * Fix OpenMojis with blond, red or white hair by @sourgift
 * Fix 1F471 'person: blond hair' to resemble '1F9D1 person' by @sourgift
 
