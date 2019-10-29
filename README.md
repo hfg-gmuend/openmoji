@@ -31,9 +31,9 @@ You can download, use and "consume" OpenMoji in various ways:
 - [Fonts](https://github.com/hfg-gmuend/openmoji/releases/latest): Color & Black (experimental)
 - [PNG 618x618](https://github.com/hfg-gmuend/openmoji/releases/latest): Color & Black (production ready)
 - [PNG 72x72](https://github.com/hfg-gmuend/openmoji/releases/latest): Color & Black (production ready)
-- OpenMoji app: for iOS with emoji picker
-- [OpenMoji Stickers](https://itunes.apple.com/us/app/openmoji-stickers/id1401939102): for iOS Messages app
-- Github: [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji/)
+- [OpenMoji app](https://itunes.apple.com/us/app/openmoji/id1462636288): for iOS with emoji picker
+- [OpenMoji Stickers](https://itunes.apple.com/us/app/openmoji/id1462636288): for iOS Messages app
+- [OpenMoji Github](https://github.com/hfg-gmuend/openmoji/): `git clone --dept 1 https://github.com/hfg-gmuend/openmoji.git` The OpenMoji repo is big! It is recommended to clone it without the entire history, note the --dept flag.
 
 
 ## Anatomy OpenMoji Repository
