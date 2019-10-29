@@ -8,7 +8,7 @@
     <path d="M36,64A28,28,0,0,1,36,8" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <path d="M36,8a28,28,0,0,1,0,56" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <path d="M36,39.5c1.1046,0,2.5-.8954,2.5-2H34A2,2,0,0,0,36,39.5Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path d="M27,46s2.256,2.7023,8.8889,4C41,51,47,46,47,46" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="m26.92 45.92s3.705 3.389 9.652 3.771c6.942 0.3136 10.42-3.695 10.42-3.695" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <circle cx="26.5" cy="27.5" r="5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <circle cx="45.5" cy="27.5" r="5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <circle cx="45.5" cy="27.5" r="5" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>

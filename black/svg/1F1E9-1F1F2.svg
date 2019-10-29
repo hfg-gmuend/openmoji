@@ -1,5 +1,5 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 72 72" id="emoji">
   <g id="line">
-    <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <rect fill="none" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" height="38" width="62" y="17" x="5"/>
   </g>
 </svg>
