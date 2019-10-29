@@ -5,6 +5,9 @@
 --------------------------------------------------------------------------------
 👉 OpenMoji 12.X - XXX
 
+* Improved 1F004 to better resemble a Mahjong Red Dragon tile by @sourgift
+  Change tile from square to rectangle
+
 * Fix 1F31A 1F31D moon emojis by Carlin Mackenzie @carlinmack
   Same smile and face for both moon emojis
   Change colour of full moon shadow
