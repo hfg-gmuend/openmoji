@@ -14,27 +14,27 @@ describe('Layers', function() {
 
   describe('#line layer existing?', function() {
     emojis.forEach(emoji => {
-      it(`${emoji.emoji} ${emoji.hexcode}.svg should have a #line layer`, function(){
+      it(`${emoji.emoji} ${emoji.hexcode}.svg should have a single #line layer`, function(){
         const doc = createDoc(emoji);
-        expect( doc.querySelector('#line') ).to.exist;
+        expect( doc.querySelectorAll('#line').length ).to.equal(1);
       });
     });
   });
 
   describe('#color layer existing?', function() {
     emojis.forEach(emoji => {
-      it(`${emoji.emoji} ${emoji.hexcode}.svg should have a #color layer`, function(){
+      it(`${emoji.emoji} ${emoji.hexcode}.svg should have a single #color layer`, function(){
         const doc = createDoc(emoji);
-        expect( doc.querySelector('#color') ).to.exist;
+        expect( doc.querySelectorAll('#color').length ).to.equal(1);
       });
     });
   });
 
   describe('#grid layer existing?', function() {
     emojis.forEach(emoji => {
-      it(`${emoji.emoji} ${emoji.hexcode}.svg should have a #grid layer`, function(){
+      it(`${emoji.emoji} ${emoji.hexcode}.svg should have a single #grid layer`, function(){
         const doc = createDoc(emoji);
-        expect( doc.querySelector('#grid') ).to.exist;
+        expect( doc.querySelectorAll('#grid').length ).to.equal(1);
       });
     });
   });
