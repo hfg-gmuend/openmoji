@@ -60,7 +60,7 @@ Before you gon on to submit we aks you should to normalize the formatting of the
 
 
 ### 5. Submission
-Yay! Now all your files are ready to go! Please submit a PR against the master branch. Thanks 🙏!
+Yay! Now all your files are ready to go! Please submit a PR against the master branch. Please submit only the files in `src` folder, and do not generate the files in `color` and `black` folders. We will take care of your OpenMoji from there! Thanks 🙏!
 
 
 ## Hexcodes extras-openmoji
