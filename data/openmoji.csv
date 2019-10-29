@@ -55,7 +55,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥶,1F976,smileys-emotion,face-unwell,cold face,"blue-faced, cold, freezing, frostbite, icicles",,Antonia Wagner,2019-05-03,,,,,11,55
 🥴,1F974,smileys-emotion,face-unwell,woozy face,"dizzy, intoxicated, tipsy, uneven eyes, wavy mouth",,Antonia Wagner,2019-05-03,,,,,11,56
 😵,1F635,smileys-emotion,face-unwell,dizzy face,"dizzy, face",dead eyes,Mariella Steeb,2018-04-18,,,,,1,57
-🤯,1F92F,smileys-emotion,face-unwell,exploding head,shocked,explosion,Mariella Steeb,2018-04-18,,,,,5,58
+🤯,1F92F,smileys-emotion,face-unwell,exploding head,"mind blown, shocked",explosion,Mariella Steeb,2018-04-18,,,,,5,58
 🤠,1F920,smileys-emotion,face-hat,cowboy hat face,"cowboy, cowgirl, face, hat",howdy,Emily Jäger,2018-04-18,,,,,3,59
 🥳,1F973,smileys-emotion,face-hat,partying face,"celebration, hat, horn, party",,Antonia Wagner,2019-05-03,,,,,11,60
 😎,1F60E,smileys-emotion,face-glasses,smiling face with sunglasses,"bright, cool, face, sun, sunglasses",,Emily Jäger,2018-04-18,,,,,1,61
@@ -992,12 +992,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👳🏽‍♀️,1F473-1F3FD-200D-2640-FE0F,people-body,person-role,woman wearing turban: medium skin tone,,,Antonia Wagner,2019-05-03,3,single,👳‍♀️,1F473-200D-2640-FE0F,4,1237
 👳🏾‍♀️,1F473-1F3FE-200D-2640-FE0F,people-body,person-role,woman wearing turban: medium-dark skin tone,,,Antonia Wagner,2019-05-03,4,single,👳‍♀️,1F473-200D-2640-FE0F,4,1239
 👳🏿‍♀️,1F473-1F3FF-200D-2640-FE0F,people-body,person-role,woman wearing turban: dark skin tone,,,Antonia Wagner,2019-05-03,5,single,👳‍♀️,1F473-200D-2640-FE0F,4,1241
-👲,1F472,people-body,person-role,man with Chinese cap,"gua pi mao, hat, man, man with chinese cap",,Anne Frauendorf,2018-11-16,,single,👲,1F472,1,1243
-👲🏻,1F472-1F3FB,people-body,person-role,man with Chinese cap: light skin tone,,,Anne Frauendorf,2018-11-16,1,single,👲,1F472,2,1244
-👲🏼,1F472-1F3FC,people-body,person-role,man with Chinese cap: medium-light skin tone,,,Anne Frauendorf,2018-11-16,2,single,👲,1F472,2,1245
-👲🏽,1F472-1F3FD,people-body,person-role,man with Chinese cap: medium skin tone,,,Anne Frauendorf,2018-11-16,3,single,👲,1F472,2,1246
-👲🏾,1F472-1F3FE,people-body,person-role,man with Chinese cap: medium-dark skin tone,,,Anne Frauendorf,2018-11-16,4,single,👲,1F472,2,1247
-👲🏿,1F472-1F3FF,people-body,person-role,man with Chinese cap: dark skin tone,,,Anne Frauendorf,2018-11-16,5,single,👲,1F472,2,1248
+👲,1F472,people-body,person-role,man with skullcap,"cap, gua pi mao, hat, man, skullcap",,Anne Frauendorf,2018-11-16,,single,👲,1F472,1,1243
+👲🏻,1F472-1F3FB,people-body,person-role,man with skullcap: light skin tone,,,Anne Frauendorf,2018-11-16,1,single,👲,1F472,2,1244
+👲🏼,1F472-1F3FC,people-body,person-role,man with skullcap: medium-light skin tone,,,Anne Frauendorf,2018-11-16,2,single,👲,1F472,2,1245
+👲🏽,1F472-1F3FD,people-body,person-role,man with skullcap: medium skin tone,,,Anne Frauendorf,2018-11-16,3,single,👲,1F472,2,1246
+👲🏾,1F472-1F3FE,people-body,person-role,man with skullcap: medium-dark skin tone,,,Anne Frauendorf,2018-11-16,4,single,👲,1F472,2,1247
+👲🏿,1F472-1F3FF,people-body,person-role,man with skullcap: dark skin tone,,,Anne Frauendorf,2018-11-16,5,single,👲,1F472,2,1248
 🧕,1F9D5,people-body,person-role,woman with headscarf,"headscarf, hijab, mantilla, tichel","headscarf, hijab, mantilla, religion, religious, muslim",Lisa Thiel,2018-04-18,,single,🧕,1F9D5,5,1249
 🧕🏻,1F9D5-1F3FB,people-body,person-role,woman with headscarf: light skin tone,,,Lisa Thiel,2018-04-18,1,single,🧕,1F9D5,5,1250
 🧕🏼,1F9D5-1F3FC,people-body,person-role,woman with headscarf: medium-light skin tone,,,Lisa Thiel,2018-04-18,2,single,🧕,1F9D5,5,1251
@@ -1866,7 +1866,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🕷️,1F577,animals-nature,animal-bug,spider,insect,,Selina Bauder,2018-04-18,,,,,1,2485
 🕸️,1F578,animals-nature,animal-bug,spider web,"spider, web",,Selina Bauder,2018-04-18,,,,,1,2487
 🦂,1F982,animals-nature,animal-bug,scorpion,"scorpio, zodiac",,Selina Bauder,2018-04-18,,,,,1,2488
-🦟,1F99F,animals-nature,animal-bug,mosquito,"disease, fever, insect, malaria, virus",,Ricarda Krejci,2019-05-07,,,,,11,2489
+🦟,1F99F,animals-nature,animal-bug,mosquito,"disease, fever, malaria, pest, virus",,Ricarda Krejci,2019-05-07,,,,,11,2489
 🦠,1F9A0,animals-nature,animal-bug,microbe,"amoeba, bacteria, virus",,Ricarda Krejci,2019-05-07,,,,,11,2490
 💐,1F490,animals-nature,plant-flower,bouquet,flower,"present, flower, tulip, bouquet",Hilda Kalyoncu,2018-04-18,,,,,1,2491
 🌸,1F338,animals-nature,plant-flower,cherry blossom,"blossom, cherry, flower","pink,",Hilda Kalyoncu,2018-04-18,,,,,1,2492
@@ -1922,17 +1922,17 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥜,1F95C,food-drink,food-vegetable,peanuts,"food, nut, peanut, vegetable",,Marius Schnabel,2018-04-18,,,,,3,2545
 🌰,1F330,food-drink,food-vegetable,chestnut,plant,,Hend Hourani,2018-11-16,,,,,1,2546
 🍞,1F35E,food-drink,food-prepared,bread,loaf,,Miriam Vollmeier,2018-04-18,,,,,1,2547
-🥐,1F950,food-drink,food-prepared,croissant,"bread, crescent roll, food, french",,Miriam Vollmeier,2018-04-18,,,,,3,2548
+🥐,1F950,food-drink,food-prepared,croissant,"bread, breakfast, food, french, roll",,Miriam Vollmeier,2018-04-18,,,,,3,2548
 🥖,1F956,food-drink,food-prepared,baguette bread,"baguette, bread, food, french",,Miriam Vollmeier,2018-04-18,,,,,3,2549
 🥨,1F968,food-drink,food-prepared,pretzel,twisted,,Miriam Vollmeier,2018-04-18,,,,,5,2550
-🥯,1F96F,food-drink,food-prepared,bagel,"bakery, schmear",,Ricarda Krejci,2019-05-07,,,,,11,2551
-🥞,1F95E,food-drink,food-prepared,pancakes,"crêpe, food, hotcake, pancake",,Ricarda Krejci,2019-05-07,,,,,3,2552
-🧇,1F9C7,food-drink,food-prepared,waffle,"indecisive, iron",,Yasmin Abdullahi,2019-05-07,,,,,12,2553
+🥯,1F96F,food-drink,food-prepared,bagel,"bakery, breakfast, schmear",,Ricarda Krejci,2019-05-07,,,,,11,2551
+🥞,1F95E,food-drink,food-prepared,pancakes,"breakfast, crêpe, food, hotcake, pancake",,Ricarda Krejci,2019-05-07,,,,,3,2552
+🧇,1F9C7,food-drink,food-prepared,waffle,"breakfast, indecisive, iron",,Yasmin Abdullahi,2019-05-07,,,,,12,2553
 🧀,1F9C0,food-drink,food-prepared,cheese wedge,cheese,,Miriam Vollmeier,2018-04-18,,,,,1,2554
 🍖,1F356,food-drink,food-prepared,meat on bone,"bone, meat",,Miriam Vollmeier,2018-04-18,,,,,1,2555
 🍗,1F357,food-drink,food-prepared,poultry leg,"bone, chicken, drumstick, leg, poultry",,Miriam Vollmeier,2018-04-18,,,,,1,2556
 🥩,1F969,food-drink,food-prepared,cut of meat,"chop, lambchop, porkchop, steak",,Miriam Vollmeier,2018-04-18,,,,,5,2557
-🥓,1F953,food-drink,food-prepared,bacon,"food, meat",,Miriam Vollmeier,2018-04-18,,,,,3,2558
+🥓,1F953,food-drink,food-prepared,bacon,"breakfast, food, meat",,Miriam Vollmeier,2018-04-18,,,,,3,2558
 🍔,1F354,food-drink,food-prepared,hamburger,burger,,Miriam Vollmeier,2018-04-18,,,,,1,2559
 🍟,1F35F,food-drink,food-prepared,french fries,"french, fries",,Miriam Vollmeier,2018-04-18,,,,,1,2560
 🍕,1F355,food-drink,food-prepared,pizza,"cheese, slice",,Miriam Vollmeier,2018-04-18,,,,,1,2561
@@ -1942,8 +1942,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🌯,1F32F,food-drink,food-prepared,burrito,"mexican, wrap",,Miriam Vollmeier,2018-04-18,,,,,1,2565
 🥙,1F959,food-drink,food-prepared,stuffed flatbread,"falafel, flatbread, food, gyro, kebab, stuffed",,Ricarda Krejci,2019-05-07,,,,,3,2566
 🧆,1F9C6,food-drink,food-prepared,falafel,"chickpea, meatball",,Yasmin Abdullahi,2019-05-07,,,,,12,2567
-🥚,1F95A,food-drink,food-prepared,egg,food,,Miriam Vollmeier,2018-04-18,,,,,3,2568
-🍳,1F373,food-drink,food-prepared,cooking,"egg, frying, pan",,Miriam Vollmeier,2018-04-18,,,,,1,2569
+🥚,1F95A,food-drink,food-prepared,egg,"breakfast, food",,Miriam Vollmeier,2018-04-18,,,,,3,2568
+🍳,1F373,food-drink,food-prepared,cooking,"breakfast, egg, frying, pan",,Miriam Vollmeier,2018-04-18,,,,,1,2569
 🥘,1F958,food-drink,food-prepared,shallow pan of food,"casserole, food, paella, pan, shallow",,Ricarda Krejci,2019-05-07,,,,,3,2570
 🍲,1F372,food-drink,food-prepared,pot of food,"pot, stew",,Miriam Vollmeier,2018-04-18,,,,,1,2571
 🥣,1F963,food-drink,food-prepared,bowl with spoon,"breakfast, cereal, congee",,Guemil Project,2019-01-14,,,,,5,2572
@@ -1977,7 +1977,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🍦,1F366,food-drink,food-sweet,soft ice cream,"cream, dessert, ice, icecream, soft, sweet",,Miriam Vollmeier,2018-04-18,,,,,1,2600
 🍧,1F367,food-drink,food-sweet,shaved ice,"dessert, ice, shaved, sweet",,Miriam Vollmeier,2018-04-18,,,,,1,2601
 🍨,1F368,food-drink,food-sweet,ice cream,"cream, dessert, ice, sweet",,Miriam Vollmeier,2018-04-18,,,,,1,2602
-🍩,1F369,food-drink,food-sweet,doughnut,"dessert, donut, sweet",,Miriam Vollmeier,2018-04-18,,,,,1,2603
+🍩,1F369,food-drink,food-sweet,doughnut,"breakfast, dessert, donut, sweet",,Miriam Vollmeier,2018-04-18,,,,,1,2603
 🍪,1F36A,food-drink,food-sweet,cookie,"dessert, sweet",,Miriam Vollmeier,2018-04-18,,,,,1,2604
 🎂,1F382,food-drink,food-sweet,birthday cake,"birthday, cake, celebration, dessert, pastry, sweet",,Miriam Vollmeier,2018-04-18,,,,,1,2605
 🍰,1F370,food-drink,food-sweet,shortcake,"cake, dessert, pastry, slice, sweet",,Miriam Vollmeier,2018-04-18,,,,,1,2606
@@ -2002,7 +2002,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥂,1F942,food-drink,drink,clinking glasses,"celebrate, clink, drink, glass","party, secco,",Laura Humpfer,2018-04-18,,,,,3,2625
 🥃,1F943,food-drink,drink,tumbler glass,"glass, liquor, shot, tumbler, whisky","alcohol, classic",Laura Humpfer,2018-04-18,,,,,3,2626
 🥤,1F964,food-drink,drink,cup with straw,"juice, soda","beverage, fastfood",Laura Humpfer,2018-04-18,,,,,5,2627
-🧃,1F9C3,food-drink,drink,beverage box,juice box,,Evelyn Soos,2019-05-04,,,,,12,2628
+🧃,1F9C3,food-drink,drink,beverage box,"beverage, box, juice, straw, sweet",,Evelyn Soos,2019-05-04,,,,,12,2628
 🧉,1F9C9,food-drink,drink,mate,drink,,Evelyn Soos,2019-05-04,,,,,12,2629
 🧊,1F9CA,food-drink,drink,ice,"cold, ice cube, iceberg",,Evelyn Soos,2019-05-04,,,,,12,2630
 🥢,1F962,food-drink,dishware,chopsticks,hashi,"sticks, eat, chopstick",Jonas Roßner,2018-04-18,,,,,5,2631
@@ -2376,7 +2376,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📠,1F4E0,objects,phone,fax machine,fax,"office, paper, communication",Martin Wehl,2018-04-18,,,,,1,3067
 🔋,1F50B,objects,computer,battery,battery,"electricity, energy, electric",Jonas Roßner,2018-04-18,,,,,1,3068
 🔌,1F50C,objects,computer,electric plug,"electric, electricity, plug",,Jonas Roßner,2018-04-18,,,,,1,3069
-💻️,1F4BB,objects,computer,laptop computer,"computer, pc, personal","old, retro",Jonas Roßner,2018-04-18,,,,,1,3070
+💻️,1F4BB,objects,computer,laptop,"computer, pc, personal","old, retro",Jonas Roßner,2018-04-18,,,,,1,3070
 🖥️,1F5A5,objects,computer,desktop computer,"computer, desktop","electric, screen",Jonas Roßner,2018-04-18,,,,,1,3072
 🖨️,1F5A8,objects,computer,printer,computer,"color, electric",Jonas Roßner,2018-04-18,,,,,1,3074
 ⌨️,2328,objects,computer,keyboard,computer,"key, write, electric",Jonas Roßner,2018-04-18,,,,,1,3076
@@ -2755,7 +2755,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🎌,1F38C,flags,flag,crossed flags,"celebration, cross, crossed, japanese",,Laura Dworatschek,2019-05-06,,,,,1,3568
 🏴,1F3F4,flags,flag,black flag,waving,,Aileen Gedrat,2018-11-16,,,,,1,3569
 🏳️,1F3F3,flags,flag,white flag,waving,white,Aileen Gedrat,2018-11-16,,,,,1,3571
-🏳️‍🌈,1F3F3-FE0F-200D-1F308,flags,flag,rainbow flag,rainbow,color,Romain Bazile,2019-09-11,,,,,4,3572
+🏳️‍🌈,1F3F3-FE0F-200D-1F308,flags,flag,rainbow flag,"pride, rainbow",color,Romain Bazile,2019-09-11,,,,,4,3572
 🏴‍☠️,1F3F4-200D-2620-FE0F,flags,flag,pirate flag,"jolly roger, pirate, plunder, treasure",,Aileen Gedrat,2018-11-16,,,,,11,3574
 🇦🇨,1F1E6-1F1E8,flags,country-flag,flag: Ascension Island,"AC, flag",,Aileen Gedrat,2019-02-13,,,,,1,3576
 🇦🇩,1F1E6-1F1E9,flags,country-flag,flag: Andorra,"AD, flag",,Ferdinand Sorg,2019-02-13,,,,,1,3577
