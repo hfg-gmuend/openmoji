@@ -26,4 +26,3 @@ colorEmojiPaths.forEach(f => {
     path.join(folderOut, path.basename(f))
   );
 });
-console.log('✅', colorEmojiPaths.length);

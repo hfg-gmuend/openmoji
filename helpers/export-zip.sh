@@ -2,7 +2,6 @@
 SCRIPTPATH="$( cd "$(dirname "$0")" ; pwd -P )"
 
 create_zip () {
-   echo "Parameter #1 is $1"
    cd "$SCRIPTPATH"
    cd $1
    zip -r $2 . -x ".*" -x "__MACOSX"

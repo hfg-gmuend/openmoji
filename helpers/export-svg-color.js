@@ -29,5 +29,3 @@ emojis.forEach(e => {
     path.join(folderOut, e.hexcode + '.svg')
   );
 });
-
-console.log('✅', emojis.length);

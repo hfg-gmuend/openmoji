@@ -94,5 +94,3 @@ emojis.forEach(e => {
     );
   }
 });
-
-console.log('✅', emojis.length);
