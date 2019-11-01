@@ -5,6 +5,9 @@
 --------------------------------------------------------------------------------
 👉 OpenMoji 12.X - XXX
 
+* Improved "red hair" color of 1F9B0, 1F468-200D-1F9B0, 1F469-200D-1F9B0
+  to better distinct from other hair colors.
+
 * Fix 1F237 Japanese "monthly amount" added missing horizontal stroke
 
 * Improved 1F004 to better resemble a Mahjong Red Dragon tile by @sourgift
