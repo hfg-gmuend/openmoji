@@ -1,33 +1,27 @@
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" style="enable-background:new 0 0 72 72" xml:space="preserve">
-  <style type="text/css">
-    .st1{fill:none;stroke:#00A5FF;stroke-width:0.1;stroke-miterlimit:10}.st6{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
-  </style>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="grid">
-    <path d="M68,4v64H4V4H68 M72,0H0v72h72V0z" style="fill:#B3B3B3"/>
-    <path class="st1" d="M12.9,11h46.2c1.1,0,1.9,0.9,1.9,1.9v0V59c0,1.1-0.9,1.9-1.9,1.9H12.9C11.9,61,11,60.1,11,59l0,0V12.9 C11,11.8,11.9,11,12.9,11L12.9,11z"/>
-    <path class="st1" d="M18.3,4h35.5C55,4,56,5,56,6.3v59.5c0,1.2-1,2.3-2.3,2.3H18.3C17,68,16,67,16,65.7V6.3C16,5,17,4,18.3,4z"/>
-    <path class="st1" d="M68,18.3v35.5c0,1.2-1,2.3-2.3,2.3H6.3C5,56,4,55,4,53.7V18.3C4,17,5,16,6.3,16h59.5C67,16,68,17,68,18.3z"/>
-    <circle class="st1" cx="36" cy="36" r="29"/>
+    <path d="M68,4V68H4V4H68m4-4H0V72H72Z" fill="#b3b3b3"/>
+    <path d="M12.9,11H59.1A1.8987,1.8987,0,0,1,61,12.9h0V59a1.8987,1.8987,0,0,1-1.9,1.9H12.9A1.8371,1.8371,0,0,1,11,59h0V12.9A1.8987,1.8987,0,0,1,12.9,11Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path d="M18.3,4H53.8A2.2425,2.2425,0,0,1,56,6.3V65.8a2.3261,2.3261,0,0,1-2.3,2.3H18.3A2.4139,2.4139,0,0,1,16,65.7V6.3A2.263,2.263,0,0,1,18.3,4Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path d="M68,18.3V53.8a2.3261,2.3261,0,0,1-2.3,2.3H6.3A2.4139,2.4139,0,0,1,4,53.7V18.3A2.263,2.263,0,0,1,6.3,16H65.8A2.2425,2.2425,0,0,1,68,18.3Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="line-supplement">
-    <polyline points="33.2,33.2 48,24 38.8,38.8"/>
+    <polyline points="33.2 33.2 48 24 38.8 38.8"/>
   </g>
   <g id="color">
-    <circle cx="36" cy="36" r="24" style="fill:#FCEA2B"/>
-    <path d="M53,19c4.3,4.3,7,10.3,7,17c0,13.3-10.7,24-24,24c-6.6,0-12.6-2.7-17-7" style="fill:#F1B31C"/>
-    <polyline points="33.2,33.2 24,48 38.8,38.8" style="fill:#FFFFFF"/>
-    <polyline points="33.2,33.2 48,24 38.8,38.8" style="fill:#EA5A47"/>
+    <circle cx="36" cy="36" r="24" fill="#fcea2b"/>
+    <path d="M53,19A24.0417,24.0417,0,0,1,36,60a24.302,24.302,0,0,1-17-7" fill="#f1b31c"/>
+    <polyline points="33.2 33.2 24 48 38.8 38.8" fill="#fff"/>
+    <polyline points="33.2 33.2 48 24 38.8 38.8" fill="#ea5a47"/>
   </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
   <g id="line">
-    <circle class="st6" cx="36" cy="36" r="24"/>
-    <polyline class="st6" points="33.2,33.2 24,48 38.8,38.8"/>
-    <polyline class="st6" points="33.2,33.2 48,24 38.8,38.8"/>
-    <line class="st6" x1="36" y1="21" x2="36" y2="16"/>
-    <line class="st6" x1="36" y1="56" x2="36" y2="51"/>
-    <line class="st6" x1="51" y1="36" x2="56" y2="36"/>
-    <line class="st6" x1="16" y1="36" x2="21" y2="36"/>
+    <circle cx="36" cy="36" r="24" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="33.2 33.2 24 48 38.8 38.8" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="33.2 33.2 48 24 38.8 38.8" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="36" y1="21" x2="36" y2="16" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="36" y1="56" x2="36" y2="51" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="51" y1="36" x2="56" y2="36" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="16" y1="36" x2="21" y2="36" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>
