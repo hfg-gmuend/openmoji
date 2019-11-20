@@ -71,7 +71,7 @@ describe('OpenMoji file format', function() {
     });
   });
 
-  describe('Elements should not have duplicate attributes', function () {
+  describe('All elements have only unique attributes?', function () {
     emojis.forEach(emoji => {
       it(`${emoji.emoji} ${emoji.hexcode}.svg elements should not have duplicate attributes`, function () {
         const doc = readSVG(emoji);
