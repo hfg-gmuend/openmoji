@@ -13,7 +13,6 @@
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-  <g stroke-miterlimit="10">
    <circle cx="36" cy="36" r="23" fill="none" stroke="#000" stroke-width="2"/>
    <path d="m29.94 46.66c8.505 0.7027 16.67 0.4269 16.98-4.128" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" stroke="#000"/>
    <path d="m41.93 26.77c0.4667-0.25 2.52-1.1 5.042-0.5743 2.118 0.3921 2.421 0.8283 3.73 1.725" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" stroke="#000"/>
