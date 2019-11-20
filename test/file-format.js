@@ -71,31 +71,18 @@ describe('OpenMoji file format', function() {
     });
   });
 
-  describe('Top level <g> elements have IDs?', function () {
-      emojis.forEach(emoji => {
-          it(`${emoji.emoji} ${emoji.hexcode}.svg top level <g> should have IDs`, function () {
-              const doc = createDoc(emoji);
-              const groups = doc.querySelectorAll('svg > g');
-              const idGroups = doc.querySelectorAll('svg > g[id]');
-              expect(groups.length).to.equal(idGroups.length);
-          });
-      });
-  });
-
   describe('Elements should not have duplicate attributes', function () {
-      emojis.forEach(emoji => {
-          it(`${emoji.emoji} ${emoji.hexcode}.svg elements should not have duplicate attributes`, function () {
-              const doc = readSVG(emoji);
-              let elements = doc.match(/<\w.*>/g);
-
-              elements.forEach(element => {
-                  const attrs = element.match(/((\w|-)+)=/g);
-                  const dedupeAttrs = new Set(attrs);
-                  if (attrs) expect(attrs.length).to.equal(dedupeAttrs.size);
-              });
-          });
+    emojis.forEach(emoji => {
+      it(`${emoji.emoji} ${emoji.hexcode}.svg elements should not have duplicate attributes`, function () {
+        const doc = readSVG(emoji);
+        const elements = doc.match(/<\w.*>/g);
+        elements.forEach(element => {
+          const attrs = element.match(/((\w|-)+)=/g);
+          const dedupeAttrs = new Set(attrs);
+          if (attrs) expect(attrs.length).to.equal(dedupeAttrs.size);
+        });
       });
+    });
   });
-
 
 });
