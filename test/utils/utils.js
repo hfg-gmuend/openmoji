@@ -12,9 +12,16 @@ function createDoc(emoji) {
   return dom.window.document;
 }
 
+function readSVG(emoji) {
+    const svgFile = path.join(openmojiSrcFolder, emoji.group, emoji.subgroups, emoji.hexcode + '.svg');
+    var str = fs.readFileSync(svgFile, "utf8");
+    return str;
+}
+
 function getSrcFilepath(emoji) {
   return path.join(openmojiSrcFolder, emoji.group, emoji.subgroups, emoji.hexcode + '.svg');
 }
 
-module.exports.getSrcFilepath = getSrcFilepath;
 module.exports.createDoc = createDoc;
+module.exports.readSVG = readSVG;
+module.exports.getSrcFilepath = getSrcFilepath;
