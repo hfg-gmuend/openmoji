@@ -17,6 +17,15 @@ describe('OpenMoji file format', function() {
         const doc = readSVG(emoji);
         expect( isValidXML(doc) ).to.be.true;
       });
+      it(`${emoji.emoji} ${emoji.hexcode}.svg elements should not have duplicate attributes`, function () {
+        const doc = readSVG(emoji);
+        const elements = doc.match(/<\w.*>/g);
+        elements.forEach(element => {
+          const attrs = element.match(/((\w|-)+)=/g);
+          const dedupeAttrs = new Set(attrs);
+          if (attrs) expect(attrs.length).to.equal(dedupeAttrs.size);
+        });
+      });
     });
   });
 
@@ -76,20 +85,6 @@ describe('OpenMoji file format', function() {
         const notLayers = doc.querySelectorAll('svg > :not(g)');
         expect( layers.length ).to.be.at.least(3);
         expect( notLayers.length ).to.equal(0);
-      });
-    });
-  });
-
-  describe('All elements have unique attributes only?', function () {
-    emojis.forEach(emoji => {
-      it(`${emoji.emoji} ${emoji.hexcode}.svg elements should not have duplicate attributes`, function () {
-        const doc = readSVG(emoji);
-        const elements = doc.match(/<\w.*>/g);
-        elements.forEach(element => {
-          const attrs = element.match(/((\w|-)+)=/g);
-          const dedupeAttrs = new Set(attrs);
-          if (attrs) expect(attrs.length).to.equal(dedupeAttrs.size);
-        });
       });
     });
   });
