@@ -5,6 +5,8 @@
 --------------------------------------------------------------------------------
 👉 OpenMoji 12.X - XXX
 
+* Fix smirking and unamused face by Carlin MacKenzie @carlinmack
+
 * Fix face and expression of 1F62C grimacing face
 
 * Improved wings of 1F47C baby angel
