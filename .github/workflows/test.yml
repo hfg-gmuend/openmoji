@@ -1,4 +1,4 @@
-name: Run "npm test" on every push and pull requests
+name: npm test
 
 on: [push, pull_request]
 
