@@ -5,11 +5,29 @@ const argv = require('optimist').demand('openmoji-data-json').argv;
 const openmojiDataJson = argv['openmoji-data-json'];
 const openmojis = require(openmojiDataJson);
 
-const { createDoc } = require('./utils/utils');
+const { createDoc, readSVG, isValidXML } = require('./utils/utils');
 
 
 describe('OpenMoji file format', function() {
   const emojis = filter(openmojis, (e) => { return e.skintone == '' });
+
+  describe('SVG is valid XML syntax?', function () {
+    emojis.forEach(emoji => {
+      it(`${emoji.emoji} ${emoji.hexcode}.svg should be valid XML syntax`, function () {
+        const doc = readSVG(emoji);
+        expect( isValidXML(doc) ).to.be.true;
+      });
+      it(`${emoji.emoji} ${emoji.hexcode}.svg elements should not have duplicate attributes`, function () {
+        const doc = readSVG(emoji);
+        const elements = doc.match(/<\w.*>/g);
+        elements.forEach(element => {
+          const attrs = element.match(/((\w|-)+)=/g);
+          const dedupeAttrs = new Set(attrs);
+          if (attrs) expect(attrs.length).to.equal(dedupeAttrs.size);
+        });
+      });
+    });
+  });
 
   describe('SVG element viewBox (canvas) size is correct?', function() {
     emojis.forEach(emoji => {
