@@ -1,6 +1,7 @@
 full: true
 plugins:
   - cleanupAttrs
+  - convertStyleToAttrs
   - inlineStyles
   - cleanupNumericValues:
       floatPrecision: 4
