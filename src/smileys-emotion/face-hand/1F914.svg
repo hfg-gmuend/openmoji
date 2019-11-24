@@ -9,27 +9,29 @@
   <g id="color">
     <g>
       <g>
-        <defs>
-          <polygon id="SVGID_1_" points="0,2 1,2 0,3"/>
-        </defs>
-        <clipPath id="SVGID_2_">
-          <use xlink:href="#SVGID_1_" overflow="visible"/>
-        </clipPath>
-      </g>
-      <g>
-        <defs>
-          <polygon id="SVGID_3_" points="0,2 1,2 0,3"/>
-        </defs>
-        <defs>
-          <polygon id="SVGID_4_" points="-2,0 -3,0 -2,-1"/>
-        </defs>
-        <clipPath id="SVGID_5_">
-          <use xlink:href="#SVGID_3_" overflow="visible"/>
-        </clipPath>
-        <clipPath id="SVGID_6_" clip-path="url(#SVGID_5_)">
-          <use xlink:href="#SVGID_4_" overflow="visible"/>
-        </clipPath>
-        <rect x="8.75" y="2.4201" clip-path="url(#SVGID_6_)" fill="#FCEA2B" width="55.25" height="56"/>
+        <g>
+          <defs>
+            <polygon id="SVGID_1_" points="0,2 1,2 0,3"/>
+          </defs>
+          <clipPath id="SVGID_2_">
+            <use xlink:href="#SVGID_1_" overflow="visible"/>
+          </clipPath>
+        </g>
+        <g>
+          <defs>
+            <polygon id="SVGID_3_" points="0,2 1,2 0,3"/>
+          </defs>
+          <defs>
+            <polygon id="SVGID_4_" points="-2,0 -3,0 -2,-1"/>
+          </defs>
+          <clipPath id="SVGID_5_">
+            <use xlink:href="#SVGID_3_" overflow="visible"/>
+          </clipPath>
+          <clipPath id="SVGID_6_" clip-path="url(#SVGID_5_)">
+            <use xlink:href="#SVGID_4_" overflow="visible"/>
+          </clipPath>
+          <rect x="8.75" y="2.4201" clip-path="url(#SVGID_6_)" fill="#FCEA2B" width="55.25" height="56"/>
+        </g>
       </g>
     </g>
     <circle fill="#FCEA2B" cx="36" cy="30.4201" r="24"/>
@@ -44,8 +46,8 @@
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M22.3595,16.7775c1.2836-0.8899,2.8496-1.2724,4.3983-1.0733c1.5696,0.0357,3.0678,0.6574,4.204,1.7396"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M51.1306,20.7918c-2.7613-0.6555-5.3671-0.7511-8.242-0.2607"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M42.0164,52.6252C51.8008,49.9804,59,41.0407,59,30.4201c0-12.7031-10.2978-23-23-23c-12.7031,0-23,10.2969-23,23 c0,4.8349,1.4919,9.3215,4.0404,13.0244"/>
-    <ellipse cx="45.0989" cy="28.0714" rx="2.8744" ry="2.8744"/>
-    <ellipse cx="28.1612" cy="24.8067" rx="2.8744" ry="2.8744"/>
+    <path d="M31,25c0,1.6568-1.3448,3-3,3c-1.6553,0-3-1.3433-3-3c0-1.6552,1.3447-3,3-3C29.6552,22,31,23.3448,31,25"/>
+    <path d="M48,28c0,1.6568-1.3447,3-3,3s-3-1.3433-3-3c0-1.6552,1.3447-3,3-3S48,26.3448,48,28"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M35.4853,63.797l-9.0851,2.7606c-4.4471,1.3513-8.5667-1.2969-9.9177-5.7429c-1.2991-4.2753,0.5611-7.7594,0.5611-7.7594"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M30.9385,48.8333l-6.9474,2.111c0,0,0,0,0.818-10.7562c0.0947-1.2453-2.1081-1.5776-2.8345,0.2775 c-4.9309,12.5898-4.9309,12.5898-4.9309,12.5898"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M35.0824,51.1807l4.9606-1.5073c2.105-0.6396,3.6015-1.9058,3.3256-2.8138s-2.2239-1.1275-4.3288-0.4879l-13.6938,4.161"/>

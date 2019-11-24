@@ -15,8 +15,6 @@
   <g id="skin-shadow"/>
   <g id="line">
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M51.5228,52.9718C56.1181,48.7665,59,42.7197,59,36c0-12.7031-10.2978-23-23-23c-12.7031,0-23,10.2969-23,23 c0,7.3214,3.4208,13.8439,8.7516,18.0562"/>
-    <circle cx="44.4017" cy="27.7213" r="2.5556"/>
-    <circle cx="27.1517" cy="27.7213" r="2.5556"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M33.9529,41.7334c-1.43-0.22-2.79-0.73-4-1.52"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M42.0529,40.2134c-1.37,0.73-2.81,1.23-4.24,1.47"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M21.3591,23.8114c0.6909-1.3284,1.8481-2.3526,3.2505-2.876c1.3471-0.6713,2.8956-0.8135,4.3429-0.4035"/>
@@ -34,5 +32,7 @@
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M37.8114,38.7969c0.0005-1.0644-0.862-1.9276-1.9264-1.9281s-1.9276,0.862-1.9281,1.9264"/>
     <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="33.9531" y1="47.5102" x2="33.957" y2="38.7952"/>
     <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="37.8114" y1="38.7969" x2="37.8075" y2="47.6901"/>
+    <path d="M30,28c0,1.6568-1.3448,3-3,3c-1.6553,0-3-1.3433-3-3c0-1.6552,1.3447-3,3-3C28.6552,25,30,26.3448,30,28"/>
+    <path d="M48,28c0,1.6568-1.3447,3-3,3s-3-1.3433-3-3c0-1.6552,1.3447-3,3-3S48,26.3448,48,28"/>
   </g>
 </svg>
