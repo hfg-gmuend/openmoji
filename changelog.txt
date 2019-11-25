@@ -7,6 +7,8 @@
 
 * Fix melon colours by Carlin MacKenzie @carlinmack
 
+* Redesign dumpling emoji by Carlin Mackenzie @carlinmack
+
 * Fix smirking and unamused face by Carlin MacKenzie @carlinmack
 
 * Fix face and expression of 1F62C grimacing face
