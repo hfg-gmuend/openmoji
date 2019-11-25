@@ -5,6 +5,8 @@
 --------------------------------------------------------------------------------
 👉 OpenMoji 12.X - XXX
 
+* Removed shadows from all hearts in smileys-emotion/emotion/
+
 * Fix melon colours by Carlin MacKenzie @carlinmack
 
 * Redesign dumpling emoji by Carlin Mackenzie @carlinmack
