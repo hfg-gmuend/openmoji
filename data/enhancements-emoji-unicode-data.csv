@@ -119,8 +119,8 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 ⬅️,2B05,"left, past",Guemil Project,2019-01-14
 ⬆️,2B06,"up, above",Guemil Project,2019-01-14
 ⬇️,2B07,"down, underneath",Guemil Project,2019-01-14
-↩️,21A9,"directions, turn arround",Jose Avila,2018-04-18
-↪️,21AA,"directions, turn arround",Jose Avila,2018-04-18
+↩️,21A9,"directions, turn around",Jose Avila,2018-04-18
+↪️,21AA,"directions, turn around",Jose Avila,2018-04-18
 🔀,1F500,random,Jose Avila,2018-04-18
 🔁,1F501,cycle,Jose Avila,2018-04-18
 🔂,1F502,,Jose Avila,2018-04-18
@@ -366,7 +366,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🤐,1F910,,Emily Jäger,2018-04-18
 🤔,1F914,"hand, overthinking",Emily Jäger,2018-04-18
 🤑,1F911,"tongue, dollar",Emily Jäger,2018-04-18
-🤤,1F924,"hungry, yummi",Emily Jäger,2018-04-18
+🤤,1F924,"hungry, yummy",Emily Jäger,2018-04-18
 🤨,1F928,suspiciously,Emily Jäger,2018-04-18
 😀,1F600,"smile, happy",Emily Jäger,2018-04-18
 😁,1F601,"happy, teeth, mouth",Emily Jäger,2018-04-18
@@ -376,7 +376,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 😆,1F606,,Emily Jäger,2018-04-18
 😉,1F609,eye,Emily Jäger,2018-04-18
 😊,1F60A,satisfied,Emily Jäger,2018-04-18
-😋,1F60B,"yummi, tongue",Emily Jäger,2018-04-18
+😋,1F60B,"yummy, tongue",Emily Jäger,2018-04-18
 😍,1F60D,"hearts, happy",Emily Jäger,2018-04-18
 😎,1F60E,,Emily Jäger,2018-04-18
 😘,1F618,"love, happy",Emily Jäger,2018-04-18
@@ -388,7 +388,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 😗,1F617,,Emily Jäger,2018-04-18
 😙,1F619,,Emily Jäger,2018-04-18
 🤗,1F917,hands,Emily Jäger,2018-04-18
-🤩,1F929,suprised,Emily Jäger,2018-04-18
+🤩,1F929,surprised,Emily Jäger,2018-04-18
 😇,1F607,,Emily Jäger,2018-04-18
 🤓,1F913,"glasses, learning",Emily Jäger,2018-04-18
 🤠,1F920,howdy,Emily Jäger,2018-04-18
@@ -519,7 +519,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🔐,1F510,,Lisa Schulz,2018-04-18
 🗝️,1F5DD,,Lisa Schulz,2018-04-18
 ✉️,2709,"post, message",Marius Schnabel,2018-04-18
-📧,1F4E7,"message, eletronic",Marius Schnabel,2018-04-18
+📧,1F4E7,"message, electronic",Marius Schnabel,2018-04-18
 📦️,1F4E6,"shipping, post",Marius Schnabel,2018-04-18
 📤️,1F4E4,post,Marius Schnabel,2018-04-18
 📥️,1F4E5,post,Marius Schnabel,2018-04-18
