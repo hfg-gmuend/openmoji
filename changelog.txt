@@ -5,7 +5,11 @@
 --------------------------------------------------------------------------------
 👉 OpenMoji 12.X - XXX
 
-* Removed shadows from all hearts in smileys-emotion/emotion/
+* Removed shadows from spade, heart, diamond and club suit (2660, 2663, 2665, 2666)
+
+* Removed shadows from all hearts in smileys-emotion/emotion/ (2764, 2763, 1F499, 
+  1F498, 1F497, 1F496, 1F495, 1F494, 1F493, 1F90E, 1F90D, 1F49F, 1F49E, 1F49D, 1F49C, 
+  1F49B, 1F49A, 1F48C, 1F9E1, 1F5A4)
 
 * Fix melon colours by Carlin MacKenzie @carlinmack
 
