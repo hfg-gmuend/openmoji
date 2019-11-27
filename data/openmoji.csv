@@ -14,13 +14,13 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😇,1F607,smileys-emotion,face-smiling,smiling face with halo,"angel, face, fantasy, halo, innocent",,Emily Jäger,2018-04-18,,,,,1,13
 🥰,1F970,smileys-emotion,face-affection,smiling face with hearts,"adore, crush, hearts, in love",,Antonia Wagner,2019-05-03,,,,,11,14
 😍,1F60D,smileys-emotion,face-affection,smiling face with heart-eyes,"eye, face, love, smile","hearts, happy",Emily Jäger,2018-04-18,,,,,1,15
-🤩,1F929,smileys-emotion,face-affection,star-struck,"eyes, face, grinning, star",suprised,Emily Jäger,2018-04-18,,,,,5,16
+🤩,1F929,smileys-emotion,face-affection,star-struck,"eyes, face, grinning, star",surprised,Emily Jäger,2018-04-18,,,,,5,16
 😘,1F618,smileys-emotion,face-affection,face blowing a kiss,"face, kiss","love, happy",Emily Jäger,2018-04-18,,,,,1,17
 😗,1F617,smileys-emotion,face-affection,kissing face,"face, kiss",,Emily Jäger,2018-04-18,,,,,1,18
 ☺️,263A,smileys-emotion,face-affection,smiling face,"face, outlined, relaxed, smile",satisfied,Emily Jäger,2018-04-18,,,,,1,20
 😚,1F61A,smileys-emotion,face-affection,kissing face with closed eyes,"closed, eye, face, kiss","love, happy",Emily Jäger,2018-04-18,,,,,1,21
 😙,1F619,smileys-emotion,face-affection,kissing face with smiling eyes,"eye, face, kiss, smile",,Emily Jäger,2018-04-18,,,,,1,22
-😋,1F60B,smileys-emotion,face-tongue,face savoring food,"delicious, face, savouring, smile, yum","yummi, tongue",Emily Jäger,2018-04-18,,,,,1,23
+😋,1F60B,smileys-emotion,face-tongue,face savoring food,"delicious, face, savouring, smile, yum","yummy, tongue",Emily Jäger,2018-04-18,,,,,1,23
 😛,1F61B,smileys-emotion,face-tongue,face with tongue,"face, tongue",,Mariella Steeb,2018-04-18,,,,,1,24
 😜,1F61C,smileys-emotion,face-tongue,winking face with tongue,"eye, face, joke, tongue, wink",,Mariella Steeb,2018-04-18,,,,,1,25
 🤪,1F92A,smileys-emotion,face-tongue,zany face,"eye, goofy, large, small",,Mariella Steeb,2018-04-18,,,,,5,26
@@ -43,7 +43,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😌,1F60C,smileys-emotion,face-sleepy,relieved face,"face, relieved",,Mariella Steeb,2018-04-18,,,,,1,43
 😔,1F614,smileys-emotion,face-sleepy,pensive face,"dejected, face, pensive",,Mariella Steeb,2018-04-18,,,,,1,44
 😪,1F62A,smileys-emotion,face-sleepy,sleepy face,"face, sleep","snot bubble, side-tear",Mariella Steeb,2018-04-18,,,,,1,45
-🤤,1F924,smileys-emotion,face-sleepy,drooling face,"drooling, face","hungry, yummi",Emily Jäger,2018-04-18,,,,,3,46
+🤤,1F924,smileys-emotion,face-sleepy,drooling face,"drooling, face","hungry, yummy",Emily Jäger,2018-04-18,,,,,3,46
 😴,1F634,smileys-emotion,face-sleepy,sleeping face,"face, sleep, zzz",tired,Emily Jäger,2018-04-18,,,,,1,47
 😷,1F637,smileys-emotion,face-unwell,face with medical mask,"cold, doctor, face, mask, sick",ill,Emily Jäger,2018-04-18,,,,,1,48
 🤒,1F912,smileys-emotion,face-unwell,face with thermometer,"face, ill, sick, thermometer",fever,Emily Jäger,2018-04-18,,,,,1,49
@@ -2432,7 +2432,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💱,1F4B1,objects,money,currency exchange,"bank, currency, exchange, money",,Marleen Heine,2018-11-16,,,,,1,3133
 💲,1F4B2,objects,money,heavy dollar sign,"currency, dollar, money",,Marleen Heine,2018-11-16,,,,,1,3134
 ✉️,2709,objects,mail,envelope,"email, letter","post, message",Marius Schnabel,2018-04-18,,,,,1,3136
-📧,1F4E7,objects,mail,e-mail,"email, letter, mail","message, eletronic",Marius Schnabel,2018-04-18,,,,,1,3137
+📧,1F4E7,objects,mail,e-mail,"email, letter, mail","message, electronic",Marius Schnabel,2018-04-18,,,,,1,3137
 📨,1F4E8,objects,mail,incoming envelope,"e-mail, email, envelope, incoming, letter, receive",,Marleen Heine,2018-11-16,,,,,1,3138
 📩,1F4E9,objects,mail,envelope with arrow,"arrow, e-mail, email, envelope, outgoing",post,Marius Schnabel,2018-04-18,,,,,1,3139
 📤️,1F4E4,objects,mail,outbox tray,"box, letter, mail, outbox, sent, tray",post,Marius Schnabel,2018-04-18,,,,,1,3140
@@ -2569,8 +2569,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ↖️,2196,symbols,arrow,up-left arrow,"arrow, direction, intercardinal, northwest","diagonal, left up",Guemil Project,2019-01-14,,,,,1,3313
 ↕️,2195,symbols,arrow,up-down arrow,arrow,"directions, opposite, up and down",Jose Avila,2018-04-18,,,,,1,3315
 ↔️,2194,symbols,arrow,left-right arrow,arrow,"directions, opposite, left and right",Jose Avila,2018-04-18,,,,,1,3317
-↩️,21A9,symbols,arrow,right arrow curving left,arrow,"directions, turn arround",Jose Avila,2018-04-18,,,,,1,3319
-↪️,21AA,symbols,arrow,left arrow curving right,arrow,"directions, turn arround",Jose Avila,2018-04-18,,,,,1,3321
+↩️,21A9,symbols,arrow,right arrow curving left,arrow,"directions, turn around",Jose Avila,2018-04-18,,,,,1,3319
+↪️,21AA,symbols,arrow,left arrow curving right,arrow,"directions, turn around",Jose Avila,2018-04-18,,,,,1,3321
 ⤴️,2934,symbols,arrow,right arrow curving up,arrow,"direction, curve up",Jose Avila,2018-04-18,,,,,1,3323
 ⤵️,2935,symbols,arrow,right arrow curving down,"arrow, down","direction, curve down",Jose Avila,2018-04-18,,,,,1,3325
 🔃,1F503,symbols,arrow,clockwise vertical arrows,"arrow, clockwise, reload",,Vincent Seitz,2018-11-16,,,,,1,3326
@@ -3102,9 +3102,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E183,extras-openmoji,people,trump,,"trump, donald, president, america, usa",Sina Schulz,2018-04-18,,,,,,
 ,E1C0,extras-openmoji,technology,wireframes,,,Baris Camli,2018-04-18,,,,,,
 ,E1C1,extras-openmoji,technology,code editor,,,Baris Camli,2018-04-18,,,,,,
-,E1C2,extras-openmoji,technology,autonom car,,,Baris Camli,2018-04-18,,,,,,
+,E1C2,extras-openmoji,technology,autonomous car,,,Baris Camli,2018-04-18,,,,,,
 ,E1C3,extras-openmoji,technology,switch,,"toggling, changeover switch, exchange counter, left, right",Kai Wanschura,2018-04-18,,,,,,
-,E1C4,extras-openmoji,technology,surveilance,,"surveilance, camera, CCTV",Kai Magnus Müller,2018-04-18,,,,,,
+,E1C4,extras-openmoji,technology,surveillance,,"surveillance, camera, CCTV",Kai Magnus Müller,2018-04-18,,,,,,
 ,E1C5,extras-openmoji,technology,mouse,,,Baris Camli,2018-04-18,,,,,,
 ,E1C6,extras-openmoji,technology,augmented reality,,,Baris Camli,2018-04-18,,,,,,
 ,E1C7,extras-openmoji,technology,led,,,Baris Camli,2018-04-18,,,,,,
@@ -3172,7 +3172,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E262,extras-openmoji,ui-element,delete,,"delete, bin, waste, remove",Kai Magnus Müller,2018-04-18,,,,,,
 ,E263,extras-openmoji,ui-element,comment,,"comment, write",Kai Magnus Müller,2018-04-18,,,,,,
 ,E264,extras-openmoji,ui-element,more information,,"more, plus, add, cross",Kai Magnus Müller,2018-04-18,,,,,,
-,E265,extras-openmoji,ui-element,sort,,"sort, list, hieracy",Kai Magnus Müller,2018-04-18,,,,,,
+,E265,extras-openmoji,ui-element,sort,,"sort, list, hierarchy",Kai Magnus Müller,2018-04-18,,,,,,
 ,E266,extras-openmoji,ui-element,inbox,,"entrance, inbox, in",Kai Magnus Müller,2018-04-18,,,,,,
 ,E267,extras-openmoji,ui-element,compose,,"write, compose, author",Kai Magnus Müller,2018-04-18,,,,,,
 ,E268,extras-openmoji,ui-element,add contact,,"add, contact",Kai Magnus Müller,2018-04-18,,,,,,
