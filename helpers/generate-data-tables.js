@@ -60,7 +60,7 @@ _.each(emojibaseData, e => {
 const enhancements = arrayToEmojiDict( loadCsv('./data/enhancements-emoji-unicode-data.csv'), 'emoji');
 
 // filter out what we want in the end
-// enhance meta infromations of each emoji
+// enhance meta informations of each emoji
 emojis = _.map(emojis, e => {
   let openmoji_author = enhancements[e.emoji] ? enhancements[e.emoji]['openmoji_author'] : '';
   let openmoji_date = enhancements[e.emoji] ? enhancements[e.emoji]['openmoji_date'] : '';

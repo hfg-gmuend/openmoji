@@ -53,7 +53,7 @@ svgFiles.forEach((f, i) => {
   if (emoji) {
     emojiChar = emoji.emoji;
     const destinationFolder = path.join('src', emoji.group, emoji.subgroups);
-    mkdirp(destinationFolder); // generate missing folders recursivly
+    mkdirp(destinationFolder); // generate missing folders recursively
     const destinationSvg = path.join(destinationFolder, basename+'.svg');
     if (fs.existsSync(destinationSvg)) importResult = 'OVERWRITE';
     else importResult = 'NEW';
