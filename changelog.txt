@@ -11,9 +11,9 @@
   1F498, 1F497, 1F496, 1F495, 1F494, 1F493, 1F90E, 1F90D, 1F49F, 1F49E, 1F49D, 1F49C, 
   1F49B, 1F49A, 1F48C, 1F9E1, 1F5A4)
 
-* Redesign dumpling emoji, face screaming with fear, foot emoji by Carlin Mackenzie @carlinmack
+* Redesign dumpling emoji, face screaming with fear by Carlin MacKenzie @carlinmack
 
-* Fix melon colours, smirking and unamused face by Carlin MacKenzie @carlinmack
+Fix melon colours, smirking and unamused face, Seychelles flag by Carlin MacKenzie @carlinmack
 
 * Fix face and expression of 1F62C grimacing face
 
