@@ -19,6 +19,10 @@ plugins:
   - removeUselessDefs
   - removeEmptyText
   - removeUnusedNS
+  - removeAttrs:
+      attrs:
+        - 'svg:enable-background'
+        - 'data-name'
   - sortAttrs:
       order: [
         'id',
