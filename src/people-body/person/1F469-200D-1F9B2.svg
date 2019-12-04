@@ -9,7 +9,7 @@
   <g id="skin">
     <ellipse fill="#FCEA2B" cx="35.8" cy="31" rx="11" ry="14"/>
   </g>
-  <g id="color_1_">
+  <g id="color">
     <path fill="#92D3F5" d="M17,61v-4c0-5,5-9,10-9c6,5,12,5,18,0c5,0,10,4,10,9v4"/>
   </g>
   <g id="line">
