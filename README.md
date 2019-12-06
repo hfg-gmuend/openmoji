@@ -34,6 +34,7 @@ You can download, use and "consume" OpenMoji in various ways:
 - [OpenMoji app](https://itunes.apple.com/us/app/openmoji/id1462636288): for iOS with emoji picker
 - [OpenMoji Stickers](https://itunes.apple.com/us/app/openmoji/id1462636288): for iOS Messages app
 - [OpenMoji Github](https://github.com/hfg-gmuend/openmoji/): `git clone --dept 1 https://github.com/hfg-gmuend/openmoji.git` The OpenMoji repo is big! It is recommended to clone it without the entire history, note the --dept flag.
+- [OpenMoji NPM Package](https://www.npmjs.com/package/openmoji): `npm install openmoji`
 
 
 ## Anatomy OpenMoji Repository
