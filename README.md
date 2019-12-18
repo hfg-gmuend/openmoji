@@ -59,7 +59,7 @@ As an open source project, attribution is critical from a legal, practical and m
 
 Attribution suggestion:
 
-> All emojis designed by [OpenMoji](https://openmoji.org/) – the open-source emoji and icon project. License: CC BY-SA 4.0
+> All emojis designed by [OpenMoji](https://openmoji.org/) – the open-source emoji and icon project. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)
 
 
 ## License
