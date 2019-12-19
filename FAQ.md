@@ -1,11 +1,9 @@
 OpenMoji FAQ
 ========
 
-### 🤔: How to use OpenMoji in my app / website / book / ad / video / project ... under the CC BY-SA 4.0 open source license?
+### 🤔: How to use OpenMoji in my app / website / book / ad / video / project?
 
-OpenMoji is published under the Creative Commons Share Alike License 4.0 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)). Great that you want to OpenMoji in your project! Please ...
-
-You are free to:
+Thank you for wanting to use OpenMoji in your project! OpenMoji is published under the Creative Commons Share Alike License 4.0 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)). This means you are free to:
 
 - **Share** — copy and redistribute OpenMoji in any medium or format
 - **Adapt** — remix, transform, and build upon OpenMoji
@@ -24,16 +22,16 @@ Under the following terms:
 
 ### 🤔: How can I help or contribute to OpenMoji?
 
-Contributions and help is very welcome! Please check [CONTRIBUTING.md](CONTRIBUTING.md) guide!
+Contributions and help are very welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) guide!
 
 ### 🤔: I would like to propose a new OpenMoji, how does this work?
 
-Start a conversation at Github with us. Examples: [#84](https://github.com/hfg-gmuend/openmoji/issues/84) [#97](https://github.com/hfg-gmuend/openmoji/issues/97)
+Start a conversation on Github with us. For example [#84](https://github.com/hfg-gmuend/openmoji/issues/84) and [#97](https://github.com/hfg-gmuend/openmoji/issues/97)
 
 ### 🤔: The OpenMoji Black or Colorfont is not working as expected ... is this me?
 
-⚠️ The OpenMoji are very alpha (currently Firefox only) and not intended to use in production! Please follow the [discussion](https://github.com/hfg-gmuend/openmoji/issues/93) for updates.
+⚠️ The colorfont version of OpenMoji is in a very early alpha stage - currently Firefox only - and not intended to use in production! Please follow the [discussion](https://github.com/hfg-gmuend/openmoji/issues/93) for updates.
 
-### 🤔: Is there an "emoji popup" or "emoji picker" available with OpenMoji?
+### 🤔: Is there an "emoji popup" or "emoji picker" available for OpenMoji?
 
-No! :) We are sorry! This is simply out of scope. (Happy to list here working third party solutions)
+No, we are sorry! This is simply out of scope. (Happy to list working third party solutions here)
