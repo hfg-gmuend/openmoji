@@ -17,6 +17,7 @@ This GitHub repository contains all of the source files and exported png/svg fil
 ## Table of Contents
 
 - [Styleguide](http://openmoji.org/styleguide) our beloved styleguide.
+- [FAQ](FAQ.md) Check if your question has already been answered
 - [Contributing](CONTRIBUTING.md) Pull Requests are welcome!
 - [Developer Setup](CONTRIBUTING.md#developer-setup) how to setup node.js.
 - [Font](font) infos on the OpenMoji-Color and OpenMoji-Black fonts.
