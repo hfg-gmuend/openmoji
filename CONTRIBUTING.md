@@ -62,8 +62,15 @@ Before you gon on to submit we aks you should to normalize the formatting of the
 ### 5. Submission
 Yay! Now all your files are ready to go! Please submit a PR against the master branch. Please submit only the files in `src` folder, and do not generate the files in `color` and `black` folders. We will take care of your OpenMoji from there! Thanks 🙏!
 
+## Non-standard emoji
 
-## Hexcodes extras-openmoji
+There are two options for adding extra emoji. If the symbol exists as a unicode code point already - like math symbols, heiroglyphics - you can design and add it to [src/extras-unicode](src/extras-unicode). If the symbol does not exist, it can be added instead as an OpenMoji symbol in [src/extras-openmoji](src/extras-openmoji).
+
+### Hexcodes for extras-unicode
+
+Please create a folder under [src/extras-unicode](src/extras-unicode) with the "sub-group" name. Name the svg as the unicode codepoint in this folder.
+
+### Hexcodes for extras-openmoji
 
 Emojis that are not (yet) defined in Unicode are located in the [Private Use Area](https://en.wikipedia.org/wiki/Private_Use_Areas). The Hexcode runs from `E000` to `F8FF`. The total number of code points is 6.400.
 
@@ -79,6 +86,9 @@ For the OpenMoji project we divided the private use are into 100 equal sized blo
 
 If a subgroup needs more than 64 code points, then the subgroup continues in the next free block. An overview gives this [Google Doc](https://docs.google.com/spreadsheets/d/1xq4uJshm3eHi8BfqMlvWdXfansNugto1XJjPFbBCnV4/edit?usp=sharing). The names of subgroups (in extras-openmoji) are a close as possible aligned with already defined [Unicode Emoji](https://unicode.org/Public/emoji/12.0/emoji-test.txt) ones.
 
+### Other files 
+
+Next add the information about the new character to [data/extras-openmoji.csv](data/extras-openmoji.csv). Finally run `node helpers/generate-data-tables.js` and then create a Pull Request.
 
 ## 🐞Fix a Bug
 If it's not on the issues list, add it. If it's already on the [issues](https://github.com/hfg-gmuend/openmoji/issues) list, assign it to yourself or comment on the issue indicating you're working on it. Go ahead and fix it and submit a PR.
