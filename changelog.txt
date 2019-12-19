@@ -19,7 +19,7 @@
 
 * Redesign dumpling emoji, face screaming with fear, foot emoji by Carlin MacKenzie @carlinmack
 
-* Fix melon colours, smirking, tired, frowning with open mouth and unamused face, Seychelles flag by Carlin MacKenzie @carlinmack
+* Fix melon colours, smirking, tired, pleading, frowning with open mouth and unamused face, Seychelles flag by Carlin MacKenzie @carlinmack
 
 * Fix face and expression of 1F62C grimacing face
 
