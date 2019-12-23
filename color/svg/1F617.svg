@@ -1,14 +1,14 @@
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="color">
-    <circle fill="#FCEA2B" cx="34.4208" cy="36.0252" r="22.5687"/>
+    <circle fill="#FCEA2B" cx="36" cy="36" r="23"/>
   </g>
   <g id="hair"/>
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M34.8361,42.1175c0,0,10.5248,3.1956,0,5.5637c0,0,10.4577,2.9883,0,4.9125"/>
-    <circle cx="25.6105" cy="32.6037" r="2.6038"/>
-    <circle cx="42.8605" cy="32.6037" r="2.6038"/>
-    <ellipse fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="34.4208" cy="36.0252" rx="23.0001" ry="23.0001"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M36.4153,41.0923c0,0,10.5248,3.1956,0,5.5637c0,0,10.4577,2.9883,0,4.9125"/>
+    <path d="M30,31c0,1.6568-1.3448,3-3,3c-1.6553,0-3-1.3433-3-3c0-1.6552,1.3447-3,3-3C28.6552,28,30,29.3448,30,31"/>
+    <path d="M48,31c0,1.6568-1.3447,3-3,3s-3-1.3433-3-3c0-1.6552,1.3447-3,3-3S48,29.3448,48,31"/>
+    <ellipse fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36" rx="23.0001" ry="23.0001"/>
   </g>
 </svg>

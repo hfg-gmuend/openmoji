@@ -1,12 +1,9 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <circle cx="35.9" cy="36.6001" r="23" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path d="M31.7,33.8a.9612.9612,0,0,1-.9-.6s-1.2-2.3-3.4-2.3S24,33.2,24,33.2a.9618.9618,0,0,1-1.7-.9c.1-.1,1.8-3.4,5.2-3.4s5.1,3.3,5.2,3.4a1.0534,1.0534,0,0,1-.4,1.3A.988.988,0,0,1,31.7,33.8Z"/>
-    <path d="M48.9,33.8a.9612.9612,0,0,1-.9-.6s-1.2-2.3-3.4-2.3-3.4,2.3-3.4,2.3a.9618.9618,0,1,1-1.7071-.8866L39.5,32.3c.1-.1,1.8-3.4,5.2-3.4,3.5,0,5.1,3.3,5.2,3.4a1.0534,1.0534,0,0,1-.4,1.3A.8457.8457,0,0,1,48.9,33.8Z"/>
-    <line x1="26.2" y1="41.4001" x2="26.2" y2="49.1001" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="32.2" y1="41.4001" x2="32.2" y2="49.1001" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="38.2" y1="41.4001" x2="38.2" y2="49.1001" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="44.2" y1="41.4001" x2="44.2" y2="49.1001" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path d="M46.5,49.1H25.2a4.0119,4.0119,0,0,1-4-4h0a4.0118,4.0118,0,0,1,4-4H46.5a4.0118,4.0118,0,0,1,4,4h0A4.0119,4.0119,0,0,1,46.5,49.1Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <circle cx="36" cy="36" r="23" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M50.595,41.64a11.5554,11.5554,0,0,1-.87,4.49c-12.49,3.03-25.43.34-27.49-.13a11.4347,11.4347,0,0,1-.83-4.36h.11s14.8,3.59,28.89.07Z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M49.7251,46.13c-1.79,4.27-6.35,7.23-13.69,7.23-7.41,0-12.03-3.03-13.8-7.36C24.2951,46.47,37.235,49.16,49.7251,46.13Z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M31.6941,32.4036a4.7262,4.7262,0,0,0-8.6382,0"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M48.9441,32.4036a4.7262,4.7262,0,0,0-8.6382,0"/>
   </g>
 </svg>

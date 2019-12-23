@@ -1,18 +1,18 @@
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="color">
-    <circle fill="none" stroke="#FCEA2B" stroke-width="1.8" stroke-miterlimit="10" cx="34.0193" cy="38.6638" r="22.9758"/>
-    <path fill="#FCEA2B" d="M34.0193,15.688c12.6892,0,22.9758,10.2866,22.9758,22.9758c0,1.1833-0.0895,2.3457-0.262,3.4808 c2.6745,1.926,2.6745,6.1265-2.1892,6.8563c-3.7833,7.4971-11.5535,12.6386-20.5246,12.6386 c-12.6892,0-22.9758-10.2866-22.9758-22.9758S21.3301,15.688,34.0193,15.688z"/>
+    <path fill="#FCEA2B" d="M36,12c-13.2337,0-24,10.7663-24,24s10.7663,24,24,24s24-10.7664,24-24C60.0001,22.7663,49.2337,12,36,12z"/>
+    <path fill="#FCEA2B" d="M37.4298,44.1622c0,0,8.7363-0.0809,12.075,0.5893c3.3387,0.6701,6.7322,2.0667,9.1412,0.9499 c1.1362-0.5267,1.6476-1.6404,1.7222-2.7085c0.1014-1.0659-0.2206-2.2484-1.255-2.9542c-2.1935-1.4965-5.7742-0.6235-9.1776-0.5096 s-12.0084-1.3976-12.0084-1.3976"/>
   </g>
   <g id="hair"/>
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M18.9869,29.9408c0.851-1.3097,2.1554-2.2567,3.6642-2.659c1.4662-0.5614,3.0882-0.5534,4.5496,0.0179"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M48.5963,28.9362c-1.3537-2.8907-4.4525-4.543-7.6074-4.056"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M57.001,37.3631C56.3266,25.2653,46.303,15.664,34.0374,15.664c-12.703,0-22.9998,10.2968-22.9998,22.9998 c0,12.7021,10.2968,22.9998,22.9998,22.9998c7.0803,0,13.4135-3.1996,17.6326-8.2316"/>
-    <circle cx="25.2868" cy="34.6731" r="2.7493"/>
-    <circle cx="42.5366" cy="34.6731" r="2.7493"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M37.76,53.2994c0,0-5.7186-1.8346-8.8718,1.5503"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M58.4422,45.7324c-0.2143,1.636-1.9061,2.7858-1.9061,2.7858c-2.3855,1.4362-9.1328-0.7961-9.1328-0.7961 c-4.9712-1.2549-12.0651-0.6709-12.0651-0.6709 M58.4419,45.5718c0.0273-1.8145-1.4933-3.1744-1.4933-3.1744 c-2.2253-1.579-9.1884-0.046-9.1884-0.046c-5.3852,0.6915-12.0826-0.4781-12.0826-0.4781"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.9493,27.2768c0.851-1.3097,2.1554-2.2567,3.6642-2.659c1.4662-0.5614,3.0882-0.5534,4.5496,0.0179"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M50.5587,26.2722c-1.3537-2.8907-4.4525-4.543-7.6074-4.056"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M58.9634,34.6991C58.289,22.6013,48.2654,13,35.9998,13C23.2968,13,13,23.2968,13,35.9998 c0,12.7021,10.2968,22.9998,22.9998,22.9998c7.0803,0,13.4135-3.1996,17.6326-8.2316"/>
+    <path d="M30,31c0,1.6568-1.3448,3-3,3c-1.6553,0-3-1.3433-3-3c0-1.6552,1.3447-3,3-3C28.6552,28,30,29.3448,30,31"/>
+    <path d="M48,31c0,1.6568-1.3447,3-3,3s-3-1.3433-3-3c0-1.6552,1.3447-3,3-3S48,29.3448,48,31"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M39.7224,50.6354c0,0-5.7186-1.8346-8.8718,1.5503"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M37.4298,44.1622c0,0,8.7363-0.0809,12.075,0.5893c3.3387,0.6701,6.7322,2.0667,9.1412,0.9499 c1.1362-0.5267,1.6476-1.6404,1.7222-2.7085c0.1014-1.0659-0.2206-2.2484-1.255-2.9542c-2.1935-1.4965-5.7742-0.6235-9.1776-0.5096 s-12.0084-1.3976-12.0084-1.3976"/>
   </g>
 </svg>

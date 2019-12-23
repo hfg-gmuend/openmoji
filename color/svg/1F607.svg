@@ -1,20 +1,19 @@
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="color">
-    <path fill="#FCEA2B" d="M34.109,61c12.7022,0,23-10.1648,23-22.703c0-5.6768-2.1107-10.8668-5.5995-14.8472 c-0.0837-0.0955-0.1683-0.1904-0.2536-0.2845c-1.2483-1.3773-2.6643-2.6032-4.2165-3.6466 c-3.6847-2.4769-8.1363-3.9248-12.9304-3.9248c-12.7031,0-23,10.1639-23,22.703C11.109,50.8352,21.4059,61,34.109,61z"/>
-    <path fill="none" stroke="#FCEA2B" stroke-width="1.8" stroke-miterlimit="10" d="M34.109,61c12.7022,0,23-10.1648,23-22.703 c0-5.6768-2.1107-10.8668-5.5995-14.8472c-0.0837-0.0955-0.1683-0.1904-0.2536-0.2845c-1.2483-1.3773-2.6643-2.6032-4.2165-3.6466 c-3.6847-2.4769-8.1363-3.9248-12.9304-3.9248c-12.7031,0-23,10.1639-23,22.703C11.109,50.8352,21.4059,61,34.109,61z"/>
+    <path d="M36,60A24,24,0,0,0,54.157,20.3047q-.1309-.1515-.2646-.3008A24,24,0,1,0,36,60Z" fill="#fcea2b"/>
   </g>
   <g id="hair"/>
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M43.9238,47.3995c-5.8513,4.7083-14.1004,4.6878-19.6295,0"/>
-    <path d="M29.9931,36.7874c-0.3672,0-0.7207-0.2032-0.8965-0.5528c-0.0098-0.0195-1.2129-2.3222-3.418-2.3222 c-2.2305,0-3.4062,2.2988-3.418,2.3222c-0.2461,0.4942-0.8457,0.6934-1.3418,0.4473c-0.4941-0.2481-0.6933-0.8477-0.4472-1.3418 c0.0703-0.1406,1.7539-3.4277,5.207-3.4277s5.1367,3.2871,5.207,3.4277c0.2481,0.4941,0.0469,1.0937-0.4472,1.3418 C30.2958,36.7523,30.1415,36.7874,29.9931,36.7874z"/>
-    <path d="M47.2431,36.7874c-0.3672,0-0.7207-0.2032-0.8965-0.5528c-0.0098-0.0195-1.2129-2.3222-3.418-2.3222 c-2.2305,0-3.4062,2.2988-3.418,2.3222c-0.2461,0.4942-0.8457,0.6934-1.3418,0.4473c-0.4941-0.2481-0.6933-0.8477-0.4472-1.3418 c0.0703-0.1406,1.7539-3.4277,5.207-3.4277c3.4531,0,5.1367,3.2871,5.207,3.4277c0.2481,0.4941,0.0469,1.0937-0.4472,1.3418 C47.5458,36.7523,47.3915,36.7874,47.2431,36.7874z"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M45.8802,18.6635c-3.4345-2.0487-7.4493-3.2257-11.7389-3.2257c-4.2227,0-8.179,1.1403-11.5776,3.1299"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M15.8206,24.5638c-2.9048,3.8443-4.6276,8.6317-4.6276,13.8217C11.1929,51.059,21.4664,61.3336,34.1408,61.3338 C46.8144,61.3339,57.089,51.0595,57.0891,38.386c0-5.2484-1.7617-10.0852-4.7262-13.9513"/>
-    <ellipse fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="34" cy="17" rx="25" ry="5.2885"/>
+    <path d="M45.8147,45.2268a15.4294,15.4294,0,0,1-19.6294,0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M47.7657,16.233a23.0273,23.0273,0,0,0-23.3693-.096" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M17.6381,22.1467a23,23,0,1,0,36.625-.1294" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <ellipse cx="36" cy="14.8" rx="25" ry="5.25" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M31.6941,33.4036a4.7262,4.7262,0,0,0-8.6382,0" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M48.9441,33.4036a4.7262,4.7262,0,0,0-8.6382,0" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
   </g>
   <g id="color-foreground">
-    <ellipse fill="none" stroke="#61B2E4" stroke-width="2.1" stroke-miterlimit="10" cx="34" cy="17" rx="25" ry="5.2885"/>
+    <ellipse cx="36" cy="14.8" rx="25" ry="5.25" fill="none" stroke="#61b2e4" stroke-miterlimit="10" stroke-width="2.1"/>
   </g>
 </svg>
