@@ -3,66 +3,53 @@
 - removed
 
 --------------------------------------------------------------------------------
-👉 OpenMoji 12.X - XXX
+👉 OpenMoji 12.1 - 23 December 2019
 
-* Fix 1F1F2-1F1F7 flag Mauritania added red stripes by @jonpdixon
+Happy Holidays release! Many improvements, fixes and a few new OpenMojis!
+Special thanks to Carlin Mackenzie @carlinmack for his great and plenty contributions!
 
-* Fix 1F1F5-1F1FC flag Palau, increased size of yellow circle by @jonpdixon 
-
-* Removed shadows from spade, heart, diamond and club suit (2660, 2663, 2665, 2666)
-
-* Removed shadows from all hearts in smileys-emotion/emotion/ (2764, 2763, 1F499,
-  1F498, 1F497, 1F496, 1F495, 1F494, 1F493, 1F90E, 1F90D, 1F49F, 1F49E, 1F49D, 1F49C,
-  1F49B, 1F49A, 1F48C, 1F9E1, 1F5A4)
-
-* Add pomegranate, poppy, exhausted and incredulous face to extra emojis @carlinmack
-
-* Redesign pleading, flushed, tired and weary, dumpling emoji, face screaming with fear, foot emoji by Carlin MacKenzie @carlinmack
-
-* Fix smirking, frowning with open mouth and unamused face, melon colours, right speech bubble, thought balloon and speech ballon Seychelles flag, bikini, banana by Carlin MacKenzie @carlinmack
-
-* Fix face and expression of 1F62C grimacing face
-
-* Improved wings of 1F47C baby angel
++ Added Poppy (War Remembrance Day) by @carlinmack
+  suggested by @inferno986return
++ Added Youtube and Github logo, contributed by Romain Bazile @gromain
++ Added pomegranate, poppy, exhausted, incredulous face to extra emojis @carlinmack
 
 * Improved "red hair" color of 1F9B0, 1F468-200D-1F9B0, 1F469-200D-1F9B0
   to better distinct from other hair colors.
-
+* Fix OpenMojis with blond, red or white hair by @sourgift
+* Fix 1F471 'person: blond hair' to resemble '1F9D1 person' by @sourgift
+* Fix 1F1F2-1F1F7 flag Mauritania added red stripes by @jonpdixon
+* Fix 1F1F5-1F1FC flag Palau, increased size of yellow circle by @jonpdixon
+* Removed shadows from spade, heart, diamond and club suit (2660, 2663, 2665, 2666)
+* Removed shadows from all hearts in smileys-emotion/emotion/ (2764, 2763, 1F499,
+  1F498, 1F497, 1F496, 1F495, 1F494, 1F493, 1F90E, 1F90D, 1F49F, 1F49E, 1F49D, 1F49C,
+  1F49B, 1F49A, 1F48C, 1F9E1, 1F5A4)
+* Redesign pleading, flushed, tired and weary, dumpling emoji, face screaming with fear,
+  foot emoji by Carlin MacKenzie @carlinmack
+* Fix smirking, frowning with open mouth and unamused face, melon colours,
+  right speech bubble, thought balloon and speech ballon Seychelles flag,
+  bikini, banana by Carlin MacKenzie @carlinmack
+* Fix face and expression of 1F62C grimacing face
+* Improved wings of 1F47C baby angel
 * Fix 1F237 Japanese "monthly amount" added missing horizontal stroke
-
 * Improved 1F004 to better resemble a Mahjong Red Dragon tile by @sourgift
   Change tile from square to rectangle
-
 * Fix 1F31A 1F31D moon emojis by Carlin Mackenzie @carlinmack
   Same smile and face for both moon emojis
   Change colour of full moon shadow
-
-* Fix OpenMojis with blond, red or white hair by @sourgift
-* Fix 1F471 'person: blond hair' to resemble '1F9D1 person' by @sourgift
-
 * Fix 1F1E9-1F1F2 Dominica flag by @pyfisch
-
 * Fix 1F1FB-1F1EA by Jonathan Dixon @jonpdixon
   Correct colour order and number of stars on Venezuelan flag
-
-+ Added Youtube and Github logo, contributed by Romain Bazile @gromain
-
 * Fix 1F3F4-E0067-E0062-E0073-E0063-E0074-E007F by Carlin Mackenzie @carlinmack
   Correct diagonal line on Scottish flag
-
-* Fix 1F473-200D-2640-FE0F
-  Women wearing turban should not show hair #20, thanks Gurmukh Panesar @gurmukhp
-
-* Fix 1F3F3-FE0F-200D-1F308
-  Issue #27, Rainbow flag now shows the right colors and display as a country
-  flag.
-  Contributed by Romain Bazile @gromain on a suggestion by Pascal Eckmann @p4cx.
-
+* Fix 1F473-200D-2640-FE0F Women wearing turban should not show hair #20
+  Thanks Gurmukh Panesar @gurmukhp
+* Fix 1F3F3-FE0F-200D-1F308 Rainbow flag now shows the right colors and
+  display as a country flag. By Romain Bazile @gromain, suggestion by
+  Pascal Eckmann @p4cx.
 * Small fixes for 1F4A9, 1F9B0, 1F9B1, 1F9B2, 1F9B3, 1F9B8, 1F9B9,
   1F9CF-200D-2642-FE0F, 1F9D6, 1F9D9, 1F9DA, 1F9DB, 1F62C, 1F473-200D-2642-FE0F,
   1F473, 1F534, 1F535, 1F601, 1F624, 26AA, 26AB.
   Thanks Rifat Can Erdogan & Selina Lange
-
 
 --------------------------------------------------------------------------------
 
