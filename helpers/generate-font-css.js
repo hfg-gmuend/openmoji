@@ -11,14 +11,14 @@ const css = `
 @font-face {
   font-family: "OpenMojiColor";
   src: url("OpenMoji-Color.ttf") format("truetype");
-  font-style: regular;
+  font-style: Color;
   unicode-range: ${characterSet.toHexRangeString()};
 }
 
 @font-face {
  font-family: "OpenMojiBlack";
  src: url("OpenMoji-Black.ttf") format("truetype");
- font-style: regular;
+ font-style: Black;
  unicode-range: ${characterSet.toHexRangeString()};
 }
 `;
