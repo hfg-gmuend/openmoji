@@ -24,8 +24,8 @@ plugins:
       attrs:
         - 'data-name'
         - 'inkscape.*'
+        - 'xml.space'
         - 'svg:enable-background'
-        - 'xml.*'
   - sortAttrs:
       order: [
         'id',
@@ -44,6 +44,7 @@ plugins:
         'version',
         'xmlns',
       ]
+      xmlnsOrder: 'back'
 js2svg:
   pretty: true
   indent: '  '
