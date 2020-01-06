@@ -31,7 +31,7 @@
     <path d="M45.6771,41.5083a2.4652,2.4652,0,0,1-3.06-2.731A21.96,21.96,0,0,0,40.159,24.8217a24.8832,24.8832,0,0,0-9.4063-9.3508,2.4422,2.4422,0,0,1-.8916-3.3558,2.485,2.485,0,0,1,3.38-.8978A29.7714,29.7714,0,0,1,44.4946,22.4454a26.7994,26.7994,0,0,1,3.0129,17.037A2.4752,2.4752,0,0,1,45.6771,41.5083Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
     <circle cx="36" cy="36" r="28" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
-  <g id="color-foreground" data-name="Color foreground">
+  <g id="color-foreground">
     <circle cx="37.0001" cy="39.0001" r="1" fill="#6a462f"/>
     <circle cx="39.0001" cy="42.0001" r="1" fill="#6a462f"/>
     <circle cx="40.0001" cy="37.0001" r="1" fill="#6a462f"/>

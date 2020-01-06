@@ -6,7 +6,7 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="line-supplement">
-    <g id="A_Button" data-name="A Button">
+    <g id="A_Button">
       <path d="M59.0349,60.1374h-46.07A.9679.9679,0,0,1,12,59.1723v-46.07a.9679.9679,0,0,1,.9651-.9651h46.07A.9679.9679,0,0,1,60,13.1025v46.07A.9679.9679,0,0,1,59.0349,60.1374Z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
       <g>
         <polyline points="45.429 46.313 36 24.313 26.571 46.313" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
@@ -15,13 +15,13 @@
     </g>
   </g>
   <g id="color">
-    <g id="color-2" data-name="color">
+    <g id="color-2">
       <path d="M59.0349,60h-46.07A.9679.9679,0,0,1,12,59.0349v-46.07A.9679.9679,0,0,1,12.9651,12h46.07A.9679.9679,0,0,1,60,12.9651v46.07A.9679.9679,0,0,1,59.0349,60Z" fill="#d22f27"/>
     </g>
   </g>
   <g id="line"/>
   <g id="color-foreground">
-    <g id="A_Button-2" data-name="A Button">
+    <g id="A_Button-2">
       <path d="M59.0349,60h-46.07A.9679.9679,0,0,1,12,59.0349v-46.07A.9679.9679,0,0,1,12.9651,12h46.07A.9679.9679,0,0,1,60,12.9651v46.07A.9679.9679,0,0,1,59.0349,60Z" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="2"/>
       <g>
         <polyline points="45.429 46.176 36 24.176 26.571 46.176" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

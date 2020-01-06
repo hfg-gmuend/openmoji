@@ -7,7 +7,7 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <g id="_1F4B1" data-name="1F4B1">
+    <g id="_1F4B1">
       <rect x="14.689" y="14.8047" width="23.9038" height="14.051" fill="#ea5a47"/>
       <path d="M27.9556,13.4112V30.4234a.5924.5924,0,0,1-.5976.4064H18.2148a.72.72,0,0,1-.5976-.4064V13.237a.5925.5925,0,0,1,.5976-.4064H27.358a.72.72,0,0,1,.5976.4064Z" fill="#d0cfce"/>
       <ellipse cx="44.881" cy="49.8795" rx="9.681" ry="5.8062" fill="#5c9e31" stroke="#5c9e31" stroke-miterlimit="10" stroke-width="1.5"/>
@@ -18,7 +18,7 @@
     </g>
   </g>
   <g id="line">
-    <g id="_1F4B1-2" data-name="1F4B1">
+    <g id="_1F4B1-2">
       <g>
         <polyline points="48.485 26.717 46.125 22.734 50.225 20.441" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
         <path d="M47.0718,22.888a14.7062,14.7062,0,0,1,10.822,11.3838" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>

@@ -13,6 +13,7 @@ plugins:
   - inlineStyles
   - removeAttrs:
       attrs:
+        - 'data-name'
         - 'svg:enable-background'
   - removeComments
   - removeDesc

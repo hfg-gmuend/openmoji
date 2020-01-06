@@ -8,7 +8,7 @@
     <rect x="11" y="11.9583" width="50" height="50" rx="1.9231" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="line-supplement">
-    <g id="AB_Button" data-name="AB Button">
+    <g id="AB_Button">
       <path d="M59.0349,60.1373h-46.07A.9679.9679,0,0,1,12,59.1722v-46.07a.9679.9679,0,0,1,.9651-.9651h46.07A.9679.9679,0,0,1,60,13.1024v46.07A.9679.9679,0,0,1,59.0349,60.1373Z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
       <g>
         <g>
@@ -23,13 +23,13 @@
     </g>
   </g>
   <g id="color">
-    <g id="color-2" data-name="color">
+    <g id="color-2">
       <path d="M59.0349,60.1372h-46.07A.9679.9679,0,0,1,12,59.1721v-46.07a.9679.9679,0,0,1,.9651-.9651h46.07A.9679.9679,0,0,1,60,13.1023v46.07A.9679.9679,0,0,1,59.0349,60.1372Z" fill="#d22f27"/>
     </g>
   </g>
   <g id="line"/>
   <g id="color-foreground">
-    <g id="AB_Button-2" data-name="AB Button">
+    <g id="AB_Button-2">
       <path d="M59.0349,60.1372h-46.07A.9679.9679,0,0,1,12,59.1721v-46.07a.9679.9679,0,0,1,.9651-.9651h46.07A.9679.9679,0,0,1,60,13.1023v46.07A.9679.9679,0,0,1,59.0349,60.1372Z" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="2"/>
       <g>
         <g>

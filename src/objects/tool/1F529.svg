@@ -7,7 +7,7 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <g id="_1F529" data-name="1F529">
+    <g id="_1F529">
       <polygon points="36.804 28.439 43.931 35.497 46.961 32.467 39.869 25.374 36.804 28.439" fill="#9b9b9a"/>
       <rect x="35.1711" y="18.7696" width="23.948" height="11.4993" transform="translate(31.1462 -26.1551) rotate(45)" fill="#d0cfce"/>
       <polyline points="32.174 33.07 39.869 25.374 46.961 32.467 19.415 60.013 12.322 52.921 32.174 33.07" fill="#d0cfce"/>
@@ -19,7 +19,7 @@
     </g>
   </g>
   <g id="line">
-    <g id="_1F529-2" data-name="1F529">
+    <g id="_1F529-2">
       <rect x="35.1711" y="18.7696" width="23.948" height="11.4993" transform="translate(31.1462 -26.1551) rotate(45)" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
       <polyline points="32.755 32.488 39.869 25.374 46.961 32.467 39.883 39.546" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       <polyline points="29.642 49.786 20.556 58.873 18.527 59.126 13.175 53.774 13.174 52.069 22.375 42.868" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

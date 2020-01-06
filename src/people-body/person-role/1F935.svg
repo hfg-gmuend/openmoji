@@ -7,12 +7,12 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="hair">
-    <g id="hair-2" data-name="hair">
+    <g id="hair-2">
       <path d="M26,38c-3,0-4-7-4-14,0-6,5-12,14-12s14,6,14,12c0,7-1,14-4,14" fill="#f4aa41"/>
     </g>
   </g>
   <g id="skin">
-    <g id="skin-2" data-name="skin">
+    <g id="skin-2">
       <path d="M24.8422,30.5c-.1015,7.999,4.0635,14,11,14,7.0635,0,11.0635-6,11.0635-14,0-5-3-10-3-10-8,0-10,3-16,1A17.0768,17.0768,0,0,0,24.8422,30.5Z" fill="#fcea2b"/>
     </g>
   </g>
