@@ -14,6 +14,7 @@ plugins:
   - removeAttrs:
       attrs:
         - 'data-name'
+        - 'xml.space'
         - 'svg:enable-background'
   - removeComments
   - removeDesc
