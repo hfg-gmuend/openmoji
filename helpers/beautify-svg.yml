@@ -1,9 +1,6 @@
 full: true
 plugins:
   - cleanupAttrs
-  - convertStyleToAttrs
-  - convertTransform
-  - inlineStyles
   - cleanupNumericValues:
       floatPrecision: 4
       leadingZero: false
@@ -12,21 +9,24 @@ plugins:
       rgb2hex: true
       shorthex: false
       shortname: false
-  - removeXMLProcInst
-  - removeComments
-  - removeMetadata
-  - removeTitle
-  - removeDesc
-  - removeUselessDefs
-  - removeEmptyText
-  - removeUnusedNS
+  - convertStyleToAttrs
+  - convertTransform
+  - inlineStyles
   - removeAttrs:
       attrs:
         - 'data-name'
         - 'inkscape.*'
         - 'xml.space'
         - 'svg:enable-background'
-  - sortAttrs:
+  - removeComments
+  - removeDesc
+  - removeEmptyText
+  - removeMetadata
+  - removeTitle
+  - removeUnusedNS
+  - removeUselessDefs
+  - removeXMLProcInst
+  - sortAttrs: 
       order: [
         'id',
         'x', 'x1', 'x2', 'cx',
