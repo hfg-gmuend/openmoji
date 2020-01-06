@@ -1,7 +1,21 @@
 {
-  "name": "OpenMoji",
-  "version": "12.0.0",
-  "description": "Open-source emojis for designers, developers and everyone else!",
+  "name": "openmoji",
+  "version": "12.1.0",
+  "description": "Open source emojis for designers, developers and everyone else!",
+  "homepage": "https://openmoji.org/",
+  "keywords": [
+    "openmoji",
+    "OpenMoji",
+    "emoji",
+    "emojis",
+    "emoticons",
+    "smileys",
+    "smilies",
+    "unicode",
+    "icon",
+    "pictogram",
+    "colorfont"
+  ],
   "scripts": {
     "test": "node_modules/.bin/mocha --reporter mochawesome --reporter-options reportDir=test/report,reportFilename=report,json=false,code=false,cdn=true,reportTitle=OpenMoji-Tester,reportPageTitle=OpenMoji-Tester test/*.js --openmoji-data-json $PWD/data/openmoji.json --openmoji-src-folder $PWD/src",
     "pretty-src-svg": "find src/ -type f -name '*.svg' -print0 | xargs -0 -n 1 -P 6 svgo --quiet --config helpers/beautify-svg.yml",
@@ -22,7 +36,7 @@
     "chroma-js": "^1.4.0",
     "csv-parse": "^2.5.0",
     "csv-write-stream": "^2.0.0",
-    "emojibase-data": "^4.1.0",
+    "emojibase-data": "^4.2.0",
     "glob": "^7.1.2",
     "jsdom": "^13.2.0",
     "kd-tree-javascript": "^1.0.3",

@@ -1,14 +1,14 @@
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="color">
-    <polygon id="SVGID_1_" fill="#FCEA2B" points="34.1965,13.5815 25.5667,15.2612 20.2669,18.2817 15.3762,23.3608 11.9465,30.7114 11.9465,43.0512 17.5461,52.4516 25.5667,57.9018 34.1965,59.5815 41.3762,58.4311 49.0862,54.1011 54.1965,47.9419 57.1965,38.7319 56.4465,30.7514 52.637,22.8413 48.427,18.521 41.177,14.6616"/>
+    <circle cx="36.0001" cy="36" r="22.9999" fill="#fcea2b"/>
   </g>
   <g id="hair"/>
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="34.1965" cy="36.5815" r="23"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M44.0113,45.387c-5.8513,4.7083-14.1004,4.6878-19.6295,0"/>
-    <path d="M30.0806,34.775c-0.3672,0-0.7207-0.2032-0.8965-0.5528c-0.0098-0.0195-1.2129-2.3222-3.418-2.3222 c-2.2305,0-3.4062,2.2988-3.418,2.3222c-0.2461,0.4942-0.8457,0.6934-1.3418,0.4473c-0.4941-0.2481-0.6933-0.8477-0.4472-1.3418 c0.0703-0.1406,1.7539-3.4277,5.207-3.4277s5.1367,3.2871,5.207,3.4277c0.2481,0.4941,0.0469,1.0937-0.4472,1.3418 C30.3833,34.7398,30.229,34.775,30.0806,34.775z"/>
-    <path d="M47.3306,34.775c-0.3672,0-0.7207-0.2032-0.8965-0.5528c-0.0098-0.0195-1.2129-2.3222-3.418-2.3222 c-2.2305,0-3.4062,2.2988-3.418,2.3222c-0.2461,0.4942-0.8457,0.6934-1.3418,0.4473c-0.4941-0.2481-0.6933-0.8477-0.4472-1.3418 c0.0703-0.1406,1.7539-3.4277,5.207-3.4277c3.4531,0,5.1367,3.2871,5.207,3.4277c0.2481,0.4941,0.0469,1.0937-0.4472,1.3418 C47.6333,34.7398,47.479,34.775,47.3306,34.775z"/>
+    <circle cx="36" cy="36" r="23" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M45.8147,45.2268a15.4294,15.4294,0,0,1-19.6294,0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M31.6941,33.4036a4.7262,4.7262,0,0,0-8.6382,0" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M48.9441,33.4036a4.7262,4.7262,0,0,0-8.6382,0" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
   </g>
 </svg>

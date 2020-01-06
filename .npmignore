@@ -1,0 +1,10 @@
+_tmp/
+black/72x72/
+black/618x618/
+black/pdf/
+color/72x72/
+color/618x618/
+color/pdf/
+font/tmp-*
+font/scfbuild/
+test/report/*

@@ -1,16 +1,16 @@
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="color">
-    <polygon id="SVGID_1_" fill="#FCEA2B" points="35.2501,12.5506 26.6203,14.2303 21.3205,17.2507 16.4298,22.3298 13.0001,29.6804 13.0001,42.0202 18.5997,51.4206 26.6203,56.8708 35.2501,58.5505 42.4298,57.4001 50.1398,53.0701 55.2501,46.9109 58.2501,37.7009 57.5001,29.7204 53.6906,21.8104 49.4806,17.49 42.2306,13.6306"/>
+    <circle fill="#FCEA2B" cx="36" cy="36" r="23"/>
   </g>
   <g id="hair"/>
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M41.0516,47.5684c-1.1233,1.2679-3.0497,2.0788-5.7815,2.0788c-2.7113,0-4.6397-0.8017-5.7749-2.0544"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.5294,26.7507c0.7207-1.3857,1.9278-2.4541,3.3907-3c1.4052-0.7002,3.0205-0.8486,4.5302-0.4209"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M50.1398,26.7507c-1.582-2.7724-4.8037-4.1699-7.9092-3.4306"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M22.9051,33.7944c0,0,3.9322-2.1695,8,0"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M40.1551,33.7944c0,0,3.9322-2.1695,8,0"/>
-    <ellipse fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="35.4208" cy="35.5492" rx="23.0001" ry="23.0001"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M41.6308,48.0192c-1.1233,1.2679-3.0497,2.0788-5.7815,2.0788c-2.7113,0-4.6397-0.8017-5.7749-2.0544"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M21.1086,27.2015c0.7207-1.3857,1.9278-2.4541,3.3907-3c1.4052-0.7002,3.0205-0.8486,4.5302-0.4209"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M50.719,27.2015c-1.582-2.7724-4.8037-4.1699-7.9092-3.4306"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M23.4843,34.2452c0,0,3.9322-2.1695,8,0"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M40.7343,34.2452c0,0,3.9322-2.1695,8,0"/>
+    <ellipse fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36" rx="23.0001" ry="23.0001"/>
   </g>
 </svg>

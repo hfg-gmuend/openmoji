@@ -1,21 +1,6 @@
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="color">
-    <g>
-      <defs>
-        <polygon id="SVGID_1_" points="1,1 2,1 1,2"/>
-      </defs>
-      <defs>
-        <polygon id="SVGID_2_" points="-1,-1 -2,-1 -1,-2"/>
-      </defs>
-      <clipPath id="SVGID_3_">
-        <use xlink:href="#SVGID_1_" overflow="visible"/>
-      </clipPath>
-      <clipPath id="SVGID_4_" clip-path="url(#SVGID_3_)">
-        <use xlink:href="#SVGID_2_" overflow="visible"/>
-      </clipPath>
-      <rect x="8.6371" y="8.0565" clip-path="url(#SVGID_4_)" fill="#FCEA2B" width="55.25" height="56"/>
-    </g>
-    <circle fill="#FCEA2B" cx="35.8871" cy="36.0565" r="23"/>
+    <circle fill="#FCEA2B" cx="36" cy="36" r="23"/>
     <path fill="#3F3F3F" d="M45.331,38.5639c3.9628,0,7.1782-2.8618,7.1782-6.3889c0-1.7646,0.4473-3.5291-0.8519-4.6852 s-4.3449-1.7037-6.3264-1.7037c-2.3567,0-5.1428,0.1434-6.4514,1.7037c-0.8933,1.0652-0.7268,3.2534-0.7268,4.6852 C38.1528,35.7021,41.3655,38.5639,45.331,38.5639z"/>
     <path fill="#3F3F3F" d="M25.7384,38.5639c3.9628,0,7.1782-2.8618,7.1782-6.3889c0-1.7646,0.4473-3.5291-0.8519-4.6852 s-4.3449-1.7037-6.3264-1.7037c-2.3567,0-5.1428,0.1434-6.4514,1.7037c-0.8933,1.0652-0.7268,3.2534-0.7268,4.6852 C18.5602,35.7021,21.7729,38.5639,25.7384,38.5639z"/>
     <path fill="#9B9B9A" stroke="#9B9B9A" stroke-width="2" stroke-miterlimit="10" d="M33.8155,35.6315"/>

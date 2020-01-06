@@ -1,23 +1,15 @@
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M34.125,13.1621"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M34.125,13.1621"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M34,13.1621"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M27,28.001 c0,0,1-1.001,2-1.001s2,1.001,2,1.001"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M41,28.001 c0,0,1-1.001,2-1.001s2,1.001,2,1.001"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M56,53"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M34,15.1621"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M43,37"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M52,30"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M22,26"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M51,29.27 c3,3,4,21.73,4,29.73v2.542"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M17,61.542V59 c0-8,1-26.73,4-29.73"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M27,28c0,0,1-1,2-1s2,1,2,1"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M41,28c0,0,1-1,2-1s2,1,2,1"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M51,29.3 c3,3,4,21.7,4,29.7v2.5"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M17,61.5V59 c0-8,1-26.7,4-29.7"/>
     <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="32" y1="16" x2="31" y2="17"/>
     <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="36" y1="15" x2="35" y2="17"/>
     <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="40" y1="16" x2="41" y2="17"/>
-    <circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="36" cy="35.541" r="3"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M32.7051,35.625C31.5684,35.3408,31,35,31,35"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M41,35c0,0-0.5137,0.3081-1.541,0.582"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M43.9697,41.9619 C52,39,51,30,51,26.1621C51,17.3262,44.8369,11,36,11c-8.8359,0-15,6.3262-15,15.1621C21,30,20,39,28.0898,42.001 C31.8125,43.3799,40.2451,43.335,43.9697,41.9619z"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="36" cy="35.5" r="3"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M32.7,35.6C31.6,35.3,31,35,31,35"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M41,35c0,0-0.5,0.3-1.5,0.6"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M44,42c8-3,7-12,7-15.8 C51,17.3,44.8,11,36,11s-15,6.3-15,15.2C21,30,20,39,28.1,42C31.8,43.4,40.2,43.3,44,42z"/>
   </g>
 </svg>

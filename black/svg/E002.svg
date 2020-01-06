@@ -1,0 +1,7 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="line">
+    <ellipse cx="18.2" cy="47.59" rx="4.287" ry="4.297" transform="matrix(.9122 -.4098 .4075 .9132 0 0)"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m34.88 18c-10.65-5.164-22.85 8.647-19.35 23.57 3.456 14.74 15.18 14.33 19.59 12.78"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m39.6 21.18c8.678-4.503 19.89 6.453 17.04 19.46-2.817 12.85-12.37 12.49-15.97 11.15"/>
+  </g>
+</svg>

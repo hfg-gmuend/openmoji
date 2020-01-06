@@ -17,6 +17,7 @@ This GitHub repository contains all of the source files and exported png/svg fil
 ## Table of Contents
 
 - [Styleguide](http://openmoji.org/styleguide) our beloved styleguide.
+- [FAQ](FAQ.md) Check if your question has already been answered
 - [Contributing](CONTRIBUTING.md) Pull Requests are welcome!
 - [Developer Setup](CONTRIBUTING.md#developer-setup) how to setup node.js.
 - [Font](font) infos on the OpenMoji-Color and OpenMoji-Black fonts.
@@ -34,6 +35,8 @@ You can download, use and "consume" OpenMoji in various ways:
 - [OpenMoji app](https://itunes.apple.com/us/app/openmoji/id1462636288): for iOS with emoji picker
 - [OpenMoji Stickers](https://itunes.apple.com/us/app/openmoji/id1462636288): for iOS Messages app
 - [OpenMoji Github](https://github.com/hfg-gmuend/openmoji/): `git clone --dept 1 https://github.com/hfg-gmuend/openmoji.git` The OpenMoji repo is big! It is recommended to clone it without the entire history, note the --dept flag.
+- [OpenMoji NPM Package](https://www.npmjs.com/package/openmoji): `npm install openmoji`
+- [OpenMoji Jekyll Plugin](https://github.com/azadeh-afzar/OpenMoji-Jekyll-Plugin): `gem install jekyll-openmoji`
 
 
 ## Anatomy OpenMoji Repository
@@ -58,7 +61,7 @@ As an open source project, attribution is critical from a legal, practical and m
 
 Attribution suggestion:
 
-> All emojis designed by [OpenMoji](https://openmoji.org/) – the open-source emoji and icon project. License: CC BY-SA 4.0
+> All emojis designed by [OpenMoji](https://openmoji.org/) – the open-source emoji and icon project. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)
 
 
 ## License

@@ -1,18 +1,18 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="color">
-    <path fill="#B399C8" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M40.622,31.5183c0,0,5.428,2.9132,11.6829,0c-0.0374-6.8999-5.7292-10.5636-5.7292-10.5636S40.6594,24.6184,40.622,31.5183z"/>
-    <path fill="#B399C8" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.6951,31.5183c0,0,5.428,2.9132,11.6829,0c-0.0374-6.8999-5.7292-10.5636-5.7292-10.5636S20.7325,24.6184,20.6951,31.5183z"/>
-    <path fill="#B399C8" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M36.4953,46.5748H23.9432c0,0,4.6369,2.883,7.5646,6.4963c2.9277,3.6133,4.9875,7.01,4.9875,7.01h0.0461 c0,0,2.0599-3.3967,4.9875-7.01c2.9277-3.6133,7.5646-6.4963,7.5646-6.4963H36.5413"/>
+    <path fill="#b399c8" d="m39.92 34.12s6.631 3.559 14.27 0c-0.04568-8.429-6.999-12.9-6.999-12.9s-7.227 4.475-7.273 12.9z"/>
+    <path fill="#b399c8" d="m17.54 33.82s6.758 3.627 14.55 0c-0.04656-8.591-7.133-13.15-7.133-13.15s-7.366 4.561-7.413 13.15z"/>
+    <path fill="#b399c8" d="m18.51 43.04-0.0094 2.209s6.664 2.327 9.085 5.315c2.526 1.655 6.505 7.759 7.969 9.313 0 0 5.081-5.097 9.084-10.04 1.945-2.4 8.858-4.522 8.858-4.522l-0.2358-2.277"/>
   </g>
   <g id="hair"/>
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M40.622,31.5183c0,0,5.428,2.9132,11.6829,0c-0.0374-6.8999-5.7292-10.5636-5.7292-10.5636S40.6594,24.6184,40.622,31.5183z"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.6951,31.5183c0,0,5.428,2.9132,11.6829,0c-0.0374-6.8999-5.7292-10.5636-5.7292-10.5636S20.7325,24.6184,20.6951,31.5183z"/>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="35.5616" y1="31.8166" x2="37.4384" y2="31.8166"/>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="26.5366" y1="10.9583" x2="26.5366" y2="17.3023"/>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="46.4634" y1="10.9583" x2="46.4634" y2="17.3023"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M36.4953,46.5748H23.9432c0,0,4.6369,2.883,7.5646,6.4963c2.9277,3.6133,4.9875,7.01,4.9875,7.01h0.0461 c0,0,2.0599-3.3967,4.9875-7.01c2.9277-3.6133,7.5646-6.4963,7.5646-6.4963H36.5413"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m39.66 33.44s6.605 3.51 14.22 0c-0.04551-8.313-6.972-12.73-6.972-12.73s-7.2 4.414-7.245 12.73z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m18.12 33.44s6.605 3.51 14.22 0c-0.04551-8.313-6.972-12.73-6.972-12.73s-7.2 4.414-7.245 12.73z"/>
+    <line x1="34.63" x2="37.37" y1="33.09" y2="33.1" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="25.23" x2="25.23" y1="11.77" y2="20.17" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="46.77" x2="46.77" y1="12.01" y2="20.71" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m35.76 42.86-17.16 2.53e-4 -3.72e-4 2.445s7.12 2.194 11.2 6.873c4.082 4.679 5.957 8.172 5.957 8.172h0.06427s1.332-3.312 5.414-7.991c4.082-4.679 12.17-7.054 12.17-7.054l-4.69e-4 -2.445-17.59-2.53e-4"/>
   </g>
 </svg>

@@ -9,11 +9,11 @@ color_transform: translate(0 0)
 # Space width matching DejaVu Sans and Bitstream Vera Sans.
 width_space: 561
 table_name:
-  version: 2.0.0
+  version: 12.1.0
   copyright: OpenMoji © HfG Schwäbisch Gmünd CC-BY-SA-4.0
   family: OpenMoji
   # Subfamily is also called Style or Weight. Often set to: Regular
-  subfamily: Regular
+  subfamily: Color
   unique_id: OpenMoji Color openmoji.org
   full_name: OpenMoji Color
   # No spaces in PostScript Names

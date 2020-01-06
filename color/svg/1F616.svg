@@ -1,6 +1,6 @@
 <svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="color">
-    <path fill="#fcea2b" d="M36,13.1161c-12.6823,0-23,10.3177-23,23c0,12.6822,10.3177,23,23,23c12.6822,0,23-10.3178,23-23 C59,23.4338,48.6822,13.1161,36,13.1161z" stroke="none"/>
+    <path fill="#FCEA2B" d="M36,13.1161c-12.6823,0-23,10.3177-23,23c0,12.6822,10.3177,23,23,23c12.6822,0,23-10.3178,23-23 C59,23.4338,48.6822,13.1161,36,13.1161z"/>
   </g>
   <g id="hair"/>
   <g id="skin"/>
@@ -8,11 +8,11 @@
   <g id="line">
     <circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="36" cy="36" r="23"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M29,43c1.2841-0.6376,3.9847-1.0308,6.8421-0.9981C38.4656,42.0319,40.8318,42.4165,42,43"/>
-    <circle fill="#000000" cx="27.7235" cy="30.7152" r="3" stroke="none"/>
-    <circle fill="#000000" cx="44.9735" cy="30.7152" r="3" stroke="none"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M23,24.7253c0.4132-0.344,2.2456-1.7915,4.9091-1.6364c2.1608,0.1259,3.61,1.2333,4.0909,1.6364"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M40,23.0774c0.4132,0.344,2.2456,1.7915,4.9091,1.6364c2.1608-0.1259,3.61-1.2333,4.0909-1.6364"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M58.8339,7.0537c0.7145-1.4648,2.4873-2.2723,4.2795-1.8451l0,0c2.0481,0.4882,3.3463,2.4041,2.8993,4.2794 c-0.447,1.8753-2.4698,2.9997-4.5179,2.5115l-0.4646,1.9494"/>
-    <ellipse transform="matrix(0.2319 -0.9728 0.9728 0.2319 27.721 72.7288)" cx="59.9109" cy="18.8121" rx="1.9946" ry="1.9946" fill="#000000" stroke="none"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M58.8339,7.0537c0.7145-1.4648,2.4873-2.2723,4.2795-1.8451l0,0c2.0481,0.4882,3.3463,2.4041,2.8993,4.2794 s-2.4698,2.9997-4.5179,2.5115l-0.4646,1.9494"/>
+    <ellipse cx="59.9147" cy="18.81" rx="1.9947" ry="1.9947"/>
+    <path d="M30,31c0,1.6568-1.3448,3-3,3c-1.6553,0-3-1.3433-3-3c0-1.6552,1.3447-3,3-3C28.6552,28,30,29.3448,30,31"/>
+    <path d="M48,31c0,1.6568-1.3447,3-3,3s-3-1.3433-3-3c0-1.6552,1.3447-3,3-3S48,29.3448,48,31"/>
   </g>
 </svg>
