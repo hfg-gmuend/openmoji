@@ -2,6 +2,7 @@ full: true
 plugins:
   - cleanupAttrs
   - convertStyleToAttrs
+  - convertTransform
   - inlineStyles
   - cleanupNumericValues:
       floatPrecision: 4
@@ -21,8 +22,10 @@ plugins:
   - removeUnusedNS
   - removeAttrs:
       attrs:
-        - 'svg:enable-background'
         - 'data-name'
+        - 'inkscape.*'
+        - 'svg:enable-background'
+        - 'xml.*'
   - sortAttrs:
       order: [
         'id',
