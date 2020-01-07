@@ -3,7 +3,7 @@
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
     <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color"/>
@@ -23,7 +23,7 @@
     <path fill="#fcea2b" d="M33.7028,19.2815c-2.1439,1.9526-5.1677,3.3734-9.5218,3.3013" stroke="none"/>
     <line fill="#fcea2b" x1="36.0224" y1="17.5139" x2="33.6423" y2="19.3353" stroke="none"/>
     <polygon fill="#fcea2b" points="33.2028,34.5778 35.1704,27.5153 60.9528,27.5153 60.9528,34.4677" stroke="none"/>
-    <rect x="21.7093" y="38.9254" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 77.2085 12.8684)" fill="#fcea2b" width="20.9214" height="12.2262" stroke="none"/>
+    <rect x="21.7093" y="38.9254" transform="rotate(90 32.17 45.038)" fill="#fcea2b" width="20.9214" height="12.2262" stroke="none"/>
     <polygon fill="#fcea2b" points="35.0621,27.4677 36.0569,24.8121 39.2427,25.3211 36.313,27.4853" stroke="none"/>
   </g>
   <g id="skin-shadow"/>

@@ -12,15 +12,15 @@
   <g id="color">
     <polygon fill="#F4AA41" points="12.9,36 16.5,67 55.5,67 59.1,36"/>
     <polygon fill="#E27022" points="45.1,36 41.5,67 55.5,67 59.1,36"/>
-    <rect x="38.214" y="48.5136" transform="matrix(0.157 -0.9876 0.9876 0.157 -16.8073 90.937)" fill="#FFFFFF" width="13.3" height="13.6"/>
-    <rect x="18.808" y="35.8905" transform="matrix(0.9535 -0.3015 0.3015 0.9535 -11.5227 9.8218)" fill="#FFFFFF" width="14.5005" height="12.7004"/>
+    <rect x="38.214" y="48.5136" transform="rotate(-80.967 44.864 55.314)" fill="#FFFFFF" width="13.3" height="13.6"/>
+    <rect x="18.808" y="35.8905" transform="rotate(-17.547 26.057 42.24)" fill="#FFFFFF" width="14.5005" height="12.7004"/>
   </g>
   <g id="hair"/>
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
     <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="60,28 55.5,67 16.5,67 12,28"/>
-    <rect x="38.214" y="48.5136" transform="matrix(0.157 -0.9876 0.9876 0.157 -16.8073 90.937)" fill="none" stroke="#000000" stroke-width="1.7923" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="13.3" height="13.6"/>
-    <rect x="18.808" y="35.8905" transform="matrix(0.9535 -0.3015 0.3015 0.9535 -11.5227 9.8218)" fill="none" stroke="#000000" stroke-width="1.8081" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="14.5005" height="12.7004"/>
+    <rect x="38.214" y="48.5136" transform="rotate(-80.967 44.864 55.314)" fill="none" stroke="#000000" stroke-width="1.7923" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="13.3" height="13.6"/>
+    <rect x="18.808" y="35.8905" transform="rotate(-17.547 26.057 42.24)" fill="none" stroke="#000000" stroke-width="1.8081" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="14.5005" height="12.7004"/>
   </g>
 </svg>

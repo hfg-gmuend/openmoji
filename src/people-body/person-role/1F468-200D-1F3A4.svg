@@ -11,7 +11,7 @@
     <path fill="#61B2E4" d="M26.9025,44.7949c-12,0-10,13.9674-10,13.9674h15.8934C32.7959,58.7623,28.3745,55.4976,26.9025,44.7949"/>
     <path fill="#61B2E4" d="M44.7775,44.7949c12,0,10,13.9674,10,13.9674h-15.748C39.0295,58.7623,44.4519,51.319,44.7775,44.7949"/>
     <path fill="#92D3F5" d="M33.5327,48.2842c0,0-1.2063,6.0214,2.3073,6.0214c3.5135,0,2.3072-6.0214,2.3072-6.0214"/>
-    <rect x="58.3869" y="37.7814" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -12.716 55.2933)" fill="#9B9B9A" width="4" height="10.4297"/>
+    <rect x="58.3869" y="37.7814" transform="rotate(-45.001 60.387 42.997)" fill="#9B9B9A" width="4" height="10.4297"/>
     <ellipse fill="#D0CFCE" cx="53.6619" cy="36.4614" rx="4" ry="4"/>
     <path fill="#92D3F5" d="M34.9896,54.4882l-2.4152,3.6378c-3.6298-1.7539-5.6719-12.9622-5.6719-12.9622l-5.1046,6.9347l2.974,1.842 l-0.9985,3.1134l8.8689,1.0721"/>
     <polygon fill="#92D3F5" points="35.6789,54.0961 37.4694,56.7063 38.9764,58.7496 32.6649,58.7496 34.1719,56.7063"/>
@@ -32,7 +32,7 @@
     <path d="M35.9624,36.9445c-1.1519,0-2.3037-0.2861-3.4473-0.8579c-0.4941-0.2471-0.6943-0.8476-0.4473-1.3418 c0.2466-0.4936,0.8462-0.6943,1.3418-0.4473c1.7178,0.8594,3.3877,0.8594,5.1055,0c0.4946-0.247,1.0947-0.0463,1.3418,0.4473 c0.2471,0.4942,0.0469,1.0947-0.4473,1.3418C38.2661,36.6584,37.1142,36.9445,35.9624,36.9445z"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M46.98,24.9598c0.21,1.07,0.32,2.2,0.32,3.34 c0,7.83-5.08,14.18-11.34,14.18s-11.34-6.35-11.34-14.18c0-0.97,0.08-1.91,0.23-2.82"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M40.95,15.5798c0.08,0.04,0.16,0.09,0.23,0.14 c0.14,0.09,0.28,0.18,0.41,0.28"/>
-    <rect x="58.3869" y="37.7814" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -12.716 55.2933)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="4" height="10.4297"/>
+    <rect x="58.3869" y="37.7814" transform="rotate(-45.001 60.387 42.997)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="4" height="10.4297"/>
     <ellipse fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="53.6619" cy="36.4614" rx="4" ry="4"/>
     <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="64.2917" y1="46.8677" x2="67.1379" y2="49.7138"/>
     <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="58.8928" y1="44.6641" x2="58.8928" y2="57.8641"/>

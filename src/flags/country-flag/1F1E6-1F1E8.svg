@@ -3,7 +3,7 @@
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
     <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
@@ -25,16 +25,16 @@
       <path d="M55.0483,41.7818c0,5.4893-1.8016,9.9393-4.0241,9.9393S47,47.2711,47,41.7818Z" fill="#fff"/>
       <path d="M54.0279,42.7818c-.2013,4.8789-1.8477,7.9393-3.0037,7.9393s-2.8025-3.06-3.0038-7.9393h6.0075m1.02-1H47c0,5.4893,1.8017,9.9393,4.0242,9.9393s4.0241-4.45,4.0241-9.9393Z"/>
     </g>
-    <ellipse cx="45.9058" cy="41.1927" rx="1" ry="0.5" transform="translate(-14.7874 30.2147) rotate(-31.65)" fill="#a57939" stroke="#6a462f" stroke-miterlimit="10"/>
-    <ellipse cx="43.8277" cy="49.9495" rx="0.5" ry="1" transform="translate(-19.6914 30.4267) rotate(-31.65)" fill="#a57939" stroke="#6a462f" stroke-miterlimit="10"/>
+    <ellipse cx="45.9058" cy="41.1927" rx="1" ry="0.5" transform="rotate(-31.65 45.906 41.193)" fill="#a57939" stroke="#6a462f" stroke-miterlimit="10"/>
+    <ellipse cx="43.8277" cy="49.9495" rx="0.5" ry="1" transform="rotate(-31.65 43.828 49.95)" fill="#a57939" stroke="#6a462f" stroke-miterlimit="10"/>
     <path d="M40.757,49.4724c-1.3634-.3235-1.9723-2.6772-1.36-5.2572s2.2138-4.4091,3.5772-4.0856a2.0232,2.0232,0,0,1,1.3007,1.4393l-1.7092,7.2022A2.0226,2.0226,0,0,1,40.757,49.4724Z" fill="#a57939" stroke="#6a462f" stroke-miterlimit="10"/>
-    <ellipse cx="56.0942" cy="41.1927" rx="0.5" ry="1" transform="translate(-8.4062 67.329) rotate(-58.35)" fill="#a57939" stroke="#6a462f" stroke-miterlimit="10"/>
-    <ellipse cx="58.1723" cy="49.9495" rx="1" ry="0.5" transform="translate(-14.8729 73.2599) rotate(-58.35)" fill="#a57939" stroke="#6a462f" stroke-miterlimit="10"/>
+    <ellipse cx="56.0942" cy="41.1927" rx="0.5" ry="1" transform="rotate(-58.35 56.094 41.193)" fill="#a57939" stroke="#6a462f" stroke-miterlimit="10"/>
+    <ellipse cx="58.1723" cy="49.9495" rx="1" ry="0.5" transform="rotate(-58.35 58.172 49.95)" fill="#a57939" stroke="#6a462f" stroke-miterlimit="10"/>
     <path d="M61.243,49.4724c1.3634-.3235,1.9723-2.6772,1.36-5.2572s-2.2138-4.4091-3.5772-4.0856a2.0232,2.0232,0,0,0-1.3007,1.4393l1.7092,7.2022A2.0226,2.0226,0,0,0,61.243,49.4724Z" fill="#a57939" stroke="#6a462f" stroke-miterlimit="10"/>
     <path d="M53.5645,48.0205a.5009.5009,0,0,1-.3477-.1406l-2.2627-2.1846L48.6914,47.88a.5.5,0,0,1-.6953-.7188l2.61-2.52a.5.5,0,0,1,.6954,0l2.61,2.52a.5.5,0,0,1-.3476.8594Z" fill="#5c9e31"/>
     <path d="M54.0279,42.7818c-.2013,4.8789-1.8477,7.9393-3.0037,7.9393s-2.8025-3.06-3.0038-7.9393h6.0075m1.02-1H47c0,5.4893,1.8017,9.9393,4.0242,9.9393s4.0241-4.45,4.0241-9.9393Z"/>
-    <ellipse cx="57.5784" cy="38.785" rx="1" ry="1.5" transform="translate(-7.3995 14.3429) rotate(-13.35)" fill="#a57939" stroke="#6a462f" stroke-miterlimit="10"/>
-    <ellipse cx="44.4216" cy="38.785" rx="1.5" ry="1" transform="translate(-3.5722 73.0508) rotate(-76.65)" fill="#a57939" stroke="#6a462f" stroke-miterlimit="10"/>
+    <ellipse cx="57.5784" cy="38.785" rx="1" ry="1.5" transform="rotate(-13.35 57.579 38.785)" fill="#a57939" stroke="#6a462f" stroke-miterlimit="10"/>
+    <ellipse cx="44.4216" cy="38.785" rx="1.5" ry="1" transform="rotate(-76.65 44.422 38.785)" fill="#a57939" stroke="#6a462f" stroke-miterlimit="10"/>
   </g>
   <g id="line">
     <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

@@ -23,7 +23,7 @@
     <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="32,39.9998 25.5,46.4998 25.5,39.9998"/>
     <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="34.5,43.3298 34.5,55.9998 25.5,55.9998 25.5,52.3298"/>
     <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="48,47 42.7924,47 40,47 40,40 42,40 48,40"/>
-    <rect x="20.0678" y="43.4573" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -23.5765 34.1179)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="18.6558" height="4.122"/>
+    <rect x="20.0678" y="43.4573" transform="rotate(-45.001 29.395 45.519)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="18.6558" height="4.122"/>
     <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="42.7917,47 46,43 43,42 42,40 48,40 48,47"/>
     <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="42" y1="22" x2="42" y2="26"/>
     <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="45" y1="25" x2="45" y2="26"/>

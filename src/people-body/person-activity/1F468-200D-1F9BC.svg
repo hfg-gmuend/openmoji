@@ -3,7 +3,7 @@
     <path d="M68.3285,3.2594v64h-64v-64h64m4-4h-72v72h72v-72Z" fill="#b3b3b3"/>
     <path d="M13.2515,10.2177H59.4054a1.9231,1.9231,0,0,1,1.9231,1.9231V58.2946a1.9231,1.9231,0,0,1-1.9231,1.9231H13.2516a1.9231,1.9231,0,0,1-1.9231-1.9231V12.1407A1.923,1.923,0,0,1,13.2515,10.2177Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <rect x="16.3285" y="3.2594" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16.3285" y="3.2594" width="40" height="64" rx="2.2537" transform="translate(71.5879 -1.069) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16.3285" y="3.2594" width="40" height="64" rx="2.2537" transform="rotate(90 36.328 35.26)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36.3285" cy="35.2594" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">

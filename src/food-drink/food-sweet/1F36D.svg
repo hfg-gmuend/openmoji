@@ -3,17 +3,17 @@
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
     <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -14.9122 35.9995)" fill="#ea5a47" cx="36" cy="36.0007" rx="14.9999" ry="14.9999" stroke="none"/>
+    <ellipse transform="rotate(-45.001 35.999 36.001)" fill="#ea5a47" cx="36" cy="36.0007" rx="14.9999" ry="14.9999" stroke="none"/>
   </g>
   <g id="hair"/>
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -14.9124 36.0002)" fill="none" stroke="#000000" stroke-width="2.0397" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36.0009" rx="14.9998" ry="14.9998"/>
+    <ellipse transform="rotate(-45.001 36 36.002)" fill="none" stroke="#000000" stroke-width="2.0397" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36" cy="36.0009" rx="14.9998" ry="14.9998"/>
     <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="12" y1="60" x2="23" y2="49"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M29.6367,31.0498c3.1231-3.124,8.1885-3.125,11.3125,0"/>
     <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M43.7783,28.2217c-2.1533-2.1543-4.9209-3.3184-7.7392-3.4932"/>

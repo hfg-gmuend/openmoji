@@ -3,7 +3,7 @@
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
     <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
@@ -13,9 +13,9 @@
     <path fill="#61b2e4" d="M9.6372,48.3409c-1.1216,1.959-0.2771,4.5512,1.8862,5.7898c0,0,1.8239,1.0541,2.4002-0.2086v0 c0.0788-0.4426-0.1506-0.8947-0.5626-1.1331c-0.9434-0.546-1.1558-1.8976-0.6901-2.7111" stroke="none"/>
     <path fill="#61b2e4" d="M9.6372,48.3409c0.4536-0.7922,1.5004-1.0456,2.3381-0.5659c0.8377,0.4796,1.1492,1.5107,0.6956,2.3029" stroke="none"/>
     <path fill="#FCEA2B" d="M23.3277,48.0304c-2.201,1.2615-5.0942,0.3494-6.4621-2.0372c-1.3679-2.3866-0.6925-5.344,1.5085-6.6055 c3.9184-2.2458,6.1114-5.9562,4.0774-9.5049l-5.4873-9.6681c0,0,1.4067-2.2395,3.4963-1.8747 c0.379,0.0662,0.7424-0.0995,0.8865-0.4554c0.8069-1.9935,3.9277-9.145,7.1242-3.5679l12.7244,22.2009 c0.3031,0.5288,0.1534,1.184-0.3342,1.4635L23.3277,48.0304" stroke="none"/>
-    <rect x="34.0996" y="20.1135" transform="matrix(0.866 -0.5 0.5 0.866 -10.2229 21.6469)" fill="#F1B31C" width="2.3651" height="19.5722" stroke="none"/>
+    <rect x="34.0996" y="20.1135" transform="rotate(-30 35.28 29.9)" fill="#F1B31C" width="2.3651" height="19.5722" stroke="none"/>
     <path fill="#9B9B9A" d="M20.552,26.536l-3.5879-6.3214c0,0,1.1922-1.989,3.4963-1.8747l0.8865-0.4554 c0,0,1.927-5.9618,4.8208-5.6537c0,0,2.9312,1.4284,5.6157,7.8648L20.552,26.536z" stroke="none"/>
-    <rect x="26.6594" y="12.1761" transform="matrix(0.866 -0.5 0.5 0.866 -4.7763 16.2002)" fill="#3F3F3F" width="2.3651" height="9.6733" stroke="none"/>
+    <rect x="26.6594" y="12.1761" transform="rotate(-30 27.84 17.014)" fill="#3F3F3F" width="2.3651" height="9.6733" stroke="none"/>
   </g>
   <g id="hair"/>
   <g id="skin"/>

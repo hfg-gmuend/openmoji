@@ -10,6 +10,7 @@ plugins:
       shorthex: false
       shortname: false
   - convertStyleToAttrs
+  - convertTransform
   - inlineStyles
   - removeAttrs:
       attrs:

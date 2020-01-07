@@ -3,14 +3,14 @@
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
     <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
     <path fill="#9B9B9A" stroke="#9B9B9A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M45.5153,20.1707c0,0,7.116-7.9306,13.3053-7.2782v5.8571c0,0-3.3014-0.9753-8.2012,5.762"/>
     <path fill="#9B9B9A" stroke="#9B9B9A" stroke-miterlimit="10" d="M23.3045,24.1514c0,0-3.6232,2.4309-3.1341,4.0328l23.497,23.5426 c0,0,0.9153,0.5151,2.0191-1.0588l1.7375-2.5347"/>
     <path fill="#D0CFCE" d="M24,24c0,0,8-6,17-2l3-3l7.1483,6.849l-2.6127,3.0195c0,0,5.1386,9.3265-1.1003,18.7815L24,24z" stroke="none"/>
-    <rect x="43.8517" y="19.5368" transform="matrix(0.6754 -0.7375 0.7375 0.6754 -2.8614 41.802)" fill="#9B9B9A" width="4.4023" height="9.2292" stroke="none"/>
+    <rect x="43.8517" y="19.5368" transform="rotate(-47.517 46.05 24.15)" fill="#9B9B9A" width="4.4023" height="9.2292" stroke="none"/>
     <path fill="#92D3F5" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.7513,41.9211c-0.9549,0.9549-2.5745,0.8797-3.6198-0.1655s-1.1185-2.6668-0.1636-3.6217c0,0,1.1397-1.1811,4.8354-1.683 c0,0,0.7352-0.1359,0.6299,0.5727C21.9313,40.7193,20.7513,41.9211,20.7513,41.9211"/>
     <path fill="#92D3F5" stroke="none" stroke-width="2" stroke-miterlimit="10" d="M18.8605,40.0265"/>
     <path fill="#92D3F5" stroke="none" stroke-width="2" stroke-miterlimit="10" d="M16.3667,53.4705 c-0.9549,0.9549-2.5745,0.8797-3.6198-0.1655c-1.0453-1.0453-1.1185-2.6668-0.1636-3.6217c0,0,1.1397-1.1812,4.8354-1.683 c0,0,0.7352-0.1359,0.6299,0.5727C17.5468,52.2687,16.3667,53.4705,16.3667,53.4705"/>

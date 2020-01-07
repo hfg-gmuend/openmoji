@@ -3,7 +3,7 @@
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
     <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
@@ -14,8 +14,8 @@
   <g id="skin-shadow"/>
   <g id="line">
     <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M48.1546,23.505 c-3.4279-3.5522-4.0284-8.7836-1.8682-12.9334l-3.6009-3.7315L6.3276,41.9262l3.8016,3.9394 c4.0722-1.5735,8.8681-0.6711,12.09,2.6676s3.9531,8.1636,2.2356,12.1773l3.8016,3.9394l36.3579-35.0861l-3.6009-3.7315 C56.7892,27.8434,51.5825,27.0572,48.1546,23.505z"/>
-    <ellipse transform="matrix(0.7098 -0.7044 0.7044 0.7098 -4.8096 32.5704)" fill="#000000" cx="37.1223" cy="22.122" rx="2" ry="2" stroke="none"/>
-    <ellipse transform="matrix(0.7098 -0.7044 0.7044 0.7098 -7.5322 39.0393)" fill="#000000" cx="43.6116" cy="28.6606" rx="2" ry="2" stroke="none"/>
-    <ellipse transform="matrix(0.7098 -0.7044 0.7044 0.7098 -10.2548 45.5083)" fill="#000000" cx="50.101" cy="35.1992" rx="2" ry="2" stroke="none"/>
+    <ellipse transform="rotate(-44.781 37.124 22.123)" fill="#000000" cx="37.1223" cy="22.122" rx="2" ry="2" stroke="none"/>
+    <ellipse transform="rotate(-44.781 43.614 28.661)" fill="#000000" cx="43.6116" cy="28.6606" rx="2" ry="2" stroke="none"/>
+    <ellipse transform="rotate(-44.781 50.104 35.2)" fill="#000000" cx="50.101" cy="35.1992" rx="2" ry="2" stroke="none"/>
   </g>
 </svg>

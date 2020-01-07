@@ -3,12 +3,12 @@
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
     <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
     <path d="M54.26,17.4722l6.5031-6.5031a1.2343,1.2343,0,0,0,0-1.7455l-.7191-.7192a1.2259,1.2259,0,0,0-1.7335,0l-6.5091,6.5091Z" fill="#3f3f3f"/>
-    <rect x="14.59" y="30.4268" width="45.0355" height="3.477" transform="translate(-11.8757 35.6601) rotate(-45)" fill="#d0cfce"/>
+    <rect x="14.59" y="30.4268" width="45.0355" height="3.477" transform="rotate(-45 37.108 32.165)" fill="#d0cfce"/>
     <polygon points="9.842 56.973 19.956 46.858 22.415 49.317 12.506 59.226 9.842 56.973" fill="#ea5a47"/>
     <path d="M9.6356,57.0559l.206-.0831,2.664,2.2532-.0426.1656c-.1756,1.1215-2.8462,1.9481-3.3242,1.47l-.7233-.7232C7.9352,59.658,8.4063,57.6706,9.6356,57.0559Z" fill="#d0cfce"/>
   </g>

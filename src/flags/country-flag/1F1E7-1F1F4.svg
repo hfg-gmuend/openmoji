@@ -3,7 +3,7 @@
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
     <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
@@ -11,8 +11,8 @@
     <rect x="5" y="42" width="62" height="13" fill="#5c9e31"/>
     <rect x="5" y="17" width="62" height="13" fill="#d22f27"/>
     <g>
-      <ellipse cx="38.5" cy="33.2" rx="2.2" ry="1.2" transform="translate(-12.1996 36.9477) rotate(-45)"/>
-      <ellipse cx="34.5" cy="33.2" rx="1.2" ry="2.2" transform="translate(-13.3711 34.1192) rotate(-45)"/>
+      <ellipse cx="38.5" cy="33.2" rx="2.2" ry="1.2" transform="rotate(-45 38.5 33.2)"/>
+      <ellipse cx="34.5" cy="33.2" rx="1.2" ry="2.2" transform="rotate(-45 34.5 33.2)"/>
       <ellipse cx="36.5" cy="36.8667" rx="2" ry="3.1333" fill="#61b2e4"/>
       <path d="M40,41a1,1,0,0,1-.707-1.707,1.725,1.725,0,0,0-.0059-2.5918,1,1,0,0,1,1.42-1.4082,3.7206,3.7206,0,0,1,0,5.414A.9967.9967,0,0,1,40,41Z" fill="#d22f27"/>
       <path d="M32.8887,41a.9971.9971,0,0,1-.7071-.293,3.7208,3.7208,0,0,1,0-5.414,1,1,0,0,1,1.419,1.41,1.7242,1.7242,0,0,0-.0049,2.59A1,1,0,0,1,32.8887,41Z" fill="#d22f27"/>

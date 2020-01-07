@@ -3,7 +3,7 @@
     <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
     <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
@@ -30,7 +30,7 @@
     <path d="M44.9556,34.81S44,45,52,47" fill="#92d3f5"/>
     <path d="M56,42.9188c-2.4-1.5567-8,0-8,0L52,47Z" fill="#1e50a0" stroke="#1e50a0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <polyline points="46 37 49 41 49 44" fill="none" stroke="#a57939" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <ellipse cx="46.8576" cy="40.5894" rx="0.5" ry="2.6466" transform="translate(-10.3208 16.6359) rotate(-18.1699)" fill="none" stroke="#a57939" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <ellipse cx="46.8576" cy="40.5894" rx="0.5" ry="2.6466" transform="rotate(-18.17 46.858 40.59)" fill="none" stroke="#a57939" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <polygon points="53 32 51 32 50 30 53 32" fill="#f4aa41" stroke="#a57939" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <path d="M55,41H52A2.8222,2.8222,0,0,0,55,41Z" fill="none" stroke="#f4aa41" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <path d="M58.5833,29v9c0,6.75-6.75,9-6.75,9s-6.75-2.25-6.75-9V29S51.9792,25.5937,58.5833,29Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
