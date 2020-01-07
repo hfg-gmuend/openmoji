@@ -1,8 +1,6 @@
 full: true
 plugins:
   - cleanupAttrs
-  - convertStyleToAttrs
-  - inlineStyles
   - cleanupNumericValues:
       floatPrecision: 4
       leadingZero: false
@@ -11,15 +9,40 @@ plugins:
       rgb2hex: true
       shorthex: false
       shortname: false
-  - removeXMLProcInst
+  - convertStyleToAttrs
+  - inlineStyles
+  - removeAttrs:
+      attrs:
+        - 'data-name'
+        - 'xml.space'
+        - 'svg:enable-background'
   - removeComments
+  - removeDesc
+  - removeEmptyText
   - removeMetadata
   - removeTitle
-  - removeDesc
-  - removeUselessDefs
-  - removeEmptyText
   - removeUnusedNS
-  - sortAttrs
+  - removeUselessDefs
+  - removeXMLProcInst
+  - sortAttrs:
+     order: [
+       'id',
+       'x', 'x1', 'x2', 'cx',
+       'y', 'y1', 'y2', 'cy',
+       'r', 'rx', 'ry',
+       'width', 'height',
+       'transform',
+       'fill', 'fill-opacity', 'fill-rule',
+       'stroke', 'stroke-dasharray', 'stroke-linecap', 'stroke-linejoin', 'stroke-miterlimit', 'stroke-width',
+       'opacity',
+       'points', 'd',
+       'viewBox',
+       'overflow',
+       'paint-order',
+       'version',
+       'xmlns',
+     ]
+     xmlnsOrder: 'back'
 js2svg:
   pretty: true
   indent: '  '

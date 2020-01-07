@@ -1,18 +1,18 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <path d="M52.1576,7.41l-7.652,17.1477L36.1566,7,27.9337,24.5572,19.45,7.4744S6.6522,23.6645,6.6522,38.8005,22.32,65,35.8392,65H36.6c13.52,0,27.9646-11.0636,27.9646-26.1995S52.1576,7.41,52.1576,7.41Z" fill="#ea5a47"/>
-    <path d="M25.452,31.01H51.958a2.9184,2.9184,0,0,1,2.9184,2.9184v17.133A2.9184,2.9184,0,0,1,51.958,53.98H20.8318a2.9184,2.9184,0,0,1-2.9184-2.9184V38.5485A7.5386,7.5386,0,0,1,25.452,31.01Z" fill="#d22f27"/>
-    <rect x="19.0221" y="31.7258" width="33.071" height="19.7312" rx="2.9184" ry="2.9184" fill="#fff"/>
+    <path fill="#ea5a47" d="M52.1576,7.41l-7.652,17.1477L36.1566,7,27.9337,24.5572,19.45,7.4744S6.6522,23.6645,6.6522,38.8005,22.32,65,35.8392,65H36.6c13.52,0,27.9646-11.0636,27.9646-26.1995S52.1576,7.41,52.1576,7.41Z"/>
+    <path fill="#d22f27" d="M25.452,31.01H51.958a2.9184,2.9184,0,0,1,2.9184,2.9184v17.133A2.9184,2.9184,0,0,1,51.958,53.98H20.8318a2.9184,2.9184,0,0,1-2.9184-2.9184V38.5485A7.5386,7.5386,0,0,1,25.452,31.01Z"/>
+    <rect x="19.0221" y="31.7258" rx="2.9184" ry="2.9184" width="33.071" height="19.7312" fill="#fff"/>
   </g>
   <g id="line">
-    <path d="M52.1576,7.41l-7.652,17.1477L36.1566,7,27.9337,24.5572,19.45,7.4744S6.6522,23.6645,6.6522,38.8005,22.32,65,35.8392,65H36.6c13.52,0,27.9646-11.0636,27.9646-26.1995S52.1576,7.41,52.1576,7.41Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <rect x="19.0221" y="31.7258" width="33.071" height="19.7312" rx="2.9184" ry="2.9184" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M52.1576,7.41l-7.652,17.1477L36.1566,7,27.9337,24.5572,19.45,7.4744S6.6522,23.6645,6.6522,38.8005,22.32,65,35.8392,65H36.6c13.52,0,27.9646-11.0636,27.9646-26.1995S52.1576,7.41,52.1576,7.41Z"/>
+    <rect x="19.0221" y="31.7258" rx="2.9184" ry="2.9184" width="33.071" height="19.7312" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>

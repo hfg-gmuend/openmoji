@@ -1,30 +1,30 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
+    <rect x="16" y="4" rx="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <path fill="#3f3f3f" d="M18,55h36V13H18V55z" stroke="none"/>
-    <path fill="#d0cfce" d="M22.2695,17.0112v14.0005h27.4991V17.0112H22.2695z" stroke="none"/>
-    <path fill="#d0cfce" d="M49.7686,50.8291v-14H22.2695v14H49.7686z" stroke="none"/>
-    <rect x="29.9471" y="19.6765" fill="#9B9B9A" width="11.9829" height="4.3573" stroke="none"/>
-    <rect x="29.5952" y="39.7931" fill="#9B9B9A" width="12.6787" height="4.0669" stroke="none"/>
-    <line fill="#d0cfce" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="17.0087" y1="60.0031" x2="55" y2="60.0031"/>
+    <path fill="#3f3f3f" stroke="none" d="M18,55h36V13H18V55z"/>
+    <path fill="#d0cfce" stroke="none" d="M22.2695,17.0112v14.0005h27.4991V17.0112H22.2695z"/>
+    <path fill="#d0cfce" stroke="none" d="M49.7686,50.8291v-14H22.2695v14H49.7686z"/>
+    <rect x="29.9471" y="19.6765" width="11.9829" height="4.3573" fill="#9B9B9A" stroke="none"/>
+    <rect x="29.5952" y="39.7931" width="12.6787" height="4.0669" fill="#9B9B9A" stroke="none"/>
+    <line x1="17.0087" x2="55" y1="60.0031" y2="60.0031" fill="#d0cfce" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
   </g>
   <g id="hair"/>
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <rect x="17" y="12" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="38" height="44"/>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="17.0087" y1="60.0031" x2="55" y2="60.0031"/>
-    <rect x="21.2693" y="35.8291" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="29.4995" height="16"/>
-    <rect x="29.7349" y="39.7131" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="12.3988" height="4.116"/>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="42.1337" y1="47.8291" x2="29.7349" y2="47.8291"/>
-    <rect x="21.2693" y="16.0113" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="29.4995" height="16"/>
-    <rect x="29.7349" y="19.8953" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="12.3988" height="4.116"/>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="42.1337" y1="28.0113" x2="29.7349" y2="28.0113"/>
+    <rect x="17" y="12" width="38" height="44" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="17.0087" x2="55" y1="60.0031" y2="60.0031" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <rect x="21.2693" y="35.8291" width="29.4995" height="16" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <rect x="29.7349" y="39.7131" width="12.3988" height="4.116" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="42.1337" x2="29.7349" y1="47.8291" y2="47.8291" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <rect x="21.2693" y="16.0113" width="29.4995" height="16" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <rect x="29.7349" y="19.8953" width="12.3988" height="4.116" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="42.1337" x2="29.7349" y1="28.0113" y2="28.0113" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
   </g>
 </svg>

@@ -1,9 +1,9 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
@@ -11,16 +11,16 @@
     <rect x="5" y="17" width="21" height="38"/>
     <rect x="46" y="17" width="21" height="38" fill="#5c9e31"/>
     <g>
-      <path d="M35.75,49A15.25,15.25,0,0,1,24.9668,22.9668a1,1,0,0,1,1.4141,1.4141,13.25,13.25,0,1,0,18.7382,0,1,1,0,1,1,1.4141-1.4141A15.25,15.25,0,0,1,35.75,49Z" fill="#fff"/>
+      <path fill="#fff" d="M35.75,49A15.25,15.25,0,0,1,24.9668,22.9668a1,1,0,0,1,1.4141,1.4141,13.25,13.25,0,1,0,18.7382,0,1,1,0,1,1,1.4141-1.4141A15.25,15.25,0,0,1,35.75,49Z"/>
       <g>
-        <path d="M40,32H32a1,1,0,0,1,0-2h8a1,1,0,0,1,0,2Z" fill="#fff"/>
-        <path d="M32,29a1,1,0,0,1-1-1V25a1,1,0,0,1,2,0v3A1,1,0,0,1,32,29Z" fill="#fff"/>
-        <path d="M32,41a1,1,0,0,1-1-1V34a1,1,0,0,1,2,0v6A1,1,0,0,1,32,41Z" fill="#fff"/>
-        <path d="M40,29a1,1,0,0,1-1-1V25a1,1,0,0,1,2,0v3A1,1,0,0,1,40,29Z" fill="#fff"/>
-        <path d="M40,41a1,1,0,0,1-1-1V34a1,1,0,0,1,2,0v6A1,1,0,0,1,40,41Z" fill="#fff"/>
+        <path fill="#fff" d="M40,32H32a1,1,0,0,1,0-2h8a1,1,0,0,1,0,2Z"/>
+        <path fill="#fff" d="M32,29a1,1,0,0,1-1-1V25a1,1,0,0,1,2,0v3A1,1,0,0,1,32,29Z"/>
+        <path fill="#fff" d="M32,41a1,1,0,0,1-1-1V34a1,1,0,0,1,2,0v6A1,1,0,0,1,32,41Z"/>
+        <path fill="#fff" d="M40,29a1,1,0,0,1-1-1V25a1,1,0,0,1,2,0v3A1,1,0,0,1,40,29Z"/>
+        <path fill="#fff" d="M40,41a1,1,0,0,1-1-1V34a1,1,0,0,1,2,0v6A1,1,0,0,1,40,41Z"/>
         <circle cx="36" cy="27" r="2" fill="#fff"/>
       </g>
-      <path d="M42,44H30a1,1,0,0,1,0-2H42a1,1,0,0,1,0,2Z" fill="#fff"/>
+      <path fill="#fff" d="M42,44H30a1,1,0,0,1,0-2H42a1,1,0,0,1,0,2Z"/>
     </g>
   </g>
   <g id="line">
