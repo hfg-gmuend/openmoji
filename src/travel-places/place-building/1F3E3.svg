@@ -1,44 +1,44 @@
-<svg id="emoji" x="0" y="0" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72">
   <g id="grid">
     <path fill="#B3B3B3" d="M68,4v64H4V4H68 M72,0H0v72h72V0z"/>
-    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583h46.1539 c1.0621,0,1.9231,0.861,1.9231,1.9231l0,0v46.1538c0,1.0621-0.861,1.9231-1.9231,1.9231H12.9231 c-1.0621,0-1.9231-0.861-1.9231-1.9231l0,0V12.8813C11,11.8193,11.861,10.9583,12.923,10.9583L12.923,10.9583z"/>
-    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M18.2537,4h35.4926C54.991,4,56,5.009,56,6.2537 v59.4926C56,66.991,54.991,68,53.7463,68H18.2537C17.009,68,16,66.991,16,65.7463V6.2537C16,5.009,17.009,4,18.2537,4z"/>
-    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M68,18.2537v35.4926 C68,54.991,66.991,56,65.7463,56H6.2537C5.009,56,4,54.991,4,53.7463V18.2537C4,17.009,5.009,16,6.2537,16h59.4926 C66.991,16,68,17.009,68,18.2537z"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path fill="none" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10" d="M12.923,10.9583h46.1539 c1.0621,0,1.9231,0.861,1.9231,1.9231l0,0v46.1538c0,1.0621-0.861,1.9231-1.9231,1.9231H12.9231 c-1.0621,0-1.9231-0.861-1.9231-1.9231l0,0V12.8813C11,11.8193,11.861,10.9583,12.923,10.9583L12.923,10.9583z"/>
+    <path fill="none" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10" d="M18.2537,4h35.4926C54.991,4,56,5.009,56,6.2537 v59.4926C56,66.991,54.991,68,53.7463,68H18.2537C17.009,68,16,66.991,16,65.7463V6.2537C16,5.009,17.009,4,18.2537,4z"/>
+    <path fill="none" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10" d="M68,18.2537v35.4926 C68,54.991,66.991,56,65.7463,56H6.2537C5.009,56,4,54.991,4,53.7463V18.2537C4,17.009,5.009,16,6.2537,16h59.4926 C66.991,16,68,17.009,68,18.2537z"/>
+    <circle fill="none" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10" cx="36" cy="36" r="29"/>
   </g>
   <g id="color">
-    <rect x="12.5" y="12" width="27" height="48" fill="#D0CFCE"/>
-    <rect x="39.5" y="25" width="19" height="35" fill="#D0CFCE"/>
-    <rect x="17" y="40" width="2" height="5" fill="#92D3F5" stroke="#92D3F5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="25" y="40" width="2" height="5" fill="#92D3F5" stroke="#92D3F5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="33" y="40" width="2" height="5" fill="#92D3F5" stroke="#92D3F5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="44" y="30" width="2" height="5" fill="#92D3F5" stroke="#92D3F5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="52" y="30" width="2" height="5" fill="#92D3F5" stroke="#92D3F5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="44" y="40" width="2" height="5" fill="#92D3F5" stroke="#92D3F5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="52" y="40" width="2" height="5" fill="#92D3F5" stroke="#92D3F5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="44" y="50" width="2" height="5" fill="#92D3F5" stroke="#92D3F5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="52" y="50" width="2" height="5" fill="#92D3F5" stroke="#92D3F5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="19.5" y="50" width="13" height="10" fill="#92D3F5"/>
+    <rect x="12.5" y="12" fill="#D0CFCE" width="27" height="48"/>
+    <rect x="39.5" y="25" fill="#D0CFCE" width="19" height="35"/>
+    <rect x="17" y="40" fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="2" height="5"/>
+    <rect x="25" y="40" fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="2" height="5"/>
+    <rect x="33" y="40" fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="2" height="5"/>
+    <rect x="44" y="30" fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="2" height="5"/>
+    <rect x="52" y="30" fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="2" height="5"/>
+    <rect x="44" y="40" fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="2" height="5"/>
+    <rect x="52" y="40" fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="2" height="5"/>
+    <rect x="44" y="50" fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="2" height="5"/>
+    <rect x="52" y="50" fill="#92D3F5" stroke="#92D3F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="2" height="5"/>
+    <rect x="19.5" y="50" fill="#92D3F5" width="13" height="10"/>
   </g>
   <g id="hair"/>
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <rect x="12.5" y="12" width="27" height="48" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="39.5" y="25" width="19" height="35" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="19.5" y="50" width="13" height="10" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <line x1="26" x2="26" y1="60" y2="50" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="54,35 52,35 52,30"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="54,45 52,45 52,40"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="54,55 52,55 52,50"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="46,35 44,35 44,30"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="27,45 25,45 25,40"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="35,45 33,45 33,40"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="19,45 17,45 17,40"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="46,45 44,45 44,40"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="46,55 44,55 44,50"/>
-    <rect x="18" y="18" width="16" height="2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="18" y="24" width="16" height="2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="25" y="26" width="2" height="7" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <rect x="12.5" y="12" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="27" height="48"/>
+    <rect x="39.5" y="25" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="19" height="35"/>
+    <rect x="19.5" y="50" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="13" height="10"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="26" y1="60" x2="26" y2="50"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="54,35 52,35 52,30"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="54,45 52,45 52,40"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="54,55 52,55 52,50"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="46,35 44,35 44,30"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="27,45 25,45 25,40"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="35,45 33,45 33,40"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="19,45 17,45 17,40"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="46,45 44,45 44,40"/>
+    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="46,55 44,55 44,50"/>
+    <rect x="18" y="18" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="16" height="2"/>
+    <rect x="18" y="24" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="16" height="2"/>
+    <rect x="25" y="26" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="2" height="7"/>
   </g>
 </svg>

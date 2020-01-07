@@ -1,9 +1,9 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="grid">
-    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72Z"/>
-    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.9,11H59.1A1.8987,1.8987,0,0,1,61,12.9h0V59a1.8987,1.8987,0,0,1-1.9,1.9H12.9A1.8371,1.8371,0,0,1,11,59h0V12.9A1.8987,1.8987,0,0,1,12.9,11Z"/>
-    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M18.3,4H53.8A2.2425,2.2425,0,0,1,56,6.3V65.8a2.3261,2.3261,0,0,1-2.3,2.3H18.3A2.4139,2.4139,0,0,1,16,65.7V6.3A2.263,2.263,0,0,1,18.3,4Z"/>
-    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M68,18.3V53.8a2.3261,2.3261,0,0,1-2.3,2.3H6.3A2.4139,2.4139,0,0,1,4,53.7V18.3A2.263,2.263,0,0,1,6.3,16H65.8A2.2425,2.2425,0,0,1,68,18.3Z"/>
+    <path d="M68,4V68H4V4H68m4-4H0V72H72Z" fill="#b3b3b3"/>
+    <path d="M12.9,11H59.1A1.8987,1.8987,0,0,1,61,12.9h0V59a1.8987,1.8987,0,0,1-1.9,1.9H12.9A1.8371,1.8371,0,0,1,11,59h0V12.9A1.8987,1.8987,0,0,1,12.9,11Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path d="M18.3,4H53.8A2.2425,2.2425,0,0,1,56,6.3V65.8a2.3261,2.3261,0,0,1-2.3,2.3H18.3A2.4139,2.4139,0,0,1,16,65.7V6.3A2.263,2.263,0,0,1,18.3,4Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path d="M68,18.3V53.8a2.3261,2.3261,0,0,1-2.3,2.3H6.3A2.4139,2.4139,0,0,1,4,53.7V18.3A2.263,2.263,0,0,1,6.3,16H65.8A2.2425,2.2425,0,0,1,68,18.3Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="line-supplement">
@@ -11,17 +11,17 @@
   </g>
   <g id="color">
     <circle cx="36" cy="36" r="24" fill="#fcea2b"/>
-    <path fill="#f1b31c" d="M53,19A24.0417,24.0417,0,0,1,36,60a24.302,24.302,0,0,1-17-7"/>
-    <polyline fill="#fff" points="33.2 33.2 24 48 38.8 38.8"/>
-    <polyline fill="#ea5a47" points="33.2 33.2 48 24 38.8 38.8"/>
+    <path d="M53,19A24.0417,24.0417,0,0,1,36,60a24.302,24.302,0,0,1-17-7" fill="#f1b31c"/>
+    <polyline points="33.2 33.2 24 48 38.8 38.8" fill="#fff"/>
+    <polyline points="33.2 33.2 48 24 38.8 38.8" fill="#ea5a47"/>
   </g>
   <g id="line">
     <circle cx="36" cy="36" r="24" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="33.2 33.2 24 48 38.8 38.8"/>
-    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="33.2 33.2 48 24 38.8 38.8"/>
-    <line x1="36" x2="36" y1="21" y2="16" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="36" x2="36" y1="56" y2="51" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="51" x2="56" y1="36" y2="36" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="16" x2="21" y1="36" y2="36" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="33.2 33.2 24 48 38.8 38.8" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="33.2 33.2 48 24 38.8 38.8" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="36" y1="21" x2="36" y2="16" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="36" y1="56" x2="36" y2="51" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="51" y1="36" x2="56" y2="36" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="16" y1="36" x2="21" y2="36" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>

@@ -1,21 +1,21 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="grid">
-    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
-    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
-    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#781e32"/>
-    <polygon fill="#fff" points="26 19.5 22.5 20.75 19 22 19 19.5 19 17 22.5 18.25 26 19.5"/>
-    <polygon fill="#fff" points="26 24.214 22.5 25.464 19 26.714 19 24.214 19 21.714 22.5 22.964 26 24.214"/>
-    <polygon fill="#fff" points="26 28.929 22.5 30.179 19 31.429 19 28.929 19 26.429 22.5 27.679 26 28.929"/>
-    <polygon fill="#fff" points="26 33.643 22.5 34.893 19 36.143 19 33.643 19 31.143 22.5 32.393 26 33.643"/>
-    <polygon fill="#fff" points="26 38.357 22.5 39.607 19 40.857 19 38.357 19 35.857 22.5 37.107 26 38.357"/>
-    <polygon fill="#fff" points="26 43.071 22.5 44.321 19 45.571 19 43.071 19 40.571 22.5 41.821 26 43.071"/>
-    <polygon fill="#fff" points="26 47.786 22.5 49.036 19 50.286 19 47.786 19 45.286 22.5 46.536 26 47.786"/>
-    <polygon fill="#fff" points="26 52.5 22.5 53.75 19 55 19 52.5 19 50 22.5 51.25 26 52.5"/>
+    <polygon points="26 19.5 22.5 20.75 19 22 19 19.5 19 17 22.5 18.25 26 19.5" fill="#fff"/>
+    <polygon points="26 24.214 22.5 25.464 19 26.714 19 24.214 19 21.714 22.5 22.964 26 24.214" fill="#fff"/>
+    <polygon points="26 28.929 22.5 30.179 19 31.429 19 28.929 19 26.429 22.5 27.679 26 28.929" fill="#fff"/>
+    <polygon points="26 33.643 22.5 34.893 19 36.143 19 33.643 19 31.143 22.5 32.393 26 33.643" fill="#fff"/>
+    <polygon points="26 38.357 22.5 39.607 19 40.857 19 38.357 19 35.857 22.5 37.107 26 38.357" fill="#fff"/>
+    <polygon points="26 43.071 22.5 44.321 19 45.571 19 43.071 19 40.571 22.5 41.821 26 43.071" fill="#fff"/>
+    <polygon points="26 47.786 22.5 49.036 19 50.286 19 47.786 19 45.286 22.5 46.536 26 47.786" fill="#fff"/>
+    <polygon points="26 52.5 22.5 53.75 19 55 19 52.5 19 50 22.5 51.25 26 52.5" fill="#fff"/>
     <rect x="5" y="17" width="14" height="38" fill="#fff"/>
   </g>
   <g id="line">

@@ -1,37 +1,37 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="grid">
-    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
-    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
-    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#d22f27"/>
     <rect x="5" y="17" width="11" height="38" fill="#5c9e31"/>
     <rect x="16" y="17" width="10" height="38" fill="#e27022"/>
-    <line x1="26" x2="26" y1="18" y2="54" fill="none" stroke="#f1b31c" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="26" y1="18" x2="26" y2="54" fill="none" stroke="#f1b31c" stroke-miterlimit="10" stroke-width="2"/>
     <rect x="7" y="19" width="58" height="34" fill="none" stroke="#f1b31c" stroke-miterlimit="10" stroke-width="2"/>
     <g>
-      <polyline fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="50 45 52 45 53 43 50 37"/>
-      <polyline fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="41 45 43 45 44 43 41 37"/>
-      <path fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M37,26a7.0706,7.0706,0,0,0-1,4V42"/>
-      <path fill="#f1b31c" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M44,41c3,0,3-2,7-2l5,2c-1-2,2-3,1-6H42s-3,2-3,5h3Z"/>
-      <polyline fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="54 45 56 45 57 43 54 37"/>
-      <line x1="35" x2="39" y1="37" y2="40" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M56,31a2,2,0,0,1,0,4"/>
-      <path fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M52,31a2,2,0,0,1,0-4"/>
+      <polyline points="50 45 52 45 53 43 50 37" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <polyline points="41 45 43 45 44 43 41 37" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M37,26a7.0706,7.0706,0,0,0-1,4V42" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M44,41c3,0,3-2,7-2l5,2c-1-2,2-3,1-6H42s-3,2-3,5h3Z" fill="#f1b31c" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <polyline points="54 45 56 45 57 43 54 37" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="35" y1="37" x2="39" y2="40" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M56,31a2,2,0,0,1,0,4" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M52,31a2,2,0,0,1,0-4" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       <g>
-        <rect x="42" y="30" rx="1" ry="1" width="4" height="5" fill="#f1b31c"/>
-        <rect x="42" y="30" rx="1" ry="1" width="4" height="5" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <rect x="42" y="30" width="4" height="5" rx="1" ry="1" fill="#f1b31c"/>
+        <rect x="42" y="30" width="4" height="5" rx="1" ry="1" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
-      <line x1="52" x2="56" y1="31" y2="31" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <line x1="60" x2="61" y1="24" y2="23" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <line x1="31" x2="30" y1="24" y2="23" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <line x1="43" x2="40" y1="32" y2="31" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <line x1="43" x2="40" y1="33" y2="34" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <line x1="60" x2="61" y1="48" y2="49" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <line x1="31" x2="30" y1="48" y2="49" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="52" y1="31" x2="56" y2="31" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="60" y1="24" x2="61" y2="23" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="31" y1="24" x2="30" y2="23" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="43" y1="32" x2="40" y2="31" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="43" y1="33" x2="40" y2="34" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="60" y1="48" x2="61" y2="49" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="31" y1="48" x2="30" y2="49" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     </g>
   </g>
   <g id="line">

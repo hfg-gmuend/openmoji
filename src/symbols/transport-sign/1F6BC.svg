@@ -1,29 +1,29 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="grid">
-    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
-    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <path fill="#61b2e4" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M60,61H12c-0.5523,0-1-0.4477-1-1V12c0-0.5523,0.4477-1,1-1h48c0.5523,0,1,0.4477,1,1v48C61,60.5523,60.5523,61,60,61z"/>
-    <path fill="#FFFFFF" stroke="none" d="M40.4155,37.6526c0,0-1.1088-0.2837-0.7159,0.8999l-3.6179-1.9927l1.0397-1.1799L40.4155,37.6526z"/>
-    <path fill="#FFFFFF" stroke="none" d="M30.4567,37.6526c0,0,1.1088-0.2837,0.7159,0.8999l3.6179-1.9927l-1.0397-1.1799L30.4567,37.6526z"/>
-    <path fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M46.2,39.6c-5.3-4.6-10.7-4.2334-10.7-4.2334S29.9,35,24.6,39.6"/>
-    <polyline fill="#FFFFFF" stroke="none" points="31,39 33,35 38.889,34.9709 40,39 31,39"/>
-    <path fill="#FFFFFF" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M39,38.6l5.6,11.2c0,0,0,1.4-1.4,1.4c-1.4,0-5.6-4.2-5.6-4.2h-2.8h1.4h-2.8c0,0-4.2,4.2-5.6,4.2c-1.4,0-1.4-1.4-1.4-1.4L32,38.6"/>
-    <polygon fill="#FFFFFF" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="33.4,47 30.6,44.2 30.6,41.4 40.4,41.4 40.4,44.2 37.6,47"/>
-    <circle cx="36.2" cy="27" r="4.2" fill="#FFFFFF" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path fill="#61b2e4" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M60,61H12c-0.5523,0-1-0.4477-1-1V12c0-0.5523,0.4477-1,1-1h48c0.5523,0,1,0.4477,1,1v48C61,60.5523,60.5523,61,60,61z"/>
+    <path fill="#FFFFFF" d="M40.4155,37.6526c0,0-1.1088-0.2837-0.7159,0.8999l-3.6179-1.9927l1.0397-1.1799L40.4155,37.6526z" stroke="none"/>
+    <path fill="#FFFFFF" d="M30.4567,37.6526c0,0,1.1088-0.2837,0.7159,0.8999l3.6179-1.9927l-1.0397-1.1799L30.4567,37.6526z" stroke="none"/>
+    <path fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M46.2,39.6c-5.3-4.6-10.7-4.2334-10.7-4.2334S29.9,35,24.6,39.6"/>
+    <polyline fill="#FFFFFF" points="31,39 33,35 38.889,34.9709 40,39 31,39" stroke="none"/>
+    <path fill="#FFFFFF" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M39,38.6l5.6,11.2c0,0,0,1.4-1.4,1.4c-1.4,0-5.6-4.2-5.6-4.2h-2.8h1.4h-2.8c0,0-4.2,4.2-5.6,4.2c-1.4,0-1.4-1.4-1.4-1.4L32,38.6"/>
+    <polygon fill="#FFFFFF" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="33.4,47 30.6,44.2 30.6,41.4 40.4,41.4 40.4,44.2 37.6,47"/>
+    <circle fill="#FFFFFF" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36.2" cy="27" r="4.2"/>
   </g>
   <g id="hair"/>
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M60,61H12c-0.5523,0-1-0.4477-1-1V12c0-0.5523,0.4477-1,1-1h48c0.5523,0,1,0.4477,1,1v48C61,60.5523,60.5523,61,60,61z"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M47.4,40c-4.536-5.67-11.9-5.684-11.9-5.684S28.136,34.33,23.6,40"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M39,38.6l5.6,11.2c0,0,0,1.4-1.4,1.4c-1.4,0-5.6-4.2-5.6-4.2h-2.8h1.4h-2.8c0,0-4.2,4.2-5.6,4.2c-1.4,0-1.4-1.4-1.4-1.4L32,38.6"/>
-    <polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="33.4,47 30.6,44.2 30.6,41.4 40.4,41.4 40.4,44.2 37.6,47"/>
-    <circle cx="36.2" cy="27" r="4.2" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M60,61H12c-0.5523,0-1-0.4477-1-1V12c0-0.5523,0.4477-1,1-1h48c0.5523,0,1,0.4477,1,1v48C61,60.5523,60.5523,61,60,61z"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M47.4,40c-4.536-5.67-11.9-5.684-11.9-5.684S28.136,34.33,23.6,40"/>
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M39,38.6l5.6,11.2c0,0,0,1.4-1.4,1.4c-1.4,0-5.6-4.2-5.6-4.2h-2.8h1.4h-2.8c0,0-4.2,4.2-5.6,4.2c-1.4,0-1.4-1.4-1.4-1.4L32,38.6"/>
+    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="33.4,47 30.6,44.2 30.6,41.4 40.4,41.4 40.4,44.2 37.6,47"/>
+    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36.2" cy="27" r="4.2"/>
   </g>
 </svg>
