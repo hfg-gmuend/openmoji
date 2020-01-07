@@ -1,8 +1,8 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M32.875,46H16c-1.1045,0-2-0.8955-2-2v-6.75c0-1.1045,0.8955-2,2-2h40c1.1045,0,2,0.8955,2,2V44c0,1.1045-0.8955,2-2,2H39.209"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M32.875,46H15c-1.1045,0-2,0.8955-2,2v6c0,1.1045,0.8955,2,2,2h42c1.1045,0,2-0.8955,2-2v-6c0-1.1045-0.8955-2-2-2H39.209"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M59,33.1758c0,1.1045-0.8955,2-2,2H15c-1.1045,0-2-0.8955-2-2C14.4844,21.792,24.2119,13,36,13S57.5156,21.792,59,33.1758z"/>
-    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="49.9414,35.25 22.0586,35.25 36,49.1914"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M32.875,46H16c-1.1045,0-2-0.8955-2-2v-6.75c0-1.1045,0.8955-2,2-2h40c1.1045,0,2,0.8955,2,2V44c0,1.1045-0.8955,2-2,2H39.209"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M32.875,46H15c-1.1045,0-2,0.8955-2,2v6c0,1.1045,0.8955,2,2,2h42c1.1045,0,2-0.8955,2-2v-6c0-1.1045-0.8955-2-2-2H39.209"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M59,33.1758c0,1.1045-0.8955,2-2,2H15c-1.1045,0-2-0.8955-2-2C14.4844,21.792,24.2119,13,36,13S57.5156,21.792,59,33.1758z"/>
+    <polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="49.9414,35.25 22.0586,35.25 36,49.1914"/>
   </g>
 </svg>

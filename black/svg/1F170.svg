@@ -1,10 +1,10 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line-supplement">
-    <g id="A_Button" data-name="A Button">
-      <path d="M59.0349,60.1374h-46.07A.9679.9679,0,0,1,12,59.1723v-46.07a.9679.9679,0,0,1,.9651-.9651h46.07A.9679.9679,0,0,1,60,13.1025v46.07A.9679.9679,0,0,1,59.0349,60.1374Z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+    <g id="A_Button">
+      <path fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" d="M59.0349,60.1374h-46.07A.9679.9679,0,0,1,12,59.1723v-46.07a.9679.9679,0,0,1,.9651-.9651h46.07A.9679.9679,0,0,1,60,13.1025v46.07A.9679.9679,0,0,1,59.0349,60.1374Z"/>
       <g>
-        <polyline points="45.429 46.313 36 24.313 26.571 46.313" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-        <line x1="29.7143" y1="41.0457" x2="42.2857" y2="41.0457" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="45.429 46.313 36 24.313 26.571 46.313"/>
+        <line x1="29.7143" x2="42.2857" y1="41.0457" y2="41.0457" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
     </g>
   </g>

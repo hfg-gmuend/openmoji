@@ -1,13 +1,13 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
     <path d="M49.361,55.9954a2,2,0,1,1-2-2,2.0007,2.0007,0,0,1,2,2"/>
-    <path d="M16.9579,58.675s-2-13,10-13c3.16,2.09,5.86,3.55,8.88,3.59h.12c2.96-.04,5.63-1.44,8.7-3.47l.18-.12c12,0,10,13,10,13" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polyline points="26.958 45.675 30.708 54.555 33.268 51.915 35.838 49.265" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="38.3879" y1="51.885" x2="35.8379" y2="49.265" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polyline points="44.708 45.675 44.658 45.795 40.968 54.555 38.388 51.895" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path d="M33.4279,52.065c.14,1.5.72,3.01,2.47,3.01,1.83,0,2.38-1.62,2.49-3.18v-.01" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="35.0479" y1="55.075" x2="32.6379" y2="58.675" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="36.7479" y1="55.075" x2="39.1679" y2="58.675" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16.9579,58.675s-2-13,10-13c3.16,2.09,5.86,3.55,8.88,3.59h.12c2.96-.04,5.63-1.44,8.7-3.47l.18-.12c12,0,10,13,10,13"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="26.958 45.675 30.708 54.555 33.268 51.915 35.838 49.265"/>
+    <line x1="38.3879" x2="35.8379" y1="51.885" y2="49.265" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="44.708 45.675 44.658 45.795 40.968 54.555 38.388 51.895"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M33.4279,52.065c.14,1.5.72,3.01,2.47,3.01,1.83,0,2.38-1.62,2.49-3.18v-.01"/>
+    <line x1="35.0479" x2="32.6379" y1="55.075" y2="58.675" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="36.7479" x2="39.1679" y1="55.075" y2="58.675" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <path d="M26.9629,58.1289H21.1182a1,1,0,0,1,0-2h5.8447a1,1,0,1,1,0,2Z"/>
     <path d="M39.9734,25.815a2,2,0,1,1-2,2A1.9994,1.9994,0,0,1,39.9734,25.815Z"/>
     <path d="M31.9734,25.815a2,2,0,1,1-2,2A1.9994,1.9994,0,0,1,31.9734,25.815Z"/>

@@ -1,6 +1,6 @@
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<svg id="emoji" x="0" y="0" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <g id="color">
-    <circle fill="#D0CFCE" cx="33.8525" cy="37.5908" r="4.9999"/>
+    <circle cx="33.8525" cy="37.5908" r="4.9999" fill="#D0CFCE"/>
     <path fill="#3F3F3F" d="M33.8524,27.5907c-2.1024,0-5.0159,1.4642-6.5495,2.6766c0,0,0.9658,1.2952,0.6406,1.6224 c-0.3262,0.3271-1.3249,0.369-1.3249,0.369c-1.1046,1.4944-2.4297,3.3352-2.4297,5.3321c0,4.9629,4.9985,10.2978,9.9614,10.2978 s9.7021-5.335,9.7021-10.2979S38.8153,27.5907,33.8524,27.5907z M33.8525,43.5908c-3.3086,0-6-2.6914-6-6s2.6914-6,6-6 s6,2.6914,6,6C39.8525,40.8994,37.1611,43.5908,33.8525,43.5908z"/>
     <polygon fill="#FFFFFF" points="11.5175,21.918 11.1352,21.918 11.1352,24.2119 12.4492,22.6831"/>
     <path fill="#FFFFFF" d="M57.6608,21.918h-0.7301c0.2793,0,0.5516,0.029,0.8155,0.0808L57.6608,21.918z"/>
@@ -23,10 +23,10 @@
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M12.1256,33.1975v16.0038c0,1.6912,1.4076,3.0623,3.1441,3.0623h41.6606c1.7365,0,3.1441-1.3711,3.1441-3.0623V25.98 c0-1.6912-1.4076-3.0622-3.1441-3.0622H29.4665"/>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="47.1521" y1="33.1975" x2="59.6177" y2="33.1975"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M30.6138,28.1268c1.0157-0.3475,2.1051-0.5361,3.2386-0.5361c5.5229,0,10,4.4771,10,10c0,5.5228-4.4771,10-10,10 c-5.5228,0-10-4.4772-10-10c0-1.0285,0.1553-2.0207,0.4436-2.9544"/>
-    <circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="33.8524" cy="37.5907" r="5"/>
-    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="13.8741,22.5596 5.6109,32.1725 15.7351,26.6968 17.075,39.0288 21.0205,27.7194 27.9435,31.8897 22.4349,22.913 31.889,17.3996 20.276,20.5804 19.2339,9.9071 16.1073,20.0856 5.6109,15.7738"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M12.1256,33.1975v16.0038c0,1.6912,1.4076,3.0623,3.1441,3.0623h41.6606c1.7365,0,3.1441-1.3711,3.1441-3.0623V25.98 c0-1.6912-1.4076-3.0622-3.1441-3.0622H29.4665"/>
+    <line x1="47.1521" x2="59.6177" y1="33.1975" y2="33.1975" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M30.6138,28.1268c1.0157-0.3475,2.1051-0.5361,3.2386-0.5361c5.5229,0,10,4.4771,10,10c0,5.5228-4.4771,10-10,10 c-5.5228,0-10-4.4772-10-10c0-1.0285,0.1553-2.0207,0.4436-2.9544"/>
+    <circle cx="33.8524" cy="37.5907" r="5" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="13.8741,22.5596 5.6109,32.1725 15.7351,26.6968 17.075,39.0288 21.0205,27.7194 27.9435,31.8897 22.4349,22.913 31.889,17.3996 20.276,20.5804 19.2339,9.9071 16.1073,20.0856 5.6109,15.7738"/>
   </g>
 </svg>

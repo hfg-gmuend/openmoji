@@ -1,7 +1,7 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M67.2748,8.7696l0.5061-0.8583c0.5557-0.9425,0.2392-2.1682-0.7033-2.7239l-0.4284-0.2525l-0.4284-0.2526 c-0.9424-0.5557-2.1682-0.2392-2.7239,0.7033L33.1938,56.7781c-0.4812,0.7463-1.3198,1.2404-2.2739,1.2404h0.0211H7.056 c-1.6851,0-3.0639,1.3788-3.0639,3.0639v2.5609c0,1.6852,1.3788,3.0639,3.0639,3.0639h24.2974 c1.1031,0,2.0849-0.5854,2.6246-1.4662l0,0l31.2688-53.0318"/>
-    <path fill="none" stroke="#000000" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M65.4897,61.6258v3.9515c0,1.1126-4.2382,2.0145-9.4662,2.0145s-9.4662-0.9019-9.4662-2.0145v-3.9515"/>
-    <ellipse fill="none" stroke="#000000" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="56.0235" cy="61.6358" rx="9.4662" ry="1.8788"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M67.2748,8.7696l0.5061-0.8583c0.5557-0.9425,0.2392-2.1682-0.7033-2.7239l-0.4284-0.2525l-0.4284-0.2526 c-0.9424-0.5557-2.1682-0.2392-2.7239,0.7033L33.1938,56.7781c-0.4812,0.7463-1.3198,1.2404-2.2739,1.2404h0.0211H7.056 c-1.6851,0-3.0639,1.3788-3.0639,3.0639v2.5609c0,1.6852,1.3788,3.0639,3.0639,3.0639h24.2974 c1.1031,0,2.0849-0.5854,2.6246-1.4662l0,0l31.2688-53.0318"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.9" d="M65.4897,61.6258v3.9515c0,1.1126-4.2382,2.0145-9.4662,2.0145s-9.4662-0.9019-9.4662-2.0145v-3.9515"/>
+    <ellipse cx="56.0235" cy="61.6358" rx="9.4662" ry="1.8788" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.9"/>
   </g>
 </svg>

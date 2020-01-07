@@ -1,6 +1,6 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="41.4476,53.4897 55.1936,54.5227 46.1036,37.5027 51.4476,38.3647 43.0886,24.2657 48.0726,24.6147 36.0036,7.2457 24.4476,24.9897 28.9176,24.2657 20.1976,38.3647 25.9026,37.5027 16.8127,54.5227 30.3226,53.6147"/>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="36.0036" y1="55.9637" x2="36.0036" y2="65.2727"/>
+    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="41.4476,53.4897 55.1936,54.5227 46.1036,37.5027 51.4476,38.3647 43.0886,24.2657 48.0726,24.6147 36.0036,7.2457 24.4476,24.9897 28.9176,24.2657 20.1976,38.3647 25.9026,37.5027 16.8127,54.5227 30.3226,53.6147"/>
+    <line x1="36.0036" x2="36.0036" y1="55.9637" y2="65.2727" fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
   </g>
 </svg>

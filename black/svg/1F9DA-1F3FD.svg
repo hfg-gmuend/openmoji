@@ -1,26 +1,26 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
     <g>
-      <path d="M12.2,58.7a17.153,17.153,0,0,1-.9-1.9c-1.6-4-.6-6.9-3-19.8-.5-2.5-.9-4.5-1.2-5.8,1.2.7,3.1,1.8,5.3,3,14,8,14.9,8,16.9,10.2A28.4312,28.4312,0,0,1,33.5,51" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path d="M37.4,50.9a24.0662,24.0662,0,0,1,4.1-6.4c2-2.2,2.9-2.2,16.9-10.2,2.2-1.3,4.1-2.3,5.3-3-.3,1.2-.6,3-1.1,5.2" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path d="M58.5,58.7a17.153,17.153,0,0,0,.9-1.9,13.4265,13.4265,0,0,0,1-4.3" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <line x1="58.8" y1="47.6001" x2="50.4" y2="61.8001" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <polygon points="61.3 50.1 59.2 46.4 55 46.1 57.8 42.9 56.7 38.8 60.6 40.5 64.2 38.3 63.8 42.5 67.1 45.2 62.9 46.1 61.3 50.1" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path d="M12.2,58.7a17.153,17.153,0,0,1-.9-1.9c-1.6-4-.6-6.9-3-19.8-.5-2.5-.9-4.5-1.2-5.8,1.2.7,3.1,1.8,5.3,3,14,8,14.9,8,16.9,10.2A28.4312,28.4312,0,0,1,33.5,51" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path d="M37.4,50.9a24.0662,24.0662,0,0,1,4.1-6.4c2-2.2,2.9-2.2,16.9-10.2,2.2-1.3,4.1-2.3,5.3-3-.3,1.2-.6,3-1.1,5.2" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path d="M58.5,58.7a17.153,17.153,0,0,0,.9-1.9,13.4265,13.4265,0,0,0,1-4.3" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <line x1="58.8" y1="47.6001" x2="50.4" y2="61.8001" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <polygon points="61.3 50.1 59.2 46.4 55 46.1 57.8 42.9 56.7 38.8 60.6 40.5 64.2 38.3 63.8 42.5 67.1 45.2 62.9 46.1 61.3 50.1" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path d="M16.2,60.1v-3c0-5,5-9,10-9q9,7.5,18,0a10.5963,10.5963,0,0,1,8.7,4.7" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path d="M23.6,48.4s.7,1.5.7,5.9c0,1.4-.2,3.4-.4,5.3" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path d="M46.7,48.4s-.7,1.5-.7,5.9c0,1.4.2,3.4.4,5.3" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12.2,58.7a17.153,17.153,0,0,1-.9-1.9c-1.6-4-.6-6.9-3-19.8-.5-2.5-.9-4.5-1.2-5.8,1.2.7,3.1,1.8,5.3,3,14,8,14.9,8,16.9,10.2A28.4312,28.4312,0,0,1,33.5,51"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M37.4,50.9a24.0662,24.0662,0,0,1,4.1-6.4c2-2.2,2.9-2.2,16.9-10.2,2.2-1.3,4.1-2.3,5.3-3-.3,1.2-.6,3-1.1,5.2"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M58.5,58.7a17.153,17.153,0,0,0,.9-1.9,13.4265,13.4265,0,0,0,1-4.3"/>
+      <line x1="58.8" x2="50.4" y1="47.6001" y2="61.8001" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <polygon fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="61.3 50.1 59.2 46.4 55 46.1 57.8 42.9 56.7 38.8 60.6 40.5 64.2 38.3 63.8 42.5 67.1 45.2 62.9 46.1 61.3 50.1"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12.2,58.7a17.153,17.153,0,0,1-.9-1.9c-1.6-4-.6-6.9-3-19.8-.5-2.5-.9-4.5-1.2-5.8,1.2.7,3.1,1.8,5.3,3,14,8,14.9,8,16.9,10.2A28.4312,28.4312,0,0,1,33.5,51"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M37.4,50.9a24.0662,24.0662,0,0,1,4.1-6.4c2-2.2,2.9-2.2,16.9-10.2,2.2-1.3,4.1-2.3,5.3-3-.3,1.2-.6,3-1.1,5.2"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M58.5,58.7a17.153,17.153,0,0,0,.9-1.9,13.4265,13.4265,0,0,0,1-4.3"/>
+      <line x1="58.8" x2="50.4" y1="47.6001" y2="61.8001" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <polygon fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="61.3 50.1 59.2 46.4 55 46.1 57.8 42.9 56.7 38.8 60.6 40.5 64.2 38.3 63.8 42.5 67.1 45.2 62.9 46.1 61.3 50.1"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16.2,60.1v-3c0-5,5-9,10-9q9,7.5,18,0a10.5963,10.5963,0,0,1,8.7,4.7"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M23.6,48.4s.7,1.5.7,5.9c0,1.4-.2,3.4-.4,5.3"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M46.7,48.4s-.7,1.5-.7,5.9c0,1.4.2,3.4.4,5.3"/>
     </g>
     <g>
-      <path d="M25.2,38.9c-4,0-4-6-4-13s4-14,14-14,14,7,14,14,0,13-4,13" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M25.2,38.9c-4,0-4-6-4-13s4-14,14-14,14,7,14,14,0,13-4,13"/>
       <path d="M41.1,29.9a2,2,0,1,1-2-2,2.0059,2.0059,0,0,1,2,2"/>
       <path d="M33.1,29.9a2,2,0,1,1-2-2,2.0059,2.0059,0,0,1,2,2"/>
-      <path d="M24.2,30.9c0,9,4.9,14,11,14,5.9,0,11.1-5,11.1-14a12.1332,12.1332,0,0,0-1-5c-3-3-7-8-7-8-4,3-7,6-13,7C25.2,24.9,24.2,25.9,24.2,30.9Z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
-      <path d="M32.2,37.9a6.6712,6.6712,0,0,0,6,0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" d="M24.2,30.9c0,9,4.9,14,11,14,5.9,0,11.1-5,11.1-14a12.1332,12.1332,0,0,0-1-5c-3-3-7-8-7-8-4,3-7,6-13,7C25.2,24.9,24.2,25.9,24.2,30.9Z"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M32.2,37.9a6.6712,6.6712,0,0,0,6,0"/>
     </g>
   </g>
 </svg>

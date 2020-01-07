@@ -1,12 +1,12 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#5c9e31"/>
     <rect x="5" y="17" width="62" height="13" fill="#d22f27"/>
     <rect x="5" y="30" width="62" height="12" fill="#fff"/>
     <g>
       <circle cx="36.3118" cy="35.1554" r="0.4969" fill="#fcea2b" stroke="#fcea2b" stroke-miterlimit="10" stroke-width="0.9939"/>
-      <rect x="35.8479" y="35.1553" width="0.9278" height="3.9755" rx="0.306" ry="0.306" fill="#fcea2b"/>
-      <path d="M39.2934,40.1247a4.2141,4.2141,0,0,0-5.9632,0" fill="none" stroke="#fcea2b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9877"/>
+      <rect x="35.8479" y="35.1553" rx="0.306" ry="0.306" width="0.9278" height="3.9755" fill="#fcea2b"/>
+      <path fill="none" stroke="#fcea2b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9877" d="M39.2934,40.1247a4.2141,4.2141,0,0,0-5.9632,0"/>
     </g>
     <g>
       <circle cx="41.3007" cy="36.9635" r="0.4969" fill="#fcea2b" stroke="#fcea2b" stroke-miterlimit="10" stroke-width="0.9939"/>

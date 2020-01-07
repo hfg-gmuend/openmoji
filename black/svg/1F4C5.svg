@@ -1,14 +1,14 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <ellipse transform="matrix(0.0096 -1 1 0.0096 1.9414 41.6581)" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="22" cy="19.849" rx="3" ry="3"/>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="26.0057" y1="12.1224" x2="46.0558" y2="12.1224"/>
-    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="54.0163,12.1224 60,12.1224 60,28.1224 12,28.1224 12,12.1224 18.0318,12.1224"/>
-    <line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="22.0151" y1="8.6884" x2="22.0151" y2="18.9976"/>
-    <ellipse transform="matrix(0.0096 -1 1 0.0096 29.6742 69.6575)" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="50.0006" cy="19.849" rx="3" ry="3"/>
-    <line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="50.0158" y1="8.6884" x2="50.0158" y2="18.9976"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M34.3355,38.092c0.5248-2.5644,2.7937-4.4936,5.5134-4.4936l0,0c1.5539,0,2.9609,0.63,3.9793,1.6484 c1.5843,1.5842,1.438,4.2167-0.0484,5.8928l-9.5586,10.7799h4.7601"/>
-    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="23.2764,37.3982 28.3485,33.5984 28.3485,51.9195"/>
-    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="11.997,28.0918 11.997,60.0918 43.6564,60.0864 59.997,48.0382 59.997,28.0918"/>
-    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="59.7462,48.0382 43.1384,48.0382 43.1384,53.5175"/>
+    <ellipse cx="22" cy="19.849" rx="3" ry="3" transform="matrix(0.0096 -1 1 0.0096 1.9414 41.6581)" fill="none" fill-rule="evenodd" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" clip-rule="evenodd"/>
+    <line x1="26.0057" x2="46.0558" y1="12.1224" y2="12.1224" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="54.0163,12.1224 60,12.1224 60,28.1224 12,28.1224 12,12.1224 18.0318,12.1224"/>
+    <line x1="22.0151" x2="22.0151" y1="8.6884" y2="18.9976" fill="none" fill-rule="evenodd" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" clip-rule="evenodd"/>
+    <ellipse cx="50.0006" cy="19.849" rx="3" ry="3" transform="matrix(0.0096 -1 1 0.0096 29.6742 69.6575)" fill="none" fill-rule="evenodd" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" clip-rule="evenodd"/>
+    <line x1="50.0158" x2="50.0158" y1="8.6884" y2="18.9976" fill="none" fill-rule="evenodd" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" clip-rule="evenodd"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M34.3355,38.092c0.5248-2.5644,2.7937-4.4936,5.5134-4.4936l0,0c1.5539,0,2.9609,0.63,3.9793,1.6484 c1.5843,1.5842,1.438,4.2167-0.0484,5.8928l-9.5586,10.7799h4.7601"/>
+    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="23.2764,37.3982 28.3485,33.5984 28.3485,51.9195"/>
+    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="11.997,28.0918 11.997,60.0918 43.6564,60.0864 59.997,48.0382 59.997,28.0918"/>
+    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="59.7462,48.0382 43.1384,48.0382 43.1384,53.5175"/>
   </g>
 </svg>

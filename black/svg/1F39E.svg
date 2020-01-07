@@ -1,8 +1,8 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <rect x="12" y="17" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="48" height="38"/>
-    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="12,24.9369 33.9591,24.9369 33.9591,46.9796 12,46.9796"/>
-    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="60,46.9796 38.2303,46.9796 38.2303,24.9369 60,24.9369"/>
+    <rect x="12" y="17" width="48" height="38" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="12,24.9369 33.9591,24.9369 33.9591,46.9796 12,46.9796"/>
+    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="60,46.9796 38.2303,46.9796 38.2303,24.9369 60,24.9369"/>
     <circle cx="18.0947" cy="20.908" r="1.0794" fill="#000000" stroke="none"/>
     <circle cx="24.0947" cy="20.908" r="1.0794" fill="#000000" stroke="none"/>
     <circle cx="30.0947" cy="20.908" r="1.0794" fill="#000000" stroke="none"/>

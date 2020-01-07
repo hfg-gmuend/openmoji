@@ -1,11 +1,11 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="48.3057,15.2396 51.1774,16.0208 51.1774,56 20.8226,56 20.8226,16.0208 23.5126,15.1598"/>
-    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="61,31.3289 51.1774,28.3289 51.1774,16.0208 64,22.0208"/>
-    <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="11,31.3289 20.8226,28.3289 20.8226,16.0208 8,22.0208"/>
-    <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M42.3216,12.3962l-4.5054,4.8457l3.2087,5.165c7.1583-8.8534,4.7072-11.2827,4.7072-11.2827c-10.4429-8.3615-19.6909,0-19.6909,0 s-2.4511,2.4293,4.7072,11.2827l3.2087-5.165l-4.5124-4.8532"/>
-    <circle fill="#000000" cx="35.8866" cy="21.6749" r="0.8529" stroke="none"/>
-    <circle fill="#000000" cx="35.8866" cy="24.9416" r="0.8529" stroke="none"/>
-    <circle fill="#000000" cx="35.8866" cy="28.2084" r="0.8529" stroke="none"/>
+    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="48.3057,15.2396 51.1774,16.0208 51.1774,56 20.8226,56 20.8226,16.0208 23.5126,15.1598"/>
+    <polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="61,31.3289 51.1774,28.3289 51.1774,16.0208 64,22.0208"/>
+    <polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="11,31.3289 20.8226,28.3289 20.8226,16.0208 8,22.0208"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M42.3216,12.3962l-4.5054,4.8457l3.2087,5.165c7.1583-8.8534,4.7072-11.2827,4.7072-11.2827c-10.4429-8.3615-19.6909,0-19.6909,0 s-2.4511,2.4293,4.7072,11.2827l3.2087-5.165l-4.5124-4.8532"/>
+    <circle cx="35.8866" cy="21.6749" r="0.8529" fill="#000000" stroke="none"/>
+    <circle cx="35.8866" cy="24.9416" r="0.8529" fill="#000000" stroke="none"/>
+    <circle cx="35.8866" cy="28.2084" r="0.8529" fill="#000000" stroke="none"/>
   </g>
 </svg>
