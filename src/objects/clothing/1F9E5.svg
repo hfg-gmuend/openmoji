@@ -1,26 +1,26 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
+    <rect x="16" y="4" rx="2.2537" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <path d="M54,17,39,8H33L18,17H17V37h5V26h1l3.9311,7.62Q25.4655,46.81,24,60H48q-1.4656-13.19-2.9311-26.38L49,26h1V37h5V17Z" fill="#a57939"/>
-    <path d="M30,10c-.7039,1.9925,2.3578,6.0016,6,6,3.6255-.0016,6.6992-3.977,6-6-.7541-2.1817-5.8732-2.0252-6.5-2C34.3643,8.0456,30.6376,8.1953,30,10Z" fill="#6a462f"/>
+    <path fill="#a57939" d="M54,17,39,8H33L18,17H17V37h5V26h1l3.9311,7.62Q25.4655,46.81,24,60H48q-1.4656-13.19-2.9311-26.38L49,26h1V37h5V17Z"/>
+    <path fill="#6a462f" d="M30,10c-.7039,1.9925,2.3578,6.0016,6,6,3.6255-.0016,6.6992-3.977,6-6-.7541-2.1817-5.8732-2.0252-6.5-2C34.3643,8.0456,30.6376,8.1953,30,10Z"/>
   </g>
   <g id="line">
     <circle cx="35.9" cy="39.9" r="0.9" fill="#000000"/>
     <circle cx="35.9" cy="43.9" r="0.9" fill="#000000"/>
     <circle cx="35.9" cy="47.9" r="0.9" fill="#000000"/>
     <g id="_">
-      <polyline points="26.944 35 24 60 36.079 60 48.158 60 45.214 35" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path d="M22.4461,26.3725V36.9412H17.1673v-18.95a1.4518,1.4518,0,0,1,.8427-1.2783L27,11" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <line x1="30" y1="35" x2="42" y2="35" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path d="M45.1673,11l8.99,5.7132A1.4518,1.4518,0,0,1,55,17.9915v18.95H49.7212V26.3725" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="26.944 35 24 60 36.079 60 48.158 60 45.214 35"/>
+      <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M22.4461,26.3725V36.9412H17.1673v-18.95a1.4518,1.4518,0,0,1,.8427-1.2783L27,11"/>
+      <line x1="30" x2="42" y1="35" y2="35" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M45.1673,11l8.99,5.7132A1.4518,1.4518,0,0,1,55,17.9915v18.95H49.7212V26.3725"/>
     </g>
     <g id="_2">
-      <path d="M29,10.5385,34.376,15.22,31.6271,17C25.528,10.5308,27.59,10.7137,27.59,10.7137a14.6763,14.6763,0,0,1,16.923,0s2.1475-.2556-4.0375,6.2136l-2.7489-1.78L43,10.5385" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M29,10.5385,34.376,15.22,31.6271,17C25.528,10.5308,27.59,10.7137,27.59,10.7137a14.6763,14.6763,0,0,1,16.923,0s2.1475-.2556-4.0375,6.2136l-2.7489-1.78L43,10.5385"/>
     </g>
     <circle cx="35.9" cy="21.9" r="0.9" fill="#000000"/>
     <circle cx="35.9" cy="25.9" r="0.9" fill="#000000"/>

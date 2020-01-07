@@ -25,6 +25,25 @@ plugins:
   - removeUnusedNS
   - removeUselessDefs
   - removeXMLProcInst
+  - sortAttrs: 
+     order: [
+       'id',
+       'x', 'x1', 'x2', 'cx',
+       'y', 'y1', 'y2', 'cy',
+       'r', 'rx', 'ry',
+       'width', 'height',
+       'transform',
+       'fill', 'fill-opacity', 'fill-rule',
+       'stroke', 'stroke-dasharray', 'stroke-linecap', 'stroke-linejoin', 'stroke-miterlimit', 'stroke-width',
+       'opacity',
+       'points', 'd',
+       'viewBox',
+       'overflow',
+       'paint-order',
+       'version',
+       'xmlns',
+     ]
+     xmlnsOrder: 'back'
 js2svg:
   pretty: true
   indent: '  '

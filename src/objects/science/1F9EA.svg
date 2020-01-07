@@ -1,19 +1,19 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <path d="M42.06,29.84V52.92a6.506,6.506,0,0,1-6.51,6.51,6.3082,6.3082,0,0,1-1.7754-.2486A6.5,6.5,0,0,1,29.04,52.92V29.84h.7811l-.5444,1.0534A14.0534,14.0534,0,0,0,35.55,32.2075a15.9069,15.9069,0,0,0,2.9589-.26c.071-.0119.1539-.0236.2249-.0355a11.5513,11.5513,0,0,0,3.0891-1.0178" fill="#5c9e31"/>
-    <path d="M28.2936,30.8938a14.0534,14.0534,0,0,0,6.2729,1.3137,15.9069,15.9069,0,0,0,2.9589-.26V52.92a6.5,6.5,0,0,1-4.7343,6.261,6.5,6.5,0,0,1-4.7342-6.261V29.84" fill="#b1cc33"/>
+    <path fill="#5c9e31" d="M42.06,29.84V52.92a6.506,6.506,0,0,1-6.51,6.51,6.3082,6.3082,0,0,1-1.7754-.2486A6.5,6.5,0,0,1,29.04,52.92V29.84h.7811l-.5444,1.0534A14.0534,14.0534,0,0,0,35.55,32.2075a15.9069,15.9069,0,0,0,2.9589-.26c.071-.0119.1539-.0236.2249-.0355a11.5513,11.5513,0,0,0,3.0891-1.0178"/>
+    <path fill="#b1cc33" d="M28.2936,30.8938a14.0534,14.0534,0,0,0,6.2729,1.3137,15.9069,15.9069,0,0,0,2.9589-.26V52.92a6.5,6.5,0,0,1-4.7343,6.261,6.5,6.5,0,0,1-4.7342-6.261V29.84"/>
   </g>
   <g id="line">
-    <path d="M42.06,16.9372v35.43A6.7993,6.7993,0,0,1,35.55,59.43a6.7992,6.7992,0,0,1-6.51-7.0628V17.2855" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M42.06,16.9372v35.43A6.7993,6.7993,0,0,1,35.55,59.43a6.7992,6.7992,0,0,1-6.51-7.0628V17.2855"/>
     <ellipse cx="35.5433" cy="15.2238" rx="7.3933" ry="3.137" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
-    <path d="M42.06,29.84V52.92a6.506,6.506,0,0,1-6.51,6.51,6.3082,6.3082,0,0,1-1.7754-.2486A6.5,6.5,0,0,1,29.04,52.92V29.84" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path d="M29.277,30.8938A14.0534,14.0534,0,0,0,35.55,32.2075a15.9069,15.9069,0,0,0,2.9589-.26c.071-.0119.1539-.0236.2249-.0355a11.5513,11.5513,0,0,0,3.0891-1.0178" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M42.06,29.84V52.92a6.506,6.506,0,0,1-6.51,6.51,6.3082,6.3082,0,0,1-1.7754-.2486A6.5,6.5,0,0,1,29.04,52.92V29.84"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M29.277,30.8938A14.0534,14.0534,0,0,0,35.55,32.2075a15.9069,15.9069,0,0,0,2.9589-.26c.071-.0119.1539-.0236.2249-.0355a11.5513,11.5513,0,0,0,3.0891-1.0178"/>
   </g>
 </svg>

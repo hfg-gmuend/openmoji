@@ -1,27 +1,27 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
+    <rect x="16" y="4" rx="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.2537" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <ellipse transform="rotate(-45.001 36.14 36)" fill="#FFFFFF" cx="36.1418" cy="35.9995" rx="10" ry="9.9996" stroke="none"/>
-    <ellipse transform="rotate(-45.001 22.142 22)" fill="#ea5a47" cx="22.1423" cy="21.9994" rx="9.9996" ry="10.0002" stroke="none"/>
-    <path fill="#D22F27" d="M29.2129,14.9199c-2.5938-2.5947-6.2578-3.4551-9.5713-2.602c1.6748,0.4311,3.2607,1.291,4.5713,2.602 c3.9062,3.9053,3.9062,10.2368,0.001,14.1426c-1.3106,1.3105-2.8975,2.1699-4.5713,2.6016 c3.3135,0.8525,6.9765-0.0078,9.5713-2.6016C33.1191,25.1567,33.1191,18.8252,29.2129,14.9199z" stroke="none"/>
-    <ellipse transform="rotate(-45.001 50.139 49.999)" fill="#b1cc33" cx="50.1423" cy="49.9995" rx="9.9993" ry="10.0003" stroke="none"/>
-    <path fill="#5c9e31" d="M57.2129,42.9199c-2.5938-2.5937-6.2578-3.4551-9.5713-2.6015c1.6748,0.4316,3.2607,1.291,4.5713,2.6015 c3.9062,3.9063,3.9062,10.2364,0.001,14.1426c-1.3106,1.3105-2.8975,2.1699-4.5713,2.6016 c3.3135,0.8535,6.9765-0.0078,9.5713-2.6016C61.1191,53.1563,61.1191,46.8262,57.2129,42.9199z" stroke="none"/>
-    <ellipse transform="rotate(-45.001 36.142 36)" fill="none" cx="36.1423" cy="35.9994" rx="9.9996" ry="10.0002" stroke="none"/>
-    <path fill="#d0cfce" d="M43.2129,28.9199c-2.5938-2.5947-6.2578-3.4551-9.5713-2.602c1.6748,0.4311,3.2607,1.291,4.5713,2.602 c3.9062,3.9053,3.9062,10.2364,0.001,14.1426c-1.3106,1.3105-2.8975,2.1699-4.5713,2.6016 c3.3135,0.8535,6.9765-0.0078,9.5713-2.6016C47.1191,39.1563,47.1191,32.8252,43.2129,28.9199z" stroke="none"/>
+    <ellipse cx="36.1418" cy="35.9995" rx="10" ry="9.9996" transform="rotate(-45.001 36.14 36)" fill="#FFFFFF" stroke="none"/>
+    <ellipse cx="22.1423" cy="21.9994" rx="9.9996" ry="10.0002" transform="rotate(-45.001 22.142 22)" fill="#ea5a47" stroke="none"/>
+    <path fill="#D22F27" stroke="none" d="M29.2129,14.9199c-2.5938-2.5947-6.2578-3.4551-9.5713-2.602c1.6748,0.4311,3.2607,1.291,4.5713,2.602 c3.9062,3.9053,3.9062,10.2368,0.001,14.1426c-1.3106,1.3105-2.8975,2.1699-4.5713,2.6016 c3.3135,0.8525,6.9765-0.0078,9.5713-2.6016C33.1191,25.1567,33.1191,18.8252,29.2129,14.9199z"/>
+    <ellipse cx="50.1423" cy="49.9995" rx="9.9993" ry="10.0003" transform="rotate(-45.001 50.139 49.999)" fill="#b1cc33" stroke="none"/>
+    <path fill="#5c9e31" stroke="none" d="M57.2129,42.9199c-2.5938-2.5937-6.2578-3.4551-9.5713-2.6015c1.6748,0.4316,3.2607,1.291,4.5713,2.6015 c3.9062,3.9063,3.9062,10.2364,0.001,14.1426c-1.3106,1.3105-2.8975,2.1699-4.5713,2.6016 c3.3135,0.8535,6.9765-0.0078,9.5713-2.6016C61.1191,53.1563,61.1191,46.8262,57.2129,42.9199z"/>
+    <ellipse cx="36.1423" cy="35.9994" rx="9.9996" ry="10.0002" transform="rotate(-45.001 36.142 36)" fill="none" stroke="none"/>
+    <path fill="#d0cfce" stroke="none" d="M43.2129,28.9199c-2.5938-2.5947-6.2578-3.4551-9.5713-2.602c1.6748,0.4311,3.2607,1.291,4.5713,2.602 c3.9062,3.9053,3.9062,10.2364,0.001,14.1426c-1.3106,1.3105-2.8975,2.1699-4.5713,2.6016 c3.3135,0.8535,6.9765-0.0078,9.5713-2.6016C47.1191,39.1563,47.1191,32.8252,43.2129,28.9199z"/>
   </g>
   <g id="hair"/>
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <ellipse transform="rotate(-45.001 36.14 36)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="36.1418" cy="35.9995" rx="10" ry="9.9996"/>
-    <ellipse transform="rotate(-45.001 22 21.858)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="21.9997" cy="21.8575" rx="9.9998" ry="10.0003"/>
-    <ellipse transform="rotate(-45.001 50.284 50.142)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="50.2842" cy="50.1416" rx="10.0003" ry="10.0003"/>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="60.1426" y1="60" x2="67.1426" y2="67"/>
+    <ellipse cx="36.1418" cy="35.9995" rx="10" ry="9.9996" transform="rotate(-45.001 36.14 36)" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <ellipse cx="21.9997" cy="21.8575" rx="9.9998" ry="10.0003" transform="rotate(-45.001 22 21.858)" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <ellipse cx="50.2842" cy="50.1416" rx="10.0003" ry="10.0003" transform="rotate(-45.001 50.284 50.142)" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="60.1426" x2="67.1426" y1="60" y2="67" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
   </g>
 </svg>

@@ -1,25 +1,25 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <path d="M43.5,36.5V47a8.5,8.5,0,0,1-17,0V36.5h-6V47a14.5,14.5,0,0,0,29,0V36.5Z" fill="#ea5a47"/>
+    <path fill="#ea5a47" d="M43.5,36.5V47a8.5,8.5,0,0,1-17,0V36.5h-6V47a14.5,14.5,0,0,0,29,0V36.5Z"/>
     <g>
       <rect x="20.5" y="31.5" width="6" height="5" fill="#d0cfce"/>
       <rect x="43.5" y="31.5" width="6" height="5" fill="#d0cfce"/>
     </g>
-    <path d="M44.8818,19.7754a1.283,1.283,0,0,0-1.26-.9072H38.6973l3.4609-7.75a1,1,0,0,0-1.6455-1.0889L29.4214,21.958a1.327,1.327,0,0,0-.2788,1.4512,1.37,1.37,0,0,0,1.2666.85h4.8789l-4.9946,8.05a1.0006,1.0006,0,0,0,.2124,1.2988c.227.1875.38.3145.5717.3145.4,0,.9659-.5567,2.7163-2.2783L44.21,21.3711A1.4519,1.4519,0,0,0,44.8818,19.7754Z" fill="#fcea2b"/>
+    <path fill="#fcea2b" d="M44.8818,19.7754a1.283,1.283,0,0,0-1.26-.9072H38.6973l3.4609-7.75a1,1,0,0,0-1.6455-1.0889L29.4214,21.958a1.327,1.327,0,0,0-.2788,1.4512,1.37,1.37,0,0,0,1.2666.85h4.8789l-4.9946,8.05a1.0006,1.0006,0,0,0,.2124,1.2988c.227.1875.38.3145.5717.3145.4,0,.9659-.5567,2.7163-2.2783L44.21,21.3711A1.4519,1.4519,0,0,0,44.8818,19.7754Z"/>
   </g>
   <g id="line">
-    <path d="M43.5,36.5V47a8.5,8.5,0,0,1-17,0V36.5h-6V47a14.5,14.5,0,0,0,29,0V36.5Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M43.5,36.5V47a8.5,8.5,0,0,1-17,0V36.5h-6V47a14.5,14.5,0,0,0,29,0V36.5Z"/>
     <g>
       <rect x="20.5" y="31.5" width="6" height="5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       <rect x="43.5" y="31.5" width="6" height="5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     </g>
-    <path d="M44.8818,19.7754a1.283,1.283,0,0,0-1.26-.9072H38.6973l3.4609-7.75a1,1,0,0,0-1.6455-1.0889L29.4214,21.958a1.327,1.327,0,0,0-.2788,1.4512,1.37,1.37,0,0,0,1.2666.85h4.8789l-4.9946,8.05a1.0006,1.0006,0,0,0,.2124,1.2988c.227.1875.38.3145.5717.3145.4,0,.9659-.5567,2.7163-2.2783L44.21,21.3711A1.4519,1.4519,0,0,0,44.8818,19.7754Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2" d="M44.8818,19.7754a1.283,1.283,0,0,0-1.26-.9072H38.6973l3.4609-7.75a1,1,0,0,0-1.6455-1.0889L29.4214,21.958a1.327,1.327,0,0,0-.2788,1.4512,1.37,1.37,0,0,0,1.2666.85h4.8789l-4.9946,8.05a1.0006,1.0006,0,0,0,.2124,1.2988c.227.1875.38.3145.5717.3145.4,0,.9659-.5567,2.7163-2.2783L44.21,21.3711A1.4519,1.4519,0,0,0,44.8818,19.7754Z"/>
   </g>
 </svg>

@@ -1,19 +1,19 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#1e50a0"/>
     <rect x="5" y="36" width="62" height="19" fill="#d22f27"/>
-    <polygon points="37 36 5 55 5 17 37 36" fill="#fff"/>
+    <polygon fill="#fff" points="37 36 5 55 5 17 37 36"/>
     <circle cx="8" cy="21" r="1.0435" fill="#f1b31c"/>
     <circle cx="33" cy="36" r="1.0435" fill="#f1b31c"/>
     <circle cx="8" cy="51" r="1.0435" fill="#f1b31c"/>
-    <polygon points="17.907 35.086 20.04 33.59 18.434 35.642 21 36.092 18.414 36.407 19.91 38.54 17.859 36.934 17.408 39.5 17.093 36.914 14.96 38.41 16.566 36.359 14 35.908 16.586 35.593 15.09 33.46 17.142 35.066 17.592 32.5 17.907 35.086" fill="#f1b31c" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon fill="#f1b31c" stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" points="17.907 35.086 20.04 33.59 18.434 35.642 21 36.092 18.414 36.407 19.91 38.54 17.859 36.934 17.408 39.5 17.093 36.914 14.96 38.41 16.566 36.359 14 35.908 16.586 35.593 15.09 33.46 17.142 35.066 17.592 32.5 17.907 35.086"/>
   </g>
   <g id="line">
     <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

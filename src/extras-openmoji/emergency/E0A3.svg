@@ -1,16 +1,16 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <path d="M58.6949,60.08h-46a1.0021,1.0021,0,0,1-1-1v-46a1.0021,1.0021,0,0,1,1-1h46a1.0021,1.0021,0,0,1,1,1v46A.9448.9448,0,0,1,58.6949,60.08Z" fill="#b1cc33"/>
+    <path fill="#b1cc33" d="M58.6949,60.08h-46a1.0021,1.0021,0,0,1-1-1v-46a1.0021,1.0021,0,0,1,1-1h46a1.0021,1.0021,0,0,1,1,1v46A.9448.9448,0,0,1,58.6949,60.08Z"/>
   </g>
   <g id="line">
-    <path d="M58.6949,60.08h-46a1.0021,1.0021,0,0,1-1-1v-46a1.0021,1.0021,0,0,1,1-1h46a1.0021,1.0021,0,0,1,1,1v46A.9448.9448,0,0,1,58.6949,60.08Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2" d="M58.6949,60.08h-46a1.0021,1.0021,0,0,1-1-1v-46a1.0021,1.0021,0,0,1,1-1h46a1.0021,1.0021,0,0,1,1,1v46A.9448.9448,0,0,1,58.6949,60.08Z"/>
     <g>
       <path d="M38.7946,41.68a.9993.9993,0,0,1-1-1v-9.4a1,1,0,0,1,2,0v9.4A.9994.9994,0,0,1,38.7946,41.68Z"/>
       <path d="M46.0192,40.0359,42.3049,35.625l3.2045-3.6887A1,1,0,0,0,44,30.6238l-2.9125,3.3526v3.3075L44.49,41.325a1,1,0,0,0,1.5293-1.2891Z"/>
