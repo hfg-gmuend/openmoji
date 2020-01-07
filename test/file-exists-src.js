@@ -9,7 +9,7 @@ const openmojis = require(openmojiDataJson);
 const { getSrcFilepath } = require('./utils/utils');
 
 
-describe('File integrity', function() {
+describe('File integrity src files', function() {
   const emojis = filter(openmojis, (e) => { return e.skintone == ''});
 
   describe('Source SVG exists?', function() {
