@@ -3,6 +3,11 @@
 - removed
 
 --------------------------------------------------------------------------------
+👉 OpenMoji 12.2 - XX XXX 2020
+
+* Improved formatting of all SVG files with automated attributes sorting/cleaning
+
+--------------------------------------------------------------------------------
 👉 OpenMoji 12.1 - 23 December 2019
 
 Happy Holidays release! Many improvements, fixes and a few new OpenMojis!
