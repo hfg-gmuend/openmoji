@@ -1,7 +1,7 @@
 OpenMoji
 ========
 
-<img width="1157" alt="openmoji-github" src="https://user-images.githubusercontent.com/480224/39040408-7d21c018-4487-11e8-9aa9-c8ea64fc07f6.png">
+<img width="1157" alt="openmoji-github-keyvisual" src="https://user-images.githubusercontent.com/480224/71999652-1a60c000-3242-11ea-974a-96fef098147b.png">
 
 Open-source emojis for designers, developers and everyone else! OpenMoji is an open-source project of the HfG Schwäbisch Gmünd by Benedikt Groß, Daniel Utz, 50+ students and external contributors.
 
