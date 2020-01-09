@@ -3,6 +3,18 @@
 - removed
 
 --------------------------------------------------------------------------------
+
+👉 OpenMoji 12.2 - First Quarter 2020
+
++ Added Transgender Flag
+
++ Fix:
+  -  finger height in Person Raising Hand
+  -  black and white Pomegranate
+
++ Sort attributes in the SVG files for every emoji
+
+--------------------------------------------------------------------------------
 👉 OpenMoji 12.1 - 23 December 2019
 
 Happy Holidays release! Many improvements, fixes and a few new OpenMojis!
