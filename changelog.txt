@@ -4,7 +4,7 @@
 
 --------------------------------------------------------------------------------
 
-👉 OpenMoji 12.2 - First Quarter 2020
+👉 OpenMoji 12.2 - XX XXX 2020
 
 + Added Transgender Flag
 
@@ -12,7 +12,8 @@
   -  finger height in Person Raising Hand
   -  black and white Pomegranate
 
-+ Sort attributes in the SVG files for every emoji
+* Improved formatting of all SVG files with automated attributes sorting/cleaning
+
 
 --------------------------------------------------------------------------------
 👉 OpenMoji 12.1 - 23 December 2019
