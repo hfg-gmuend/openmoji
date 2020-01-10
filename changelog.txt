@@ -3,9 +3,17 @@
 - removed
 
 --------------------------------------------------------------------------------
+
 👉 OpenMoji 12.2 - XX XXX 2020
 
++ Added Transgender Flag
+
++ Fix:
+  -  finger height in Person Raising Hand
+  -  black and white Pomegranate
+
 * Improved formatting of all SVG files with automated attributes sorting/cleaning
+
 
 --------------------------------------------------------------------------------
 👉 OpenMoji 12.1 - 23 December 2019
