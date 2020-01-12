@@ -6,12 +6,15 @@
 
 👉 OpenMoji 12.2 - XX XXX 2020
 
-+ Added Transgender Flag
+New:
+  + Transgender Flag
+  + Horse Riding
 
-+ Fix:
-  -  finger height in Person Raising Hand
-  -  black and white Pomegranate
-  -  add leaf and stem in Poppy
+Fix:
+  * finger height in Person Raising Hand
+  * black and white Pomegranate
+  * add leaf and stem in Poppy
+  * racing position in horse racing
 
 * Improved formatting of all SVG files with automated attributes sorting/cleaning
 
