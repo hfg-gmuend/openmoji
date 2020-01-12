@@ -1,4 +1,24 @@
 <svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="line-supplement">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m33.25 20.94c1.554 0.2358 2.192-0.1519 2.773-0.5791"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m28.15 24.68c1.554 0.2358 2.192-0.1519 2.773-0.5791"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m23.21 29.39c1.554 0.2358 2.192-0.1519 2.773-0.5791"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m28.71 28.8c1.554 0.2358 2.192-0.1519 2.773-0.5791"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19.81 34.05c1.554 0.2358 2.192-0.1519 2.773-0.5791"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m25.63 33.71c1.554 0.2358 2.192-0.1519 2.773-0.5791"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m15.55 41.42c1.554 0.2358 2.192-0.1519 2.773-0.5791"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19.8 37.88c1.554 0.2358 2.192-0.1519 2.773-0.5791"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m40.86 20.34c1.145 1.077 1.891 1.12 2.611 1.098"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m40.54 24.33c1.145 1.077 1.891 1.12 2.611 1.098"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m35.58 25.86c1.145 1.077 1.891 1.12 2.611 1.098"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m37.26 30.42c1.145 1.077 1.891 1.12 2.611 1.098"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m32.12 31.93c1.145 1.077 1.891 1.12 2.611 1.098"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m32.82 36.46c1.145 1.077 1.891 1.12 2.611 1.098"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m27.43 37.62c1.145 1.077 1.891 1.12 2.611 1.098"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m26.62 41.67c1.145 1.077 1.891 1.12 2.611 1.098"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m21.25 42.46c1.145 1.077 1.891 1.12 2.611 1.098"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m17.83 45.31c1.145 1.077 1.891 1.12 2.611 1.098"/>
+  </g>
   <g id="color">
     <path fill="#d22f27" fill-opacity="1" stroke-miterlimit="10" d="m53.04 55.43c-1.899 1.899-4.025 3.447-6.296 4.644-0.7534 0.3922-1.527 0.7534-2.312 1.073-3.127 1.259-6.461 1.899-9.784 1.899-6.657 0-13.31-2.539-18.39-7.616-10.16-10.16-4.489-20.96 5.666-31.12 5.843-5.849 15.28-12.16 22.65-10.69 2.565 0.5114 1.553-5.314 6.422-3.788 4.996 1.566 0.1482 4.589 0.7905 6.896 0.3357 1.206-0.0102 0.7558 1.255 1.913 1.373 1.256 2.25 2.477 3.168 3.829 6.853 10.11 5.8 24-3.168 32.95z"/>
     <path fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m24.63 46.88c-7.894 2.624-10.18-0.4228-9.963-2.803-0.6752-12.27 25.7-32.68 30.43-26.27 3.626 2.767-0.2077 13.82-8.298 21.91-3.995 3.272-8.052 5.376-12.17 7.16z"/>
