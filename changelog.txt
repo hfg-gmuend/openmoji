@@ -18,11 +18,12 @@ New:
   1F9D1-200D-1F9AF, 1F9D1-200D-1F9BC, 1F9D1-200D-1F9BD
 
 Fix:
-* finger height in Person Raising Hand
-* black and white Pomegranate
-* add leaf and stem in Poppy
-* racing position in Horse Racing
-* colours in Mate
+  * finger height in Person Raising Hand
+  * black and white Pomegranate
+  * add leaf and stem in Poppy
+  * racing position in Horse Racing
+  * colours in Mate
+  * colour in Black Heart
 
 * Improved formatting of all SVG files with automated attributes sorting/cleaning
 
