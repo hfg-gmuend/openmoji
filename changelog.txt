@@ -24,6 +24,7 @@ Fix:
   * racing position in Horse Racing
   * colours in Mate
   * colour in Black Heart
+  * remove shadow from hearts in Kiss, Smiling Face with Hearts and Couple with Heart
 
 * Improved formatting of all SVG files with automated attributes sorting/cleaning
 
