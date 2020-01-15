@@ -7,15 +7,22 @@
 👉 OpenMoji 12.2 - XX XXX 2020
 
 New:
-  + Transgender Flag
-  + Horse Riding
++ Transgender Flag
++ Horse Riding
++ Gender neutral persons and person-roles to fulfill Unicode Emoji 12.1:
+  1F9D1-200D-1F9B0, 1F9D1-200D-1F9B1, 1F9D1-200D-1F9B3, 1F9D1-200D-1F9B2,
+  1F9D1-200D-2695-FE0F, 1F9D1-200D-1F393, 1F9D1-200D-1F3EB, 1F9D1-200D-2696-FE0F,
+  1F9D1-200D-1F33E, 1F9D1-200D-1F373, 1F9D1-200D-1F527, 1F9D1-200D-1F3ED,
+  1F9D1-200D-1F4BC, 1F9D1-200D-1F52C, 1F9D1-200D-1F4BB, 1F9D1-200D-1F3A4,
+  1F9D1-200D-1F3A8, 1F9D1-200D-2708-FE0F, 1F9D1-200D-1F680, 1F9D1-200D-1F692,
+  1F9D1-200D-1F9AF, 1F9D1-200D-1F9BC, 1F9D1-200D-1F9BD
 
 Fix:
-  * finger height in Person Raising Hand
-  * black and white Pomegranate
-  * add leaf and stem in Poppy
-  * racing position in Horse Racing
-  * colours in Mate
+* finger height in Person Raising Hand
+* black and white Pomegranate
+* add leaf and stem in Poppy
+* racing position in Horse Racing
+* colours in Mate
 
 * Improved formatting of all SVG files with automated attributes sorting/cleaning
 
