@@ -96,9 +96,7 @@ emojis = _.orderBy(emojis, ['order', 'group', 'subgroups', 'hexcode'], ['asc', '
 
 // select all emojis which have not been designed yet (without skintones)
 const missingEmojis = _.filter(emojis, (e) => { return e.openmoji_author === '' && e.skintone === '' });
-if (missingEmojis.length > 0) {
-  writeCsv(missingEmojis, 'data/openmoji-emoji-unicode-missing.csv');
-}
+writeCsv(missingEmojis, 'data/openmoji-emoji-unicode-missing.csv');
 
 // remove all emojis which have not been designed yet
 emojis = _.filter(emojis, (e) => { return e.openmoji_author !== '' });
