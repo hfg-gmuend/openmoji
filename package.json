@@ -19,7 +19,7 @@
   "scripts": {
     "test": "node_modules/.bin/mocha --reporter mochawesome --reporter-options reportDir=test/report,reportFilename=report,json=false,code=false,cdn=true,reportTitle=OpenMoji-Tester,reportPageTitle=OpenMoji-Tester test/*.js --openmoji-data-json $PWD/data/openmoji.json --openmoji-src-folder $PWD/src",
     "test-dev": "node_modules/.bin/mocha --invert --grep \"production\" test/*.js --openmoji-data-json $PWD/data/openmoji.json --openmoji-src-folder $PWD/src",
-    "pretty-src-svg": "find src/ -type f -name '*.svg' -print0 | xargs -0 -n 1 -P 6 svgo --quiet --config helpers/beautify-svg.yml",
+    "pretty-src-svg": "find src/people-body/family/ -type f -name '*.svg' -print0 | xargs -0 -n 1 -P 6 svgo --quiet --config helpers/beautify-svg.yml",
     "export-svg": "./helpers/export-svg.sh",
     "export-png": "./helpers/export-png.sh",
     "export-svg-font": "node helpers/export-svg-font.js",
