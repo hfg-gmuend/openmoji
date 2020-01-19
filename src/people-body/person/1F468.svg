@@ -6,7 +6,7 @@
     <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M68,18.3v35.5c0,1.2-1,2.3-2.3,2.3H6.3 C5,56,4,55,4,53.7V18.3C4,17,5,16,6.3,16h59.5C67,16,68,17,68,18.3z"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
-  <g id="color_1_">
+  <g id="color">
     <path fill="#92D3F5" d="M17,61v-4c0-5,5-9,10-9c6,5,12,5,18,0c5,0,10,4,10,9v4"/>
   </g>
   <g id="hair">
