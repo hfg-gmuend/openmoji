@@ -26,6 +26,7 @@ Fix:
   * colour in Black Heart
   * remove shadow from hearts in Kiss, Smiling Face with Hearts and Couple with Heart
   * connect lines and colours in Authority Instruction
+  * remove eyebrows and change mouth in Confused Face
 
 * Improved formatting of all SVG files with automated attributes sorting/cleaning
 
