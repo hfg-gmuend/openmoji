@@ -14,8 +14,8 @@
   <g id="skin-shadow"/>
   <g id="line">
     <circle cx="36" cy="36" r="23" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
-    <path transform="translate(-8.224 4.36)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m31.86 23.51c4.938 2.208 5.402 1.744 7.928 2.431 1.037 0.2818-2.41 2.333-7.862 3.248"/>
-    <path transform="translate(-8.224 4.36)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m56.59 23.69c-4.938 2.208-5.402 1.744-7.928 2.431-1.037 0.2818 2.41 2.333 7.862 3.248"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m25.54 44.37 2.886-2.408 3.578 4.615 3.991-3.363 3.991 3.363 3.589-4.615 2.886 2.416v-0.0089"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m23.64 27.87 7.928 2.431-7.862 3.248"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m48.36 27.87-7.928 2.431 7.862 3.248"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m23.93 44.39 3.533-2.896 3.931 5.55 4.608-4.044 4.608 4.044 3.944-5.55 3.532 2.905v-0.0107"/>
   </g>
 </svg>
