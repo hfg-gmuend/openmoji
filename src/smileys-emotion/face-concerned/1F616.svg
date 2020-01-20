@@ -13,13 +13,9 @@
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <circle cx="36" cy="36" r="23" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M29,43c1.2841-0.6376,3.9847-1.0308,6.8421-0.9981C38.4656,42.0319,40.8318,42.4165,42,43"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M23,24.7253c0.4132-0.344,2.2456-1.7915,4.9091-1.6364c2.1608,0.1259,3.61,1.2333,4.0909,1.6364"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M40,23.0774c0.4132,0.344,2.2456,1.7915,4.9091,1.6364c2.1608-0.1259,3.61-1.2333,4.0909-1.6364"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M58.8339,7.0537c0.7145-1.4648,2.4873-2.2723,4.2795-1.8451l0,0c2.0481,0.4882,3.3463,2.4041,2.8993,4.2794 s-2.4698,2.9997-4.5179,2.5115l-0.4646,1.9494"/>
-    <ellipse cx="59.9147" cy="18.81" rx="1.9947" ry="1.9947"/>
-    <path d="M30,31c0,1.6568-1.3448,3-3,3c-1.6553,0-3-1.3433-3-3c0-1.6552,1.3447-3,3-3C28.6552,28,30,29.3448,30,31"/>
-    <path d="M48,31c0,1.6568-1.3447,3-3,3s-3-1.3433-3-3c0-1.6552,1.3447-3,3-3S48,29.3448,48,31"/>
+    <circle cx="36" cy="36" r="23" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path transform="translate(-8.224 4.36)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m31.86 23.51c4.938 2.208 5.402 1.744 7.928 2.431 1.037 0.2818-2.41 2.333-7.862 3.248"/>
+    <path transform="translate(-8.224 4.36)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m56.59 23.69c-4.938 2.208-5.402 1.744-7.928 2.431-1.037 0.2818 2.41 2.333 7.862 3.248"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m25.54 44.37 2.886-2.408 3.578 4.615 3.991-3.363 3.991 3.363 3.589-4.615 2.886 2.416v-0.0089"/>
   </g>
 </svg>
