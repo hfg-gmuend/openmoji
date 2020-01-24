@@ -9,6 +9,7 @@ Interested in contributing? Yay! Here are a few infos how the workflow typically
 * **Fix a Bug**
 * **How to Submit a Pull Request**
 * **Developer Setup**
+* **How to Run the Tests**
 
 
 ## 💌 Contribute an Emoji via Email and Sending .svg Files
@@ -56,7 +57,19 @@ e.g. 🐌
 
 
 ### 4. Normalize SVG Formatting
-Before you gon on to submit we aks you should to normalize the formatting of the source code of your svg file(s). We want to be agnostic in terms of the editor used to produce the emojis. Every svg editor e.g. Adobe Illustrator, Sketch App, Figma etc. produce slightly different formated svg files on export. But we want to have a consistent svg source code style, hence please run `npm run pretty-src-svg` to normalize your files.
+Before you go on to submit we aks you should to normalize the formatting of the source code of your svg file(s). We want to be agnostic in terms of the editor used to produce the emojis. Every svg editor e.g. Adobe Illustrator, Sketch App, Figma etc. produce slightly different formated svg files on export. But we want to have a consistent svg source code style, hence please run the command below to normalize all your files or an individual file.
+
+Normalize all files in src folder:
+
+```bash
+npm run pretty-src-svg
+```
+
+Normalize an individual file e.g.:
+
+```bash
+node_modules/.bin/svgo src/activities/arts-crafts/1F3A8.svg --config helpers/beautify-svg.yml
+```
 
 
 ### 5. Submission
@@ -77,10 +90,10 @@ Emojis that are not (yet) defined in Unicode are located in the [Private Use Are
 For the OpenMoji project we divided the private use are into 100 equal sized blocks of 64 code points:
 
 
-| subcategory | block start | block end | 
-| --- | --- | --- | 
-| animals-nature | E000 | E040 | 
-| brand | E040 | E080 | 
+| subcategory | block start | block end |
+| --- | --- | --- |
+| animals-nature | E000 | E040 |
+| brand | E040 | E080 |
 | emergency | E080 | E0C0 |
 | … | … | … |
 
@@ -111,3 +124,17 @@ cd path/to/folder
 ```
 npm install
 ```
+
+## How to Run the Tests
+
+The folder `test/` contains automated unit tests to ensure consistency across all source .svg and production files. You can run all tests with:
+
+```bash
+npm test
+```
+Or run individual test e.g. all "xxx layer existing" tests:
+
+```bash
+node_modules/.bin/mocha --grep "layer existing" --reporter mochawesome --reporter-options reportDir=test/report,reportFilename=report,json=false,code=false,cdn=true,reportTitle=OpenMoji-Tester,reportPageTitle=OpenMoji-Tester test/*.js --openmoji-data-json $PWD/data/openmoji.json --openmoji-src-folder $PWD/src
+```
+
