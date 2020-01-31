@@ -81,8 +81,8 @@ describe('OpenMoji file format', function() {
     emojis.forEach(emoji => {
       it(`${emoji.emoji} ${emoji.hexcode}.svg should only have <g> elements at top level and no other elements`, function(){
         const doc = createDoc(emoji);
-        const layers = doc.querySelectorAll('svg > g');
-        const notLayers = doc.querySelectorAll('svg > :not(g)');
+        const layers = doc.querySelectorAll('svg > g, svg > title');
+        const notLayers = doc.querySelectorAll('svg > :not(g):not(title)');
         expect( layers.length ).to.be.at.least(3);
         expect( notLayers.length ).to.equal(0);
       });
