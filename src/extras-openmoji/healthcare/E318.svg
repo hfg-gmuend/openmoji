@@ -1,0 +1,16 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>E318</title>
+  <g id="grid">
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
+    <rect x="11" y="10.9583" width="50" height="50" rx="1.9231" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color"/>
+  <g id="line">
+    <path d="M27.6,53.3225a2.8357,2.8357,0,0,0,2.1616-1.7863S43.4562,26.33,45.1433,20.0778" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M25.21,51.9654a3.0487,3.0487,0,0,1,.5465-2.7868S40.5987,24.63,45.1433,20.0172" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M43.0153,18.66H44.91a.6.6,0,0,1,.6.6v6.4648a0,0,0,0,1,0,0H42.4153a0,0,0,0,1,0,0V19.26A.6.6,0,0,1,43.0153,18.66Z" transform="translate(16.9861 -19.0082) rotate(30)"/>
+  </g>
+</svg>

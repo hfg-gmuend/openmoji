@@ -1,0 +1,32 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>E30A</title>
+  <g id="grid">
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <rect x="15.5" y="32.7643" width="7.29" height="3.894" fill="#ea5a47"/>
+    <rect x="25.107" y="32.7643" width="7.29" height="3.894" fill="#fcea2b"/>
+    <rect x="34.7139" y="32.7643" width="7.29" height="3.894" fill="#b1cc33"/>
+    <rect x="15.5" y="36.6583" width="40.5" height="24.3" fill="#d0cfce"/>
+    <path d="M16.4008,32.7643h5.4885a.9008.9008,0,0,1,.9008.9008v2.9932a0,0,0,0,1,0,0H15.5a0,0,0,0,1,0,0V33.6651A.9008.9008,0,0,1,16.4008,32.7643Z" fill="none"/>
+    <path d="M26.0077,32.7643h5.4885a.9008.9008,0,0,1,.9008.9008v2.9932a0,0,0,0,1,0,0h-7.29a0,0,0,0,1,0,0V33.6651A.9008.9008,0,0,1,26.0077,32.7643Z" fill="none"/>
+    <path d="M35.6147,32.7643h5.4885a.9008.9008,0,0,1,.9008.9008v2.9932a0,0,0,0,1,0,0h-7.29a0,0,0,0,1,0,0V33.6651A.9008.9008,0,0,1,35.6147,32.7643Z" fill="none"/>
+    <rect x="15.5" y="36.6583" width="40.5" height="24.3" fill="none"/>
+    <polygon points="30.656 50.134 34.424 50.134 34.424 53.902 37.076 53.902 37.076 50.134 40.844 50.134 40.844 47.482 37.076 47.482 37.076 43.715 34.424 43.715 34.424 47.482 30.656 47.482 30.656 50.134" fill="#d22f27"/>
+  </g>
+  <g id="line">
+    <rect x="15.5" y="32.7643" width="7.29" height="3.894" fill="none"/>
+    <rect x="25.107" y="32.7643" width="7.29" height="3.894" fill="none"/>
+    <rect x="34.7139" y="32.7643" width="7.29" height="3.894" fill="none"/>
+    <rect x="15.5" y="36.6583" width="40.5" height="24.3" fill="none"/>
+    <path d="M16.4008,32.7643h5.4885a.9008.9008,0,0,1,.9008.9008v2.9932a0,0,0,0,1,0,0H15.5a0,0,0,0,1,0,0V33.6651A.9008.9008,0,0,1,16.4008,32.7643Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M26.0077,32.7643h5.4885a.9008.9008,0,0,1,.9008.9008v2.9932a0,0,0,0,1,0,0h-7.29a0,0,0,0,1,0,0V33.6651A.9008.9008,0,0,1,26.0077,32.7643Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M35.6147,32.7643h5.4885a.9008.9008,0,0,1,.9008.9008v2.9932a0,0,0,0,1,0,0h-7.29a0,0,0,0,1,0,0V33.6651A.9008.9008,0,0,1,35.6147,32.7643Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <rect x="15.5" y="36.6583" width="40.5" height="24.3" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M37.0761,43.7147v3.7674h3.7674v2.6523H37.0761v3.7675H34.4239V50.1344H30.6565V47.4821h3.7674V43.7147h2.6522m0-2H34.4239a2,2,0,0,0-2,2v1.7674H30.6565a2,2,0,0,0-2,2v2.6523a2,2,0,0,0,2,2h1.7674v1.7675a2,2,0,0,0,2,2h2.6522a2,2,0,0,0,2-2V52.1344h1.7674a2,2,0,0,0,2-2V47.4821a2,2,0,0,0-2-2H39.0761V43.7147a2,2,0,0,0-2-2Z"/>
+  </g>
+</svg>

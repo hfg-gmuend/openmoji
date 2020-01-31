@@ -1,0 +1,28 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>E320</title>
+  <g id="grid">
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <path id="Leg_Skin_1" data-name="Leg Skin 1" d="M60.2043,9.8937c-3,7-12.5379,11.949-12.5,14.5.042,2.8237,1.2939,8.5391,1.5,11.5a121.3744,121.3744,0,0,1,0,20c-.1448,1.9947,4.6519,5.6706,0,9-1.2223.8748-6-2-14,0a24.135,24.135,0,0,1-7.59.2906,1.8,1.8,0,0,1-.5166-3.41c2.2278-1.0376,5.1861-1.9593,7.1061-2.8809,2.9511-1.4165,4.7874-2.833,5.8248-4.6706a1.7926,1.7926,0,0,0,.2176-.6956c.8519-8.01-2.58-20.217-5.0424-25.6338a8.0783,8.0783,0,0,1-1-4c0-2,1-3,2-5,2.2429-4.4858,2.8473-7.1758,3.9283-9.4321A2.0071,2.0071,0,0,1,41.8544,8.46,52.7157,52.7157,0,0,1,56.51,9.1421Z" fill="#d0cfce" stroke="#d0cfce" stroke-miterlimit="10"/>
+    <path id="Leg_Skin_1-2" data-name="Leg Skin 1-2" d="M60.2043,9.8937c-3,7-12.5379,11.949-12.5,14.5.042,2.8237,1.2939,8.5391,1.5,11.5a121.3744,121.3744,0,0,1,0,20c-.1448,1.9947,4.6519,5.6706,0,9-1.2223.8748-6-2-14,0a24.135,24.135,0,0,1-7.59.2906,1.8,1.8,0,0,1-.5166-3.41c2.2278-1.0376,5.1861-1.9593,7.1061-2.8809,2.9511-1.4165,4.7874-2.833,5.8248-4.6706a1.7926,1.7926,0,0,0,.2176-.6956c.8519-8.01-2.58-20.217-5.0424-25.6338a8.0783,8.0783,0,0,1-1-4c0-2,1-3,2-5,2.2429-4.4858,2.8473-7.1758,3.9283-9.4321A2.0071,2.0071,0,0,1,41.8544,8.46,52.7157,52.7157,0,0,1,56.51,9.1421Z" fill="#d0cfce" stroke="#d0cfce" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+  <g id="line">
+    <g id="line-2" data-name="line">
+      <path id="Leg_Line_1" data-name="Leg Line 1" d="M60.2043,9.8937c-3,7-12.5379,11.949-12.5,14.5.042,2.8237,1.2939,8.5391,1.5,11.5a121.3744,121.3744,0,0,1,0,20c-.1448,1.9947,4.4567,6.3415,0,9-1.6764,1-6-2-14,0a24.135,24.135,0,0,1-7.59.2906,1.8,1.8,0,0,1-.5166-3.41c2.2278-1.0376,5.1861-1.9593,7.1061-2.8809,2.9511-1.4165,4.7874-2.833,5.8248-4.6706a1.7926,1.7926,0,0,0,.2176-.6956c.8519-8.01-2.58-20.217-5.0424-25.6338a8.0783,8.0783,0,0,1-1-4c0-2,1-3,2-5,2.2429-4.4858,2.8473-7.1758,3.9283-9.4321A2.0071,2.0071,0,0,1,41.8544,8.46,52.7157,52.7157,0,0,1,56.51,9.1421" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Leg_Line_2" data-name="Leg Line 2" d="M40.2043,20.8937c-1.3706,1.69-1.78,3.669-1,5a2.9093,2.9093,0,0,0,1,1" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <polyline points="32.091 18.079 28.865 14.946 31.537 13.684 27.484 9.747" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="22.854 32.557 26.735 30.285 27.238 33.198 32.114 30.343" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="30.722 22.903 26.241 22.522 27.041 25.368 21.411 24.89" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+  <g id="color-foreground">
+    <polyline points="32.091 18.079 28.865 14.946 31.537 13.684 27.484 9.747" fill="none" stroke="#d22f27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="22.854 32.557 26.735 30.285 27.238 33.198 32.114 30.343" fill="none" stroke="#d22f27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="30.722 22.903 26.241 22.522 27.041 25.368 21.411 24.89" fill="none" stroke="#d22f27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

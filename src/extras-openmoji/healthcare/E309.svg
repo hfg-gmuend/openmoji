@@ -1,0 +1,24 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>E309</title>
+  <g id="grid">
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <rect x="11" y="26.6943" width="50" height="34.3876" fill="#d0cfce"/>
+    <polygon points="27.706 46.26 34.446 46.26 34.446 53 39.19 53 39.19 46.26 45.93 46.26 45.93 41.516 39.19 41.516 39.19 34.776 34.446 34.776 34.446 41.516 27.706 41.516 27.706 46.26" fill="#d22f27"/>
+  </g>
+  <g id="line">
+    <polygon points="27.706 46.26 34.446 46.26 34.446 53 39.19 53 39.19 46.26 45.93 46.26 45.93 41.516 39.19 41.516 39.19 34.776 34.446 34.776 34.446 41.516 27.706 41.516 27.706 46.26" fill="none"/>
+    <rect x="18.0107" y="24.0526" width="4.7159" height="3.6882" rx="0.9284" fill="none"/>
+    <rect x="50.3039" y="24.0526" width="4.7159" height="3.6882" rx="0.9284" fill="none"/>
+    <rect x="11" y="26.6943" width="50" height="34.3876" stroke-width="2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M28.1512,26.6943V23.703a2.0669,2.0669,0,0,1,2.0669-2.0669H41.7819a2.0669,2.0669,0,0,1,2.0669,2.0669v2.9913" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M39.19,34.7758v6.74h6.74V46.26H39.19V53H34.4456V46.26h-6.74V41.5156h6.74v-6.74H39.19m0-2H34.4456a2,2,0,0,0-2,2v4.74h-4.74a2,2,0,0,0-2,2V46.26a2,2,0,0,0,2,2h4.74V53a2,2,0,0,0,2,2H39.19a2,2,0,0,0,2-2V48.26h4.74a2,2,0,0,0,2-2V41.5156a2,2,0,0,0-2-2H41.19v-4.74a2,2,0,0,0-2-2Z"/>
+    <rect x="18.0107" y="24.0526" width="4.7159" height="3.6882" rx="0.9284"/>
+    <rect x="50.3039" y="24.0526" width="4.7159" height="3.6882" rx="0.9284"/>
+  </g>
+</svg>

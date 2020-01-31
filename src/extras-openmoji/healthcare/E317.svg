@@ -1,0 +1,20 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>E317</title>
+  <g id="grid">
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813a1.923,1.923,0,0,1,1.923-1.923Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color"/>
+  <g id="line">
+    <ellipse cx="33.1337" cy="28.2884" rx="2.2509" ry="1.3725" fill="#fff"/>
+    <ellipse cx="33.3422" cy="28.611" rx="9.5873" ry="4.6806" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M23.755,47.6277c0,1.7658,4.2926,3.1908,9.5853,3.1908,5.2994,0,8.1385-1.0336,10.4641-2.5249" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="23.755" y1="28.611" x2="23.755" y2="47.6294" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="42.9323" y1="30.4423" x2="42.9323" y2="28.6071" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M40.3379,31.8114s5.3489-1.7634,7.1208-3.2043V45.494A20.9345,20.9345,0,0,1,40.15,50.0077" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <ellipse cx="33.1337" cy="28.6071" rx="2.2509" ry="1.3725" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
