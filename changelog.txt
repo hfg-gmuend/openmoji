@@ -33,6 +33,8 @@ Fix:
   * connect lines and colours in Authority Instruction
   * remove eyebrows and change mouth in Confused Face and Confounded Face
   * number of petals in Hibiscus
+  * screw thread in Lightbulb
+  * body in Flamingo
 
 * Changed rocket ship 1F680 from American space shuttle to the iconic vision of a
   rocket ship styled imagined in SF of the 1960's, by Kris Kowal @kriskowal
