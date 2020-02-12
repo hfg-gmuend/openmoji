@@ -18,29 +18,28 @@ If you are adventurous and you would like to generate the fonts on your own, her
 ### Setup
 
 1. Install [node.js](https://nodejs.org) (see version in file [`.nvmrc`](https://github.com/hfg-gmuend/openmoji/blob/master/.nvmrc#L1))
-2. Install [Docker](https://www.docker.com/)
-3. Install Docker container
-```bash
-cd openmoji/font/
-docker build -t openmoji-font .
-```
-
+2. Install [Docker](https://www.docker.com/) (tested with Docker 2.2.0.0, engine 19.03.5)
+3. Download or clone our [scfbuild](https://github.com/b-g/scfbuild) fork
+4. Install the [Docker container](https://github.com/b-g/scfbuild#docker) of our scfbuild fork
 ### Generate Fonts
 
-1. Copy the svg files to the folders "tmp-color" and "tmp-black"
+1. Make sure that Docker is running in background
+2. Open Terminal and go to OpenMoij folder 
 ```bash
-cd openmoji/
+cd path/to/openmoji
+```
+4. Copy the svg production files to the folders `font/tmp-color` and `font/tmp-black` . Please use the script, as it will also take care of special cases like missing glyphs etc.
+```bash
 node helpers/export-svg-font.js
 ```
-2. Make sure that Docker is running
-3. Start Docker container
+3. Generate the OpenMoji font files
 ```bash
-cd openmoji/font/
-docker run --interactive --tty --rm --volume $PWD:/wd --workdir /wd openmoji-font:latest bash
-```
-4. Generate font files
-```bash
-scfbuild/bin/scfbuild -c scfbuild-color.yml
+./helpers/generate-fonts.sh
 ```
 
-The file `scfbuild-color.yml` holds for instance all the settings for the OpenMoji color font.
+Done! ✅
+
+You can change the parameters of the OpenMoji fonts via the two config files:
+
+- `scfbuild-color.yml`
+-  `scfbuild-black.yml` .
