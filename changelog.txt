@@ -36,6 +36,7 @@ Fix:
   * screw thread in Lightbulb
   * body in Flamingo
   * mouth and eyes in Zany Face
+  * snowman in Snowman
 
 * Changed rocket ship 1F680 from American space shuttle to the iconic vision of a
   rocket ship styled imagined in SF of the 1960's, by Kris Kowal @kriskowal
