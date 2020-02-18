@@ -1,0 +1,21 @@
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="grid">
+    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
+    <rect x="16" y="4" rx="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <path fill="#9b9b9a" d="M70.24,10.5062a.8469.8469,0,0,0-.17-.04c-.01-.05-.03-.1-.04-.14A1.68,1.68,0,0,1,70.24,10.5062Z"/>
+    <path fill="#d0cfce" d="M20,32l3,5-2,3,1,3-5.0352,2.0141C16.2573,53.494,13.9859,62.3145,11,66H33V30.1429Z"/>
+    <path fill="#9b9b9a" d="M45,47a7.9829,7.9829,0,0,0-6.1866,2.9292C37.7017,42.6331,37.6422,34.7977,39.197,30H34l-1,.1429V66H47V49l-1.3018-1.9526C45.467,47.0258,45.237,47,45,47Z"/>
+    <polygon fill="#fff" points="54 41 53 37 51 36.6 51 66 57 66 57 42.5 54 41"/>
+    <path fill="#3f3f3f" d="M52,64l1-3-3-2,2.943-4.905q-.0138-.1215-.0312-.242L50,49H47V66h6v-.75Z"/>
+  </g>
+  <g id="line">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M39.197,30H34L20,32l3,5-2,3,1,3-5.0352,2.0141C16.2573,53.494,13.9859,62.3145,11,66H44.197C39.197,59.8286,36.197,39.2571,39.197,30Z"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="53 66 57 66 57 42.5 54 41 53 37 51 36.6 51 50.721"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M44.197,66H53v-.75L52,64l1-3-3-2,2.9449-4.9082c-.0094-.0831-.0256-.164-.0376-.2463L50,49H47l-1.31-1.9651C45.462,47.0153,45.2329,47,45,47a7.9829,7.9829,0,0,0-6.1866,2.9292"/>
+  </g>
+</svg>
