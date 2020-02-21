@@ -39,23 +39,6 @@ You can download, use and "consume" OpenMoji in various ways:
 - [OpenMoji Jekyll Plugin](https://github.com/azadeh-afzar/OpenMoji-Jekyll-Plugin): `gem install jekyll-openmoji`
 
 
-## Anatomy OpenMoji Repository
-
-`black/` and `color/` Contains all exported .png and .svg files.
-
-`data/` Contains the central openmoji.json with all meta informations for each emoji.
-
-`font/` Contains the exported OpenMoji fonts.
-
-`guidelines/` Contains various template files related to the styleguide.
-
-`helpers/` Contains various helper scripts e.g. to export to .png and .svg, generate skintones variants, enforce the OpenMoji color palette ...
-
-`src/` Contains all source .svg files of OpenMoji. The files are broken up into folders and files corresponding with the Unicode groups and sub-groups.
-
-`test/` Automated unit tests to ensure consistency across all source .svg files.
-
-
 ## Attribution Requirements
 As an open source project, attribution is critical from a legal, practical and motivational perspective. Please give us credits! Common places for attribution are for example: to mention us in your project README, the 'About' section or the footer on a website/in mobile apps.
 
@@ -64,11 +47,28 @@ Attribution suggestion:
 > All emojis designed by [OpenMoji](https://openmoji.org/) – the open-source emoji and icon project. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)
 
 
+## Anatomy OpenMoji Repository
+
+`black/` and `color/` Contains all exported .png and .svg files ¹
+
+`data/` Contains the central openmoji.json with all meta informations for each emoji ¹
+
+`font/` Contains the exported OpenMoji fonts ¹
+
+`guidelines/` Contains various template files related to the styleguide ¹
+
+`helpers/` Contains various helper scripts e.g. to export to .png and .svg, generate skintones variants, enforce the OpenMoji color palette etc. ²
+
+`src/` Contains all source .svg files of OpenMoji. The files are broken up into folders and files corresponding with the Unicode groups and sub-groups ¹
+
+`test/` Automated unit tests to ensure consistency across all source .svg files ²
+
+
 ## License
-OpenMoji graphics are licensed under the Creative Commons Share Alike License 4.0 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
+¹ OpenMoji graphics are licensed under the Creative Commons Share Alike License 4.0 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Code licensed under the GNU Lesser General Public License v3 ([LGPL-3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html))
+² Code licensed under the GNU Lesser General Public License v3 ([LGPL-3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html))
 
 [![License: LGPL-3.0](https://img.shields.io/badge/License-LGPL%20v3-lightgrey.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
