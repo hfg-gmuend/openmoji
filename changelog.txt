@@ -40,6 +40,8 @@ Fix:
   * hind leg in Horse and Donkey
   * background in Radioactive
   * redesign Sari
+  * stroke weight of gem stone 1F48E
+  * stroke weight of swim briefs 1FA72
 
 * Changed rocket ship 1F680 from American space shuttle to the iconic vision of a
   rocket ship styled imagined in SF of the 1960's, by Kris Kowal @kriskowal
