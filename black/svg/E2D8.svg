@@ -1,0 +1,11 @@
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="line">
+    <circle cx="36.3436" cy="10.4324" r="2.969" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M31.4771,24.2518c2.3523,3.5329.677,6.107.0317,8a33.3767,33.3767,0,0,0-.8975,5.6136c-.6,5.9762-1.0025,24.0044-1.0025,24.0044-.055,1.1.575,2,1.4,2a2.076,2.076,0,0,0,1.729-1.987l2.539-22.031c.126-1.093.679-1.987,1.229-1.987s1.1.894,1.229,1.987l2.5423,22.0314a2.076,2.076,0,0,0,1.729,1.987c.825,0,1.455-.9,1.4-2,0,0-.5226-17.8415-1.0731-23.7627a35.8713,35.8713,0,0,0-.8269-5.8553c-.6173-1.9024-2.416-4.7392-.0287-8"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M27.38,41.8423l.792-19a5.274,5.274,0,0,1,5.208-5h5.9271a5.274,5.274,0,0,1,5.208,5l.792,19"/>
+    <ellipse cx="38.8436" cy="13.521" rx="1.1343" ry="0.7574" transform="translate(3.5177 34.5858) rotate(-50)" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="33.8436" cy="13.521" rx="0.7574" ry="1.1343" transform="translate(-0.7733 24.9175) rotate(-40)" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="36.3436" cy="13.4014" r="1.5" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="39.6304" cy="20.8745" r="1"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="line">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" d="M40.5028,8.03v5.12s-.47,1.12-1.12,0V11.11h-6.76v2.08c-.65,1.12-1.12,0-1.12,0V8.03a.7341.7341,0,0,1,.73-.73h7.54A.7341.7341,0,0,1,40.5028,8.03Z"/>
+    <g id="line-2">
+      <g id="Standing_Man">
+        <g id="line-2-2">
+          <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" d="M38.9727,12.08a2.97,2.97,0,1,1-5.94,0"/>
+          <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" d="M40.9713,24.516s-.275,4.5-.2,6c.0686,1.3717.7744,5.4868.7744,5.4868L42.8713,62.516c.055,1.1-.575,2-1.4,2a2.076,2.076,0,0,1-1.729-1.987L37.2,40.498c-.129-1.093-.679-1.987-1.229-1.987s-1.103.894-1.229,1.987l-2.539,22.031a2.076,2.076,0,0,1-1.729,1.987c-.825,0-1.455-.9-1.4-2L30.4,36.0023c.1087-2.1733.7035-4.07.7737-5.4738.0752-1.5032-.1994-6.0125-.1994-6.0125"/>
+          <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" d="M26.9742,42.516l.792-19a5.274,5.274,0,0,1,5.208-5h6"/>
+        </g>
+        <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" d="M38.9013,18.5159a5.274,5.274,0,0,1,5.208,5l.792,19"/>
+      </g>
+    </g>
+  </g>
+</svg>

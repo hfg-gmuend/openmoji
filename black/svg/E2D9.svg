@@ -1,0 +1,13 @@
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="line">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16.3024,57.8917V54.8151c0-5.1217,5.1357-9.23,10.2554-9.23q9.23,7.6915,18.46,0c5.1216,0,10.2554,4.1082,10.2554,9.23v3.0766"/>
+    <line x1="27.6889" x2="43.8865" y1="18.3376" y2="18.3376" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="25.6378" x2="45.9376" y1="33.6847" y2="33.6847" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="26.5578" x2="26.5578" y1="45.5852" y2="57.9498" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle cx="35.5934" cy="40.5776" r="5.1277" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <ellipse cx="44.5446" cy="38.5168" rx="3.0863" ry="2.0608" transform="translate(-13.5937 47.8818) rotate(-50)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <ellipse cx="26.5578" cy="38.5168" rx="2.0608" ry="3.0863" transform="translate(-18.5448 26.0823) rotate(-40)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M26.0369,35.6641A17.2426,17.2426,0,0,1,24.44,28.2772c0-3.369.9753-7.5655,3.0766-10.2554a9.755,9.755,0,0,1,.8615-.968,10.8875,10.8875,0,0,1,7.3428-2.8778h.0652a10.8875,10.8875,0,0,1,7.3428,2.8778,9.755,9.755,0,0,1,.8615.968c2.1013,2.69,3.0766,6.8864,3.0766,10.2554a17.2452,17.2452,0,0,1-1.5935,7.379"/>
+    <circle cx="47.0666" cy="51.5579" r="2.1001"/>
+  </g>
+</svg>
