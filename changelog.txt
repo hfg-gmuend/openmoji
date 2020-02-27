@@ -21,6 +21,10 @@ New:
   E300, E301, E302, E303, E304, E305, E306, E307, E308, E309, E310, E311, E312,
   E313, E314, E315, E316, E318, E319, E320, E321, E322, E324, E325, E326,
   E327, E328, E329 by Tonia Reinhardt and Fanny Jung
++ New extras-openmoji/climate-environment (27):
+  E2C0, E2C1, E2C2, E2C3, E2C4, E2C5, E2C6, E2C7, E2C8, E2C9, E2CA, E2CB, E2CC,
+  E2CD, E2CE, E2CF, E2D0, E2D1, E2D2, E2D3, E2D4, E2D5, E2D6, E2D7, E2D8, E2D9,
+  E2DA by Sina Grund, Ricarda Krejci and Robin Kurz
 
 Fix:
   * finger height in Person Raising Hand
