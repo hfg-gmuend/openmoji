@@ -7,15 +7,15 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <rect x="12" y="12" width="48" height="47.834" fill="#b399c8"/>
+    <rect x="12" y="12" width="48" height="47.83" fill="#b399c8"/>
   </g>
   <g id="line">
-    <line x1="36" x2="36" y1="49.76" y2="20.76" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-    <line x1="29.5" x2="42.5" y1="51.26" y2="51.26" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-    <rect x="12.25" y="11.75" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m40.58 20.25a4.584 4.584 0 0 1-2.292 3.97 4.584 4.584 0 0 1-4.584-1e-6 4.584 4.584 0 0 1-2.292-3.97"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m43.71 20.25a7.712 7.712 0 0 1-3.856 6.679 7.712 7.712 0 0 1-7.712 0 7.712 7.712 0 0 1-3.856-6.679" />
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m46.84 20.25a10.84 10.84 0 0 1-5.42 9.388 10.84 10.84 0 0 1-10.84-1e-6 10.84 10.84 0 0 1-5.42-9.388" />
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m49.97 20.25a13.97 13.97 0 0 1-6.984 12.1 13.97 13.97 0 0 1-13.97 0 13.97 13.97 0 0 1-6.984-12.1"/>
+    <line x1="36" x2="36" y1="50.06" y2="21.76" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line x1="30.81" x2="41.19" y1="50.26" y2="50.26" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <rect x="12" y="12" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m41.69 21.25a5.691 5.765 0 0 1-2.846 4.993 5.691 5.765 0 0 1-5.691-1e-6 5.691 5.765 0 0 1-2.846-4.993"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m45.57 21.25a9.575 9.7 0 0 1-4.787 8.4 9.575 9.7 0 0 1-9.575 0 9.575 9.7 0 0 1-4.787-8.4"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m49.46 21.25a13.46 13.63 0 0 1-6.729 11.81 13.46 13.63 0 0 1-13.46-2e-6 13.46 13.63 0 0 1-6.729-11.81"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m53.34 21.25a17.34 17.57 0 0 1-8.671 15.22 17.34 17.57 0 0 1-17.34 0 17.34 17.57 0 0 1-8.671-15.22"/>
   </g>
 </svg>
