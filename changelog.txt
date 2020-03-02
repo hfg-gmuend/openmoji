@@ -48,6 +48,7 @@ Fix:
   * stroke weight of Swim Briefs 1FA72
   * number of candles in Menorah
   * shape of Star of David and Dotted Six-Pointed Star 
+  * grid in Bar Chart 
 
 * Changed Rocket Ship 1F680 from American space shuttle to the iconic vision of a
   rocket ship styled imagined in SF of the 1960's, by Kris Kowal @kriskowal
