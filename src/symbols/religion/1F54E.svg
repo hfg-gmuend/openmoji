@@ -10,12 +10,12 @@
     <rect x="12" y="12" width="48" height="47.83" fill="#b399c8"/>
   </g>
   <g id="line">
-    <line x1="36" x2="36" y1="50.06" y2="21.76" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line x1="36" x2="36" y1="50.15" y2="21.85" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
     <line x1="30.81" x2="41.19" y1="50.26" y2="50.26" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
     <rect x="12" y="12" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m41.69 21.25a5.691 5.765 0 0 1-2.846 4.993 5.691 5.765 0 0 1-5.691-1e-6 5.691 5.765 0 0 1-2.846-4.993"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m45.57 21.25a9.575 9.7 0 0 1-4.787 8.4 9.575 9.7 0 0 1-9.575 0 9.575 9.7 0 0 1-4.787-8.4"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m49.46 21.25a13.46 13.63 0 0 1-6.729 11.81 13.46 13.63 0 0 1-13.46-2e-6 13.46 13.63 0 0 1-6.729-11.81"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m53.34 21.25a17.34 17.57 0 0 1-8.671 15.22 17.34 17.57 0 0 1-17.34 0 17.34 17.57 0 0 1-8.671-15.22"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m40.64 21.34a4.635 4.618 0 0 1-2.318 4 4.635 4.618 0 0 1-4.635-1e-6 4.635 4.618 0 0 1-2.318-4"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m44.87 21.34a8.871 8.858 0 0 1-4.435 7.671 8.871 8.858 0 0 1-8.871 0 8.871 8.858 0 0 1-4.435-7.671"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m49.11 21.34a13.11 13.09 0 0 1-6.552 11.34 13.11 13.09 0 0 1-13.11-2e-6 13.11 13.09 0 0 1-6.552-11.34"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m53.34 21.34a17.34 17.34 0 0 1-8.67 15.02 17.34 17.34 0 0 1-17.34-1e-6 17.34 17.34 0 0 1-8.67-15.02"/>
   </g>
 </svg>
