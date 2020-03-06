@@ -1,10 +1,11 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <line x1="36.5" x2="36.5" y1="51" y2="22" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M21.833,21.8584l.0527,1.749c0,7.4121,6.4717,13.4229,14.459,13.4229,7.9854,0,14.461-6.0108,14.461-13.4229l.0273-1.749"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M25.751,21.8584,25.8,22.44a10.4751,10.4751,0,1,0,20.95,0l.001-.6055"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M42.7178,21.8564c0,4.1866-2.9131,7.587-6.5,7.587s-6.5-3.4-6.5-7.587"/>
-    <line x1="30" x2="43" y1="52.5" y2="52.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-    <rect x="12.25" y="11.75" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="36" x2="36" y1="50.15" y2="21.85" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line x1="30.81" x2="41.19" y1="50.26" y2="50.26" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <rect x="12" y="12" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m40.64 21.34a4.635 4.618 0 0 1-2.318 4 4.635 4.618 0 0 1-4.635-1e-6 4.635 4.618 0 0 1-2.318-4"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m44.87 21.34a8.871 8.858 0 0 1-4.435 7.671 8.871 8.858 0 0 1-8.871 0 8.871 8.858 0 0 1-4.435-7.671"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m49.11 21.34a13.11 13.09 0 0 1-6.552 11.34 13.11 13.09 0 0 1-13.11-2e-6 13.11 13.09 0 0 1-6.552-11.34"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m53.34 21.34a17.34 17.34 0 0 1-8.67 15.02 17.34 17.34 0 0 1-17.34-1e-6 17.34 17.34 0 0 1-8.67-15.02"/>
   </g>
 </svg>
