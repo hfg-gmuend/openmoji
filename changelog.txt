@@ -25,6 +25,7 @@ New:
   E2C0, E2C1, E2C2, E2C3, E2C4, E2C5, E2C6, E2C7, E2C8, E2C9, E2CA, E2CB, E2CC,
   E2CD, E2CE, E2CF, E2D0, E2D1, E2D2, E2D3, E2D4, E2D5, E2D6, E2D7, E2D8, E2D9,
   E2DA by Sina Grund, Ricarda Krejci and Robin Kurz
++ Hacker Cat 1F431-200D-1F4BB
 
 Fix:
   * finger height in Person Raising Hand
@@ -47,8 +48,8 @@ Fix:
   * stroke weight of Gem Stone 1F48E
   * stroke weight of Swim Briefs 1FA72
   * number of candles in Menorah
-  * shape of Star of David and Dotted Six-Pointed Star 
-  * grid in Bar Chart 
+  * shape of Star of David and Dotted Six-Pointed Star
+  * grid in Bar Chart
 
 * Changed Rocket Ship 1F680 from American space shuttle to the iconic vision of a
   rocket ship styled imagined in SF of the 1960's, by Kris Kowal @kriskowal
