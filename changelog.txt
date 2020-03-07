@@ -51,6 +51,7 @@ Fix:
   * shape of Star of David and Dotted Six-Pointed Star 
   * grid in Bar Chart 
   * toppings on Burger
+  * number of falafel in Falafel
 
 * Changed Rocket Ship 1F680 from American space shuttle to the iconic vision of a
   rocket ship styled imagined in SF of the 1960's, by Kris Kowal @kriskowal
