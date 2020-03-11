@@ -50,7 +50,6 @@ E0A8,extras-openmoji,emergency,emergency exit door,,Guemil Project,2019-01-14
 E0A9,extras-openmoji,emergency,location indicator red,,Guemil Project,2019-01-14
 E0AA,extras-openmoji,emergency,electric plug red,,Guemil Project,2019-01-14
 E0AB,extras-openmoji,emergency,timer,"clock, alarm",Guemil Project,2019-01-14
-1F3F3-FE0F-200D-26A7-FE0F,extras-openmoji,flags,transgender flag,"LGBT, trans, queer, gender",Carlin MacKenzie,2020-01-09
 E0C0,extras-openmoji,food-drink,half orange fruit,"citrus fruits, half",Hend Hourani,2018-11-16
 E104,extras-openmoji,interaction,scroll,"vertical, y-axis, mouse, wheel, movement, up, down",Kai Wanschura,2018-04-18
 E100,extras-openmoji,interaction,tap,,Baris Camli,2018-04-18
@@ -72,7 +71,6 @@ E143,extras-openmoji,objects,lighter,"lighter, bic",Kai Magnus Müller,2018-04-1
 E141,extras-openmoji,objects,armchair,,Baris Camli,2018-04-18
 E144,extras-openmoji,objects,outlet,outlet,Kai Magnus Müller,2018-04-18
 E181,extras-openmoji,people,drunk person,"person, person-activity, person-gesture, person-sport, drunk, alcohol, party, beer, drinking",Johanna Wellnitz,2018-04-18
-E180,extras-openmoji,people,persons hugging,"love, harmony, humans, like, making out, arms",Kai Wanschura,2018-04-18
 E182,extras-openmoji,people,person with dog,"person, person-activity, dog, walking, animal, pet",Johanna Wellnitz,2018-04-18
 E183,extras-openmoji,people,trump,"trump, donald, president, america, usa",Sina Schulz,2018-04-18
 E184,extras-openmoji,people,horse riding,equestrian,Johanna Wellnitz,2018-04-18
@@ -188,8 +186,6 @@ E306,extras-openmoji,healthcare,plaster,"patch, band aid, plaster, wound, dressi
 E307,extras-openmoji,healthcare,medication,"drug, medicine, tablets, pain killers",Fanny Jung,2010-01-31
 E308,extras-openmoji,healthcare,ecg waves,"heartbeats, beat, hospital, electrocardiogram",Tonia Reinhardt,2010-01-31
 E309,extras-openmoji,healthcare,first aid bag,"briefcase, medicine, kit",Fanny Jung,2010-01-31
-E310,extras-openmoji,healthcare,heart,"pump, blood, beat, organ,",Tonia Reinhardt,2010-01-31
-E311,extras-openmoji,healthcare,lung,"respiration, breathing, air, organ",Fanny Jung,2010-01-31
 E312,extras-openmoji,healthcare,liver,"organ, toxins, bile",Tonia Reinhardt,2010-01-31
 E313,extras-openmoji,healthcare,stomach,"gut, digestion, bile, acid",Fanny Jung,2010-01-31
 E314,extras-openmoji,healthcare,large intestine,"organ, colon, gut",Tonia Reinhardt,2010-01-31
@@ -211,7 +207,6 @@ E2C1,extras-openmoji,climate-environment,floating ice,"glacier, polar, sea, melt
 E2C2,extras-openmoji,climate-environment,floating ice broken,"glacier, polar, sea, melt",Sina Grund,2020-02-18
 E2C3,extras-openmoji,climate-environment,polar research station,"neumayer station, arctic, science",Sina Grund,2020-02-18
 E2C4,extras-openmoji,climate-environment,ice core sample,"science, research, arctic, polar",Sina Grund,2020-02-18
-E2C5,extras-openmoji,climate-environment,ice bear,"polar, arctic, animal, ursa, ",Sina Grund,2020-02-18
 E2C6,extras-openmoji,climate-environment,ice shelf,"glacier, polar, sea, melt",Sina Grund,2020-02-18
 E2C7,extras-openmoji,climate-environment,ice shelf melting,"glacier, sea, melt, climate, global, warming",Sina Grund,2020-02-18
 E2C8,extras-openmoji,climate-environment,polar explorer,"inuit, anorak with fur",Sina Grund,2020-02-18
@@ -233,3 +228,19 @@ E2D7,extras-openmoji,climate-environment,nuclear worker man,"radiation, protecti
 E2D8,extras-openmoji,climate-environment,nuclear worker woman,"radiation, protection suit, ",Robin Kurz,2020-02-18
 E2D9,extras-openmoji,climate-environment,nuclear protection,"radiation, suit, gas mask, nbc suit, hazmat",Robin Kurz,2020-02-18
 E2DA,extras-openmoji,climate-environment,atom bomb,"nuclear, radioactive, nuke, WW2",Robin Kurz,2020-02-18
+1FA84,extras-openmoji,activities,magic wand,,Liz Bravo,2020-03-11
+1FA85,extras-openmoji,activities,piñata,,Liz Bravo,2020-03-03
+1FAB1,extras-openmoji,animals-nature,worm,,Liz Bravo,2020-03-07
+1FAD0,extras-openmoji,food-drink,blueberries,,Liz Bravo,2020-03-03
+1FAD2,extras-openmoji,food-drink,olive,,Liz Bravo,2020-03-07
+1FAD3,extras-openmoji,food-drink,flatbread,,Liz Bravo,2020-03-03
+1FAD4,extras-openmoji,food-drink,tamale,,Liz Bravo,2020-03-03
+1FA98,extras-openmoji,objects,long drum,,Liz Bravo,2020-03-03
+1F972,extras-openmoji,smileys-emotion,smiling face with tear,,Liz Bravo,2020-03-07
+1F978,extras-openmoji,smileys-emotion,disguised face,,Liz Bravo,2020-03-07
+1F6FB,extras-openmoji,travel-places,pickup truck,,Liz Bravo,2020-03-07
+1F3F3-FE0F-200D-26A7-FE0F,extras-openmoji,flags,transgender flag,"LGBT, trans, queer, gender",Carlin MacKenzie,2020-01-09
+E310,extras-openmoji,healthcare,anatomical heart,"pump, blood, beat, organ,",Tonia Reinhardt,2010-01-31
+E311,extras-openmoji,healthcare,lungs,"respiration, breathing, air, organ",Fanny Jung,2010-01-31
+E180,extras-openmoji,people,people hugging,"love, harmony, humans, like, making out, arms",Kai Wanschura,2018-04-18
+E2C5,extras-openmoji,climate-environment,polar bear,"ice, arctic, animal, ursa, ",Sina Grund,2020-02-18

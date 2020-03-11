@@ -355,12 +355,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦵🏽,1F9B5-1F3FD,people-body,body-parts,leg: medium skin tone,,,Laura Schießer,2019-05-06,3,single,🦵,1F9B5,11,369
 🦵🏾,1F9B5-1F3FE,people-body,body-parts,leg: medium-dark skin tone,,,Laura Schießer,2019-05-06,4,single,🦵,1F9B5,11,370
 🦵🏿,1F9B5-1F3FF,people-body,body-parts,leg: dark skin tone,,,Laura Schießer,2019-05-06,5,single,🦵,1F9B5,11,371
-🦶,1F9B6,people-body,body-parts,foot,"kick, stomp",,Laura Schießer,2019-05-06,,single,🦶,1F9B6,11,372
-🦶🏻,1F9B6-1F3FB,people-body,body-parts,foot: light skin tone,,,Laura Schießer,2019-05-06,1,single,🦶,1F9B6,11,373
-🦶🏼,1F9B6-1F3FC,people-body,body-parts,foot: medium-light skin tone,,,Laura Schießer,2019-05-06,2,single,🦶,1F9B6,11,374
-🦶🏽,1F9B6-1F3FD,people-body,body-parts,foot: medium skin tone,,,Laura Schießer,2019-05-06,3,single,🦶,1F9B6,11,375
-🦶🏾,1F9B6-1F3FE,people-body,body-parts,foot: medium-dark skin tone,,,Laura Schießer,2019-05-06,4,single,🦶,1F9B6,11,376
-🦶🏿,1F9B6-1F3FF,people-body,body-parts,foot: dark skin tone,,,Laura Schießer,2019-05-06,5,single,🦶,1F9B6,11,377
+🦶,1F9B6,people-body,body-parts,foot,"kick, stomp",,Daniel Utz,2020-03-11,,single,🦶,1F9B6,11,372
+🦶🏻,1F9B6-1F3FB,people-body,body-parts,foot: light skin tone,,,Daniel Utz,2020-03-11,1,single,🦶,1F9B6,11,373
+🦶🏼,1F9B6-1F3FC,people-body,body-parts,foot: medium-light skin tone,,,Daniel Utz,2020-03-11,2,single,🦶,1F9B6,11,374
+🦶🏽,1F9B6-1F3FD,people-body,body-parts,foot: medium skin tone,,,Daniel Utz,2020-03-11,3,single,🦶,1F9B6,11,375
+🦶🏾,1F9B6-1F3FE,people-body,body-parts,foot: medium-dark skin tone,,,Daniel Utz,2020-03-11,4,single,🦶,1F9B6,11,376
+🦶🏿,1F9B6-1F3FF,people-body,body-parts,foot: dark skin tone,,,Daniel Utz,2020-03-11,5,single,🦶,1F9B6,11,377
 👂️,1F442,people-body,body-parts,ear,body,"ear, hear, listen",Julian Grüneberg,2018-04-18,,single,👂️,1F442,1,378
 👂🏻,1F442-1F3FB,people-body,body-parts,ear: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,👂️,1F442,2,379
 👂🏼,1F442-1F3FC,people-body,body-parts,ear: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,👂️,1F442,2,380
@@ -1782,25 +1782,25 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🛌🏿,1F6CC-1F3FF,people-body,person-resting,person in bed: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,🛌,1F6CC,4,2409
 🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,people-body,family,people holding hands,"couple, hand, hold, holding hands, person",,Fanny Jung,2019-05-06,,single,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12,2410
 🧑🏻‍🤝‍🧑🏻,1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FB,people-body,family,people holding hands: light skin tone,,,Fanny Jung,2019-05-06,1,single,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12,2411
-🧑🏻‍🤝‍🧑🏼,1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FC,people-body,family,,,,Fanny Jung,2019-05-06,"1,2",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2412
-🧑🏻‍🤝‍🧑🏽,1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FD,people-body,family,,,,Fanny Jung,2019-05-06,"1,3",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2413
-🧑🏻‍🤝‍🧑🏾,1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FE,people-body,family,,,,Fanny Jung,2019-05-06,"1,4",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2414
-🧑🏻‍🤝‍🧑🏿,1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FF,people-body,family,,,,Fanny Jung,2019-05-06,"1,5",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2415
+🧑🏻‍🤝‍🧑🏼,1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FC,people-body,family,"people holding hands: medium-light skin tone, light skin tone",,,Fanny Jung,2019-05-06,"1,2",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2412
+🧑🏻‍🤝‍🧑🏽,1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FD,people-body,family,"people holding hands: medium skin tone, light skin tone",,,Fanny Jung,2019-05-06,"1,3",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2413
+🧑🏻‍🤝‍🧑🏾,1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FE,people-body,family,"people holding hands: medium-dark skin tone, light skin tone",,,Fanny Jung,2019-05-06,"1,4",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2414
+🧑🏻‍🤝‍🧑🏿,1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FF,people-body,family,"people holding hands: dark skin tone, light skin tone",,,Fanny Jung,2019-05-06,"1,5",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2415
 🧑🏼‍🤝‍🧑🏻,1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FB,people-body,family,"people holding hands: medium-light skin tone, light skin tone",,,Fanny Jung,2019-05-06,"2,1",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12,2416
 🧑🏼‍🤝‍🧑🏼,1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FC,people-body,family,people holding hands: medium-light skin tone,,,Fanny Jung,2019-05-06,2,single,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12,2417
-🧑🏼‍🤝‍🧑🏽,1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FD,people-body,family,,,,Fanny Jung,2019-05-06,"2,3",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2418
-🧑🏼‍🤝‍🧑🏾,1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FE,people-body,family,,,,Fanny Jung,2019-05-06,"2,4",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2419
-🧑🏼‍🤝‍🧑🏿,1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FF,people-body,family,,,,Fanny Jung,2019-05-06,"2,5",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2420
+🧑🏼‍🤝‍🧑🏽,1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FD,people-body,family,"people holding hands: medium skin tone, medium-light skin tone",,,Fanny Jung,2019-05-06,"2,3",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2418
+🧑🏼‍🤝‍🧑🏾,1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FE,people-body,family,"people holding hands: medium-dark skin tone, medium-light skin tone",,,Fanny Jung,2019-05-06,"2,4",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2419
+🧑🏼‍🤝‍🧑🏿,1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FF,people-body,family,"people holding hands: dark skin tone, medium-light skin tone",,,Fanny Jung,2019-05-06,"2,5",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2420
 🧑🏽‍🤝‍🧑🏻,1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FB,people-body,family,"people holding hands: medium skin tone, light skin tone",,,Fanny Jung,2019-05-06,"3,1",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12,2421
 🧑🏽‍🤝‍🧑🏼,1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FC,people-body,family,"people holding hands: medium skin tone, medium-light skin tone",,,Fanny Jung,2019-05-06,"3,2",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12,2422
 🧑🏽‍🤝‍🧑🏽,1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FD,people-body,family,people holding hands: medium skin tone,,,Fanny Jung,2019-05-06,3,single,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12,2423
-🧑🏽‍🤝‍🧑🏾,1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FE,people-body,family,,,,Fanny Jung,2019-05-06,"3,4",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2424
-🧑🏽‍🤝‍🧑🏿,1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FF,people-body,family,,,,Fanny Jung,2019-05-06,"3,5",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2425
+🧑🏽‍🤝‍🧑🏾,1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FE,people-body,family,"people holding hands: medium-dark skin tone, medium skin tone",,,Fanny Jung,2019-05-06,"3,4",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2424
+🧑🏽‍🤝‍🧑🏿,1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FF,people-body,family,"people holding hands: dark skin tone, medium skin tone",,,Fanny Jung,2019-05-06,"3,5",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2425
 🧑🏾‍🤝‍🧑🏻,1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FB,people-body,family,"people holding hands: medium-dark skin tone, light skin tone",,,Fanny Jung,2019-05-06,"4,1",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12,2426
 🧑🏾‍🤝‍🧑🏼,1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FC,people-body,family,"people holding hands: medium-dark skin tone, medium-light skin tone",,,Fanny Jung,2019-05-06,"4,2",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12,2427
 🧑🏾‍🤝‍🧑🏽,1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FD,people-body,family,"people holding hands: medium-dark skin tone, medium skin tone",,,Fanny Jung,2019-05-06,"4,3",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12,2428
 🧑🏾‍🤝‍🧑🏾,1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FE,people-body,family,people holding hands: medium-dark skin tone,,,Fanny Jung,2019-05-06,4,single,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12,2429
-🧑🏾‍🤝‍🧑🏿,1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FF,people-body,family,,,,Fanny Jung,2019-05-06,"4,5",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2430
+🧑🏾‍🤝‍🧑🏿,1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FF,people-body,family,"people holding hands: dark skin tone, medium-dark skin tone",,,Fanny Jung,2019-05-06,"4,5",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12.1,2430
 🧑🏿‍🤝‍🧑🏻,1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FB,people-body,family,"people holding hands: dark skin tone, light skin tone",,,Fanny Jung,2019-05-06,"5,1",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12,2431
 🧑🏿‍🤝‍🧑🏼,1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FC,people-body,family,"people holding hands: dark skin tone, medium-light skin tone",,,Fanny Jung,2019-05-06,"5,2",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12,2432
 🧑🏿‍🤝‍🧑🏽,1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FD,people-body,family,"people holding hands: dark skin tone, medium skin tone",,,Fanny Jung,2019-05-06,"5,3",multiple,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12,2433
@@ -1808,25 +1808,25 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧑🏿‍🤝‍🧑🏿,1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FF,people-body,family,people holding hands: dark skin tone,,,Fanny Jung,2019-05-06,5,single,🧑‍🤝‍🧑,1F9D1-200D-1F91D-200D-1F9D1,12,2435
 👭,1F46D,people-body,family,women holding hands,"couple, hand, holding hands, women","together, girlfriend, lesbian, homosexual",Lisa Schulz,2018-04-18,,single,👭,1F46D,1,2436
 👭🏻,1F46D-1F3FB,people-body,family,women holding hands: light skin tone,,,Lisa Schulz,2018-04-18,1,single,👭,1F46D,12,2437
-👩🏻‍🤝‍👩🏼,1F469-1F3FB-200D-1F91D-200D-1F469-1F3FC,people-body,family,,,,Lisa Schulz,2018-04-18,"1,2",multiple,👭,1F46D,12.1,2438
-👩🏻‍🤝‍👩🏽,1F469-1F3FB-200D-1F91D-200D-1F469-1F3FD,people-body,family,,,,Lisa Schulz,2018-04-18,"1,3",multiple,👭,1F46D,12.1,2439
-👩🏻‍🤝‍👩🏾,1F469-1F3FB-200D-1F91D-200D-1F469-1F3FE,people-body,family,,,,Lisa Schulz,2018-04-18,"1,4",multiple,👭,1F46D,12.1,2440
-👩🏻‍🤝‍👩🏿,1F469-1F3FB-200D-1F91D-200D-1F469-1F3FF,people-body,family,,,,Lisa Schulz,2018-04-18,"1,5",multiple,👭,1F46D,12.1,2441
+👩🏻‍🤝‍👩🏼,1F469-1F3FB-200D-1F91D-200D-1F469-1F3FC,people-body,family,"women holding hands: medium-light skin tone, light skin tone",,,Lisa Schulz,2018-04-18,"1,2",multiple,👭,1F46D,12.1,2438
+👩🏻‍🤝‍👩🏽,1F469-1F3FB-200D-1F91D-200D-1F469-1F3FD,people-body,family,"women holding hands: medium skin tone, light skin tone",,,Lisa Schulz,2018-04-18,"1,3",multiple,👭,1F46D,12.1,2439
+👩🏻‍🤝‍👩🏾,1F469-1F3FB-200D-1F91D-200D-1F469-1F3FE,people-body,family,"women holding hands: medium-dark skin tone, light skin tone",,,Lisa Schulz,2018-04-18,"1,4",multiple,👭,1F46D,12.1,2440
+👩🏻‍🤝‍👩🏿,1F469-1F3FB-200D-1F91D-200D-1F469-1F3FF,people-body,family,"women holding hands: dark skin tone, light skin tone",,,Lisa Schulz,2018-04-18,"1,5",multiple,👭,1F46D,12.1,2441
 👩🏼‍🤝‍👩🏻,1F469-1F3FC-200D-1F91D-200D-1F469-1F3FB,people-body,family,"women holding hands: medium-light skin tone, light skin tone",,,Lisa Schulz,2018-04-18,"2,1",multiple,👭,1F46D,12,2442
 👭🏼,1F46D-1F3FC,people-body,family,women holding hands: medium-light skin tone,,,Lisa Schulz,2018-04-18,2,single,👭,1F46D,12,2443
-👩🏼‍🤝‍👩🏽,1F469-1F3FC-200D-1F91D-200D-1F469-1F3FD,people-body,family,,,,Lisa Schulz,2018-04-18,"2,3",multiple,👭,1F46D,12.1,2444
-👩🏼‍🤝‍👩🏾,1F469-1F3FC-200D-1F91D-200D-1F469-1F3FE,people-body,family,,,,Lisa Schulz,2018-04-18,"2,4",multiple,👭,1F46D,12.1,2445
-👩🏼‍🤝‍👩🏿,1F469-1F3FC-200D-1F91D-200D-1F469-1F3FF,people-body,family,,,,Lisa Schulz,2018-04-18,"2,5",multiple,👭,1F46D,12.1,2446
+👩🏼‍🤝‍👩🏽,1F469-1F3FC-200D-1F91D-200D-1F469-1F3FD,people-body,family,"women holding hands: medium skin tone, medium-light skin tone",,,Lisa Schulz,2018-04-18,"2,3",multiple,👭,1F46D,12.1,2444
+👩🏼‍🤝‍👩🏾,1F469-1F3FC-200D-1F91D-200D-1F469-1F3FE,people-body,family,"women holding hands: medium-dark skin tone, medium-light skin tone",,,Lisa Schulz,2018-04-18,"2,4",multiple,👭,1F46D,12.1,2445
+👩🏼‍🤝‍👩🏿,1F469-1F3FC-200D-1F91D-200D-1F469-1F3FF,people-body,family,"women holding hands: dark skin tone, medium-light skin tone",,,Lisa Schulz,2018-04-18,"2,5",multiple,👭,1F46D,12.1,2446
 👩🏽‍🤝‍👩🏻,1F469-1F3FD-200D-1F91D-200D-1F469-1F3FB,people-body,family,"women holding hands: medium skin tone, light skin tone",,,Lisa Schulz,2018-04-18,"3,1",multiple,👭,1F46D,12,2447
 👩🏽‍🤝‍👩🏼,1F469-1F3FD-200D-1F91D-200D-1F469-1F3FC,people-body,family,"women holding hands: medium skin tone, medium-light skin tone",,,Lisa Schulz,2018-04-18,"3,2",multiple,👭,1F46D,12,2448
 👭🏽,1F46D-1F3FD,people-body,family,women holding hands: medium skin tone,,,Lisa Schulz,2018-04-18,3,single,👭,1F46D,12,2449
-👩🏽‍🤝‍👩🏾,1F469-1F3FD-200D-1F91D-200D-1F469-1F3FE,people-body,family,,,,Lisa Schulz,2018-04-18,"3,4",multiple,👭,1F46D,12.1,2450
-👩🏽‍🤝‍👩🏿,1F469-1F3FD-200D-1F91D-200D-1F469-1F3FF,people-body,family,,,,Lisa Schulz,2018-04-18,"3,5",multiple,👭,1F46D,12.1,2451
+👩🏽‍🤝‍👩🏾,1F469-1F3FD-200D-1F91D-200D-1F469-1F3FE,people-body,family,"women holding hands: medium-dark skin tone, medium skin tone",,,Lisa Schulz,2018-04-18,"3,4",multiple,👭,1F46D,12.1,2450
+👩🏽‍🤝‍👩🏿,1F469-1F3FD-200D-1F91D-200D-1F469-1F3FF,people-body,family,"women holding hands: dark skin tone, medium skin tone",,,Lisa Schulz,2018-04-18,"3,5",multiple,👭,1F46D,12.1,2451
 👩🏾‍🤝‍👩🏻,1F469-1F3FE-200D-1F91D-200D-1F469-1F3FB,people-body,family,"women holding hands: medium-dark skin tone, light skin tone",,,Lisa Schulz,2018-04-18,"4,1",multiple,👭,1F46D,12,2452
 👩🏾‍🤝‍👩🏼,1F469-1F3FE-200D-1F91D-200D-1F469-1F3FC,people-body,family,"women holding hands: medium-dark skin tone, medium-light skin tone",,,Lisa Schulz,2018-04-18,"4,2",multiple,👭,1F46D,12,2453
 👩🏾‍🤝‍👩🏽,1F469-1F3FE-200D-1F91D-200D-1F469-1F3FD,people-body,family,"women holding hands: medium-dark skin tone, medium skin tone",,,Lisa Schulz,2018-04-18,"4,3",multiple,👭,1F46D,12,2454
 👭🏾,1F46D-1F3FE,people-body,family,women holding hands: medium-dark skin tone,,,Lisa Schulz,2018-04-18,4,single,👭,1F46D,12,2455
-👩🏾‍🤝‍👩🏿,1F469-1F3FE-200D-1F91D-200D-1F469-1F3FF,people-body,family,,,,Lisa Schulz,2018-04-18,"4,5",multiple,👭,1F46D,12.1,2456
+👩🏾‍🤝‍👩🏿,1F469-1F3FE-200D-1F91D-200D-1F469-1F3FF,people-body,family,"women holding hands: dark skin tone, medium-dark skin tone",,,Lisa Schulz,2018-04-18,"4,5",multiple,👭,1F46D,12.1,2456
 👩🏿‍🤝‍👩🏻,1F469-1F3FF-200D-1F91D-200D-1F469-1F3FB,people-body,family,"women holding hands: dark skin tone, light skin tone",,,Lisa Schulz,2018-04-18,"5,1",multiple,👭,1F46D,12,2457
 👩🏿‍🤝‍👩🏼,1F469-1F3FF-200D-1F91D-200D-1F469-1F3FC,people-body,family,"women holding hands: dark skin tone, medium-light skin tone",,,Lisa Schulz,2018-04-18,"5,2",multiple,👭,1F46D,12,2458
 👩🏿‍🤝‍👩🏽,1F469-1F3FF-200D-1F91D-200D-1F469-1F3FD,people-body,family,"women holding hands: dark skin tone, medium skin tone",,,Lisa Schulz,2018-04-18,"5,3",multiple,👭,1F46D,12,2459
@@ -1860,25 +1860,25 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👫🏿,1F46B-1F3FF,people-body,family,woman and man holding hands: dark skin tone,,,Lisa Schulz,2018-04-18,5,single,👫,1F46B,12,2487
 👬,1F46C,people-body,family,men holding hands,"couple, gemini, holding hands, man, men, twins, zodiac","together, gay, homosexual",Lisa Schulz,2018-04-18,,single,👬,1F46C,1,2488
 👬🏻,1F46C-1F3FB,people-body,family,men holding hands: light skin tone,,,Lisa Schulz,2018-04-18,1,single,👬,1F46C,12,2489
-👨🏻‍🤝‍👨🏼,1F468-1F3FB-200D-1F91D-200D-1F468-1F3FC,people-body,family,,,,Lisa Schulz,2018-04-18,"1,2",multiple,👬,1F46C,12.1,2490
-👨🏻‍🤝‍👨🏽,1F468-1F3FB-200D-1F91D-200D-1F468-1F3FD,people-body,family,,,,Lisa Schulz,2018-04-18,"1,3",multiple,👬,1F46C,12.1,2491
-👨🏻‍🤝‍👨🏾,1F468-1F3FB-200D-1F91D-200D-1F468-1F3FE,people-body,family,,,,Lisa Schulz,2018-04-18,"1,4",multiple,👬,1F46C,12.1,2492
-👨🏻‍🤝‍👨🏿,1F468-1F3FB-200D-1F91D-200D-1F468-1F3FF,people-body,family,,,,Lisa Schulz,2018-04-18,"1,5",multiple,👬,1F46C,12.1,2493
+👨🏻‍🤝‍👨🏼,1F468-1F3FB-200D-1F91D-200D-1F468-1F3FC,people-body,family,"men holding hands: medium-light skin tone, light skin tone",,,Lisa Schulz,2018-04-18,"1,2",multiple,👬,1F46C,12.1,2490
+👨🏻‍🤝‍👨🏽,1F468-1F3FB-200D-1F91D-200D-1F468-1F3FD,people-body,family,"men holding hands: medium skin tone, light skin tone",,,Lisa Schulz,2018-04-18,"1,3",multiple,👬,1F46C,12.1,2491
+👨🏻‍🤝‍👨🏾,1F468-1F3FB-200D-1F91D-200D-1F468-1F3FE,people-body,family,"men holding hands: medium-dark skin tone, light skin tone",,,Lisa Schulz,2018-04-18,"1,4",multiple,👬,1F46C,12.1,2492
+👨🏻‍🤝‍👨🏿,1F468-1F3FB-200D-1F91D-200D-1F468-1F3FF,people-body,family,"men holding hands: dark skin tone, light skin tone",,,Lisa Schulz,2018-04-18,"1,5",multiple,👬,1F46C,12.1,2493
 👨🏼‍🤝‍👨🏻,1F468-1F3FC-200D-1F91D-200D-1F468-1F3FB,people-body,family,"men holding hands: medium-light skin tone, light skin tone",,,Lisa Schulz,2018-04-18,"2,1",multiple,👬,1F46C,12,2494
 👬🏼,1F46C-1F3FC,people-body,family,men holding hands: medium-light skin tone,,,Lisa Schulz,2018-04-18,2,single,👬,1F46C,12,2495
-👨🏼‍🤝‍👨🏽,1F468-1F3FC-200D-1F91D-200D-1F468-1F3FD,people-body,family,,,,Lisa Schulz,2018-04-18,"2,3",multiple,👬,1F46C,12.1,2496
-👨🏼‍🤝‍👨🏾,1F468-1F3FC-200D-1F91D-200D-1F468-1F3FE,people-body,family,,,,Lisa Schulz,2018-04-18,"2,4",multiple,👬,1F46C,12.1,2497
-👨🏼‍🤝‍👨🏿,1F468-1F3FC-200D-1F91D-200D-1F468-1F3FF,people-body,family,,,,Lisa Schulz,2018-04-18,"2,5",multiple,👬,1F46C,12.1,2498
+👨🏼‍🤝‍👨🏽,1F468-1F3FC-200D-1F91D-200D-1F468-1F3FD,people-body,family,"men holding hands: medium skin tone, medium-light skin tone",,,Lisa Schulz,2018-04-18,"2,3",multiple,👬,1F46C,12.1,2496
+👨🏼‍🤝‍👨🏾,1F468-1F3FC-200D-1F91D-200D-1F468-1F3FE,people-body,family,"men holding hands: medium-dark skin tone, medium-light skin tone",,,Lisa Schulz,2018-04-18,"2,4",multiple,👬,1F46C,12.1,2497
+👨🏼‍🤝‍👨🏿,1F468-1F3FC-200D-1F91D-200D-1F468-1F3FF,people-body,family,"men holding hands: dark skin tone, medium-light skin tone",,,Lisa Schulz,2018-04-18,"2,5",multiple,👬,1F46C,12.1,2498
 👨🏽‍🤝‍👨🏻,1F468-1F3FD-200D-1F91D-200D-1F468-1F3FB,people-body,family,"men holding hands: medium skin tone, light skin tone",,,Lisa Schulz,2018-04-18,"3,1",multiple,👬,1F46C,12,2499
 👨🏽‍🤝‍👨🏼,1F468-1F3FD-200D-1F91D-200D-1F468-1F3FC,people-body,family,"men holding hands: medium skin tone, medium-light skin tone",,,Lisa Schulz,2018-04-18,"3,2",multiple,👬,1F46C,12,2500
 👬🏽,1F46C-1F3FD,people-body,family,men holding hands: medium skin tone,,,Lisa Schulz,2018-04-18,3,single,👬,1F46C,12,2501
-👨🏽‍🤝‍👨🏾,1F468-1F3FD-200D-1F91D-200D-1F468-1F3FE,people-body,family,,,,Lisa Schulz,2018-04-18,"3,4",multiple,👬,1F46C,12.1,2502
-👨🏽‍🤝‍👨🏿,1F468-1F3FD-200D-1F91D-200D-1F468-1F3FF,people-body,family,,,,Lisa Schulz,2018-04-18,"3,5",multiple,👬,1F46C,12.1,2503
+👨🏽‍🤝‍👨🏾,1F468-1F3FD-200D-1F91D-200D-1F468-1F3FE,people-body,family,"men holding hands: medium-dark skin tone, medium skin tone",,,Lisa Schulz,2018-04-18,"3,4",multiple,👬,1F46C,12.1,2502
+👨🏽‍🤝‍👨🏿,1F468-1F3FD-200D-1F91D-200D-1F468-1F3FF,people-body,family,"men holding hands: dark skin tone, medium skin tone",,,Lisa Schulz,2018-04-18,"3,5",multiple,👬,1F46C,12.1,2503
 👨🏾‍🤝‍👨🏻,1F468-1F3FE-200D-1F91D-200D-1F468-1F3FB,people-body,family,"men holding hands: medium-dark skin tone, light skin tone",,,Lisa Schulz,2018-04-18,"4,1",multiple,👬,1F46C,12,2504
 👨🏾‍🤝‍👨🏼,1F468-1F3FE-200D-1F91D-200D-1F468-1F3FC,people-body,family,"men holding hands: medium-dark skin tone, medium-light skin tone",,,Lisa Schulz,2018-04-18,"4,2",multiple,👬,1F46C,12,2505
 👨🏾‍🤝‍👨🏽,1F468-1F3FE-200D-1F91D-200D-1F468-1F3FD,people-body,family,"men holding hands: medium-dark skin tone, medium skin tone",,,Lisa Schulz,2018-04-18,"4,3",multiple,👬,1F46C,12,2506
 👬🏾,1F46C-1F3FE,people-body,family,men holding hands: medium-dark skin tone,,,Lisa Schulz,2018-04-18,4,single,👬,1F46C,12,2507
-👨🏾‍🤝‍👨🏿,1F468-1F3FE-200D-1F91D-200D-1F468-1F3FF,people-body,family,,,,Lisa Schulz,2018-04-18,"4,5",multiple,👬,1F46C,12.1,2508
+👨🏾‍🤝‍👨🏿,1F468-1F3FE-200D-1F91D-200D-1F468-1F3FF,people-body,family,"men holding hands: dark skin tone, medium-dark skin tone",,,Lisa Schulz,2018-04-18,"4,5",multiple,👬,1F46C,12.1,2508
 👨🏿‍🤝‍👨🏻,1F468-1F3FF-200D-1F91D-200D-1F468-1F3FB,people-body,family,"men holding hands: dark skin tone, light skin tone",,,Lisa Schulz,2018-04-18,"5,1",multiple,👬,1F46C,12,2509
 👨🏿‍🤝‍👨🏼,1F468-1F3FF-200D-1F91D-200D-1F468-1F3FC,people-body,family,"men holding hands: dark skin tone, medium-light skin tone",,,Lisa Schulz,2018-04-18,"5,2",multiple,👬,1F46C,12,2510
 👨🏿‍🤝‍👨🏽,1F468-1F3FF-200D-1F91D-200D-1F468-1F3FD,people-body,family,"men holding hands: dark skin tone, medium skin tone",,,Lisa Schulz,2018-04-18,"5,3",multiple,👬,1F46C,12,2511
@@ -3186,6 +3186,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏴󠁧󠁢󠁥󠁮󠁧󠁿,1F3F4-E0067-E0062-E0065-E006E-E0067-E007F,flags,subdivision-flag,flag: England,"flag, gbeng",,Ferdinand Sorg,2019-02-13,,,,,5,4020
 🏴󠁧󠁢󠁳󠁣󠁴󠁿,1F3F4-E0067-E0062-E0073-E0063-E0074-E007F,flags,subdivision-flag,flag: Scotland,"flag, gbsct",,Ferdinand Sorg,2019-02-13,,,,,5,4021
 🏴󠁧󠁢󠁷󠁬󠁳󠁿,1F3F4-E0067-E0062-E0077-E006C-E0073-E007F,flags,subdivision-flag,flag: Wales,"flag, gbwls",,Daniel Utz,2019-02-13,,,,,5,4022
+🪄,1FA84,extras-openmoji,activities,magic wand,,,Liz Bravo,2020-03-11,,,,,,
+🪅,1FA85,extras-openmoji,activities,piñata,,,Liz Bravo,2020-03-03,,,,,,
+🪱,1FAB1,extras-openmoji,animals-nature,worm,,,Liz Bravo,2020-03-07,,,,,,
 ,E000,extras-openmoji,animals-nature,goldfish,,"goldfish, fish, water",Kai Magnus Müller,2018-04-18,,,,,,
 ,E001,extras-openmoji,animals-nature,donkey,,,Baris Camli,2018-04-18,,,,,,
 ,E002,extras-openmoji,animals-nature,poppy,,"poppy, remembrance, veterans",Carlin MacKenzie,2019-12-20,,,,,,
@@ -3200,7 +3203,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E2C2,extras-openmoji,climate-environment,floating ice broken,,"glacier, polar, sea, melt",Sina Grund,2020-02-18,,,,,,
 ,E2C3,extras-openmoji,climate-environment,polar research station,,"neumayer station, arctic, science",Sina Grund,2020-02-18,,,,,,
 ,E2C4,extras-openmoji,climate-environment,ice core sample,,"science, research, arctic, polar",Sina Grund,2020-02-18,,,,,,
-,E2C5,extras-openmoji,climate-environment,ice bear,,"polar, arctic, animal, ursa, ",Sina Grund,2020-02-18,,,,,,
+,E2C5,extras-openmoji,climate-environment,polar bear,,"ice, arctic, animal, ursa, ",Sina Grund,2020-02-18,,,,,,
 ,E2C6,extras-openmoji,climate-environment,ice shelf,,"glacier, polar, sea, melt",Sina Grund,2020-02-18,,,,,,
 ,E2C7,extras-openmoji,climate-environment,ice shelf melting,,"glacier, sea, melt, climate, global, warming",Sina Grund,2020-02-18,,,,,,
 ,E2C8,extras-openmoji,climate-environment,polar explorer,,"inuit, anorak with fur",Sina Grund,2020-02-18,,,,,,
@@ -3267,6 +3270,10 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E0AA,extras-openmoji,emergency,electric plug red,,,Guemil Project,2019-01-14,,,,,,
 ,E0AB,extras-openmoji,emergency,timer,,"clock, alarm",Guemil Project,2019-01-14,,,,,,
 🏳,1F3F3-FE0F-200D-26A7-FE0F,extras-openmoji,flags,transgender flag,,"LGBT, trans, queer, gender",Carlin MacKenzie,2020-01-09,,,,,,
+🫐,1FAD0,extras-openmoji,food-drink,blueberries,,,Liz Bravo,2020-03-03,,,,,,
+🫒,1FAD2,extras-openmoji,food-drink,olive,,,Liz Bravo,2020-03-07,,,,,,
+🫓,1FAD3,extras-openmoji,food-drink,flatbread,,,Liz Bravo,2020-03-03,,,,,,
+🫔,1FAD4,extras-openmoji,food-drink,tamale,,,Liz Bravo,2020-03-03,,,,,,
 ,E0C0,extras-openmoji,food-drink,half orange fruit,,"citrus fruits, half",Hend Hourani,2018-11-16,,,,,,
 ,E0C1,extras-openmoji,food-drink,maultasche,,"swabian, schwäbisch, schwaebisch, meal, germany",Fanny Jung,2019-05-06,,,,,,
 ,E0C2,extras-openmoji,food-drink,lentils with spaetzle,,"swabian, schwäbisch, meal, germany",Ricarda Krejci,2019-05-07,,,,,,
@@ -3288,8 +3295,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E30D,extras-openmoji,healthcare,blood transfusion,,"medical, bleeding, loss",Fanny Jung,2010-01-31,,,,,,
 ,E30E,extras-openmoji,healthcare,swab pliers,,"surgery, scissors",Fanny Jung,2010-01-31,,,,,,
 ,E30F,extras-openmoji,healthcare,hot-water bottle,,"cramps, comfort, warm, period",Tonia Reinhardt,2010-01-31,,,,,,
-,E310,extras-openmoji,healthcare,heart,,"pump, blood, beat, organ,",Tonia Reinhardt,2010-01-31,,,,,,
-,E311,extras-openmoji,healthcare,lung,,"respiration, breathing, air, organ",Fanny Jung,2010-01-31,,,,,,
+,E310,extras-openmoji,healthcare,anatomical heart,,"pump, blood, beat, organ,",Tonia Reinhardt,2010-01-31,,,,,,
+,E311,extras-openmoji,healthcare,lungs,,"respiration, breathing, air, organ",Fanny Jung,2010-01-31,,,,,,
 ,E312,extras-openmoji,healthcare,liver,,"organ, toxins, bile",Tonia Reinhardt,2010-01-31,,,,,,
 ,E313,extras-openmoji,healthcare,stomach,,"gut, digestion, bile, acid",Fanny Jung,2010-01-31,,,,,,
 ,E314,extras-openmoji,healthcare,large intestine,,"organ, colon, gut",Tonia Reinhardt,2010-01-31,,,,,,
@@ -3327,6 +3334,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E10B,extras-openmoji,interaction,swipe down,,"finger, movement, gesture, touch, app, down, y-axis, hand",Kai Wanschura,2018-04-18,,,,,,
 ,E10C,extras-openmoji,interaction,finger pushing button,,"pushing, pressing, red, alarm, nuclear missile, launch, start, stop",Kai Wanschura,2018-04-18,,,,,,
 ,E10D,extras-openmoji,interaction,exit,,,Baris Camli,2018-04-18,,,,,,
+🪘,1FA98,extras-openmoji,objects,long drum,,,Liz Bravo,2020-03-03,,,,,,
 ,E140,extras-openmoji,objects,first aid kit,,,Baris Camli,2018-04-18,,,,,,
 ,E141,extras-openmoji,objects,armchair,,,Baris Camli,2018-04-18,,,,,,
 ,E142,extras-openmoji,objects,picture,,"photo, picture, frame, landscape",Kai Magnus Müller,2018-04-18,,,,,,
@@ -3335,11 +3343,13 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E146,extras-openmoji,objects,spätzlepresse,,"swabian, schwäbisch, schwaebisch, spätzle, germany",Fanny Jung,2019-05-06,,,,,,
 ,E147,extras-openmoji,objects,european name badge,,,Selina Lange,2019-05-06,,,,,,
 ,E148,extras-openmoji,objects,kehrwoche,,"swabian, schwäbisch, schwaebisch, germany, broom",Tonia Reinhardt,2019-05-07,,,,,,
-,E180,extras-openmoji,people,persons hugging,,"love, harmony, humans, like, making out, arms",Kai Wanschura,2018-04-18,,,,,,
+,E180,extras-openmoji,people,people hugging,,"love, harmony, humans, like, making out, arms",Kai Wanschura,2018-04-18,,,,,,
 ,E181,extras-openmoji,people,drunk person,,"person, person-activity, person-gesture, person-sport, drunk, alcohol, party, beer, drinking",Johanna Wellnitz,2018-04-18,,,,,,
 ,E182,extras-openmoji,people,person with dog,,"person, person-activity, dog, walking, animal, pet",Johanna Wellnitz,2018-04-18,,,,,,
 ,E183,extras-openmoji,people,trump,,"trump, donald, president, america, usa",Sina Schulz,2018-04-18,,,,,,
 ,E184,extras-openmoji,people,horse riding,,equestrian,Johanna Wellnitz,2018-04-18,,,,,,
+🥲,1F972,extras-openmoji,smileys-emotion,smiling face with tear,,,Liz Bravo,2020-03-07,,,,,,
+🥸,1F978,extras-openmoji,smileys-emotion,disguised face,,,Liz Bravo,2020-03-07,,,,,,
 ,E280,extras-openmoji,smileys-emotion,exhausted face,,"exhausted, sleepy, tired, face",Mariella Steeb,2018-04-18,,,,,,
 ,E281,extras-openmoji,smileys-emotion,incredulous face,,"incredulous, disbelief, shocked",Mariella Steeb,2018-04-18,,,,,,
 ,E1C0,extras-openmoji,technology,wireframes,,,Baris Camli,2018-04-18,,,,,,
@@ -3366,6 +3376,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E1D5,extras-openmoji,technology,potentiometer,,potentiometer,Kai Magnus Müller,2018-04-18,,,,,,
 ,E1D6,extras-openmoji,technology,solar cell,,"solar, module, cell, photovoltaic",Kai Magnus Müller,2018-04-18,,,,,,
 ,E1D7,extras-openmoji,technology,circuit,,"circuit, electric, prototype",Kai Magnus Müller,2018-04-18,,,,,,
+🛻,1F6FB,extras-openmoji,travel-places,pickup truck,,,Liz Bravo,2020-03-07,,,,,,
 ,E200,extras-openmoji,travel-places,cafeteria,,,Baris Camli,2018-04-18,,,,,,
 ,E201,extras-openmoji,travel-places,emergency exit,,"alarm, fire, escape, way, route, guidance, signage, run, person, people, humans",Kai Wanschura,2018-04-18,,,,,,
 ,E202,extras-openmoji,travel-places,stairway,,"steps, up, down, ascend, descend, walk",Kai Wanschura,2018-04-18,,,,,,

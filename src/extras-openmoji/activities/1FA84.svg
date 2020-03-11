@@ -1,0 +1,28 @@
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <title>1F484</title>
+  <g id="grid">
+    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
+    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <rect x="33.6248" y="20.0448" width="4.6535" height="32.1987" transform="translate(36.0251 -14.8353) rotate(44.9296)" fill="#3f3f3f"/>
+    <circle cx="47.5749" cy="10.9583" r="2" fill="#fcea2b"/>
+    <circle cx="56" cy="28.3101" r="2" fill="#fcea2b"/>
+  </g>
+  <g id="line">
+    <rect x="34.2628" y="9.2771" width="3.3851" height="53.5249" rx="0.4398" transform="translate(35.9524 -14.8686) rotate(44.9296)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="45.3062" y1="23.8732" x2="47.6346" y2="26.0854" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="23.4413" y1="46.1937" x2="25.8379" y2="48.5844" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="47.5749" y1="8.9583" x2="47.5749" y2="7.2929" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="47.5749" y1="14.6237" x2="47.5749" y2="12.9583" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="45.5749" y1="10.9583" x2="43.9096" y2="10.9583" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="51.2403" y1="10.9583" x2="49.5749" y2="10.9583" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="56" y1="26.3101" x2="56" y2="24.6447" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="56" y1="31.9755" x2="56" y2="30.3101" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="54" y1="28.3101" x2="52.3346" y2="28.3101" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="59.6654" y1="28.3101" x2="58" y2="28.3101" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>
