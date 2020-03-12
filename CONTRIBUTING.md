@@ -110,8 +110,10 @@ If it's not on the issues list, add it. If it's already on the [issues](https://
 ## How to Submit a Pull Request
 [Fork](https://help.github.com/articles/fork-a-repo/) the OpenMoji repository and create a ["PR" pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) from your fork. (Here is also a [friendly video tutorial on "PR" pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4) by Daniel Shifmann / The Coding Train)
 
-
 ## Developer Setup
+
+**Node.js**
+
 1. Install [node.js](https://nodejs.org) (see version in the file [`.nvmrc`](https://github.com/hfg-gmuend/openmoji/blob/master/.nvmrc#L1))
 2. Open Terminal and navigate over to the `openmoji` folder that you downloaded onto your computer:
 
@@ -124,6 +126,12 @@ cd path/to/folder
 ```
 npm install
 ```
+
+
+
+**bash scripts**
+
+If you want to run the bash scripts  (.sh files) in the `helpers` folder e.g. for exprting png files, you will have to [install additional dependencies](https://github.com/hfg-gmuend/openmoji/wiki#additional-dependencies).
 
 ## How to Run the Tests
 
