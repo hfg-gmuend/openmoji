@@ -132,7 +132,7 @@ extrasOpenMoji = _.map(extrasOpenMoji, e => {
 let extrasUnicode = loadCsv('./data/extras-unicode.csv');
 extrasUnicode = _.map(extrasUnicode, e => {
   return {
-    emoji: String.fromCodePoint(parseInt(e.hexcode, 16)),
+    emoji: e.emoji,
     hexcode: e.hexcode,
     group: e.group,
     subgroups: e.subgroups,
