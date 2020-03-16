@@ -37,15 +37,4 @@ describe('File integrity src files', function() {
     });
   });
 
-  describe('Every hexcode is unique in openmoji.json?', function() {
-    srcFiles.forEach(f => {
-      const [srcFolder, group, subgroups, filename] = f.split(path.sep);
-      const hexcode = path.basename(filename, '.svg');
-      const filtered = filter(emojis, { 'hexcode': hexcode });
-      it(`${hexcode} should be unique in openmoji.json`, function(){
-        expect( filtered.length ).to.equal(1);
-      });
-    });
-  });
-
 });
