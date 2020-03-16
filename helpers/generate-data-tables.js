@@ -96,8 +96,8 @@ emojis = _.map(emojis, e => {
 emojis = _.orderBy(emojis, ['order', 'group', 'subgroups', 'hexcode'], ['asc', 'asc', 'asc', 'asc']);
 
 // -- save to CSV and JSON files --
-// writeJson(emojis, 'data/openmoji-emoji12.json');
-// writeCsv(emojis, 'data/openmoji-emoji12.csv');
+// writeJson(emojis, 'data/openmoji-emoji-unicode.json');
+// writeCsv(emojis, 'data/openmoji-emoji-unicode.csv');
 
 // select all emojis which have not been designed yet (without skintones)
 const missingEmojis = _.filter(emojis, (e) => { return e.openmoji_author === '' && e.skintone === '' });
