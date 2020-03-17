@@ -4,11 +4,24 @@
 
 --------------------------------------------------------------------------------
 
-👉 OpenMoji 12.2 - XX XXX 2020
+🦠 OpenMoji 12.2 - 17 March 2020
+
+Many improvements, fixes and new OpenMojis:
+👉 First batch of Emoji 13, ca. 1/3 of all new ones
+👉 Unicode Emoji 12.1 complete, new gender neutral persons and person-roles
+👉 New extras-openmoji: healthcare
+👉 New extras-openmoji: climate-environment
 
 New:
-+ Transgender Flag
-+ Horse Riding
++ Emoji 13:
+  1FAC0 anatomical heart, 1FAC1 lungs, 1FAC2 people hugging,
+  1F3F3 FE0F 200D 26A7 FE0F transgender flag, 1F43B polar bear,
+  1FAD0 blueberries, 1FAD3 flatbread, 1FAD4 tamale, 1FA85 piñata,
+  1FA98 long drum, 1F972 smiling face with tear, 1F978 disguised face,
+  1F6FB pickup truck, 1FAB0 fly, 1FAB1 worm, 1FAD2 olive, 1FA84 magic wand,
+  1F6FC roller skate, 1FA86 nesting dolls, 1FA74 thong sandal, 1FAA5 toothbrush,
+  26A7 transgender symbol, 1F408 black cat
+  by Liz Bravo @lizbravob and @carlinmack
 + Gender neutral persons and person-roles to fulfil Unicode Emoji 12.1:
   1F9D1-200D-1F9B0, 1F9D1-200D-1F9B1, 1F9D1-200D-1F9B3, 1F9D1-200D-1F9B2,
   1F9D1-200D-2695-FE0F, 1F9D1-200D-1F393, 1F9D1-200D-1F3EB, 1F9D1-200D-2696-FE0F,
@@ -26,6 +39,7 @@ New:
   E2CD, E2CE, E2CF, E2D0, E2D1, E2D2, E2D3, E2D4, E2D5, E2D6, E2D7, E2D8, E2D9,
   E2DA by Sina Grund, Ricarda Krejci and Robin Kurz
 + Hacker Cat 1F431-200D-1F4BB, by suggestion of @alexkadis
++ Horse Riding
 
 Fix:
   * finger height in Person Raising Hand
@@ -45,22 +59,23 @@ Fix:
   * hind leg in Horse and Donkey
   * background in Radioactive
   * redesign Sari
-  * stroke weight of Gem Stone 1F48E
-  * stroke weight of Swim Briefs 1FA72
+  * stroke weight of Gem Stone
+  * stroke weight of Swim Briefs
   * number of candles in Menorah
   * shape of Star of David and Dotted Six-Pointed Star
   * grid in Bar Chart
   * toppings on Burger
   * number of falafel in Falafel
-  * improved shape of foot 1F9B6
-
-* Changed Rocket Ship 1F680 from American space shuttle to the iconic vision of a
+  * improved shape of foot
+  * Changed Rocket Ship 1F680 from American space shuttle to the iconic vision of a
   rocket ship styled imagined in SF of the 1960's, by Kris Kowal @kriskowal
 
 * Improved formatting of all SVG files with automated attributes sorting/cleaning
 
+
 --------------------------------------------------------------------------------
-👉 OpenMoji 12.1 - 23 December 2019
+
+🎄 OpenMoji 12.1 - 23 December 2019
 
 Happy Holidays release! Many improvements, fixes and a few new OpenMojis!
 Special thanks to Carlin Mackenzie @carlinmack for his great and plenty contributions!
@@ -108,9 +123,10 @@ Special thanks to Carlin Mackenzie @carlinmack for his great and plenty contribu
   1F473, 1F534, 1F535, 1F601, 1F624, 26AA, 26AB.
   Thanks Rifat Can Erdogan & Selina Lange
 
+
 --------------------------------------------------------------------------------
 
-👉 OpenMoji 12.0 - 15 May 2019
+✅ OpenMoji 12.0 - 15 May 2019
 
 Full support for all emojis of Unicode 12.0/Emoji 12.0 and 3030 new emojis,
 skin tones support, refactoring all source files from .ai to .svg, better
@@ -167,7 +183,7 @@ quality assurance with ca. 17000+ automated unit test ...
 
 --------------------------------------------------------------------------------
 
-👉 OpenMoji 1.0 - 18 April 2018
+🚀 OpenMoji 1.0 - 18 April 2018
 
 Initial public release
 
