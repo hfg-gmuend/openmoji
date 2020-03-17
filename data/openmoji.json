@@ -46053,6 +46053,23 @@
     "order": 3580
   },
   {
+    "emoji": "🪥",
+    "hexcode": "1FAA5",
+    "group": "objects",
+    "subgroups": "household",
+    "annotation": "toothbrush",
+    "tags": "bathroom, brush, clean, dental, hygiene, teeth",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-03-11",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 3581
+  },
+  {
     "emoji": "🧽",
     "hexcode": "1F9FD",
     "group": "objects",
