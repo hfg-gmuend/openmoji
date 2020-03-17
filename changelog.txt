@@ -4,6 +4,13 @@
 
 --------------------------------------------------------------------------------
 
+❓ OpenMoji 12.3/13.0 - ?? ????? 2020
+
+Fix:
+  * signs in Aries, Gemini, Virgo, Scorpio, Capricorn, Libra, Sagittarius
+
+--------------------------------------------------------------------------------
+
 🦠 OpenMoji 12.2 - 17 March 2020
 
 Many improvements, fixes and new OpenMojis:
