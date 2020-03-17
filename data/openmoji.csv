@@ -2042,6 +2042,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🕸️,1F578,animals-nature,animal-bug,spider web,"spider, web",,Selina Bauder,2018-04-18,,,,,0.7,2773
 🦂,1F982,animals-nature,animal-bug,scorpion,"scorpio, zodiac",,Selina Bauder,2018-04-18,,,,,1,2774
 🦟,1F99F,animals-nature,animal-bug,mosquito,"disease, fever, malaria, pest, virus",,Ricarda Krejci,2019-05-07,,,,,11,2775
+🪰,1FAB0,animals-nature,animal-bug,fly,"disease, maggot, pest, rotting",,Liz Bravo,2020-03-07,,,,,13,2776
 🪱,1FAB1,animals-nature,animal-bug,worm,"annelid, earthworm, parasite",,Liz Bravo,2020-03-07,,,,,13,2777
 🦠,1F9A0,animals-nature,animal-bug,microbe,"amoeba, bacteria, virus",,Ricarda Krejci,2019-05-07,,,,,11,2778
 💐,1F490,animals-nature,plant-flower,bouquet,flower,"present, flower, tulip, bouquet",Hilda Kalyoncu,2018-04-18,,,,,0.6,2779
@@ -2291,6 +2292,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🚲️,1F6B2,travel-places,transport-ground,bicycle,bike,"bike, vehicle, bicycle",Ronja Bäurlen,2018-04-18,,,,,0.6,3053
 🛴,1F6F4,travel-places,transport-ground,kick scooter,"kick, scooter","kick, scooter, city roller",Ronja Bäurlen,2018-04-18,,,,,3,3054
 🛹,1F6F9,travel-places,transport-ground,skateboard,board,,Jonas Dunkel,2019-05-07,,,,,11,3055
+🛼,1F6FC,travel-places,transport-ground,roller skate,"roller, skate",,Liz Bravo,2020-03-11,,,,,13,3056
 🚏,1F68F,travel-places,transport-ground,bus stop,"bus, busstop, stop","station, stop, bus, traffic, travel, bus stop, departure, arrive",Ronja Bäurlen,2018-04-18,,,,,0.6,3057
 🛣️,1F6E3,travel-places,transport-ground,motorway,"highway, road",,Nadja Grün,2018-11-16,,,,,0.7,3059
 🛤️,1F6E4,travel-places,transport-ground,railway track,"railway, train",,Nadja Grün,2018-11-16,,,,,0.7,3061
@@ -2470,6 +2472,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧩,1F9E9,activities,game,puzzle piece,"clue, interlocking, jigsaw, piece, puzzle",,Nicole Kornhaas,2019-05-06,,,,,11,3269
 🧸,1F9F8,activities,game,teddy bear,"plaything, plush, stuffed, toy",,Nicole Kornhaas,2019-05-06,,,,,11,3270
 🪅,1FA85,activities,game,piñata,"celebration, party",,Liz Bravo,2020-03-03,,,,,13,3271
+🪆,1FA86,activities,game,nesting dolls,"doll, nesting, russia",,Liz Bravo,2020-03-11,,,,,13,3272
 ♠️,2660,activities,game,spade suit,"card, game",,Nicole Kornhaas,2019-05-06,,,,,0.6,3274
 ♥️,2665,activities,game,heart suit,"card, game",,Nicole Kornhaas,2019-05-06,,,,,0.6,3276
 ♦️,2666,activities,game,diamond suit,"card, game",,Nicole Kornhaas,2019-05-06,,,,,0.6,3278
@@ -2508,6 +2511,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👝,1F45D,objects,clothing,clutch bag,"bag, clothing, pouch",,Jonas Roßner,2018-04-18,,,,,0.6,3317
 🛍️,1F6CD,objects,clothing,shopping bags,"bag, hotel, shopping","buy,",Jonas Roßner,2018-04-18,,,,,0.7,3319
 🎒,1F392,objects,clothing,backpack,"bag, rucksack, satchel, school","young,",Jonas Roßner,2018-04-18,,,,,0.6,3320
+🩴,1FA74,objects,clothing,thong sandal,"beach sandals, sandals, thong sandals, thongs, zōri",,Liz Bravo,2020-03-11,,,,,13,3321
 👞,1F45E,objects,clothing,man’s shoe,"clothing, man, shoe",,Jonas Roßner,2018-04-18,,,,,0.6,3322
 👟,1F45F,objects,clothing,running shoe,"athletic, clothing, shoe, sneaker",,Jonas Roßner,2018-04-18,,,,,0.6,3323
 🥾,1F97E,objects,clothing,hiking boot,"backpacking, boot, camping, hiking",,Laura Schießer,2019-05-06,,,,,11,3324

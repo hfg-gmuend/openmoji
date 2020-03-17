@@ -34731,6 +34731,23 @@
     "order": 2775
   },
   {
+    "emoji": "🪰",
+    "hexcode": "1FAB0",
+    "group": "animals-nature",
+    "subgroups": "animal-bug",
+    "annotation": "fly",
+    "tags": "disease, maggot, pest, rotting",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-03-07",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 2776
+  },
+  {
     "emoji": "🪱",
     "hexcode": "1FAB1",
     "group": "animals-nature",
@@ -38964,6 +38981,23 @@
     "order": 3055
   },
   {
+    "emoji": "🛼",
+    "hexcode": "1F6FC",
+    "group": "travel-places",
+    "subgroups": "transport-ground",
+    "annotation": "roller skate",
+    "tags": "roller, skate",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-03-11",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 3056
+  },
+  {
     "emoji": "🚏",
     "hexcode": "1F68F",
     "group": "travel-places",
@@ -42007,6 +42041,23 @@
     "order": 3271
   },
   {
+    "emoji": "🪆",
+    "hexcode": "1FA86",
+    "group": "activities",
+    "subgroups": "game",
+    "annotation": "nesting dolls",
+    "tags": "doll, nesting, russia",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-03-11",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 3272
+  },
+  {
     "emoji": "♠️",
     "hexcode": "2660",
     "group": "activities",
@@ -42651,6 +42702,23 @@
     "skintone_base_hexcode": "",
     "unicode": 0.6,
     "order": 3320
+  },
+  {
+    "emoji": "🩴",
+    "hexcode": "1FA74",
+    "group": "objects",
+    "subgroups": "clothing",
+    "annotation": "thong sandal",
+    "tags": "beach sandals, sandals, thong sandals, thongs, zōri",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-03-11",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 3321
   },
   {
     "emoji": "👞",
