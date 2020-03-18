@@ -47,7 +47,7 @@ Attribution suggestion:
 > All emojis designed by [OpenMoji](https://openmoji.org/) – the open-source emoji and icon project. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)
 
 
-## Anatomy OpenMoji Repository
+## Anatomy of the OpenMoji Repository
 
 `black/` and `color/` Contains all exported .png and .svg files ¹
 
