@@ -6,6 +6,9 @@
 
 ❓ OpenMoji 12.3/13.0 - ?? ????? 2020
 
+New:
+  + Doe
+   
 Fix:
   * signs and align Aries, Gemini, Virgo, Scorpio, Capricorn, Libra, Sagittarius, Om, 
     Orthodox Cross, Wheel of Dharma, Taurus, Cancer, Leo, Aquarius, Pisces, Ophiuchus
