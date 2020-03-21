@@ -11,6 +11,7 @@ Fix:
     Orthodox Cross, Wheel of Dharma, Taurus, Cancer, Leo, Aquarius, Pisces, Ophiuchus
   * contour in Cat
   * contour in Victory Hand
+  * redesign llama
 
 --------------------------------------------------------------------------------
 
