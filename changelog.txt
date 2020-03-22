@@ -15,6 +15,7 @@ Fix:
   * contour in Cat
   * contour in Victory Hand
   * redesign llama
+  * structure in Classical Building
 
 --------------------------------------------------------------------------------
 
