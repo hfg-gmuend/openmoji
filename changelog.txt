@@ -17,6 +17,7 @@ Fix:
   * redesign llama
   * structure in Classical Building
   * coat of arms in Portugese Flag
+  * tongue in Hot Face
 
 --------------------------------------------------------------------------------
 
