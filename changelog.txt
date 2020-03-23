@@ -16,6 +16,7 @@ Fix:
   * contour in Victory Hand
   * redesign llama
   * structure in Classical Building
+  * coat of arms in Portugese Flag
 
 --------------------------------------------------------------------------------
 
