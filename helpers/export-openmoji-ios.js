@@ -7,7 +7,13 @@ const openmojis = require('../data/openmoji.json');
 const openmojisNoSkintones = _.filter(openmojis, (e) => { return e.skintone == ''});
 
 
-// in app stickers, with skintones
+console.log("copy openmojis.json → openmoji-ios");
+fs.copyFileSync(
+  path.join('./data/openmoji.json') ,
+  path.join('../openmoji-ios/OpenMoji/OpenMoji/Data & Model/openmoji.json')
+);
+
+console.log("copy openmojis → in app stickers, with skintones");
 openmojis.forEach((openmoji, i) => {
   fs.copyFileSync(
     path.join('./color/618x618/', `${openmoji.hexcode}.png`) ,
@@ -23,7 +29,7 @@ openmojis.forEach((openmoji, i) => {
   writeInAppContentsJson(folder, openmoji.hexcode);
 });
 
-// messages sticker pack, no skintones
+console.log("copy openmojis → messages sticker pack, no skintones");
 openmojisNoSkintones.forEach((openmoji, i) => {
   const folder = `../openmoji-ios/OpenMoji/OpenMoji Stickers/Stickers.xcassets/Sticker Pack.stickerpack/${openmoji.hexcode}.sticker/`;
   mkdirp.sync(folder);
