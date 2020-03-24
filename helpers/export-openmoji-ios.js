@@ -95,7 +95,7 @@ function writeStickerContentsJson(filepath, openmojis) {
       "author" : "xcode"
     },
     "properties" : {
-      "grid-size" : "regular"
+      "grid-size" : "small"
     }
   };
   fs.writeFileSync(filepath, JSON.stringify(contents, null, 2));
