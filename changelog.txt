@@ -7,6 +7,8 @@
 ❓ OpenMoji 12.3/13.0 - ?? ????? 2020
 
 New:
+  + Emoji 13:
+    1FAA0 plunger
   + Doe
    
 Fix:
