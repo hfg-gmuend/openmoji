@@ -1,10 +1,10 @@
 const fs = require('fs');
 const path = require('path');
-const _ = require('lodash');
+const { filter } = require('lodash');
 const mkdirp = require('mkdirp');
 
 const openmojis = require('../data/openmoji.json');
-const openmojisNoSkintones = _.filter(openmojis, (e) => { return e.skintone == ''});
+const openmojisNoSkintones = filter(openmojis, (e) => { return e.skintone == ''});
 
 
 console.log("copy openmojis.json → openmoji-ios");
@@ -26,7 +26,7 @@ openmojis.forEach((openmoji, i) => {
     path.join('./color/618x618/', `${openmoji.hexcode}.png`) ,
     path.join(folder, `${openmoji.hexcode}.png`)
   );
-  writeInAppContentsJson(folder, openmoji.hexcode);
+  writeStickerPngInAppContentsJson(folder, openmoji.hexcode);
 });
 
 console.log("copy openmojis → messages sticker pack, no skintones");
@@ -37,11 +37,16 @@ openmojisNoSkintones.forEach((openmoji, i) => {
     path.join('./color/618x618/', `${openmoji.hexcode}.png`) ,
     path.join(folder, `${openmoji.hexcode}.png`)
   );
-  writeStickerContentsJson(folder, openmoji.hexcode);
+  writeStickerPngContentsJson(folder, openmoji.hexcode);
 });
 
+console.log("generating Contents.json (list of OpenMojis in stickerpack)");
+writeStickerContentsJson(
+  '../openmoji-ios/OpenMoji/OpenMoji Stickers/Stickers.xcassets/Sticker Pack.stickerpack/Contents.json',
+  openmojisNoSkintones
+);
 
-function writeStickerContentsJson(filepath, hexcode) {
+function writeStickerPngContentsJson(filepath, hexcode) {
   const contents = {
     "info" : {
       "version" : 1,
@@ -54,7 +59,7 @@ function writeStickerContentsJson(filepath, hexcode) {
   fs.writeFileSync(path.join(filepath, 'Contents.json'), JSON.stringify(contents, null, 2));
 }
 
-function writeInAppContentsJson(filepath, hexcode) {
+function writeStickerPngInAppContentsJson(filepath, hexcode) {
   const contents = {
     "images" : [
       {
@@ -77,4 +82,21 @@ function writeInAppContentsJson(filepath, hexcode) {
     }
   };
   fs.writeFileSync(path.join(filepath, 'Contents.json'), JSON.stringify(contents, null, 2));
+}
+
+function writeStickerContentsJson(filepath, openmojis) {
+  const stickers = openmojis.map(o => {
+    return {"filename" : `${o.hexcode}.sticker`}
+  });
+  const contents = {
+    "stickers" : stickers,
+    "info" : {
+      "version" : 1,
+      "author" : "xcode"
+    },
+    "properties" : {
+      "grid-size" : "regular"
+    }
+  };
+  fs.writeFileSync(filepath, JSON.stringify(contents, null, 2));
 }
