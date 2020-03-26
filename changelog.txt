@@ -24,6 +24,7 @@ Fix:
   * drool in Drooling Face
   * Cross Mark
   * Question Mark, White Question Mark
+  * contour in Infinity
 
 --------------------------------------------------------------------------------
 
