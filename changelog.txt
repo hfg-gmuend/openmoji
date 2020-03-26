@@ -21,6 +21,7 @@ Fix:
   * coat of arms in Flag: Portugal
   * tongue in Hot Face
   * national emblem in Flag: Afghanistan 
+  * drool in Drooling Face
 
 --------------------------------------------------------------------------------
 
