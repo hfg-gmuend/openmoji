@@ -22,7 +22,8 @@ Fix:
   * tongue in Hot Face
   * national emblem in Flag: Afghanistan 
   * drool in Drooling Face
-  * cross in Cross Mark
+  * Cross Mark
+  * Question Mark, White Question Mark
 
 --------------------------------------------------------------------------------
 

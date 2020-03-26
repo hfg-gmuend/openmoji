@@ -2827,8 +2827,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ♾️,267E,symbols,math,infinity,"forever, unbounded, universal",,Selina Lange,2019-05-06,,,,,11,3736
 ‼️,203C,symbols,punctuation,double exclamation mark,"!, !!, bangbang, exclamation, mark",,Selina Lange,2019-05-06,,,,,0.6,3738
 ⁉️,2049,symbols,punctuation,exclamation question mark,"!, !?, ?, exclamation, interrobang, mark, punctuation, question",,Selina Lange,2019-05-06,,,,,0.6,3740
-❓️,2753,symbols,punctuation,question mark,"?, mark, punctuation, question","question, punctation",Hilda Kalyoncu,2018-04-18,,,,,0.6,3741
-❔,2754,symbols,punctuation,white question mark,"?, mark, outlined, punctuation, question","punctation, mark, question, white",Hilda Kalyoncu,2018-04-18,,,,,0.6,3742
+❓️,2753,symbols,punctuation,question mark,"?, mark, punctuation, question","question, punctation",Selina Lange,2019-05-06,,,,,0.6,3741
+❔,2754,symbols,punctuation,white question mark,"?, mark, outlined, punctuation, question","punctation, mark, question, white",Selina Lange,2019-05-06,,,,,0.6,3742
 ❕,2755,symbols,punctuation,white exclamation mark,"!, exclamation, mark, outlined, punctuation","exclamation, mark, punctation, white",Hilda Kalyoncu,2018-04-18,,,,,0.6,3743
 ❗️,2757,symbols,punctuation,exclamation mark,"!, exclamation, mark, punctuation","exclamation, mark, punctation",Hilda Kalyoncu,2018-04-18,,,,,0.6,3744
 〰️,3030,symbols,punctuation,wavy dash,"dash, punctuation, wavy","dash, punctuation, wavy",Hilda Kalyoncu,2018-04-18,,,,,0.6,3746
