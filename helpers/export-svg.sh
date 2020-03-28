@@ -1,4 +1,9 @@
-#!/usr/bin/env bash
+#!/bin/bash
+set -ueo pipefail
+IFS=$'\t\n'
+
+# This script may be executed or sourced from any directory.
+cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/..
 
 # remove old files
 echo "Remove old SVG files"

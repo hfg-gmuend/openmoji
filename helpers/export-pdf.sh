@@ -1,26 +1,31 @@
-#!/usr/bin/env bash
-SCRIPTPATH="$( cd "$(dirname "$0")" ; pwd -P )"
+#!/bin/bash
+set -ueo pipefail
+IFS=$'\t\n'
+
+# This script may be executed or sourced from any directory.
+cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/..
 
 # -- color --
-cd "$SCRIPTPATH"
-cd ../color/svg/
-echo `pwd`
-# remove old files
-rm ../pdf/*.pdf
-# convert svg to pdf
-for f in *.svg; do
-  echo "Export to pdf (color): $f"
-  rsvg-convert -f pdf ./"$f" > ../pdf/"${f%%.*}.pdf"
-done
+# Subshell to scope directory change.
+(
+  cd color/svg/
+  # remove old files
+  rm ../pdf/*.pdf
+  # convert svg to pdf
+  for f in *.svg; do
+    echo "Export to pdf (color): $f"
+    rsvg-convert -f pdf "$f" > ../pdf/"${f%%.*}.pdf"
+  done
+)
 
 # -- black --
-cd "$SCRIPTPATH"
-cd ../black/svg/
-echo `pwd`
-# remove old files
-rm ../pdf/*.pdf
-# convert svg to pdf
-for f in *.svg; do
+(
+  cd black/svg/
+  # remove old files
+  rm ../pdf/*.pdf
+  # convert svg to pdf
+  for f in *.svg; do
   echo "Export to pdf (black): $f"
-  rsvg-convert -f pdf ./"$f" > ../pdf/"${f%%.*}.pdf"
-done
+  rsvg-convert -f pdf "$f" > ../pdf/"${f%%.*}.pdf"
+  done
+)
