@@ -15,7 +15,7 @@ Fix:
   * signs and align Aries, Gemini, Virgo, Scorpio, Capricorn, Libra, Sagittarius, Om, 
     Orthodox Cross, Wheel of Dharma, Taurus, Cancer, Leo, Aquarius, Pisces, Ophiuchus
   * Flags:
-       Portugal, Afghanistan, Laos, Turkey, Kazakhstan, Maldivesl, Jersey, New Caledonia, Niger
+       Portugal, Afghanistan, Laos, Turkey, Kazakhstan, Maldivesl, Jersey, New Caledonia, Niger, Antarctica
   * contour in Cat
   * contour in Victory Hand
   * redesign llama
