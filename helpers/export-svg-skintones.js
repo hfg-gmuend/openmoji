@@ -73,24 +73,61 @@ const generateSkintoneMultiple = (srcFilePath, destFilePath, skintones) => {
 
 const srcEmojis = require('../data/openmoji.json');
 let emojis = require('../data/openmoji.json');
-emojis = _.filter(emojis, (e) => { return e.skintone !== '' });
-console.log('Export SVG Skintones: ' + emojis.length);
 
-emojis.forEach(e => {
-  const skintoneBaseEmoji = _.find(srcEmojis, {'hexcode': e.skintone_base_hexcode});
-  // multiple skintone modifiers
-  if (e.skintone_combination === 'multiple') {
-    generateSkintoneMultiple(
-      path.join(folderSrc, skintoneBaseEmoji.group, skintoneBaseEmoji.subgroups, skintoneBaseEmoji.hexcode + '.svg'),
-      path.join(folderOut, e.hexcode + '.svg'),
-      e.skintone
-    );
-  // single skintone modifier
-  } else {
-    generateSkintoneSingle(
-      path.join(folderSrc, skintoneBaseEmoji.group, skintoneBaseEmoji.subgroups, skintoneBaseEmoji.hexcode + '.svg'),
-      path.join(folderOut, e.hexcode + '.svg'),
-      e.skintone - 1 // fitzpatrick starts with 1 and not like an array with 0
-    );
+
+if (process.argv.length > 2) {
+  // file name passed in
+  fileName = process.argv[2]
+
+  emojis = _.filter(emojis, (e) => {
+    return e.hexcode == fileName && e.skintone !== ''
+  });
+
+  if (emojis.length > 0) {
+    console.log('Export Skintone SVG: ' + fileName);
   }
-});
+
+  emojis.forEach(e => {
+    const skintoneBaseEmoji = _.find(srcEmojis, {
+      'hexcode': e.skintone_base_hexcode
+    });
+    // multiple skintone modifiers
+    if (e.skintone_combination === 'multiple') {
+      generateSkintoneMultiple(
+        path.join(folderSrc, skintoneBaseEmoji.group, skintoneBaseEmoji.subgroups, skintoneBaseEmoji.hexcode + '.svg'),
+        path.join(folderOut, e.hexcode + '.svg'),
+        e.skintone
+      );
+      // single skintone modifier
+    } else {
+      generateSkintoneSingle(
+        path.join(folderSrc, skintoneBaseEmoji.group, skintoneBaseEmoji.subgroups, skintoneBaseEmoji.hexcode + '.svg'),
+        path.join(folderOut, e.hexcode + '.svg'),
+        e.skintone - 1 // fitzpatrick starts with 1 and not like an array with 0
+      );
+    }
+  });
+} else {
+  // no arguments
+  emojis = _.filter(emojis, (e) => { return e.skintone !== '' });
+  console.log('Export SVG Skintones: ' + emojis.length);
+
+  emojis.forEach(e => {
+    const skintoneBaseEmoji = _.find(srcEmojis, {'hexcode': e.skintone_base_hexcode});
+    // multiple skintone modifiers
+    if (e.skintone_combination === 'multiple') {
+      generateSkintoneMultiple(
+        path.join(folderSrc, skintoneBaseEmoji.group, skintoneBaseEmoji.subgroups, skintoneBaseEmoji.hexcode + '.svg'),
+        path.join(folderOut, e.hexcode + '.svg'),
+        e.skintone
+      );
+      // single skintone modifier
+    } else {
+      generateSkintoneSingle(
+        path.join(folderSrc, skintoneBaseEmoji.group, skintoneBaseEmoji.subgroups, skintoneBaseEmoji.hexcode + '.svg'),
+        path.join(folderOut, e.hexcode + '.svg'),
+        e.skintone - 1 // fitzpatrick starts with 1 and not like an array with 0
+      );
+    }
+  });
+}

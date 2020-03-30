@@ -19,10 +19,25 @@ const generateSvg = (srcFilePath, destFilePath) => {
   writeSvg(destFilePath, doc.querySelector('svg').outerHTML);
 }
 
-console.log('Export SVG Black: ' + colorEmojiPaths.length);
-colorEmojiPaths.forEach(f => {
+if (process.argv.length > 2) {
+  // file name passed in
+  fileName = process.argv[2]
+  filePath = "./color/svg/" + fileName + ".svg"
+
+  console.log('Export Black SVG: ' + fileName);
+  
   generateSvg(
-    f,
-    path.join(folderOut, path.basename(f))
+    filePath,
+    path.join(folderOut, path.basename(filePath))
   );
-});
+} else {
+  // no arguments
+  console.log('Export SVG Black: ' + colorEmojiPaths.length);
+  colorEmojiPaths.forEach(f => {
+    generateSvg(
+      f,
+      path.join(folderOut, path.basename(f))
+    );
+  });
+}
+  
