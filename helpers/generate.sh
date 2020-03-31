@@ -1,5 +1,9 @@
-#!/usr/bin/env bash
-REPOFOLDER=$PWD
+#!/bin/bash
+set -ueo pipefail
+IFS=$'\t\n'
+
+# This script may be executed or sourced from any directory.
+cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/.. || exit 1
 
 echo "-------------------------------------------"
 echo "👉 helpers/generate-data-tables.js"
@@ -23,5 +27,4 @@ npm run export-svg-font
 
 echo "-------------------------------------------"
 echo "👉 npm run export-png"
-cd $REPOFOLDER
 npm run export-png
