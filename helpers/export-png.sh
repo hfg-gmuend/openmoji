@@ -10,8 +10,8 @@ cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/..
 (
   cd color/svg
   # remove old files
-  rm ../72x72/*.png
-  rm ../618x618/*.png
+  rm -f ../72x72/*.png
+  rm -f ../618x618/*.png
   echo "convert color svgs to pngs"
   for f in *.svg; do
     # echo "Export to png (color): $f"
@@ -29,8 +29,8 @@ cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/..
 (
   cd black/svg
   # remove old files
-  rm ../72x72/*.png
-  rm ../618x618/*.png
+  rm -f ../72x72/*.png
+  rm -f ../618x618/*.png
   echo "convert black svgs to pngs"
   for f in *.svg; do
     # echo "Export to png (black): $f"

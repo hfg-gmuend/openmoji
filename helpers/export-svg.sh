@@ -7,8 +7,8 @@ cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/..
 
 # remove old files
 echo "Remove old SVG files"
-rm color/svg/*.svg
-rm black/svg/*.svg
+rm -f color/svg/*.svg
+rm -f black/svg/*.svg
 
 # export svg files
 node helpers/export-svg-skintones.js

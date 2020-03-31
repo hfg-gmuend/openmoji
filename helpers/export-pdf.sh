@@ -10,7 +10,7 @@ cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/..
 (
   cd color/svg/
   # remove old files
-  rm ../pdf/*.pdf
+  rm -f ../pdf/*.pdf
   # convert svg to pdf
   for f in *.svg; do
     echo "Export to pdf (color): $f"
@@ -22,7 +22,7 @@ cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/..
 (
   cd black/svg/
   # remove old files
-  rm ../pdf/*.pdf
+  rm -f ../pdf/*.pdf
   # convert svg to pdf
   for f in *.svg; do
   echo "Export to pdf (black): $f"
