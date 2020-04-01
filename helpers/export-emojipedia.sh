@@ -22,4 +22,4 @@ cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/..
 )
 
 # -- Zip --
-helpers/create-zip.sh color/512x512/ _tmp/openmoji-512x512-color.zip
+helpers/lib/create-zip.sh color/512x512/ _tmp/openmoji-512x512-color.zip

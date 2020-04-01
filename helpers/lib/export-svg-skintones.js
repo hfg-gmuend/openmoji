@@ -1,13 +1,20 @@
+#!/usr/bin/env node
+'use strict';
+
+// Used by helpers/export-svg-skintones.sh via helpers/lib/export-svg-skintones.sh
+// to project one skintone variation of a base emoji into its corresponding
+// composite hexcode SVG file.
+// Receives target SVG file paths as arguments.
+
 const fs = require('fs');
 const path = require('path');
-const _ = require('lodash');
 const JSDOM = require('jsdom').JSDOM;
 
-const hairColors = require('../data/color-palette.json').skintones.hair;
-const fitzpatrickColors = require('../data/color-palette.json').skintones.fitzpatrick;
-const shadowColors = require('../data/color-palette.json').skintones.shadow;
-const folderSrc = './src';
-const folderOut = './color/svg';
+const hairColors = require('../../data/color-palette.json').skintones.hair;
+const fitzpatrickColors = require('../../data/color-palette.json').skintones.fitzpatrick;
+const shadowColors = require('../../data/color-palette.json').skintones.shadow;
+const folderSrc = 'src';
+const folderOut = 'color/svg';
 
 const writeSvg = (filePath, data) => {
   fs.writeFileSync(filePath, data);
@@ -71,26 +78,31 @@ const generateSkintoneMultiple = (srcFilePath, destFilePath, skintones) => {
   writeSvg(destFilePath, doc.querySelector('svg').outerHTML);
 }
 
-const srcEmojis = require('../data/openmoji.json');
-let emojis = require('../data/openmoji.json');
-emojis = _.filter(emojis, (e) => { return e.skintone !== '' });
-console.log('Export SVG Skintones: ' + emojis.length);
+// Construct indices for emojis, by path and by hexcode for fast lookup.
+const emojis = require('../../data/openmoji.json');
+const emojisByTarget = Object.fromEntries(emojis.map((e) => [
+  path.join(folderOut, e.hexcode + '.svg'), e
+]));
+const emojisByHexcode = Object.fromEntries(emojis.map((e) => [
+  e.hexcode, e
+]));
 
-emojis.forEach(e => {
-  const skintoneBaseEmoji = _.find(srcEmojis, {'hexcode': e.skintone_base_hexcode});
+for (target of process.argv.slice(2)) {
+  const e = emojisByTarget[target];
+  const skintoneBaseEmoji = emojisByHexcode[e.skintone_base_hexcode];
   // multiple skintone modifiers
   if (e.skintone_combination === 'multiple') {
     generateSkintoneMultiple(
       path.join(folderSrc, skintoneBaseEmoji.group, skintoneBaseEmoji.subgroups, skintoneBaseEmoji.hexcode + '.svg'),
-      path.join(folderOut, e.hexcode + '.svg'),
+      target,
       e.skintone
     );
   // single skintone modifier
   } else {
     generateSkintoneSingle(
       path.join(folderSrc, skintoneBaseEmoji.group, skintoneBaseEmoji.subgroups, skintoneBaseEmoji.hexcode + '.svg'),
-      path.join(folderOut, e.hexcode + '.svg'),
+      target,
       e.skintone - 1 // fitzpatrick starts with 1 and not like an array with 0
     );
   }
-});
+}

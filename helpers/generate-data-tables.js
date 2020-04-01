@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+'use strict';
+
 const fs = require('fs');
 const _ = require('lodash');
 const csvWriter = require('csv-write-stream');
@@ -20,7 +23,7 @@ const arrayToEmojiDict = (array) => {
 const writeCsv = (data, filePath) => {
   const csvOut = csvWriter();
   csvOut.pipe(fs.createWriteStream(filePath));
-  for (d of data) csvOut.write(d);
+  for (const d of data) csvOut.write(d);
   csvOut.end();
 }
 const writeJson = (data, filePath) => {

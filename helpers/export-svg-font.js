@@ -1,8 +1,10 @@
+#!/usr/bin/env node
+'use strict';
+
 const glob = require('glob').sync;
 const fs = require('fs');
 const path = require('path');
 const _ = require('lodash');
-
 
 let hexcodes = [];
 const missingGlyphBlack = './black/svg/25A1.svg';
