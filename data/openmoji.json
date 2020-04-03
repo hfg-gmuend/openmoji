@@ -42262,6 +42262,23 @@
     "order": 3290
   },
   {
+    "emoji": "🪡",
+    "hexcode": "1FAA1",
+    "group": "activities",
+    "subgroups": "arts-crafts",
+    "annotation": "sewing needle",
+    "tags": "embroidery, needle, sewing, stitches, sutures, tailoring",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-03-28",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 3291
+  },
+  {
     "emoji": "🧶",
     "hexcode": "1F9F6",
     "group": "activities",
@@ -45509,6 +45526,23 @@
     "order": 3527
   },
   {
+    "emoji": "🪚",
+    "hexcode": "1FA9A",
+    "group": "objects",
+    "subgroups": "tool",
+    "annotation": "carpentry saw",
+    "tags": "carpenter, lumber, saw, tool",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-03-28",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 3528
+  },
+  {
     "emoji": "🔧",
     "hexcode": "1F527",
     "group": "objects",
@@ -45524,6 +45558,23 @@
     "skintone_base_hexcode": "",
     "unicode": 0.6,
     "order": 3529
+  },
+  {
+    "emoji": "🪛",
+    "hexcode": "1FA9B",
+    "group": "objects",
+    "subgroups": "tool",
+    "annotation": "screwdriver",
+    "tags": "screw, tool",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-03-28",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 3530
   },
   {
     "emoji": "🔩",
@@ -46019,6 +46070,23 @@
     "order": 3571
   },
   {
+    "emoji": "🪤",
+    "hexcode": "1FAA4",
+    "group": "objects",
+    "subgroups": "household",
+    "annotation": "mouse trap",
+    "tags": "bait, mousetrap, snare, trap",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-03-28",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 3572
+  },
+  {
     "emoji": "🪒",
     "hexcode": "1FA92",
     "group": "objects",
@@ -46272,6 +46340,23 @@
     "skintone_base_hexcode": "",
     "unicode": 0.6,
     "order": 3591
+  },
+  {
+    "emoji": "🪧",
+    "hexcode": "1FAA7",
+    "group": "objects",
+    "subgroups": "other-object",
+    "annotation": "placard",
+    "tags": "demonstration, picket, protest, sign",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-03-28",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 3592
   },
   {
     "emoji": "🏧",

@@ -1,0 +1,8 @@
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="line-supplement">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M39.1786,35.6423l15.0183-17.26a3.9887,3.9887,0,0,0-6.38-4.7887L18.5791,59.1927l16.39-18.7271"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M49.9081,19.6608c-.7433.515-1.4725.6747-1.9149.3426-.7033-.5278-.416-2.0979.6416-3.507s2.485-2.1234,3.1882-1.5956a.9071.9071,0,0,1,.3111.4506"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M49.005,16.0479a10.5275,10.5275,0,0,1,1.5422.9753,13.1655,13.1655,0,0,1,5.21,13.2026s-1.613,8.9339-10.8977,9.209C36.3547,39.6868,23.451,30.8018,11,42.233"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M34.5894,18.5635s6.0295-4.8028,12.1836-3.3422"/>
+  </g>
+</svg>

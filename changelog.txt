@@ -9,7 +9,7 @@
 New:
   + Emoji 13:
     1FAA0 plunger
-  + Doe
+  + Doe, Saw, Screwdriver, Sewing Needle, Mouse Trap, Placard
    
 Fix:
   * signs and align Aries, Gemini, Virgo, Scorpio, Capricorn, Libra, Sagittarius, Om, 
