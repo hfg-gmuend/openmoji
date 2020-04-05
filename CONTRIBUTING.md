@@ -10,12 +10,13 @@ Interested in contributing? Yay! Here are a few infos how the workflow typically
     * [File Conventions](#3-file-conventions)
     * [Normalize SVG Formatting](#4-Normalize-SVG-Formatting)
     * [Submission](#5-Submission)
+        * [How to Submit a Pull Request](#How-to-Submit-a-Pull-Request)
 * [:octocat: Non-standard emoji](#octocat-non-standard-emoji)
     * [Hexcodes for extras-unicode](#Hexcodes-for-extras-unicode)
     * [Hexcodes for extras-openmoji](#Hexcodes-for-extras-openmoji)
     * [Other files](#Other-files)
 * [🐞 Fix a Bug](#-Fix-a-Bug)
-* [👩‍🎨👨‍🎨 How to Submit a Pull Request](#-How-to-Submit-a-Pull-Request)
+
 * [👩‍💻👨‍💻 Developer Setup](#-Developer-Setup)
 
 ## 💌 Contribute an Emoji via Email and Sending .svg Files
@@ -81,6 +82,9 @@ node_modules/.bin/svgo src/activities/arts-crafts/1F3A8.svg --config helpers/bea
 ### 5. Submission
 Yay! Now all your files are ready to go! Please submit a PR against the master branch. Please submit only the files in `src` folder, and do not generate the files in `color` and `black` folders. We will take care of your OpenMoji from there! Thanks 🙏!
 
+#### How to Submit a Pull Request
+[Fork](https://help.github.com/articles/fork-a-repo/) the OpenMoji repository and create a ["PR" pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) from your fork. (Here is also a [friendly video tutorial on "PR" pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4) by Daniel Shifmann / The Coding Train)
+
 ## :octocat: Non-standard emoji
 
 There are two options for adding extra emoji. If the symbol exists as a unicode code point already - like math symbols, heiroglyphics - you can design and add it to [src/extras-unicode](src/extras-unicode). If the symbol does not exist, it can be added instead as an OpenMoji symbol in [src/extras-openmoji](src/extras-openmoji).
@@ -111,10 +115,6 @@ Next add the information about the new character to [data/extras-openmoji.csv](d
 
 ## 🐞 Fix a Bug
 If it's not on the issues list, add it. If it's already on the [issues](https://github.com/hfg-gmuend/openmoji/issues) list, assign it to yourself or comment on the issue indicating you're working on it. Go ahead and fix it and submit a PR.
-
-
-## 👩‍🎨👨‍🎨 How to Submit a Pull Request
-[Fork](https://help.github.com/articles/fork-a-repo/) the OpenMoji repository and create a ["PR" pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) from your fork. (Here is also a [friendly video tutorial on "PR" pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4) by Daniel Shifmann / The Coding Train)
 
 ## 👩‍💻👨‍💻 Developer Setup
 
