@@ -12,6 +12,7 @@ New:
   + Doe
   + Texas Flag
   + Esperanto Flag
+  + No Handshake Emoji
    
 Fix:
   * signs and align Aries, Gemini, Virgo, Scorpio, Capricorn, Libra, Sagittarius, Om, 
