@@ -3,14 +3,20 @@ Contributing to OpenMoji
 
 Interested in contributing? Yay! Here are a few infos how the workflow typically works:
 
-* **Contribute an Emoji via Email and Sending .svg Files**
-* **Contribute an Emoji via Github and Pull Requests (Preferred)**
-* **Hexcodes extras-openmoji**
-* **Fix a Bug**
-* **How to Submit a Pull Request**
-* **Developer Setup**
-* **How to Run the Tests**
-
+* [💌 Contribute an Emoji via Email and Sending .svg Files](#-Contribute-an-Emoji-via-Email-and-Sending-svg-Files)
+* [🚀 Contribute an Emoji via Github and Pull Requests (Preferred)](#-Contribute-an-Emoji-via-Github-and-Pull-Requests-preferred)
+    * [Meta Infos](#1-meta-infos)
+    * [Design Your Emoji](#2-design-your-emoji)
+    * [File Conventions](#3-file-conventions)
+    * [Normalize SVG Formatting](#4-Normalize-SVG-Formatting)
+    * [Submission](#5-Submission)
+* [:octocat: Non-standard emoji](#octocat-non-standard-emoji)
+    * [Hexcodes for extras-unicode](#Hexcodes-for-extras-unicode)
+    * [Hexcodes for extras-openmoji](#Hexcodes-for-extras-openmoji)
+    * [Other files](#Other-files)
+* [🐞 Fix a Bug](#-Fix-a-Bug)
+* [👩‍🎨👨‍🎨 How to Submit a Pull Request](#How-to-Submit-a-Pull-Request)
+* [👩‍💻👨‍💻 Developer Setup](#Developer-Setup)
 
 ## 💌 Contribute an Emoji via Email and Sending .svg Files
 Simply send us the source .svg file and the meta informations via email e.g.:
@@ -75,7 +81,7 @@ node_modules/.bin/svgo src/activities/arts-crafts/1F3A8.svg --config helpers/bea
 ### 5. Submission
 Yay! Now all your files are ready to go! Please submit a PR against the master branch. Please submit only the files in `src` folder, and do not generate the files in `color` and `black` folders. We will take care of your OpenMoji from there! Thanks 🙏!
 
-## Non-standard emoji
+## :octocat: Non-standard emoji
 
 There are two options for adding extra emoji. If the symbol exists as a unicode code point already - like math symbols, heiroglyphics - you can design and add it to [src/extras-unicode](src/extras-unicode). If the symbol does not exist, it can be added instead as an OpenMoji symbol in [src/extras-openmoji](src/extras-openmoji).
 
@@ -90,12 +96,12 @@ Emojis that are not (yet) defined in Unicode are located in the [Private Use Are
 For the OpenMoji project we divided the private use are into 100 equal sized blocks of 64 code points:
 
 
-| subcategory | block start | block end |
-| --- | --- | --- |
-| animals-nature | E000 | E040 |
-| brand | E040 | E080 |
-| emergency | E080 | E0C0 |
-| … | … | … |
+| subcategory    | block start | block end |
+|----------------|-------------|-----------|
+| animals-nature | E000        | E040      |
+| brand          | E040        | E080      |
+| emergency      | E080        | E0C0      |
+| …              | …           | …         |
 
 If a subgroup needs more than 64 code points, then the subgroup continues in the next free block. An overview gives this [Google Doc](https://docs.google.com/spreadsheets/d/1xq4uJshm3eHi8BfqMlvWdXfansNugto1XJjPFbBCnV4/edit?usp=sharing). The names of subgroups (in extras-openmoji) are a close as possible aligned with already defined [Unicode Emoji](https://unicode.org/Public/emoji/12.0/emoji-test.txt) ones.
 
@@ -103,14 +109,14 @@ If a subgroup needs more than 64 code points, then the subgroup continues in the
 
 Next add the information about the new character to [data/extras-openmoji.csv](data/extras-openmoji.csv). Finally run `node helpers/generate-data-tables.js` and then create a Pull Request.
 
-## 🐞Fix a Bug
+## 🐞 Fix a Bug
 If it's not on the issues list, add it. If it's already on the [issues](https://github.com/hfg-gmuend/openmoji/issues) list, assign it to yourself or comment on the issue indicating you're working on it. Go ahead and fix it and submit a PR.
 
 
-## How to Submit a Pull Request
+## 👩‍🎨👨‍🎨 How to Submit a Pull Request
 [Fork](https://help.github.com/articles/fork-a-repo/) the OpenMoji repository and create a ["PR" pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) from your fork. (Here is also a [friendly video tutorial on "PR" pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4) by Daniel Shifmann / The Coding Train)
 
-## Developer Setup
+## 👩‍💻👨‍💻 Developer Setup
 
 **Node.js**
 
