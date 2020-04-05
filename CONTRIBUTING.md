@@ -15,8 +15,8 @@ Interested in contributing? Yay! Here are a few infos how the workflow typically
     * [Hexcodes for extras-openmoji](#Hexcodes-for-extras-openmoji)
     * [Other files](#Other-files)
 * [🐞 Fix a Bug](#-Fix-a-Bug)
-* [👩‍🎨👨‍🎨 How to Submit a Pull Request](#How-to-Submit-a-Pull-Request)
-* [👩‍💻👨‍💻 Developer Setup](#Developer-Setup)
+* [👩‍🎨👨‍🎨 How to Submit a Pull Request](#-How-to-Submit-a-Pull-Request)
+* [👩‍💻👨‍💻 Developer Setup](#-Developer-Setup)
 
 ## 💌 Contribute an Emoji via Email and Sending .svg Files
 Simply send us the source .svg file and the meta informations via email e.g.:
