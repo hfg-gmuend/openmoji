@@ -8,7 +8,7 @@
   </g>
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#fff"/>
-    <circle cx="36" cy="36.01" r="5.803" fill="#e27022" stroke-width=".6828"/>
+    <circle cx="36" cy="36.01" r="5.803" fill="#e27022" stroke-width="0.6828"/>
     <rect x="5" y="42.4" width="62" height="12.6" fill="#5c9e31" stroke-width="1.342"/>
     <rect x="5" y="17" width="62" height="12.6" fill="#e27022" stroke-width="1.342"/>
   </g>
