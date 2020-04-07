@@ -32,8 +32,9 @@ You can find the email address at [openmoji.org/about](http://openmoji.org/about
 
 
 ## 🚀 Contribute an Emoji via Github and Pull Requests (preferred)
-If you have an original idea about a new emoji or you spot one which is currently missing in Unicode, open an [issue](https://github.com/hfg-gmuend/openmoji/issues) describing your emoji, and let us know you are interested! Initiate a discussion, wait for the green light, and then assign it to yourself!
+If you have an original idea about a new emoji or you spot one which is currently missing in Unicode, open an [issue](https://github.com/hfg-gmuend/openmoji/issues) describing your emoji, like [#84](https://github.com/hfg-gmuend/openmoji/issues/84), and let us know you are interested! Initiate a discussion, wait for the green light, and then assign it to yourself!
 
+If steps 3 onwards sound daunting to you, don't worry! You can simply create an issue and attach your SVG files in a .ZIP, see [#138](https://github.com/hfg-gmuend/openmoji/issues/138) for this process
 
 ### 1. File Name And Folder
 Before you start working on an .svg design, you should find and name it with the corresponding hexcode. You can find this by searching for the character online and it should look something like 1F389 (🎉) or 1F3C3-200D-2642-FE0F (🏃‍♂️). If it is not currently an emoji, see the steps in [Non-standard emoji](#octocat-non-standard-emoji)
