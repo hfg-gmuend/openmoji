@@ -18,6 +18,7 @@ Interested in contributing? Yay! Here are a few infos how the workflow typically
 * [🐞 Fix a Bug](#-Fix-a-Bug)
 
 * [👩‍💻👨‍💻 Developer Setup](#-Developer-Setup)
+* [⁉️ How to Run the Tests](#-How-to-Run-the-Tests)
 
 ## 💌 Contribute an Emoji via Email and Sending .svg Files
 Simply send us the source .svg file and the meta informations via email e.g.:
@@ -118,7 +119,7 @@ If it's not on the issues list, add it. If it's already on the [issues](https://
 
 ## 👩‍💻👨‍💻 Developer Setup
 
-**Node.js**
+### Node.js
 
 1. Install [node.js](https://nodejs.org) (see version in the file [`.nvmrc`](https://github.com/hfg-gmuend/openmoji/blob/master/.nvmrc#L1))
 2. Open Terminal and navigate over to the `openmoji` folder that you downloaded onto your computer:
@@ -133,13 +134,11 @@ cd path/to/folder
 npm install
 ```
 
-
-
-**bash scripts**
+### bash scripts
 
 If you want to run the bash scripts  (.sh files) in the `helpers` folder e.g. for exprting png files, you will have to [install additional dependencies](https://github.com/hfg-gmuend/openmoji/wiki#additional-dependencies).
 
-## How to Run the Tests
+## ⁉️ How to Run the Tests
 
 The folder `test/` contains automated unit tests to ensure consistency across all source .svg and production files. You can run all tests with:
 
