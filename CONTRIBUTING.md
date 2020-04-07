@@ -32,30 +32,13 @@ You can find the email address at [openmoji.org/about](http://openmoji.org/about
 
 
 ## 🚀 Contribute an Emoji via Github and Pull Requests (preferred)
-If you have an original idea about a new emoji or you spot one which is missing according to the Unicode definition, open an [issue](https://github.com/hfg-gmuend/openmoji/issues) describing your emoji, and let us know you are interested! Initiate a discussion, wait for the green light, and then assign it to yourself!
+If you have an original idea about a new emoji or you spot one which is currently missing in Unicode, open an [issue](https://github.com/hfg-gmuend/openmoji/issues) describing your emoji, and let us know you are interested! Initiate a discussion, wait for the green light, and then assign it to yourself!
 
 
-### 1. Meta Infos
-Before you start working on a source .svg file you should find and name .svg file with the corresponding hexcode. Either the emoji is already defined in Unicode or you have to propose a hexcode which is in the private use area (see below in Hexcodes extras-openmoji).
+### 1. File Name And Folder
+Before you start working on an .svg design, you should find and name it with the corresponding hexcode. You can find this by searching for the character online and it should look something like 1F389 (🎉) or 1F3C3-200D-2642-FE0F (🏃‍♂️). If it is not currently an emoji, see the steps in [Non-standard emoji](#octocat-non-standard-emoji)
 
-Add your meta infos at the very end of one of the files below:
-* `data/enhancements-emoji-unicode-data.csv` if your emoji is already part of an Emoji Unicode standard e.g. [Emoji v12](https://unicode.org/Public/emoji/12.0/emoji-test.txt).
-* `data/extras-openmoji.csv` if your emoji is currently not part of Unicode.
-* `data/extras-unicode.csv` if your emoji is not part of an Emoji Unicode standard, but you could "recycle" an exiting Unicode for it e.g. ⬌ (25A1)
-
-N.B. the properties prefixed `openmoji_` are not part of the Unicode specification.
-
-Run `node helpers/generate-data-tables.js` to generate from the .csv files above the deduced OpenMoji data tables. This is important as the automated unit test and other mechanisms rely on the central data file `data/openmoji.json`
-
-
-### 2. Design Your Emoji
-🙏 Please follow the [OpenMoji Styleguide](http://openmoji.org/styleguide)
-
-✅ Use the [OpenMoji Tester App](https://openmoji-tester.glitch.me/) to check whether your emoji passes our automated tests. All of your svg files have to produce green tests only. Fix your files until everything is green! Please! :)
-
-
-### 3. File Conventions
-In order to merge you emoji as seamless as possible into the OpenMoji collection, please bear the following file conventions in mind:
+In order to merge you emoji as seamless as possible into the OpenMoji collection, please place the design in the directory like so:
 
 * src/{group}/{subgroups}/{hexcode}.svg
 
@@ -63,11 +46,16 @@ e.g. 🐌
 
 * src/animals-nature/animal-bug/1F40C.svg
 
+### 2. Design Your Emoji
 
-### 4. Normalize SVG Formatting
-Before you go on to submit we aks you should to normalize the formatting of the source code of your svg file(s). We want to be agnostic in terms of the editor used to produce the emojis. Every svg editor e.g. Adobe Illustrator, Sketch App, Figma etc. produce slightly different formated svg files on export. But we want to have a consistent svg source code style, hence please run the command below to normalize all your files or an individual file.
+🙏 Please follow the [OpenMoji Styleguide](http://openmoji.org/styleguide)
 
-Normalize all files in src folder:
+
+### 3. Normalize SVG Formatting
+
+Before you submit we ask you to normalize the formatting of the source code of your svg file(s). We want to be agnostic in terms of the editor used to produce the emojis. Every svg editor e.g. Adobe Illustrator, Sketch App, Inkscape etc. produce slightly different formated svg files on export. More information about how to export files can be found in our styleguide. As we want to have a consistent svg source code style, hence please run the command below to normalize all your files or an individual file. 
+
+Normalize all files in src folder (⚠ this will take a long time):
 
 ```bash
 npm run pretty-src-svg
@@ -79,11 +67,22 @@ Normalize an individual file e.g.:
 node_modules/.bin/svgo src/activities/arts-crafts/1F3A8.svg --config helpers/beautify-svg.yml
 ```
 
+### 4. Test Your Design
 
-### 5. Submission
+To ensure that all of our designs are consistent, please use the [OpenMoji Tester App](https://openmoji-tester.glitch.me/) to check whether your emoji passes our automated tests. All of your svg files have to produce green tests only ✅, fix your files until everything is green! Please! :)
+
+### 5. Information About The Emoji
+
+Add your meta infos at the very end of `data/enhancements-emoji-unicode-data.csv` N.B. the properties prefixed `openmoji_` are not part of the Unicode specification.
+
+Run `node helpers/generate-data-tables.js` to generate from the .csv files above the deduced OpenMoji data tables. This is important as the automated unit test and other mechanisms rely on the central data file `data/openmoji.json`
+
+### 6. Submission
+
 Yay! Now all your files are ready to go! Please submit a PR against the master branch. Please submit only the files in `src` folder, and do not generate the files in `color` and `black` folders. We will take care of your OpenMoji from there! Thanks 🙏!
 
 #### How to Submit a Pull Request
+
 [Fork](https://help.github.com/articles/fork-a-repo/) the OpenMoji repository and create a ["PR" pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) from your fork. (Here is also a [friendly video tutorial on "PR" pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4) by Daniel Shifmann / The Coding Train)
 
 ## :octocat: Non-standard emoji
@@ -92,7 +91,7 @@ There are two options for adding extra emoji. If the symbol exists as a unicode 
 
 ### Hexcodes for extras-unicode
 
-Please create a folder under [src/extras-unicode](src/extras-unicode) with the "sub-group" name. Name the svg as the unicode codepoint in this folder.
+Please create a folder under [src/extras-unicode](src/extras-unicode) with the "sub-group" name. Name the svg as the unicode codepoint in this folder, e.g. ⬌ (25A1), and add the information about the file to `data/extras-unicode.csv`
 
 ### Hexcodes for extras-openmoji
 
@@ -124,13 +123,13 @@ If it's not on the issues list, add it. If it's already on the [issues](https://
 1. Install [node.js](https://nodejs.org) (see version in the file [`.nvmrc`](https://github.com/hfg-gmuend/openmoji/blob/master/.nvmrc#L1))
 2. Open Terminal and navigate over to the `openmoji` folder that you downloaded onto your computer:
 
-```
+```bash
 cd path/to/folder
 ```
 
 3. Run:
 
-```
+```bash
 npm install
 ```
 
