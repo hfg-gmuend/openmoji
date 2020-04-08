@@ -11,6 +11,7 @@ New:
     1FAA0 Plunger, Saw, Screwdriver, Sewing Needle, Mouse Trap, Placard
   + Doe
   + Texas Flag
+  + Esperanto Flag
    
 Fix:
   * signs and align Aries, Gemini, Virgo, Scorpio, Capricorn, Libra, Sagittarius, Om, 
@@ -19,7 +20,7 @@ Fix:
        Portugal, Afghanistan, Laos, Turkey, Kazakhstan, Maldivesl, Jersey, New Caledonia, Niger, Antarctica, Mayotte, Hong Kong, Aruba
   * contour in Cat
   * contour in Victory Hand
-  * redesign llama
+  * redesign Llama
   * structure in Classical Building
   * tongue in Hot Face
   * drool in Drooling Face
