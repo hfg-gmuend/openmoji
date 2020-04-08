@@ -2022,9 +2022,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐉,1F409,animals-nature,animal-reptile,dragon,fairy tale,"fire, fly",Selina Bauder,2018-04-18,,,,,1,2748
 🦕,1F995,animals-nature,animal-reptile,sauropod,"brachiosaurus, brontosaurus, diplodocus",dinosaur,Selina Bauder,2018-04-18,,,,,5,2749
 🦖,1F996,animals-nature,animal-reptile,T-Rex,"t-rex, tyrannosaurus rex",dinosaur,Selina Bauder,2018-04-18,,,,,5,2750
-🐳,1F433,animals-nature,animal-marine,spouting whale,"face, spouting, whale","swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,2751
-🐋,1F40B,animals-nature,animal-marine,whale,whale,"swim, animal, water",Selina Bauder,2018-04-18,,,,,1,2752
-🐬,1F42C,animals-nature,animal-marine,dolphin,flipper,"swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,2753
+🐳,1F433,animals-nature,animal-marine,spouting whale,"face, spouting, whale","cetacean, swim, animal, water",Kris Kowal,2020-04-04,,,,,0.6,2751
+🐋,1F40B,animals-nature,animal-marine,whale,whale,"cetacean, swim, animal, water",Kris Kowal,2020-04-04,,,,,1,2752
+🐬,1F42C,animals-nature,animal-marine,dolphin,flipper,"cetacean, swim, animal, water",Kris Kowal,2020-04-04,,,,,0.6,2753
 🐟️,1F41F,animals-nature,animal-marine,fish,"pisces, zodiac","swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,2755
 🐠,1F420,animals-nature,animal-marine,tropical fish,"fish, tropical","swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,2756
 🐡,1F421,animals-nature,animal-marine,blowfish,fish,"swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,2757
@@ -3219,8 +3219,11 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E001,extras-openmoji,animals-nature,donkey,,,Baris Camli,2018-04-18,,,,,,
 ,E002,extras-openmoji,animals-nature,poppy,,"poppy, remembrance, veterans",Carlin MacKenzie,2019-12-20,,,,,,
 ,E003,extras-openmoji,animals-nature,doe,,"forest, hunt, antler, deer",Carlin MacKenzie,2020-03-21,,,,,,
-,E004,extras-openmoji,animals-nature,spouting-orca,,"whale, spouting, orca, killer whale, blackfish, swim, animal, water",Selina Bauder,2018-04-18,,,,,,
-,E005,extras-openmoji,animals-nature,orca,,"whale, orca, killer whale, blackfish, swim, animal, water",Selina Bauder,2018-04-18,,,,,,
+,E004,extras-openmoji,animals-nature,spouting-orca,,"cetacean, whale, spouting, orca, killer whale, blackfish, swim, animal, water",Selina Bauder,2018-04-18,,,,,,
+,E005,extras-openmoji,animals-nature,orca,,"cetacean, whale, orca, killer whale, blackfish, swim, animal, water",Selina Bauder,2018-04-18,,,,,,
+,E006,extras-openmoji,animals-nature,narwhal,,"cetacean, whale, swim, animal, water",Kris Kowal,2020-04-04,,,,,,
+,E007,extras-openmoji,animals-nature,beluga,,"cetacean, whale, swim, animal, water",Kris Kowal,2020-04-04,,,,,,
+,E008,extras-openmoji,animals-nature,porpoise,,"cetacean, swim, animal, water",Kris Kowal,2020-04-04,,,,,,
 ,E040,extras-openmoji,brand,Twitter,,,Baris Camli,2018-04-18,,,,,,
 ,E041,extras-openmoji,brand,pinterest,,"social, platform, pins",Kai Wanschura,2018-04-18,,,,,,
 ,E042,extras-openmoji,brand,facebook,,"facebook, company, social-media",Kai Magnus Müller,2018-04-18,,,,,,
