@@ -92,7 +92,7 @@ There are two options for adding extra emoji. If the symbol exists as a unicode 
 
 ### Hexcodes for extras-unicode
 
-Please create a folder under [src/extras-unicode](src/extras-unicode) with the "sub-group" name. Name the svg as the unicode codepoint in this folder, e.g. ⬌ (25A1), and add the information about the file to `data/extras-unicode.csv`
+As an example, many of the designs in the [Miscellaneous Symbols](https://jrgraphix.net/r/Unicode/2600-26FF) section are perfect for emojis. Please create a folder under [src/extras-unicode](src/extras-unicode) with the "sub-group" name. Name the svg as the unicode codepoint in this folder, e.g. ⬌ (25A1), and add the information about the file to `data/extras-unicode.csv`
 
 ### Hexcodes for extras-openmoji
 
