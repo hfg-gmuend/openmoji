@@ -12,10 +12,14 @@ New:
   + Doe
   + Texas Flag
   + Esperanto Flag
-  + No Handshake Emoji
-   
+  + Narwhal, Beluga, Porpoise by @kriskowal
+  + No Handshake
+  
 Fix:
-  * signs and align Aries, Gemini, Virgo, Scorpio, Capricorn, Libra, Sagittarius, Om, 
+  * Replaced Dolphin by @kriskowal
+  * Optimize Spouting Whale by @kriskowal
+  * Blue Whale, renamed/moved existing one to Orca by @kriskowal
+  * signs and align Aries, Gemini, Virgo, Scorpio, Capricorn, Libra, Sagittarius, Om,
     Orthodox Cross, Wheel of Dharma, Taurus, Cancer, Leo, Aquarius, Pisces, Ophiuchus
   * Flags:
        Portugal, Afghanistan, Laos, Turkey, Kazakhstan, Maldivesl, Jersey, New Caledonia, Niger, Antarctica, Mayotte, Hong Kong, Aruba
