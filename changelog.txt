@@ -29,6 +29,7 @@ Fix:
   * Question Mark, White Question Mark
   * contour in Infinity
   * Lab Coat
+  * all Prohibited Signs
 
 --------------------------------------------------------------------------------
 
