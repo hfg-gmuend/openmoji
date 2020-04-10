@@ -16,8 +16,8 @@ New:
 
 Fix:
   * Replaced Dolphin by @kriskowal
-  * Optimize Spouting Whale by @kriskowal
-  * Blue Whale, renamed/moved existing one to Orca by @kriskowal
+  * Replaced Whale and Spouting Whale with blue whales by @kriskowal
+  * Moved and renamed Selina Bauer’s Whale and spouting Whale to Orca and Spouting Orca in private use area
   * signs and align Aries, Gemini, Virgo, Scorpio, Capricorn, Libra, Sagittarius, Om,
     Orthodox Cross, Wheel of Dharma, Taurus, Cancer, Leo, Aquarius, Pisces, Ophiuchus
   * Flags:
