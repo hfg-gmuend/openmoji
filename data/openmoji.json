@@ -57341,6 +57341,23 @@
     "order": ""
   },
   {
+    "emoji": "",
+    "hexcode": "E380",
+    "group": "extras-openmoji",
+    "subgroups": "symbols",
+    "annotation": "no handshaking",
+    "tags": "",
+    "openmoji_tags": "hygiene, agreement, virus, meeting, spread, germs",
+    "openmoji_author": "Julian Grüneberg",
+    "openmoji_date": "2020-04-05",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": "",
+    "order": ""
+  },
+  {
     "emoji": "",
     "hexcode": "E1C0",
     "group": "extras-openmoji",

@@ -13,7 +13,8 @@ New:
   + Texas Flag
   + Esperanto Flag
   + Narwhal, Beluga, Porpoise by @kriskowal
-
+  + No Handshake
+  
 Fix:
   * Replaced Dolphin by @kriskowal
   * Replaced Whale and Spouting Whale with blue whales by @kriskowal
@@ -32,6 +33,7 @@ Fix:
   * Question Mark, White Question Mark
   * contour in Infinity
   * Lab Coat
+  * all Prohibited Signs
 
 --------------------------------------------------------------------------------
 
