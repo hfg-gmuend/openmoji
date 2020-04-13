@@ -34187,6 +34187,23 @@
     "order": 2736
   },
   {
+    "emoji": "🪶",
+    "hexcode": "1FAB6",
+    "group": "animals-nature",
+    "subgroups": "animal-bird",
+    "annotation": "feather",
+    "tags": "bird, flight, light, plumage",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-03-26",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 2738
+  },
+  {
     "emoji": "🦩",
     "hexcode": "1F9A9",
     "group": "animals-nature",
@@ -34967,6 +34984,23 @@
     "skintone_base_hexcode": "",
     "unicode": 0.6,
     "order": 2790
+  },
+  {
+    "emoji": "🪴",
+    "hexcode": "1FAB4",
+    "group": "animals-nature",
+    "subgroups": "plant-other",
+    "annotation": "potted plant",
+    "tags": "boring, grow, house, nurturing, plant, useless",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-03-26",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 2791
   },
   {
     "emoji": "🌲",
@@ -45492,6 +45526,23 @@
     "order": 3523
   },
   {
+    "emoji": "🪃",
+    "hexcode": "1FA83",
+    "group": "objects",
+    "subgroups": "tool",
+    "annotation": "boomerang",
+    "tags": "australia, rebound, repercussion",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-03-26",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 3524
+  },
+  {
     "emoji": "🏹",
     "hexcode": "1F3F9",
     "group": "objects",
@@ -45951,6 +46002,23 @@
     "order": 3559
   },
   {
+    "emoji": "🪞",
+    "hexcode": "1FA9E",
+    "group": "objects",
+    "subgroups": "household",
+    "annotation": "mirror",
+    "tags": "reflection, reflector, speculum",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-03-26",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 3561
+  },
+  {
     "emoji": "🛏️",
     "hexcode": "1F6CF",
     "group": "objects",
@@ -46187,6 +46255,23 @@
     "skintone_base_hexcode": "",
     "unicode": 11,
     "order": 3578
+  },
+  {
+    "emoji": "🪣",
+    "hexcode": "1FAA3",
+    "group": "objects",
+    "subgroups": "household",
+    "annotation": "bucket",
+    "tags": "cask, pail, vat",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-03-26",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 3579
   },
   {
     "emoji": "🧼",

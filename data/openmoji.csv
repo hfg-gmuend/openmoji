@@ -2010,6 +2010,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦆,1F986,animals-nature,animal-bird,duck,bird,"water, fly",Selina Bauder,2018-04-18,,,,,3,2734
 🦢,1F9A2,animals-nature,animal-bird,swan,"bird, cygnet, ugly duckling",,Laura Schießer,2019-05-06,,,,,11,2735
 🦉,1F989,animals-nature,animal-bird,owl,"bird, wise",,Selina Bauder,2018-04-18,,,,,3,2736
+🪶,1FAB6,animals-nature,animal-bird,feather,"bird, flight, light, plumage",,Liz Bravo,2020-03-26,,,,,13,2738
 🦩,1F9A9,animals-nature,animal-bird,flamingo,"flamboyant, tropical",flamingo,Mariella Steeb,2018-04-18,,,,,12,2739
 🦚,1F99A,animals-nature,animal-bird,peacock,"bird, ostentatious, peahen, proud",,Laura Schießer,2019-05-06,,,,,11,2740
 🦜,1F99C,animals-nature,animal-bird,parrot,"bird, pirate, talk",,Ricarda Krejci,2019-05-07,,,,,11,2741
@@ -2056,6 +2057,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🌼,1F33C,animals-nature,plant-flower,blossom,flower,"yellow, nature",Hilda Kalyoncu,2018-04-18,,,,,0.6,2788
 🌷,1F337,animals-nature,plant-flower,tulip,flower,"pink, eastern",Hilda Kalyoncu,2018-04-18,,,,,0.6,2789
 🌱,1F331,animals-nature,plant-other,seedling,young,"farming, growing, green",Hilda Kalyoncu,2018-04-18,,,,,0.6,2790
+🪴,1FAB4,animals-nature,plant-other,potted plant,"boring, grow, house, nurturing, plant, useless",,Liz Bravo,2020-03-26,,,,,13,2791
 🌲,1F332,animals-nature,plant-other,evergreen tree,tree,"green, tree, fir, plant",Hilda Kalyoncu,2018-04-18,,,,,1,2792
 🌳,1F333,animals-nature,plant-other,deciduous tree,"deciduous, shedding, tree","green, tree, huge, plant",Hilda Kalyoncu,2018-04-18,,,,,1,2793
 🌴,1F334,animals-nature,plant-other,palm tree,"palm, tree","sea, vacation, beach, relax, plant",Hilda Kalyoncu,2018-04-18,,,,,0.6,2794
@@ -2675,6 +2677,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🗡️,1F5E1,objects,tool,dagger,"knife, weapon",metal,Hilda Kalyoncu,2018-04-18,,,,,0.7,3520
 ⚔️,2694,objects,tool,crossed swords,"crossed, swords, weapon",,Marleen Heine,2018-11-16,,,,,1,3522
 🔫,1F52B,objects,tool,pistol,"gun, handgun, revolver, tool, weapon","gun, weapon, pistol",Hilda Kalyoncu,2018-04-18,,,,,0.6,3523
+🪃,1FA83,objects,tool,boomerang,"australia, rebound, repercussion",,Liz Bravo,2020-03-26,,,,,13,3524
 🏹,1F3F9,objects,tool,bow and arrow,"archer, arrow, bow, sagittarius, zodiac",,Marleen Heine,2018-11-16,,,,,1,3525
 🛡️,1F6E1,objects,tool,shield,weapon,"protection, fight, middle ages",Hilda Kalyoncu,2018-04-18,,,,,0.7,3527
 🪚,1FA9A,objects,tool,carpentry saw,"carpenter, lumber, saw, tool",,Liz Bravo,2020-03-28,,,,,13,3528
@@ -2702,6 +2705,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🩹,1FA79,objects,medical,adhesive bandage,bandage,,Sam Eckert,2019-05-06,,,,,12,3557
 🩺,1FA7A,objects,medical,stethoscope,"doctor, heart, medicine",,Sam Eckert,2019-05-06,,,,,12,3558
 🚪,1F6AA,objects,household,door,door,,Lisa Schulz,2018-04-18,,,,,0.6,3559
+🪞,1FA9E,objects,household,mirror,"reflection, reflector, speculum",,Liz Bravo,2020-03-26,,,,,13,3561
 🛏️,1F6CF,objects,household,bed,"hotel, sleep",furniture,Lisa Schulz,2018-04-18,,,,,0.7,3564
 🛋️,1F6CB,objects,household,couch and lamp,"couch, hotel, lamp",furniture,Lisa Schulz,2018-04-18,,,,,0.7,3566
 🪑,1FA91,objects,household,chair,"seat, sit",,Sam Eckert,2019-05-06,,,,,12,3567
@@ -2716,6 +2720,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧹,1F9F9,objects,household,broom,"cleaning, sweeping, witch",,Tonia Reinhardt,2019-05-07,,,,,11,3576
 🧺,1F9FA,objects,household,basket,"farming, laundry, picnic",,Tonia Reinhardt,2019-05-07,,,,,11,3577
 🧻,1F9FB,objects,household,roll of paper,"paper towels, toilet paper",,Tonia Reinhardt,2019-05-07,,,,,11,3578
+🪣,1FAA3,objects,household,bucket,"cask, pail, vat",,Liz Bravo,2020-03-26,,,,,13,3579
 🧼,1F9FC,objects,household,soap,"bar, bathing, cleaning, lather, soapdish",,Tonia Reinhardt,2019-05-07,,,,,11,3580
 🪥,1FAA5,objects,household,toothbrush,"bathroom, brush, clean, dental, hygiene, teeth",,Liz Bravo,2020-03-11,,,,,13,3581
 🧽,1F9FD,objects,household,sponge,"absorbing, cleaning, porous",,Tonia Reinhardt,2019-05-07,,,,,11,3582
