@@ -36,6 +36,7 @@ Fix:
   * contour in Infinity
   * Lab Coat
   * all Prohibited Signs
+  * Exploding Head by @taralynnconnelly
 
 --------------------------------------------------------------------------------
 
