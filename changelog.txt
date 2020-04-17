@@ -37,6 +37,7 @@ Fix:
   * Lab Coat
   * all Prohibited Signs
   * Exploding Head by @taralynnconnelly
+  * bed in Bed and Person in Bed
 
 --------------------------------------------------------------------------------
 
