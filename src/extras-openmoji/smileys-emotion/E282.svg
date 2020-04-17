@@ -1,0 +1,18 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="grid">
+    <path fill="#B3B3B3" d="M68,4v64H4V4H68 M72,0H0v72h72V0z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="m12.92 10.96h46.15c1.062 0 1.923 0.861 1.923 1.923v46.15c0 1.062-0.861 1.923-1.923 1.923h-46.15c-1.062 0-1.923-0.861-1.923-1.923v-46.15c0-1.062 0.861-1.923 1.923-1.923z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M18.2537,4h35.4926C54.991,4,56,5.009,56,6.2537 v59.4926C56,66.991,54.991,68,53.7463,68H18.2537C17.009,68,16,66.991,16,65.7463V6.2537C16,5.009,17.009,4,18.2537,4z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M68,18.2537v35.4926 C68,54.991,66.991,56,65.7463,56H6.2537C5.009,56,4,54.991,4,53.7463V18.2537C4,17.009,5.009,16,6.2537,16h59.4926 C66.991,16,68,17.009,68,18.2537z"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <path fill="#FCEA2B" d="m36.2 13.32c-12.57 0-22.8 10.23-22.8 22.8 0 12.57 10.23 22.8 22.8 22.8 12.57 0 22.8-10.23 22.8-22.8 0-12.57-10.23-22.8-22.8-22.8z"/>
+  </g>
+  <g id="line">
+    <circle cx="36" cy="36" r="23" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="28.99" x2="43.01" y1="51" y2="51" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="m29.2 42c0 1.657-1.345 3-3 3-1.655 0-3-1.343-3-3 0-1.655 1.345-3 3-3 1.655 0 3 1.345 3 3"/>
+    <path d="m48.8 42c0 1.657-1.345 3-3 3s-3-1.343-3-3c0-1.655 1.345-3 3-3s3 1.345 3 3"/>
+  </g>
+</svg>

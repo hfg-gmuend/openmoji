@@ -15,7 +15,8 @@ New:
   + Texas Flag
   + Esperanto Flag
   + Narwhal, Beluga, Porpoise by @kriskowal
-  + No Handshake
+  + No Handshaking
+  + Dejected Face
   
 Fix:
   * Replaced Dolphin by @kriskowal
