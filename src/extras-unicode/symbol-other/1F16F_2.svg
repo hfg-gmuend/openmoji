@@ -1,0 +1,24 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="grid">
+    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="m12.92 10.96h46.15a1.923 1.923 0 0 1 1.923 1.923v46.15a1.923 1.923 0 0 1-1.923 1.923h-46.15a1.923 1.923 0 0 1-1.923-1.923v-46.15a1.923 1.923 0 0 1 1.923-1.923z"/>
+    <rect x="16" y="4" rx="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.254" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <circle cx="36" cy="36" r="26.68" fill="#fff" fill-rule="evenodd" paint-order="normal"/>
+  </g>
+  <g id="line">
+    <circle cx="36" cy="36" r="26.68" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.74" paint-order="normal"/>
+    <g transform="matrix(.6662 0 0 .6662 12.46 12.26)" fill="#fff">
+      <g id="Standing_Man" fill="#fff">
+        <g fill="#fff">
+          <circle cx="35.4" cy="10.65" r="2.969" fill="#000" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+          <path fill="#000" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.999" d="m26.37 41.59 0.792-19c0.1444-2.78 2.425-4.969 5.208-5l5.964-5e-5c2.747 0.03103 5.027 2.22 5.172 5l0.792 19z" paint-order="normal"/>
+          <path fill="#000" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m40.37 23.59-1.102 38c-0.03193 1.101-0.575 2-1.4 2-0.9765-0.1651-1.7-0.997-1.729-1.987l-0.8025-22.03c0.3276 0.4049-0.28-0.664 0 0l-0.7324 22.03c-0.0286 0.99-0.7525 1.822-1.729 1.987-0.825 0-1.368-0.8991-1.4-2l-1.102-38"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
