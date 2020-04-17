@@ -20,6 +20,7 @@ New:
   + Esperanto Flag
   + No Handshaking
   + Dejected Face
+  + Creative Commons Symbols
 
 Fix:
   * Replaced Dolphin by @kriskowal
