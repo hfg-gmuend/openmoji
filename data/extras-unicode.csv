@@ -8,6 +8,10 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 🇪🇴,1F1EA-1F1F4,extras-unicode,subdivision-flag,esperanto flag,"constructed, Zamenhof",Carlin MacKenzie,2020-04-08,?
 ⬮,2B2E,extras-unicode,symbol-other,black vertical ellipse,,loominade,2020-04-17,5
 ⬯,2B2F,extras-unicode,symbol-other,white vertical ellipse,,loominade,2020-04-17,5
-⬡,2B21,extras-unicode,symbol-other,white hexagon,,loominade,2020-04-17,5
-⬢,2B22,extras-unicode,symbol-other,black hexagon,,loominade,2020-04-17,5
-⯃,2BC3,extras-unicode,symbol-other,horizontal black octagon,,loominade,2020-04-17,5
+⬡,2B21,extras-unicode,symbol-other,white hexagon,"equilateral polygon",loominade,2020-04-17,5
+⬢,2B22,extras-unicode,symbol-other,black hexagon,"equilateral polygon",loominade,2020-04-17,5
+⯃,2BC3,extras-unicode,symbol-other,horizontal black octagon,"equilateral polygon",loominade,2020-04-17,5
+⬟,2B1F,extras-unicode,symbol-other,black pentagon,"equilateral polygon",loominade,2020-04-17,5
+⬠,2B20,extras-unicode,symbol-other,white pentagon,"equilateral polygon",loominade,2020-04-17,5
+⬣,2B23,extras-unicode,symbol-other,horizontal black hexagon ,"equilateral polygon",loominade,2020-04-17,5
+⯄,2BC4,extras-unicode,symbol-other,black octagon,"equilateral polygon",loominade,2020-04-17,5
