@@ -1,0 +1,12 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="line-supplement" transform="matrix(1.165 0 0 1.165 -5.868 -5.359)">
+    <polygon fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" points="52.11 48.61 51.44 56 47.58 52.3 50.12 56 54.5 56 57.29 49.9 53.38 56"/>
+    <polygon fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" points="19.77 48.62 20.44 56.01 24.31 52.32 21.76 56.01 17.38 56.01 14.59 49.91 18.51 56.01"/>
+  </g>
+  <g id="line">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.33" d="m16.79 47.51v-16.19a19.21 19.21 0 0 1 19.21-19.21v0a19.21 19.21 0 0 1 19.21 19.21v16.19"/>
+    <line x1="25.99" x2="46.01" y1="30.35" y2="30.35" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.33"/>
+    <line x1="25.99" x2="46.01" y1="35.57" y2="35.57" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.33"/>
+    <line x1="30.75" x2="41.25" y1="44.39" y2="44.39" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.33"/>
+  </g>
+</svg>

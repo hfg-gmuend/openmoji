@@ -10,7 +10,7 @@ New:
   + Emoji 13:
     1FAA0 Plunger, 1FA9A Carpentary Saw, 1FA9B Screwdriver, 1FAA1 Sewing Needle, 
     1FAA4 Mouse Trap, 1FAA7 Placard, 1FA9E Mirror, 1FA83 Boomerang, 1FAA3 Bucket, 
-    1FAB6 Feather, 1FAB4 Potted Plant
+    1FAB6 Feather, 1FAB4 Potted Plant, 1FA9D Hook, 1FAA6 Headstone
   + Doe
   + Texas Flag
   + Esperanto Flag

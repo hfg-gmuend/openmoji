@@ -46410,6 +46410,23 @@
     "order": 3587
   },
   {
+    "emoji": "🪦",
+    "hexcode": "1FAA6",
+    "group": "objects",
+    "subgroups": "other-object",
+    "annotation": "headstone",
+    "tags": "cemetery, grave, graveyard, tombstone",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-03-22",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 3588
+  },
+  {
     "emoji": "⚱️",
     "hexcode": "26B1",
     "group": "objects",
