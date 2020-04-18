@@ -2470,7 +2470,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🎮️,1F3AE,activities,game,video game,"controller, game",gamble,Lisa Schulz,2018-04-18,,,,,0.6,3264
 🕹️,1F579,activities,game,joystick,"game, video game",,Lisa Schulz,2018-04-18,,,,,0.7,3266
 🎰,1F3B0,activities,game,slot machine,"game, slot",,Nicole Kornhaas,2019-05-06,,,,,0.6,3267
-🎲,1F3B2,activities,game,game die,"dice, die, game",board game,Lisa Schulz,2018-04-18,,,,,0.6,3268
+🎲,1F3B2,activities,game,game die,"dice, die, game, orthographic",board game,Lisa Schulz,2018-04-18,,,,,0.6,3268
 🧩,1F9E9,activities,game,puzzle piece,"clue, interlocking, jigsaw, piece, puzzle",,Nicole Kornhaas,2019-05-06,,,,,11,3269
 🧸,1F9F8,activities,game,teddy bear,"plaything, plush, stuffed, toy",,Nicole Kornhaas,2019-05-06,,,,,11,3270
 🪅,1FA85,activities,game,piñata,"celebration, party",,Liz Bravo,2020-03-03,,,,,13,3271
@@ -2600,7 +2600,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📗,1F4D7,objects,book-paper,green book,"book, green",,Abby Esquivel,2018-11-16,,,,,0.6,3419
 📘,1F4D8,objects,book-paper,blue book,"blue, book",,Abby Esquivel,2018-11-16,,,,,0.6,3420
 📙,1F4D9,objects,book-paper,orange book,"book, orange",,Abby Esquivel,2018-11-16,,,,,0.6,3421
-📚️,1F4DA,objects,book-paper,books,book,"book, read, write",Jonas Roßner,2018-04-18,,,,,0.6,3422
+📚️,1F4DA,objects,book-paper,books,book,"book, read, write, orthographic",Jonas Roßner,2018-04-18,,,,,0.6,3422
 📓,1F4D3,objects,book-paper,notebook,notebook,"book, read, write",Jonas Roßner,2018-04-18,,,,,0.6,3423
 📒,1F4D2,objects,book-paper,ledger,notebook,"book, read, write",Jonas Roßner,2018-04-18,,,,,0.6,3424
 📃,1F4C3,objects,book-paper,page with curl,"curl, document, page","rolled, page, text",Jonas Roßner,2018-04-18,,,,,0.6,3425
