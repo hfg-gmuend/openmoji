@@ -45747,6 +45747,23 @@
     "order": 3541
   },
   {
+    "emoji": "🪝",
+    "hexcode": "1FA9D",
+    "group": "objects",
+    "subgroups": "tool",
+    "annotation": "hook",
+    "tags": "catch, crook, curve, ensnare, selling point",
+    "openmoji_tags": "fishing, catch",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-04-11",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 3542
+  },
+  {
     "emoji": "🧰",
     "hexcode": "1F9F0",
     "group": "objects",
