@@ -1,11 +1,4 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="grid">
-    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
-    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-  </g>
   <g id="color">
     <path fill="#F1B31C" d="M59.0349 60H12.9649C12.7092 59.9992 12.4642 59.8973 12.2834 59.7164C12.1026 59.5356 12.0007 59.2906 12 59.0349V12.9649C12.0008 12.7092 12.1027 12.4642 12.2836 12.2834C12.4644 12.1026 12.7094 12.0007 12.9651 12H59.0351C59.2908 12.0008 59.5358 12.1027 59.7166 12.2836C59.8974 12.4644 59.9993 12.7094 60 12.9651V59.0351C59.9992 59.2908 59.8973 59.5358 59.7164 59.7166C59.5356 59.8974 59.2906 59.9993 59.0349 60Z"/>
     <circle cx="24.5" cy="47.5" r="4.5" fill="#ffffff"/>
