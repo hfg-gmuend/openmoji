@@ -17,6 +17,7 @@ New:
   + Narwhal, Beluga, Porpoise by @kriskowal
   + No Handshaking
   + Dejected Face
+  + Web syndication/RSS logo and Tardis by @fuddl
   
 Fix:
   * Replaced Dolphin by @kriskowal
