@@ -1,36 +1,36 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
     <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
-    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="m12.92 10.96h46.15a1.923 1.923 0 0 1 1.923 1.923v46.15a1.923 1.923 0 0 1-1.923 1.923h-46.15a1.923 1.923 0 0 1-1.923-1.923v-46.15a1.923 1.923 0 0 1 1.923-1.923z"/>
+    <rect x="16" y="4" rx="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.254" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <rect x="25" y="10" rx="1" width="21" height="5" fill="#1e50a0"/>
-    <rect x="23" y="14" rx="1" width="26" height="48" fill="#1e50a0"/>
-    <path fill="#ffffff" fill-rule="evenodd" d="M38 7.6C38 6.71634 37.1046 6 36 6C34.8954 6 34 6.71634 34 7.6V10H38V7.6Z" clip-rule="evenodd"/>
-    <rect x="25" y="16" width="22" height="3" fill="#000000"/>
-    <rect x="38" y="51" width="8" height="7" fill="#184081"/>
-    <rect x="27" y="51" width="8" height="7" fill="#184081"/>
-    <rect x="38" y="41" width="8" height="7" fill="#184081"/>
-    <rect x="27" y="41" width="8" height="7" fill="#184081"/>
-    <rect x="38" y="31" width="8" height="7" fill="#184081"/>
-    <rect x="27" y="31" width="8" height="7" fill="#184081"/>
-    <rect x="38" y="21" width="8" height="7" fill="#ffffff"/>
-    <rect x="27" y="21" width="8" height="7" fill="#ffffff"/>
+    <rect x="25" y="12" rx="1" width="21" height="5" fill="#1e50a0"/>
+    <rect x="23" y="16" rx="1" width="26" height="48" fill="#1e50a0"/>
+    <path fill="#fff" fill-rule="evenodd" d="m38 9.6c0-0.8837-0.8954-1.6-2-1.6s-2 0.7163-2 1.6v2.4h4z" clip-rule="evenodd"/>
+    <rect x="37" y="53" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity=".502"/>
+    <rect x="26" y="53" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity=".502"/>
+    <rect x="37" y="43" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity=".502"/>
+    <rect x="26" y="43" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity=".502"/>
+    <rect x="37" y="33" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity=".502"/>
+    <rect x="26" y="33" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity=".502"/>
+    <rect x="37" y="23" rx="1.125" ry="1.143" width="9" height="8" fill="#fff"/>
+    <rect x="26" y="23" rx="1.125" ry="1.143" width="9" height="8" fill="#fff"/>
   </g>
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-width="2" d="M38 52L38 58H45"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-width="2" d="M27 52L27 58H34"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-width="2" d="M38 42L38 48H45"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-width="2" d="M27 42L27 48H34"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-width="2" d="M38 32L38 38H45"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-width="2" d="M27 32L27 38H34"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-width="2" d="M38 22L38 28H45"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-width="2" d="M27 22L27 28H34"/>
-    <rect x="23" y="14" rx="1" width="26" height="48" fill="none" stroke="#000000" stroke-width="2"/>
-    <path fill="none" stroke="#000000" stroke-width="2" d="M34 9V7.6C34 6.71634 34.8954 6 36 6C37.1046 6 38 6.71634 38 7.6V9"/>
-    <path fill="none" stroke="#000000" stroke-width="2" d="M25 13V11C25 10.4477 25.4477 10 26 10H45C45.5523 10 46 10.4477 46 11V13"/>
+    <rect x="26" y="18.5" rx="1" ry="1" width="20" height="3"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m38 54.01v5.986h6.986"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m27 54.01v5.986h6.986"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m38 44v6h7"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m27 44.01v5.986h6.986"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m38 34.01v5.986h6.986"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m27 34.01v5.986h6.986"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m38 24.01v5.986h6.986"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m27 24.01v5.986h6.986"/>
+    <rect x="23" y="16" rx="1" width="26" height="48" fill="none" stroke="#000" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-width="2" d="m34 12v-2.4c0-0.8837 0.8954-1.6 2-1.6s2 0.7163 2 1.6v2.4"/>
+    <path fill="none" stroke="#000" stroke-width="2" d="m25 16v-3c0-0.5523 0.4477-1 1-1h19c0.5523 0 1 0.4477 1 1v3"/>
   </g>
 </svg>
