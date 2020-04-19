@@ -39,6 +39,7 @@ Fix:
   * all Prohibited Signs
   * Exploding Head by @taralynnconnelly
   * bed in Bed and Person in Bed
+  * skullcap in  Person With Skullcap
 
 --------------------------------------------------------------------------------
 
