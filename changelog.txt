@@ -8,8 +8,8 @@
 
 New:
   + Emoji 13:
-    1FAA0 Plunger, 1FA9A Carpentary Saw, 1FA9B Screwdriver, 1FAA1 Sewing Needle, 
-    1FAA4 Mouse Trap, 1FAA7 Placard, 1FA9E Mirror, 1FA83 Boomerang, 1FAA3 Bucket, 
+    1FAA0 Plunger, 1FA9A Carpentary Saw, 1FA9B Screwdriver, 1FAA1 Sewing Needle,
+    1FAA4 Mouse Trap, 1FAA7 Placard, 1FA9E Mirror, 1FA83 Boomerang, 1FAA3 Bucket,
     1FAB6 Feather, 1FAB4 Potted Plant, 1FA9D Hook, 1FAA6 Headstone
   + Doe
   + Texas Flag
@@ -18,7 +18,8 @@ New:
   + No Handshaking
   + Dejected Face
   + Web syndication/RSS logo and Tardis by @fuddl
-  
+  + More geometric Unicode shapes in extras-unicode/symbol-other @loominade
+
 Fix:
   * Replaced Dolphin by @kriskowal
   * Replaced Whale and Spouting Whale with blue whales by @kriskowal
