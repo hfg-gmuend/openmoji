@@ -2187,7 +2187,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥤,1F964,food-drink,drink,cup with straw,"juice, soda","beverage, fastfood",Laura Humpfer,2018-04-18,,,,,5,2923
 🧃,1F9C3,food-drink,drink,beverage box,"beverage, box, juice, straw, sweet",,Evelyn Soos,2019-05-04,,,,,12,2925
 🧉,1F9C9,food-drink,drink,mate,drink,,Evelyn Soos,2019-05-04,,,,,12,2926
-🧊,1F9CA,food-drink,drink,ice,"cold, ice cube, iceberg",,Evelyn Soos,2019-05-04,,,,,12,2927
+🧊,1F9CA,food-drink,drink,ice,"cold, ice cube, iceberg, isometric",,Evelyn Soos,2019-05-04,,,,,12,2927
 🥢,1F962,food-drink,dishware,chopsticks,hashi,"sticks, eat, chopstick",Jonas Roßner,2018-04-18,,,,,5,2928
 🍽️,1F37D,food-drink,dishware,fork and knife with plate,"cooking, fork, knife, plate",eat,Jonas Roßner,2018-04-18,,,,,0.7,2930
 🍴,1F374,food-drink,dishware,fork and knife,"cooking, cutlery, fork, knife",eat,Jonas Roßner,2018-04-18,,,,,0.6,2931
@@ -2470,7 +2470,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🎮️,1F3AE,activities,game,video game,"controller, game",gamble,Lisa Schulz,2018-04-18,,,,,0.6,3264
 🕹️,1F579,activities,game,joystick,"game, video game",,Lisa Schulz,2018-04-18,,,,,0.7,3266
 🎰,1F3B0,activities,game,slot machine,"game, slot",,Nicole Kornhaas,2019-05-06,,,,,0.6,3267
-🎲,1F3B2,activities,game,game die,"dice, die, game",board game,Lisa Schulz,2018-04-18,,,,,0.6,3268
+🎲,1F3B2,activities,game,game die,"dice, die, game, isometric",board game,Lisa Schulz,2018-04-18,,,,,0.6,3268
 🧩,1F9E9,activities,game,puzzle piece,"clue, interlocking, jigsaw, piece, puzzle",,Nicole Kornhaas,2019-05-06,,,,,11,3269
 🧸,1F9F8,activities,game,teddy bear,"plaything, plush, stuffed, toy",,Nicole Kornhaas,2019-05-06,,,,,11,3270
 🪅,1FA85,activities,game,piñata,"celebration, party",,Liz Bravo,2020-03-03,,,,,13,3271
@@ -2600,7 +2600,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📗,1F4D7,objects,book-paper,green book,"book, green",,Abby Esquivel,2018-11-16,,,,,0.6,3419
 📘,1F4D8,objects,book-paper,blue book,"blue, book",,Abby Esquivel,2018-11-16,,,,,0.6,3420
 📙,1F4D9,objects,book-paper,orange book,"book, orange",,Abby Esquivel,2018-11-16,,,,,0.6,3421
-📚️,1F4DA,objects,book-paper,books,book,"book, read, write",Jonas Roßner,2018-04-18,,,,,0.6,3422
+📚️,1F4DA,objects,book-paper,books,book,"book, read, write, isometric",Jonas Roßner,2018-04-18,,,,,0.6,3422
 📓,1F4D3,objects,book-paper,notebook,notebook,"book, read, write",Jonas Roßner,2018-04-18,,,,,0.6,3423
 📒,1F4D2,objects,book-paper,ledger,notebook,"book, read, write",Jonas Roßner,2018-04-18,,,,,0.6,3424
 📃,1F4C3,objects,book-paper,page with curl,"curl, document, page","rolled, page, text",Jonas Roßner,2018-04-18,,,,,0.6,3425
@@ -2714,13 +2714,13 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🪠,1FAA0,objects,household,plunger,"force cup, plumber, suction, toilet",,Liz Bravo,2020-03-11,,,,,13,3569
 🚿,1F6BF,objects,household,shower,water,wash,Lisa Schulz,2018-04-18,,,,,1,3570
 🛁,1F6C1,objects,household,bathtub,bath,"wash, water, foam",Lisa Schulz,2018-04-18,,,,,1,3571
-🪤,1FAA4,objects,household,mouse trap,"bait, mousetrap, snare, trap",,Liz Bravo,2020-03-28,,,,,13,3572
+🪤,1FAA4,objects,household,mouse trap,"bait, mousetrap, snare, trap, isometric",,Liz Bravo,2020-03-28,,,,,13,3572
 🪒,1FA92,objects,household,razor,"sharp, shave",,Sam Eckert,2019-05-06,,,,,12,3573
 🧴,1F9F4,objects,household,lotion bottle,"lotion, moisturizer, shampoo, sunscreen",,Tonia Reinhardt,2019-05-07,,,,,11,3574
 🧷,1F9F7,objects,household,safety pin,"diaper, punk rock",,Tonia Reinhardt,2019-05-07,,,,,11,3575
 🧹,1F9F9,objects,household,broom,"cleaning, sweeping, witch",,Tonia Reinhardt,2019-05-07,,,,,11,3576
 🧺,1F9FA,objects,household,basket,"farming, laundry, picnic",,Tonia Reinhardt,2019-05-07,,,,,11,3577
-🧻,1F9FB,objects,household,roll of paper,"paper towels, toilet paper",,Tonia Reinhardt,2019-05-07,,,,,11,3578
+🧻,1F9FB,objects,household,roll of paper,"paper towels, toilet paper, isometric",,Tonia Reinhardt,2019-05-07,,,,,11,3578
 🪣,1FAA3,objects,household,bucket,"cask, pail, vat",,Liz Bravo,2020-03-26,,,,,13,3579
 🧼,1F9FC,objects,household,soap,"bar, bathing, cleaning, lather, soapdish",,Tonia Reinhardt,2019-05-07,,,,,11,3580
 🪥,1FAA5,objects,household,toothbrush,"bathroom, brush, clean, dental, hygiene, teeth",,Liz Bravo,2020-03-11,,,,,13,3581
