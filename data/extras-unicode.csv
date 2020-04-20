@@ -16,3 +16,7 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 ⬣,2B23,extras-unicode,symbol-other,horizontal black hexagon ,"equilateral polygon",loominade,2020-04-17,5
 ⯄,2BC4,extras-unicode,symbol-other,black octagon,"equilateral polygon",loominade,2020-04-17,5
 ⏻,23FB,extras-unicode,symbol-other,power symbol,"enable, on, off",Alexander Müller,2020-04-20,5
+⏼,23FC,extras-unicode,symbol-other,power on-off symbol,"enable, disable, on, off",Alexander Müller,2020-04-20,5
+⏽,23FD,extras-unicode,symbol-other,power on symbol,"enable, on, I",Alexander Müller,2020-04-20,5
+⏾,23FE,extras-unicode,symbol-other,power sleep symbol,"sleep, standby",Alexander Müller,2020-04-20,5
+⭘,2B58,extras-unicode,symbol-other,heavy circle,"off, disable, power off, O",Alexander Müller,2020-04-20,5

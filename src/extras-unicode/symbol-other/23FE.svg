@@ -1,6 +1,6 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path d="M68 4V68H4V4H68ZM72 0H0V72H72V0Z" fill="#B3B3B3" />
+    <path id="Vector" d="M68 4V68H4V4H68ZM72 0H0V72H72V0Z" fill="#B3B3B3" />
     <path d="M12.923 10.9583H59.0769C59.5869 10.9583 60.0761 11.1609 60.4367 11.5216C60.7974 11.8822 61 12.3714 61 12.8814V59.0352C61 59.5452 60.7974 60.0344 60.4367 60.395C60.0761 60.7557 59.5869 60.9583 59.0769 60.9583H12.9231C12.4131 60.9583 11.9239 60.7557 11.5633 60.395C11.2026 60.0344 11 59.5452 11 59.0352V12.8813C11 12.3713 11.2026 11.8822 11.5632 11.5215C11.9239 11.1609 12.413 10.9583 12.923 10.9583V10.9583Z" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10" fill="none" />
     <path d="M53.7463 4H18.2537C17.009 4 16 5.00902 16 6.2537V65.7463C16 66.991 17.009 68 18.2537 68H53.7463C54.991 68 56 66.991 56 65.7463V6.2537C56 5.00902 54.991 4 53.7463 4Z" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10" fill="none" />
     <path d="M68 53.7463V18.2537C68 17.009 66.991 16 65.7463 16L6.2537 16C5.00902 16 4 17.009 4 18.2537V53.7463C4 54.991 5.00902 56 6.2537 56L65.7463 56C66.991 56 68 54.991 68 53.7463Z" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10" fill="none" />
@@ -8,7 +8,6 @@
   </g>
   <g id="color"/>
   <g id="line">
-    <path d="M29.3333 17C21.5654 19.7553 16 27.1899 16 35.929C16 47.0139 24.9543 56 36 56C47.0457 56 56 47.0139 56 35.929C56 27.1899 50.4346 19.7553 42.6667 17" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-    <path d="M36 11L36 36" stroke="#000000" stroke-width="2" stroke-linecap="round" fill="none" />
+    <path d="M50.1421 50.1421C42.3316 57.9526 29.6684 57.9526 21.8579 50.1421C14.0474 42.3316 14.0474 29.6684 21.8579 21.8579" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" fill="none" />
   </g>
 </svg>
