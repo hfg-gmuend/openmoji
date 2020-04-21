@@ -8,7 +8,7 @@
   </g>
   <g id="color" />
   <g id="line">
-    <path d="M36 56C47.0457 56 56 47.0457 56 36C56 24.9543 47.0457 16 36 16C24.9543 16 16 24.9543 16 36C16 47.0457 24.9543 56 36 56Z" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" fill="none" />
-    <path d="M36 42.6667C39.6819 42.6667 42.6667 39.6819 42.6667 36C42.6667 32.3181 39.6819 29.3333 36 29.3333C32.3181 29.3333 29.3333 32.3181 29.3333 36C29.3333 39.6819 32.3181 42.6667 36 42.6667Z" fill="black" />
+    <circle cx="36" cy="36" r="20" fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <circle cx="36" cy="36" r="7" fill="#000000" stroke="none"/>
   </g>
 </svg>
