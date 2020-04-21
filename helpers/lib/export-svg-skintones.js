@@ -80,12 +80,13 @@ const generateSkintoneMultiple = (srcFilePath, destFilePath, skintones) => {
 
 // Construct indices for emojis, by path and by hexcode for fast lookup.
 const emojis = require('../../data/openmoji.json');
-const emojisByTarget = Object.fromEntries(emojis.map((e) => [
-  path.join(folderOut, e.hexcode + '.svg'), e
-]));
-const emojisByHexcode = Object.fromEntries(emojis.map((e) => [
-  e.hexcode, e
-]));
+const emojisByTarget = {};
+const emojisByHexcode = {};
+for (const e of emojis) {
+  const target = path.join(folderOut, e.hexcode + '.svg');
+  emojisByTarget[target] = e;
+  emojisByTarget[e.hexcode] = e;
+}
 
 for (target of process.argv.slice(2)) {
   const e = emojisByTarget[target];
