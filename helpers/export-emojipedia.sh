@@ -2,6 +2,8 @@
 set -ueo pipefail
 IFS=$'\t\n'
 
+var= #raise error
+
 # This script may be executed or sourced from any directory.
 cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/..
 
