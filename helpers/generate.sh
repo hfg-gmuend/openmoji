@@ -22,10 +22,6 @@ echo "👉 helpers/export-svg.sh"
 helpers/export-svg.sh
 
 echo "-------------------------------------------"
-echo "👉 export-svg-font.js"
-helpers/export-svg-font.js
-
-echo "-------------------------------------------"
 echo "👉 helpers/export-png.sh"
 helpers/export-png.sh
 

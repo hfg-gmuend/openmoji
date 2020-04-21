@@ -4,6 +4,15 @@ set -ueo pipefail
 # This script may be executed or sourced from any directory.
 cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/../font || exit 1
 
+# copy and prepare svg assets for OpenMoji font generator
+echo "👉 export-svg-font.js"
+helpers/export-svg-font.js
+
+# generate css file for OpenMoji fonts
+echo "👉 generate-font-css.js"
+helpers/generate-font-css.js
+
+# OpenMoji font generator via scfbuild Docker
 IMAGE='scfbuild:latest'
 NAME='scfbuild_bash'
 
