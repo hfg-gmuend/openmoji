@@ -5,6 +5,7 @@ const fs = require('fs');
 const path = require('path');
 const _ = require('lodash');
 const JSDOM = require('jsdom').JSDOM;
+const fromEntries = require('object.fromentries');
 
 const folderSrc = './src';
 const folderOut = './color/svg';
@@ -23,9 +24,9 @@ const generateSvg = (srcFilePath, destFilePath) => {
 
 // Construct an index of emojis by target path for fast lookup.
 const emojis = require('../../data/openmoji.json');
-const emojisByTarget = Object.fromEntries(emojis.map((e) => [
+const emojisByTarget = fromEntries(Object.entries(emojis.map((e) => [
   path.join(folderOut, e.hexcode + '.svg'), e
-]));
+])));
 
 for (const target of process.argv.slice(2)) {
   const e = emojisByTarget[target];
