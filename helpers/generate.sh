@@ -10,8 +10,8 @@ echo "👉 helpers/generate-data-tables.js"
 node helpers/generate-data-tables.js
 
 echo "-------------------------------------------"
-echo "👉 helpers/generate-catalog.js"
-node helpers/generate-catalog.js
+echo "👉 helpers/generate-index-html.js"
+node helpers/generate-index-html.js
 
 echo "-------------------------------------------"
 echo "👉 npm run pretty-src-svg"
