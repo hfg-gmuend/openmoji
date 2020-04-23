@@ -100,4 +100,4 @@ const Toggle = document.getElementById('modeCheckbox');
 `;
 
 // write HTML
-fs.writeFileSync('library.html', html);
+fs.writeFileSync('index.html', html);
