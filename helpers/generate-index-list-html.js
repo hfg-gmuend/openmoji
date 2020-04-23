@@ -49,7 +49,7 @@ tr:nth-child(even) {
 `;
 
 html += _.map(emojisList, (e, i) => {
-  return `
+    return `
     <tr>
         <td>${i}</td>
         <td><img class="lazy" data-src="${'black/svg/' + e.hexcode +'.svg'}" height="72" width="72"></td>
@@ -80,4 +80,4 @@ $(document).ready(function() {
 `;
 
 // write HTML
-fs.writeFileSync('index.html', html);
+fs.writeFileSync('index-list.html', html);
