@@ -8,6 +8,7 @@
   </g>
   <g id="color">
     <path d="M36,45 v-36 a28,28 0 0 1 0 56 z" fill="#3F3F3F"/>
+    <path d="M36,45 v-36 a28,28 0 0 0 0 56 z" fill="#FFFFFF"/>
   </g>
   <g id="line">
     <circle cx="36" cy="36" r="28" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>

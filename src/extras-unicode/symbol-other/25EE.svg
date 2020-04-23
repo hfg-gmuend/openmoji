@@ -10,6 +10,7 @@
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="color">
+    <path fill="#ffffff" stroke="none" d="M35,14 h1 v43 h-25 l-1,-1 z"/>
     <path fill="#3F3F3F" stroke="none" d="M37,14 h-1 v43 h25 l1,-1 z"/>
   </g>
   <g id="line">
