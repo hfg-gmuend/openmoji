@@ -39,8 +39,8 @@ body {
 html += `<div id='color'>`
 html += _.map(emojisList, (e, i) => {
     if (e.skintone === '') {
-        return `
-        <img class="lazy" data-src="${'color/72x72/' + e.hexcode +'.png'}" height="72" width="72">
+        return `<a title="${e.hexcode}">
+        <img class="lazy" data-src="${'color/72x72/' + e.hexcode +'.png'}" height="72" width="72"></a>
     `;
     }
 }).join('\n');
@@ -49,8 +49,8 @@ html += `</div><div id='black' style='display:none;'>`
 
 html += _.map(emojisList, (e, i) => {
     if (e.skintone === '') {
-        return `
-        <img class="lazy" data-src="${'black/72x72/' + e.hexcode +'.png'}" height="72" width="72">
+        return `<a title="${e.hexcode}">
+        <img class="lazy" data-src="${'black/72x72/' + e.hexcode +'.png'}" height="72" width="72"></a>
     `;
     }
 }).join('\n');
