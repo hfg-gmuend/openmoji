@@ -14,18 +14,18 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 ⬟,2B1F,extras-unicode,symbol-other,black pentagon,"equilateral polygon",loominade,2020-04-17,5
 ⬠,2B20,extras-unicode,symbol-other,white pentagon,"equilateral polygon",loominade,2020-04-17,5
 ⬣,2B23,extras-unicode,symbol-other,horizontal black hexagon ,"equilateral polygon",loominade,2020-04-17,5
-⯄,2BC4,extras-unicode,symbol-other,black octagon,"equilateral polygon",loominade,2020-04-17,5
-▬,25AC,extras-unicode,symbol-other,,,loominade,2020-04-22,?
-▭,25AD,extras-unicode,symbol-other,,,loominade,2020-04-22,?
-◐,25D0,extras-unicode,symbol-other,,,loominade,2020-04-22,?
-◑,25D1,extras-unicode,symbol-other,,,loominade,2020-04-22,?
-◧,25E7,extras-unicode,symbol-other,,,loominade,2020-04-22,?
-◨,25E8,extras-unicode,symbol-other,,,loominade,2020-04-22,?
-◩,25E9,extras-unicode,symbol-other,,,loominade,2020-04-22,?
-◪,25EA,extras-unicode,symbol-other,,,loominade,2020-04-22,?
-◭,25ED,extras-unicode,symbol-other,,,loominade,2020-04-22,?
-◮,25EE,extras-unicode,symbol-other,,,loominade,2020-04-22,?
-⬤,2B24,extras-unicode,symbol-other,,,loominade,2020-04-22,?
-⮺,2BBA,extras-unicode,symbol-other,,,loominade,2020-04-22,?
-⮺,2BBB,extras-unicode,symbol-other,,,loominade,2020-04-22,?
-⮼,2BBC,extras-unicode,symbol-other,,,loominade,2020-04-22,?
+⯄,2BC4,extras-unicode,symbol-other,black octagon,"equilateral polygon",loominade,2020-04-17,7
+▬,25AC,extras-unicode,symbol-other,black rectangle,,loominade,2020-04-22,1.1
+▭,25AD,extras-unicode,symbol-other,white rectangle,,loominade,2020-04-22,1.1
+◐,25D0,extras-unicode,symbol-other,circle with left half black,,loominade,2020-04-22,1.1
+◑,25D1,extras-unicode,symbol-other,circle with right half black,,loominade,2020-04-22,1.1
+◧,25E7,extras-unicode,symbol-other,square with left half black,,loominade,2020-04-22,1.1
+◨,25E8,extras-unicode,symbol-other,square with right half black,,loominade,2020-04-22,1.1
+◩,25E9,extras-unicode,symbol-other,square with upper left diagonal black,,loominade,2020-04-22,1.1
+◪,25EA,extras-unicode,symbol-other,square with lower right diagonal black,,loominade,2020-04-22,1.1
+◭,25ED,extras-unicode,symbol-other,up-pointing triangle with left half black,,loominade,2020-04-22,1.1
+◮,25EE,extras-unicode,symbol-other,up-pointing triangle with right half black,,loominade,2020-04-22,1.1
+⬤,2B24,extras-unicode,symbol-other,black large circle,,loominade,2020-04-22,1.1
+⮺,2BBA,extras-unicode,symbol-other,overlapping white squares,,loominade,2020-04-22,1.1
+⮺,2BBB,extras-unicode,symbol-other,overlapping white and black squares,,loominade,2020-04-22,1.1
+⮼,2BBC,extras-unicode,symbol-other,overlapping black squares,,loominade,2020-04-22,1.1
