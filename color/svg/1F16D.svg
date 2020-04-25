@@ -1,0 +1,10 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="color">
+    <circle cx="36" cy="36" r="26.68" fill="#fff" fill-rule="evenodd" paint-order="normal"/>
+  </g>
+  <g id="line">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5.84" d="m52.34 44.08c-1.288 1.142-2.984 1.837-4.845 1.837-4.03 0-7.301-3.268-7.301-7.301v-5.84 5.84-5.84c0-4.033 3.271-7.301 7.301-7.301 1.86 0 3.557 0.695 4.845 1.837" clip-rule="evenodd"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5.84" d="m31.78 44.69c-1.288 1.142-2.984 1.837-4.845 1.837-4.03 0-7.301-3.268-7.301-7.301v-5.84 5.84-5.84c0-4.033 3.271-7.301 7.301-7.301 1.86 0 3.557 0.695 4.845 1.837" clip-rule="evenodd"/>
+    <circle cx="36" cy="36" r="26.68" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.74" paint-order="normal"/>
+  </g>
+</svg>
