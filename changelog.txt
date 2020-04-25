@@ -11,14 +11,15 @@ New:
     1FAA0 Plunger, 1FA9A Carpentary Saw, 1FA9B Screwdriver, 1FAA1 Sewing Needle,
     1FAA4 Mouse Trap, 1FAA7 Placard, 1FA9E Mirror, 1FA83 Boomerang, 1FAA3 Bucket,
     1FAB6 Feather, 1FAB4 Potted Plant, 1FA9D Hook, 1FAA6 Headstone
+    by Liz Bravo @lizbravob
+  + Web syndication/RSS logo, Tardis and Power symbols by @fuddl
+  + Narwhal, Beluga, Porpoise by @kriskowal
+  + More geometric Unicode shapes in extras-unicode/symbol-other by @loominade
   + Doe
   + Texas Flag
   + Esperanto Flag
-  + Narwhal, Beluga, Porpoise by @kriskowal
   + No Handshaking
   + Dejected Face
-  + Web syndication/RSS logo and Tardis by @fuddl
-  + More geometric Unicode shapes in extras-unicode/symbol-other @loominade
 
 Fix:
   * Replaced Dolphin by @kriskowal
@@ -41,7 +42,8 @@ Fix:
   * all Prohibited Signs
   * Exploding Head by @taralynnconnelly
   * bed in Bed and Person in Bed
-  * skullcap in  Person With Skullcap
+  * skullcap in Person With Skullcap
+  * size of Record Button by @fuddl
 
 --------------------------------------------------------------------------------
 
