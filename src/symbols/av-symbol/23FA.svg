@@ -12,6 +12,6 @@
     <circle cx="36" cy="36" r="7" fill="#000000" stroke="none"/>
   </g>
   <g id="color-foreground">
-    <circle cx="36" cy="36" r="7" fill="#D0312E" stroke="none"/>
+    <circle cx="36" cy="36" r="7" fill="#D22F27" stroke="none"/>
   </g>
 </svg>
