@@ -1,0 +1,60 @@
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="grid">
+    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <rect x="5" y="17" width="62" height="38" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="#1E50A0"/>
+    <g id="milky-way">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M32 33C32 33.5523 31.5523 34 31 34C31.5523 34 32 34.4477 32 35C32 34.4477 32.4477 34 33 34C32.4477 34 32 33.5523 32 33Z" stroke-linecap="round" stroke-linejoin="round" stroke="white" fill="white" stroke-width=".5"/>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M39 36C39 36.5523 38.5523 37 38 37C38.5523 37 39 37.4477 39 38C39 37.4477 39.4477 37 40 37C39.4477 37 39 36.5523 39 36Z" stroke-linecap="round" stroke-linejoin="round" stroke="white" fill="white" stroke-width=".5"/>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M38 30C38 30.5523 37.5523 31 37 31C37.5523 31 38 31.4477 38 32C38 31.4477 38.4477 31 39 31C38.4477 31 38 30.5523 38 30Z" stroke-linecap="round" stroke-linejoin="round" stroke="white" fill="white" stroke-width=".5"/>
+      <circle cx="41.5" cy="35.5" r="0.5" fill="white"/>
+      <circle cx="43.5" cy="34.5" r="0.5" fill="white"/>
+      <circle cx="37.5" cy="40.5" r="0.5" fill="white"/>
+      <circle cx="35.5" cy="37.5" r="0.5" fill="white"/>
+      <circle cx="36.5" cy="35.5" r="0.5" fill="white"/>
+      <circle cx="35.5" cy="32.5" r="0.5" fill="white"/>
+      <circle cx="29.5" cy="38.5" r="0.5" fill="white"/>
+      <circle cx="33.5" cy="38.5" r="0.5" fill="white"/>
+      <circle cx="27.5" cy="35.5" r="0.5" fill="white"/>
+      <circle cx="41.5" cy="29.5" r="0.5" fill="white"/>
+      <circle cx="33.5" cy="28.5" r="0.5" fill="white"/>
+      <circle cx="37.5" cy="27.5" r="0.5" fill="white"/>
+      <circle cx="28.5" cy="33.5" r="0.5" fill="white"/>
+      <circle cx="43.5" cy="30.5" r="0.5" fill="white"/>
+      <circle cx="39.5" cy="33.5" r="0.5" fill="white"/>
+    </g>
+    <g id="wreath">
+      <g id="wreath__left">
+        <path d="M26 24L25.5 25L27.5 23.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path d="M24 25.5C23.6 26.3 23.5 27.1667 23.5 27.5L24.5 27" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path  d="M21 30.5C21.3333 31.6667 22.2 33.6 23 32M22 27.5C22 28.6667 22.3 30.7 23.5 29.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path d="M20.5 33.5C20.8333 34.6667 21.8 36.6 23 35" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path d="M20 36C20.5 37.1667 21.8 39.1 23 37.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path d="M21 39.5C22 41 24 41 24.5 39.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path d="M23.5 42.5C24.1667 43 26 43.9 26 41.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path d="M25.5 45C26 45.1667 27.1 45.4 27.5 45C27.9 44.6 27.8333 43.8333 27.5 43.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path d="M32 48C32 48 33.1928 48.8072 34.5 47.5C34.9 47.1 34 46.6667 33.5 46.5C32.5 46.5 29.8 46.4 29 46" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      </g>
+      <g id="wreath__right">
+        <path d="M46.5997 24L47.0997 25L45.0997 23.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path d="M48.5997 25.5C48.9997 26.3 49.0997 27.1667 49.0997 27.5L48.0997 27" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path d="M51.5997 30.5C51.2663 31.6667 50.3997 33.6 49.5997 32M50.5997 27.5C50.5997 28.6667 50.2997 30.7 49.0997 29.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path d="M52.0997 33.5C51.7663 34.6667 50.7997 36.6 49.5997 35" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path d="M52.5997 36C52.0997 37.1667 50.7997 39.1 49.5997 37.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path d="M51.5997 39.5C50.5997 41 48.5997 41 48.0997 39.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path d="M49.0997 42.5C48.433 43 46.5997 43.9 46.5997 41.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path d="M47.0997 45C46.5997 45.1667 45.4997 45.4 45.0997 45C44.6997 44.6 44.7663 43.8333 45.0997 43.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path d="M40.5997 48C40.5997 48 39.4069 48.8072 38.0997 47.5C37.6997 47.1 38.5997 46.6667 39.0997 46.5C40.0997 46.5 42.7997 46.4 43.5997 46" stroke="white" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      </g>
+    </g>
+    <circle cx="36" cy="34" r="10.5" stroke="white" stroke-width="1.15" fill="none"/>
+  </g>
+  <g id="line">
+    <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
