@@ -45,7 +45,8 @@ Fix:
   * skullcap in Person With Skullcap
   * size of Record Button by @fuddl
   * rainbow in Rainbow
-  * figures in Restroom, Wheelchair Symbol, Men's Room, Women's Room
+  * people in Restroom, Men's Room, Women's Room
+  * person in Wheelchair Symbol
 
 --------------------------------------------------------------------------------
 
