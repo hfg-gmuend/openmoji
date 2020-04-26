@@ -59466,8 +59466,47 @@
     "order": ""
   },
   {
+<<<<<<< HEAD
     "emoji": "🄍",
     "hexcode": "1F10D",
+=======
+    "emoji": "🏴󠁤󠁥󠁢󠁥󠁿",
+    "hexcode": "1F3F4-E0064-E0065-E0062-E0065-E007F",
+    "group": "extras-unicode",
+    "subgroups": "subdivision-flag",
+    "annotation": "berlin flag",
+    "tags": "",
+    "openmoji_tags": "bear, city, capital",
+    "openmoji_author": "Alexander Müller",
+    "openmoji_date": "2020-04-26",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": "?",
+    "order": ""
+  },
+  {
+    "emoji": "🏴󠁵󠁳󠁣󠁡󠁿",
+    "hexcode": "1F3F4-E0075-E0073-E0063-E0061-E007F",
+    "group": "extras-unicode",
+    "subgroups": "subdivision-flag",
+    "annotation": "california flag",
+    "tags": "",
+    "openmoji_tags": "bear, republic, state",
+    "openmoji_author": "Alexander Müller",
+    "openmoji_date": "2020-04-26",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": "?",
+    "order": ""
+  },
+  {
+    "emoji": "🏴󠁵󠁳󠁴󠁸󠁿",
+    "hexcode": "1F3F4-E0075-E0073-E0074-E0078-E007F",
+>>>>>>> b2b20b7b1... added subdivision flags with bears
     "group": "extras-unicode",
     "subgroups": "symbol-other",
     "annotation": "circled zero with slash",
