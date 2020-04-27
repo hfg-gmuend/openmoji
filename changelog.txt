@@ -21,6 +21,7 @@ New:
   + No Handshaking
   + Dejected Face
   + Creative Commons Symbols
+  + LinkedIn Logo
 
 Fix:
   * Replaced Dolphin by @kriskowal
