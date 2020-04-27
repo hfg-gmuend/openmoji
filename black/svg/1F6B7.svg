@@ -1,13 +1,13 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
     <circle cx="36" cy="36" r="30" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M57.6551,48.4862a24.9938,24.9938,0,0,0-39.701-29.7776Z"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.87,22.6455a24.9948,24.9948,0,0,0,39.864,29.9Z"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M31.5964,28.9409,32,26s3-7,6,0v7.7439"/>
-    <line x1="35" x2="35" y1="26" y2="31.4938" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="34" x2="33" y1="36.9939" y2="41" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M31,35,29,54s1,6,3,1l3-12s.3412-3.0061,1.6706-4.0031"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M38,39.9063,39,43s1,4,2,5l3,4s0,6-3,3l-4-6s-2-4-2-5"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m55.66 51.44a24.99 24.99 0 0 0-35.06-35.13z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m16.99 19.77a24.99 24.99 0 0 0 35.2 35.27z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m31.83 27.25c0.2562-1.939 0.6331-4.406 3.33-4.302 3.715 0.1434 2.841 6.3 2.841 10.8"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m35 26v4.419"/>
+    <line x1="34" x2="33" y1="36.99" y2="41" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m31.16 34.03-2.162 19.97s1 6 3 1l3-12s0.2726-2.401 1.28-3.623"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m38.44 41.27 0.5608 1.735s1.485 3.892 2 5l2.407 4.539s0.5933 5.461-2.407 2.461c-1.538-2.353-3.531-5.014-4.635-7.323-0.5857-1.26-1.365-3.053-1.365-3.677"/>
     <circle cx="35" cy="17" r="2" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>

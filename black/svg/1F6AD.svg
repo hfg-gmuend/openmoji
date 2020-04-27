@@ -1,9 +1,10 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.99" points="51.001,40.9648 51.001,33.9648 44,33.9648"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.99" points="22.9583,33.9648 17,33.9648 17.001,40.9648 30,40.9648"/>
-    <line x1="55.001" x2="55.001" y1="34" y2="41" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.99"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.99" d="M49.001,24c0,1.6572,1.3428,3,3,3c1.6572,0,3,1.3428,3,3"/>
-    <rect x="32.4645" y="4.1802" width="7.0711" height="63.6396" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -14.9117 36)" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.99" d="m26.48 33.96h-9.479l1e-3 7h16.52m16.32 0h1.165v-7h-8.201"/>
+    <line x1="55" x2="55" y1="33.95" y2="40.95" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.99"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.99" d="m49 24c0 1.657 1.343 3 3 3s3 1.343 3 3"/>
+    <circle cx="36" cy="36" r="30" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m55.66 51.44a24.99 24.99 0 0 0-35.06-35.13z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m16.99 19.77a24.99 24.99 0 0 0 35.2 35.27z"/>
   </g>
 </svg>
