@@ -17,7 +17,8 @@ New:
   + Narwhal, Beluga, Porpoise by @kriskowal
   + No Handshaking
   + Dejected Face
-  
+  + Creative Commons Symbols
+
 Fix:
   * Replaced Dolphin by @kriskowal
   * Replaced Whale and Spouting Whale with blue whales by @kriskowal
