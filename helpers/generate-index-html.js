@@ -10,7 +10,7 @@ const emojisList = require('../data/openmoji.json');
 
 let html = `
 <!DOCTYPE html>
-<html>
+<html color-scheme='light'>
 <head>
 <title>OpenMoji Catalog</title>
 <meta charset="UTF-8">
@@ -19,28 +19,62 @@ let html = `
 <style>
 [color-scheme='dark'] {
     --background-color-body: #17181c;
-    --background-color-toggle: white;
+    --background-hover: #333;
 }
 
 [color-scheme='light'] {
-    --background-color-toggle: #17181c;
     --background-color-body: white;
+    --background-hover: #ddd;
 }
 body {
     max-width: 925px;
     margin: 0 auto;
     background-color: var(--background-color-body)
 }
+button {
+    display: inline-block;
+    border: none;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    background: transparent;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-size: 1rem;
+    cursor: pointer;
+    text-align: center;
+    transition: background 250ms ease-in-out, 
+                transform 150ms ease;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    width: 72px;
+    height: 72px;
+}
+
+button:hover,
+button:focus {
+    background: var(--background-hover);
+}
+
+button:focus {
+    outline: 1px solid var(--background-color-toggle);
+    outline-offset: -4px;
+}
+
+button:active {
+    transform: scale(0.95);
+}
 </style>
 </head>
 <body>
+<p style='text-align: center; padding: 15px; font-style: italic; color: #888;'> click to copy codepoint </p>
 `;
 
 html += `<div id='color'>`
 html += _.map(emojisList, (e, i) => {
     if (e.skintone === '') {
-        return `<a title="${e.hexcode}">
-        <img class="lazy" data-src="${'color/72x72/' + e.hexcode +'.png'}" height="72" width="72"></a>
+        return `<button onclick="copyToClipboard('${e.hexcode}')"><a title="${e.annotation} - ${e.hexcode}">
+        <img class="lazy" data-src="${'color/72x72/' + e.hexcode +'.png'}" height="72" width="72"></a></button>
     `;
     }
 }).join('\n');
@@ -57,43 +91,52 @@ html += _.map(emojisList, (e, i) => {
 
 html += `</div>
 
-<div style='position: fixed; bottom: 10px; left: 10px; background-color: var(--background-color-toggle); color:var(--background-color-body); padding: 5px; border-radius: 5px;'>
+<div style='position: fixed; bottom: 10px; left: 10px; background-color: #aaa; color:var(--background-color-body); padding: 5px; border-radius: 5px;'>
 <input type="checkbox" id="colorblackCheckbox"/>
 <label for="colorblackCheckbox" id="colorblackToggle"> Toggle Black/Color Emojis</label>
 </div>
 
-<div style='position: fixed; bottom: 10px; right: 10px; background-color: var(--background-color-toggle); color:var(--background-color-body); padding: 5px; border-radius: 5px;'>
+<div style='position: fixed; bottom: 10px; right: 10px; background-color: #aaa; color:var(--background-color-body); padding: 5px; border-radius: 5px;'>
 <input type="checkbox" id="modeCheckbox"/>
 <label for="modeCheckbox" id="modeToggle"> Toggle Background Color</label>
 </div>
 
 <script type="text/javascript">
-$(document).ready(function() {
-  // lazy loading images
-  $('.lazy').Lazy();
+$(document).ready(function () {
+    // lazy loading images
+    $('.lazy').Lazy();
 });
 
 const colorblackToggle = document.getElementById('colorblackCheckbox');
 
 colorblackToggle.addEventListener('change', () => {
-        if (colorblackToggle.checked) {
-            document.getElementById('black').style = "";
-            document.getElementById('color').style = "display:none";
-                } else {
-                    document.getElementById('black').style = "display:none";
-                    document.getElementById('color').style = "";
-        }
-    });
+    if (colorblackToggle.checked) {
+        document.getElementById('black').style = "";
+        document.getElementById('color').style = "display:none";
+    } else {
+        document.getElementById('black').style = "display:none";
+        document.getElementById('color').style = "";
+    }
+});
 
-const Toggle = document.getElementById('modeCheckbox');
+const modeToggle = document.getElementById('modeCheckbox');
 
-    Toggle.addEventListener('change', () => {
-        if (Toggle.checked) {
-            document.documentElement.setAttribute('color-scheme', 'dark');
-        } else {
-            document.documentElement.setAttribute('color-scheme', 'light');
-        }
-    });
+modeToggle.addEventListener('change', () => {
+    if (modeToggle.checked) {
+        document.documentElement.setAttribute('color-scheme', 'dark');
+    } else {
+        document.documentElement.setAttribute('color-scheme', 'light');
+    }
+});
+
+function copyToClipboard(value) {
+    var temp = document.createElement('input')
+    document.body.append(temp);
+    temp.value = value
+    temp.select();
+    document.execCommand("copy");
+    temp.parentNode.removeChild(temp);
+}
 </script>
 </body>
 </html>
