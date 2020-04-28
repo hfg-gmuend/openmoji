@@ -51,6 +51,7 @@ Fix:
   * rainbow in Rainbow
   * people in Restroom, Men's Room, Women's Room
   * person in Wheelchair Symbol
+  * size of Oncoming Fist
 
 --------------------------------------------------------------------------------
 
