@@ -31,7 +31,7 @@ Fix:
     Orthodox Cross, Wheel of Dharma, Taurus, Cancer, Leo, Aquarius, Pisces, Ophiuchus
   * Flags:
        Portugal, Afghanistan, Laos, Turkey, Kazakhstan, Maldives, Jersey, New Caledonia, 
-       Niger, Antarctica, Mayotte, Hong Kong, Aruba, Pirate Flag
+       Niger, Antarctica, Mayotte, Hong Kong, Aruba, Pirate, Isle of Man 
   * contour in Cat
   * contour in Victory Hand
   * redesign Llama
