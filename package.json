@@ -23,8 +23,11 @@
     "pretty-src-svg": "./helpers/pretty-src-svg.sh",
     "export-svg": "./helpers/export-svg.sh",
     "export-png": "./helpers/export-png.sh",
+    "export-pdf": "./helpers/export-pdf.sh",
     "export-zip": "./helpers/export-zip.sh",
     "export-emojipedia": "./helpers/export-emojipedia.sh",
+    "export-openmoji-ios": "node helpers/export-openmoji-ios.js",
+    "generate-data-tables": "node helpers/generate-data-tables.js",
     "generate": "./helpers/generate.sh",
     "generate-font": "./helpers/generate-fonts.sh"
   },
