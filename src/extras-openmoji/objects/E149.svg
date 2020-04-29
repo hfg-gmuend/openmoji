@@ -10,12 +10,12 @@
     <rect x="25" y="12" rx="1" width="21" height="5" fill="#1e50a0"/>
     <rect x="23" y="16" rx="1" width="26" height="48" fill="#1e50a0"/>
     <path fill="#fff" fill-rule="evenodd" d="m38 9.6c0-0.8837-0.8954-1.6-2-1.6s-2 0.7163-2 1.6v2.4h4z" clip-rule="evenodd"/>
-    <rect x="37" y="53" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity=".502"/>
-    <rect x="26" y="53" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity=".502"/>
-    <rect x="37" y="43" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity=".502"/>
-    <rect x="26" y="43" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity=".502"/>
-    <rect x="37" y="33" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity=".502"/>
-    <rect x="26" y="33" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity=".502"/>
+    <rect x="37" y="53" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity="0.502"/>
+    <rect x="26" y="53" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity="0.502"/>
+    <rect x="37" y="43" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity="0.502"/>
+    <rect x="26" y="43" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity="0.502"/>
+    <rect x="37" y="33" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity="0.502"/>
+    <rect x="26" y="33" rx="1.125" ry="1.143" width="9" height="8" fill="#3f3f3f" fill-opacity="0.502"/>
     <rect x="37" y="23" rx="1.125" ry="1.143" width="9" height="8" fill="#fff"/>
     <rect x="26" y="23" rx="1.125" ry="1.143" width="9" height="8" fill="#fff"/>
   </g>
