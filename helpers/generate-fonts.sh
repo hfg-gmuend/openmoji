@@ -1,7 +1,18 @@
 #!/bin/bash
 set -ueo pipefail
 
-# This script may be executed or sourced from any directory.
+# -- prepare assets --
+cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/.. || exit 1
+
+# copy and prepare svg assets for OpenMoji font generator
+echo "👉 generate-font-glyphs.js"
+helpers/generate-font-glyphs.js
+
+# generate css file for OpenMoji fonts
+echo "👉 generate-font-css.js"
+helpers/generate-font-css.js
+
+# -- OpenMoji font generator via scfbuild Docker --
 cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/../font || exit 1
 
 IMAGE='scfbuild:latest'

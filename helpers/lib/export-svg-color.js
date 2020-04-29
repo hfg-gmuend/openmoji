@@ -1,6 +1,8 @@
+#!/usr/bin/env node
+'use strict';
+
 const fs = require('fs');
 const path = require('path');
-const _ = require('lodash');
 const JSDOM = require('jsdom').JSDOM;
 
 const folderSrc = './src';
@@ -18,14 +20,19 @@ const generateSvg = (srcFilePath, destFilePath) => {
   writeSvg(destFilePath, doc.querySelector('svg').outerHTML);
 }
 
-let emojis = require('../data/openmoji.json');
-emojis = _.filter(emojis, (e) => { return e.skintone == ''});
-console.log('Export SVG Color: ' + emojis.length);
+// Construct an index of emojis by target path for fast lookup.
+const emojis = require('../../data/openmoji.json');
+const emojisByTarget = {};
+for (const e of emojis) {
+  const target = path.join(folderOut, e.hexcode + '.svg');
+  emojisByTarget[target] = e;
+}
 
-emojis.forEach(e => {
+for (const target of process.argv.slice(2)) {
+  const e = emojisByTarget[target];
   // console.log(e.hexcode);
   generateSvg(
     path.join(folderSrc, e.group, e.subgroups, e.hexcode + '.svg'),
-    path.join(folderOut, e.hexcode + '.svg')
+    target,
   );
-});
+}

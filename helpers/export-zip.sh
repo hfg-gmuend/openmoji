@@ -5,13 +5,13 @@ set -ueo pipefail
 cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/..
 
 # -- svg and png --
-helpers/create-zip.sh color/svg/ _tmp/openmoji-svg-color.zip
-helpers/create-zip.sh color/72x72/ _tmp/openmoji-72x72-color.zip
-helpers/create-zip.sh color/618x618/ _tmp/openmoji-618x618-color.zip
+helpers/lib/create-zip.sh color/svg/ _tmp/openmoji-svg-color.zip
+helpers/lib/create-zip.sh color/72x72/ _tmp/openmoji-72x72-color.zip
+helpers/lib/create-zip.sh color/618x618/ _tmp/openmoji-618x618-color.zip
 
-helpers/create-zip.sh black/svg/ _tmp/openmoji-svg-black.zip
-helpers/create-zip.sh black/72x72/ _tmp/openmoji-72x72-black.zip
-helpers/create-zip.sh black/618x618/ _tmp/openmoji-618x618-black.zip
+helpers/lib/create-zip.sh black/svg/ _tmp/openmoji-svg-black.zip
+helpers/lib/create-zip.sh black/72x72/ _tmp/openmoji-72x72-black.zip
+helpers/lib/create-zip.sh black/618x618/ _tmp/openmoji-618x618-black.zip
 
 # -- fonts --
 (

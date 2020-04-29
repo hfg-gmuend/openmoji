@@ -7,24 +7,24 @@ cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/.. || exit 1
 
 echo "-------------------------------------------"
 echo "👉 helpers/generate-data-tables.js"
-node helpers/generate-data-tables.js
+helpers/generate-data-tables.js
 
 echo "-------------------------------------------"
 echo "👉 helpers/generate-index-html.js"
-node helpers/generate-index-html.js
+helpers/generate-index-html.js
 
 echo "-------------------------------------------"
-echo "👉 npm run pretty-src-svg"
-npm run pretty-src-svg
+echo "👉 helpers/pretty-src-svg.sh"
+helpers/pretty-src-svg.sh
 
 echo "-------------------------------------------"
-echo "👉 npm run export-svg"
-npm run export-svg
+echo "👉 helpers/export-svg.sh"
+helpers/export-svg.sh
 
 echo "-------------------------------------------"
-echo "👉 npm run export-svg-font"
-npm run export-svg-font
+echo "👉 helpers/export-png.sh"
+helpers/export-png.sh
 
 echo "-------------------------------------------"
-echo "👉 npm run export-png"
-npm run export-png
+echo "👉 helpers/clean.sh"
+helpers/clean.sh
