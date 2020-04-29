@@ -73,8 +73,10 @@ button:active {
 html += `<div id='color'>`
 html += _.map(emojisList, (e, i) => {
     if (e.skintone === '') {
-        return `<button onclick="copyToClipboard('${e.hexcode}')"><a title="${e.annotation} - ${e.hexcode}">
-        <img class="lazy" data-src="${'color/72x72/' + e.hexcode +'.png'}" height="72" width="72"></a></button>
+        return `<button onclick="copyToClipboard('${e.hexcode}')">
+        <img class="lazy"  alt="${e.annotation}" title="${e.annotation} - ${e.hexcode}" 
+        data-src="${'color/72x72/' + e.hexcode +'.png'}" height="72" width="72">
+        </button>
     `;
     }
 }).join('\n');
@@ -83,8 +85,10 @@ html += `</div><div id='black' style='display:none;'>`
 
 html += _.map(emojisList, (e, i) => {
     if (e.skintone === '') {
-        return `<a title="${e.hexcode}">
-        <img class="lazy" data-src="${'black/72x72/' + e.hexcode +'.png'}" height="72" width="72"></a>
+        return `<button onclick="copyToClipboard('${e.hexcode}')">
+        <img class="lazy"  alt="${e.annotation}" title="${e.annotation} - ${e.hexcode}" 
+        data-src="${'black/72x72/' + e.hexcode +'.png'}" height="72" width="72">
+        </button>
     `;
     }
 }).join('\n');
