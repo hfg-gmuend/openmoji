@@ -30,7 +30,7 @@ Fix:
   * signs and align Aries, Gemini, Virgo, Scorpio, Capricorn, Libra, Sagittarius, Om,
     Orthodox Cross, Wheel of Dharma, Taurus, Cancer, Leo, Aquarius, Pisces, Ophiuchus
   * Flags:
-       Portugal, Afghanistan, Laos, Turkey, Kazakhstan, Maldives, Jersey, New Caledonia, 
+       Portugal, Afghanistan, Laos, Turkey, Kazakhstan, Maldives, Jersey, New Caledonia,
        Niger, Antarctica, Mayotte, Hong Kong, Aruba, Pirate, Isle of Man, Iraq,
        Bhutan
   * contour in Cat
@@ -52,6 +52,9 @@ Fix:
   * people in Restroom, Men's Room, Women's Room
   * person in Wheelchair Symbol
   * size of Oncoming Fist
+
+Tech:
+  * Blazing fast new build system by Kris Kowal @kriskowal
 
 --------------------------------------------------------------------------------
 
