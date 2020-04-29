@@ -10,11 +10,11 @@ const emojisList = require('../data/openmoji.json');
 
 let html = `
 <!DOCTYPE html>
-<html color-scheme='light'>
+<html lang='en'>
 <head>
 <title>OpenMoji Catalog</title>
 <meta charset="UTF-8">
-<script src="https://code.jquery.com/jquery-3.3.1.min.js" charset="utf-8"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
 <style>
 [color-scheme='dark'] {
@@ -66,8 +66,8 @@ button:active {
 }
 </style>
 </head>
-<body>
-<p style='text-align: center; padding: 15px; font-style: italic; color: #888;'> click to copy codepoint </p>
+<body color-scheme='light'>
+<p style='text-align: center; padding: 15px; font-style: italic; color: #999;'> click to copy codepoint </p>
 `;
 
 html += `<div id='color'>`
@@ -75,7 +75,7 @@ html += _.map(emojisList, (e, i) => {
     if (e.skintone === '') {
         return `<button onclick="copyToClipboard('${e.hexcode}')">
         <img class="lazy"  alt="${e.annotation}" title="${e.annotation} - ${e.hexcode}" 
-        data-src="${'color/72x72/' + e.hexcode +'.png'}" height="72" width="72">
+        src="${'color/72x72/' + e.hexcode +'.png'}" height="72" width="72">
         </button>
     `;
     }
@@ -87,7 +87,7 @@ html += _.map(emojisList, (e, i) => {
     if (e.skintone === '') {
         return `<button onclick="copyToClipboard('${e.hexcode}')">
         <img class="lazy"  alt="${e.annotation}" title="${e.annotation} - ${e.hexcode}" 
-        data-src="${'black/72x72/' + e.hexcode +'.png'}" height="72" width="72">
+        src="${'black/72x72/' + e.hexcode +'.png'}" height="72" width="72">
         </button>
     `;
     }
@@ -105,7 +105,7 @@ html += `</div>
 <label for="modeCheckbox" id="modeToggle"> Toggle Background Color</label>
 </div>
 
-<script type="text/javascript">
+<script>
 $(document).ready(function () {
     // lazy loading images
     $('.lazy').Lazy();
@@ -127,9 +127,9 @@ const modeToggle = document.getElementById('modeCheckbox');
 
 modeToggle.addEventListener('change', () => {
     if (modeToggle.checked) {
-        document.documentElement.setAttribute('color-scheme', 'dark');
+        document.body.setAttribute('color-scheme', 'dark');
     } else {
-        document.documentElement.setAttribute('color-scheme', 'light');
+        document.body.setAttribute('color-scheme', 'light');
     }
 });
 
