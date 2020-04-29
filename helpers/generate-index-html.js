@@ -24,12 +24,13 @@ let html = `
 
 [color-scheme='light'] {
     --background-color-body: white;
-    --background-hover: #ddd;
+    --background-hover: url("guidelines/openmoji-template.svg") #fff;
 }
 body {
-    max-width: 925px;
+    max-width: 910px;
     margin: 0 auto;
-    background-color: var(--background-color-body)
+    background-color: var(--background-color-body);
+    transition: background-color 0.5s ease;
 }
 button {
     display: inline-block;
@@ -54,6 +55,7 @@ button {
 button:hover,
 button:focus {
     background: var(--background-hover);
+    transform: scale(1.5);
 }
 
 button:focus {
@@ -62,7 +64,7 @@ button:focus {
 }
 
 button:active {
-    transform: scale(0.95);
+    transform: scale(1.4);
 }
 </style>
 </head>

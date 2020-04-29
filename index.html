@@ -14,12 +14,13 @@
 
 [color-scheme='light'] {
     --background-color-body: white;
-    --background-hover: #ddd;
+    --background-hover: url("guidelines/openmoji-template.svg") #fff;
 }
 body {
     max-width: 925px;
     margin: 0 auto;
-    background-color: var(--background-color-body)
+    background-color: var(--background-color-body);
+    transition: background-color 0.5s ease;
 }
 button {
     display: inline-block;
@@ -44,6 +45,7 @@ button {
 button:hover,
 button:focus {
     background: var(--background-hover);
+    transform: scale(1.5);
 }
 
 button:focus {
@@ -52,11 +54,11 @@ button:focus {
 }
 
 button:active {
-    transform: scale(0.95);
+    transform: scale(1.4);
 }
 </style>
 </head>
-<body  color-scheme='light'>
+<body color-scheme='light'>
 <p style='text-align: center; padding: 15px; font-style: italic; color: #999;'> click to copy codepoint </p>
 <div id='color'><button onclick="copyToClipboard('1F600')">
         <img class="lazy"  alt="grinning face" title="grinning face - 1F600" 
