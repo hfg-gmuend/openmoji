@@ -57,7 +57,7 @@ e.g. 🐌
 
 Before you submit we ask you to normalize the formatting of the source code of your svg file(s). We want to be agnostic in terms of the editor used to produce the emojis. Every svg editor e.g. Adobe Illustrator, Sketch App, Inkscape etc. produce slightly different formated svg files on export. More information about how to export files can be found in our styleguide. As we want to have a consistent svg source code style, hence please run the command below to normalize all your files or an individual file. 
 
-Normalize all files in src folder (⚠ this will take a long time):
+Normalize all files in src folder (⚠ this might take some time):
 
 ```bash
 npm run pretty-src-svg
@@ -77,7 +77,7 @@ To ensure that all of our designs are consistent, please use the [OpenMoji Teste
 
 Add your meta infos at the very end of `data/enhancements-emoji-unicode-data.csv` N.B. the properties prefixed `openmoji_` are not part of the Unicode specification.
 
-Run `node helpers/generate-data-tables.js` to generate from the .csv files above the deduced OpenMoji data tables. This is important as the automated unit test and other mechanisms rely on the central data file `data/openmoji.json`
+Run `npm run generate-data-tables` to generate from the .csv files above the deduced OpenMoji data tables. This is important as the automated unit test and other mechanisms rely on the central data file `data/openmoji.json`
 
 ### 6. Submission
 
@@ -113,7 +113,7 @@ If a subgroup needs more than 64 code points, then the subgroup continues in the
 
 ### Other files 
 
-Next add the information about the new character to [data/extras-openmoji.csv](data/extras-openmoji.csv). Finally run `node helpers/generate-data-tables.js` and then create a Pull Request.
+Next add the information about the new character to [data/extras-openmoji.csv](data/extras-openmoji.csv). Finally run `npm run generate-data-tables` and then create a Pull Request.
 
 ## 🐞 Fix a Bug
 If it's not on the issues list, add it. If it's already on the [issues](https://github.com/hfg-gmuend/openmoji/issues) list, assign it to yourself or comment on the issue indicating you're working on it. Go ahead and fix it and submit a PR.
@@ -137,7 +137,7 @@ npm install
 
 ### bash scripts
 
-If you want to run the bash scripts  (.sh files) in the `helpers` folder e.g. for exprting png files, you will have to [install additional dependencies](https://github.com/hfg-gmuend/openmoji/wiki#additional-dependencies).
+If you want to run the bash scripts  (.sh files) in the `helpers` folder e.g. for exporting png files, you will have to [install additional dependencies](https://github.com/hfg-gmuend/openmoji/tree/master/helpers#additional-dependencies).
 
 ## ⁉️ How to Run the Tests
 
