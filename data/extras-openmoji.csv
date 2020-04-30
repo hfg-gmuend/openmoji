@@ -15,6 +15,7 @@ E043,extras-openmoji,brand,instagram,"instagram, facebook, company, social-media
 E044,extras-openmoji,brand,youtube,"social, platform, video, brand",Romain Bazile,2019-09-03
 E045,extras-openmoji,brand,github,"social, platform, code, git, brand",Romain Bazile,2019-09-06
 E046,extras-openmoji,brand,linkedin,"business",Daniel Utz,2020-04-25
+E047,extras-openmoji,brand,android,"google play",Alexander Müller,2020-04-26
 E080,extras-openmoji,emergency,assembly point,,Guemil Project,2019-01-14
 E081,extras-openmoji,emergency,assembly group,,Guemil Project,2019-01-14
 E082,extras-openmoji,emergency,authority instruction,,Guemil Project,2019-01-14
@@ -159,10 +160,11 @@ E245,extras-openmoji,ui-element,toggle button state B,,Baris Camli,2018-04-18
 E0C1,extras-openmoji,food-drink,maultasche,"swabian, schwäbisch, schwaebisch, meal, germany",Fanny Jung,2019-05-06
 E146,extras-openmoji,objects,spätzlepresse,"swabian, schwäbisch, schwaebisch, spätzle, germany",Fanny Jung,2019-05-06
 E147,extras-openmoji,objects,european name badge,,Selina Lange,2019-05-06
+E148,extras-openmoji,objects,kehrwoche,"swabian, schwäbisch, schwaebisch, germany, broom",Tonia Reinhardt,2019-05-07
+E149,extras-openmoji,objects,tardis,"time machine, doctor who, police booth, police box",Alexander Müller,2020-04-19
 E0C3,extras-openmoji,food-drink,pretzel,"swabian, schwäbisch, schwaebisch, brezel, germany",Tonia Reinhardt,2019-05-07
 E0C4,extras-openmoji,food-drink,pomegranate,"pomegranate, fruit, seeds",Carlin MacKenzie,2019-12-18
 E20A,extras-openmoji,travel-places,stuttgart fernsehturm,"swabian, schwäbisch, schwaebisch, germany",Tonia Reinhardt,2019-05-07
-E148,extras-openmoji,objects,kehrwoche,"swabian, schwäbisch, schwaebisch, germany, broom",Tonia Reinhardt,2019-05-07
 E207,extras-openmoji,travel-places,schwäbisch gmünd forum gold und silber,"swabian, schwäbisch, schwaebisch, germany, schwaebisch gmuend",Ricarda Krejci,2019-05-07
 E208,extras-openmoji,travel-places,schwäbisch gmünd fünfknopfturm,"tower, schwaebisch gmuend",Ricarda Krejci,2019-05-07
 E209,extras-openmoji,travel-places,schwäbisch gmünd ratshaus,"town hall, schwaebisch gmuend",Ricarda Krejci,2019-05-07
@@ -237,9 +239,7 @@ E2D8,extras-openmoji,climate-environment,nuclear worker woman,"radiation, protec
 E2D9,extras-openmoji,climate-environment,nuclear protection,"radiation, suit, gas mask, nbc suit, hazmat",Robin Kurz,2020-02-18
 E2DA,extras-openmoji,climate-environment,atom bomb,"nuclear, radioactive, nuke, WW2",Robin Kurz,2020-02-18
 E380,extras-openmoji,symbols,no handshaking,"hygiene, agreement, virus, meeting, spread, germs",Julian Grüneberg,2020-04-05
-E149,extras-openmoji,objects,tardis,"time machine, doctor who, police booth, police box",Alexander Müller,2020-04-19
 E381,extras-openmoji,symbols,web syndication,"feed, rss, atom feed, podcast, subscribe, web feed",Alexander Müller,2020-04-19
 F8FF,extras-openmoji,brand,apple,"iOS, osx",Alexander Müller,2020-04-26
-E381,extras-openmoji,brand,android,"google play",Alexander Müller,2020-04-26
 F000,extras-openmoji,brand,windows,"microsoft",Alexander Müller,2020-04-26
 E0FF,extras-openmoji,brand,ubuntu,"linux",Alexander Müller,2020-04-26
