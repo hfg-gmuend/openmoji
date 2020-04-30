@@ -16,6 +16,10 @@ plugins:
         - 'data-name'
         - 'xml.space'
         - 'svg:enable-background'
+        - 'svg:x'
+        - 'svg:y'
+        - 'svg:width'
+        - 'svg:height'
   - removeComments
   - removeDesc
   - removeEmptyText
