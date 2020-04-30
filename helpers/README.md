@@ -34,6 +34,24 @@ This folder `helpers/` Contains various helper scripts e.g. to export to .png an
 
 
 
+## Additional Dependencies
+
+Some of the helper scripts have additional dependencies, which are not cover by `npm install`:
+
+**librsvg**
+- `brew install librsvg` (macOS)
+- `apt-get install librsvg2-bin` (ubuntu)
+
+**pngquant**
+- `brew install pngquant` (macOS)
+- `apt-get install pngquant` (ubuntu)
+
+**shellcheck**
+
+- `brew install shellcheck` (macOS)
+
+
+
 ## License
 
 Code licensed under the GNU Lesser General Public License v3 ([LGPL-3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html))
