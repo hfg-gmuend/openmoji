@@ -53,6 +53,7 @@ Fix:
   * person in Wheelchair Symbol
   * size of Oncoming Fist
   * contours in Cafeteria
+  * orientation of Black Nib
 
 Tech:
   * Blazing fast new build system by Kris Kowal @kriskowal
