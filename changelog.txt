@@ -52,6 +52,7 @@ Fix:
   * people in Restroom, Men's Room, Women's Room
   * person in Wheelchair Symbol
   * size of Oncoming Fist
+  * contours in Cafeteria
 
 Tech:
   * Blazing fast new build system by Kris Kowal @kriskowal
