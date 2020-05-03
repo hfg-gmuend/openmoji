@@ -3444,7 +3444,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E255,extras-openmoji,ui-element,copy,,,Baris Camli,2018-04-18,,,,,,
 ,E256,extras-openmoji,ui-element,contacts,,,Baris Camli,2018-04-18,,,,,,
 ,E257,extras-openmoji,ui-element,filter,,,Baris Camli,2018-04-18,,,,,,
-,E258,extras-openmoji,ui-element,cursor,,,Baris Camli,2018-04-18,,,,,,
+,E258,extras-openmoji,ui-element,cursor,,pointer,Carlin MacKenzie,2020-05-03,,,,,,
 ,E259,extras-openmoji,ui-element,details,,,Baris Camli,2018-04-18,,,,,,
 ,E25A,extras-openmoji,ui-element,hold,,,Baris Camli,2018-04-18,,,,,,
 ,E25B,extras-openmoji,ui-element,duplicate,,"make copy, second, file, create, page, document",Kai Wanschura,2018-04-18,,,,,,

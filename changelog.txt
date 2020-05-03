@@ -55,6 +55,7 @@ Fix:
   * size of Oncoming Fist
   * contours in Cafeteria
   * orientation of Black Nib
+  * Cursor
 
 Tech:
   * Blazing fast new build system by Kris Kowal @kriskowal
