@@ -19,7 +19,7 @@ Interested in contributing? Yay! Here are a few infos how the workflow typically
 * [🐞 Fix a Bug](#-Fix-a-Bug)
 
 * [👩‍💻👨‍💻 Developer Setup](#-Developer-Setup)
-* [⁉️ How to Run the Tests](#-How-to-Run-the-Tests)
+* [⁉️ How to Run the Tests](#️-How-to-Run-the-Tests)
 
 ## 💌 Contribute an Emoji via Email and Sending .svg Files
 Simply send us the source .svg file and the meta informations via email e.g.:
