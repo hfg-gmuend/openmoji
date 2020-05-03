@@ -18,6 +18,7 @@ New:
   + Doe
   + Texas Flag
   + Esperanto Flag
+  + United Federation of Planets Flag
   + No Handshaking
   + Dejected Face
   + Creative Commons Symbols
