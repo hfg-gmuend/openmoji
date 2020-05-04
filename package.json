@@ -18,7 +18,7 @@
   ],
   "scripts": {
     "test": "mocha --reporter progress test/*.js --openmoji-data-json $PWD/data/openmoji.json --openmoji-src-folder $PWD/src",
-    "test-dev": "mocha --invert --grep \"production\" test/*.js --openmoji-data-json $PWD/data/openmoji.json --openmoji-src-folder $PWD/src",
+    "test-dev": "mocha --reporter min --invert --grep \"production\" test/*.js --openmoji-data-json $PWD/data/openmoji.json --openmoji-src-folder $PWD/src",
     "lint-sh": "shellcheck helpers/*.sh",
     "pretty-src-svg": "./helpers/pretty-src-svg.sh",
     "export-svg": "./helpers/export-svg.sh",
