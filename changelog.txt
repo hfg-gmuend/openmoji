@@ -59,6 +59,7 @@ Fix:
 
 Tech:
   * Blazing fast new build system by Kris Kowal @kriskowal
+  * OpenMoji Black/Colorfont scale up by 1.3 to match emoji size of other vendors
 
 --------------------------------------------------------------------------------
 

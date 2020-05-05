@@ -5,7 +5,7 @@ glyph_svg_dir: tmp-black/
 color_svg_dir: tmp-color/
 glyph_translate_x: 0
 glyph_translate_y: 0
-color_transform: translate(0 0)
+color_transform: translate(0 0) scale(1.3)
 # Space width matching DejaVu Sans and Bitstream Vera Sans.
 width_space: 561
 table_name:
