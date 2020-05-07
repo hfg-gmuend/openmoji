@@ -4,6 +4,7 @@ const _ = require('lodash');
 const chroma = require('chroma-js');
 const KDTree = require('kd-tree-javascript').kdTree;
 const JSDOM = require('jsdom').JSDOM;
+const { exec } = require("child_process");
 
 
 const writeSvg = (filePath, data) => {
@@ -13,10 +14,8 @@ const writeSvg = (filePath, data) => {
 const prettyfyFigmaSVG = (srcFilePath, destFilePath) => {
   const dom = new JSDOM(fs.readFileSync(srcFilePath, 'utf8'));
   const doc = dom.window.document;
-  let modified = false;
 
   // Problem: figma will add a `fill="none"` attribute to the svg element. all child elements will implicitly be set to `fill="none"`. we instead want svg's default behaivior
-
   const svgWithFillNone = doc.querySelector('svg[fill="none"]');
   if (svgWithFillNone) {
     svgWithFillNone.removeAttribute('fill');
@@ -24,8 +23,6 @@ const prettyfyFigmaSVG = (srcFilePath, destFilePath) => {
     elementsWithoutFill.forEach(el => {
       el.setAttribute('fill', 'none');
     });
-
-    modified = true;
   }
 
   // Problem: figma will automatically add ids based on the type of element. 
@@ -34,7 +31,6 @@ const prettyfyFigmaSVG = (srcFilePath, destFilePath) => {
   const elementsWithId = doc.querySelectorAll('[id^="' + figmaDefaultIds.join('"], [id^="') + '"]');
   elementsWithId.forEach(el => {
     el.removeAttribute('id');
-    modified = true;
   });
 
   // Problem: figma will create a root element `g` with an id that is equal to the artboard name
@@ -44,14 +40,25 @@ const prettyfyFigmaSVG = (srcFilePath, destFilePath) => {
     let parent = rootGroup.parentNode;
     while (rootGroup.firstChild) parent.insertBefore(rootGroup.firstChild, rootGroup);
     parent.removeChild(rootGroup);
-    modified = true;
   }
 
-  if (modified) {
-    console.log('cleaning up -> ', srcFilePath);
-  }
+  doc.querySelector('svg').setAttribute('id','emoji');
+
+  console.log('cleaning up -> ', srcFilePath);
   fs.unlinkSync(srcFilePath);
   writeSvg(destFilePath, doc.querySelector('svg').outerHTML);
+  
+  exec(`./node_modules/.bin/svgo ${destFilePath} --config helpers/beautify-svg.yml`, (error, stdout, stderr) => {
+    if (error) {
+        console.log(`SVGO failed: ${error.message}`);
+        return;
+    }
+    if (stderr) {
+        console.log(`SVGO failed: ${stderr}`);
+        return;
+    }
+    console.log(`File beautified with SVGO: ${stdout}`);
+  });
 }
 
 function searchDirectoryForFigma(startPath) {
