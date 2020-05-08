@@ -31,6 +31,7 @@ This folder `helpers/` Contains various helper scripts e.g. to export to .png an
 - `generate-index-html.js` generate overview grid index.html
 - `generate-index-list-html.js` generate overview list index-list.html
 - `import-svg-to-src-folder.js` import new OpenMojis to src folder
+- `prettyfy-figma-svg.js` prettfy svg files exported by [Figma](https://www.figma.com/)
 
 
 
