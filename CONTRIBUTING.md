@@ -143,9 +143,9 @@ If you want to run the bash scripts  (.sh files) in the `helpers` folder e.g. fo
 
 The folder `test/` contains automated unit tests to ensure consistency across all source .svg and production files. You can run all tests with:
 
-```bash
-npm test
-```
+- `npm test` all tests including checking production files
+- `npm run test-dev` all tests excluding checking production files
+
 Or run individual test e.g. all "xxx layer existing" tests:
 
 ```bash
