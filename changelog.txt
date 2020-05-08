@@ -25,6 +25,8 @@ New:
   + Dejected Face
   + Creative Commons Symbols
   + LinkedIn Logo
+  + Browncoats flag
+  + Generic monochrome flags
 
 Fix:
   * Replaced Dolphin by @kriskowal
