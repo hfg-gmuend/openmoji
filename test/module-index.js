@@ -12,7 +12,7 @@ const openmoji = require('../index');
 
 describe('Data integrity of index.js exports', () => {
 
-  describe('The paths in openmojis', () => {
+  describe('Are image paths available?', () => {
     openmoji.openmojis.forEach(om => {
       const { hexcode, emoji, openmoji_images } = om;
       it(`${emoji} ${hexcode} should have svg paths`, () => {
@@ -24,14 +24,14 @@ describe('Data integrity of index.js exports', () => {
     });
   });
 
-  describe('Colors and skintones', () => {
+  describe('Are colors and skintones available?', () => {
     it('should have some colors', () => {
       const len = openmoji.color_palette.colors.length;
       expect( len > 0 ).to.equal(true);
     });
   });
 
-  describe('Version', () => {
+  describe('Is version tag available?', () => {
     it('should be string', () => {
       expect( openmoji.version ).to.be.a('string');
     });
