@@ -11,9 +11,9 @@ width_space: 561
 table_name:
   version: 12.2.0
   copyright: OpenMoji © HfG Schwäbisch Gmünd CC-BY-SA-4.0
-  family: OpenMoji
+  family: OpenMoji Black
   # Subfamily is also called Style or Weight. Often set to: Regular
-  subfamily: Black
+  subfamily: Regular
   unique_id: OpenMoji Black openmoji.org
   full_name: OpenMoji Black
   # No spaces in PostScript Names
