@@ -1,4 +1,3 @@
-const fs = require('fs');
 const path = require('path');
 const { filter, find } = require('lodash');
 const { expect } = require('chai');
