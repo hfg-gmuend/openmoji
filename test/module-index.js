@@ -13,8 +13,8 @@ const openmoji = require('../index');
 describe('Data integrity of index.js exports', () => {
 
   describe('The paths in openmojis', () => {
-    openmoji.openmojis.forEach(moji => {
-      const { hexcode, emoji, openmoji_images } = moji;
+    openmoji.openmojis.forEach(om => {
+      const { hexcode, emoji, openmoji_images } = om;
       it(`${emoji} ${hexcode} should have svg paths`, () => {
         const b = openmoji_images.black.svg;
         const c = openmoji_images.color.svg;
