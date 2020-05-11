@@ -55,7 +55,7 @@ e.g. 🐌
 
 ### 3. Normalize SVG Formatting
 
-Before you submit we ask you to normalize the formatting of the source code of your svg file(s). We want to be agnostic in terms of the editor used to produce the emojis. Every svg editor e.g. Adobe Illustrator, Sketch App, Inkscape etc. produce slightly different formated svg files on export. More information about how to export files can be found in our styleguide. As we want to have a consistent svg source code style, hence please run the command below to normalize all your files or an individual file. 
+Before you submit we ask you to normalize the formatting of the source code of your svg file(s). We want to be agnostic in terms of the editor used to produce the emojis. Every svg editor e.g. Adobe Illustrator, Sketch App, Inkscape etc. produce slightly different formated svg files on export. More information about how to export files can be found in our styleguide. As we want to have a consistent svg source code style, hence please run the command below to normalize all your files or an individual file.
 
 Normalize all files in src folder (⚠ this might take some time):
 
@@ -111,7 +111,7 @@ For the OpenMoji project we divided the private use are into 100 equal sized blo
 
 If a subgroup needs more than 64 code points, then the subgroup continues in the next free block. An overview gives this [Google Doc](https://docs.google.com/spreadsheets/d/1xq4uJshm3eHi8BfqMlvWdXfansNugto1XJjPFbBCnV4/edit?usp=sharing). The names of subgroups (in extras-openmoji) are a close as possible aligned with already defined [Unicode Emoji](https://unicode.org/Public/emoji/12.0/emoji-test.txt) ones.
 
-### Other files 
+### Other files
 
 Next add the information about the new character to [data/extras-openmoji.csv](data/extras-openmoji.csv). Finally run `npm run generate-data-tables` and then create a Pull Request.
 
@@ -149,6 +149,5 @@ The folder `test/` contains automated unit tests to ensure consistency across al
 Or run individual test e.g. all "xxx layer existing" tests:
 
 ```bash
-node_modules/.bin/mocha --grep "layer existing" --reporter mochawesome --reporter-options reportDir=test/report,reportFilename=report,json=false,code=false,cdn=true,reportTitle=OpenMoji-Tester,reportPageTitle=OpenMoji-Tester test/*.js --openmoji-data-json $PWD/data/openmoji.json --openmoji-src-folder $PWD/src
+node_modules/.bin/mocha --grep "layer existing" test/*.js --openmoji-data-json $PWD/data/openmoji.json --openmoji-src-folder $PWD/src
 ```
-
