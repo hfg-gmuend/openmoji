@@ -1,14 +1,12 @@
 const path = require('path');
-const { filter, find } = require('lodash');
 const { expect } = require('chai');
-const glob = require('glob').sync;
-const { fromUnicodeToHexcode, stripHexcode } = require('emojibase');
 
 const argv = require('optimist').demand('openmoji-data-json').argv;
 const openmojiDataJson = argv['openmoji-data-json'];
 const openmojis = require(openmojiDataJson);
 
 const openmoji = require('../index');
+
 
 describe('Data integrity of index.js exports', () => {
 
@@ -24,7 +22,7 @@ describe('Data integrity of index.js exports', () => {
     });
   });
 
-  describe('Are colors and skintones available?', () => {
+  describe('Is color palette available?', () => {
     it('should have some colors', () => {
       const len = openmoji.color_palette.colors.length;
       expect( len > 0 ).to.equal(true);
