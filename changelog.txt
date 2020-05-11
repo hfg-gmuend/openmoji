@@ -29,6 +29,8 @@ New:
   + Browncoats flag
   + Generic monochrome Flags
   + Nail and Gear Flag
+  + various coffee related things:
+    Coffee machines and appliances, Baristas, Symbols
 
 Redesign:
   * Dolphin by @kriskowal
@@ -40,6 +42,7 @@ Redesign:
   * Loudly Crying
   * Check Mark
   * Keyboard
+  * Hot Beverage 
 
 Fix:
   * Exploding Head by @taralynnconnelly
@@ -72,6 +75,7 @@ Fix:
   * size of Computer Mouse
   * alignment of Trackball
   * detail in Couch and Lamp
+  * Cursor
 
 Tech:
   * Blazing fast new build system by Kris Kowal @kriskowal
