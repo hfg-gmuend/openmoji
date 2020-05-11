@@ -26,7 +26,8 @@ New:
   + Creative Commons Symbols
   + LinkedIn Logo
   + Browncoats flag
-  + Generic monochrome flags
+  + Generic monochrome Flags
+  + Nail and Gear Flag
 
 Fix:
   * Replaced Dolphin by @kriskowal
