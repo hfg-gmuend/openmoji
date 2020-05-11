@@ -3,6 +3,7 @@
   "version": "12.2.0",
   "description": "Open source emojis for designers, developers and everyone else!",
   "homepage": "https://openmoji.org/",
+  "main": "index.js",
   "keywords": [
     "openmoji",
     "OpenMoji",
