@@ -30,10 +30,11 @@ for SCALE in 72 618; do
       helpers/find-emojis.js "$@" | while read -r CODE; do
         SRC="$GROUP/svg/$CODE.svg"
         DST="$GROUP/${SCALE}x${SCALE}/$CODE.png"
-        echo "$SRC:$DST"
+        echo "$DST:$SRC"
     done
   done |
   tr : '\t' |
-  helpers/lib/optimize-build.sh "export-png-$SCALE" helpers/lib/export-png.sh
+  helpers/lib/optimize-build.sh "export-png-$SCALE" \
+    helpers/lib/export-png.sh
 
 done

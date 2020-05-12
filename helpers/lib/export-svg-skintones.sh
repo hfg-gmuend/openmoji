@@ -10,7 +10,7 @@ TARGETS=$(cut -f1 | git hash-object -w --stdin)
 
 # Generate
 git cat-file blob "$TARGETS" |
-helpers/lib/export-svg-skintones.js "$@"
+xargs helpers/lib/export-svg-skintones.js
 # Optimize
 git cat-file blob "$TARGETS" |
 xargs -n1 node_modules/.bin/svgo --quiet --config helpers/beautify-svg.yml

@@ -88,7 +88,7 @@ for (const e of emojis) {
   emojisByTarget[e.hexcode] = e;
 }
 
-for (target of process.argv.slice(2)) {
+for (const target of process.argv.slice(2)) {
   const e = emojisByTarget[target];
   const skintoneBaseEmoji = emojisByHexcode[e.skintone_base_hexcode];
   // multiple skintone modifiers
