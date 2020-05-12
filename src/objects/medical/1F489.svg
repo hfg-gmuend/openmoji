@@ -7,21 +7,22 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <rect x="24.76" y="43.1" width="3.608" height="3.032" transform="rotate(45 26.561 44.619)" fill="#d22f27"/>
-    <rect x="47.76" y="-30.02" width="4.643" height="10.19" transform="rotate(45)" fill="#d0cfce"/>
-    <path transform="rotate(45 30.83 39.97)" fill="#d22f27" d="m26.02 32.48h9.591l0.01293 12.28h-9.591z"/>
+    <path transform="rotate(45)" fill="#fff" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.1" d="m45.25-20.36h9.591v19.33h-9.591z"/>
+    <path transform="rotate(45)" fill="#d22f27" d="m48.52 10.64h3.608v3.691h-3.608z"/>
+    <rect x="47.94" y="-29.98" width="4.643" height="10.19" transform="rotate(45)" fill="#d0cfce"/>
+    <path fill="#d22f27" d="m32.77 31.37 6.738 6.681-8.252 8.252-6.782-6.782z"/>
   </g>
   <g id="hair"/>
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <rect x="45.25" y="-20.36" width="9.591" height="31.01" transform="rotate(45)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path transform="rotate(45)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m45.25-20.36h9.591v31.01h-9.591z"/>
     <rect x="48.52" y="10.64" width="3.608" height="3.691" transform="rotate(45)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m58.61 15.46-7.123 7.123-3.283-3.283 7.108-7.108"/>
     <line x1="24.95" x2="12.8" y1="46.21" y2="58.37" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="41.07" x2="43.16" y1="32.29" y2="34.37" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="43.93" x2="47.14" y1="27.18" y2="30.39" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <rect x="45.25" y="-1.03" width="9.591" height="11.67" transform="rotate(45)" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path transform="rotate(45)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m45.25-1.03h9.591v11.67h-9.591z"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m53.57 10.43 6.744 6.744"/>
   </g>
 </svg>
