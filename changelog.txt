@@ -43,10 +43,10 @@ Fix:
   * structure in Classical Building
   * tongue in Hot Face
   * drool in Drooling Face
-  * Cross Mark
+  * redesign Cross Mark
   * Question Mark, White Question Mark
   * contour in Infinity
-  * Lab Coat
+  * redesign Lab Coat
   * all Prohibited Signs
   * Exploding Head by @taralynnconnelly
   * bed in Bed and Person in Bed
@@ -58,7 +58,11 @@ Fix:
   * size of Oncoming Fist
   * contours in Cafeteria
   * orientation of Black Nib
-  * Cursor
+  * redesign Cursor
+  * size of Syringe
+  * redesign Loudly Crying
+  * redesign Check Mark
+  * size of Computer Mouse
 
 Tech:
   * Blazing fast new build system by Kris Kowal @kriskowal
