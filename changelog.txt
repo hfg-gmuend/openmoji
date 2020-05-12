@@ -36,6 +36,7 @@ Redesign:
   * Cursor
   * Loudly Crying
   * Check Mark
+  * Keyboard
 
 Fix:
   * Exploding Head by @taralynnconnelly
@@ -62,8 +63,11 @@ Fix:
   * size of Oncoming Fist
   * contours in Cafeteria
   * orientation of Black Nib
+  * contour in Flamingo
+  * arm in Place of Worship
   * size of Syringe
   * size of Computer Mouse
+  * alignment of Trackball
 
 Tech:
   * Blazing fast new build system by Kris Kowal @kriskowal
