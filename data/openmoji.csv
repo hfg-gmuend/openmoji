@@ -2855,7 +2855,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ⭕️,2B55,symbols,other-symbol,hollow red circle,"circle, large, o, red","circle, red",Hilda Kalyoncu,2018-04-18,,,,,0.6,3758
 ✅,2705,symbols,other-symbol,check mark button,"button, check, mark, ✓","check, mark, white, right",Hilda Kalyoncu,2018-04-18,,,,,0.6,3759
 ☑️,2611,symbols,other-symbol,check box with check,"box, check, ✓","check, right, box",Hilda Kalyoncu,2018-04-18,,,,,0.6,3761
-✔️,2714,symbols,other-symbol,check mark,"check, mark, ✓","check, mark, right, todo",Hilda Kalyoncu,2018-04-18,,,,,0.6,3763
+✔️,2714,symbols,other-symbol,check mark,"check, mark, ✓","check, mark, right, todo",Carlin MacKenzie,2020-05-12,,,,,0.6,3763
 ❌,274C,symbols,other-symbol,cross mark,"cancel, cross, mark, multiplication, multiply, x, ×","cancel, wrong, multiply, x,",Hilda Kalyoncu,2018-04-18,,,,,0.6,3764
 ❎,274E,symbols,other-symbol,cross mark button,"mark, square, x, ×","mark, square, button",Hilda Kalyoncu,2018-04-18,,,,,0.6,3765
 ➰,27B0,symbols,other-symbol,curly loop,"curl, loop",,Selina Lange,2019-05-06,,,,,0.6,3766
