@@ -85,10 +85,10 @@ const emojisByHexcode = {};
 for (const e of emojis) {
   const target = path.join(folderOut, e.hexcode + '.svg');
   emojisByTarget[target] = e;
-  emojisByTarget[e.hexcode] = e;
+  emojisByHexcode[e.hexcode] = e;
 }
 
-for (target of process.argv.slice(2)) {
+for (const target of process.argv.slice(2)) {
   const e = emojisByTarget[target];
   const skintoneBaseEmoji = emojisByHexcode[e.skintone_base_hexcode];
   // multiple skintone modifiers

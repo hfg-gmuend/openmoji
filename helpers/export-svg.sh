@@ -30,7 +30,7 @@ helpers/lib/optimize-build.sh export-svg-color \
 echo Extracting black outline SVGs from all color SVGs
 
 helpers/find-emojis.js |
-while read -d $'\t' -r CODE; read -r PATH; do
+while read -r CODE; do
   echo "black/svg/$CODE.svg:color/svg/$CODE.svg"
 done |
 tr : '\t' |

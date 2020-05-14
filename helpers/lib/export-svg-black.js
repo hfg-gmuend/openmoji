@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 const JSDOM = require('jsdom').JSDOM;
 
-const folderOut = './black/svg';
+const folderSrc = 'color/svg';
 
 const writeSvg = (filePath, data) => {
   fs.writeFileSync(filePath, data);
@@ -21,7 +21,7 @@ const generateSvg = (srcFilePath, destFilePath) => {
 
 for (const target of process.argv.slice(2)) {
   generateSvg(
+    path.join(folderSrc, path.basename(target)),
     target,
-    path.join(folderOut, path.basename(target)),
   );
 }
