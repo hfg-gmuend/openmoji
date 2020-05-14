@@ -26,6 +26,9 @@ New:
   + Dejected Face
   + Creative Commons Symbols
   + LinkedIn Logo
+  + Browncoats flag
+  + Generic monochrome Flags
+  + Nail and Gear Flag
 
 Redesign:
   * Dolphin by @kriskowal
