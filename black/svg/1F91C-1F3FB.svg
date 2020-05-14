@@ -1,10 +1,7 @@
-<svg id="emoji" x="0" y="0" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M28.8674,47.4062c0.7812,0.9585,1.2656,1.5173,2.5312,1.9171"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M28.8674,47.4062l-8.4688-9.8125c-1.2812-1.5938-2.2812-1.9062-3.3438-2.1562l-9.0401-1.9202 C3.4244,28.4331,3.8248,20.5904,8.909,16l51.3335,2.0833c3.2917,0.3333,7.099,2.3638,7.6823,6.6224l-0.0156,20.4609 c0.3021,3.7708-3.8229,5.1146-8.1667,3.4583c1,8.4375-3,9.5625-7.4375,8.4375l-20.9062-7.7392"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M57.4285,29.1676c0,4.0625-4.892,4.3437-10.9375,4.3437c0.5,4.0312,2.5938,8.625,10.0312,12.995"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M28.8674,47.4062c0.7812,0.9585,1.2656,1.5173,2.5312,1.9171"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M28.8674,47.4062l-8.4688-9.8125c-1.2812-1.5938-2.2812-1.9062-3.3438-2.1562l-9.0401-1.9202 C3.4244,28.4331,3.8248,20.5904,8.909,16l51.3335,2.0833c3.2917,0.3333,7.099,2.3638,7.6823,6.6224l-0.0156,20.4609 c0.3021,3.7708-3.8229,5.1146-8.1667,3.4583c1,8.4375-3,9.5625-7.4375,8.4375l-20.9062-7.7392"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M57.4285,29.1676c0,4.0625-4.892,4.3437-10.9375,4.3437c0.5,4.0312,2.5938,8.625,10.0312,12.995"/>
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="line" stroke-miterlimit="10">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m28.62 47.58-8.321-9.639c-1.259-1.566-2.241-1.872-3.285-2.118l-8.882-1.886c-4.51-4.994-4.117-12.7 0.8787-17.21l50.44 2.046c3.234 0.3274 6.975 2.322 7.548 6.505l-0.01533 20.1c0.2968 3.704-3.756 5.024-8.024 3.397 0.9826 8.288-2.948 9.393-7.308 8.288l-20.54-7.602c-1.044-0.4485-1.785-1.149-2.487-1.883z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m56.69 29.67c0 3.99-4.807 4.267-10.75 4.267 0.4913 3.96 2.549 8.472 9.856 12.76"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m56.69 29.67c0 3.99-4.807 4.267-10.75 4.267 0.4913 3.96 2.549 8.472 9.856 12.76"/>
   </g>
 </svg>
