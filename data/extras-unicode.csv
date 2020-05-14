@@ -5,15 +5,14 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 □,25A1,extras-unicode,symbol-other,white square,missing glyph,Benedikt Groß,2019-04-15,1
 🐱‍💻,1F431-200D-1F4BB,extras-unicode,symbol-other,hacker cat,"coder, developer, software, technologist, smart, clever, code, notebook, computer",Benedikt Groß,2020-03-06,?
 🏴󠁵󠁳󠁴󠁸󠁿,1F3F4-E0075-E0073-E0074-E0078-E007F,extras-unicode,subdivision-flag,texas flag,"cowboy, lone star, republic, state",Carlin MacKenzie,2020-04-03,?
-🏳️‍🟩‍⭐‍🟩,1F3F3-FE0F-200D-1F7E9-200D-2B50-200D-1F7E9,extras-unicode,flag,esperanto flag,"constructed, Zamenhof",Carlin MacKenzie,2020-04-08,?
 ⬮,2B2E,extras-unicode,symbol-other,black vertical ellipse,,loominade,2020-04-17,5
 ⬯,2B2F,extras-unicode,symbol-other,white vertical ellipse,,loominade,2020-04-17,5
-⬡,2B21,extras-unicode,symbol-other,white hexagon,"equilateral polygon",loominade,2020-04-17,5
-⬢,2B22,extras-unicode,symbol-other,black hexagon,"equilateral polygon",loominade,2020-04-17,5
-⯃,2BC3,extras-unicode,symbol-other,horizontal black octagon,"equilateral polygon",loominade,2020-04-17,5
-⬟,2B1F,extras-unicode,symbol-other,black pentagon,"equilateral polygon",loominade,2020-04-17,5
-⬠,2B20,extras-unicode,symbol-other,white pentagon,"equilateral polygon",loominade,2020-04-17,5
-⬣,2B23,extras-unicode,symbol-other,horizontal black hexagon ,"equilateral polygon",loominade,2020-04-17,5
+⬡,2B21,extras-unicode,symbol-other,white hexagon,equilateral polygon,loominade,2020-04-17,5
+⬢,2B22,extras-unicode,symbol-other,black hexagon,equilateral polygon,loominade,2020-04-17,5
+⯃,2BC3,extras-unicode,symbol-other,horizontal black octagon,equilateral polygon,loominade,2020-04-17,5
+⬟,2B1F,extras-unicode,symbol-other,black pentagon,equilateral polygon,loominade,2020-04-17,5
+⬠,2B20,extras-unicode,symbol-other,white pentagon,equilateral polygon,loominade,2020-04-17,5
+⬣,2B23,extras-unicode,symbol-other,horizontal black hexagon ,equilateral polygon,loominade,2020-04-17,5
 ▬,25AC,extras-unicode,symbol-other,black rectangle,,loominade,2020-04-22,1.1
 ▭,25AD,extras-unicode,symbol-other,white rectangle,,loominade,2020-04-22,1.1
 ◐,25D0,extras-unicode,symbol-other,circle with left half black,,loominade,2020-04-22,1.1
@@ -28,7 +27,7 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 ⮺,2BBA,extras-unicode,symbol-other,overlapping white squares,,loominade,2020-04-22,1.1
 ⮻,2BBB,extras-unicode,symbol-other,overlapping white and black squares,,loominade,2020-04-22,1.1
 ⮼,2BBC,extras-unicode,symbol-other,overlapping black squares,,loominade,2020-04-22,1.1
-⯄,2BC4,extras-unicode,symbol-other,black octagon,"equilateral polygon",loominade,2020-04-17,5
+⯄,2BC4,extras-unicode,symbol-other,black octagon,equilateral polygon,loominade,2020-04-17,5
 ⏻,23FB,extras-unicode,symbol-other,power symbol,"enable, on, off",Alexander Müller,2020-04-20,5
 ⏼,23FC,extras-unicode,symbol-other,power on-off symbol,"enable, disable, on, off",Alexander Müller,2020-04-20,5
 ⏽,23FD,extras-unicode,symbol-other,power on symbol,"enable, on, I",Alexander Müller,2020-04-20,5
@@ -41,21 +40,3 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 🅮,1F16E,extras-unicode,symbol-other,circled c with overlaid backslash,"license, copyright, creative commons, open, libre, public domain",Carlin MacKenzie,2020-04-17,13
 🅯,1F16F,extras-unicode,symbol-other,circled human figure,"license, copyright, creative commons, open, libre, by, attribution, credit",Carlin MacKenzie,2020-04-17,13
 ⊜,229C,extras-unicode,symbol-other,circled equals,"license, copyright, creative commons, open, libre",Carlin MacKenzie,2020-04-18,1.1
-🏳️‍🟦‍🌌,1F3F3-FE0F-200D-1F7E6-200D-1F30C,extras-unicode,flag,united federation of planets flag,"star trek, future, utopia, trekkie, trekker, space",Alexander Müller,2020-04-25,?
-🏳️‍📌‍⚙️,1F3F3-FE0F-200D-1F4CC-200D-2699-FE0F,extras-unicode,flag,nail and gear flag,"hello internet, cgp grey, brady haran",Alexander Müller,2020-05-08,?
-🏳️,1F3F3-FE0F,extras-unicode,flag,white flag,"surrender",Alexander Müller,2020-05-08,?
-🏳️‍🟥,1F3F3-FE0F-200D-1F7E5,extras-unicode,flag,red flag,"socialism, communism",Alexander Müller,2020-05-08,?
-🏳️‍🟦,1F3F3-FE0F-200D-1F7E6,extras-unicode,flag,blue flag,"",Alexander Müller,2020-05-08,?
-🏳️‍🟧,1F3F3-FE0F-200D-1F7E7,extras-unicode,flag,orange flag,"maratha, pirate party, christian democracy",Alexander Müller,2020-05-08,?
-🏳️‍🟨,1F3F3-FE0F-200D-1F7E8,extras-unicode,flag,yellow flag,"quebec, yellow jack",Alexander Müller,2020-05-08,?
-🏳️‍🟩,1F3F3-FE0F-200D-1F7E9,extras-unicode,flag,green flag,"green party, environmentalism",Alexander Müller,2020-05-08,?
-🏳️‍🟪,1F3F3-FE0F-200D-1F7EA,extras-unicode,flag,purple flag,"",Alexander Müller,2020-05-08,?
-🏳️‍🟫,1F3F3-FE0F-200D-1F7EB,extras-unicode,flag,brown flag,"",Alexander Müller,2020-05-08,?
-⚑️‍🟩‍★️,2691-FE0F-200D-1F7E9-200D-2605-FE0F,extras-unicode,flag,browncoat flag,"firefly, serenity, independent planets",Alexander Müller,2020-05-08,?
-⚑️‍🟥,2691-FE0F-200D-1F7E5,extras-unicode,flag,red flag,"socialism, communism",Alexander Müller,2020-05-08,?
-⚑️‍🟦,2691-FE0F-200D-1F7E6,extras-unicode,flag,deep blue flag,"",Alexander Müller,2020-05-08,?
-⚑️‍🟧,2691-FE0F-200D-1F7E7,extras-unicode,flag,deep orange flag,"maratha, pirate party, christian democracy",Alexander Müller,2020-05-08,?
-⚑️‍🟨,2691-FE0F-200D-1F7E8,extras-unicode,flag,deep yellow flag,"quebec, yellow jack",Alexander Müller,2020-05-08,?
-⚑️‍🟩,2691-FE0F-200D-1F7E9,extras-unicode,flag,deep green flag,"green party, environmentalism",Alexander Müller,2020-05-08,?
-⚑️‍🟪,2691-FE0F-200D-1F7EA,extras-unicode,flag,deep purple flag,"",Alexander Müller,2020-05-08,?
-⚑️‍🟫,2691-FE0F-200D-1F7EB,extras-unicode,flag,deep brown flag,"",Alexander Müller,2020-05-08,?
