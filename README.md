@@ -3,7 +3,7 @@ OpenMoji
 
 <img width="1157" alt="openmoji-github-keyvisual" src="https://user-images.githubusercontent.com/480224/71999652-1a60c000-3242-11ea-974a-96fef098147b.png">
 
-Open-source emojis for designers, developers and everyone else! OpenMoji is an open-source project of the HfG Schwäbisch Gmünd by Benedikt Groß, Daniel Utz, 50+ students and external contributors.
+Open-source emojis for designers, developers and everyone else! OpenMoji is an open-source project of the HfG Schwäbisch Gmünd by Benedikt Groß, Daniel Utz, 70+ students and external contributors.
 
 👉 [OpenMoji.org/](http://openmoji.org/)
 
@@ -19,7 +19,8 @@ This GitHub repository contains all of the source files and exported png/svg fil
 - [Styleguide](http://openmoji.org/styleguide) our beloved styleguide.
 - [FAQ](FAQ.md) Check if your question has already been answered
 - [Contributing](CONTRIBUTING.md) Pull Requests are welcome!
-- [Developer Setup](CONTRIBUTING.md#-Developer-Setup) how to setup node.js.
+- [Developer Setup](CONTRIBUTING.md#-Developer-Setup) how to setup a environment.
+- [API](API.md) documentation for the npm OpenMoji package.
 - [Font](font) infos on the OpenMoji-Color and OpenMoji-Black fonts.
 - [Team](http://openmoji.org/about/#team) list of all authors and contributors.
 - [Acknowledgements](http://openmoji.org/about/#acknowledgement) Thanks!
