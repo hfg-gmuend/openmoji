@@ -85,7 +85,7 @@ const emojisByHexcode = {};
 for (const e of emojis) {
   const target = path.join(folderOut, e.hexcode + '.svg');
   emojisByTarget[target] = e;
-  emojisByTarget[e.hexcode] = e;
+  emojisByHexcode[e.hexcode] = e;
 }
 
 for (const target of process.argv.slice(2)) {
