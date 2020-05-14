@@ -12,14 +12,14 @@ Install with [npm](https://www.npmjs.com/package/openmoji):
 ## Usage
 
     > const openmoji = require('openmoji')
-    > const moji = openmoji.openmojis[0]
-    > moji.emoji
+    > const om = openmoji.openmojis[0]
+    > om.emoji
     '😀'
-    > moji.hexcode
+    > om.hexcode
     '1F600'
-    > moji.openmoji_tags
+    > om.openmoji_tags
     'smile, happy'
-    > moji.openmoji_images.color.svg
+    > om.openmoji_images.color.svg
     '/path/to/your/local/openmoji/color/svg/1F600.svg'
     > openmoji.color_palette.colors[23]
     '#186648'
