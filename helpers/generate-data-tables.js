@@ -112,10 +112,14 @@ emojis = _.filter(emojis, (e) => { return e.openmoji_author !== '' });
 // add extras
 let extrasOpenMoji = loadCsv('./data/extras-openmoji.csv');
 extrasOpenMoji = _.map(extrasOpenMoji, e => {
+  // if the emoji column is empty: generate an emoji from the hexcode
+  // if the emoji column is not empty: use as it is
   const codePoint = parseInt(e.hexcode, 16);
+  const emojiFromHexCode = codePoint ? String.fromCodePoint(codePoint) : '';
+  const emoji = e.emoji === '' ? emojiFromHexCode : e.emoji;
   return {
     // image: `=IMAGE("https://github.com/hfg-gmuend/openmoji/blob/v1.5/color/72x72/${e.hexcode +'.png?raw=true'}")`,
-    emoji: codePoint ? String.fromCodePoint(codePoint) : '',
+    emoji: emoji,
     hexcode: e.hexcode,
     group: e.group,
     subgroups: e.subgroups,
