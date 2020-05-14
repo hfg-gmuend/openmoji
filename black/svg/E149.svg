@@ -1,15 +1,16 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-width="2" d="M38 52L38 58H45"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-width="2" d="M27 52L27 58H34"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-width="2" d="M38 42L38 48H45"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-width="2" d="M27 42L27 48H34"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-width="2" d="M38 32L38 38H45"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-width="2" d="M27 32L27 38H34"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-width="2" d="M38 22L38 28H45"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-width="2" d="M27 22L27 28H34"/>
-    <rect x="23" y="14" rx="1" width="26" height="48" fill="none" stroke="#000000" stroke-width="2"/>
-    <path fill="none" stroke="#000000" stroke-width="2" d="M34 9V7.6C34 6.71634 34.8954 6 36 6C37.1046 6 38 6.71634 38 7.6V9"/>
-    <path fill="none" stroke="#000000" stroke-width="2" d="M25 13V11C25 10.4477 25.4477 10 26 10H45C45.5523 10 46 10.4477 46 11V13"/>
+    <rect x="26" y="18.5" rx="1" ry="1" width="20" height="3"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m38 54.01v5.986h6.986"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m27 54.01v5.986h6.986"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m38 44v6h7"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m27 44.01v5.986h6.986"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m38 34.01v5.986h6.986"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m27 34.01v5.986h6.986"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m38 24.01v5.986h6.986"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m27 24.01v5.986h6.986"/>
+    <rect x="23" y="16" rx="1" width="26" height="48" fill="none" stroke="#000" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-width="2" d="m34 12v-2.4c0-0.8837 0.8954-1.6 2-1.6s2 0.7163 2 1.6v2.4"/>
+    <path fill="none" stroke="#000" stroke-width="2" d="m25 16v-3c0-0.5523 0.4477-1 1-1h19c0.5523 0 1 0.4477 1 1v3"/>
   </g>
 </svg>

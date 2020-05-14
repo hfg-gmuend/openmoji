@@ -78,7 +78,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😰,1F630,smileys-emotion,face-concerned,anxious face with sweat,"blue, cold, face, rushed, sweat","anxious, worried, considerate",Mariella Steeb,2018-04-18,,,,,0.6,79
 😥,1F625,smileys-emotion,face-concerned,sad but relieved face,"disappointed, face, relieved, whew",,Mariella Steeb,2018-04-18,,,,,0.6,80
 😢,1F622,smileys-emotion,face-concerned,crying face,"cry, face, sad, tear",,Mariella Steeb,2018-04-18,,,,,0.6,81
-😭,1F62D,smileys-emotion,face-concerned,loudly crying face,"cry, face, sad, sob, tear",,Mariella Steeb,2018-04-18,,,,,0.6,82
+😭,1F62D,smileys-emotion,face-concerned,loudly crying face,"cry, face, sad, sob, tear",,Carlin MacKenzie,2020-05-11,,,,,0.6,82
 😱,1F631,smileys-emotion,face-concerned,face screaming in fear,"face, fear, munch, scared, scream",open mouth,Mariella Steeb,2018-04-18,,,,,0.6,83
 😖,1F616,smileys-emotion,face-concerned,confounded face,"confounded, face",,Mariella Steeb,2018-04-18,,,,,0.6,84
 😣,1F623,smileys-emotion,face-concerned,persevering face,"face, persevere",,Mariella Steeb,2018-04-18,,,,,0.6,85
@@ -2570,7 +2570,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💻️,1F4BB,objects,computer,laptop,"computer, pc, personal","old, retro",Jonas Roßner,2018-04-18,,,,,0.6,3381
 🖥️,1F5A5,objects,computer,desktop computer,"computer, desktop","electric, screen",Jonas Roßner,2018-04-18,,,,,0.7,3383
 🖨️,1F5A8,objects,computer,printer,computer,"color, electric",Jonas Roßner,2018-04-18,,,,,0.7,3385
-⌨️,2328,objects,computer,keyboard,computer,"key, write, electric",Jonas Roßner,2018-04-18,,,,,1,3387
+⌨️,2328,objects,computer,keyboard,computer,"key, write, electric",Carlin MacKenzie,2020-05-12,,,,,1,3387
 🖱️,1F5B1,objects,computer,computer mouse,computer,"electric, computer, mouse",Jonas Roßner,2018-04-18,,,,,0.7,3389
 🖲️,1F5B2,objects,computer,trackball,computer,,Nicole Kornhaas,2019-05-06,,,,,0.7,3391
 💽,1F4BD,objects,computer,computer disk,"computer, disk, minidisk, optical","old, retro",Jonas Roßner,2018-04-18,,,,,0.6,3392
@@ -2700,7 +2700,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🔬,1F52C,objects,science,microscope,"science, tool",,Marleen Heine,2018-11-16,,,,,1,3551
 🔭,1F52D,objects,science,telescope,"science, tool","stars, sky, space",Sina Schulz,2018-04-18,,,,,1,3552
 📡,1F4E1,objects,science,satellite antenna,"antenna, dish, satellite","signal, receive, radiation",Sina Schulz,2018-04-18,,,,,0.6,3553
-💉,1F489,objects,medical,syringe,"medicine, needle, shot, sick",health,Marius Schnabel,2018-04-18,,,,,0.6,3554
+💉,1F489,objects,medical,syringe,"medicine, needle, shot, sick","health,needle, injection, IV, drug, medicine",Tonia Reinhardt,2010-01-31,,,,,0.6,3554
 🩸,1FA78,objects,medical,drop of blood,"bleed, blood donation, injury, medicine, menstruation",,Sam Eckert,2019-05-06,,,,,12,3555
 💊,1F48A,objects,medical,pill,"doctor, medicine, sick",health,Marius Schnabel,2018-04-18,,,,,0.6,3556
 🩹,1FA79,objects,medical,adhesive bandage,bandage,,Sam Eckert,2019-05-06,,,,,12,3557
@@ -2855,7 +2855,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ⭕️,2B55,symbols,other-symbol,hollow red circle,"circle, large, o, red","circle, red",Hilda Kalyoncu,2018-04-18,,,,,0.6,3758
 ✅,2705,symbols,other-symbol,check mark button,"button, check, mark, ✓","check, mark, white, right",Hilda Kalyoncu,2018-04-18,,,,,0.6,3759
 ☑️,2611,symbols,other-symbol,check box with check,"box, check, ✓","check, right, box",Hilda Kalyoncu,2018-04-18,,,,,0.6,3761
-✔️,2714,symbols,other-symbol,check mark,"check, mark, ✓","check, mark, right, todo",Hilda Kalyoncu,2018-04-18,,,,,0.6,3763
+✔️,2714,symbols,other-symbol,check mark,"check, mark, ✓","check, mark, right, todo",Carlin MacKenzie,2020-05-12,,,,,0.6,3763
 ❌,274C,symbols,other-symbol,cross mark,"cancel, cross, mark, multiplication, multiply, x, ×","cancel, wrong, multiply, x,",Hilda Kalyoncu,2018-04-18,,,,,0.6,3764
 ❎,274E,symbols,other-symbol,cross mark button,"mark, square, x, ×","mark, square, button",Hilda Kalyoncu,2018-04-18,,,,,0.6,3765
 ➰,27B0,symbols,other-symbol,curly loop,"curl, loop",,Selina Lange,2019-05-06,,,,,0.6,3766
@@ -3321,7 +3321,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E301,extras-openmoji,healthcare,male doctor,,"hospital, care, surgery",Fanny Jung,2010-01-31,,,,,,
 ,E302,extras-openmoji,healthcare,female nurse,,"hospital, care, surgery",Tonia Reinhardt,2010-01-31,,,,,,
 ,E303,extras-openmoji,healthcare,male nurse,,"hospital, care, surgery",Fanny Jung,2010-01-31,,,,,,
-,E304,extras-openmoji,healthcare,shot,,"needle, injection, IV, drug, medicine",Tonia Reinhardt,2010-01-31,,,,,,
 ,E305,extras-openmoji,healthcare,pills,,"drug, medicine, tablets, pain killers",Fanny Jung,2010-01-31,,,,,,
 ,E306,extras-openmoji,healthcare,plaster,,"patch, band aid, plaster, wound, dressing, bandage",Tonia Reinhardt,2010-01-31,,,,,,
 ,E307,extras-openmoji,healthcare,medication,,"drug, medicine, tablets, pain killers",Fanny Jung,2010-01-31,,,,,,
@@ -3393,7 +3392,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E1C2,extras-openmoji,technology,autonomous car,,,Baris Camli,2018-04-18,,,,,,
 ,E1C3,extras-openmoji,technology,switch,,"toggling, changeover switch, exchange counter, left, right",Kai Wanschura,2018-04-18,,,,,,
 ,E1C4,extras-openmoji,technology,surveillance,,"surveillance, camera, CCTV",Kai Magnus Müller,2018-04-18,,,,,,
-,E1C5,extras-openmoji,technology,mouse,,,Baris Camli,2018-04-18,,,,,,
 ,E1C6,extras-openmoji,technology,augmented reality,,,Baris Camli,2018-04-18,,,,,,
 ,E1C7,extras-openmoji,technology,led,,,Baris Camli,2018-04-18,,,,,,
 ,E1C8,extras-openmoji,technology,motor,,,Baris Camli,2018-04-18,,,,,,

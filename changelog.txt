@@ -16,6 +16,7 @@ New:
     Windows logo, Ubuntu logo 
     by @fuddl
   + Narwhal, Beluga, Porpoise by @kriskowal
+  + Orca and Spouting Orca by Selina Bauer
   + More geometric Unicode shapes in extras-unicode/symbol-other by @loominade
   + Doe
   + Texas Flag
@@ -29,11 +30,20 @@ New:
   + Generic monochrome Flags
   + Nail and Gear Flag
 
+Redesign:
+  * Dolphin by @kriskowal
+  * Whale and Spouting Whale with blue whales by @kriskowal
+  * Llama
+  * Cross Mark
+  * Lab Coat
+  * Cursor
+  * Loudly Crying
+  * Check Mark
+  * Keyboard
+
 Fix:
-  * Replaced Dolphin by @kriskowal
-  * Replaced Whale and Spouting Whale with blue whales by @kriskowal
-  * Moved and renamed Selina Bauer’s Whale and spouting Whale to Orca and Spouting Orca 
-    in private use area
+  * Exploding Head by @taralynnconnelly
+  * size of Record Button by @fuddl
   * signs and align Aries, Gemini, Virgo, Scorpio, Capricorn, Libra, Sagittarius, Om,
     Orthodox Cross, Wheel of Dharma, Taurus, Cancer, Leo, Aquarius, Pisces, Ophiuchus
   * Flags:
@@ -42,30 +52,30 @@ Fix:
        Bhutan
   * contour in Cat
   * contour in Victory Hand
-  * redesign Llama
   * structure in Classical Building
   * tongue in Hot Face
   * drool in Drooling Face
-  * Cross Mark
   * Question Mark, White Question Mark
   * contour in Infinity
-  * Lab Coat
   * all Prohibited Signs
-  * Exploding Head by @taralynnconnelly
   * bed in Bed and Person in Bed
   * skullcap in Person With Skullcap
-  * size of Record Button by @fuddl
   * rainbow in Rainbow
   * people in Restroom, Men's Room, Women's Room
   * person in Wheelchair Symbol
   * size of Oncoming Fist
   * contours in Cafeteria
   * orientation of Black Nib
-  * Cursor
+  * contour in Flamingo
+  * arm in Place of Worship
+  * size of Syringe
+  * size of Computer Mouse
+  * alignment of Trackball
 
 Tech:
   * Blazing fast new build system by Kris Kowal @kriskowal
   * OpenMoji Black/Colorfont scale up by 1.3 to match emoji size of other vendors
+  * New cleanup script for figma svg export @fuddl
 
 --------------------------------------------------------------------------------
 

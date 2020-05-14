@@ -1,6 +1,6 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M41.1042,55.908h-6.9585c-4.9688,0-9.0342-4.0654-9.0342-9.0342v-21.325c0-4.9688,4.0654-9.0342,9.0342-9.0342h6.9585 c4.9688,0,9.0342,4.0654,9.0342,9.0342v21.325C50.1384,51.8426,46.073,55.908,41.1042,55.908z"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M37.8361,32.216h-0.4222c-1.1161,0-2.0294-0.9132-2.0294-2.0294v-6.6551c0-1.1161,0.9132-2.0294,2.0294-2.0294h0.4222 c1.1161,0,2.0294,0.9132,2.0294,2.0294v6.6551C39.8655,31.3028,38.9523,32.216,37.8361,32.216z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m36.26 31.12h-0.5181c-1.37 0-2.49-1.115-2.49-2.478v-8.126c0-1.363 1.121-2.478 2.49-2.478h0.5181c1.37 0 2.49 1.115 2.49 2.478v8.126c0 1.363-1.121 2.478-2.49 2.478z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m39.61 60.05h-7.215c-6.475 0-11.77-5.263-11.77-11.7v-24.71c0-6.432 5.298-11.7 11.77-11.7h7.215c6.475 0 11.77 5.263 11.77 11.7v24.71c0 6.432-5.298 11.7-11.77 11.7z"/>
   </g>
 </svg>

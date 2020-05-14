@@ -1,15 +1,21 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <g id="color">
-    <rect x="5" y="17" width="62" height="38" fill="#f1b31c"/>
-    <polygon fill="#d22f27" points="5 17 5 55 67 17 5 17"/>
+    <rect x="5" y="17" width="62" height="38" fill="#d22f27"/>
+    <polygon fill="#f1b31c" points="5 17 5 55 67 17"/>
     <g>
-      <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M42.6,25.3424s-8.1513,1.839-1.8888,8.8968-.2386,8.5489-.2386,8.5489-5.6263,2.3857-5.7257-6.9087-9.1453-3.1313-5.4673,1.74,2.7337,6.0638-4.7715,8.201"/>
-      <polyline fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="44 37 47.59 34.716 46.408 32.184"/>
-      <polyline fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="42 43 43.803 45.421 45.723 44.638"/>
-      <line x1="31" x2="33.3286" y1="43" y2="46.0757" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <circle cx="47.1444" cy="42.693" r="1" fill="#fff"/>
-      <circle cx="45.0638" cy="30.1713" r="1" fill="#fff"/>
-      <circle cx="35.1949" cy="47.3743" r="1" fill="#fff"/>
+      <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="m46.24 27.67c0.2011 0.1408-9.044-2.459-5.06 6.075 3.623 7.761-10.23-2.525-11.32 3.865-0.7428 4.356-3.086 7.037-7.395 7.782"/>
+      <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m40.81 32.58c2.651 1.756 5.4 3.373 7.745 1.011"/>
+      <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m41.33 36.44c-0.966 4.229-0.4486 4.465 2.864 5.502"/>
+      <circle cx="46.92" cy="43.06" r="1.5" fill="#fff"/>
+      <circle cx="51.01" cy="32.07" r="1.5" fill="#fff"/>
+      <g transform="matrix(1.5 0 0 1.5 -22.39 -22.64)" stroke-width="0.6667">
+        <circle cx="35.19" cy="47.37" r="1" fill="#fff" stroke-width="0.4444"/>
+      </g>
+      <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m29.21 40.36c1.304 2.327 1.453 3.054 1.085 5.196"/>
+      <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m29.3 38.71c1.54 0.5389 2.636 1.603 4.377 1.421"/>
+      <g transform="matrix(1.5 0 0 1.5 -16.34 -31.18)" stroke-width="0.6667">
+        <circle cx="35.19" cy="47.37" r="1" fill="#fff" stroke-width="0.4444"/>
+      </g>
     </g>
   </g>
   <g id="line">

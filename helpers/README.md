@@ -15,6 +15,7 @@ This folder `helpers/` Contains various helper scripts e.g. to export to .png an
 ## Little helpers
 
 - `clean.sh` cleans up the build directories
+- `npm run cache-clear` / `npm run cc` clears build system cache
 - `npm run export-emojipedia` export all OpenMojis to 512x512 png files for listing at Emojipedia
 - `npm run export-openmoji-ios.js` copies and updates all assets in the openmoji-ios repository
 - `npm run export-pdf.sh` export all OpenMojis to pdf files
@@ -31,6 +32,7 @@ This folder `helpers/` Contains various helper scripts e.g. to export to .png an
 - `generate-index-html.js` generate overview grid index.html
 - `generate-index-list-html.js` generate overview list index-list.html
 - `import-svg-to-src-folder.js` import new OpenMojis to src folder
+- `prettyfy-figma-svg.js` prettfy svg files exported by [Figma](https://www.figma.com/)
 
 
 
