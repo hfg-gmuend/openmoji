@@ -71,6 +71,7 @@ Fix:
   * size of Syringe
   * size of Computer Mouse
   * alignment of Trackball
+  * detail in Couch and Lamp
 
 Tech:
   * Blazing fast new build system by Kris Kowal @kriskowal
