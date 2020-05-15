@@ -49,7 +49,7 @@ Fix:
   * Flags:
        Portugal, Afghanistan, Laos, Turkey, Kazakhstan, Maldives, Jersey, New Caledonia,
        Niger, Antarctica, Mayotte, Hong Kong, Aruba, Pirate, Isle of Man, Iraq,
-       Bhutan
+       Bhutan, Czech Republic @mikiqex
   * contour in Cat
   * contour in Victory Hand
   * structure in Classical Building

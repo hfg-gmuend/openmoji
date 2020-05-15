@@ -9,7 +9,7 @@
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#fff"/>
     <rect x="5" y="36" width="62" height="19" fill="#d22f27"/>
-    <polygon fill="#1e50a0" points="26 36 5 55 5 17 26 36"/>
+    <path d="m36 36-31 18.6v-37.2z" fill="#1e50a0"/>
   </g>
   <g id="line">
     <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
