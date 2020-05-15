@@ -55,11 +55,11 @@ describe('Color', function() {
           expect(['black', '#000000', '#000', 'none']).to.include(el.getAttribute('stroke').toLowerCase());
         });
       });
-      it(`${emoji.emoji} ${emoji.hexcode}.svg #line layer should have only black or white fills (if any)`, function(){
+      it(`${emoji.emoji} ${emoji.hexcode}.svg #line layer should have only black fills (if any)`, function(){
         const doc = createDoc(emoji);
         const query = doc.querySelectorAll('#line > [fill], #line-supplement > [fill]');
         query.forEach(el => {
-          expect(['black', '#000000', '#000', 'white', '#ffffff', '#fff', 'none']).to.include(el.getAttribute('fill').toLowerCase());
+          expect(['black', '#000000', '#000', 'none']).to.include(el.getAttribute('fill').toLowerCase());
         });
       });
     });
