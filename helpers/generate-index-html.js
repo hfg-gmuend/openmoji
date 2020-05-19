@@ -33,6 +33,11 @@ body {
     transition: background-color 0.5s ease;
     line-height: 0;
 }
+img,
+button {
+    width: 72px;
+    height: 72px;
+}
 button {
     display: inline-block;
     border: none;
@@ -45,35 +50,28 @@ button {
     font-size: 1rem;
     cursor: pointer;
     text-align: center;
-    transition: background 250ms ease-in-out, 
+    transition: background 250ms ease-in-out,
                 transform 150ms ease;
     -webkit-appearance: none;
     -moz-appearance: none;
-    width: 72px;
-    height: 72px;
 }
-
 button:hover,
 button:focus {
     background: var(--background-hover);
     transform: scale(1.5);
 }
-
 button:focus {
     outline: 1px solid var(--background-color-toggle);
     outline-offset: -4px;
 }
-
 button:active {
     transform: scale(1.4);
 }
-
 button p {
 	line-height: 72px;
 	font-size: 44px;
 	margin: 0;
 }
-
 .toggle {
     position: fixed;
     background-color: #aaa;
@@ -81,6 +79,39 @@ button p {
     padding: 5px;
     border-radius: 5px;
     height: 25px
+}
+#systemToggle {
+    bottom: 55px;
+    left: 10px;
+}
+#blackToggle {
+    bottom: 10px;
+    left: 10px;
+}
+#backgroundToggle {
+    bottom: 10px; 
+    right: 10px;
+}
+@media only screen and (max-width:864px) {
+    button, img {
+        height: 14vw;
+        width: 14vw;
+    }
+    .toggle {
+        width: calc(calc(100% - 50px) / 3);
+        height: auto;
+        line-height: normal;
+        position: static;
+        margin: 2.5px;
+    }
+    #toggles {
+        display: flex;
+        flex-direction: row;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        padding: 2.5px;
+    }
 }
 </style>
 </head>
@@ -92,7 +123,7 @@ html += `<div id='color'>`
 html += _.map(emojisList, (e) => {
     if (e.skintone === '') {
         return `<button onclick="copyToClipboard('${e.hexcode}')">
-        <img class="lazy"  alt="${e.annotation}" title="${e.annotation} - ${e.hexcode}" 
+        <img class="lazy"  alt="${e.annotation}" title="${e.annotation} - ${e.hexcode}"
         src="${'color/72x72/' + e.hexcode +'.png'}" height="72" width="72">
     </button>`;
     }
@@ -103,7 +134,7 @@ html += `</div><div id='black' style='display:none;'>`
 html += _.map(emojisList, (e) => {
     if (e.skintone === '') {
         return `<button onclick="copyToClipboard('${e.hexcode}')">
-        <img class="lazy"  alt="${e.annotation}" title="${e.annotation} - ${e.hexcode}" 
+        <img class="lazy"  alt="${e.annotation}" title="${e.annotation} - ${e.hexcode}"
         src="${'black/72x72/' + e.hexcode +'.png'}" height="72" width="72">
     </button>`;
     }
@@ -120,20 +151,21 @@ html += _.map(emojisList, (e) => {
 }).join('');
 
 html += `</div>
-
-<div class='toggle' style='bottom: 55px; left: 10px;'>
+<div id='toggles'>
+<div class='toggle' id='systemToggle'>
 <input type="checkbox" id="openmojisystemCheckbox"/>
 <label for="openmojisystemCheckbox" id="openmojisystemToggle"> Toggle System Emojis</label>
 </div>
 
-<div class='toggle' style='bottom: 10px; left: 10px;'>
+<div class='toggle' id='blackToggle'>
 <input type="checkbox" id="colorblackCheckbox"/>
 <label for="colorblackCheckbox" id="colorblackToggle"> Toggle Black Emojis</label>
 </div>
 
-<div class='toggle' style='bottom: 10px; right: 10px;'>
+<div class='toggle' id='backgroundToggle'>
 <input type="checkbox" id="modeCheckbox"/>
 <label for="modeCheckbox" id="modeToggle"> Toggle Background Color</label>
+</div>
 </div>
 
 <script>
