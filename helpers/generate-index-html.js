@@ -15,8 +15,7 @@ let html = `
 <title>OpenMoji Catalog</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital@0;1&display=swap" rel="stylesheet">
 <style>
 body[color-scheme='dark'] {
     --background-color-body: #17181c;
@@ -33,6 +32,7 @@ body {
     background-color: var(--background-color-body);
     transition: background-color 0.5s ease;
     line-height: 0;
+    font-family: "Source Sans Pro", sans-serif;
 }
 img, button {
     width: 72px;
@@ -80,6 +80,10 @@ button p {
     height: 25px
 }
 #systemToggle {
+    bottom: 100px;
+    left: 10px;
+}
+#fontToggle {
     bottom: 55px;
     left: 10px;
 }
@@ -90,6 +94,12 @@ button p {
 #backgroundToggle {
     bottom: 10px; 
     right: 10px;
+}
+.omBlack p {
+    font-family: OpenMojiBlack;
+}
+.omColor p {
+    font-family: OpenMojiColor;
 }
 @media only screen and (max-width:576px) {
     button, img {
@@ -115,6 +125,14 @@ button p {
         margin: 0 1vw;
     }
 }
+@font-face {
+    font-family: 'OpenMojiBlack';
+    src: url('font/OpenMoji-Black.ttf') format('truetype');
+  }
+@font-face {
+    font-family: 'OpenMojiColor';
+    src: url('font/OpenMoji-Color.ttf') format('truetype');
+  }
 </style>
 </head>
 <body color-scheme='light'>
@@ -125,7 +143,7 @@ html += `<div id='color'>`
 html += _.map(emojisList, (e) => {
     if (e.skintone === '') {
         return `<button onclick="copyToClipboard('${e.hexcode}')">
-        <img class="lazy"  alt="${e.annotation}" title="${e.annotation} - ${e.hexcode}"
+        <img alt="${e.annotation}" title="${e.annotation} - ${e.hexcode}"
         src="${'color/72x72/' + e.hexcode +'.png'}" height="72" width="72">
     </button>`;
     }
@@ -136,7 +154,7 @@ html += `</div><div id='black' style='display:none;'>`
 html += _.map(emojisList, (e) => {
     if (e.skintone === '') {
         return `<button onclick="copyToClipboard('${e.hexcode}')">
-        <img class="lazy"  alt="${e.annotation}" title="${e.annotation} - ${e.hexcode}"
+        <img alt="${e.annotation}" title="${e.annotation} - ${e.hexcode}"
         src="${'black/72x72/' + e.hexcode +'.png'}" height="72" width="72">
     </button>`;
     }
@@ -154,28 +172,28 @@ html += _.map(emojisList, (e) => {
 
 html += `</div>
 <div id='toggles'>
-<div class='toggle' id='systemToggle'>
-<input type="checkbox" id="openmojisystemCheckbox"/>
-<label for="openmojisystemCheckbox" id="openmojisystemToggle"> Toggle System Emojis</label>
-</div>
+    <div class='toggle' id='systemToggle'>
+        <input type="checkbox" id="openmojisystemCheckbox"/>
+        <label for="openmojisystemCheckbox" id="openmojisystemToggle"> Toggle System Emojis</label>
+    </div>
 
-<div class='toggle' id='blackToggle'>
-<input type="checkbox" id="colorblackCheckbox"/>
-<label for="colorblackCheckbox" id="colorblackToggle"> Toggle Black Emojis</label>
-</div>
+    <div class='toggle' id='fontToggle'>
+        <input type="checkbox" id="openmojifontCheckbox"/>
+        <label for="openmojifontCheckbox" id="openmojifontToggle"> Toggle OpenMoji Font</label>
+    </div>
 
-<div class='toggle' id='backgroundToggle'>
-<input type="checkbox" id="modeCheckbox"/>
-<label for="modeCheckbox" id="modeToggle"> Toggle Background Color</label>
-</div>
+    <div class='toggle' id='blackToggle'>
+        <input type="checkbox" id="colorblackCheckbox"/>
+        <label for="colorblackCheckbox" id="colorblackToggle"> Toggle Black Emojis</label>
+    </div>
+
+    <div class='toggle' id='backgroundToggle'>
+        <input type="checkbox" id="modeCheckbox"/>
+        <label for="modeCheckbox" id="modeToggle"> Toggle Background Color</label>
+    </div>
 </div>
 
 <script>
-$(document).ready(function () {
-    // lazy loading images
-    $('.lazy').Lazy();
-});
-
 const colorblackToggle = document.getElementById('colorblackCheckbox');
 
 colorblackToggle.addEventListener('change', () => {
@@ -193,6 +211,28 @@ colorblackToggle.addEventListener('change', () => {
     }
 });
 
+const openmojifontToggle = document.getElementById('openmojifontCheckbox');
+
+openmojifontToggle.addEventListener('change', () => {
+    if (openmojifontToggle.checked) {
+        document.getElementById('system').style = "";        
+        if (colorblackToggle.checked) {
+            document.getElementById('system').classList.add("omBlack");
+        } else {
+            document.getElementById('system').classList.add("omColor");
+        }
+        document.getElementById('color').style = "display:none";
+        document.getElementById('black').style = "display:none";
+    } else {
+        document.getElementById('system').classList.remove("omBlack");
+        document.getElementById('system').classList.remove("omColor");
+        if (openmojisystemToggle.checked) {
+            document.getElementById('system').style = "";
+        } else {
+            document.getElementById('color').style = "";
+        }
+    }
+});
 const openmojisystemToggle = document.getElementById('openmojisystemCheckbox');
 
 openmojisystemToggle.addEventListener('change', () => {
