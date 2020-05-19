@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+
 'use strict';
 
 const path = require('path');
@@ -65,6 +66,21 @@ button:focus {
 button:active {
     transform: scale(1.4);
 }
+
+button p {
+	line-height: 72px;
+	font-size: 44px;
+	margin: 0;
+}
+
+.toggle {
+    position: fixed;
+    background-color: #aaa;
+    color: var(--background-color-body);
+    padding: 5px;
+    border-radius: 5px;
+    height: 25px
+}
 </style>
 </head>
 <body color-scheme='light'>
@@ -94,14 +110,30 @@ html += _.map(emojisList, (e, i) => {
     }
 }).join('\n');
 
+html += `</div><div id='system' style='display:none;'>`
+
+html += _.map(emojisList, (e, i) => {
+    if (e.skintone === '') {
+        return `<button onclick="copyToClipboard('${e.hexcode}')">
+        <p title="${e.annotation} - ${e.hexcode}">${e.emoji}</p>
+        </button>
+    `;
+    }
+}).join('\n');
+
 html += `</div>
 
-<div style='position: fixed; bottom: 10px; left: 10px; background-color: #aaa; color:var(--background-color-body); padding: 5px; border-radius: 5px;'>
+<div class='toggle' style='bottom: 55px; left: 10px;'>
+<input type="checkbox" id="openmojisystemCheckbox"/>
+<label for="openmojisystemCheckbox" id="openmojisystemToggle"> Toggle System Emojis</label>
+</div>
+
+<div class='toggle' style='bottom: 10px; left: 10px;'>
 <input type="checkbox" id="colorblackCheckbox"/>
 <label for="colorblackCheckbox" id="colorblackToggle"> Toggle Black/Color Emojis</label>
 </div>
 
-<div style='position: fixed; bottom: 10px; right: 10px; background-color: #aaa; color:var(--background-color-body); padding: 5px; border-radius: 5px;'>
+<div class='toggle' style='bottom: 10px; right: 10px;'>
 <input type="checkbox" id="modeCheckbox"/>
 <label for="modeCheckbox" id="modeToggle"> Toggle Background Color</label>
 </div>
@@ -118,9 +150,28 @@ colorblackToggle.addEventListener('change', () => {
     if (colorblackToggle.checked) {
         document.getElementById('black').style = "";
         document.getElementById('color').style = "display:none";
+        document.getElementById('system').style = "display:none";
     } else {
+        document.getElementById('system').style = "display:none";
         document.getElementById('black').style = "display:none";
         document.getElementById('color').style = "";
+    }
+});
+
+const openmojisystemToggle = document.getElementById('openmojisystemCheckbox');
+
+openmojisystemToggle.addEventListener('change', () => {
+    if (openmojisystemToggle.checked) {
+        document.getElementById('system').style = "";
+        document.getElementById('color').style = "display:none";
+        document.getElementById('black').style = "display:none";
+    } else {
+        document.getElementById('system').style = "display:none";
+        if (colorblackToggle.checked) {
+            document.getElementById('black').style = "";
+        } else {
+            document.getElementById('color').style = "";
+        }
     }
 });
 
