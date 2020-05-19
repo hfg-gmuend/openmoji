@@ -27,10 +27,11 @@ let html = `
     --background-hover: url("guidelines/openmoji-template.svg") #fff;
 }
 body {
-    max-width: 910px;
+    max-width: 864px;
     margin: 0 auto;
     background-color: var(--background-color-body);
     transition: background-color 0.5s ease;
+    line-height: 0;
 }
 button {
     display: inline-block;
@@ -88,38 +89,35 @@ button p {
 `;
 
 html += `<div id='color'>`
-html += _.map(emojisList, (e, i) => {
+html += _.map(emojisList, (e) => {
     if (e.skintone === '') {
         return `<button onclick="copyToClipboard('${e.hexcode}')">
         <img class="lazy"  alt="${e.annotation}" title="${e.annotation} - ${e.hexcode}" 
         src="${'color/72x72/' + e.hexcode +'.png'}" height="72" width="72">
-        </button>
-    `;
+    </button>`;
     }
-}).join('\n');
+}).join('');
 
 html += `</div><div id='black' style='display:none;'>`
 
-html += _.map(emojisList, (e, i) => {
+html += _.map(emojisList, (e) => {
     if (e.skintone === '') {
         return `<button onclick="copyToClipboard('${e.hexcode}')">
         <img class="lazy"  alt="${e.annotation}" title="${e.annotation} - ${e.hexcode}" 
         src="${'black/72x72/' + e.hexcode +'.png'}" height="72" width="72">
-        </button>
-    `;
+    </button>`;
     }
-}).join('\n');
+}).join('');
 
 html += `</div><div id='system' style='display:none;'>`
 
-html += _.map(emojisList, (e, i) => {
+html += _.map(emojisList, (e) => {
     if (e.skintone === '') {
         return `<button onclick="copyToClipboard('${e.hexcode}')">
         <p title="${e.annotation} - ${e.hexcode}">${e.emoji}</p>
-        </button>
-    `;
+    </button>`;
     }
-}).join('\n');
+}).join('');
 
 html += `</div>
 
@@ -130,7 +128,7 @@ html += `</div>
 
 <div class='toggle' style='bottom: 10px; left: 10px;'>
 <input type="checkbox" id="colorblackCheckbox"/>
-<label for="colorblackCheckbox" id="colorblackToggle"> Toggle Black/Color Emojis</label>
+<label for="colorblackCheckbox" id="colorblackToggle"> Toggle Black Emojis</label>
 </div>
 
 <div class='toggle' style='bottom: 10px; right: 10px;'>
@@ -152,9 +150,12 @@ colorblackToggle.addEventListener('change', () => {
         document.getElementById('color').style = "display:none";
         document.getElementById('system').style = "display:none";
     } else {
-        document.getElementById('system').style = "display:none";
         document.getElementById('black').style = "display:none";
-        document.getElementById('color').style = "";
+        if (openmojisystemToggle.checked) {
+            document.getElementById('system').style = "";
+        } else {
+            document.getElementById('color').style = "";
+        }
     }
 });
 
