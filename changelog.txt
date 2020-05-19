@@ -72,6 +72,7 @@ Fix:
   * size of Computer Mouse
   * alignment of Trackball
   * detail in Couch and Lamp
+  * mask in Medical Mask
 
 Tech:
   * Blazing fast new build system by Kris Kowal @kriskowal

@@ -8,24 +8,23 @@
   </g>
   <g id="color">
     <circle cx="36" cy="36" r="24" fill="#FCEA2B"/>
+    <path stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m58.87 38.37-14.28 13.6"/>
     <path fill="#fff" d="m40.55 55.13c-1.106 0.342-8.026 0.6917-9.083 0.2118-9.386-4.261-9.325-11.73-10.13-16.94 2.693-1.103 26.93-0.07676 28.96-0.1059-0.5355 9.32-2.022 11.1-9.751 16.84z"/>
+    <path stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m58.91 34.37-8.4 4.853"/>
+    <path stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m13.17 38.37 13.96 13.6"/>
+    <path stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m13.13 34.37 8.4 4.853"/>
   </g>
-  <g id="line" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-    <path stroke="#fff" stroke-miterlimit="10" d="m12.83 38.23 10.43 11.16"/>
-    <path stroke="#fff" stroke-miterlimit="10" d="m12.79 34.2 8.7 5.02"/>
-    <path stroke="#fff" stroke-miterlimit="10" d="m59.17 38.12-10.43 11.16"/>
-    <path stroke="#fff" stroke-miterlimit="10" d="m59.21 34.2-8.7 5.02"/>
-    <path stroke="#000" stroke-miterlimit="10" d="m47.79 45.69"/>
-    <path stroke="#000" stroke-miterlimit="10" d="m23.24 32.01s3.439-2.888 7.849-1.546"/>
-    <path stroke="#000" stroke-miterlimit="10" d="m48.76 32.01s-3.439-2.888-7.849-1.546"/>
-    <path stroke="#000" stroke-miterlimit="10" d="m59.18 33.28-8.7 5.02"/>
-    <path stroke="#000" stroke-miterlimit="10" d="m58.23 30.14c-2.588-9.842-11.54-17.11-22.19-17.14"/>
-    <path stroke="#000" stroke-miterlimit="10" d="m14.49 44.21c3.298 8.63 11.65 14.77 21.44 14.79 9.833 0.02297 18.24-6.128 21.55-14.8"/>
-    <path stroke="#000" stroke-miterlimit="10" d="m13.12 33.5"/>
-    <path stroke="#000" stroke-miterlimit="10" d="m36.04 13c-10.68-0.025-19.68 7.237-22.29 17.1"/>
-    <path stroke="#000" d="m21.39 38.4 28.96-0.1059c1.551 9.883-4.17 13.53-9.751 16.84-2.606 1.543-6.431 1.675-9.083 0.2118-5.76-3.179-10.13-4.852-10.13-16.94z"/>
-    <path stroke="#000" stroke-miterlimit="10" d="m59.09 37.22-10.03 10.72"/>
-    <path stroke="#000" stroke-miterlimit="10" d="m12.82 33.38 8.7 5.02"/>
-    <path stroke="#000" stroke-miterlimit="10" d="m12.91 37.33 9.959 10.52"/>
+  <g id="line" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2">
+    <path d="m47.79 45.69"/>
+    <path d="m23.24 32.01s3.439-2.888 7.849-1.546"/>
+    <path d="m48.76 32.01s-3.439-2.888-7.849-1.546"/>
+    <path d="m58.91 33.52-8.427 4.775"/>
+    <path d="m58.23 30.14c-2.588-9.842-11.54-17.11-22.19-17.14-10.68-0.025-19.68 7.237-22.29 17.1"/>
+    <path d="m14.49 44.21c3.298 8.63 11.65 14.77 21.44 14.79 9.833 0.02297 18.24-6.128 21.55-14.8"/>
+    <path d="m13.12 33.5"/>
+    <path d="m21.52 38.4 28.96-0.1059c0 22.21-28.96 22.25-28.96 0.1118z"/>
+    <path d="m58.96 37.35-10.59 10.3"/>
+    <path d="m13.05 33.52 8.427 4.775"/>
+    <path d="m13 37.35 10.59 10.3"/>
   </g>
 </svg>
