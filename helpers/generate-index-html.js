@@ -14,15 +14,16 @@ let html = `
 <head>
 <title>OpenMoji Catalog</title>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
 <style>
-[color-scheme='dark'] {
+body[color-scheme='dark'] {
     --background-color-body: #17181c;
     --background-hover: #333;
 }
 
-[color-scheme='light'] {
+body[color-scheme='light'] {
     --background-color-body: white;
     --background-hover: url("guidelines/openmoji-template.svg") #fff;
 }
@@ -33,8 +34,7 @@ body {
     transition: background-color 0.5s ease;
     line-height: 0;
 }
-img,
-button {
+img, button {
     width: 72px;
     height: 72px;
 }
@@ -55,8 +55,7 @@ button {
     -webkit-appearance: none;
     -moz-appearance: none;
 }
-button:hover,
-button:focus {
+button:hover, button:focus {
     background: var(--background-hover);
     transform: scale(1.5);
 }
@@ -92,7 +91,7 @@ button p {
     bottom: 10px; 
     right: 10px;
 }
-@media only screen and (max-width:864px) {
+@media only screen and (max-width:576px) {
     button, img {
         height: 14vw;
         width: 14vw;
@@ -111,6 +110,9 @@ button p {
         bottom: 0;
         width: 100%;
         padding: 2.5px;
+    }
+    #color, #black, #system {
+        margin: 0 1vw;
     }
 }
 </style>
