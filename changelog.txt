@@ -43,6 +43,7 @@ Redesign:
   * Check Mark
   * Keyboard
   * Hot Beverage 
+  * Closed Umberella
 
 Fix:
   * Exploding Head by @taralynnconnelly
