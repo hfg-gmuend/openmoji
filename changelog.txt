@@ -78,6 +78,7 @@ Fix:
   * detail in Couch and Lamp
   * mask in Medical Mask
   * swirl in Lollipop
+  * size of Handshake
 
 Tech:
   * Blazing fast new build system by Kris Kowal @kriskowal
