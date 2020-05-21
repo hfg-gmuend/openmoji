@@ -7,9 +7,9 @@
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m26.92 45.92s3.705 3.389 9.652 3.771c6.942 0.3136 10.42-3.695 10.42-3.695"/>
     <circle cx="26.5" cy="27.5" r="5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <circle cx="45.5" cy="27.5" r="5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <circle cx="45.5" cy="27.5" r="5" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="45.5" cy="27.5" r="5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
     <circle cx="47.75" cy="27.75" r="1.75" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <circle cx="26.5" cy="27.5" r="5" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="26.5" cy="27.5" r="5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
     <circle cx="28.75" cy="27.75" r="1.75" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>
