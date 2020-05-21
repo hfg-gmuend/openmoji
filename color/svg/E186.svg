@@ -1,0 +1,37 @@
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="skin">
+    <ellipse cx="33" cy="29.5" rx="12" ry="14.5" fill="#FCEA2B"/>
+  </g>
+  <g id="hair">
+    <path fill="#6A462F" d="M42.8 15.1C45.8 20.9 44.1 27 44.1 27C44.1 26.9 44.1 26.8 44.1 26.6C42.3 19.4 40.3 18 39.1 17.9V17.5C40.1 17 41.5 16.1 42.6 14.9L42.8 15.1Z"/>
+    <path fill="#6A462F" d="M43.9 9.7C44.7 11.9 44 13.6 42.7 15C41.6 16.2 40.2 17 39.2 17.5C38.5 17.9 38 18 38 18C32.2 20.2 31.9 19.9 27.4 18C27.4 18 24 15.5 21.2 26.6C21.2 26.7 21.2 26.8 21.2 27C21.2 27 19 20.2 23.2 13.8C26.4 8.9 36.1 11.4 36.1 11.4L39.2 9L40.3 12.1L43.9 9.7Z"/>
+  </g>
+  <g id="color">
+    <path fill="#3F3F3F" d="M14 59.1V55.1C14 50.1 19 46.1 24 46.1C30 51.1 36 51.1 42 46.1C47 46.1 52 50.1 52 55.1V59.1"/>
+    <path fill="#6A462F" fill-rule="evenodd" d="M23.0477 46.1477C22.0024 46.2519 20.9711 46.524 20 46.9361V59.1H46V46.9361C45.1742 46.5856 44.3047 46.3364 43.4202 46.2056L42.5 46.6L42 54.1H24L23.5 46.6L23.0477 46.1477Z" clip-rule="evenodd"/>
+    <path fill="#fff" d="M41 57.1L61 57.1L59 60.1H43L41 57.1Z"/>
+    <g>
+      <path fill="#fff" fill-rule="evenodd" d="M51 58.1C54.3137 58.1 57 53.6228 57 48.1H45C45 53.6228 47.6863 58.1 51 58.1Z" clip-rule="evenodd"/>
+      <path fill="#fff" d="M57 48.1H58C58 47.5477 57.5523 47.1 57 47.1V48.1ZM45 48.1V47.1C44.4477 47.1 44 47.5477 44 48.1H45ZM56 48.1C56 50.7113 55.3629 53.027 54.3851 54.6565C53.3955 56.306 52.1676 57.1 51 57.1V59.1C53.1461 59.1 54.9182 57.6554 56.1001 55.6855C57.294 53.6958 58 51.0115 58 48.1H56ZM45 49.1H57V47.1H45V49.1ZM51 57.1C49.8324 57.1 48.6045 56.306 47.6149 54.6565C46.6371 53.027 46 50.7113 46 48.1H44C44 51.0115 44.706 53.6958 45.8999 55.6855C47.0818 57.6554 48.8539 59.1 51 59.1V57.1Z"/>
+    </g>
+  </g>
+  <g id="line">
+    <path fill="#000" d="M37 24.7C38.1 24.7 39 25.6 39 26.7C39 27.8 38.1 28.7 37 28.7C35.9 28.7 35 27.8 35 26.7C35 25.6 35.9 24.7 37 24.7Z"/>
+    <path fill="#000" d="M36.9 34.5C37.1 35 36.9 35.6 36.4 35.8C35.3 36.4 34.1 36.6 32.9 36.6C31.7 36.6 30.6 36.3 29.5 35.8C29 35.6 28.8 35 29 34.5C29.2 34 29.8 33.8 30.3 34.1C32 35 33.7 35 35.4 34.1C36 33.8 36.6 34 36.9 34.5Z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" d="M33 32C33 32 34.2 30 36.6 32C36.9721 32.3786 37.4609 32.6208 37.9875 32.6875"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" d="M32.9875 32C32.9875 32 31.7875 30 29.3875 32C29.0154 32.3786 28.5266 32.6208 28 32.6875"/>
+    <path fill="#000" d="M29 24.7C30.1 24.7 31 25.6 31 26.7C31 27.8 30.1 28.7 29 28.7C27.9 28.7 27 27.8 27 26.7C27 25.6 27.9 24.7 29 24.7Z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M21.3 27C21.3 27.4 21.3 28.4 21.2 29.4C21 32.5 21.6 35.6 23.1 38.3C23.7 39.3 24.4 40.3 25.2 41C28 43.4 30.8 43.5 32.6 43.5"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M44.2 27C44.2 27.4 44.3 28.4 44.3 29.4C44.5 32.5 43.9 35.6 42.4 38.3C41.8 39.3 41.2 40.3 40.3 41C37.5 43.4 34.8 43.5 32.9 43.5C32.8 43.5 32.7 43.5 32.6 43.5"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M21.3 27C21.3 27 19.1 20.2 23.3 13.8C26.5 8.9 36.2 11.4 36.2 11.4L39.3 9L40.4 12.1L43.8 9.6C44.6 11.8 43.9 13.5 42.6 14.9C41.5 16.1 40.1 16.9 39.1 17.4C38.4 17.8 37.9 17.9 37.9 17.9C32.1 20.1 31.8 19.8 27.3 17.9C27.3 17.9 23.9 15.4 21.1 26.5"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M39 17.9C39.1 17.9 39.1 17.9 39.2 17.9C40.4 18 42.4 19.4 44.2 26.6"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M42.8 15.1C45.8 20.9 44.1 27 44.1 27"/>
+    <g>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 58V55C14 50 19 46 24 46C30 51 36 51 42 46C42.5017 46 43.0034 46.0403 43.5 46.1178"/>
+      <path fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" d="M23.5 46.6L24 54.1H42L42.5 46.6"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-width="2" d="M20 47.1V58.1"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M46.1996 54.1C45.4463 52.4287 45 50.3512 45 48.1H57C57 50.3512 56.5537 52.4287 55.8004 54.1"/>
+      <path fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" d="M41 57.1L61 57.1L59 60.1H43L41 57.1Z"/>
+    </g>
+  </g>
+</svg>

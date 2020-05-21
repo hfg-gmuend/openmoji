@@ -1,0 +1,17 @@
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="line">
+    <path fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" d="M32.9683 15.3C26.9048 15.3 21.9683 20.3 21.9683 29.3C21.9683 35.9462 25.3647 43.4 32.9683 43.4C40.5242 43.4 44.0318 35.917 44.0318 29.3C44.0318 20.3 38.9048 15.3 32.9683 15.3Z"/>
+    <path fill="#000" d="M39 27.9C39 29 38.1 29.9 37 29.9C35.9 29.9 35 29 35 27.9C35 26.8 35.9 25.9 37 25.9C38.1 25.9 39 26.8 39 27.9Z"/>
+    <path fill="#000" d="M31 27.9C31 29 30.1 29.9 29 29.9C27.9 29.9 27 29 27 27.9C27 26.8 27.9 25.9 29 25.9C30.1 25.9 31 26.8 31 27.9Z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M30 36.1C31.9 37.1 34.1 37.1 36 36.1"/>
+    <path fill="none" stroke="#000" stroke-width="2" d="M30.5 15.4517C29.5855 14.9935 29 14.2895 29 13.5C29 12.1193 30.7909 11 33 11C35.2091 11 37 12.1193 37 13.5C37 14.2895 36.4145 14.9935 35.5 15.4517"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M22 28.5C22 21 29 18 33 20.5C37 18 44 21 44 28.5"/>
+    <g>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 58V55C14 50 19 46 24 46C30 51 36 51 42 46C42.5017 46 43.0034 46.0403 43.5 46.1178"/>
+      <path fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" d="M23.5 46.6L24 54.1H42L42.5 46.6"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-width="2" d="M20 47.1V58.1"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M46.1996 54.1C45.4463 52.4287 45 50.3512 45 48.1H57C57 50.3512 56.5537 52.4287 55.8004 54.1"/>
+      <path fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" d="M41 57.1L61 57.1L59 60.1H43L41 57.1Z"/>
+    </g>
+  </g>
+</svg>

@@ -4,14 +4,10 @@
   </g>
   <g id="line">
     <circle cx="36" cy="36" r="26.68" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.74" paint-order="normal"/>
-    <g transform="matrix(.6662 0 0 .6662 12.46 12.26)" fill="#fff">
-      <g id="Standing_Man" fill="#fff">
-        <g fill="#fff">
-          <circle cx="35.4" cy="10.65" r="2.969" fill="#000" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
-          <path fill="#000" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.999" d="m26.37 41.59 0.792-19c0.1444-2.78 2.425-4.969 5.208-5l5.964-5e-5c2.747 0.03103 5.027 2.22 5.172 5l0.792 19z" paint-order="normal"/>
-          <path fill="#000" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m40.37 23.59 1.9 38c0.055 1.1-0.575 2-1.4 2a2.076 2.076 0 0 1-1.729-1.987l-2.542-22.03c-0.129-1.093-0.679-1.987-1.229-1.987s-1.103 0.894-1.229 1.987l-2.539 22.03a2.076 2.076 0 0 1-1.729 1.987c-0.825 0-1.455-0.9-1.4-2l1.9-38"/>
-        </g>
-      </g>
+    <g transform="translate(12.46 12.26) scale(.6662)">
+      <circle cx="35.4" cy="10.65" r="2.969" fill="#000" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path fill="#000" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.999" d="m26.37 41.59 0.792-19c0.1444-2.78 2.425-4.969 5.208-5l5.964-5e-5c2.747 0.03103 5.027 2.22 5.172 5l0.792 19z" paint-order="normal"/>
+      <path fill="#000" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m40.37 23.59 1.9 38c0.055 1.1-0.575 2-1.4 2a2.076 2.076 0 0 1-1.729-1.987l-2.542-22.03c-0.129-1.093-0.679-1.987-1.229-1.987s-1.103 0.894-1.229 1.987l-2.539 22.03a2.076 2.076 0 0 1-1.729 1.987c-0.825 0-1.455-0.9-1.4-2l1.9-38"/>
     </g>
   </g>
 </svg>
