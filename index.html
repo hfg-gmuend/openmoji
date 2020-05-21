@@ -17,12 +17,59 @@ body[color-scheme='light'] {
     --background-hover: url("guidelines/openmoji-template.svg") #fff;
 }
 body {
-    max-width: 864px;
-    margin: 0 auto;
+    margin: 0;
+    padding: 0;
     background-color: var(--background-color-body);
     transition: background-color 0.5s ease;
     line-height: 0;
     font-family: "Source Sans Pro", sans-serif;
+}
+header {
+	border-bottom: rgba(129, 128, 128, 0.5) 1px solid;
+    background-color: #FFF;
+    box-sizing: border-box;
+    padding: 0 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+	max-width: 100vw;
+    position: sticky;
+    top: 0;
+}
+header nav {
+	display: flex;
+	align-items: center;
+}
+header nav ul {
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+header nav ul li {
+    box-sizing: border-box;
+    height: 30px;
+    margin-right: 30px;
+    cursor: default;
+    list-style: none;
+}
+header nav ul li a {
+	vertical-align: middle;
+	display: inline-block;
+	line-height: 1.55rem;
+	font-size: 17px;
+}
+a {
+    text-decoration: none;
+    color: #525252;
+    transition: all 0.2s;
+}
+a:hover {
+    color: #101010;
+}
+#emojis {
+    max-width: 864px;
+    margin: 0 auto;
 }
 img, button {
     width: 72px;
@@ -61,45 +108,40 @@ button p {
 	font-size: 44px;
 	margin: 0;
 }
-#toggles {
-    display: grid;
-    grid-template-columns: auto auto;
-    position: fixed;
-    bottom: 0;
-    left: 0;
+li img {
+    width: 30px;
+    height: 30px;
+	margin-top: -5px;
+}
+li p {
+	margin-top: 10px;
+}
+li button {
+	color: inherit;
+    height: auto;
     width: auto;
-    padding: 2.5px;
+	font-family: inherit;
+	background: none;
+	padding: 0 5px;
+	margin: 0 5px;
+	font-size: 17px;
 }
-.toggle {
-    position: static;
-    background-color: #aaa;
-    color: var(--background-color-body);
-    padding: 5px;
-    margin: 2.5px;
-    border-radius: 5px;
-    height: 25px
-}
-.selected {
-    background: #666;
-}
-button.toggle  {
-    width: auto;
-    height: 35px;
-    color: var(--background-color-body);
-}
-button.toggle:hover {
-    background: #bbb;
+li button:hover {
+    background: none;
     transform: none;
+    color: #555;
 }
-button.toggle:focus {
-	outline: 1px solid #fff;
-	outline-offset: -4px;
-	background: #666;
+li button:active {
+    background: none;
+}
+li button:focus {
+	outline: 1px solid #0003;
+	outline-offset: -2px;
+	background: none;
 	transform: none;
 }
-button.toggle:active {
-    transform: scale(0.95);
-    background: #666;
+li.selected {    
+    border-bottom: 4px solid #3D98BB;
 }
 #pngsvgToggle {
     bottom: 100px;
@@ -159,7 +201,32 @@ button.toggle:active {
 </style>
 </head>
 <body color-scheme='light'>
-<p style='text-align: center; padding: 15px; font-style: italic; color: #999;'> click to copy codepoint </p>
+    <header class="page-header">
+        <nav>
+            <ul>
+                <li>
+                    <p>OpenMoji</p>
+                </li>
+                <li class="selected" id='pngT'><button>PNG</button></li>
+                <li id='svgT'><button>SVG</button></li>
+                <li id='openmojiT'><button>Font</button></li>
+                <li id='systemT'><button>System</button></li>
+            </ul>
+        </nav>
+        <nav>
+            <ul>
+                <li class='selected' id='colorT'><button>Color</button></li>
+                <li id='blackT'><button>Black</button></li>
+                <li id='backgroundT'>
+                    <button>
+                        <img alt="crescent moon" title="crescent moon - 1F319" src="color/svg/1F319.svg">
+                    </button>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <p style='text-align: center; padding: 15px; font-style: italic; color: #999;'> click to copy codepoint </p>
+    <div id='emojis'>
 <div id='pngColor'><button onclick="copyToClipboard('1F600')">
         <img alt="grinning face" title="grinning face - 1F600"
         src="color/72x72/1F600.png" height="72" width="72">
@@ -29532,23 +29599,7 @@ button.toggle:active {
         <p title="horizontal black octagon - 2BC3">⯃</p>
     </button><button onclick="copyToClipboard('2BC4')">
         <p title="black octagon - 2BC4">⯄</p>
-    </button></div>
-<div id='toggles'>
-    <button class='toggle selected' id='pngT'>PNG</button>
-    <button class='toggle' id='svgT'>SVG</button>
-
-    <button class='toggle' id='openmojiT'>OpenMoji</button>
-    <button class='toggle' id='systemT'>System</button>
-
-    <button class='toggle selected' id='colorT'>Color</button>
-    <button class='toggle' id='blackT'>Black</button>
-
-    <div class='toggle' id='backgroundToggle'>
-        <input type="checkbox" id="modeCheckbox"/>
-        <label for="modeCheckbox" id="modeToggle"> Toggle Background Color</label>
-    </div>
-</div>
-
+    </button></div></div></body>
 <script>
 function toggle(t) {
     if (t == 'blackT' || t == 'colorT') {
@@ -29564,7 +29615,7 @@ function toggle(t) {
 
     const state = [...
         document.querySelectorAll('.selected')
-    ].map(i => i.innerHTML);
+    ].map(i => i.children[0].innerHTML);
 
     switch (state[0]) {
         case 'PNG':
@@ -29595,7 +29646,7 @@ function toggle(t) {
                 document.getElementById('svgColor').style = "";
             }
             break;
-        case 'OpenMoji':
+        case 'Font':
             document.getElementById('pngBlack').style = "display:none";
             document.getElementById('pngColor').style = "display:none";
             document.getElementById('svgBlack').style = "display:none";
@@ -29603,11 +29654,11 @@ function toggle(t) {
 
             document.getElementById('system').style = "";
             if (state[1] == 'Black') {
-                // black OpenMoji
+                // black Font
                 document.getElementById('system').classList.add("omBlack");
                 document.getElementById('system').classList.remove("omColor");
             } else {
-                // color OpenMoji
+                // color Font
                 document.getElementById('system').classList.remove("omBlack");
                 document.getElementById('system').classList.add("omColor");
             }
@@ -29632,15 +29683,17 @@ function toggle(t) {
     }
 }
 
-const modeToggle = document.getElementById('modeCheckbox');
-
-modeToggle.addEventListener('change', () => {
-    if (modeToggle.checked) {
+function toggleNightmode() {
+    if (document.body.getAttribute('color-scheme') == 'light') {
         document.body.setAttribute('color-scheme', 'dark');
+        
+        document.getElementById('backgroundT').children[0].innerHTML = '<img alt="bright button" title="bright button - 1F506" src="color/svg/1F506.svg">'
     } else {
         document.body.setAttribute('color-scheme', 'light');
+
+        document.getElementById('backgroundT').children[0].innerHTML = '<img alt="crescent moon" title="crescent moon - 1F319" src="color/svg/1F319.svg">'
     }
-});
+}
 
 function copyToClipboard(value) {
     var temp = document.createElement('input')
@@ -29669,6 +29722,8 @@ document.getElementById('colorT').onclick = () => {
 document.getElementById('blackT').onclick = () => {
     toggle('blackT')
 };
+document.getElementById('backgroundT').onclick = () => {
+    toggleNightmode()
+}; 
 </script>
-</body>
 </html>

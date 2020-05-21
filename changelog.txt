@@ -76,6 +76,7 @@ Fix:
   * alignment of Trackball
   * detail in Couch and Lamp
   * mask in Medical Mask
+  * swirl in Lollipop
 
 Tech:
   * Blazing fast new build system by Kris Kowal @kriskowal
