@@ -32,7 +32,7 @@ Install with [npm](https://www.npmjs.com/package/openmoji):
 
 An array of openmoji emoji data. A openmoji emoji datum has the following structure:
 
-```
+```javascript
 {
   emoji: '😀',
   hexcode: '1F600',
@@ -66,18 +66,22 @@ The paths under `openmoji_images` are absolute paths to image files located insi
 
 Colors and skintones allowed in the emojis.
 
-    {
-      colors: <an array of color strings>
-      skintones: {
-        fitzpatric: <an array of color strings>,
-        shadow: <an array of color strings>,
-        hair: <an array of color strings>
-      }
-    }
+```javascript
+{
+  colors: <an array of color strings>
+  skintones: {
+    fitzpatric: <an array of color strings>,
+    shadow: <an array of color strings>,
+    hair: <an array of color strings>
+  }
+}
+```
 
 where an array of color strings is structurally similar to:
 
-    [ '#debb90', '#c19a65', '#a57939', '#6a462f', '#352318' ]
+```javascript
+[ '#debb90', '#c19a65', '#a57939', '#6a462f', '#352318' ]
+```
 
 ### openmoji.version
 
