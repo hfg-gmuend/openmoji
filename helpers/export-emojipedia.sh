@@ -9,8 +9,8 @@ cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/..
 # Use a subshell to scope the directory change.
 (
   cd color/svg
-  # remove old files
-  rm ../512x512/*.png
+  # remove old files if any
+  rm -f ../512x512/*.png
   echo "convert color svgs to pngs"
   for f in *.svg; do
     # echo "Export to png (color): $f"
