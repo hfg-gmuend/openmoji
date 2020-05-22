@@ -4,7 +4,16 @@
 
 --------------------------------------------------------------------------------
 
-❓ OpenMoji 12.3/13.0 - ?? ????? 2020
+🛠 OpenMoji 12.3 - 22 May 2020
+
+Many improvements, fixes and new OpenMojis:
+👉 More Emoji 13, ca. 2/3 of all new ones
+👉 New logos and symbols
+👉 New and consolidated animals
+👉 New flags and lots of fixes
+👉 New set of various coffee related things
+
+🙏 Special thanks to @kriskowal for making the new build system happen!
 
 New:
   + Emoji 13:
@@ -12,25 +21,23 @@ New:
     1FAA4 Mouse Trap, 1FAA7 Placard, 1FA9E Mirror, 1FA83 Boomerang, 1FAA3 Bucket,
     1FAB6 Feather, 1FAB4 Potted Plant, 1FA9D Hook, 1FAA6 Headstone
     by Liz Bravo @lizbravob
-  + Web syndication/RSS logo, Tardis, Power symbols, Android logo, Apple logo, 
-    Windows logo, Ubuntu logo 
-    by @fuddl
-  + Narwhal, Beluga, Porpoise by @kriskowal
-  + Orca and Spouting Orca by Selina Bauer
-  + More geometric Unicode shapes in extras-unicode/symbol-other by @loominade
-  + Doe
-  + Texas Flag
-  + Esperanto Flag
-  + United Federation of Planets Flag
-  + No Handshaking
-  + Dejected Face
-  + Creative Commons Symbols
-  + LinkedIn Logo
-  + Browncoats flag
-  + Generic monochrome Flags
-  + Nail and Gear Flag
-  + various coffee related things:
-    Coffee machines and appliances, Baristas, Symbols
+  + Logos:
+    Android logo, Apple logo, Windows logo, Ubuntu logo by @fuddl
+    LinkedIn Logo
+    Creative Commons Symbols
+  + Symbols:
+    Web syndication/RSS, Tardis, Power symbols,
+    More geometric Unicode shapes in extras-unicode/symbol-other by @loominade
+    Improved face mask, no handshaking, dejected face
+  + Animals:
+    Narwhal, Beluga, Porpoise by @kriskowal
+    Orca and Spouting Orca by Selina Bauer
+    Doe
+  + Flags:
+    Generic monochrome flags, California, Berlin, Texas, Esperanto, Nail and Gear,
+    United Federation of Planets (Star Trek),
+  + Various coffee related things:
+    Coffee machines and appliances, Baristas, Symbols by @fuddl
 
 Redesign:
   * Dolphin by @kriskowal
@@ -42,7 +49,7 @@ Redesign:
   * Loudly Crying
   * Check Mark
   * Keyboard
-  * Hot Beverage 
+  * Hot Beverage
   * Closed Umberella
 
 Fix:
@@ -51,9 +58,9 @@ Fix:
   * signs and align Aries, Gemini, Virgo, Scorpio, Capricorn, Libra, Sagittarius, Om,
     Orthodox Cross, Wheel of Dharma, Taurus, Cancer, Leo, Aquarius, Pisces, Ophiuchus
   * Flags:
-       Portugal, Afghanistan, Laos, Turkey, Kazakhstan, Maldives, Jersey, New Caledonia,
-       Niger, Antarctica, Mayotte, Hong Kong, Aruba, Pirate, Isle of Man, Iraq,
-       Bhutan, Czech Republic @mikiqex, Cuba
+    Portugal, Afghanistan, Laos, Turkey, Kazakhstan, Maldives, Jersey, New Caledonia,
+    Niger, Antarctica, Mayotte, Hong Kong, Aruba, Pirate, Isle of Man, Iraq,
+    Bhutan, Czech Republic @mikiqex, Cuba
   * contour in Cat
   * contour in Victory Hand
   * structure in Classical Building
@@ -85,6 +92,9 @@ Tech:
   * OpenMoji Black/Colorfont scale up by 1.3 to match emoji size of other vendors
   * New cleanup script for figma svg export @fuddl
   * Add test to remove white fills from black emojis
+  * Handy new overview index.html catalog
+  * Improved node.js package and added docs, see API.md
+
 
 --------------------------------------------------------------------------------
 
