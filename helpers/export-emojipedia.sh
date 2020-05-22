@@ -17,8 +17,7 @@ cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/..
     rsvg-convert -w 512 "$f" > ../512x512/"${f%%.*}.png"
   done
   echo "crush png to 256 colors with transparent background"
-  find ../512x512 -name '*.png' -print0 \
-    | xargs -0 -P8 -L4 pngquant --ext .png --force 256
+  find ../512x512 -name '*.png' -print0 | xargs -0 -P8 -L4 pngquant --ext .png --force 256
 )
 
 # -- Zip --
