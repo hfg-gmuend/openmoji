@@ -26,7 +26,7 @@ describe('Color', function() {
     emojis.forEach(emoji => {
       it(`${emoji.emoji} ${emoji.hexcode}.svg should have correct fill colors`, function(){
         const doc = createDoc(emoji);
-        const query = doc.querySelectorAll(':not(#grid) > [fill]');
+        const query = Array.from(doc.querySelectorAll('[fill]')).filter(item => !item.parentNode.closest('#grid'));
         query.forEach(el => {
           expect(validColors).to.include(el.getAttribute('fill').toLowerCase());
         });
@@ -38,7 +38,7 @@ describe('Color', function() {
     emojis.forEach(emoji => {
       it(`${emoji.emoji} ${emoji.hexcode}.svg should have correct stroke colors`, function(){
         const doc = createDoc(emoji);
-        const query = doc.querySelectorAll(':not(#grid) > [stroke]');
+        const query = Array.from(doc.querySelectorAll('[stroke]')).filter(item => !item.parentNode.closest('#grid'));
         query.forEach(el => {
           expect(validColors).to.include(el.getAttribute('stroke').toLowerCase());
         });
@@ -50,14 +50,14 @@ describe('Color', function() {
     emojis.forEach(emoji => {
       it(`${emoji.emoji} ${emoji.hexcode}.svg #line layer should have only black strokes`, function(){
         const doc = createDoc(emoji);
-        const query = doc.querySelectorAll('#line > [stroke], #line-supplement > [stroke]');
+        const query = doc.querySelectorAll('#line [stroke], #line-supplement [stroke]');
         query.forEach(el => {
           expect(['black', '#000000', '#000', 'none']).to.include(el.getAttribute('stroke').toLowerCase());
         });
       });
       it(`${emoji.emoji} ${emoji.hexcode}.svg #line layer should have only black fills (if any)`, function(){
         const doc = createDoc(emoji);
-        const query = doc.querySelectorAll('#line > [fill], #line-supplement > [fill]');
+        const query = doc.querySelectorAll('#line [fill], #line-supplement [fill]');
         query.forEach(el => {
           expect(['black', '#000000', '#000', 'none']).to.include(el.getAttribute('fill').toLowerCase());
         });
