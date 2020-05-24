@@ -16,7 +16,10 @@ Redesign:
   * Bahrain Flag
 
 Fix:
-  *
+  * number of fingers in Face with Hand Over Mouth, Yawning Face, Hugging Face 
+  * size of hand in Thinking Face
+  * contour in Shushing Face
+    by @nicdiac
 
 Tech:
   *
