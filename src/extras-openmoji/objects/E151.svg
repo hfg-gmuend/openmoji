@@ -7,6 +7,7 @@
     <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M36 65C52.0163 65 65 52.0163 65 36C65 19.9837 52.0163 7 36 7C19.9837 7 7 19.9837 7 36C7 52.0163 19.9837 65 36 65Z"/>
   </g>
   <g id="color">
+    <path fill="#fff" d="M22 16H50V22H23L18 18L22 16Z"/>
     <path fill="#A57939" fill-rule="evenodd" d="M50 21V21.6981V56C50 58.2091 48.2091 60 46 60H26C23.7909 60 22 58.2091 22 56V21.6981V21H50Z" clip-rule="evenodd"/>
     <path fill="#3F3F3F" d="M35.5 5C33.567 5 32 6.567 32 8.5C32 9.0368 32.1208 9.54537 32.3368 10H38.6632C38.8792 9.54537 39 9.0368 39 8.5C39 6.567 37.433 5 35.5 5Z"/>
     <path fill="#9B9B9A" d="M34 15.5L37 15.5V26L34 24V15.5Z"/>
@@ -14,7 +15,6 @@
     <path fill="#6A462F" fill-rule="evenodd" d="M50 56H22C22 58.2091 23.7909 60 26 60H46C48.2091 60 50 58.2091 50 56Z" clip-rule="evenodd"/>
     <path fill="#3F3F3F" fill-rule="evenodd" d="M50 46V50C57.732 50 64 43.732 64 36C64 28.268 57.732 22 50 22V26C55.5228 26 60 30.4772 60 36C60 41.5228 55.5228 46 50 46Z" clip-rule="evenodd"/>
     <path fill="none" stroke="#3F3F3F" stroke-linecap="round" stroke-width="2" d="M35.5 5C33.567 5 32 6.567 32 8.5C32 9.0368 32.1208 9.54537 32.3368 10H38.6632C38.8792 9.54537 39 9.0368 39 8.5C39 6.567 37.433 5 35.5 5Z"/>
-    <path fill="#fff" d="M22 16H50V22H23L18 18L22 16Z"/>
   </g>
   <g id="line">
     <g id="line_2">
