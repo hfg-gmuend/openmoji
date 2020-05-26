@@ -13,20 +13,20 @@
     <rect x="5" y="34" width="62" height="4" fill="#d22f27"/>
     <rect x="5" y="17" width="32" height="21" fill="#1e50a0"/>
     <rect x="5" y="42" width="62" height="4" fill="#d22f27"/>
-    <circle cx="9.5" cy="22" r="1.75" fill="#fff"/>
-    <circle cx="17.5" cy="22" r="1.75" fill="#fff"/>
-    <circle cx="25.5" cy="22" r="1.75" fill="#fff"/>
-    <circle cx="33.5" cy="22" r="1.75" fill="#fff"/>
-    <circle cx="29.5" cy="26" r="1.75" fill="#fff"/>
-    <circle cx="21.5" cy="26" r="1.75" fill="#fff"/>
-    <circle cx="13.5" cy="26" r="1.75" fill="#fff"/>
-    <circle cx="9.5" cy="30" r="1.75" fill="#fff"/>
-    <circle cx="17.5" cy="30" r="1.75" fill="#fff"/>
-    <circle cx="25.5" cy="30" r="1.75" fill="#fff"/>
-    <circle cx="33.5" cy="30" r="1.75" fill="#fff"/>
-    <circle cx="29.5" cy="34" r="1.75" fill="#fff"/>
-    <circle cx="21.5" cy="34" r="1.75" fill="#fff"/>
-    <circle cx="13.5" cy="34" r="1.75" fill="#fff"/>
+    <circle cx="9.5" cy="21.5" r="1.75" fill="#fff"/>
+    <circle cx="17.5" cy="21.5" r="1.75" fill="#fff"/>
+    <circle cx="25.5" cy="21.5" r="1.75" fill="#fff"/>
+    <circle cx="33.5" cy="21.5" r="1.75" fill="#fff"/>
+    <circle cx="29.5" cy="25.83" r="1.75" fill="#fff"/>
+    <circle cx="21.5" cy="25.83" r="1.75" fill="#fff"/>
+    <circle cx="13.5" cy="25.83" r="1.75" fill="#fff"/>
+    <circle cx="9.5" cy="30.17" r="1.75" fill="#fff"/>
+    <circle cx="17.5" cy="30.17" r="1.75" fill="#fff"/>
+    <circle cx="25.5" cy="30.17" r="1.75" fill="#fff"/>
+    <circle cx="33.5" cy="30.17" r="1.75" fill="#fff"/>
+    <circle cx="29.5" cy="34.5" r="1.75" fill="#fff"/>
+    <circle cx="21.5" cy="34.5" r="1.75" fill="#fff"/>
+    <circle cx="13.5" cy="34.5" r="1.75" fill="#fff"/>
     <rect x="5" y="50" width="62" height="5" fill="#d22f27"/>
   </g>
   <g id="line">
