@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <g id="grid">
+        <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,72,2.69957e-31)">
+            <path d="M36,7C19.984,7 7,19.984 7,36C7,52.016 19.984,65 36,65L36,7Z" style="fill:#ea5a47;stroke:#000;stroke-width:2px;"/>
+        </g>
+        <g transform="matrix(-1.83697e-16,-1,1,-1.83697e-16,0,71.9084)">
+            <path d="M36,7C19.984,7 7,19.984 7,36C7,52.016 19.984,65 36,65L36,7Z" style="fill:#fff;stroke:#000;stroke-width:2px;"/>
+        </g>
+        <g transform="matrix(1.20775,0,0,1.20775,-10.1341,-1.12311)">
+            <circle cx="38.198" cy="30.87" r="6.504" style="fill:#fff;stroke:#000;stroke-width:1.66px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        </g>
+        <g transform="matrix(0.897143,0,0,0.897143,6.92846,16.5436)">
+            <circle cx="32.405" cy="21.687" r="4.008" style="fill:#fff;stroke:#000;stroke-width:2.23px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        </g>
+    </g>
+</svg>
