@@ -6,6 +6,12 @@
     <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
+  <g id="line-supplement">
+    <path transform="scale(2.7, 2.7) translate(-5.3, -8) translate(15 18.6)" d="m0 5.742c-0.441 0.391-1.022 0.629-1.659 0.629-1.38 0-2.5-1.119-2.5-2.5v-2 2-2c0-1.381 1.12-2.5 2.5-2.5 0.637 0 1.218 0.238 1.659 0.629" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path transform="scale(2.7, 2.7) translate(+5.3, -8) matrix(0 1 1 0 15 21.47)" d="m-3.5-3.5h7" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path transform="scale(2.7, 2.7) translate(+5.3, -8) matrix(0 1 1 0 19 21.47)" d="m-3.5-3.5h7" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path transform="scale(2.7, 2.7) translate(+5.3, -8) matrix(-1 0 0 1 11.5 21.46)" d="m-4 0h4" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
   <g id="color">
     <rect x="17" y="17" width="38" height="38" fill="#d22f27"/>
     <polygon fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="2" points="47 32.462 39.538 32.462 39.538 25 32.462 25 32.462 32.462 25 32.462 25 39.538 32.462 39.538 32.462 47 39.538 47 39.538 39.538 47 39.538 47 32.462"/>

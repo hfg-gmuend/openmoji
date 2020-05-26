@@ -6,6 +6,10 @@
     <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
+  <g id="line-supplement">
+    <path transform="scale(2.7, 2.7) translate(-5.3, -8) translate(15 23.57)" d="m0-4.212c-0.205-0.798-1.091-1.397-2.153-1.397-1.214 0-2.198 0.783-2.198 1.75 0 0.966 0.984 1.75 2.198 1.75l-0.045 6e-3c1.214 0 2.198 0.784 2.198 1.75 0 0.967-0.984 1.75-2.198 1.75-1.062 0-1.948-0.6-2.153-1.398" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path transform="scale(2.7, 2.7) translate(+5.3, -8) translate(15 18.6)" d="m0 5.742c-0.441 0.391-1.022 0.629-1.659 0.629-1.38 0-2.5-1.119-2.5-2.5v-2 2-2c0-1.381 1.12-2.5 2.5-2.5 0.637 0 1.218 0.238 1.659 0.629" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#1e50a0"/>
     <path fill="#d22f27" d="M 67.253,29.579 67,17 47.161125,16.945094 6,54 Z"/>

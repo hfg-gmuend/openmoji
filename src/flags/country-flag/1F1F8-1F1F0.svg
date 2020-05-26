@@ -6,6 +6,12 @@
     <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
+  <g id="line-supplement">
+    <path transform="scale(2.7, 2.7) translate(-5.3, -8) translate(15 23.57)" d="m0-4.212c-0.205-0.798-1.091-1.397-2.153-1.397-1.214 0-2.198 0.783-2.198 1.75 0 0.966 0.984 1.75 2.198 1.75l-0.045 6e-3c1.214 0 2.198 0.784 2.198 1.75 0 0.967-0.984 1.75-2.198 1.75-1.062 0-1.948-0.6-2.153-1.398" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path transform="scale(2.7, 2.7) translate(+5.3, -8) matrix(0 1 1 0 14.8 21.47)" d="m-3.5-3.5h7" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path transform="scale(2.7, 2.7) translate(+5.3, -8) matrix(.6612 -.7502 -.7502 -.6612 13.7 23.24)" d="m-1.025 2.27h6.05" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path transform="scale(2.7, 2.7) translate(+5.3, -8) matrix(.4584 .8888 .8888 -.4584 16 20.52)" d="m-1.416-2.323h5.228" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#d22f27"/>
     <rect x="5" y="17" width="62" height="13" fill="#d0cfce"/>

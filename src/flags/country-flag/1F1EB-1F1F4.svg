@@ -6,6 +6,10 @@
     <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
+  <g id="line-supplement">
+    <path transform="scale(2.7, 2.7) translate(-5.3, -8) matrix(-1 0 0 1 12 21.47)" d="m-2 0h3v3.5-7h-4" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path transform="scale(2.7, 2.7) translate(+5.3, -8) translate(13.2 17.97)" d="m0 7c-1.38 0-2.5-1.119-2.5-2.5v-2c0-1.381 1.12-2.5 2.5-2.5 1.381 0 2.5 1.119 2.5 2.5v2c0 1.381-1.119 2.5-2.5 2.5z" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#fff"/>
     <polygon fill="#d22f27" stroke="#1e50a0" stroke-miterlimit="10" stroke-width="2" points="67 33 30 33 30 17 24 17 24 33 5 33 5 39 24 39 24 55 30 55 30 39 67 39 67 33"/>

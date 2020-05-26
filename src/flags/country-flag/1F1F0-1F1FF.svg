@@ -6,6 +6,12 @@
     <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
+  <g id="line-supplement">
+    <path transform="scale(2.7, 2.7) translate(-5.3, -8) matrix(0 1 1 0 14.8 21.47)" d="m-3.5-3.5h7" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path transform="scale(2.7, 2.7) translate(-5.3, -8) matrix(.6612 -.7502 -.7502 -.6612 13.7 23.24)" d="m-1.025 2.27h6.05" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path transform="scale(2.7, 2.7) translate(-5.3, -8) matrix(.4584 .8888 .8888 -.4584 16 20.52)" d="m-1.416-2.323h5.228" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path transform="scale(2.7, 2.7) translate(+5.3, -8) translate(11 24.97)" d="m0-7h4l-4 7h4" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#61b2e4"/>
     <polygon transform="translate(14.6 8.726) scale(.6848)" fill="#fcea2b" stroke="#fcea2b" stroke-linecap="round" stroke-linejoin="round" points="44.23 28.71 40.94 32.59 45.74 30.89 41.61 33.87 46.68 33.37 41.96 35.28 47 36 41.96 36.72 46.68 38.63 41.61 38.13 45.74 41.11 40.94 39.41 44.23 43.29 39.98 40.49 42.25 45.05 38.79 41.31 39.9 46.28 37.44 41.83 37.33 46.92 36 42 34.67 46.92 34.56 41.83 32.1 46.28 33.21 41.31 29.75 45.05 32.02 40.49 27.77 43.29 31.06 39.41 26.26 41.11 30.39 38.13 25.32 38.63 30.04 36.72 25 36 30.04 35.28 25.32 33.37 30.39 33.87 26.26 30.89 31.06 32.59 27.77 28.71 32.02 31.51 29.75 26.95 33.21 30.69 32.1 25.72 34.56 30.17 34.67 25.08 36 30 37.33 25.08 37.44 30.17 39.9 25.72 38.79 30.69 42.25 26.95 39.98 31.51"/>

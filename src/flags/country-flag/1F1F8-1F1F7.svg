@@ -6,6 +6,11 @@
     <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
+  <g id="line-supplement">
+    <path transform="scale(2.7, 2.7) translate(-5.3, -8) translate(15 23.57)" d="m0-4.212c-0.205-0.798-1.091-1.397-2.153-1.397-1.214 0-2.198 0.783-2.198 1.75 0 0.966 0.984 1.75 2.198 1.75l-0.045 6e-3c1.214 0 2.198 0.784 2.198 1.75 0 0.967-0.984 1.75-2.198 1.75-1.062 0-1.948-0.6-2.153-1.398" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path transform="scale(2.7, 2.7) translate(+5.3, -8) translate(11 17.97)" d="m0 7v-7h2.669c0.963 0 1.744 0.781 1.744 1.744s-0.781 1.743-1.744 1.743h-2.669" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path transform="scale(2.7, 2.7) translate(+5.3, -8) matrix(.3964 .9181 .9181 -.3964 15.8 21.82)" d="m-1.155-1.757 3.827 1e-3" stroke-width="2px" stroke="#000" stroke-miterlimit="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#d22f27"/>
     <rect x="5" y="50" width="62" height="5" fill="#5c9e31"/>
