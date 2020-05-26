@@ -20,6 +20,7 @@ Fix:
   * size of hand in Thinking Face
   * contour in Shushing Face
     by @nicdiac
+  * number of keys in Keyboard
 
 Tech:
   *
