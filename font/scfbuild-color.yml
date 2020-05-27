@@ -29,3 +29,7 @@ table_name:
   url_designer: http://openmoji.org/about.html
   license: Creative Commons Share Alike 4.0
   url_license: https://creativecommons.org/licenses/by-sa/4.0/
+  typographic_family: OpenMoji
+  typographic_subfamily: Color
+  wws_family: OpenMoji Color
+  wws_subfamily: Regular
