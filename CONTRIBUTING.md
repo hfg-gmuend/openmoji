@@ -75,7 +75,13 @@ To ensure that all of our designs are consistent, please use the [OpenMoji Teste
 
 ### 5. Information About The Emoji
 
-Add your meta infos at the very end of `data/enhancements-emoji-unicode-data.csv` N.B. the properties prefixed `openmoji_` are not part of the Unicode specification.
+Add your meta infos at the very end to exacltly one of the following files:
+
+-  `data/enhancements-emoji-unicode-data.csv` if you have designed a standard Emoji which is part of Unicode
+-  `data/extras-openmoji.csv` if you have designed a non-standard Emoji which is not part of Unicode and should go into Private Use Area, see → [:octocat: Non-standard emoji](#octocat-non-standard-emoji)
+-  `data/extras-unicode.csv` if you have designed a standard Unicode charakter but which is also not part of the Unicode Emoji standard, see → [:octocat: Non-standard emoji](#octocat-non-standard-emoji)
+
+N.B. the properties prefixed `openmoji_` are not part of the Unicode specification.
 
 Run `npm run generate-data-tables` to generate from the .csv files above the deduced OpenMoji data tables. This is important as the automated unit test and other mechanisms rely on the central data file `data/openmoji.json`
 
