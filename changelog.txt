@@ -20,7 +20,10 @@ Fix:
   * size of hand in Thinking Face
   * contour in Shushing Face
     by @nicdiac
+  * which black used in geometric Unicode shapes
   * number of keys in Keyboard
+  * colour of contour in Half Orange Fruit
+  * alignment of stars on US Flag
 
 Tech:
   *
