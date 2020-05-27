@@ -17,14 +17,14 @@ This folder `helpers/` Contains various helper scripts e.g. to export to .png an
 - `clean.sh` cleans up the build directories
 - `npm run cache-clear` / `npm run cc` clears build system cache
 - `npm run export-emojipedia` export all OpenMojis to 512x512 png files for listing at Emojipedia
-- `npm run export-openmoji-ios.js` copies and updates all assets in the openmoji-ios repository
-- `npm run export-pdf.sh` export all OpenMojis to pdf files
+- `npm run export-openmoji-ios` copies and updates all assets in the openmoji-ios repository
+- `npm run export-pdf` export all OpenMojis to pdf files
 - `npm run export-png` export all OpenMojis to 72x72 and 618x618 png files
 - `npm run export-svg` export all OpenMojis to svg files
 - `npm run export-zip` export zip packages for release
 - `find-emojis.js` sub script used by generate.sh
 - `force-color-palette-svg.js` helper to force the OpenMoji colors for all svg files in the src folder
-- `npm run generate-data-tables.js` generate files in data folder eg. openmoji.json
+- `npm run generate-data-tables` generate files in data folder eg. openmoji.json
 - `generate-font-css.js` generate css file to be used with OpenMoji fonts
 - `generate-font-glyphs.js` copy all svg glyph files to font folder in preparation for font generator
 - `npm run lint-sh` lint all bash script in the helpers folder
