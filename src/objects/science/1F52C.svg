@@ -7,10 +7,10 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-      <rect x="38.9735" y="13.1468" width="4" height="6" transform="translate(10.1916 -15.3496) rotate(24.149)" fill="#3f3f3f"/>
-      <path fill="none" stroke="#d0cfce" stroke-miterlimit="10" stroke-width="2" d="M40.5,28.4089A15,15,0,0,1,49.9383,55.068"/>
-      <rect x="16.5" y="54.4089" width="37" height="5" fill="#d0cfce"/>
-      <rect x="27.3824" y="20.7716" width="19" height="9" transform="translate(-1.2665 48.5874) rotate(-65.851)" fill="#d0cfce"/>
+    <rect x="38.9735" y="13.1468" width="4" height="6" transform="translate(10.1916 -15.3496) rotate(24.149)" fill="#3f3f3f"/>
+    <path fill="none" stroke="#d0cfce" stroke-miterlimit="10" stroke-width="2" d="M40.5,28.4089A15,15,0,0,1,49.9383,55.068"/>
+    <rect x="16.5" y="54.4089" width="37" height="5" fill="#d0cfce"/>
+    <rect x="27.3824" y="20.7716" width="19" height="9" transform="translate(-1.2665 48.5874) rotate(-65.851)" fill="#d0cfce"/>
   </g>
   <g id="line">
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M34.7632,34.7326a1.8939,1.8939,0,0,1-2.381.5764A2.0009,2.0009,0,0,1,31.23,33.14"/>

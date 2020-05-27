@@ -1,6 +1,6 @@
 <svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <g id="color">
-    <rect x="5" y="17" width="62" height="38" fill="#186648" fill-opacity="1"/>
+    <rect x="5" y="17" width="62" height="38" fill="#186648"/>
     <rect x="38" y="16.9999" width="4" height="38" fill="#ffffff" stroke-width="2"/>
     <rect x="5" y="34" width="62" height="4"/>
     <rect x="5" y="38" width="62" height="4" fill="#ffffff" stroke-width="2"/>
