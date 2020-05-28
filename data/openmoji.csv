@@ -3221,7 +3221,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🇿🇼,1F1FF-1F1FC,flags,country-flag,flag: Zimbabwe,"ZW, flag",,Daniela Ivandikov,2019-02-13,,,,,2,4165
 🏴󠁧󠁢󠁥󠁮󠁧󠁿,1F3F4-E0067-E0062-E0065-E006E-E0067-E007F,flags,subdivision-flag,flag: England,"flag, gbeng",,Ferdinand Sorg,2019-02-13,,,,,5,4166
 🏴󠁧󠁢󠁳󠁣󠁴󠁿,1F3F4-E0067-E0062-E0073-E0063-E0074-E007F,flags,subdivision-flag,flag: Scotland,"flag, gbsct",,Ferdinand Sorg,2019-02-13,,,,,5,4167
-🏴󠁧󠁢󠁷󠁬󠁳󠁿,1F3F4-E0067-E0062-E0077-E006C-E0073-E007F,flags,subdivision-flag,flag: Wales,"flag, gbwls",,Daniel Utz,2019-02-13,,,,,5,4168
+🏴󠁧󠁢󠁷󠁬󠁳󠁿,1F3F4-E0067-E0062-E0077-E006C-E0073-E007F,flags,subdivision-flag,flag: Wales,"flag, gbwls",dragon,Daniel Utz,2019-02-13,,,,,5,4168
 ,E000,extras-openmoji,animals-nature,goldfish,,"goldfish, fish, water",Kai Magnus Müller,2018-04-18,,,,,,
 ,E001,extras-openmoji,animals-nature,donkey,,,Baris Camli,2018-04-18,,,,,,
 ,E002,extras-openmoji,animals-nature,poppy,,"poppy, remembrance, veterans",Carlin MacKenzie,2019-12-20,,,,,,
@@ -3316,7 +3316,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏳️‍📌‍⚙️,1F3F3-FE0F-200D-1F4CC-200D-2699-FE0F,extras-openmoji,flags,nail and gear flag,,"hello internet, cgp grey, brady haran",Alexander Müller,2020-05-08,,,,,,
 🏳️‍🟥,1F3F3-FE0F-200D-1F7E5,extras-openmoji,flags,red flag,,"socialism, communism",Alexander Müller,2020-05-08,,,,,,
 🏳️‍🟦,1F3F3-FE0F-200D-1F7E6,extras-openmoji,flags,blue flag,,,Alexander Müller,2020-05-08,,,,,,
-🏳️‍🟦‍🌌,1F3F3-FE0F-200D-1F7E6-200D-1F30C,extras-openmoji,flags,united federation of planets flag,,"star trek, future, utopia, trekkie, trekker, space",Alexander Müller,2020-04-25,,,,,,
+🏳️‍🟦‍🌌,1F3F3-FE0F-200D-1F7E6-200D-1F30C,extras-openmoji,flags,united federation of planets flag (star trek),,"star trek, future, utopia, trekkie, trekker, space",Alexander Müller,2020-04-25,,,,,,
 🏳️‍🟧,1F3F3-FE0F-200D-1F7E7,extras-openmoji,flags,orange flag,,"maratha, pirate party, christian democracy",Alexander Müller,2020-05-08,,,,,,
 🏳️‍🟨,1F3F3-FE0F-200D-1F7E8,extras-openmoji,flags,yellow flag,,"quebec, yellow jack",Alexander Müller,2020-05-08,,,,,,
 🏳️‍🟩,1F3F3-FE0F-200D-1F7E9,extras-openmoji,flags,green flag,,"green party, environmentalism",Alexander Müller,2020-05-08,,,,,,
