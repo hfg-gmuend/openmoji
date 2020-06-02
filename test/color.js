@@ -6,7 +6,7 @@ const openmojiDataJson = argv['openmoji-data-json'];
 const openmojis = require(openmojiDataJson);
 
 const { createDoc } = require('./utils/utils');
-const { colors } = require('../data/color-palette.json');
+const { colors, skintones } = require('../data/color-palette.json');
 
 
 describe('Color', function() {
@@ -20,7 +20,7 @@ describe('Color', function() {
   emojis = filter(emojis, (e) => { return e.hexcode !== '1F3FF'});
 
   // valid colors and edge cases like 'none', or shorthand white '#fff' etc.
-  const validColors = [...colors, '#fff', '#000', 'none'];
+  const validColors = [...colors, ...skintones.fitzpatrick, '#fff', '#000', 'none'];
 
   describe('Fill colors included in OpenMoji color palette?', function() {
     emojis.forEach(emoji => {
