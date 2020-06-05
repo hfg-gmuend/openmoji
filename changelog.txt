@@ -26,10 +26,9 @@ Fix:
   * colour of contour in Half Orange Fruit
   * alignment of stars on US Flag
   * size of Person Walking
-  * fill in Carousel Horse
-  * fill in Foggy
-  * fill in High-Speed Train
-  * fill in Ballot Box
+  * white fill in:
+        Carousel Horse, Foggy, High-Speed Train, Ballot Box, Chart Increasing, Chart 
+        Decreasing
   * handle in Megaphone
   * size and fill of Bookmark Tabs
   * size and fill of Roll of Paper
