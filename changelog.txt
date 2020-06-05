@@ -26,6 +26,7 @@ Fix:
   * alignment of stars on US Flag
   * size of Person Walking
   * fill in Carousel Horse
+  * fill in Foggy
 
 Tech:
   * NPM openmoji package: Removed "engines" property in package.json
