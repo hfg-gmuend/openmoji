@@ -28,9 +28,10 @@ Fix:
   * fill in Carousel Horse
   * fill in Foggy
   * fill in High-Speed Train
+  * fill in Ballot Box
   * handle in Megaphone
   * size and fill of Bookmark Tabs
-  * fill in Ballot Box
+  * size and fill of Roll of Paper
 
 Tech:
   * NPM openmoji package: Removed "engines" property in package.json
