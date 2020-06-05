@@ -27,6 +27,7 @@ Fix:
   * size of Person Walking
   * fill in Carousel Horse
   * fill in Foggy
+  * fill in High-Speed Train
 
 Tech:
   * NPM openmoji package: Removed "engines" property in package.json
