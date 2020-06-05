@@ -28,6 +28,7 @@ Fix:
   * fill in Carousel Horse
   * fill in Foggy
   * fill in High-Speed Train
+  * handle in Megaphone
 
 Tech:
   * NPM openmoji package: Removed "engines" property in package.json
