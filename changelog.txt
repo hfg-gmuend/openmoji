@@ -26,7 +26,7 @@ Fix:
   * alignment of stars on US Flag
 
 Tech:
-  *
+  * NPM openmoji package: Removed "engines" property in package.json
 
 
 --------------------------------------------------------------------------------

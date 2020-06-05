@@ -34,9 +34,6 @@
     "cache-clear": "for ref in export-png-618 export-png-72 export-svg-color export-svg-skintones pretty-src-svg; do git update-ref -d refs/memos/$ref; done",
     "cc": "npm run cache-clear"
   },
-  "engines": {
-    "node": "8.x"
-  },
   "repository": "https://github.com/hfg-gmuend/openmoji",
   "license": "CC-BY-SA-4.0",
   "devDependencies": {
