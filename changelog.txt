@@ -29,6 +29,7 @@ Fix:
   * fill in Foggy
   * fill in High-Speed Train
   * handle in Megaphone
+  * size and fill of Bookmark Tabs
 
 Tech:
   * NPM openmoji package: Removed "engines" property in package.json
