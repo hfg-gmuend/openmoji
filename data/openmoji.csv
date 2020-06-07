@@ -2864,9 +2864,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ✳️,2733,symbols,other-symbol,eight-spoked asterisk,"*, asterisk",,Selina Lange,2019-05-06,,,,,0.6,3771
 ✴️,2734,symbols,other-symbol,eight-pointed star,"*, star",,Selina Lange,2019-05-06,,,,,0.6,3773
 ❇️,2747,symbols,other-symbol,sparkle,*,,Selina Lange,2019-05-06,,,,,0.6,3775
-©️,00A9,symbols,other-symbol,copyright,c,"copyright, c, sign",Hilda Kalyoncu,2018-04-18,,,,,0.6,3777
-®️,00AE,symbols,other-symbol,registered,r,"registered, r, sign",Hilda Kalyoncu,2018-04-18,,,,,0.6,3779
-™️,2122,symbols,other-symbol,trade mark,"mark, tm, trademark",,Selina Lange,2019-05-06,,,,,0.6,3781
+©️,00A9,symbols,other-symbol,copyright,c,"copyright, c, sign",Carlin MacKenzie,2020-06-06,,,,,0.6,3777
+®️,00AE,symbols,other-symbol,registered,r,"registered, r, sign",Carlin MacKenzie,2020-06-06,,,,,0.6,3779
+™️,2122,symbols,other-symbol,trade mark,"mark, tm, trademark",,Carlin MacKenzie,2020-06-06,,,,,0.6,3781
 #️⃣,0023-FE0F-20E3,symbols,keycap,keycap: #,keycap,,Selina Lange,2019-05-06,,,,,0.6,3782
 *️⃣,002A-FE0F-20E3,symbols,keycap,keycap: *,keycap,,Selina Lange,2019-05-06,,,,,2,3784
 0️⃣,0030-FE0F-20E3,symbols,keycap,keycap: 0,keycap,,Selina Lange,2019-05-06,,,,,0.6,3786
@@ -3503,10 +3503,13 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🄍,1F10D,extras-unicode,symbol-other,circled zero with slash,,"license, copyright, creative commons, open, libre, public domain",Carlin MacKenzie,2020-04-17,,,,,13,
 🄎,1F10E,extras-unicode,symbol-other,circled anticlockwise arrow,,"license, copyright, creative commons, open, libre, share alike",Carlin MacKenzie,2020-04-17,,,,,13,
 🄏,1F10F,extras-unicode,symbol-other,circled dollar sign with overlaid backslash,,"license, copyright, creative commons, open, libre, non commercial",Carlin MacKenzie,2020-04-17,,,,,13,
+🄯,1F12F,extras-unicode,symbol-other,copyleft symbol,,"open source, free, libre, reciprocal",Carlin MacKenzie,2020-06-06,,,,,11,
 🅭,1F16D,extras-unicode,symbol-other,circled cc,,"license, copyright, creative commons, open, libre, public domain",Carlin MacKenzie,2020-04-17,,,,,13,
 🅮,1F16E,extras-unicode,symbol-other,circled c with overlaid backslash,,"license, copyright, creative commons, open, libre, public domain",Carlin MacKenzie,2020-04-17,,,,,13,
 🅯,1F16F,extras-unicode,symbol-other,circled human figure,,"license, copyright, creative commons, open, libre, by, attribution, credit",Carlin MacKenzie,2020-04-17,,,,,13,
 🐱‍💻,1F431-200D-1F4BB,extras-unicode,symbol-other,hacker cat,,"coder, developer, software, technologist, smart, clever, code, notebook, computer",Benedikt Groß,2020-03-06,,,,,?,
+℗,2117,extras-unicode,symbol-other,sound recording copyright,,"trademark, music, phonogram",Carlin MacKenzie,2020-06-06,,,,,1.1,
+℠,2120,extras-unicode,symbol-other,service mark,,"trademark, sm",Carlin MacKenzie,2020-06-06,,,,,1.1,
 ⊜,229C,extras-unicode,symbol-other,circled equals,,"license, copyright, creative commons, open, libre",Carlin MacKenzie,2020-04-18,,,,,1.1,
 ⏻,23FB,extras-unicode,symbol-other,power symbol,,"enable, on, off",Alexander Müller,2020-04-20,,,,,5,
 ⏼,23FC,extras-unicode,symbol-other,power on-off symbol,,"enable, disable, on, off",Alexander Müller,2020-04-20,,,,,5,
