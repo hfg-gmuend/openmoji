@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 
-'use strict';
 
 const path = require('path');
 const fs = require('fs');
+const SVGO = require('svgo');
 
 const openmojis = require("../data/openmoji.json");
 
@@ -11,45 +11,55 @@ const {
     createDoc
 } = require('../test/utils/utils');
 
-const directory = 'srctemp/';
-console.log('doing stuff')
+svgo = new SVGO();
+
 openmojis.forEach(emoji => {
     const svgFile = path.join("src", emoji.group, emoji.subgroups, emoji.hexcode + '.svg')
     const doc = createDoc(emoji);
 
     const root = doc.querySelector("#emoji")
 
+    // create background and insert it
     const backgroundGroup = doc.createElement('g')
-    backgroundGroup.setAttribute('id', "background")
-    backgroundGroup.setAttribute('xmlns', "http://www.w3.org/2000/svg")
+    backgroundGroup.setAttribute('id', "white-padding")
+    backgroundGroup.setAttribute('stroke-linecap', "round")
+    backgroundGroup.setAttribute('stroke-miterlimit', "10")
+    backgroundGroup.setAttribute('stroke-width', "6")
+    backgroundGroup.setAttribute('stroke', "#fff")
+    backgroundGroup.setAttribute('fill', "none")
+    backgroundGroup.setAttribute('stroke-linejoin', "round")
 
     const beforeNode = doc.querySelector("#grid").nextSibling
     root.insertBefore(backgroundGroup, beforeNode)
 
-    const lineLayer = doc.querySelector("#line")
 
-    const supplementLayer = doc.querySelector("#line-supplement")
+    // duplicate all but grid
+    var nongrid = doc.querySelectorAll('svg > :not(#grid):not(#white-padding)');
+    console.log(nongrid.length);
+    for (var value of nongrid.values()) {
+        console.log(value.id);
 
-    const lineDup = lineLayer.cloneNode(true)
-
-    while (lineDup.children.length) {
-        lineDup.children[0].setAttribute('stroke-width', "6")
-        lineDup.children[0].setAttribute('stroke', "#fff")
-        backgroundGroup.appendChild(lineDup.firstChild);
+        backgroundGroup.appendChild(value.cloneNode(true))
     }
 
-    if (supplementLayer) {
-        const supplementDup = supplementLayer.cloneNode(true)
-
-        while (supplementDup.children.length) {
-            supplementDup.children[0].setAttribute('stroke-width', "6")
-            supplementDup.children[0].setAttribute('stroke', "#fff")
-            backgroundGroup.appendChild(supplementDup.firstChild);
-        }
+    // remove fill and stroke attributes
+    var items = backgroundGroup.getElementsByTagName("*");
+    for (let item of items) {
+        item.removeAttribute("fill");
+        item.removeAttribute("stroke");
+        item.removeAttribute("stroke-linecap");
+        item.removeAttribute("stroke-linejoin");
+        item.removeAttribute("stroke-miterlimit");
+        item.removeAttribute("stroke-width");
     }
 
-    fs.writeFile(svgFile, doc.documentElement.querySelector("svg").outerHTML, function (err) {
-        if (err) return console.log(err);
-        console.log('Successful');
+    svgo.optimize(doc.documentElement.querySelector("svg").outerHTML).then(function (result) {
+        svgo.optimize(result.data).then(function (result) {
+
+            fs.writeFile(svgFile, result.data, function (err) {
+                if (err) return console.log(err);
+                console.log('Successful');
+            });
+        });
     });
 })
