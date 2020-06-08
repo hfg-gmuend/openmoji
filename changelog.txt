@@ -38,6 +38,9 @@ Fix:
   * handle in Megaphone
   * size and fill of Bookmark Tabs
   * size and fill of Roll of Paper
+  * resize:
+        Dove, Spider, Spider Web, Turtle, Pills, Medication, Plaster, Bagel, 
+        Mechanical Arm, Mouth, OK Button, SOS Button
 
 Tech:
   * NPM openmoji package: Removed "engines" property in package.json
