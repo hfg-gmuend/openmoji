@@ -6,13 +6,10 @@
     <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
-  <g id="color">
-    <circle cx="36" cy="36" r="26.68" fill="#fff" fill-rule="evenodd" paint-order="normal"/>
-  </g>
-  <g id="line" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="36" cy="36" r="26.68" stroke-width="4.74" paint-order="normal"/>
-    <path stroke-miterlimit="10" stroke-width="5.181" d="m52.68 45.07v-18.13l-7.771 15.54-7.771-15.54v18.13" clip-rule="evenodd"/>
-    <path stroke-miterlimit="10" stroke-width="5.181" d="m19.32 26.93h10.36" clip-rule="evenodd"/>
-    <path stroke-miterlimit="10" stroke-width="5.181" d="m24.5 26.93v18.13" clip-rule="evenodd"/>
+  <g id="color"/>
+  <g id="line">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6.735" d="m57.68 47.79v-23.57l-10.1 20.2-10.1-20.2v23.57" clip-rule="evenodd"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6.735" d="m14.32 24.21h13.47" clip-rule="evenodd"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6.735" d="m21.05 24.21v23.57" clip-rule="evenodd"/>
   </g>
 </svg>
