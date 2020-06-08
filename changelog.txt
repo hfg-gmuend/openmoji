@@ -11,10 +11,16 @@
 
 New:
   + Greta Thunberg
+  + Copyleft Symbol
+  + Sound Recording Copyright  
+  + Service Mark Symbol
 
 Redesign:
   * Bahrain Flag
   * Eject Symbol
+  * Copyright
+  * Registered
+  * Trade Mark
 
 Fix:
   * number of fingers in Face with Hand Over Mouth, Yawning Face, Hugging Face
