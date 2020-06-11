@@ -12,8 +12,10 @@
 New:
   + Greta Thunberg
   + Copyleft Symbol
-  + Sound Recording Copyright  
+  + Sound Recording Copyright
   + Service Mark Symbol
+  + Various gardening related things:
+    gardener, lawn mower, push cart, axe, spade
 
 Redesign:
   * Bahrain Flag
@@ -33,13 +35,13 @@ Fix:
   * alignment of stars on US Flag
   * size of Person Walking
   * white fill in:
-        Carousel Horse, Foggy, High-Speed Train, Ballot Box, Chart Increasing, Chart 
+        Carousel Horse, Foggy, High-Speed Train, Ballot Box, Chart Increasing, Chart
         Decreasing
   * handle in Megaphone
   * size and fill of Bookmark Tabs
   * size and fill of Roll of Paper
   * resize:
-        Dove, Spider, Spider Web, Turtle, Pills, Medication, Plaster, Bagel, 
+        Dove, Spider, Spider Web, Turtle, Pills, Medication, Plaster, Bagel,
         Mechanical Arm, Mouth, OK Button, SOS Button
 
 Tech:
