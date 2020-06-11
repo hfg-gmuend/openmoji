@@ -14,6 +14,10 @@ echo "👉 helpers/generate-index-html.js"
 helpers/generate-index-html.js
 
 echo "-------------------------------------------"
+echo "👉 helpers/generate-index-list-html.js"
+helpers/generate-index-list-html.js
+
+echo "-------------------------------------------"
 echo "👉 helpers/pretty-src-svg.sh"
 helpers/pretty-src-svg.sh
 
