@@ -6,7 +6,8 @@
     <rect x="16" y="4" rx="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
-  <g id="color">d
+  <g id="color">
+    d
     <path fill="#fff" d="m68 48-61.78-0.5026-1.131-3.958 31.76-21.02 31.15-0.5784z"/>
     <path fill="#9b9b9a" d="m68 48v5.5h-55.35a1.004 1.004 0 0 1-0.5031-1.873l6.264-3.627z"/>
     <path fill="#3f3f3f" d="m68 36.5h-26.16a1.286 1.286 0 0 1-0.69-2.37l7.259-4.62a12.86 12.86 0 0 1 6.903-2.01h12.68"/>
