@@ -16,6 +16,7 @@ New:
   + Service Mark Symbol
   + Various gardening related things:
     gardener, lawn mower, push cart, axe, spade
+  + pigeon
 
 Redesign:
   * Bahrain Flag
