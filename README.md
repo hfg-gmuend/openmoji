@@ -24,6 +24,7 @@ This GitHub repository contains all of the source files and exported png/svg fil
 - [Font](font) infos on the OpenMoji-Color and OpenMoji-Black fonts.
 - [Team](http://openmoji.org/about/#team) list of all authors and contributors.
 - [Acknowledgements](http://openmoji.org/about/#acknowledgement) Thanks!
+- [Code of Conduct](CODE_OF_CONDUCT.md) and OpenMoji Community Statement.
 
 
 ## Downloads & Distribution Channels

@@ -97,6 +97,8 @@ Yay! Now all your files are ready to go! Please submit a PR against the master b
 
 There are two options for adding extra emoji. If the symbol exists as a unicode code point already - like math symbols, heiroglyphics - you can design and add it to [src/extras-unicode](src/extras-unicode). If the symbol does not exist, it can be added instead as an OpenMoji symbol in [src/extras-openmoji](src/extras-openmoji).
 
+If the emoji is **controversial** please refer to the [Contribution Guidelines for Non-Unicode](CODE_OF_CONDUCT.md#Contribution-Guidelines-for-Non-Unicode-Emojis) Emojis to check whether the OpenMoji project will accept your contributions.
+
 ### Hexcodes for extras-unicode
 
 As an example, many of the designs in the [Miscellaneous Symbols](https://jrgraphix.net/r/Unicode/2600-26FF) section are perfect for emojis. Please create a folder under [src/extras-unicode](src/extras-unicode) with the "sub-group" name. Name the svg as the unicode codepoint in this folder, e.g. ⬌ (25A1), and add the information about the file to `data/extras-unicode.csv`
