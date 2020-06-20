@@ -10,12 +10,12 @@ Table of Contents:
 
 ## Contribution Guidelines for Non-Unicode Emojis
 
-We don’t accept the following contributions as we have a limited amount of energy for moderation.
+As we have a limited amount of energy for moderation there are some contributions we won't accept.
 
 ### ✅ Yes
 
 - Anything which is defined in the Unicode Emoji standard
-- Social and critical issues e.g. Climate change,
+- Social and critical issues e.g. Climate change
 - [Unpleasant things](https://www.theguardian.com/technology/2016/aug/02/apple-replaces-gun-emoji-water-pistol-revolver-violence-debate) that are (unfortunately) part of reality – OpenMoji is more than just fun and smileys
 
 ### ❌ No
@@ -23,12 +23,12 @@ We don’t accept the following contributions as we have a limited amount of ene
 - Any kind of historical or official "military insignia" e.g. Swastika, German Army (Deutsches Heer), Royal Air Force, US Navy
 - Flags of countries not recognized by the UN e.g. Taiwan
 - Historic flags of states e.g. East Germany (Deutsche Demokratische Republik), Yugoslavia, Confederate States of America
-- Religious images that are not in the Unicode standard or violate one of the above e.g. the Swastika is a religious symbol in Unicode but it violates the military insignia rules
-- Any sexual or erotic imagery. Whille our “activity” emojis are depicted in their poses without clothes, the implication is not erotic.
+- Religious images that are not in the Unicode standard or violate one of the above e.g. the Swastika is a religious symbol in Unicode but it violates the military insignia rule
+- Any sexual or erotic imagery. While our “activity” emojis are depicted in their poses without clothes, the implication is not erotic.
 
 ### 🤔 With Discussion
 
-- Well known non controversial fictional iconography e.g. [Star Trek’s United Federation of Planets](https://openmoji.org/library/#search=star trek&emoji=1F3F3-FE0F-200D-1F7E6-200D-1F30C)
+- Well known non controversial fictional iconography e.g. [Star Trek’s United Federation of Planets](https://openmoji.org/library/#search=star%20trek&emoji=1F3F3-FE0F-200D-1F7E6-200D-1F30C)
 - Symbols of movements or traditions e.g. [Remembrance Poppy](https://openmoji.org/library/#search=poppy&emoji=E002)
 
 
