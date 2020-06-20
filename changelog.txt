@@ -20,7 +20,9 @@ New:
   + Macaw
 
 Redesign:
-  * Bahrain Flag
+  * Flags:
+    Argentina, Mozambique and Taiwan by @wayne-shih
+    Bahrain and New Calendonia by @carlinmack
   * Eject Symbol
   * Copyright
   * Registered
