@@ -4,8 +4,10 @@
     <rect x="5" y="17" width="62" height="13" fill="#186648"/>
     <rect x="5" y="30" width="62" height="12" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
     <polygon fill="#d22f27" points="26 36 5 55 5 17 26 36"/>
-    <line x1="9.4358" x2="15.5642" y1="38.5711" y2="33.4288" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-    <line x1="11.4359" x2="17.5642" y1="33.4288" y2="38.5711" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <polygon fill="#fcea2b" stroke="#fcea2b" stroke-linecap="round" stroke-linejoin="round" points="10.004 41.409 13.593 30.591 16.689 41.245 8.091 34.825 18.909 34.559 10.004 41.409"/>
+    <polygon fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" points="16.869 38.804 10.131 38.804 11.033 35.585 15.967 35.585 16.869 38.804"/>
+    <line x1="8.9345" x2="16.2625" y1="40.121" y2="32.7804" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line x1="10.7376" x2="18.0655" y1="32.7804" y2="40.121" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
   </g>
   <g id="line">
     <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
