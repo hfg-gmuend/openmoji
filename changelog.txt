@@ -51,6 +51,8 @@ Fix:
 Tech:
   * NPM openmoji package: Removed "engines" property in package.json
 
+Misc:
+  + Added Code of Conduct
 
 --------------------------------------------------------------------------------
 
