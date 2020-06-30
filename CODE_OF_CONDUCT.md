@@ -21,7 +21,7 @@ As we have a limited amount of energy for moderation there are some contribution
 ### ❌ No
 
 - Any kind of historical or official "military insignia" e.g. Swastika, German Army (Deutsches Heer), Royal Air Force, US Navy
-- Flags of countries not recognized by the UN e.g. Taiwan
+- Flags of countries not recognized by the UN e.g. Tibet
 - Historic flags of states e.g. East Germany (Deutsche Demokratische Republik), Yugoslavia, Confederate States of America
 - Religious images that are not in the Unicode standard or violate one of the above e.g. the Swastika is a religious symbol in Unicode but it violates the military insignia rule
 - Any sexual or erotic imagery. While our “activity” emojis are depicted in their poses without clothes, the implication is not erotic.
