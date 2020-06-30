@@ -1,7 +1,7 @@
 OpenMoji FAQ
 ========
 
-### 🤔: How to use OpenMoji in my app / website / book / ad / video / project? What's the license of OpenMoji?
+### 🤔: What's the license of OpenMoji for app / website / book / ad / video ... projects?
 
 Thank you for wanting to use OpenMoji in your project! OpenMoji is published under the Creative Commons Share Alike License 4.0 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)). This means you are free to:
 
@@ -19,6 +19,11 @@ Under the following terms:
 ### 🤔: What is the suggested attribution for OpenMoji?
 
 > All emojis designed by [OpenMoji](https://openmoji.org/) – the open-source emoji and icon project. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)
+
+### 🤔: How to attribute OpenMoji in a film / video / youtube clip?
+
+- Add the suggested OpenMoji attribution to your video description (text below your video e.g. on youtube)
+- Mention OpenMoji e.g. in the credits section at the end, in the voice track or add a small footnote when the first OpenMoji appears
 
 ### 🤔: How can I help or contribute to OpenMoji?
 
