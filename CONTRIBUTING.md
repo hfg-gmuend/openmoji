@@ -95,7 +95,9 @@ Yay! Now all your files are ready to go! Please submit a PR against the master b
 
 ## :octocat: Non-standard emoji
 
-There are two options for adding extra emoji. If the symbol exists as a unicode code point already - like math symbols, heiroglyphics - you can design and add it to [src/extras-unicode](src/extras-unicode). If the symbol does not exist, it can be added instead as an OpenMoji symbol in [src/extras-openmoji](src/extras-openmoji).
+There are two options for adding extra emoji. If the symbol exists as a Unicode code point already - like math symbols, heiroglyphics - you can design and add it to [src/extras-unicode](src/extras-unicode). If the symbol does not exist, it can be added instead as an OpenMoji symbol in [src/extras-openmoji](src/extras-openmoji). 
+
+In either case, please check that the emoji follows our [Contribution Guidelines for Non-Unicode](CODE_OF_CONDUCT.md#Contribution-Guidelines-for-Non-Unicode-Emojis).
 
 ### Hexcodes for extras-unicode
 
