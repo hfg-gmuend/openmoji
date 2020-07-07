@@ -2045,7 +2045,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦟,1F99F,animals-nature,animal-bug,mosquito,"disease, fever, malaria, pest, virus",,Ricarda Krejci,2019-05-07,,,,,11,2775
 🪰,1FAB0,animals-nature,animal-bug,fly,"disease, maggot, pest, rotting",,Liz Bravo,2020-03-07,,,,,13,2776
 🪱,1FAB1,animals-nature,animal-bug,worm,"annelid, earthworm, parasite",,Liz Bravo,2020-03-07,,,,,13,2777
-🦠,1F9A0,animals-nature,animal-bug,microbe,"amoeba, bacteria, virus",,Ricarda Krejci,2019-05-07,,,,,11,2778
+🦠,1F9A0,animals-nature,animal-bug,microbe,"amoeba, bacteria, virus","Coronavirus, COVID-19",Benedikt Groß,2020-07-07,,,,,11,2778
 💐,1F490,animals-nature,plant-flower,bouquet,flower,"present, flower, tulip, bouquet",Hilda Kalyoncu,2018-04-18,,,,,0.6,2779
 🌸,1F338,animals-nature,plant-flower,cherry blossom,"blossom, cherry, flower","pink,",Hilda Kalyoncu,2018-04-18,,,,,0.6,2780
 💮,1F4AE,animals-nature,plant-flower,white flower,flower,,Ricarda Krejci,2019-05-07,,,,,0.6,2781
@@ -3233,6 +3233,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E008,extras-openmoji,animals-nature,porpoise,,"cetacean, swim, animal, water",Kris Kowal,2020-04-04,,,,,,
 ,E009,extras-openmoji,animals-nature,pigeon,,"vermin, rock dove, bird, city",Carlin MacKenzie,2020-06-13,,,,,,
 ,E010,extras-openmoji,animals-nature,macaw,,"tropical, jungle, exotic, parrots",Carlin MacKenzie,2020-06-13,,,,,,
+,E011,extras-openmoji,animals-nature,microbe,,"amoeba, bacteria, virus",Ricarda Krejci,2019-05-07,,,,,,
 ,E040,extras-openmoji,brand,Twitter,,,Baris Camli,2018-04-18,,,,,,
 ,E041,extras-openmoji,brand,pinterest,,"social, platform, pins",Kai Wanschura,2018-04-18,,,,,,
 ,E042,extras-openmoji,brand,facebook,,"facebook, company, social-media",Kai Magnus Müller,2018-04-18,,,,,,

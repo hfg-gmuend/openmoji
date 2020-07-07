@@ -27,6 +27,7 @@ Redesign:
   * Copyright
   * Registered
   * Trade Mark
+  * Microbe/Virus to accommodate COVID, moved existing one to E011
 
 Fix:
   * number of fingers in Face with Hand Over Mouth, Yawning Face, Hugging Face
