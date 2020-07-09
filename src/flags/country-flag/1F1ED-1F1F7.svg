@@ -1,37 +1,50 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
-    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
-    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814h0V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352h0V12.8813a1.9231,1.9231,0,0,1,1.923-1.923Z"/>
+    <rect x="16" y="4" rx="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="4" y="16" rx="2.2537" width="64" height="40" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <rect x="5" y="17" width="62" height="38" fill="#1e50a0"/>
-    <rect x="5" y="17" width="62" height="13" fill="#d22f27"/>
-    <rect x="5" y="30" width="62" height="12" fill="#fff"/>
     <g>
-      <rect x="32" y="33" width="3" height="3" fill="#fff"/>
-      <rect x="37" y="33" width="3" height="3" fill="#fff"/>
-      <rect x="35" y="33" width="2" height="3" fill="#d22f27"/>
-      <rect x="32" y="42" width="3" height="3" fill="#fff"/>
-      <rect x="37" y="42" width="3" height="3" fill="#fff"/>
-      <rect x="35" y="42" width="2" height="3" fill="#d22f27"/>
-      <rect x="32" y="40" width="3" height="2" fill="#d22f27"/>
-      <rect x="37" y="40" width="3" height="2" fill="#d22f27"/>
-      <rect x="35" y="40" width="2" height="2" fill="#fff"/>
-      <rect x="32" y="38" width="3" height="2" fill="#fff"/>
-      <rect x="37" y="38" width="3" height="2" fill="#fff"/>
-      <rect x="35" y="38" width="2" height="2" fill="#d22f27"/>
-      <rect x="32" y="36" width="3" height="2" fill="#d22f27"/>
-      <rect x="37" y="36" width="3" height="2" fill="#d22f27"/>
-      <rect x="35" y="36" width="2" height="2" fill="#fff"/>
-      <g>
-        <line x1="32" x2="40" y1="33" y2="33" fill="none" stroke="#d22f27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-        <path fill="none" stroke="#d22f27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M40,33V43a2.0059,2.0059,0,0,1-2,2H34a2.0059,2.0059,0,0,1-2-2V33"/>
-      </g>
-      <path fill="none" stroke="#1e50a0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M32,30a8.5678,8.5678,0,0,1,4-1"/>
-      <path fill="none" stroke="#1e50a0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M40,30a8.5678,8.5678,0,0,0-4-1"/>
+      <rect x="5" y="17" width="62" height="38" fill="#1e50a0"/>
+      <rect x="5" y="17" width="62" height="13" fill="#d22f27"/>
+      <rect x="5" y="30" width="62" height="12" fill="#fff"/>
+    </g>
+    <g>
+      <path fill="#d22f27" d="M40.5,43.7918A6.7093,6.7093,0,0,0,42.4885,42H40.5Z"/>
+      <path fill="#fff" d="M37.5,42v2.88a8.4378,8.4378,0,0,0,3-1.0877V42Z"/>
+      <path fill="#d22f27" d="M34.5,42v2.88a9.3963,9.3963,0,0,0,3,0V42Z"/>
+      <path fill="#fff" d="M31.5,42v1.7918a8.4378,8.4378,0,0,0,3,1.0877V42Z"/>
+      <path fill="#d22f27" d="M29.5115,42A6.7093,6.7093,0,0,0,31.5,43.7918V42Z"/>
+      <path fill="#fff" d="M40.5,42h1.9885A5.0877,5.0877,0,0,0,43.5,39h-3Z"/>
+      <rect x="37.5" y="39" width="3" height="3" fill="#d22f27"/>
+      <rect x="34.5" y="39" width="3" height="3" fill="#fff"/>
+      <rect x="31.5" y="39" width="3" height="3" fill="#d22f27"/>
+      <path fill="#fff" d="M31.5,39h-3a5.0877,5.0877,0,0,0,1.0115,3H31.5Z"/>
+      <rect x="40.5" y="36" width="3" height="3" fill="#d22f27"/>
+      <rect x="37.5" y="36" width="3" height="3" fill="#fff"/>
+      <rect x="34.5" y="36" width="3" height="3" fill="#d22f27"/>
+      <rect x="31.5" y="36" width="3" height="3" fill="#fff"/>
+      <rect x="28.5" y="36" width="3" height="3" fill="#d22f27"/>
+      <rect x="40.5" y="33" width="3" height="3" fill="#fff"/>
+      <rect x="37.5" y="33" width="3" height="3" fill="#d22f27"/>
+      <rect x="34.5" y="33" width="3" height="3" fill="#fff"/>
+      <rect x="31.5" y="33" width="3" height="3" fill="#d22f27"/>
+      <rect x="28.5" y="33" width="3" height="3" fill="#fff"/>
+      <rect x="40.5" y="30" width="3" height="3" fill="#d22f27"/>
+      <rect x="37.5" y="30" width="3" height="3" fill="#fff"/>
+      <rect x="34.5" y="30" width="3" height="3" fill="#d22f27"/>
+      <rect x="31.5" y="30" width="3" height="3" fill="#fff"/>
+      <rect x="28.5" y="30" width="3" height="3" fill="#d22f27"/>
+    </g>
+    <path fill="none" stroke="#d22f27" stroke-miterlimit="10" d="M43.5,39c0,3.3137-3.3579,6-7.5,6s-7.5-2.6863-7.5-6V30h15Z"/>
+    <g>
+      <path fill="#61b2e4" stroke="#61b2e4" stroke-linecap="round" stroke-linejoin="round" d="M30.1872,24.3719,31.84,22.5087l2.1937,1.2321L36,22.1781l1.9663,1.5627L40.16,22.5087l1.6528,1.8632L44.1869,23.5l1.2922,2.104L43.5,30a15.9375,15.9375,0,0,0-15,0l-1.9791-4.396L27.8131,23.5Z"/>
+      <polygon fill="#1e50a0" stroke="#1e50a0" stroke-miterlimit="10" stroke-width="0.25" points="37.619 28.21 37.966 23.741 40.16 22.509 41.813 24.372 40.674 28.83 37.619 28.21"/>
+      <polygon fill="#1e50a0" stroke="#1e50a0" stroke-miterlimit="10" stroke-width="0.25" points="34.381 28.21 34.034 23.741 31.84 22.509 30.187 24.372 31.326 28.83 34.381 28.21"/>
+      <path fill="none" stroke="#1e50a0" stroke-linecap="round" stroke-linejoin="round" d="M30.1872,24.3719,31.84,22.5087l2.1937,1.2321L36,22.1781l1.9663,1.5627L40.16,22.5087l1.6528,1.8632L44.1869,23.5l1.2922,2.104L43.5,30a15.9375,15.9375,0,0,0-15,0l-1.9791-4.396L27.8131,23.5Z"/>
     </g>
   </g>
   <g id="line">

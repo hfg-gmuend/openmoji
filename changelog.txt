@@ -39,6 +39,7 @@ Fix:
   * number of keys in Keyboard
   * colour of contour in Half Orange Fruit
   * alignment of stars on US Flag
+  * Croatian flag #247
   * size of Person Walking
   * white fill in:
         Carousel Horse, Foggy, High-Speed Train, Ballot Box, Chart Increasing, Chart
