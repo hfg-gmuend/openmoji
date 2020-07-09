@@ -18,6 +18,7 @@ New:
     gardener, lawn mower, push cart, axe, spade
   + Pigeon
   + Macaw
+  + Bavaria subdivision flag by Manuel Strehl @Boldewyn
 
 Redesign:
   * Flags:
