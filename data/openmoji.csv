@@ -3510,6 +3510,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E268,extras-openmoji,ui-element,add contact,,"add, contact",Kai Magnus Müller,2018-04-18,,,,,,
 ,E269,extras-openmoji,ui-element,link,,"link, chain",Kai Magnus Müller,2018-04-18,,,,,,
 🏴󠁤󠁥󠁢󠁥󠁿,1F3F4-E0064-E0065-E0062-E0065-E007F,extras-unicode,subdivision-flag,berlin flag,,"bear, city, capital",Alexander Müller,2020-04-26,,,,,?,
+🏴󠁤󠁥󠁢󠁹󠁿,1F3F4-E0064-E0065-E0062-E0079-E007F,extras-unicode,subdivision-flag,bavaria flag,,"state, lozenge",Manuel Strehl,2020-07-09,,,,,?,
 🏴󠁵󠁳󠁣󠁡󠁿,1F3F4-E0075-E0073-E0063-E0061-E007F,extras-unicode,subdivision-flag,california flag,,"bear, republic, state",Alexander Müller,2020-04-26,,,,,?,
 🏴󠁵󠁳󠁴󠁸󠁿,1F3F4-E0075-E0073-E0074-E0078-E007F,extras-unicode,subdivision-flag,texas flag,,"cowboy, lone star, republic, state",Carlin MacKenzie,2020-04-03,,,,,?,
 🄍,1F10D,extras-unicode,symbol-other,circled zero with slash,,"license, copyright, creative commons, open, libre, public domain",Carlin MacKenzie,2020-04-17,,,,,13,
