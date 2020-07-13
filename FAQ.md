@@ -48,3 +48,8 @@ No. OpenMoji does not have an explicit Contributor License Agreement. We simply 
 > Whenever you make a contribution to a repository containing notice of a license, you license your contribution under the same terms, and you agree that you have the right to license your contribution under those terms. 
 
 Full discussion and context in [#120](https://github.com/hfg-gmuend/openmoji/issues/120).
+
+### 🤔: I suggested / proposed / asked for an Emoji ... but why is my name not listed as "author" of the new OpenMoji?
+
+Because we decided that the authorship should go to the person who took actively care of everything in terms of making: sketching, designing, testing, iterating, discussing etc. until the new OpenMoji was accepted. Idealy the same person takes care of the entire pipeline from start to end. However if the initial suggestion was by a different person, we will acknowledge this is the changelog.txt file while still credit the "maker" as the author.
+
