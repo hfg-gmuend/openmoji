@@ -19,6 +19,8 @@ New:
   + Pigeon
   + Macaw
   + Bavaria subdivision flag by Manuel Strehl @Boldewyn
+  + Bubble Tea, Coin, Window, Fondue, Accordion
+    Bell Pepper, Teapot by Liz Bravo @lizbravob
 
 Redesign:
   * Flags:

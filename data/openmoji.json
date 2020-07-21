@@ -35615,6 +35615,23 @@
     "order": 2829
   },
   {
+    "emoji": "🫑",
+    "hexcode": "1FAD1",
+    "group": "food-drink",
+    "subgroups": "food-vegetable",
+    "annotation": "bell pepper",
+    "tags": "capsicum, pepper, vegetable",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-07-21",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 2830
+  },
+  {
     "emoji": "🥒",
     "hexcode": "1F952",
     "group": "food-drink",
@@ -36208,6 +36225,23 @@
     "skintone_base_hexcode": "",
     "unicode": 0.6,
     "order": 2865
+  },
+  {
+    "emoji": "🫕",
+    "hexcode": "1FAD5",
+    "group": "food-drink",
+    "subgroups": "food-prepared",
+    "annotation": "fondue",
+    "tags": "cheese, chocolate, melted, pot, swiss",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-07-21",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 2866
   },
   {
     "emoji": "🥣",
@@ -36975,6 +37009,23 @@
     "order": 2911
   },
   {
+    "emoji": "🫖",
+    "hexcode": "1FAD6",
+    "group": "food-drink",
+    "subgroups": "drink",
+    "annotation": "teapot",
+    "tags": "drink, pot, tea",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-07-21",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 2912
+  },
+  {
     "emoji": "🍵",
     "hexcode": "1F375",
     "group": "food-drink",
@@ -37160,6 +37211,23 @@
     "skintone_base_hexcode": "",
     "unicode": 5,
     "order": 2923
+  },
+  {
+    "emoji": "🧋",
+    "hexcode": "1F9CB",
+    "group": "food-drink",
+    "subgroups": "drink",
+    "annotation": "bubble tea",
+    "tags": "bubble, milk, pearl, tea",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-07-21",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 2924
   },
   {
     "emoji": "🧃",
@@ -43401,6 +43469,23 @@
     "order": 3363
   },
   {
+    "emoji": "🪗",
+    "hexcode": "1FA97",
+    "group": "objects",
+    "subgroups": "musical-instrument",
+    "annotation": "accordion",
+    "tags": "accordian, concertina, squeeze box",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-07-21",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 3364
+  },
+  {
     "emoji": "🎸",
     "hexcode": "1F3B8",
     "group": "objects",
@@ -44419,6 +44504,23 @@
     "skintone_base_hexcode": "",
     "unicode": 0.6,
     "order": 3435
+  },
+  {
+    "emoji": "🪙",
+    "hexcode": "1FA99",
+    "group": "objects",
+    "subgroups": "money",
+    "annotation": "coin",
+    "tags": "gold, metal, money, silver, treasure",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-07-21",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 3436
   },
   {
     "emoji": "💴",
@@ -46034,6 +46136,23 @@
     "skintone_base_hexcode": "",
     "unicode": 13,
     "order": 3561
+  },
+  {
+    "emoji": "🪟",
+    "hexcode": "1FA9F",
+    "group": "objects",
+    "subgroups": "household",
+    "annotation": "window",
+    "tags": "frame, fresh air, opening, transparent, view",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-07-21",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 3562
   },
   {
     "emoji": "🛏️",
