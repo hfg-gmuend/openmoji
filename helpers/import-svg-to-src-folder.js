@@ -8,8 +8,16 @@ const glob = require('glob').sync;
 var argv = process.argv.slice(2);
 const _ = require('lodash');
 
-const emojis = require('../data/openmoji.json');
+const emojibaseData = require('emojibase-data/en/data.json');
+const emojibaseGroups = require('emojibase-data/meta/groups.json');
+const groups = emojibaseGroups.groups;
+const subgroups = emojibaseGroups.subgroups;
 
+const emojis = _.map(emojibaseData, e => {
+  e.group = groups[e.group];
+  e.subgroups = subgroups[e.subgroup];
+  return e
+});
 
 if(!argv[0]) {
   help();
