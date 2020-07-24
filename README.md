@@ -40,6 +40,7 @@ You can download, use and "consume" OpenMoji in various ways:
 - [OpenMoji NPM Package](https://www.npmjs.com/package/openmoji): `npm install openmoji`. You can also get individual files via [UNPKG](https://unpkg.com/) direclty e.g.: unpkg.com/openmoji@12.1.0/color/svg/1F64B.svg
 - [OpenMoji Jekyll Plugin](https://github.com/azadeh-afzar/OpenMoji-Jekyll-Plugin): `gem install jekyll-openmoji`
 - [OpenMoji Spritemap Generator](https://github.com/axelpale/openmoji-spritemap-generator): OpenMoji combined to handy sprite images
+- [OpenMoji in Fedora](https://apps.fedoraproject.org/packages/hfg-gmuend-openmoji-fonts): For Fedora 33 and newer, `sudo yum install hfg-gmuend-openmoji-fonts-all`
 
 
 ## Attribution Requirements
