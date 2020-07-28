@@ -4,10 +4,24 @@
 
 --------------------------------------------------------------------------------
 
-❓ OpenMoji 12.4/13.0 - __ ___ 2020
+❓ OpenMoji 12.5/13.0 - __ ___ 2020
+
+New:
+Redesign:
+Fix:
+Tech:
+Misc:
 
 
-👉
+--------------------------------------------------------------------------------
+
+🏝 OpenMoji 12.4 - 28 Jul 2020
+
+Many improvements, fixes and new OpenMojis:
+👉 More Emoji 13, only 20 missing
+👉 New set of gardening related things
+👉 Lots of fixes
+👉 New Code of Conduct
 
 New:
   + Greta Thunberg
