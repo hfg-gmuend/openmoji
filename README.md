@@ -11,7 +11,9 @@ Interact, create, save, and share your work! 🌈`#openmoji`
 
 This GitHub repository contains all of the source files and exported png/svg files of the OpenMoji project.
 
-⚠️ Please note that the master branch is in active development, so if you're looking for stable production version please use one of the releases. You can check the latest work in progress developments via the [OpenMoji Catalog](https://hfg-gmuend.github.io/openmoji/) which lists all OpenMojis of the master branch.
+⚠️ Please note that the master branch is in active development, so if you're looking for stable production version please use one of the releases.
+
+🛠 You can check the latest work in progress developments via the [OpenMoji Dev Catalog](https://hfg-gmuend.github.io/openmoji/) which lists all OpenMojis of the master branch.
 
 
 ## Table of Contents
