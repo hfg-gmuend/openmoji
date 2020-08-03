@@ -7,6 +7,7 @@
 ❓ OpenMoji 12.5/13.0 - __ ___ 2020
 
 New:
+  + black hole by @fuddl
 Redesign:
 Fix:
 Tech:
