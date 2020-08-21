@@ -16,9 +16,7 @@
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       OpenMoji Color
     </namerecord>
-    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-	    To be filled in at build time.
-    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">12.4.0-11-g56882a097</namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       OpenMojiColor
     </namerecord>
