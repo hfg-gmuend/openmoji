@@ -47,11 +47,25 @@ for saturation in black color; do
             sh -c "
                 set -o errexit
 
+                rsync -ru /mnt/$saturation/svg/ $build_dir/scale/
+                grep -FL 'transform=\"scale(1.3)\"' $build_dir/scale/*.svg \
+                    | xargs --no-run-if-empty \
+                        xmlstarlet edit \
+                            --inplace \
+                            --omit-decl \
+                            -N svg=http://www.w3.org/2000/svg \
+                            --delete '/svg:svg/@transform' \
+                            --insert '/svg:svg' \
+                            --type attr \
+                            --name transform \
+                            --value 'scale(1.3)'
+
                 nanoemoji \
                     --color_format=$format \
                     --build_dir=$build_dir \
                     --output_file=$build_dir/$name.$format.ttf \
-                    /mnt/$saturation/svg/*.svg
+                    $build_dir/scale/*.svg
+
                 xmlstarlet edit --inplace --update \
                     '/ttFont/name/namerecord[@nameID=\"5\"][@platformID=\"3\"]' \
                     --value '$version' \
