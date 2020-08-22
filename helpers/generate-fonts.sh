@@ -40,7 +40,7 @@ for saturation in black color; do
         mkdir -p font/$format
 
         docker run \
-            --mount=type=bind,source="$PWD",destination=/mnt,relabel=private \
+            --volume="$PWD":/mnt:Z \
             --rm \
             $tty \
             registry.gitlab.com/mavit/nanoemoji-container:master \
