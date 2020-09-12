@@ -22,6 +22,9 @@ else
     tty=()
 fi
 
+image=registry.gitlab.com/mavit/nanoemoji-container:master
+docker pull $image
+
 # FIXME: Upgrade glyf_colr_0 to glyf_colr_1 once
 # https://github.com/googlefonts/colr-gradients-spec stabilises.
 #
@@ -48,8 +51,7 @@ for saturation in black color; do
             --volume="$PWD":/mnt:Z \
             --rm \
             "${tty[@]}" \
-            --pull=always \
-            registry.gitlab.com/mavit/nanoemoji-container:master \
+            $image \
             sh -c "
                 set -o errexit
 
