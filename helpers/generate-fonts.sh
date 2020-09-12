@@ -48,6 +48,7 @@ for saturation in black color; do
             --volume="$PWD":/mnt:Z \
             --rm \
             $tty \
+            --pull=always \
             registry.gitlab.com/mavit/nanoemoji-container:master \
             sh -c "
                 set -o errexit
