@@ -64,6 +64,7 @@ for saturation in black color; do
             sh -c "
                 set -o errexit
 
+                mkdir -p $build_dir
                 rsync -ru /mnt/$saturation/svg/ $build_dir/scale/
                 grep -FL 'transform=\"scale(1.3)\"' $build_dir/scale/*.svg \
                     | xargs --no-run-if-empty \
