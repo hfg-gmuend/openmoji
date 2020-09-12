@@ -75,7 +75,7 @@ for saturation in black color; do
                             --insert '/svg:svg' \
                             --type attr \
                             --name transform \
-                            --value 'scale(1.3)'
+                            --value 'translate(36 0) scale(1.3) translate(-36 0)'
 
                 nanoemoji \
                     --color_format=$format \
