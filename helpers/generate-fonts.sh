@@ -28,15 +28,20 @@ fi
 # FIXME: Switch untouchedsvgz for picosvgz when
 # https://github.com/googlefonts/nanoemoji/issues/113 is fixed.
 #
-# FIXME: Here we build OpenMoji Black as a colour font that just happens
-# to use black as the only colour.  This is probably a bad idea.
-# https://github.com/googlefonts/nanoemoji/issues/114
-#
 for saturation in black color; do
     name=OpenMoji-${saturation^}
     build_dir=/mnt/build/$saturation
 
-    for format in glyf_colr_0 untouchedsvgz; do
+    case $saturation in
+    black)
+        formats='glyf'
+        ;;
+    color)
+        formats='glyf_colr_0 untouchedsvgz'
+        ;;
+    esac
+
+    for format in $formats; do
         mkdir -p font/$format
 
         docker run \
