@@ -7,9 +7,16 @@
 ❓ OpenMoji 12.5/13.0 - __ ___ 2020
 
 New:
-  + black hole by @fuddl
+  + Black hole by @fuddl
+  + Horse jumping hurdles
+
 Redesign:
+  * Construction
+
 Fix:
+  * Add white stars around New Zealand Flag's stars - @jtothegriff
+  * Gender of mountain bikers
+ 
 Tech:
 Misc:
 
