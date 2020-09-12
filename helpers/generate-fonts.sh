@@ -23,7 +23,16 @@ else
 fi
 
 image=registry.gitlab.com/mavit/nanoemoji-container:master
-docker pull $image
+case "${CONTAINER_ENGINE:-docker}" in
+podman)
+    container_engine=podman
+    ;;
+*)
+    container_engine=docker
+    ;;
+esac
+
+$container_engine pull $image
 
 # FIXME: Upgrade glyf_colr_0 to glyf_colr_1 once
 # https://github.com/googlefonts/colr-gradients-spec stabilises.
@@ -47,7 +56,7 @@ for saturation in black color; do
     for format in "${formats[@]}"; do
         mkdir -p "font/$format"
 
-        docker run \
+        $container_engine run \
             --volume="$PWD":/mnt:Z \
             --rm \
             "${tty[@]}" \
