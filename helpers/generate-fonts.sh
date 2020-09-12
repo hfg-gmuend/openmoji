@@ -17,9 +17,9 @@ version=$(git describe --tags)
 # If we're connected to a terminal, don't flood it with ninja output,
 # and enable ^C.
 if [[ -t 1 ]]; then
-    tty='--tty --interactive'
+    tty=(--tty --interactive)
 else
-    tty=''
+    tty=()
 fi
 
 # FIXME: Upgrade glyf_colr_0 to glyf_colr_1 once
@@ -34,20 +34,20 @@ for saturation in black color; do
 
     case $saturation in
     black)
-        formats='glyf'
+        formats=(glyf)
         ;;
     color)
-        formats='glyf_colr_0 untouchedsvgz'
+        formats=(glyf_colr_0 untouchedsvgz)
         ;;
     esac
 
-    for format in $formats; do
-        mkdir -p font/$format
+    for format in "${formats[@]}"; do
+        mkdir -p "font/$format"
 
         docker run \
             --volume="$PWD":/mnt:Z \
             --rm \
-            $tty \
+            "${tty[@]}" \
             --pull=always \
             registry.gitlab.com/mavit/nanoemoji-container:master \
             sh -c "
