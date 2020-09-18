@@ -8,8 +8,6 @@ cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/.. || exit 1
 echo "👉 generate-font-css.js"
 helpers/generate-font-css.js
 
-sed 's/Color/Black/;' font/OpenMoji-Color.ttx > font/OpenMoji-Black.ttx
-
 
 # -- OpenMoji COLR TTF font generator via nanoemoji container --
 version=$(git describe --tags)
@@ -58,7 +56,7 @@ for saturation in black color; do
             --rm \
             "${tty[@]}" \
             $image \
-            sh -c "
+            bash -c "
                 set -o errexit
 
                 mkdir -p $build_dir
@@ -81,14 +79,16 @@ for saturation in black color; do
                     --output_file=$build_dir/$name.$format.ttf \
                     $build_dir/scale/*.svg
 
+                sed \"s/Color/${saturation^}/;\" /mnt/font/OpenMoji-Color.ttx > $build_dir/$name.ttx
+
                 xmlstarlet edit --inplace --update \
                     '/ttFont/name/namerecord[@nameID=\"5\"][@platformID=\"3\"]' \
                     --value '$version' \
-                    /mnt/font/$name.ttx
+                    $build_dir/$name.ttx
                 ttx \
                     -m $build_dir/$name.$format.ttf \
                     -o /mnt/font/$format/$name.ttf \
-                    /mnt/font/$name.ttx
+                    $build_dir/$name.ttx
             "
     done
 done
