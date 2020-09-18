@@ -37,9 +37,6 @@ $container_engine pull $image
 # FIXME: Upgrade glyf_colr_0 to glyf_colr_1 once
 # https://github.com/googlefonts/colr-gradients-spec stabilises.
 #
-# FIXME: Switch untouchedsvgz for picosvgz when
-# https://github.com/googlefonts/nanoemoji/issues/113 is fixed.
-#
 for saturation in black color; do
     name=OpenMoji-${saturation^}
     build_dir=/mnt/build/$saturation
@@ -49,7 +46,7 @@ for saturation in black color; do
         formats=(glyf)
         ;;
     color)
-        formats=(glyf_colr_0 untouchedsvgz)
+        formats=(glyf_colr_0 picosvgz)
         ;;
     esac
 
