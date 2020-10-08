@@ -9,6 +9,7 @@
 New:
   + Black hole by @fuddl
   + Horse jumping hurdles
+  + E048 to E04B Logos of OpenData projects e.g. OpenStreetMap by @fuddl
 
 Redesign:
   * Construction
@@ -19,7 +20,7 @@ Fix:
   * Darkness of colours in Tomato, Garlic, Bell Pepper
   * Shading in Grapes
   * White fill in Russian Doll and Slot Machine
- 
+
 Tech:
 Misc:
 
