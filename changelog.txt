@@ -18,6 +18,7 @@ Fix:
   * Gender of mountain bikers
   * Darkness of colours in Tomato, Garlic, Bell Pepper
   * Shading in Grapes
+  * White fill in Russian Doll and Slot Machine
  
 Tech:
 Misc:
