@@ -17,6 +17,7 @@ Fix:
   * Add white stars around New Zealand Flag's stars - @jtothegriff
   * Gender of mountain bikers
   * Darkness of colours in Tomato, Garlic, Bell Pepper
+  * Shading in Grapes
  
 Tech:
 Misc:
