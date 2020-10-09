@@ -1,0 +1,14 @@
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="line">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M34 44.5V58H25.0952M23 27H12V58H15.1429"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M36 32V23H44V32"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-width="2" d="M47 19.5V30"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M37 41V58H42V41"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M45 40.6531V58H53V36"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M57 30H60V58H56V44V33"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M52.5371 32.0666C56.8438 25.4992 54.8635 16.7781 48.114 12.5876C41.3645 8.39709 32.4016 10.3239 28.0949 16.8914C23.7882 23.4588 25.7685 32.1798 32.518 36.3703C39.2675 40.5608 48.2304 38.634 52.5371 32.0666Z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M49.6385 30.2669C52.9238 25.2571 51.4133 18.6044 46.2646 15.4078C41.1159 12.2112 34.2788 13.6811 30.9935 18.6909C27.7082 23.7007 29.2188 30.3533 34.3675 33.55C39.5162 36.7466 46.3533 35.2767 49.6385 30.2669Z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M27.777 38.444L32.1406 41.153L21.7451 57.006C21.0024 58.1386 19.4235 58.4502 18.2186 57.7022C17.0136 56.9541 16.6388 55.4296 17.3815 54.2969L27.777 38.444Z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-width="2" d="M33 21V29"/>
+  </g>
+</svg>
