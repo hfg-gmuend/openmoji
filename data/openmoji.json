@@ -59976,6 +59976,23 @@
     "order": ""
   },
   {
+    "emoji": "🏴󠁥󠁳󠁡󠁳󠁿󠁥󠁳󠁣󠁴󠁿",
+    "hexcode": "1F3F4-E0065-E0073-E0061-E0073-E007F",
+    "group": "extras-unicode",
+    "subgroups": "subdivision-flag",
+    "annotation": "asturias flag",
+    "tags": "",
+    "openmoji_tags": "asturian, asturina",
+    "openmoji_author": "Mikel González",
+    "openmoji_date": "2020-10-11",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": "?",
+    "order": ""
+  },
+  {
     "emoji": "🄍",
     "hexcode": "1F10D",
     "group": "extras-unicode",
