@@ -4,10 +4,6 @@ set -ueo pipefail
 # -- prepare assets --
 cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/.. || exit 1
 
-# generate css file for OpenMoji fonts
-echo "👉 generate-font-css.js"
-helpers/generate-font-css.js
-
 
 # -- OpenMoji COLR TTF font generator via nanoemoji container --
 version=$(git describe --tags)
@@ -66,5 +62,7 @@ for saturation in black color; do
             $image \
             bash /mnt/helpers/generate-ttf.sh \
                 "$name" "$saturation" "$version" "$format" "$build_dir"
+
+        helpers/generate-font-css.js "font/$format/openmoji.css"
     done
 done
