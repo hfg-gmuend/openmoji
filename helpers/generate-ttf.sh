@@ -3,11 +3,11 @@
 set -o errexit
 set -o nounset
 
-name=$1
-saturation=$2
-version=$3
-format=$4
-build_dir=$5
+saturation=$1
+version=$2
+format=$3
+build_dir=$4
+name=OpenMoji-${saturation^}
 
 
 mkdir -p "$build_dir"
