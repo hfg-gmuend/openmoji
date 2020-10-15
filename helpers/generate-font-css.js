@@ -26,4 +26,4 @@ const css = `
 }
 `;
 
-fs.writeFileSync('font/openmoji.css', css);
+fs.writeFileSync(process.argv[2], css);
