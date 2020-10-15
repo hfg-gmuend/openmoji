@@ -40,7 +40,6 @@ ${container_engine:?Not found. Please install Podman or Docker} pull $image
 # https://github.com/googlefonts/colr-gradients-spec stabilises.
 #
 for saturation in black color; do
-    name=OpenMoji-${saturation^}
     build_dir=/mnt/build/$saturation
 
     case $saturation in
@@ -61,7 +60,7 @@ for saturation in black color; do
             "${tty[@]}" \
             $image \
             bash /mnt/helpers/generate-ttf.sh \
-                "$name" "$saturation" "$version" "$format" "$build_dir"
+                "$saturation" "$version" "$format" "$build_dir"
 
         helpers/generate-font-css.js "font/$format/openmoji.css"
     done
