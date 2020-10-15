@@ -21,16 +21,24 @@ else
 fi
 
 image=registry.gitlab.com/mavit/nanoemoji-container:master
-case "${CONTAINER_ENGINE:-docker}" in
+case "${CONTAINER_ENGINE:-unset}" in
 podman)
     container_engine=podman
     ;;
-*)
+docker)
     container_engine=docker
+    ;;
+*)
+    for ce in podman docker; do
+        if type -t $ce >/dev/null; then
+            container_engine=$ce
+            break
+        fi
+    done
     ;;
 esac
 
-$container_engine pull $image
+${container_engine:?Not found. Please install Podman or Docker} pull $image
 
 # FIXME: Upgrade glyf_colr_0 to glyf_colr_1 once
 # https://github.com/googlefonts/colr-gradients-spec stabilises.
