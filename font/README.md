@@ -18,7 +18,7 @@ If you are adventurous and you would like to generate the fonts on your own, her
 ### Setup
 
 1. Install [node.js](https://nodejs.org) (see version in file [`.nvmrc`](https://github.com/hfg-gmuend/openmoji/blob/master/.nvmrc#L1))
-2. Install [Docker](https://www.docker.com/) (tested with Docker 2.2.0.0, engine 19.03.5)
+2. Install [Docker](https://www.docker.com/) (tested with Docker 2.2.0.0, engine 19.03.5) or [Podman](https://podman.io/).
 3. Download or clone our [scfbuild](https://github.com/b-g/scfbuild) fork
 4. Install the [Docker container](https://github.com/b-g/scfbuild#docker) of our scfbuild fork
 ### Generate Fonts
