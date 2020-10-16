@@ -47,7 +47,7 @@ for saturation in black color; do
         formats=(glyf)
         ;;
     color)
-        formats=(glyf_colr_0 picosvgz)
+        formats=(glyf_colr_0 picosvgz untouchedsvgz)
         ;;
     esac
 
