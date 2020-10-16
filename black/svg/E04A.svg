@@ -1,0 +1,11 @@
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="line-supplement">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13L19 18L24 20L26 29L21 34L23 37L20 39V40L25 47L29 45M34.5 56L36 53L39 51L46 55L51 54V50L49 48L50.5 44.5"/>
+  </g>
+  <g id="line">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M59.5371 35.0666C63.8438 28.4992 61.8635 19.7781 55.114 15.5876C48.3645 11.3971 39.4016 13.3239 35.0949 19.8913C30.7882 26.4588 32.7685 35.1798 39.518 39.3703C46.2675 43.5608 55.2304 41.634 59.5371 35.0666Z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M56.6385 33.2669C59.9238 28.2571 58.4133 21.6044 53.2646 18.4078C48.1159 15.2112 41.2788 16.6811 37.9935 21.6909C34.7082 26.7007 36.2188 33.3533 41.3675 36.55C46.5162 39.7466 53.3533 38.2767 56.6385 33.2669Z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M34.777 41.444L39.1406 44.153L28.7451 60.006C28.0024 61.1386 26.4235 61.4502 25.2186 60.7022C24.0136 59.9541 23.6388 58.4296 24.3815 57.2969L34.777 41.444Z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M40 12.3333L36 12L25 13L12 12V24L12.9967 35.04L12 47V59L21 59.6923M54.2656 12.4779L60 12V16.5M59.375 39.5L60 47V59L48 60L36 59L32.5 59.3182"/>
+  </g>
+</svg>

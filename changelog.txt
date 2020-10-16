@@ -7,9 +7,21 @@
 ❓ OpenMoji 12.5/13.0 - __ ___ 2020
 
 New:
-  + black hole by @fuddl
+  + Black hole by @fuddl
+  + Horse jumping hurdles
+  + E048 to E04B Logos of OpenData projects e.g. OpenStreetMap by @fuddl
+  + Catalonia flag by Joan Montané
+
 Redesign:
+  * Construction
+
 Fix:
+  * Add white stars around New Zealand Flag's stars - @jtothegriff
+  * Gender of mountain bikers
+  * Darkness of colours in Tomato, Garlic, Bell Pepper
+  * Shading in Grapes
+  * White fill in Russian Doll and Slot Machine
+
 Tech:
 Misc:
 

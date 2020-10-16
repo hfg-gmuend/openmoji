@@ -2308,7 +2308,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🚥,1F6A5,travel-places,transport-ground,horizontal traffic light,"light, signal, traffic","light, red, green, yellow, traffic, traffic light",Ronja Bäurlen,2018-04-18,,,,,0.6,3066
 🚦,1F6A6,travel-places,transport-ground,vertical traffic light,"light, signal, traffic","light, red, green, yellow, vertical, traffic, light",Ronja Bäurlen,2018-04-18,,,,,1,3067
 🛑,1F6D1,travel-places,transport-ground,stop sign,"octagonal, sign, stop","stop, sign, signal, warning",Ronja Bäurlen,2018-04-18,,,,,3,3068
-🚧,1F6A7,travel-places,transport-ground,construction,barrier,"barrier, warning, stop, attention, traffic",Ronja Bäurlen,2018-04-18,,,,,0.6,3069
+🚧,1F6A7,travel-places,transport-ground,construction,barrier,"barrier, warning, stop, attention, traffic",Carlin MacKenzie,2020-09-13,,,,,0.6,3069
 ⚓️,2693,travel-places,transport-water,anchor,"ship, tool","boat, ship, travel, sea, atlantic, ocean, water, tool, anchor, metal",Ronja Bäurlen,2018-04-18,,,,,0.6,3070
 ⛵️,26F5,travel-places,transport-water,sailboat,"boat, resort, sea, yacht","boat, passengers, ship, travel, sea, atlantic, ocean, water, yacht, resort, sail, sailboat",Ronja Bäurlen,2018-04-18,,,,,0.6,3071
 🛶,1F6F6,travel-places,transport-water,canoe,boat,,Jonas Dunkel,2019-05-07,,,,,3,3072
@@ -3249,6 +3249,10 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E045,extras-openmoji,brand,github,,"social, platform, code, git, brand",Romain Bazile,2019-09-06,,,,,,
 ,E046,extras-openmoji,brand,linkedin,,business,Daniel Utz,2020-04-25,,,,,,
 ,E047,extras-openmoji,brand,android,,google play,Alexander Müller,2020-04-26,,,,,,
+,E048,extras-openmoji,brand,musicbrainz,,music metadata,Alexander Müller,2020-10-03,,,,,,
+,E049,extras-openmoji,brand,openfoodfact,,nutrition data,Alexander Müller,2020-10-03,,,,,,
+,E04A,extras-openmoji,brand,openstreetmap,,"map, osm, geodata",Alexander Müller,2020-10-03,,,,,,
+,E04B,extras-openmoji,brand,wikidata,,open knowledge graph,Alexander Müller,2020-10-03,,,,,,
 ,E0FF,extras-openmoji,brand,ubuntu,,linux,Alexander Müller,2020-04-26,,,,,,
 ,F000,extras-openmoji,brand,windows,,microsoft,Alexander Müller,2020-04-26,,,,,,
 ,F8FF,extras-openmoji,brand,apple,,"iOS, osx",Alexander Müller,2020-04-26,,,,,,
@@ -3425,6 +3429,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E154,extras-openmoji,objects,electric coffee percolator,,burned coffee,Alexander Müller,2020-05-11,,,,,,
 ,E155,extras-openmoji,objects,drip coffee maker,,,Alexander Müller,2020-05-11,,,,,,
 ,E156,extras-openmoji,objects,coffee grinder,,,Alexander Müller,2020-05-11,,,,,,
+,E157,extras-openmoji,objects,horse jumping hurdle,,equestrian,Carlin MacKenzie,2020-09-13,,,,,,
 ,E181,extras-openmoji,people,drunk person,,"person, person-activity, person-gesture, person-sport, drunk, alcohol, party, beer, drinking",Johanna Wellnitz,2018-04-18,,,,,,
 ,E182,extras-openmoji,people,person with dog,,"person, person-activity, dog, walking, animal, pet",Johanna Wellnitz,2018-04-18,,,,,,
 ,E183,extras-openmoji,people,trump,,"trump, donald, president, america, usa",Sina Schulz,2018-04-18,,,,,,
@@ -3521,6 +3526,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏴󠁤󠁥󠁢󠁹󠁿,1F3F4-E0064-E0065-E0062-E0079-E007F,extras-unicode,subdivision-flag,bavaria flag,,"state, lozenge",Manuel Strehl,2020-07-09,,,,,?,
 🏴󠁵󠁳󠁣󠁡󠁿,1F3F4-E0075-E0073-E0063-E0061-E007F,extras-unicode,subdivision-flag,california flag,,"bear, republic, state",Alexander Müller,2020-04-26,,,,,?,
 🏴󠁵󠁳󠁴󠁸󠁿,1F3F4-E0075-E0073-E0074-E0078-E007F,extras-unicode,subdivision-flag,texas flag,,"cowboy, lone star, republic, state",Carlin MacKenzie,2020-04-03,,,,,?,
+🻴󠁥󠁳󠁣󠁴󠁿,1FEF4-E0065-E0073-E0063-E0074-E007F,extras-unicode,subdivision-flag,catalonia flag,,"catalan, senyera",Joan Montané,2020-08-24,,,,,?,
 🄍,1F10D,extras-unicode,symbol-other,circled zero with slash,,"license, copyright, creative commons, open, libre, public domain",Carlin MacKenzie,2020-04-17,,,,,13,
 🄎,1F10E,extras-unicode,symbol-other,circled anticlockwise arrow,,"license, copyright, creative commons, open, libre, share alike",Carlin MacKenzie,2020-04-17,,,,,13,
 🄏,1F10F,extras-unicode,symbol-other,circled dollar sign with overlaid backslash,,"license, copyright, creative commons, open, libre, non commercial",Carlin MacKenzie,2020-04-17,,,,,13,
