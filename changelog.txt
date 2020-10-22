@@ -11,6 +11,7 @@ New:
   + Horse jumping hurdles
   + E048 to E04B Logos of OpenData projects e.g. OpenStreetMap by @fuddl
   + Catalonia flag by Joan Montané
+  + Asturies flag by Mikel González
 
 Redesign:
   * Construction
