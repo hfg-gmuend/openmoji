@@ -34246,7 +34246,7 @@
     "tags": "extinction, large, tusk, woolly",
     "openmoji_tags": "",
     "openmoji_author": "Liz Bravo",
-    "openmoji_date": "2020-10-07",
+    "openmoji_date": "2020-09-26",
     "skintone": "",
     "skintone_combination": "",
     "skintone_base_emoji": "",
@@ -34848,6 +34848,23 @@
     "skintone_base_hexcode": "",
     "unicode": 3,
     "order": 2736
+  },
+  {
+    "emoji": "🦤",
+    "hexcode": "1F9A4",
+    "group": "animals-nature",
+    "subgroups": "animal-bird",
+    "annotation": "dodo",
+    "tags": "extinction, large, mauritius",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2020-10-07",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 2737
   },
   {
     "emoji": "🪶",
