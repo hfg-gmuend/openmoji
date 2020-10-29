@@ -186,6 +186,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👌🏽,1F44C-1F3FD,people-body,hand-fingers-partial,OK hand: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,👌,1F44C,1,197
 👌🏾,1F44C-1F3FE,people-body,hand-fingers-partial,OK hand: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,👌,1F44C,1,198
 👌🏿,1F44C-1F3FF,people-body,hand-fingers-partial,OK hand: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,👌,1F44C,1,199
+🤌,1F90C,people-body,hand-fingers-partial,pinched fingers,"fingers, hand gesture, interrogation, pinched, sarcastic",,Liz Bravo,2020-09-26,,single,🤌,1F90C,13,200
+🤌🏻,1F90C-1F3FB,people-body,hand-fingers-partial,pinched fingers: light skin tone,,,Liz Bravo,2020-09-26,1,single,🤌,1F90C,13,201
+🤌🏼,1F90C-1F3FC,people-body,hand-fingers-partial,pinched fingers: medium-light skin tone,,,Liz Bravo,2020-09-26,2,single,🤌,1F90C,13,202
+🤌🏽,1F90C-1F3FD,people-body,hand-fingers-partial,pinched fingers: medium skin tone,,,Liz Bravo,2020-09-26,3,single,🤌,1F90C,13,203
+🤌🏾,1F90C-1F3FE,people-body,hand-fingers-partial,pinched fingers: medium-dark skin tone,,,Liz Bravo,2020-09-26,4,single,🤌,1F90C,13,204
+🤌🏿,1F90C-1F3FF,people-body,hand-fingers-partial,pinched fingers: dark skin tone,,,Liz Bravo,2020-09-26,5,single,🤌,1F90C,13,205
 🤏,1F90F,people-body,hand-fingers-partial,pinching hand,small amount,,Laura Dworatschek,2019-05-06,,single,🤏,1F90F,12,206
 🤏🏻,1F90F-1F3FB,people-body,hand-fingers-partial,pinching hand: light skin tone,,,Laura Dworatschek,2019-05-06,1,single,🤏,1F90F,12,207
 🤏🏼,1F90F-1F3FC,people-body,hand-fingers-partial,pinching hand: medium-light skin tone,,,Laura Dworatschek,2019-05-06,2,single,🤏,1F90F,12,208
@@ -1068,6 +1074,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💂🏽‍♀️,1F482-1F3FD-200D-2640-FE0F,people-body,person-role,woman guard: medium skin tone,,,Antonia Wagner,2019-05-03,3,single,💂‍♀️,1F482-200D-2640-FE0F,4,1313
 💂🏾‍♀️,1F482-1F3FE-200D-2640-FE0F,people-body,person-role,woman guard: medium-dark skin tone,,,Antonia Wagner,2019-05-03,4,single,💂‍♀️,1F482-200D-2640-FE0F,4,1315
 💂🏿‍♀️,1F482-1F3FF-200D-2640-FE0F,people-body,person-role,woman guard: dark skin tone,,,Antonia Wagner,2019-05-03,5,single,💂‍♀️,1F482-200D-2640-FE0F,4,1317
+🥷,1F977,people-body,person-role,ninja,"fighter, hidden, stealth",,Liz Bravo,2020-10-07,,single,🥷,1F977,13,1319
+🥷🏻,1F977-1F3FB,people-body,person-role,ninja,,,Liz Bravo,2020-10-07,1,single,🥷,1F977,13,1320
+🥷🏼,1F977-1F3FC,people-body,person-role,ninja,,,Liz Bravo,2020-10-07,2,single,🥷,1F977,13,1321
+🥷🏽,1F977-1F3FD,people-body,person-role,ninja,,,Liz Bravo,2020-10-07,3,single,🥷,1F977,13,1322
+🥷🏾,1F977-1F3FE,people-body,person-role,ninja,,,Liz Bravo,2020-10-07,4,single,🥷,1F977,13,1323
+🥷🏿,1F977-1F3FF,people-body,person-role,ninja,,,Liz Bravo,2020-10-07,5,single,🥷,1F977,13,1324
 👷,1F477,people-body,person-role,construction worker,"construction, hat, worker","construction, hat, worker, striped west, helmet",Lisa Thiel,2018-04-18,,single,👷,1F477,0.6,1325
 👷🏻,1F477-1F3FB,people-body,person-role,construction worker: light skin tone,,,Lisa Thiel,2018-04-18,1,single,👷,1F477,1,1326
 👷🏼,1F477-1F3FC,people-body,person-role,construction worker: medium-light skin tone,,,Lisa Thiel,2018-04-18,2,single,👷,1F477,1,1327
@@ -1128,18 +1140,18 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧕🏽,1F9D5-1F3FD,people-body,person-role,woman with headscarf: medium skin tone,,,Lisa Thiel,2018-04-18,3,single,🧕,1F9D5,5,1406
 🧕🏾,1F9D5-1F3FE,people-body,person-role,woman with headscarf: medium-dark skin tone,,,Lisa Thiel,2018-04-18,4,single,🧕,1F9D5,5,1407
 🧕🏿,1F9D5-1F3FF,people-body,person-role,woman with headscarf: dark skin tone,,,Lisa Thiel,2018-04-18,5,single,🧕,1F9D5,5,1408
-🤵,1F935,people-body,person-role,person in tuxedo,"groom, person, tuxedo",,Nadine Bartel,2019-05-06,,single,🤵,1F935,3,1409
-🤵🏻,1F935-1F3FB,people-body,person-role,person in tuxedo: light skin tone,,,Nadine Bartel,2019-05-06,1,single,🤵,1F935,3,1410
-🤵🏼,1F935-1F3FC,people-body,person-role,person in tuxedo: medium-light skin tone,,,Nadine Bartel,2019-05-06,2,single,🤵,1F935,3,1411
-🤵🏽,1F935-1F3FD,people-body,person-role,person in tuxedo: medium skin tone,,,Nadine Bartel,2019-05-06,3,single,🤵,1F935,3,1412
-🤵🏾,1F935-1F3FE,people-body,person-role,person in tuxedo: medium-dark skin tone,,,Nadine Bartel,2019-05-06,4,single,🤵,1F935,3,1413
-🤵🏿,1F935-1F3FF,people-body,person-role,person in tuxedo: dark skin tone,,,Nadine Bartel,2019-05-06,5,single,🤵,1F935,3,1414
-👰,1F470,people-body,person-role,person with veil,"bride, person, veil, wedding","bride, veil, wedding, woman, female, marriage, married, love, wedding dress",Lisa Thiel,2018-04-18,,single,👰,1F470,0.6,1439
-👰🏻,1F470-1F3FB,people-body,person-role,person with veil: light skin tone,,,Lisa Thiel,2018-04-18,1,single,👰,1F470,1,1440
-👰🏼,1F470-1F3FC,people-body,person-role,person with veil: medium-light skin tone,,,Lisa Thiel,2018-04-18,2,single,👰,1F470,1,1441
-👰🏽,1F470-1F3FD,people-body,person-role,person with veil: medium skin tone,,,Lisa Thiel,2018-04-18,3,single,👰,1F470,1,1442
-👰🏾,1F470-1F3FE,people-body,person-role,person with veil: medium-dark skin tone,,,Lisa Thiel,2018-04-18,4,single,👰,1F470,1,1443
-👰🏿,1F470-1F3FF,people-body,person-role,person with veil: dark skin tone,,,Lisa Thiel,2018-04-18,5,single,👰,1F470,1,1444
+🤵,1F935,people-body,person-role,person in tuxedo,"groom, person, tuxedo",,Liz Bravo,2020-09-26,,single,🤵,1F935,3,1409
+🤵🏻,1F935-1F3FB,people-body,person-role,person in tuxedo: light skin tone,,,Liz Bravo,2020-09-26,1,single,🤵,1F935,3,1410
+🤵🏼,1F935-1F3FC,people-body,person-role,person in tuxedo: medium-light skin tone,,,Liz Bravo,2020-09-26,2,single,🤵,1F935,3,1411
+🤵🏽,1F935-1F3FD,people-body,person-role,person in tuxedo: medium skin tone,,,Liz Bravo,2020-09-26,3,single,🤵,1F935,3,1412
+🤵🏾,1F935-1F3FE,people-body,person-role,person in tuxedo: medium-dark skin tone,,,Liz Bravo,2020-09-26,4,single,🤵,1F935,3,1413
+🤵🏿,1F935-1F3FF,people-body,person-role,person in tuxedo: dark skin tone,,,Liz Bravo,2020-09-26,5,single,🤵,1F935,3,1414
+👰,1F470,people-body,person-role,person with veil,"bride, person, veil, wedding",,Liz Bravo,2020-09-26,,single,👰,1F470,0.6,1439
+👰🏻,1F470-1F3FB,people-body,person-role,person with veil: light skin tone,,,Liz Bravo,2020-09-26,1,single,👰,1F470,1,1440
+👰🏼,1F470-1F3FC,people-body,person-role,person with veil: medium-light skin tone,,,Liz Bravo,2020-09-26,2,single,👰,1F470,1,1441
+👰🏽,1F470-1F3FD,people-body,person-role,person with veil: medium skin tone,,,Liz Bravo,2020-09-26,3,single,👰,1F470,1,1442
+👰🏾,1F470-1F3FE,people-body,person-role,person with veil: medium-dark skin tone,,,Liz Bravo,2020-09-26,4,single,👰,1F470,1,1443
+👰🏿,1F470-1F3FF,people-body,person-role,person with veil: dark skin tone,,,Liz Bravo,2020-09-26,5,single,👰,1F470,1,1444
 🤰,1F930,people-body,person-role,pregnant woman,"pregnant, woman","pregnant, woman, child, birth, love, mother, motherhood, trust, baby",Lisa Thiel,2018-04-18,,single,🤰,1F930,3,1469
 🤰🏻,1F930-1F3FB,people-body,person-role,pregnant woman: light skin tone,,,Lisa Thiel,2018-04-18,1,single,🤰,1F930,3,1470
 🤰🏼,1F930-1F3FC,people-body,person-role,pregnant woman: medium-light skin tone,,,Lisa Thiel,2018-04-18,2,single,🤰,1F930,3,1471
@@ -1152,6 +1164,24 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🤱🏽,1F931-1F3FD,people-body,person-role,breast-feeding: medium skin tone,,,Lisa Thiel,2018-04-18,3,single,🤱,1F931,5,1478
 🤱🏾,1F931-1F3FE,people-body,person-role,breast-feeding: medium-dark skin tone,,,Lisa Thiel,2018-04-18,4,single,🤱,1F931,5,1479
 🤱🏿,1F931-1F3FF,people-body,person-role,breast-feeding: dark skin tone,,,Lisa Thiel,2018-04-18,5,single,🤱,1F931,5,1480
+👩‍🍼,1F469-200D-1F37C,people-body,person-role,woman feeding baby,"baby, feeding, nursing, woman",,Liz Bravo,2020-09-26,,single,👩‍🍼,1F469-200D-1F37C,13,1481
+👩🏻‍🍼,1F469-1F3FB-200D-1F37C,people-body,person-role,woman feeding baby: light skin tone,,,Liz Bravo,2020-09-26,1,single,👩‍🍼,1F469-200D-1F37C,13,1482
+👩🏼‍🍼,1F469-1F3FC-200D-1F37C,people-body,person-role,woman feeding baby: medium-light skin tone,,,Liz Bravo,2020-09-26,2,single,👩‍🍼,1F469-200D-1F37C,13,1483
+👩🏽‍🍼,1F469-1F3FD-200D-1F37C,people-body,person-role,woman feeding baby: medium skin tone,,,Liz Bravo,2020-09-26,3,single,👩‍🍼,1F469-200D-1F37C,13,1484
+👩🏾‍🍼,1F469-1F3FE-200D-1F37C,people-body,person-role,woman feeding baby: medium-dark skin tone,,,Liz Bravo,2020-09-26,4,single,👩‍🍼,1F469-200D-1F37C,13,1485
+👩🏿‍🍼,1F469-1F3FF-200D-1F37C,people-body,person-role,woman feeding baby: dark skin tone,,,Liz Bravo,2020-09-26,5,single,👩‍🍼,1F469-200D-1F37C,13,1486
+👨‍🍼,1F468-200D-1F37C,people-body,person-role,man feeding baby,"baby, feeding, man, nursing",,Liz Bravo,2020-09-26,,single,👨‍🍼,1F468-200D-1F37C,13,1487
+👨🏻‍🍼,1F468-1F3FB-200D-1F37C,people-body,person-role,man feeding baby: light skin tone,,,Liz Bravo,2020-09-26,1,single,👨‍🍼,1F468-200D-1F37C,13,1488
+👨🏼‍🍼,1F468-1F3FC-200D-1F37C,people-body,person-role,man feeding baby: medium-light skin tone,,,Liz Bravo,2020-09-26,2,single,👨‍🍼,1F468-200D-1F37C,13,1489
+👨🏽‍🍼,1F468-1F3FD-200D-1F37C,people-body,person-role,man feeding baby: medium skin tone,,,Liz Bravo,2020-09-26,3,single,👨‍🍼,1F468-200D-1F37C,13,1490
+👨🏾‍🍼,1F468-1F3FE-200D-1F37C,people-body,person-role,man feeding baby: medium-dark skin tone,,,Liz Bravo,2020-09-26,4,single,👨‍🍼,1F468-200D-1F37C,13,1491
+👨🏿‍🍼,1F468-1F3FF-200D-1F37C,people-body,person-role,man feeding baby: dark skin tone,,,Liz Bravo,2020-09-26,5,single,👨‍🍼,1F468-200D-1F37C,13,1492
+🧑‍🍼,1F9D1-200D-1F37C,people-body,person-role,person feeding baby,"baby, feeding, nursing, person",,Liz Bravo,2020-09-26,,single,🧑‍🍼,1F9D1-200D-1F37C,13,1493
+🧑🏻‍🍼,1F9D1-1F3FB-200D-1F37C,people-body,person-role,person feeding baby: light skin tone,,,Liz Bravo,2020-09-26,1,single,🧑‍🍼,1F9D1-200D-1F37C,13,1494
+🧑🏼‍🍼,1F9D1-1F3FC-200D-1F37C,people-body,person-role,person feeding baby: medium-light skin tone,,,Liz Bravo,2020-09-26,2,single,🧑‍🍼,1F9D1-200D-1F37C,13,1495
+🧑🏽‍🍼,1F9D1-1F3FD-200D-1F37C,people-body,person-role,person feeding baby: medium skin tone,,,Liz Bravo,2020-09-26,3,single,🧑‍🍼,1F9D1-200D-1F37C,13,1496
+🧑🏾‍🍼,1F9D1-1F3FE-200D-1F37C,people-body,person-role,person feeding baby: medium-dark skin tone,,,Liz Bravo,2020-09-26,4,single,🧑‍🍼,1F9D1-200D-1F37C,13,1497
+🧑🏿‍🍼,1F9D1-1F3FF-200D-1F37C,people-body,person-role,person feeding baby: dark skin tone,,,Liz Bravo,2020-09-26,5,single,🧑‍🍼,1F9D1-200D-1F37C,13,1498
 👼,1F47C,people-body,person-fantasy,baby angel,"angel, baby, face, fairy tale, fantasy",,Anne Frauendorf,2018-11-16,,single,👼,1F47C,0.6,1499
 👼🏻,1F47C-1F3FB,people-body,person-fantasy,baby angel: light skin tone,,,Anne Frauendorf,2018-11-16,1,single,👼,1F47C,1,1500
 👼🏼,1F47C-1F3FC,people-body,person-fantasy,baby angel: medium-light skin tone,,,Anne Frauendorf,2018-11-16,2,single,👼,1F47C,1,1501
@@ -1170,6 +1200,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🤶🏽,1F936-1F3FD,people-body,person-fantasy,Mrs. Claus: medium skin tone,,,Lisa Thiel,2018-04-18,3,single,🤶,1F936,3,1514
 🤶🏾,1F936-1F3FE,people-body,person-fantasy,Mrs. Claus: medium-dark skin tone,,,Lisa Thiel,2018-04-18,4,single,🤶,1F936,3,1515
 🤶🏿,1F936-1F3FF,people-body,person-fantasy,Mrs. Claus: dark skin tone,,,Lisa Thiel,2018-04-18,5,single,🤶,1F936,3,1516
+🧑‍🎄,1F9D1-200D-1F384,people-body,person-fantasy,mx claus,"claus, christmas",,Liz Bravo,2020-09-26,,single,🧑‍🎄,1F9D1-200D-1F384,13,1517
+🧑🏻‍🎄,1F9D1-1F3FB-200D-1F384,people-body,person-fantasy,mx claus: light skin tone,,,Liz Bravo,2020-09-26,1,single,🧑‍🎄,1F9D1-200D-1F384,13,1518
+🧑🏼‍🎄,1F9D1-1F3FC-200D-1F384,people-body,person-fantasy,mx claus: medium-light skin tone,,,Liz Bravo,2020-09-26,2,single,🧑‍🎄,1F9D1-200D-1F384,13,1519
+🧑🏽‍🎄,1F9D1-1F3FD-200D-1F384,people-body,person-fantasy,mx claus: medium skin tone,,,Liz Bravo,2020-09-26,3,single,🧑‍🎄,1F9D1-200D-1F384,13,1520
+🧑🏾‍🎄,1F9D1-1F3FE-200D-1F384,people-body,person-fantasy,mx claus: medium-dark skin tone,,,Liz Bravo,2020-09-26,4,single,🧑‍🎄,1F9D1-200D-1F384,13,1521
+🧑🏿‍🎄,1F9D1-1F3FF-200D-1F384,people-body,person-fantasy,mx claus: dark skin tone,,,Liz Bravo,2020-09-26,5,single,🧑‍🎄,1F9D1-200D-1F384,13,1522
 🦸,1F9B8,people-body,person-fantasy,superhero,"good, hero, heroine, superpower",,Nadine Bartel,2019-05-06,,single,🦸,1F9B8,11,1523
 🦸🏻,1F9B8-1F3FB,people-body,person-fantasy,superhero: light skin tone,,,Nadine Bartel,2019-05-06,1,single,🦸,1F9B8,11,1524
 🦸🏼,1F9B8-1F3FC,people-body,person-fantasy,superhero: medium-light skin tone,,,Nadine Bartel,2019-05-06,2,single,🦸,1F9B8,11,1525
@@ -1960,6 +1996,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦄,1F984,animals-nature,animal-mammal,unicorn,face,"fabulous, magical, rainbow, schwäbisch, gmünd",Sofie Ascherl,2018-04-18,,,,,1,2678
 🦓,1F993,animals-nature,animal-mammal,zebra,stripe,"horse, black, white",Sofie Ascherl,2018-04-18,,,,,5,2679
 🦌,1F98C,animals-nature,animal-mammal,deer,deer,"forest, hunt, antler",Sofie Ascherl,2018-04-18,,,,,3,2680
+🦬,1F9AC,animals-nature,animal-mammal,bison,"buffalo, herd, wisent",,Liz Bravo,2020-09-26,,,,,13,2681
 🐮,1F42E,animals-nature,animal-mammal,cow face,"cow, face","farm, milk, beef, grass, dairy, horns, cheese",Sofie Ascherl,2018-04-18,,,,,0.6,2682
 🐂,1F402,animals-nature,animal-mammal,ox,"bull, taurus, zodiac","strong, farm, acre, horns, beef",Sofie Ascherl,2018-04-18,,,,,1,2683
 🐃,1F403,animals-nature,animal-mammal,water buffalo,"buffalo, water","black, horns, beef",Sofie Ascherl,2018-04-18,,,,,1,2684
@@ -1976,6 +2013,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦙,1F999,animals-nature,animal-mammal,llama,"alpaca, guanaco, vicuña, wool",,Carlin MacKenzie,2020-03-21,,,,,11,2695
 🦒,1F992,animals-nature,animal-mammal,giraffe,spots,"long, neck, trees, big",Sofie Ascherl,2018-04-18,,,,,5,2696
 🐘,1F418,animals-nature,animal-mammal,elephant,elephant,"big, wrinkles, trunk, töröö",Sofie Ascherl,2018-04-18,,,,,0.6,2697
+🦣,1F9A3,animals-nature,animal-mammal,mammoth,"extinction, large, tusk, woolly",,Liz Bravo,2020-10-07,,,,,13,2698
 🦏,1F98F,animals-nature,animal-mammal,rhinoceros,rhinoceros,"rhino, horn, africa",Sofie Ascherl,2018-04-18,,,,,3,2699
 🦛,1F99B,animals-nature,animal-mammal,hippopotamus,hippo,,Laura Schießer,2019-05-06,,,,,11,2700
 🐭,1F42D,animals-nature,animal-mammal,mouse face,"face, mouse","cute, whiskers, tiny, rodent",Sofie Ascherl,2018-04-18,,,,,0.6,2701
@@ -1985,6 +2023,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐰,1F430,animals-nature,animal-mammal,rabbit face,"bunny, face, pet, rabbit","rodent, teeth, cute, ears, bunny, hopping, easter",Sofie Ascherl,2018-04-18,,,,,0.6,2705
 🐇,1F407,animals-nature,animal-mammal,rabbit,"bunny, pet","rodent, teeth, cute, ears, bunny, hopping, easter",Sofie Ascherl,2018-04-18,,,,,1,2706
 🐿️,1F43F,animals-nature,animal-mammal,chipmunk,squirrel,"squirrel, alvin",Sofie Ascherl,2018-04-18,,,,,0.7,2708
+🦫,1F9AB,animals-nature,animal-mammal,beaver,dam,,Liz Bravo,2020-10-07,,,,,13,2709
 🦔,1F994,animals-nature,animal-mammal,hedgehog,spiny,"prickly, fall, apple, leafs",Sofie Ascherl,2018-04-18,,,,,5,2710
 🦇,1F987,animals-nature,animal-mammal,bat,vampire,"batman, dracula",Sofie Ascherl,2018-04-18,,,,,3,2711
 🐻,1F43B,animals-nature,animal-mammal,bear,face,"brown, salmon, river, thick",Sofie Ascherl,2018-04-18,,,,,0.6,2712
@@ -2026,6 +2065,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐳,1F433,animals-nature,animal-marine,spouting whale,"face, spouting, whale","cetacean, swim, animal, water",Kris Kowal,2020-04-04,,,,,0.6,2751
 🐋,1F40B,animals-nature,animal-marine,whale,whale,"cetacean, swim, animal, water",Kris Kowal,2020-04-04,,,,,1,2752
 🐬,1F42C,animals-nature,animal-marine,dolphin,flipper,"cetacean, swim, animal, water",Kris Kowal,2020-04-04,,,,,0.6,2753
+🦭,1F9AD,animals-nature,animal-marine,seal,sea lion,,Liz Bravo,2020-09-26,,,,,13,2754
 🐟️,1F41F,animals-nature,animal-marine,fish,"pisces, zodiac","swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,2755
 🐠,1F420,animals-nature,animal-marine,tropical fish,"fish, tropical","swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,2756
 🐡,1F421,animals-nature,animal-marine,blowfish,fish,"swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,2757
@@ -2037,8 +2077,10 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐛,1F41B,animals-nature,animal-bug,bug,insect,,Selina Bauder,2018-04-18,,,,,0.6,2763
 🐜,1F41C,animals-nature,animal-bug,ant,insect,,Selina Bauder,2018-04-18,,,,,0.6,2764
 🐝,1F41D,animals-nature,animal-bug,honeybee,"bee, insect",,Selina Bauder,2018-04-18,,,,,0.6,2765
+🪲,1FAB2,animals-nature,animal-bug,beetle,"bug, insect",,Liz Bravo,2020-09-26,,,,,13,2766
 🐞,1F41E,animals-nature,animal-bug,lady beetle,"beetle, insect, ladybird, ladybug",,Selina Bauder,2018-04-18,,,,,0.6,2767
 🦗,1F997,animals-nature,animal-bug,cricket,grasshopper,,Selina Bauder,2018-04-18,,,,,5,2768
+🪳,1FAB3,animals-nature,animal-bug,cockroach,"insect, pest, roach",,Liz Bravo,2020-09-26,,,,,13,2769
 🕷️,1F577,animals-nature,animal-bug,spider,insect,,Selina Bauder,2018-04-18,,,,,0.7,2771
 🕸️,1F578,animals-nature,animal-bug,spider web,"spider, web",,Selina Bauder,2018-04-18,,,,,0.7,2773
 🦂,1F982,animals-nature,animal-bug,scorpion,"scorpio, zodiac",,Selina Bauder,2018-04-18,,,,,1,2774
@@ -2218,6 +2260,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏛️,1F3DB,travel-places,place-building,classical building,classical,"building, historical, old, antique",Martin Wehl,2018-04-18,,,,,0.7,2962
 🏗️,1F3D7,travel-places,place-building,building construction,construction,"work, building lot, crane",Martin Wehl,2018-04-18,,,,,0.7,2964
 🧱,1F9F1,travel-places,place-building,brick,"bricks, clay, mortar, wall",,Jonas Dunkel,2019-05-07,,,,,11,2965
+🪨,1FAA8,travel-places,place-building,rock,"boulder, heavy, solid, stone",,Liz Bravo,2020-10-07,,,,,13,2966
+🪵,1FAB5,travel-places,place-building,wood,"log, lumber, timber",,Liz Bravo,2020-09-26,,,,,13,2967
+🛖,1F6D6,travel-places,place-building,hut,"house, roundhouse, yurt",,Liz Bravo,2020-09-26,,,,,13,2968
 🏘️,1F3D8,travel-places,place-building,houses,houses,"buildings, neighbourhood",Martin Wehl,2018-04-18,,,,,0.7,2970
 🏚️,1F3DA,travel-places,place-building,derelict house,"derelict, house","building, old, rotten, dangerous",Martin Wehl,2018-04-18,,,,,0.7,2972
 🏠️,1F3E0,travel-places,place-building,house,home,building,Martin Wehl,2018-04-18,,,,,0.6,2973
@@ -2493,6 +2538,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧵,1F9F5,activities,arts-crafts,thread,"needle, sewing, spool, string",,Nicole Kornhaas,2019-05-06,,,,,11,3290
 🪡,1FAA1,activities,arts-crafts,sewing needle,"embroidery, needle, sewing, stitches, sutures, tailoring",,Liz Bravo,2020-03-28,,,,,13,3291
 🧶,1F9F6,activities,arts-crafts,yarn,"ball, crochet, knit",,Nicole Kornhaas,2019-05-06,,,,,11,3292
+🪢,1FAA2,activities,arts-crafts,knot,"rope, tangled, tie, twine, twist",,Liz Bravo,2020-09-26,,,,,13,3293
 👓️,1F453,objects,clothing,glasses,"clothing, eye, eyeglasses, eyewear",,Jonas Roßner,2018-04-18,,,,,0.6,3294
 🕶️,1F576,objects,clothing,sunglasses,"dark, eye, eyewear, glasses",sunglasses,Jonas Roßner,2018-04-18,,,,,0.7,3296
 🥽,1F97D,objects,clothing,goggles,"eye protection, swimming, welding",,Laura Schießer,2019-05-06,,,,,11,3297
@@ -2532,6 +2578,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🎩,1F3A9,objects,clothing,top hat,"clothing, hat, top, tophat","magic,",Jonas Roßner,2018-04-18,,,,,0.6,3332
 🎓️,1F393,objects,clothing,graduation cap,"cap, celebration, clothing, graduation, hat",,Jonas Roßner,2018-04-18,,,,,0.6,3333
 🧢,1F9E2,objects,clothing,billed cap,baseball cap,,Daniel Quiros,2018-11-16,,,,,5,3334
+🪖,1FA96,objects,clothing,military helmet,"army, helmet, military, soldier, warrior",,Liz Bravo,2020-09-26,,,,,13,3335
 ⛑️,26D1,objects,clothing,rescue worker’s helmet,"aid, cross, face, hat, helmet",,Anne Frauendorf,2018-11-16,,,,,0.7,3337
 📿,1F4FF,objects,clothing,prayer beads,"beads, clothing, necklace, prayer, religion","expensive, jewelry",Jonas Roßner,2018-04-18,,,,,1,3338
 💄,1F484,objects,clothing,lipstick,"cosmetics, makeup",,Anne Frauendorf,2018-11-16,,,,,0.6,3339
@@ -2699,6 +2746,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🪝,1FA9D,objects,tool,hook,"catch, crook, curve, ensnare, selling point","fishing, catch",Liz Bravo,2020-04-11,,,,,13,3542
 🧰,1F9F0,objects,tool,toolbox,"chest, mechanic, tool",,Tonia Reinhardt,2019-05-07,,,,,11,3543
 🧲,1F9F2,objects,tool,magnet,"attraction, horseshoe, magnetic",,Tonia Reinhardt,2019-05-07,,,,,11,3544
+🪜,1FA9C,objects,tool,ladder,"climb, rung, step",,Liz Bravo,2020-09-26,,,,,13,3545
 ⚗️,2697,objects,science,alembic,"chemistry, tool",,Marleen Heine,2018-11-16,,,,,1,3547
 🧪,1F9EA,objects,science,test tube,"chemist, chemistry, experiment, lab, science",,Tonia Reinhardt,2019-05-07,,,,,11,3548
 🧫,1F9EB,objects,science,petri dish,"bacteria, biologist, biology, culture, lab",,Tonia Reinhardt,2019-05-07,,,,,11,3549
@@ -2712,6 +2760,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🩹,1FA79,objects,medical,adhesive bandage,bandage,,Sam Eckert,2019-05-06,,,,,12,3557
 🩺,1FA7A,objects,medical,stethoscope,"doctor, heart, medicine",,Sam Eckert,2019-05-06,,,,,12,3558
 🚪,1F6AA,objects,household,door,door,,Lisa Schulz,2018-04-18,,,,,0.6,3559
+🛗,1F6D7,objects,household,elevator,"accessibility, hoist, lift",,Liz Bravo,2020-09-26,,,,,13,3560
 🪞,1FA9E,objects,household,mirror,"reflection, reflector, speculum",,Liz Bravo,2020-03-26,,,,,13,3561
 🪟,1FA9F,objects,household,window,"frame, fresh air, opening, transparent, view",,Liz Bravo,2020-07-21,,,,,13,3562
 🛏️,1F6CF,objects,household,bed,"hotel, sleep",furniture,Lisa Schulz,2018-04-18,,,,,0.7,3564
