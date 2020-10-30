@@ -1,25 +1,3 @@
 emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,openmoji_date,skintone,skintone_combination,skintone_base_emoji,skintone_base_hexcode,unicode,order
-🤌,1F90C,people-body,hand-fingers-partial,pinched fingers,"fingers, hand gesture, interrogation, pinched, sarcastic",,,,,single,🤌,1F90C,13,200
-🥷,1F977,people-body,person-role,ninja,"fighter, hidden, stealth",,,,,single,🥷,1F977,13,1319
-🤵‍♂️,1F935-200D-2642-FE0F,people-body,person-role,man in tuxedo,"man, tuxedo",,,,,single,🤵‍♂️,1F935-200D-2642-FE0F,13,1415
 🤵‍♀️,1F935-200D-2640-FE0F,people-body,person-role,woman in tuxedo,"tuxedo, woman",,,,,single,🤵‍♀️,1F935-200D-2640-FE0F,13,1427
 👰‍♂️,1F470-200D-2642-FE0F,people-body,person-role,man with veil,"man, veil",,,,,single,👰‍♂️,1F470-200D-2642-FE0F,13,1445
-👰‍♀️,1F470-200D-2640-FE0F,people-body,person-role,woman with veil,"veil, woman",,,,,single,👰‍♀️,1F470-200D-2640-FE0F,13,1457
-👩‍🍼,1F469-200D-1F37C,people-body,person-role,woman feeding baby,"baby, feeding, nursing, woman",,,,,single,👩‍🍼,1F469-200D-1F37C,13,1481
-👨‍🍼,1F468-200D-1F37C,people-body,person-role,man feeding baby,"baby, feeding, man, nursing",,,,,single,👨‍🍼,1F468-200D-1F37C,13,1487
-🧑‍🍼,1F9D1-200D-1F37C,people-body,person-role,person feeding baby,"baby, feeding, nursing, person",,,,,single,🧑‍🍼,1F9D1-200D-1F37C,13,1493
-🧑‍🎄,1F9D1-200D-1F384,people-body,person-fantasy,mx claus,"claus, christmas",,,,,single,🧑‍🎄,1F9D1-200D-1F384,13,1517
-🦬,1F9AC,animals-nature,animal-mammal,bison,"buffalo, herd, wisent",,,,,,,,13,2681
-🦣,1F9A3,animals-nature,animal-mammal,mammoth,"extinction, large, tusk, woolly",,,,,,,,13,2698
-🦫,1F9AB,animals-nature,animal-mammal,beaver,dam,,,,,,,,13,2709
-🦤,1F9A4,animals-nature,animal-bird,dodo,"extinction, large, mauritius",,,,,,,,13,2737
-🦭,1F9AD,animals-nature,animal-marine,seal,sea lion,,,,,,,,13,2754
-🪲,1FAB2,animals-nature,animal-bug,beetle,"bug, insect",,,,,,,,13,2766
-🪳,1FAB3,animals-nature,animal-bug,cockroach,"insect, pest, roach",,,,,,,,13,2769
-🪨,1FAA8,travel-places,place-building,rock,"boulder, heavy, solid, stone",,,,,,,,13,2966
-🪵,1FAB5,travel-places,place-building,wood,"log, lumber, timber",,,,,,,,13,2967
-🛖,1F6D6,travel-places,place-building,hut,"house, roundhouse, yurt",,,,,,,,13,2968
-🪢,1FAA2,activities,arts-crafts,knot,"rope, tangled, tie, twine, twist",,,,,,,,13,3293
-🪖,1FA96,objects,clothing,military helmet,"army, helmet, military, soldier, warrior",,,,,,,,13,3335
-🪜,1FA9C,objects,tool,ladder,"climb, rung, step",,,,,,,,13,3545
-🛗,1F6D7,objects,household,elevator,"accessibility, hoist, lift",,,,,,,,13,3560
