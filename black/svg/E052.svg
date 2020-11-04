@@ -1,0 +1,8 @@
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="line">
+    <ellipse cx="36" cy="36" rx="26" ry="28" fill="none" stroke="#000" stroke-width="2"/>
+    <ellipse cx="36" cy="36" rx="26" ry="28" fill="none" stroke="#000" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-width="2" d="M29 17.1111C31.1144 15.7588 33.4897 15 36 15C44.8366 15 52 24.402 52 36C52 47.598 44.8366 57 36 57C33.4897 57 31.1144 56.2412 29 54.8889"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-width="2" d="M31 11.3723C24.4484 16.1117 20 25.3632 20 36C20 46.6368 24.4484 55.8883 31 60.6277"/>
+  </g>
+</svg>

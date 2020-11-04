@@ -21,6 +21,7 @@ New:
     1FAB3 Cock Roach, 1FAB5 Wood, 1F935-200D-2640-FE0F Woman with Tuxedo, 
     1F470-200D-2642-FE0F Man in Veil
     by Liz Bravo @lizbravob
+  + Browser vendor logos by @fuddl
 
 Redesign:
   * Construction
