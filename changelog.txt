@@ -9,7 +9,20 @@
 New:
   + Black hole by @fuddl
   + Horse jumping hurdles
-  + Stick figures
+  + E048 to E04B Logos of OpenData projects e.g. OpenStreetMap by @fuddl
+  + Catalonia flag by Joan Montané
+  + Asturies flag by Mikel González
+  + Emoji 13:
+    1F6D6 Hut, 1F6D7 Elevator, 1F9A3 Mammoth, 1F9A4 Dodo, 1F9AB Beaver, 1F9AC Bison, 
+    1F9AD Seal, 1F9D1-200D-1F37C Person Feeding Baby, 1F9D1-200D-1F384 Mx Claus,
+    1F90C Pinched Fingers, 1F468-200D-1F37C Man Feeding Baby, 1F469-200D-1F37C Woman 
+    Feeding Baby, 1F470 Person in Veil, 1F935 Person in Tuxedo, 1F977 Ninja, 
+    1FA9C Ladder, 1FA96 Military Helmet, 1FAA2 Knot, 1FAA8 Rock, 1FAB2 Bettle, 
+    1FAB3 Cock Roach, 1FAB5 Wood, 1F935-200D-2640-FE0F Woman with Tuxedo, 
+    1F470-200D-2642-FE0F Man in Veil
+    by Liz Bravo @lizbravob
+  + Browser vendor logos by @fuddl
+  + Stick figures by @fuddl
 
 Redesign:
   * Construction
@@ -17,7 +30,10 @@ Redesign:
 Fix:
   * Add white stars around New Zealand Flag's stars - @jtothegriff
   * Gender of mountain bikers
- 
+  * Darkness of colours in Tomato, Garlic, Bell Pepper
+  * Shading in Grapes
+  * White fill in Russian Doll and Slot Machine
+
 Tech:
 Misc:
 

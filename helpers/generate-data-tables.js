@@ -5,6 +5,7 @@ const fs = require('fs');
 const _ = require('lodash');
 const csvWriter = require('csv-write-stream');
 const csvParse = require('csv-parse/lib/sync');
+const { fromCodepointToUnicode, fromHexcodeToCodepoint } = require('emojibase');
 
 const emojibaseData = require('emojibase-data/en/data.json');
 const emojibaseGroups = require('emojibase-data/meta/groups.json');
@@ -114,9 +115,8 @@ let extrasOpenMoji = loadCsv('./data/extras-openmoji.csv');
 extrasOpenMoji = _.map(extrasOpenMoji, e => {
   // if the emoji column is empty: generate an emoji from the hexcode
   // if the emoji column is not empty: use as it is
-  const codePoint = parseInt(e.hexcode, 16);
-  const emojiFromHexCode = codePoint ? String.fromCodePoint(codePoint) : '';
-  const emoji = e.emoji === '' ? emojiFromHexCode : e.emoji;
+  const codePoint = fromHexcodeToCodepoint(e.hexcode);
+  const emoji = e.emoji === '' ? fromCodepointToUnicode(codePoint) : e.emoji;
   return {
     // image: `=IMAGE("https://github.com/hfg-gmuend/openmoji/blob/v1.5/color/72x72/${e.hexcode +'.png?raw=true'}")`,
     emoji: emoji,
@@ -138,8 +138,10 @@ extrasOpenMoji = _.map(extrasOpenMoji, e => {
 });
 let extrasUnicode = loadCsv('./data/extras-unicode.csv');
 extrasUnicode = _.map(extrasUnicode, e => {
+  const codePoint = fromHexcodeToCodepoint(e.hexcode);
+  const emoji = fromCodepointToUnicode(codePoint);
   return {
-    emoji: e.emoji,
+    emoji: emoji,
     hexcode: e.hexcode,
     group: e.group,
     subgroups: e.subgroups,

@@ -694,7 +694,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 👩‍⚖️,1F469-200D-2696-FE0F,"justice, woman, scales, judge hammer, gavel, black robe, law, order",Lisa Thiel,2018-04-18
 👩‍✈️,1F469-200D-2708-FE0F,"woman, pilot, plane, flying, control stick",Lisa Thiel,2018-04-18
 👮,1F46E,"cop, officer, police, law, justice, blue, badge",Lisa Thiel,2018-04-18
-👰,1F470,"bride, veil, wedding, woman, female, marriage, married, love, wedding dress",Lisa Thiel,2018-04-18
+👰‍♀️,1F470-200D-2640-FE0F,"bride, veil, wedding, woman, female, marriage, married, love, wedding dress",Lisa Thiel,2018-04-18
 👳,1F473,"man, beard, turban, religion",Lisa Thiel,2018-04-18
 👷,1F477,"construction, hat, worker, striped west, helmet",Lisa Thiel,2018-04-18
 👸,1F478,"fairy tale, fantasy, crown, pink dress, princess crown",Lisa Thiel,2018-04-18
@@ -1438,7 +1438,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 👩‍🦳,1F469-200D-1F9B3,,Nadine Bartel,2019-05-06
 👱‍♀️,1F471-200D-2640-FE0F,,Nadine Bartel,2019-05-06
 👱‍♂️,1F471-200D-2642-FE0F,,Nadine Bartel,2019-05-06
-🤵,1F935,,Nadine Bartel,2019-05-06
+🤵‍♂️,1F935-200D-2642-FE0F,,Nadine Bartel,2019-05-06
 🦸‍♀️,1F9B8-200D-2640-FE0F,,Nadine Bartel,2019-05-06
 🦸‍♂️,1F9B8-200D-2642-FE0F,,Nadine Bartel,2019-05-06
 🦸,1F9B8,,Nadine Bartel,2019-05-06
@@ -1789,3 +1789,27 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🫑,1FAD1,,Liz Bravo,2020-07-21
 🫕,1FAD5,,Liz Bravo,2020-07-21
 🫖,1FAD6,,Liz Bravo,2020-07-21
+👨‍🍼,1F468-200D-1F37C,,Liz Bravo,2020-09-26
+👩‍🍼,1F469-200D-1F37C,,Liz Bravo,2020-09-26
+👰,1F470,,Liz Bravo,2020-09-26
+🛖,1F6D6,,Liz Bravo,2020-09-26
+🛗,1F6D7,,Liz Bravo,2020-09-26
+🤌,1F90C,,Liz Bravo,2020-09-26
+🤵,1F935,,Liz Bravo,2020-09-26
+🥷,1F977,,Liz Bravo,2020-10-07
+🦣,1F9A3,,Liz Bravo,2020-09-26
+🦤,1F9A4,,Liz Bravo,2020-10-07
+🦫,1F9AB,,Liz Bravo,2020-10-07
+🦬,1F9AC,,Liz Bravo,2020-09-26
+🦭,1F9AD,,Liz Bravo,2020-09-26
+🧑‍🍼,1F9D1-200D-1F37C,,Liz Bravo,2020-09-26
+🧑‍🎄,1F9D1-200D-1F384,,Liz Bravo,2020-09-26
+🪖,1FA96,,Liz Bravo,2020-09-26
+🪜,1FA9C,,Liz Bravo,2020-09-26
+🪢,1FAA2,,Liz Bravo,2020-09-26
+🪨,1FAA8,,Liz Bravo,2020-10-07
+🪲,1FAB2,,Liz Bravo,2020-09-26
+🪳,1FAB3,,Liz Bravo,2020-09-26
+🪵,1FAB5,,Liz Bravo,2020-09-26
+👰‍♂️,1F470-200D-2642-FE0F,,Liz Bravo,2020-10-30
+🤵‍♀️,1F935-200D-2640-FE0F,,Liz Bravo,2020-10-30
