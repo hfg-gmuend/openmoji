@@ -9,6 +9,7 @@
 New:
   + Black hole by @fuddl
   + Horse jumping hurdles
+  + Stick figures
 
 Redesign:
   * Construction
