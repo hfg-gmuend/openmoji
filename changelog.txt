@@ -25,6 +25,10 @@ New:
 
 Redesign:
   * Construction
+  * Animals:
+    Sloth, Skunk, Hippo, Raccoon, Monkey and Kangaroo
+    by @nicdiac
+  * Bee by @nicdiac
 
 Fix:
   * Add white stars around New Zealand Flag's stars - @jtothegriff
