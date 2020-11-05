@@ -36,6 +36,7 @@ Fix:
   * Darkness of colours in Tomato, Garlic, Bell Pepper
   * Shading in Grapes
   * White fill in Russian Doll and Slot Machine
+  * Color of Hot Face
 
 Tech:
 Misc:
