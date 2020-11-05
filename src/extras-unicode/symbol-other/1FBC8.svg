@@ -6,7 +6,7 @@
     <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M4 53.7463L4 18.2537C4 17.009 5.00902 16 6.2537 16L65.7463 16C66.991 16 68 17.009 68 18.2537V53.7463C68 54.991 66.991 56 65.7463 56L6.2537 56C5.00902 56 4 54.991 4 53.7463Z"/>
     <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M36 65C19.9837 65 7 52.0163 7 36C7 19.9837 19.9837 7 36 7C52.0163 7 65 19.9837 65 36C65 52.0163 52.0163 65 36 65Z"/>
   </g>
-  <g id="color"></g>
+  <g id="color"/>
   <g id="line">
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M42.5 63.5L42 35L36 36.5"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M28.5 63.5L36 36.5"/>
