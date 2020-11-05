@@ -22,6 +22,7 @@ New:
     1F470-200D-2642-FE0F Man in Veil
     by Liz Bravo @lizbravob
   + Browser vendor logos by @fuddl
+  + Stick figures by @fuddl
 
 Redesign:
   * Construction
