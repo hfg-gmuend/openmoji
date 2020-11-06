@@ -1,0 +1,25 @@
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="line">
+    <g id="line-2">
+      <g id="Standing_Man">
+        <g id="line-2-2">
+          <circle cx="13.3395" cy="18.5388" r="2.075" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+          <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16.81,27.5809l1.3279,26.5575c.0384.7688-.4019,1.3977-.9785,1.3977a1.4509,1.4509,0,0,1-1.2083-1.3886L14.1747,38.75c-.09-.7638-.4745-1.3886-.8589-1.3886s-.7709.6248-.8589,1.3886L10.6824,54.1475a1.4509,1.4509,0,0,1-1.2083,1.3886c-.5766,0-1.0169-.629-.9785-1.3977L9.8235,27.5809"/>
+          <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7.0279,40.1608l.5535-13.2787a3.6859,3.6859,0,0,1,3.64-3.4944h4.1933"/>
+        </g>
+        <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.3635,23.3876a3.686,3.686,0,0,1,3.64,3.4944l.5535,13.2787"/>
+      </g>
+    </g>
+    <g id="line-3">
+      <g id="Standing_Man-2">
+        <g id="line-2-3">
+          <circle cx="58.7827" cy="19.0027" r="2.075" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+          <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M62.2534,28.0448l1.3279,26.5574C63.62,55.371,63.1794,56,62.6028,56a1.4509,1.4509,0,0,1-1.2083-1.3887l-1.7766-15.397c-.09-.7639-.4745-1.3887-.8589-1.3887s-.7709.6248-.8589,1.3887l-1.7745,15.397A1.4509,1.4509,0,0,1,54.9173,56c-.5766,0-1.0169-.629-.9785-1.3978l1.3279-26.5574"/>
+          <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M52.4711,40.6246l.5535-13.2787a3.686,3.686,0,0,1,3.64-3.4944h4.1933"/>
+        </g>
+        <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M60.8067,23.8514a3.686,3.686,0,0,1,3.64,3.4944L65,40.6246"/>
+      </g>
+    </g>
+    <polygon id="_2" points="40.999 32.238 39.395 34.016 43.384 37.745 27.644 37.745 31.633 34.016 30.029 32.238 22.787 39.089 30.029 45.94 31.633 44.162 27.644 40.433 43.384 40.433 39.395 44.162 40.999 45.94 48.241 39.089 40.999 32.238"/>
+  </g>
+</svg>
