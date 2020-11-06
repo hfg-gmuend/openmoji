@@ -29,7 +29,7 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 ,E088,extras-openmoji,emergency,evacuate to shelter,,Guemil Project,2019-01-14
 ,E089,extras-openmoji,emergency,structural fire,,Guemil Project,2019-01-14
 ,E08A,extras-openmoji,emergency,wild fire,,Guemil Project,2019-01-14
-,E08B,extras-openmoji,emergency,evacuate fire,,Guemil Project,2019-01-14
+,E08B,extras-openmoji,emergency,evacuate fire,,Guemil Project,2020-11-06
 ,E08C,extras-openmoji,emergency,warning tsunami,,Guemil Project,2019-01-14
 ,E08D,extras-openmoji,emergency,warning volcano,,Guemil Project,2019-01-14
 ,E08E,extras-openmoji,emergency,warning fire,,Guemil Project,2019-01-14
@@ -58,7 +58,7 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 ,E0A5,extras-openmoji,emergency,warning strip,,Guemil Project,2019-01-14
 ,E0A6,extras-openmoji,emergency,warning strip right,arrow,Guemil Project,2019-01-14
 ,E0A7,extras-openmoji,emergency,arrow turn right,,Guemil Project,2019-01-14
-,E0A8,extras-openmoji,emergency,emergency exit door,,Guemil Project,2019-01-14
+,E0A8,extras-openmoji,emergency,emergency exit door,,Guemil Project,2020-11-06
 ,E0A9,extras-openmoji,emergency,location indicator red,,Guemil Project,2019-01-14
 ,E0AA,extras-openmoji,emergency,electric plug red,,Guemil Project,2019-01-14
 ,E0AB,extras-openmoji,emergency,timer,"clock, alarm",Guemil Project,2019-01-14
@@ -303,3 +303,16 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 🯆‍👗,1FBC6-200D-1F457,extras-openmoji,symbol-other,stick figure with dress and arms raised,"legacy computing",Alexander Müller,2020-11-04
 🯇‍👗,1FBC7-200D-1F457,extras-openmoji,symbol-other,stick figure with dress leaning left,"legacy computing",Alexander Müller,2020-11-04
 🯈‍👗,1FBC8-200D-1F457,extras-openmoji,symbol-other,stick figure with dress leaning right,"legacy computing",Alexander Müller,2020-11-04
+,E0AC-200D-2640-FE0F,extras-openmoji,emergency,"woman with medical mask","corona, COVID-19",Guemil Project,2020-11-06
+,E0AC-200D-2642-FE0F,extras-openmoji,emergency,"man with medical mask","corona, COVID-19",Guemil Project,2020-11-06
+,E0AC,extras-openmoji,emergency,"person with medical mask","corona, COVID-19",Guemil Project,2020-11-06
+,E0AD-200D-2640-FE0F,extras-openmoji,emergency,"woman sneezing into elbow","corona, COVID-19",Guemil Project,2020-11-06
+,E0AD-200D-2642-FE0F,extras-openmoji,emergency,"man sneezing into elbow","corona, COVID-19",Guemil Project,2020-11-06
+,E0AD,extras-openmoji,emergency,"person sneezing into elbow","corona, COVID-19",Guemil Project,2020-11-06
+,E0AE,extras-openmoji,emergency,"disinfect surface","corona, COVID-19",Guemil Project,2020-11-06
+,E0AF,extras-openmoji,emergency,"quarantine","corona, COVID-19",Guemil Project,2020-11-06
+,E0B0,extras-openmoji,emergency,"keep distance","corona, COVID-19",Guemil Project,2020-11-06
+,E0B1,extras-openmoji,emergency,"sanitizer spray","corona, COVID-19",Guemil Project,2020-11-06
+,E0B2,extras-openmoji,emergency,"wash hands","corona, COVID-19",Guemil Project,2020-11-06
+,E0B3,extras-openmoji,emergency,"temperature taking","corona, COVID-19",Guemil Project,2020-11-06
+,E0B4,extras-openmoji,emergency,"medical gloves","corona, COVID-19",Guemil Project,2020-11-06
