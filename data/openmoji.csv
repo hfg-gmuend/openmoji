@@ -3657,6 +3657,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ◪,25EA,extras-unicode,symbol-other,square with lower right diagonal black,,,loominade,2020-04-22,,,,,1.1,
 ◭,25ED,extras-unicode,symbol-other,up-pointing triangle with left half black,,,loominade,2020-04-22,,,,,1.1,
 ◮,25EE,extras-unicode,symbol-other,up-pointing triangle with right half black,,,loominade,2020-04-22,,,,,1.1,
+★,2605,extras-unicode,symbol-other,black star,,full star,Alexander Müller,2020-11-09,,,,,1,
 ⬌,2B0C,extras-unicode,symbol-other,left right black arrow,,,Guemil Project,2019-01-14,,,,,4,
 ⬍,2B0D,extras-unicode,symbol-other,up down black arrow,,,Guemil Project,2019-01-14,,,,,4,
 ⬟,2B1F,extras-unicode,symbol-other,black pentagon,,equilateral polygon,loominade,2020-04-17,,,,,5,
@@ -3674,3 +3675,5 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ⮼,2BBC,extras-unicode,symbol-other,overlapping black squares,,,loominade,2020-04-22,,,,,1.1,
 ⯃,2BC3,extras-unicode,symbol-other,horizontal black octagon,,equilateral polygon,loominade,2020-04-17,,,,,5,
 ⯄,2BC4,extras-unicode,symbol-other,black octagon,,equilateral polygon,loominade,2020-04-17,,,,,5,
+⯪,2BEA,extras-unicode,symbol-other,star with left half black,,half star,Alexander Müller,2020-11-09,,,,,11,
+⯫,2BEB,extras-unicode,symbol-other,star with right half black,,half star,Alexander Müller,2020-11-09,,,,,11,

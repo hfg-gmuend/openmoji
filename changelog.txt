@@ -25,6 +25,7 @@ New:
   + Stick figures by @fuddl
   + New emergency and COVID related emojis by Guemil Project
     E0AC, E0AD, E0AE, E0AF, E0B0, E0B1, E0B2, E0B3, E0B4
+  + Unicode 11 half stars + unicode 1.1 black star by @fuddl
 
 Redesign:
   * Construction
