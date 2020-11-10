@@ -1,0 +1,13 @@
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="line-supplement">
+    <path fill="#000" d="M35 11L44.2087 26.8699L62.5606 29.5436L49.2755 42.4838L52.4038 60.7637L35 52.5V11Z"/>
+  </g>
+  <g id="color">
+    <path fill="#FCEA2B" d="M37 11.5L27.7913 27.3699L9.43939 30.0436L22.7245 42.9838L19.5962 61.2637L37 52V11.5Z"/>
+    <path fill="#3F3F3F" d="M35 11L44.2087 26.8699L62.5606 29.5436L49.2755 42.4838L52.4038 60.7637L35 52.5V11Z"/>
+  </g>
+  <g id="line">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M35.9928 10.7363L27.7913 27.3699L9.43939 30.0436L22.7245 42.9838L19.5962 61.2637L36.0084 52.6276L52.427 61.2515L49.2851 42.9739L62.5606 30.0239L44.2067 27.3638L35.9928 10.7363Z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-width="2" d="M36 11.5V49"/>
+  </g>
+</svg>
