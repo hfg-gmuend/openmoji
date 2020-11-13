@@ -4,14 +4,17 @@
 
 --------------------------------------------------------------------------------
 
-❓ OpenMoji 12.5/13.0 - __ ___ 2020
+🥳 OpenMoji 13.0 - 13 Nov 2020
+
+Many improvements, fixes and new OpenMojis:
+👉 Full support of Unicode Emoji 13.0. Yay!
+👉 New Coronavirus related emojis by Guemil Project
+👉 Lots of fixes and redesigns
+👉 New logos and symbols
+
+🙏 Special thanks to @lizbravob and @fuddl for all the generous contributions!
 
 New:
-  + Black hole by @fuddl
-  + Horse jumping hurdles
-  + E048 to E04B Logos of OpenData projects e.g. OpenStreetMap by @fuddl
-  + Catalonia flag by Joan Montané
-  + Asturies flag by Mikel González
   + Emoji 13:
     1F6D6 Hut, 1F6D7 Elevator, 1F9A3 Mammoth, 1F9A4 Dodo, 1F9AB Beaver, 1F9AC Bison,
     1F9AD Seal, 1F9D1-200D-1F37C Person Feeding Baby, 1F9D1-200D-1F384 Mx Claus,
@@ -21,10 +24,15 @@ New:
     1FAB3 Cock Roach, 1FAB5 Wood, 1F935-200D-2640-FE0F Woman with Tuxedo,
     1F470-200D-2642-FE0F Man in Veil
     by Liz Bravo @lizbravob
-  + Browser vendor logos by @fuddl
-  + Stick figures by @fuddl
   + New emergency and COVID related emojis by Guemil Project
     E0AC, E0AD, E0AE, E0AF, E0B0, E0B1, E0B2, E0B3, E0B4
+  + E048 to E04B Logos of OpenData projects e.g. OpenStreetMap by @fuddl
+  + Black hole by @fuddl
+  + Horse jumping hurdles
+  + Catalonia flag by Joan Montané
+  + Asturies flag by Mikel González
+  + Browser vendor logos by @fuddl
+  + Stick figures by @fuddl
   + Unicode 11 half stars + unicode 1.1 black star by @fuddl
 
 Redesign:
@@ -43,9 +51,6 @@ Fix:
   * Shading in Grapes
   * White fill in Russian Doll and Slot Machine
   * Color of Hot Face
-
-Tech:
-Misc:
 
 
 --------------------------------------------------------------------------------
