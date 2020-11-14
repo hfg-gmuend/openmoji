@@ -4,6 +4,13 @@
 
 --------------------------------------------------------------------------------
 
+🧑‍🎄 OpenMoji 13.1 - ?? ??? 2020
+
+Many improvements, fixes and new OpenMojis:
+👉 Better consistency of black shapes.
+
+--------------------------------------------------------------------------------
+
 🥳 OpenMoji 13.0 - 13 Nov 2020
 
 Many improvements, fixes and new OpenMojis:
