@@ -1,12 +1,13 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
+  <g id="line-supplement">
+    <path fill="#000" d="M37.0385 14H35V57H60.9615L62 56L37.0385 14Z"/>
+  </g>
   <g id="color">
-    <path fill="#ffffff" stroke="none" d="M35,14 h1 v43 h-25 l-1,-1 z"/>
+    <path fill="#fff" d="M35 14H36V57H11L10 56L35 14Z"/>
+    <path fill="#3F3F3F" d="M37.0385 14H35V57H60.9615L62 56L37.0385 14Z"/>
   </g>
   <g id="line">
-    <path stroke="none" d="M37,14 h-1 v43 h25 l1,-1 z"/>
-    <path fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2" d="M33.5451,15.252L11.3194,53.748 C10.2284,55.6378,11.5922,58,13.7743,58h44.4514c2.1821,0,3.5459-2.3622,2.4549-4.252L38.4549,15.252 C37.3638,13.3622,34.6362,13.3622,33.5451,15.252z"/>
+    <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2" d="M33.5451 15.2519L11.3194 53.7479C10.2284 55.6377 11.5922 57.9999 13.7743 57.9999H58.2257C60.4078 57.9999 61.7716 55.6377 60.6806 53.7479L38.4549 15.2519C37.3638 13.3621 34.6362 13.3621 33.5451 15.2519Z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-width="2" d="M36 14.5V55"/>
   </g>
 </svg>
