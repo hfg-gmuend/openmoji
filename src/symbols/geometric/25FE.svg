@@ -1,15 +1,18 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path fill="#b3b3b3" d="M68,4.0417v64H4v-64H68m4-4H0v72H72v-72Z"/>
-    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,11H59.0769A1.9231,1.9231,0,0,1,61,12.9231V59.0769A1.9231,1.9231,0,0,1,59.0769,61H12.9231A1.9231,1.9231,0,0,1,11,59.0769V12.923A1.923,1.923,0,0,1,12.923,11Z"/>
-    <rect x="16" y="4.0417" rx="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4.0417" rx="2.2537" width="40" height="64" transform="translate(72.0417 0.0417) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <circle cx="36" cy="36.0417" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path fill="#B3B3B3" d="M68 4.04175V68.0417H4V4.04175H68ZM72 0.041748H0V72.0417H72V0.041748Z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M12.923 11H59.0769C59.5869 11 60.0761 11.2026 60.4367 11.5633C60.7974 11.9239 61 12.4131 61 12.9231V59.0769C61 59.5869 60.7974 60.0761 60.4367 60.4367C60.0761 60.7974 59.5869 61 59.0769 61H12.9231C12.4131 61 11.9239 60.7974 11.5633 60.4367C11.2026 60.0761 11 59.5869 11 59.0769V12.923C11 12.413 11.2026 11.9239 11.5632 11.5632C11.9239 11.2026 12.413 11 12.923 11V11Z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M53.7463 4.04175H18.2537C17.009 4.04175 16 5.05076 16 6.29545V65.7881C16 67.0327 17.009 68.0417 18.2537 68.0417H53.7463C54.991 68.0417 56 67.0327 56 65.7881V6.29545C56 5.05076 54.991 4.04175 53.7463 4.04175Z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M68 53.788V18.2954C68 17.0508 66.991 16.0417 65.7463 16.0417L6.2537 16.0417C5.00901 16.0417 4 17.0508 4 18.2954V53.788C4 55.0327 5.00901 56.0417 6.2537 56.0417L65.7463 56.0417C66.991 56.0417 68 55.0327 68 53.788Z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M36 65.0418C52.0163 65.0418 65 52.058 65 36.0417C65 20.0255 52.0163 7.04175 36 7.04175C19.9837 7.04175 7 20.0255 7 36.0417C7 52.058 19.9837 65.0418 36 65.0418Z"/>
+  </g>
+  <g id="line-supplement">
+    <path id="kleines mittleres schwarzes quadrat color 1" fill="#000" d="M51.7357 20.3059H20.2643V51.7773H51.7357V20.3059Z"/>
   </g>
   <g id="color">
-    <rect id="kleines_mittleres_schwarzes_quadrat_color_1" x="20.2643" y="20.306" width="31.4714" height="31.4714"/>
+    <path id="kleines mittleres schwarzes quadrat color 2" fill="#3F3F3F" d="M51.7357 20.3059H20.2643V51.7773H51.7357V20.3059Z"/>
   </g>
   <g id="line">
-    <rect id="kleines_mittleres_schwarzes_quadrat_line_1" x="20.2643" y="20.306" width="31.4714" height="31.4714" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="kleines mittleres schwarzes quadrat line 1" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M51.7357 20.3059H20.2643V51.7773H51.7357V20.3059Z"/>
   </g>
 </svg>
