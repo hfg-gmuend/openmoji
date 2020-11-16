@@ -6,8 +6,14 @@
 
 🧑‍🎄 OpenMoji 13.1 - ?? ??? 2020
 
-Many improvements, fixes and new OpenMojis:
-👉 Better consistency of black shapes.
+New:
+  + ???
+
+Redesign:
+  * colorful hexagons by @fuddl #278
+
+Fix:
+  * Better consistency of contours of black shapes by @fuddl #273
 
 --------------------------------------------------------------------------------
 
