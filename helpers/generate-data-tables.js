@@ -72,17 +72,12 @@ emojis = _.map(emojis, e => {
     openmoji_author = enhancements[e.skintone_base_emoji] ? enhancements[e.skintone_base_emoji]['openmoji_author'] : '';
     openmoji_date = enhancements[e.skintone_base_emoji] ? enhancements[e.skintone_base_emoji]['openmoji_date'] : '';
   }
-  // if annotation is 'empty', use 'name' if available
-  let annotation = e.annotation;
-  if (annotation == '' && e.name !== '') {
-    annotation = e.name.toLowerCase();
-  }
   return {
     emoji: e.emoji,
     hexcode: e.hexcode,
     group: groups[e.group],
     subgroups: subgroups[e.subgroup],
-    annotation: annotation,
+    annotation: e.annotation,
     tags: e.tags ? e.tags.join(', ') : '',
     openmoji_tags: enhancements[e.emoji] ? enhancements[e.emoji]['openmoji_tags'] : '',
     openmoji_author: openmoji_author,
