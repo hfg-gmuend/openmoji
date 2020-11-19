@@ -1075,11 +1075,11 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💂🏾‍♀️,1F482-1F3FE-200D-2640-FE0F,people-body,person-role,woman guard: medium-dark skin tone,,,Antonia Wagner,2019-05-03,4,single,💂‍♀️,1F482-200D-2640-FE0F,4,1315
 💂🏿‍♀️,1F482-1F3FF-200D-2640-FE0F,people-body,person-role,woman guard: dark skin tone,,,Antonia Wagner,2019-05-03,5,single,💂‍♀️,1F482-200D-2640-FE0F,4,1317
 🥷,1F977,people-body,person-role,ninja,"fighter, hidden, stealth",,Liz Bravo,2020-10-07,,single,🥷,1F977,13,1319
-🥷🏻,1F977-1F3FB,people-body,person-role,ninja: light skin tone,,,Liz Bravo,2020-10-07,1,single,🥷,1F977,13,1320
-🥷🏼,1F977-1F3FC,people-body,person-role,ninja: medium-light skin tone,,,Liz Bravo,2020-10-07,2,single,🥷,1F977,13,1321
-🥷🏽,1F977-1F3FD,people-body,person-role,ninja: medium skin tone,,,Liz Bravo,2020-10-07,3,single,🥷,1F977,13,1322
-🥷🏾,1F977-1F3FE,people-body,person-role,ninja: medium-dark skin tone,,,Liz Bravo,2020-10-07,4,single,🥷,1F977,13,1323
-🥷🏿,1F977-1F3FF,people-body,person-role,ninja: dark skin tone,,,Liz Bravo,2020-10-07,5,single,🥷,1F977,13,1324
+🥷🏻,1F977-1F3FB,people-body,person-role,ninja,,,Liz Bravo,2020-10-07,1,single,🥷,1F977,13,1320
+🥷🏼,1F977-1F3FC,people-body,person-role,ninja,,,Liz Bravo,2020-10-07,2,single,🥷,1F977,13,1321
+🥷🏽,1F977-1F3FD,people-body,person-role,ninja,,,Liz Bravo,2020-10-07,3,single,🥷,1F977,13,1322
+🥷🏾,1F977-1F3FE,people-body,person-role,ninja,,,Liz Bravo,2020-10-07,4,single,🥷,1F977,13,1323
+🥷🏿,1F977-1F3FF,people-body,person-role,ninja,,,Liz Bravo,2020-10-07,5,single,🥷,1F977,13,1324
 👷,1F477,people-body,person-role,construction worker,"construction, hat, worker","construction, hat, worker, striped west, helmet",Lisa Thiel,2018-04-18,,single,👷,1F477,0.6,1325
 👷🏻,1F477-1F3FB,people-body,person-role,construction worker: light skin tone,,,Lisa Thiel,2018-04-18,1,single,👷,1F477,1,1326
 👷🏼,1F477-1F3FC,people-body,person-role,construction worker: medium-light skin tone,,,Lisa Thiel,2018-04-18,2,single,👷,1F477,1,1327
@@ -3335,6 +3335,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E055,extras-openmoji,brand,Netscape Navigator,,browser,Alexander Müller,2020-11-04,,,,,,
 ,E056,extras-openmoji,brand,Internet Explorer,,"browser, ie, microsoft",Alexander Müller,2020-11-04,,,,,,
 ,E057,extras-openmoji,brand,Edge,,"browser, microsoft",Alexander Müller,2020-11-04,,,,,,
+,E058,extras-openmoji,brand,iNaturalist,,"opendata, nature, observation",Alexander Müller,2020-11-04,,,,,,
 ,E0FF,extras-openmoji,brand,ubuntu,,linux,Alexander Müller,2020-04-26,,,,,,
 ,F000,extras-openmoji,brand,windows,,microsoft,Alexander Müller,2020-04-26,,,,,,
 ,F8FF,extras-openmoji,brand,apple,,"iOS, osx",Alexander Müller,2020-04-26,,,,,,
