@@ -56712,6 +56712,23 @@
     "order": ""
   },
   {
+    "emoji": "",
+    "hexcode": "E058",
+    "group": "extras-openmoji",
+    "subgroups": "brand",
+    "annotation": "iNaturalist",
+    "tags": "",
+    "openmoji_tags": "opendata, nature, observation",
+    "openmoji_author": "Alexander Müller",
+    "openmoji_date": "2020-11-04",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": "",
+    "order": ""
+  },
+  {
     "emoji": "",
     "hexcode": "E0FF",
     "group": "extras-openmoji",
