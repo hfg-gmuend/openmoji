@@ -12,23 +12,31 @@ name=OpenMoji-${saturation^}
 
 mkdir -p "$build_dir"
 rsync -ru "/mnt/$saturation/svg/" "$build_dir/scale/"
-grep -FL 'transform="scale(1.3)"' "$build_dir"/scale/*.svg \
-    | xargs --no-run-if-empty \
-        xmlstarlet edit \
-            --inplace \
-            --omit-decl \
-            -N svg=http://www.w3.org/2000/svg \
-            --delete '/svg:svg/@transform' \
-            --insert '/svg:svg' \
-            --type attr \
-            --name transform \
-            --value 'translate(36 0) scale(1.3) translate(-36 0)'
+grep -FL '<g transform="translate(36 0) scale(1.3) translate(-36 0)">' \
+     "$build_dir"/scale/*.svg \
+  | xargs --no-run-if-empty \
+          sed -E -i \
+              -e 's/(<svg .*>)/\1\n<g transform="translate(36 0) scale(1.3) translate(-36 0)">/;' \
+              -e 's/(<\/svg>)/<\/g>\n\1/;'
 
-nanoemoji \
-    --color_format="$format" \
-    --build_dir="$build_dir" \
-    --output_file="$build_dir/$name.$format.ttf" \
-    "$build_dir"/scale/*.svg
+cat >"$build_dir/$name.toml" <<-EOF
+	output_file = "$build_dir/$name.$format.ttf"
+	color_format = "$format"
+
+	[axis.wght]
+	name = "Weight"
+	default = 400
+
+	[master.regular]
+	style_name = "Regular"
+	srcs = ["$build_dir/scale/*.svg"]
+
+	[master.regular.position]
+	wght = 400
+EOF
+
+nanoemoji --build_dir="$build_dir" \
+          --config="$build_dir/$name.toml"
 
 sed "s/Color/${saturation^}/;" \
     /mnt/font/OpenMoji-Color.ttx \
