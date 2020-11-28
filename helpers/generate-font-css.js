@@ -19,10 +19,10 @@ const css = `
 }
 
 @font-face {
- font-family: "OpenMojiBlack";
- src: url("OpenMoji-Black.ttf") format("truetype");
- font-style: Black;
- unicode-range: ${characterSet.toHexRangeString()};
+  font-family: "OpenMojiBlack";
+  src: url("OpenMoji-Black.ttf") format("truetype");
+  font-style: Black;
+  unicode-range: ${characterSet.toHexRangeString()};
 }
 `;
 
