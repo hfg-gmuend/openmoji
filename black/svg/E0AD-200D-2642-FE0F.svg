@@ -1,0 +1,13 @@
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="line">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M48.083,46.6973c3.85,1.1778,7.0674,4.5469,7.0674,8.5508l0,5.4227"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M55.0623,36.7481,40.6292,45.76a58.4644,58.4644,0,0,1-11.937,5.69c-2.4384.8392-4.6463,1.5968-4.6463,1.5968"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M59.632,33.3347l1.8149,1.1066a2.7369,2.7369,0,0,0,3.2107-.2627h0a2.7321,2.7321,0,0,0,.3381-3.8072,12.1524,12.1524,0,0,0-5.3649-3.5349,6.1467,6.1467,0,0,0-4.9343.3771h0a3.3808,3.3808,0,0,0-.6987.4976l-.5025.4644a3.3858,3.3858,0,0,0-.73.972l-.5834,1.1668a4.6985,4.6985,0,0,1-1.97,2.0334h0a80.9259,80.9259,0,0,0-13.9331,4.055L22.7661,41.4569a8.1237,8.1237,0,0,0-5.2372,6.6187,91.6645,91.6645,0,0,0-.4666,11.6725"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M29.982,29.209s2.53,1.5112,4.0414,0"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M38.3139,28.9816s2.53,1.5112,4.0414,0"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M24.0459,35.0192A18.7362,18.7362,0,0,1,22.2871,28.94a16.51,16.51,0,0,1-.1338-1.6918c-.0014-.6543-.0029-1.3223-.0029-2,0-7,5-14,14-14a13.75,13.75,0,0,1,14,13.4954q.0047.2523,0,.5046c0,.6.0039,1.1318.0049,1.666"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M29.982,42.2232s-.006,2.5532,2.0207,3.4468"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M37.09,50.7953q5.2653.735,10.5305-3.6527"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M47.05,29.6632c0-5-3-11-3-11-8,0-10,3-16,1a30.6019,30.6019,0,0,0-2.2629,10"/>
+  </g>
+</svg>

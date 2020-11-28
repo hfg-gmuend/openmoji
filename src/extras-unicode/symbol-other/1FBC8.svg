@@ -1,0 +1,19 @@
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="grid">
+    <path fill="#B3B3B3" d="M4 4V68H68V4H4ZM0 0H72V72H0V0Z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M59.077 10.9583H12.9231C12.4131 10.9583 11.9239 11.1609 11.5633 11.5216C11.2026 11.8822 11 12.3714 11 12.8814V59.0352C11 59.5452 11.2026 60.0344 11.5633 60.3951C11.9239 60.7557 12.4131 60.9583 12.9231 60.9583H59.0769C59.5869 60.9583 60.0761 60.7557 60.4367 60.3951C60.7974 60.0344 61 59.5452 61 59.0352V12.8813C61 12.3713 60.7974 11.8822 60.4368 11.5215C60.0761 11.1609 59.587 10.9583 59.077 10.9583V10.9583Z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M18.2537 4H53.7463C54.991 4 56 5.00902 56 6.2537V65.7463C56 66.991 54.991 68 53.7463 68H18.2537C17.009 68 16 66.991 16 65.7463V6.2537C16 5.00902 17.009 4 18.2537 4Z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M4 53.7463L4 18.2537C4 17.009 5.00902 16 6.2537 16L65.7463 16C66.991 16 68 17.009 68 18.2537V53.7463C68 54.991 66.991 56 65.7463 56L6.2537 56C5.00902 56 4 54.991 4 53.7463Z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M36 65C19.9837 65 7 52.0163 7 36C7 19.9837 19.9837 7 36 7C52.0163 7 65 19.9837 65 36C65 52.0163 52.0163 65 36 65Z"/>
+  </g>
+  <g id="color"/>
+  <g id="line">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M42.5 63.5L42 35L36 36.5"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M28.5 63.5L36 36.5"/>
+    <path fill="none" stroke="#000" stroke-width="2" d="M42 35V19"/>
+    <path fill="none" stroke="#000" stroke-width="2" d="M36 36.5L33 18"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M42 19L32.5 17L30.5 40"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M42 19L47 27L42 34.5"/>
+    <circle r="3" transform="matrix(-1 0 0 1 37 11)" fill="none" stroke="#000" stroke-width="2"/>
+  </g>
+</svg>
