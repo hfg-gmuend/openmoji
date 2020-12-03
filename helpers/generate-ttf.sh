@@ -6,9 +6,9 @@ set -o nounset
 saturation=$1
 version=$2
 format=$3
-build_dir=$4
+method=$4
+build_dir=$5
 name=OpenMoji-${saturation^}
-
 
 mkdir -p "$build_dir"
 rsync -ru "/mnt/$saturation/svg/" "$build_dir/scale/"
@@ -20,8 +20,8 @@ grep -FL '<g transform="translate(36 0) scale(1.3) translate(-36 0)">' \
               -e 's/(<\/svg>)/<\/g>\n\1/;'
 
 cat >"$build_dir/$name.toml" <<-EOF
-	output_file = "$build_dir/$name.$format.ttf"
-	color_format = "$format"
+	output_file = "$build_dir/$name.$method.ttf"
+	color_format = "$method"
 
 	[axis.wght]
 	name = "Weight"
@@ -46,6 +46,6 @@ xmlstarlet edit --inplace --update \
     '/ttFont/name/namerecord[@nameID="5"][@platformID="3"]' \
     --value "$version" \
     "$build_dir/$name.ttx"
-ttx -m "$build_dir/$name.$format.ttf" \
-    -o "/mnt/font/$format/$name.ttf" \
+ttx -m "$build_dir/$name.$method.ttf" \
+    -o "/mnt/font/$method/$name$format.ttf" \
     "$build_dir/$name.ttx"
