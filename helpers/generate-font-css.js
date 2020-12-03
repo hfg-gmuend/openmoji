@@ -13,7 +13,7 @@ const characterSet = new CharacterSet(emojis.join(''));
 const css = `
 @font-face {
   font-family: "OpenMojiColor";
-  src: url("OpenMoji-Color.ttf") format("truetype");
+  src: url("OpenMoji-Color${process.argv[2]}.ttf") format("truetype");
   font-style: Color;
   unicode-range: ${characterSet.toHexRangeString()};
 }
@@ -26,4 +26,4 @@ const css = `
 }
 `;
 
-fs.writeFileSync(process.argv[2], css);
+fs.writeFileSync(process.argv[3], css);

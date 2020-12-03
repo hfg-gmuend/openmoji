@@ -44,15 +44,36 @@ for saturation in black color; do
 
     case $saturation in
     black)
-        formats=(glyf)
+        methods=(glyf)
         ;;
     color)
-        formats=(glyf_colr_0 picosvgz untouchedsvgz)
+        methods=(glyf_colr_0 picosvgz untouchedsvgz)
         ;;
     esac
 
-    for format in "${formats[@]}"; do
-        mkdir -p "font/$format"
+    for method in "${methods[@]}"; do
+        mkdir -p "font/$method"
+
+        case "$method" in
+        cbdt)
+          format=.CBDT
+          ;;
+        *_colr_0)
+          format=.COLRv0
+          ;;
+        *_colr_1)
+          format=.COLRv1
+          ;;
+        glyf)
+          format=
+          ;;
+        sbix)
+          format=.sbix
+          ;;
+        *svg*)
+          format=.SVG
+          ;;
+        esac
 
         $container_engine run \
             --volume="$PWD":/mnt:Z \
@@ -60,8 +81,8 @@ for saturation in black color; do
             "${tty[@]}" \
             $image \
             bash /mnt/helpers/generate-ttf.sh \
-                "$saturation" "$version" "$format" "$build_dir"
+                "$saturation" "$version" "$format" "$method" "$build_dir"
 
-        helpers/generate-font-css.js "font/$format/openmoji.css"
+        helpers/generate-font-css.js "$format" "font/$method/openmoji.css"
     done
 done
