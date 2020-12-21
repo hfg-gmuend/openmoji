@@ -14,6 +14,7 @@ Redesign:
 
 Fix:
   * Better consistency of contours of black shapes by @fuddl #273
+  * 1F92D to "giggling and covering your mouth" by Liz Bravo #285
 
 --------------------------------------------------------------------------------
 
