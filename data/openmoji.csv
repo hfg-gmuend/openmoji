@@ -540,12 +540,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧓🏽,1F9D3-1F3FD,people-body,person,older person: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,🧓,1F9D3,5,567
 🧓🏾,1F9D3-1F3FE,people-body,person,older person: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,🧓,1F9D3,5,568
 🧓🏿,1F9D3-1F3FF,people-body,person,older person: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,🧓,1F9D3,5,569
-👴,1F474,people-body,person,old man,"adult, man, old","grandpa, human, person",Johanna Wellnitz,2018-04-18,,single,👴,1F474,0.6,570
-👴🏻,1F474-1F3FB,people-body,person,old man: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,👴,1F474,1,571
-👴🏼,1F474-1F3FC,people-body,person,old man: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,👴,1F474,1,572
-👴🏽,1F474-1F3FD,people-body,person,old man: medium skin tone,,,Johanna Wellnitz,2018-04-18,3,single,👴,1F474,1,573
-👴🏾,1F474-1F3FE,people-body,person,old man: medium-dark skin tone,,,Johanna Wellnitz,2018-04-18,4,single,👴,1F474,1,574
-👴🏿,1F474-1F3FF,people-body,person,old man: dark skin tone,,,Johanna Wellnitz,2018-04-18,5,single,👴,1F474,1,575
+👴,1F474,people-body,person,old man,"adult, man, old","grandpa, human, person",Liz Bravo,2020-12-22,,single,👴,1F474,0.6,570
+👴🏻,1F474-1F3FB,people-body,person,old man: light skin tone,,,Liz Bravo,2020-12-22,1,single,👴,1F474,1,571
+👴🏼,1F474-1F3FC,people-body,person,old man: medium-light skin tone,,,Liz Bravo,2020-12-22,2,single,👴,1F474,1,572
+👴🏽,1F474-1F3FD,people-body,person,old man: medium skin tone,,,Liz Bravo,2020-12-22,3,single,👴,1F474,1,573
+👴🏾,1F474-1F3FE,people-body,person,old man: medium-dark skin tone,,,Liz Bravo,2020-12-22,4,single,👴,1F474,1,574
+👴🏿,1F474-1F3FF,people-body,person,old man: dark skin tone,,,Liz Bravo,2020-12-22,5,single,👴,1F474,1,575
 👵,1F475,people-body,person,old woman,"adult, old, woman","grandma, human, person",Johanna Wellnitz,2018-04-18,,single,👵,1F475,0.6,576
 👵🏻,1F475-1F3FB,people-body,person,old woman: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,👵,1F475,1,577
 👵🏼,1F475-1F3FC,people-body,person,old woman: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,👵,1F475,1,578
@@ -900,12 +900,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧑🏽‍🔬,1F9D1-1F3FD-200D-1F52C,people-body,person-role,scientist: medium skin tone,,,Benedikt Groß,2020-01-15,3,single,🧑‍🔬,1F9D1-200D-1F52C,12.1,1083
 🧑🏾‍🔬,1F9D1-1F3FE-200D-1F52C,people-body,person-role,scientist: medium-dark skin tone,,,Benedikt Groß,2020-01-15,4,single,🧑‍🔬,1F9D1-200D-1F52C,12.1,1084
 🧑🏿‍🔬,1F9D1-1F3FF-200D-1F52C,people-body,person-role,scientist: dark skin tone,,,Benedikt Groß,2020-01-15,5,single,🧑‍🔬,1F9D1-200D-1F52C,12.1,1085
-👨‍🔬,1F468-200D-1F52C,people-body,person-role,man scientist,"biologist, chemist, engineer, man, physicist, scientist","biologist, chemist, engineer, man, mathematician, physicist, scientist, experiment, laboratory, lab, erlenmeyer flask, safety glasses",Lisa Thiel,2018-04-18,,single,👨‍🔬,1F468-200D-1F52C,4,1086
-👨🏻‍🔬,1F468-1F3FB-200D-1F52C,people-body,person-role,man scientist: light skin tone,,,Lisa Thiel,2018-04-18,1,single,👨‍🔬,1F468-200D-1F52C,4,1087
-👨🏼‍🔬,1F468-1F3FC-200D-1F52C,people-body,person-role,man scientist: medium-light skin tone,,,Lisa Thiel,2018-04-18,2,single,👨‍🔬,1F468-200D-1F52C,4,1088
-👨🏽‍🔬,1F468-1F3FD-200D-1F52C,people-body,person-role,man scientist: medium skin tone,,,Lisa Thiel,2018-04-18,3,single,👨‍🔬,1F468-200D-1F52C,4,1089
-👨🏾‍🔬,1F468-1F3FE-200D-1F52C,people-body,person-role,man scientist: medium-dark skin tone,,,Lisa Thiel,2018-04-18,4,single,👨‍🔬,1F468-200D-1F52C,4,1090
-👨🏿‍🔬,1F468-1F3FF-200D-1F52C,people-body,person-role,man scientist: dark skin tone,,,Lisa Thiel,2018-04-18,5,single,👨‍🔬,1F468-200D-1F52C,4,1091
+👨‍🔬,1F468-200D-1F52C,people-body,person-role,man scientist,"biologist, chemist, engineer, man, physicist, scientist","biologist, chemist, engineer, man, mathematician, physicist, scientist, experiment, laboratory, lab, erlenmeyer flask, safety glasses",Liz Bravo,2020-12-22,,single,👨‍🔬,1F468-200D-1F52C,4,1086
+👨🏻‍🔬,1F468-1F3FB-200D-1F52C,people-body,person-role,man scientist: light skin tone,,,Liz Bravo,2020-12-22,1,single,👨‍🔬,1F468-200D-1F52C,4,1087
+👨🏼‍🔬,1F468-1F3FC-200D-1F52C,people-body,person-role,man scientist: medium-light skin tone,,,Liz Bravo,2020-12-22,2,single,👨‍🔬,1F468-200D-1F52C,4,1088
+👨🏽‍🔬,1F468-1F3FD-200D-1F52C,people-body,person-role,man scientist: medium skin tone,,,Liz Bravo,2020-12-22,3,single,👨‍🔬,1F468-200D-1F52C,4,1089
+👨🏾‍🔬,1F468-1F3FE-200D-1F52C,people-body,person-role,man scientist: medium-dark skin tone,,,Liz Bravo,2020-12-22,4,single,👨‍🔬,1F468-200D-1F52C,4,1090
+👨🏿‍🔬,1F468-1F3FF-200D-1F52C,people-body,person-role,man scientist: dark skin tone,,,Liz Bravo,2020-12-22,5,single,👨‍🔬,1F468-200D-1F52C,4,1091
 👩‍🔬,1F469-200D-1F52C,people-body,person-role,woman scientist,"biologist, chemist, engineer, physicist, scientist, woman","biologist, chemist, engineer, woman, mathematician, physicist, scientist, experiment, laboratory, lab, erlenmeyer flask, safety glasses",Lisa Thiel,2018-04-18,,single,👩‍🔬,1F469-200D-1F52C,4,1092
 👩🏻‍🔬,1F469-1F3FB-200D-1F52C,people-body,person-role,woman scientist: light skin tone,,,Lisa Thiel,2018-04-18,1,single,👩‍🔬,1F469-200D-1F52C,4,1093
 👩🏼‍🔬,1F469-1F3FC-200D-1F52C,people-body,person-role,woman scientist: medium-light skin tone,,,Lisa Thiel,2018-04-18,2,single,👩‍🔬,1F469-200D-1F52C,4,1094
@@ -1062,12 +1062,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💂🏽,1F482-1F3FD,people-body,person-role,guard: medium skin tone,,,Lisa Thiel,2018-04-18,3,single,💂,1F482,1,1292
 💂🏾,1F482-1F3FE,people-body,person-role,guard: medium-dark skin tone,,,Lisa Thiel,2018-04-18,4,single,💂,1F482,1,1293
 💂🏿,1F482-1F3FF,people-body,person-role,guard: dark skin tone,,,Lisa Thiel,2018-04-18,5,single,💂,1F482,1,1294
-💂‍♂️,1F482-200D-2642-FE0F,people-body,person-role,man guard,"guard, man",,Antonia Wagner,2019-05-03,,single,💂‍♂️,1F482-200D-2642-FE0F,4,1295
-💂🏻‍♂️,1F482-1F3FB-200D-2642-FE0F,people-body,person-role,man guard: light skin tone,,,Antonia Wagner,2019-05-03,1,single,💂‍♂️,1F482-200D-2642-FE0F,4,1297
-💂🏼‍♂️,1F482-1F3FC-200D-2642-FE0F,people-body,person-role,man guard: medium-light skin tone,,,Antonia Wagner,2019-05-03,2,single,💂‍♂️,1F482-200D-2642-FE0F,4,1299
-💂🏽‍♂️,1F482-1F3FD-200D-2642-FE0F,people-body,person-role,man guard: medium skin tone,,,Antonia Wagner,2019-05-03,3,single,💂‍♂️,1F482-200D-2642-FE0F,4,1301
-💂🏾‍♂️,1F482-1F3FE-200D-2642-FE0F,people-body,person-role,man guard: medium-dark skin tone,,,Antonia Wagner,2019-05-03,4,single,💂‍♂️,1F482-200D-2642-FE0F,4,1303
-💂🏿‍♂️,1F482-1F3FF-200D-2642-FE0F,people-body,person-role,man guard: dark skin tone,,,Antonia Wagner,2019-05-03,5,single,💂‍♂️,1F482-200D-2642-FE0F,4,1305
+💂‍♂️,1F482-200D-2642-FE0F,people-body,person-role,man guard,"guard, man",,Liz Bravo,2020-12-22,,single,💂‍♂️,1F482-200D-2642-FE0F,4,1295
+💂🏻‍♂️,1F482-1F3FB-200D-2642-FE0F,people-body,person-role,man guard: light skin tone,,,Liz Bravo,2020-12-22,1,single,💂‍♂️,1F482-200D-2642-FE0F,4,1297
+💂🏼‍♂️,1F482-1F3FC-200D-2642-FE0F,people-body,person-role,man guard: medium-light skin tone,,,Liz Bravo,2020-12-22,2,single,💂‍♂️,1F482-200D-2642-FE0F,4,1299
+💂🏽‍♂️,1F482-1F3FD-200D-2642-FE0F,people-body,person-role,man guard: medium skin tone,,,Liz Bravo,2020-12-22,3,single,💂‍♂️,1F482-200D-2642-FE0F,4,1301
+💂🏾‍♂️,1F482-1F3FE-200D-2642-FE0F,people-body,person-role,man guard: medium-dark skin tone,,,Liz Bravo,2020-12-22,4,single,💂‍♂️,1F482-200D-2642-FE0F,4,1303
+💂🏿‍♂️,1F482-1F3FF-200D-2642-FE0F,people-body,person-role,man guard: dark skin tone,,,Liz Bravo,2020-12-22,5,single,💂‍♂️,1F482-200D-2642-FE0F,4,1305
 💂‍♀️,1F482-200D-2640-FE0F,people-body,person-role,woman guard,"guard, woman",,Antonia Wagner,2019-05-03,,single,💂‍♀️,1F482-200D-2640-FE0F,4,1307
 💂🏻‍♀️,1F482-1F3FB-200D-2640-FE0F,people-body,person-role,woman guard: light skin tone,,,Antonia Wagner,2019-05-03,1,single,💂‍♀️,1F482-200D-2640-FE0F,4,1309
 💂🏼‍♀️,1F482-1F3FC-200D-2640-FE0F,people-body,person-role,woman guard: medium-light skin tone,,,Antonia Wagner,2019-05-03,2,single,💂‍♀️,1F482-200D-2640-FE0F,4,1311
@@ -1075,11 +1075,11 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💂🏾‍♀️,1F482-1F3FE-200D-2640-FE0F,people-body,person-role,woman guard: medium-dark skin tone,,,Antonia Wagner,2019-05-03,4,single,💂‍♀️,1F482-200D-2640-FE0F,4,1315
 💂🏿‍♀️,1F482-1F3FF-200D-2640-FE0F,people-body,person-role,woman guard: dark skin tone,,,Antonia Wagner,2019-05-03,5,single,💂‍♀️,1F482-200D-2640-FE0F,4,1317
 🥷,1F977,people-body,person-role,ninja,"fighter, hidden, stealth",,Liz Bravo,2020-10-07,,single,🥷,1F977,13,1319
-🥷🏻,1F977-1F3FB,people-body,person-role,ninja: light skin tone,,,Liz Bravo,2020-10-07,1,single,🥷,1F977,13,1320
-🥷🏼,1F977-1F3FC,people-body,person-role,ninja: medium-light skin tone,,,Liz Bravo,2020-10-07,2,single,🥷,1F977,13,1321
-🥷🏽,1F977-1F3FD,people-body,person-role,ninja: medium skin tone,,,Liz Bravo,2020-10-07,3,single,🥷,1F977,13,1322
-🥷🏾,1F977-1F3FE,people-body,person-role,ninja: medium-dark skin tone,,,Liz Bravo,2020-10-07,4,single,🥷,1F977,13,1323
-🥷🏿,1F977-1F3FF,people-body,person-role,ninja: dark skin tone,,,Liz Bravo,2020-10-07,5,single,🥷,1F977,13,1324
+🥷🏻,1F977-1F3FB,people-body,person-role,ninja,,,Liz Bravo,2020-10-07,1,single,🥷,1F977,13,1320
+🥷🏼,1F977-1F3FC,people-body,person-role,ninja,,,Liz Bravo,2020-10-07,2,single,🥷,1F977,13,1321
+🥷🏽,1F977-1F3FD,people-body,person-role,ninja,,,Liz Bravo,2020-10-07,3,single,🥷,1F977,13,1322
+🥷🏾,1F977-1F3FE,people-body,person-role,ninja,,,Liz Bravo,2020-10-07,4,single,🥷,1F977,13,1323
+🥷🏿,1F977-1F3FF,people-body,person-role,ninja,,,Liz Bravo,2020-10-07,5,single,🥷,1F977,13,1324
 👷,1F477,people-body,person-role,construction worker,"construction, hat, worker","construction, hat, worker, striped west, helmet",Lisa Thiel,2018-04-18,,single,👷,1F477,0.6,1325
 👷🏻,1F477-1F3FB,people-body,person-role,construction worker: light skin tone,,,Lisa Thiel,2018-04-18,1,single,👷,1F477,1,1326
 👷🏼,1F477-1F3FC,people-body,person-role,construction worker: medium-light skin tone,,,Lisa Thiel,2018-04-18,2,single,👷,1F477,1,1327
@@ -2099,17 +2099,17 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐚,1F41A,animals-nature,animal-marine,spiral shell,"shell, spiral","beach, sand, water",Selina Bauder,2018-04-18,,,,,0.6,2760
 🐌,1F40C,animals-nature,animal-bug,snail,snail,,Selina Bauder,2018-04-18,,,,,0.6,2761
 🦋,1F98B,animals-nature,animal-bug,butterfly,"insect, pretty",,Selina Bauder,2018-04-18,,,,,3,2762
-🐛,1F41B,animals-nature,animal-bug,bug,insect,,Selina Bauder,2018-04-18,,,,,0.6,2763
+🐛,1F41B,animals-nature,animal-bug,bug,insect,,Liz Bravo,2020-12-22,,,,,0.6,2763
 🐜,1F41C,animals-nature,animal-bug,ant,insect,,Selina Bauder,2018-04-18,,,,,0.6,2764
 🐝,1F41D,animals-nature,animal-bug,honeybee,"bee, insect",,Selina Bauder,2018-04-18,,,,,0.6,2765
 🪲,1FAB2,animals-nature,animal-bug,beetle,"bug, insect",,Liz Bravo,2020-09-26,,,,,13,2766
-🐞,1F41E,animals-nature,animal-bug,lady beetle,"beetle, insect, ladybird, ladybug",,Selina Bauder,2018-04-18,,,,,0.6,2767
+🐞,1F41E,animals-nature,animal-bug,lady beetle,"beetle, insect, ladybird, ladybug",,Liz Bravo,2020-12-22,,,,,0.6,2767
 🦗,1F997,animals-nature,animal-bug,cricket,grasshopper,,Selina Bauder,2018-04-18,,,,,5,2768
 🪳,1FAB3,animals-nature,animal-bug,cockroach,"insect, pest, roach",,Liz Bravo,2020-09-26,,,,,13,2769
 🕷️,1F577,animals-nature,animal-bug,spider,insect,,Selina Bauder,2018-04-18,,,,,0.7,2771
 🕸️,1F578,animals-nature,animal-bug,spider web,"spider, web",,Selina Bauder,2018-04-18,,,,,0.7,2773
 🦂,1F982,animals-nature,animal-bug,scorpion,"scorpio, zodiac",,Selina Bauder,2018-04-18,,,,,1,2774
-🦟,1F99F,animals-nature,animal-bug,mosquito,"disease, fever, malaria, pest, virus",,Ricarda Krejci,2019-05-07,,,,,11,2775
+🦟,1F99F,animals-nature,animal-bug,mosquito,"disease, fever, malaria, pest, virus",,Liz Bravo,2020-12-22,,,,,11,2775
 🪰,1FAB0,animals-nature,animal-bug,fly,"disease, maggot, pest, rotting",,Liz Bravo,2020-03-07,,,,,13,2776
 🪱,1FAB1,animals-nature,animal-bug,worm,"annelid, earthworm, parasite",,Liz Bravo,2020-03-07,,,,,13,2777
 🦠,1F9A0,animals-nature,animal-bug,microbe,"amoeba, bacteria, virus","corona, virus, COVID-19",Benedikt Groß,2020-07-07,,,,,11,2778
@@ -2128,7 +2128,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🌲,1F332,animals-nature,plant-other,evergreen tree,tree,"green, tree, fir, plant",Hilda Kalyoncu,2018-04-18,,,,,1,2792
 🌳,1F333,animals-nature,plant-other,deciduous tree,"deciduous, shedding, tree","green, tree, huge, plant",Hilda Kalyoncu,2018-04-18,,,,,1,2793
 🌴,1F334,animals-nature,plant-other,palm tree,"palm, tree","sea, vacation, beach, relax, plant",Hilda Kalyoncu,2018-04-18,,,,,0.6,2794
-🌵,1F335,animals-nature,plant-other,cactus,plant,"desert, sun, warm, hot, texas, plant",Hilda Kalyoncu,2018-04-18,,,,,0.6,2795
+🌵,1F335,animals-nature,plant-other,cactus,plant,"desert, sun, warm, hot, texas, plant",Liz Bravo,2020-12-22,,,,,0.6,2795
 🌾,1F33E,animals-nature,plant-other,sheaf of rice,"ear, grain, rice",,Hend Hourani,2018-11-16,,,,,0.6,2796
 🌿,1F33F,animals-nature,plant-other,herb,leaf,green,Hilda Kalyoncu,2018-04-18,,,,,0.6,2797
 ☘️,2618,animals-nature,plant-other,shamrock,plant,"green, plant",Hilda Kalyoncu,2018-04-18,,,,,1,2799
@@ -2198,7 +2198,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥘,1F958,food-drink,food-prepared,shallow pan of food,"casserole, food, paella, pan, shallow",,Ricarda Krejci,2019-05-07,,,,,3,2864
 🍲,1F372,food-drink,food-prepared,pot of food,"pot, stew",,Miriam Vollmeier,2018-04-18,,,,,0.6,2865
 🫕,1FAD5,food-drink,food-prepared,fondue,"cheese, chocolate, melted, pot, swiss",,Liz Bravo,2020-07-21,,,,,13,2866
-🥣,1F963,food-drink,food-prepared,bowl with spoon,"breakfast, cereal, congee",,Guemil Project,2019-01-14,,,,,5,2867
+🥣,1F963,food-drink,food-prepared,bowl with spoon,"breakfast, cereal, congee",,Liz Bravo,2020-12-22,,,,,5,2867
 🥗,1F957,food-drink,food-prepared,green salad,"food, green, salad",,Ricarda Krejci,2019-05-07,,,,,3,2868
 🍿,1F37F,food-drink,food-prepared,popcorn,popcorn,,Miriam Vollmeier,2018-04-18,,,,,1,2869
 🧈,1F9C8,food-drink,food-prepared,butter,dairy,,Evelyn Soos,2019-05-04,,,,,12,2870
@@ -2264,7 +2264,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🍴,1F374,food-drink,dishware,fork and knife,"cooking, cutlery, fork, knife",eat,Jonas Roßner,2018-04-18,,,,,0.6,2931
 🥄,1F944,food-drink,dishware,spoon,tableware,"metal, spoon, eat",Jonas Roßner,2018-04-18,,,,,3,2932
 🔪,1F52A,food-drink,dishware,kitchen knife,"cooking, hocho, knife, tool, weapon",eat,Jonas Roßner,2018-04-18,,,,,0.6,2933
-🏺,1F3FA,food-drink,dishware,amphora,"aquarius, cooking, drink, jug, zodiac",,Hend Hourani,2018-11-16,,,,,1,2934
+🏺,1F3FA,food-drink,dishware,amphora,"aquarius, cooking, drink, jug, zodiac",,Liz Bravo,2020-12-22,,,,,1,2934
 🌍️,1F30D,travel-places,place-map,globe showing Europe-Africa,"africa, earth, europe, globe, globe showing europe-africa, world","geographic, continent, global, planet",Martin Wehl,2018-04-18,,,,,0.7,2935
 🌎️,1F30E,travel-places,place-map,globe showing Americas,"americas, earth, globe, globe showing americas, world","geographic, continent, global, planet",Martin Wehl,2018-04-18,,,,,0.7,2936
 🌏️,1F30F,travel-places,place-map,globe showing Asia-Australia,"asia, australia, earth, globe, globe showing asia-australia, world","geographic, continent, global, planet",Martin Wehl,2018-04-18,,,,,0.6,2937
@@ -2309,7 +2309,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🗼,1F5FC,travel-places,place-building,Tokyo tower,"tokyo, tower",,Louisa Mantsch,2018-11-16,,,,,0.6,2989
 🗽,1F5FD,travel-places,place-building,Statue of Liberty,"liberty, statue, statue of liberty",,Louisa Mantsch,2018-11-16,,,,,0.6,2990
 ⛪️,26EA,travel-places,place-religious,church,"christian, cross, religion","religious, pray, cross, building, god, mess, faith",Martin Wehl,2018-04-18,,,,,0.6,2991
-🕌,1F54C,travel-places,place-religious,mosque,"islam, muslim, religion","religious, pray, building, god, faith",Martin Wehl,2018-04-18,,,,,1,2992
+🕌,1F54C,travel-places,place-religious,mosque,"islam, muslim, religion","religious, pray, building, god, faith",Liz Bravo,2020-12-22,,,,,1,2992
 🛕,1F6D5,travel-places,place-religious,hindu temple,"hindu, temple",,Evelyn Soos,2019-05-04,,,,,12,2993
 🕍,1F54D,travel-places,place-religious,synagogue,"jew, jewish, religion, temple","religious, pray, building, god, faith",Martin Wehl,2018-04-18,,,,,1,2994
 ⛩️,26E9,travel-places,place-religious,shinto shrine,"religion, shinto, shrine","religious, pray, building, god, faith",Martin Wehl,2018-04-18,,,,,0.7,2996
@@ -2331,7 +2331,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💈,1F488,travel-places,place-other,barber pole,"barber, haircut, pole","beauty, hairdresser",Martin Wehl,2018-04-18,,,,,0.6,3014
 🎪,1F3AA,travel-places,place-other,circus tent,"circus, tent","fun, leisure, entertainment, red, white",Martin Wehl,2018-04-18,,,,,0.6,3015
 🚂,1F682,travel-places,transport-ground,locomotive,"engine, railway, steam, train","Train, Locomotive, travel, drive",Ronja Bäurlen,2018-04-18,,,,,1,3016
-🚃,1F683,travel-places,transport-ground,railway car,"car, electric, railway, train, tram, trolleybus","train, locomotive, railway car, travel",Ronja Bäurlen,2018-04-18,,,,,0.6,3017
+🚃,1F683,travel-places,transport-ground,railway car,"car, electric, railway, train, tram, trolleybus","train, locomotive, railway car, travel",Liz Bravo,2020-12-22,,,,,0.6,3017
 🚄,1F684,travel-places,transport-ground,high-speed train,"railway, shinkansen, speed, train",,Jonas Dunkel,2019-05-07,,,,,0.6,3018
 🚅,1F685,travel-places,transport-ground,bullet train,"bullet, railway, shinkansen, speed, train","train, locomotive, railway car, travel, transportation",Ronja Bäurlen,2018-04-18,,,,,0.6,3019
 🚆,1F686,travel-places,transport-ground,train,railway,,Nadja Grün,2018-11-16,,,,,1,3020
@@ -2546,7 +2546,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🎰,1F3B0,activities,game,slot machine,"game, slot",,Nicole Kornhaas,2019-05-06,,,,,0.6,3267
 🎲,1F3B2,activities,game,game die,"dice, die, game","board game, isometric",Lisa Schulz,2018-04-18,,,,,0.6,3268
 🧩,1F9E9,activities,game,puzzle piece,"clue, interlocking, jigsaw, piece, puzzle",,Nicole Kornhaas,2019-05-06,,,,,11,3269
-🧸,1F9F8,activities,game,teddy bear,"plaything, plush, stuffed, toy",,Nicole Kornhaas,2019-05-06,,,,,11,3270
+🧸,1F9F8,activities,game,teddy bear,"plaything, plush, stuffed, toy",,Liz Bravo,2020-12-22,,,,,11,3270
 🪅,1FA85,activities,game,piñata,"celebration, party",,Liz Bravo,2020-03-03,,,,,13,3271
 🪆,1FA86,activities,game,nesting dolls,"doll, nesting, russia",,Liz Bravo,2020-03-11,,,,,13,3272
 ♠️,2660,activities,game,spade suit,"card, game",,Nicole Kornhaas,2019-05-06,,,,,0.6,3274
@@ -2577,7 +2577,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧥,1F9E5,objects,clothing,coat,jacket,,Daniel Quiros,2018-11-16,,,,,5,3305
 🧦,1F9E6,objects,clothing,socks,stocking,,Laura Schießer,2019-05-06,,,,,5,3306
 👗,1F457,objects,clothing,dress,clothing,"beautiful, dress, woman",Jonas Roßner,2018-04-18,,,,,0.6,3307
-👘,1F458,objects,clothing,kimono,clothing,"japan, clothing",Jonas Roßner,2018-04-18,,,,,0.6,3308
+👘,1F458,objects,clothing,kimono,clothing,"japan, clothing",Liz Bravo,2020-12-22,,,,,0.6,3308
 🥻,1F97B,objects,clothing,sari,"clothing, dress",,Carlin MacKenzie,2020-02-26,,,,,12,3309
 🩱,1FA71,objects,clothing,one-piece swimsuit,bathing suit,,Sam Eckert,2019-05-06,,,,,12,3310
 🩲,1FA72,objects,clothing,briefs,"bathing suit, one-piece, swimsuit, underwear",,Sam Eckert,2019-05-06,,,,,12,3311
@@ -2677,7 +2677,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📗,1F4D7,objects,book-paper,green book,"book, green",,Abby Esquivel,2018-11-16,,,,,0.6,3419
 📘,1F4D8,objects,book-paper,blue book,"blue, book",,Abby Esquivel,2018-11-16,,,,,0.6,3420
 📙,1F4D9,objects,book-paper,orange book,"book, orange",,Abby Esquivel,2018-11-16,,,,,0.6,3421
-📚️,1F4DA,objects,book-paper,books,book,"book, read, write, isometric",Jonas Roßner,2018-04-18,,,,,0.6,3422
+📚️,1F4DA,objects,book-paper,books,book,"book, read, write, isometric",Liz Bravo,2020-12-22,,,,,0.6,3422
 📓,1F4D3,objects,book-paper,notebook,notebook,"book, read, write",Jonas Roßner,2018-04-18,,,,,0.6,3423
 📒,1F4D2,objects,book-paper,ledger,notebook,"book, read, write",Jonas Roßner,2018-04-18,,,,,0.6,3424
 📃,1F4C3,objects,book-paper,page with curl,"curl, document, page","rolled, page, text",Jonas Roßner,2018-04-18,,,,,0.6,3425
@@ -2752,7 +2752,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ⛏️,26CF,objects,tool,pick,"mining, tool",weapon,Hilda Kalyoncu,2018-04-18,,,,,0.7,3514
 ⚒️,2692,objects,tool,hammer and pick,"hammer, pick, tool",,Marleen Heine,2018-11-16,,,,,1,3516
 🛠️,1F6E0,objects,tool,hammer and wrench,"hammer, spanner, tool, wrench","craft mans, logo",Hilda Kalyoncu,2018-04-18,,,,,0.7,3518
-🗡️,1F5E1,objects,tool,dagger,"knife, weapon",metal,Hilda Kalyoncu,2018-04-18,,,,,0.7,3520
+🗡️,1F5E1,objects,tool,dagger,"knife, weapon",metal,Liz Bravo,2020-12-22,,,,,0.7,3520
 ⚔️,2694,objects,tool,crossed swords,"crossed, swords, weapon",,Marleen Heine,2018-11-16,,,,,1,3522
 🔫,1F52B,objects,tool,pistol,"gun, handgun, revolver, tool, weapon","gun, weapon, pistol",Hilda Kalyoncu,2018-04-18,,,,,0.6,3523
 🪃,1FA83,objects,tool,boomerang,"australia, rebound, repercussion",,Liz Bravo,2020-03-26,,,,,13,3524
@@ -2812,7 +2812,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ⚰️,26B0,objects,other-object,coffin,death,"funeral, dead",Marius Schnabel,2018-04-18,,,,,1,3587
 🪦,1FAA6,objects,other-object,headstone,"cemetery, grave, graveyard, tombstone",,Liz Bravo,2020-03-22,,,,,13,3588
 ⚱️,26B1,objects,other-object,funeral urn,"ashes, death, funeral, urn",,Marleen Heine,2018-11-16,,,,,1,3590
-🗿,1F5FF,objects,other-object,moai,"face, moyai, statue","stone, easter island",Marius Schnabel,2018-04-18,,,,,0.6,3591
+🗿,1F5FF,objects,other-object,moai,"face, moyai, statue","stone, easter island",Liz Bravo,2020-12-22,,,,,0.6,3591
 🪧,1FAA7,objects,other-object,placard,"demonstration, picket, protest, sign",,Liz Bravo,2020-03-28,,,,,13,3592
 🏧,1F3E7,symbols,transport-sign,ATM sign,"atm, atm sign, automated, bank, teller",,Tonia Reinhardt,2019-05-07,,,,,0.6,3593
 🚮,1F6AE,symbols,transport-sign,litter in bin sign,"litter, litter bin","trash, litter, bin, garbage, can, throw, away",Ronja Bäurlen,2018-04-18,,,,,1,3594
