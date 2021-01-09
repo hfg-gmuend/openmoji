@@ -47,6 +47,7 @@ You can download, use and "consume" OpenMoji in various ways:
 - [OpenMoji Spritemap Generator](https://github.com/axelpale/openmoji-spritemap-generator): OpenMoji combined to handy sprite images
 - [OpenMoji in Fedora](https://apps.fedoraproject.org/packages/hfg-gmuend-openmoji-fonts): For Fedora 33 and newer, `sudo yum install hfg-gmuend-openmoji-fonts-all`
 - [OpenMoji in JavaFX](https://github.com/pavlobu/emoji-text-flow-javafx): A cross-platform JavaFX library allowing you to replace all standard emoji in extended TextFlow (EmojiTextFlow) with OpenMoji.
+- [OpenMoji Awesome CSS Classes](https://github.com/gromain/openmoji-awesome): With the same system as Font Awesome, you can use CSS classes to get the emoji you need, like `<i class="oma oma-face-with-monocle"></i>`. The distribution of files is made through JSDeliver CDN but this can be customized (you just need to regenerate the classes if you change the source URL).
 
 
 ## Attribution Requirements
