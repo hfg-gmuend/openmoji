@@ -1,10 +1,7 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M35,26.9064h2c0,0,4-11,4-16l-0.0005-0.0676C40.9633,8.1086,38.7388,5.9064,36,5.9064c-2.7369,0-4.9602,2.199-4.9995,4.9265 L31,10.9064C31,15.9064,35,26.9064,35,26.9064"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M28,26.9064c-1.6569,0-3,1.3431-3,3s1.3431,3,3,3v-0.0151"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M44,32.8913v0.0151c1.6569,0,3-1.3431,3-3s-1.3431-3-3-3"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M28,26.9064c5.2525,1.3131,10.7475,1.3131,16,0"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M44,32.8913c-5.2525-1.3132-10.7475-1.3132-16,0"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M36,65.71c-1.9819-4.6245-3.0667-9.5836-3.1967-14.6133l-0.488-18.8943c0,0,3.6847-0.4924,7.6847,0l-0.488,18.8943 c-0.1299,5.0297-1.2147,9.9888-3.1967,14.6133"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M38.8058,27.7832,19.0112,47.5778s-4.8529,7.6662-3.6262,8.8929c1.0375,1.0375,8.7113-3.8078,8.7113-3.8078L43.8072,32.952"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M35.7718,22.8793a2,2,0,1,0-2.563,1.9195l.0265.0076c.57.1918,10.2914,3.5963,13.6361,13.644l.0038.0147a2,2,0,1,0,1.6967-2.55"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M42.9269,25.841l8.9547-10.3689a3.0639,3.0639,0,0,1,4.32,0h0a3.0639,3.0639,0,0,1,0,4.32L45.833,28.7471"/>
   </g>
 </svg>
