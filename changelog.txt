@@ -8,17 +8,18 @@
 
 New:
   + Colorful hexagons by @fuddl #278
+  + Annoyed face with tongue by Barkin Simsek @woswos #287
 
 Redesign:
-  * Amphora, Pile of Books, Dagger, Teddy Bear, Caterpillar, Lady Beetle, Microscope, 
-    Mosquito, Cactus, Kimono, Old Man, Guardsaman, Moyai, Mosque, Train Car, 
-    Bowl with Spoon, Serious Face with Symbols Covering Mouth, Sad but Relieved Face, 
+  * Amphora, Pile of Books, Dagger, Teddy Bear, Caterpillar, Lady Beetle, Microscope,
+    Mosquito, Cactus, Kimono, Old Man, Guardsaman, Moyai, Mosque, Train Car,
+    Bowl with Spoon, Serious Face with Symbols Covering Mouth, Sad but Relieved Face,
     Fearful Face, Yawning Face
     by Liz Bravo @lizbravob
 
 Fix:
   * Consistency of contours of black shapes by @fuddl #273
-  * Expression in Face with Hand Over Mouth 
+  * Expression in Face with Hand Over Mouth
     Colour of mouth in Exploding Head
     by Liz Bravo #285
 
