@@ -22,6 +22,7 @@ Fix:
   * Expression in Face with Hand Over Mouth
     Colour of mouth in Exploding Head
     by Liz Bravo #285
+  * Fix slightly broken carrot
 
 --------------------------------------------------------------------------------
 
