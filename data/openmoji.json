@@ -65127,6 +65127,23 @@
     "order": ""
   },
   {
+    "emoji": "🏴󠁣󠁡󠁱󠁣󠁿",
+    "hexcode": "1F3F4-E0063-E0061-E0071-E0063-E007F",
+    "group": "extras-unicode",
+    "subgroups": "subdivision-flag",
+    "annotation": "quebec flag",
+    "tags": "",
+    "openmoji_tags": "fleur-de-lis, quebec, canada, province",
+    "openmoji_author": "Denis Blanchette",
+    "openmoji_date": "2021-02-10",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": "?",
+    "order": ""
+  },
+  {
     "emoji": "🏴󠁤󠁥󠁢󠁥󠁿",
     "hexcode": "1F3F4-E0064-E0065-E0062-E0065-E007F",
     "group": "extras-unicode",
