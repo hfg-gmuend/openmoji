@@ -8,7 +8,7 @@
   </g>
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#d22f27"/>
-    <rect x="5" y="17" width="62" height="13" fill="#d0cfce"/>
+    <rect x="5" y="17" width="62" height="13" fill="#fff"/>
     <rect x="5" y="30" width="62" height="12" fill="#1e50a0"/>
     <path fill="#d22f27" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" d="M23.8334,45s6.75-2.25,6.75-9V27h-13.5v9C17.0834,42.75,23.8334,45,23.8334,45Z"/>
     <line x1="23.8334" x2="23.8334" y1="29.5" y2="41.5" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
