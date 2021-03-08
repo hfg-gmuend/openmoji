@@ -19,6 +19,7 @@ Redesign:
     by Liz Bravo @lizbravob
 
 Fix:
+  * Fix crescent in Brunei flag by Sam Hocevar @samhocevar #298
   * Fix white stripe of flag Slovakia #297
   * Consistency of contours of black shapes by @fuddl #273
   * Expression in Face with Hand Over Mouth
