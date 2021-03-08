@@ -26,10 +26,10 @@
     <line x1="54" x2="54" y1="35" y2="37" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="49" x2="49" y1="35" y2="37" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="47" x2="49" y1="33" y2="33" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M43.5342,40.0269C45.0192,40.1864,45.196,41,47,41c2,0,2-1,4-1"/>
-    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M45.3171,44.654A3.7322,3.7322,0,0,0,47,45c2,0,2-1,4-1"/>
-    <path stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M58.4658,40.0269C56.9808,40.1864,56.804,41,55,41c-2,0-2-1-4-1"/>
-    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M56.6829,44.654A3.7322,3.7322,0,0,1,55,45c-2,0-2-1-4-1"/>
+    <path stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M44.035,40.115C45.035,40.548,45.945,40.925,47,41c2,0,2,-1,4,-1"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M45.721,44.814C46.142,44.978,46.579,44.971,47,45c2,0,2,-1,4,-1"/>
+    <path stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M57.965,40.115C56.965,40.548,56.055,40.925,55,41c-2,0-2-1-4-1"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M56.279,44.814C55.858,44.978,55.421,44.971,55,45c-2,0-2-1-4-1"/>
   </g>
   <g id="line">
     <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
