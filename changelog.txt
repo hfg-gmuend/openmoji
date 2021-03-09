@@ -19,6 +19,9 @@ Redesign:
     by Liz Bravo @lizbravob
 
 Fix:
+  * Fix South Sudan flag star orientation by Sam Hocevar @samhocevar #301
+  * Fix the Tajikistan flag, it has 7 stars, not 8 by Sam Hocevar @samhocevar #302
+  * Fix East Timor flag star orientation by Sam Hocevar @samhocevar #303
   * Fix crescent in Brunei flag by Sam Hocevar @samhocevar #298
   * Fix white stripe of flag Slovakia #297
   * Consistency of contours of black shapes by @fuddl #273
