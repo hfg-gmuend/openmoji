@@ -8,21 +8,20 @@
   </g>
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#fff"/>
-    <rect x="29" y="17" width="38" height="5" fill="#000"/>
-    <rect x="29" y="26" width="38" height="4" fill="#000"/>
-    <rect x="5" y="34" width="62" height="4" fill="#000"/>
-    <rect x="5" y="42" width="62" height="4" fill="#000"/>
+    <rect x="33" y="22" width="34" height="4" fill="#000"/>
+    <rect x="33" y="30" width="34" height="4" fill="#000"/>
+    <rect x="5" y="38" width="62" height="4" fill="#000"/>
+    <rect x="5" y="46" width="62" height="4" fill="#000"/>
     <g stroke-linejoin="round" stroke-width="2" stroke="#000" fill="#000">
-      <polygon points="8 23 10 23 9 20"/>
-      <polygon points="16 23 18 23 17 20"/>
-      <polygon points="24 23 26 23 25 20"/>
-      <polygon points="12 27 14 27 13 24"/>
-      <polygon points="20 27 22 27 21 24"/>
-      <polygon points="8 31 10 31 9 28"/>
-      <polygon points="16 31 18 31 17 28"/>
-      <polygon points="24 31 26 31 25 28"/>
+      <polygon points="9 24 11 24 10 21"/>
+      <polygon points="18 24 20 24 19 21"/>
+      <polygon points="27 24 29 24 28 21"/>
+      <polygon points="13.5 29 15.5 29 14.5 26"/>
+      <polygon points="22.5 29 24.5 29 23.5 26"/>
+      <polygon points="9 34 11 34 10 31"/>
+      <polygon points="18 34 20 34 19 31"/>
+      <polygon points="27 34 29 34 28 31"/>
     </g>
-    <rect x="5" y="50" width="62" height="5" fill="#000"/>
   </g>
   <g id="line">
     <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
