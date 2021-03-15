@@ -19,6 +19,7 @@ Redesign:
     by Liz Bravo @lizbravob
 
 Fix:
+  * Fix wrong Unicode of Catalonia flag by Sam Hocevar @samhocevar #305
   * Fix South Sudan flag star orientation by Sam Hocevar @samhocevar #301
   * Fix the Tajikistan flag, it has 7 stars, not 8 by Sam Hocevar @samhocevar #302
   * Fix East Timor flag star orientation by Sam Hocevar @samhocevar #303
