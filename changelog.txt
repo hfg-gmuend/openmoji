@@ -10,6 +10,7 @@ New:
   + Colorful hexagons by @fuddl #278
   + Annoyed face with tongue by Barkin Simsek @woswos #287
   + Québec flag by Denis Blanchette @dblanchette #293
+  + Basque, Bretagne, and anarchist flag by Sam Hocevar @samhocevar #306
 
 Redesign:
   * Amphora, Pile of Books, Dagger, Teddy Bear, Caterpillar, Lady Beetle, Microscope,
