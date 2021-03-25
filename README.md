@@ -38,7 +38,7 @@ You can download, use and "consume" OpenMoji in various ways:
 - [PNG 72x72](https://github.com/hfg-gmuend/openmoji/releases/latest): Color & Black (production ready)
 - [OpenMoji app](https://itunes.apple.com/us/app/openmoji/id1462636288): for iOS with emoji picker
 - [OpenMoji Stickers](https://itunes.apple.com/us/app/openmoji/id1462636288): for iOS Messages app
-- [OpenMoji Github](https://github.com/hfg-gmuend/openmoji/): `git clone --dept 1 https://github.com/hfg-gmuend/openmoji.git` The OpenMoji repo is big! It is recommended to clone it without the entire history, note the --dept flag.
+- [OpenMoji Github](https://github.com/hfg-gmuend/openmoji/): `git clone --depth 1 https://github.com/hfg-gmuend/openmoji.git` The OpenMoji repo is big! It is recommended to clone it without the entire history, note the --depth flag.
 - [OpenMoji NPM Package](https://www.npmjs.com/package/openmoji): `npm install openmoji`. You can also get individual files via [UNPKG](https://unpkg.com/) direclty e.g.: unpkg.com/openmoji@12.1.0/color/svg/1F64B.svg
 
 **Community Extensions**
@@ -47,6 +47,7 @@ You can download, use and "consume" OpenMoji in various ways:
 - [OpenMoji Spritemap Generator](https://github.com/axelpale/openmoji-spritemap-generator): OpenMoji combined to handy sprite images
 - [OpenMoji in Fedora](https://apps.fedoraproject.org/packages/hfg-gmuend-openmoji-fonts): For Fedora 33 and newer, `sudo yum install hfg-gmuend-openmoji-fonts-all`
 - [OpenMoji in JavaFX](https://github.com/pavlobu/emoji-text-flow-javafx): A cross-platform JavaFX library allowing you to replace all standard emoji in extended TextFlow (EmojiTextFlow) with OpenMoji.
+- [OpenMoji Awesome CSS Classes](https://github.com/gromain/openmoji-awesome): "Font Awesome" flavored CSS classes eg.  `<i class="oma oma-face-with-monocle"></i>` ready to use for websites.
 
 
 ## Attribution Requirements

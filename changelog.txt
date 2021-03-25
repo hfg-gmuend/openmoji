@@ -7,13 +7,30 @@
 🧑‍🎄 OpenMoji 13.1 - ?? ??? 2020
 
 New:
-  + ???
+  + Colorful hexagons by @fuddl #278
+  + Annoyed face with tongue by Barkin Simsek @woswos #287
+  + Québec flag by Denis Blanchette @dblanchette #293
+  + Basque, Bretagne, and anarchist flag by Sam Hocevar @samhocevar #306
 
 Redesign:
-  * colorful hexagons by @fuddl #278
+  * Amphora, Pile of Books, Dagger, Teddy Bear, Caterpillar, Lady Beetle, Microscope,
+    Mosquito, Cactus, Kimono, Old Man, Guardsaman, Moyai, Mosque, Train Car,
+    Bowl with Spoon, Serious Face with Symbols Covering Mouth, Sad but Relieved Face,
+    Fearful Face, Yawning Face
+    by Liz Bravo @lizbravob
 
 Fix:
-  * Better consistency of contours of black shapes by @fuddl #273
+  * Fix wrong Unicode of Catalonia flag by Sam Hocevar @samhocevar #305
+  * Fix South Sudan flag star orientation by Sam Hocevar @samhocevar #301
+  * Fix the Tajikistan flag, it has 7 stars, not 8 by Sam Hocevar @samhocevar #302
+  * Fix East Timor flag star orientation by Sam Hocevar @samhocevar #303
+  * Fix crescent in Brunei flag by Sam Hocevar @samhocevar #298
+  * Fix white stripe of flag Slovakia #297
+  * Consistency of contours of black shapes by @fuddl #273
+  * Expression in Face with Hand Over Mouth
+    Colour of mouth in Exploding Head
+    by Liz Bravo #285
+  * Fix slightly broken carrot
 
 --------------------------------------------------------------------------------
 

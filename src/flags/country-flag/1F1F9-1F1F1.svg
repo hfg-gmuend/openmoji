@@ -10,7 +10,7 @@
     <rect x="5" y="17" width="62" height="38" fill="#d22f27"/>
     <polygon fill="#f1b31c" points="38 36 5 55 5 17 38 36"/>
     <polygon points="26 36 5 55 5 17 26 36"/>
-    <polygon fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" points="11.436 34.549 16.064 36.992 11.019 37.667 14.555 34.131 13.88 39.176 11.436 34.549"/>
+    <polygon fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" points="15.35 34.05 10.72 36.49 15.76 37.16 12.23 33.63 12.9 38.67 15.35 34.05"/>
   </g>
   <g id="line">
     <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

@@ -10,13 +10,13 @@
     <rect x="5" y="17" width="62" height="38" fill="#f1b31c"/>
     <path fill="#fff" stroke="#fff" stroke-miterlimit="10" d="M5,19v5L67,47V42Z"/>
     <path stroke="#000" stroke-miterlimit="10" d="M5,25v5L67,53V48Z"/>
-    <g>
-      <circle cx="36" cy="37.25" r="6" fill="none" stroke="#d22f27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <line x1="36" x2="36" y1="26.25" y2="43.25" fill="none" stroke="#d22f27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <line x1="42" x2="30" y1="31.25" y2="31.25" fill="none" stroke="#d22f27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <line x1="42" x2="30" y1="43.25" y2="43.25" fill="none" stroke="#d22f27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <line x1="26" x2="26" y1="43.75" y2="31.75" fill="none" stroke="#d22f27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <line x1="46" x2="46" y1="43.25" y2="31.25" fill="none" stroke="#d22f27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g fill="none" stroke="#d22f27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+      <path d="M41.528 34.915c.30362 .71783 .47151 1.507 .47151 2.3355 0 3.3137-2.6863 6-6 6s-6-2.6863-6-6c0-.82843 .16789-1.6176 .47151-2.3355"/>
+      <path d="M36 28v12.5"/>
+      <path d="M42 43.25c-3.7143 3.1429-8.1429 3.2143-12 0"/>
+      <path d="M26 41.75v-5.75l-2-4.25"/>
+      <path d="M46 41.75v-5.25l2-4.75"/>
+      <path d="M39.385 31.592c-2.2775-.81785-4.6618-.75339-6.8641-.02937"/>
     </g>
   </g>
   <g id="line">
