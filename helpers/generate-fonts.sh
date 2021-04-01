@@ -92,7 +92,7 @@ for saturation in black color; do
         scfbuild)
           # FIXME: Point upstream once
           # https://github.com/b-g/scfbuild/pull/2 is merged:
-          image=ghcr.io/mavit/scfbuild/bga_discord:latest
+          image=ghcr.io/mavit/scfbuild/scfbuild:latest
           helpers/generate-font-glyphs.js "build/$saturation/$method"
           ;;
         esac
