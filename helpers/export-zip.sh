@@ -23,9 +23,9 @@ helpers/lib/create-zip.sh black/618x618/ _tmp/openmoji-618x618-black.zip
       glyf_colr_0/OpenMoji-Color.ttf \
       glyf_colr_0/demo.html \
       glyf_colr_0/openmoji.css \
-      picosvgz/OpenMoji-Color.ttf \
-      picosvgz/demo.html \
-      picosvgz/openmoji.css \
+      scfbuild/OpenMoji-Color.ttf \
+      scfbuild/demo.html \
+      scfbuild/openmoji.css \
       openmoji-font.zip
   mv openmoji-font.zip ../_tmp/
 )

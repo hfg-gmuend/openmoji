@@ -16,7 +16,6 @@ else
     tty=()
 fi
 
-image=registry.gitlab.com/mavit/nanoemoji-container:master
 case "${CONTAINER_ENGINE:-unset}" in
 podman)
     container_engine=podman
@@ -34,11 +33,6 @@ docker)
     ;;
 esac
 
-${container_engine:?Not found. Please install Podman or Docker} pull $image
-
-# FIXME: Upgrade glyf_colr_0 to glyf_colr_1 once
-# https://github.com/googlefonts/colr-gradients-spec stabilises.
-#
 for saturation in black color; do
     build_dir=/mnt/build/$saturation
 
@@ -47,8 +41,14 @@ for saturation in black color; do
         methods=(glyf)
         ;;
     color)
-        methods=(glyf_colr_0 picosvgz untouchedsvgz)
-        ;;
+      # FIXME: Upgrade glyf_colr_0 to glyf_colr_1 once
+      # https://github.com/googlefonts/colr-gradients-spec stabilises.
+      #
+      # FIXME: Swap scfbuild for picosvgz if the latter becomes
+      # compatible with macOS, Adobe CC, etc.
+      #
+      methods=(glyf_colr_0 scfbuild)
+      ;;
     esac
 
     for method in "${methods[@]}"; do
@@ -56,32 +56,55 @@ for saturation in black color; do
 
         case "$method" in
         cbdt)
+          generator=nanoemoji
           format=.CBDT
           ;;
         *_colr_0)
+          generator=nanoemoji
           format=.COLRv0
           ;;
         *_colr_1)
+          generator=nanoemoji
           format=.COLRv1
           ;;
         glyf)
+          generator=nanoemoji
           format=
           ;;
         sbix)
+          generator=nanoemoji
           format=.sbix
           ;;
         *svg*)
+          generator=nanoemoji
+          format=.SVG
+          ;;
+        scfbuild)
+          generator=scfbuild
           format=.SVG
           ;;
         esac
 
+        case "$generator" in
+        nanoemoji)
+          image=registry.gitlab.com/mavit/nanoemoji-container:master
+          ;;
+        scfbuild)
+          # FIXME: Point upstream once
+          # https://github.com/b-g/scfbuild/pull/2 is merged:
+          image=ghcr.io/mavit/scfbuild/bga_discord:latest
+          helpers/generate-font-glyphs.js "build/$saturation/$method"
+          ;;
+        esac
+
         $container_engine run \
-            --volume="$PWD":/mnt:Z \
-            --rm \
-            "${tty[@]}" \
-            $image \
-            bash /mnt/helpers/generate-ttf.sh \
-                "$saturation" "$version" "$format" "$method" "$build_dir"
+          --volume="$PWD":/mnt:Z \
+          --rm \
+          "${tty[@]}" \
+          --pull=always \
+          "$image" \
+          /mnt/helpers/generate-ttf-$generator.sh \
+            "$saturation" "$version" "$format" "$method" "$build_dir"
 
         helpers/generate-font-css.js "$format" "font/$method/openmoji.css"
     done
