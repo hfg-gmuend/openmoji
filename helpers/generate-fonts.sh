@@ -90,9 +90,7 @@ for saturation in black color; do
           image=registry.gitlab.com/mavit/nanoemoji-container:master
           ;;
         scfbuild)
-          # FIXME: Point upstream once
-          # https://github.com/b-g/scfbuild/pull/2 is merged:
-          image=ghcr.io/mavit/scfbuild/scfbuild:latest
+          image=ghcr.io/b-g/scfbuild/scfbuild:latest
           helpers/generate-font-glyphs.js "build/$saturation/$method"
           ;;
         esac
