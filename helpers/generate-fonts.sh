@@ -44,10 +44,10 @@ for saturation in black color; do
       # FIXME: Upgrade glyf_colr_0 to glyf_colr_1 once
       # https://github.com/googlefonts/colr-gradients-spec stabilises.
       #
-      # FIXME: Swap scfbuild for picosvgz if the latter becomes
+      # FIXME: Swap untouchedsvgz for picosvgz if the latter becomes
       # compatible with macOS, Adobe CC, etc.
       #
-      methods=(glyf_colr_0 scfbuild)
+      methods=(glyf_colr_0 untouchedsvgz)
       ;;
     esac
 
@@ -87,7 +87,7 @@ for saturation in black color; do
 
         case "$generator" in
         nanoemoji)
-          image=registry.gitlab.com/mavit/nanoemoji-container:master
+          image=registry.gitlab.com/mavit/nanoemoji-container:latest
           ;;
         scfbuild)
           image=ghcr.io/b-g/scfbuild/scfbuild:latest
