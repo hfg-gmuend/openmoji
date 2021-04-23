@@ -44,10 +44,10 @@ for saturation in black color; do
       # FIXME: Upgrade glyf_colr_0 to glyf_colr_1 once
       # https://github.com/googlefonts/colr-gradients-spec stabilises.
       #
-      # FIXME: Swap untouchedsvgz for picosvgz if the latter becomes
+      # FIXME: Remove untouchedsvgz once we're happy that picosvgz is
       # compatible with macOS, Adobe CC, etc.
       #
-      methods=(glyf_colr_0 untouchedsvgz)
+      methods=(glyf_colr_0 picosvgz untouchedsvgz)
       ;;
     esac
 
