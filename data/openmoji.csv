@@ -36,10 +36,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😐️,1F610,smileys-emotion,face-neutral-skeptical,neutral face,"deadpan, face, meh, neutral",,Mariella Steeb,2018-04-18,,,,,0.7,36
 😑,1F611,smileys-emotion,face-neutral-skeptical,expressionless face,"expressionless, face, inexpressive, meh, unexpressive",,Mariella Steeb,2018-04-18,,,,,1,37
 😶,1F636,smileys-emotion,face-neutral-skeptical,face without mouth,"face, mouth, quiet, silent",shhh,Emily Jäger,2018-04-18,,,,,1,38
+😶‍🌫️,1F636-200D-1F32B-FE0F,smileys-emotion,face-neutral-skeptical,face in clouds,"absentminded, face in the fog, head in clouds",,Nelly Nieter,2021-04-23,,,,,13.1,39
 😏,1F60F,smileys-emotion,face-neutral-skeptical,smirking face,"face, smirk",,Mariella Steeb,2018-04-18,,,,,0.6,41
 😒,1F612,smileys-emotion,face-neutral-skeptical,unamused face,"face, unamused, unhappy",,Mariella Steeb,2018-04-18,,,,,0.6,42
 🙄,1F644,smileys-emotion,face-neutral-skeptical,face with rolling eyes,"eyeroll, eyes, face, rolling",annoyed,Emily Jäger,2018-04-18,,,,,1,43
 😬,1F62C,smileys-emotion,face-neutral-skeptical,grimacing face,"face, grimace",awkward,Daniel Utz,2019-11-11,,,,,1,44
+😮‍💨,1F62E-200D-1F4A8,smileys-emotion,face-neutral-skeptical,face exhaling,"exhale, gasp, groan, relief, whisper, whistle",,Nelly Nieter,2021-04-23,,,,,13.1,45
 🤥,1F925,smileys-emotion,face-neutral-skeptical,lying face,"face, lie, pinocchio","nose, long",Emily Jäger,2018-04-18,,,,,3,46
 😌,1F60C,smileys-emotion,face-sleepy,relieved face,"face, relieved",,Mariella Steeb,2018-04-18,,,,,0.6,47
 😔,1F614,smileys-emotion,face-sleepy,pensive face,"dejected, face, pensive",,Mariella Steeb,2018-04-18,,,,,0.6,48
@@ -56,6 +58,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥶,1F976,smileys-emotion,face-unwell,cold face,"blue-faced, cold, freezing, frostbite, icicles",,Antonia Wagner,2019-05-03,,,,,11,59
 🥴,1F974,smileys-emotion,face-unwell,woozy face,"dizzy, intoxicated, tipsy, uneven eyes, wavy mouth",,Antonia Wagner,2019-05-03,,,,,11,60
 😵,1F635,smileys-emotion,face-unwell,knocked-out face,"dead, face, knocked out",dead eyes,Mariella Steeb,2018-04-18,,,,,0.6,61
+😵‍💫,1F635-200D-1F4AB,smileys-emotion,face-unwell,face with spiral eyes,"dizzy, hypnotized, spiral, trouble, whoa",,Nelly Nieter,2021-04-23,,,,,13.1,62
 🤯,1F92F,smileys-emotion,face-unwell,exploding head,"mind blown, shocked",explosion,Tara Lynn Connelly,2020-04-13,,,,,5,63
 🤠,1F920,smileys-emotion,face-hat,cowboy hat face,"cowboy, cowgirl, face, hat",howdy,Emily Jäger,2018-04-18,,,,,3,64
 🥳,1F973,smileys-emotion,face-hat,partying face,"celebration, hat, horn, party",,Antonia Wagner,2019-05-03,,,,,11,65
@@ -127,6 +130,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💟,1F49F,smileys-emotion,emotion,heart decoration,heart,,Laura Humpfer,2018-04-18,,,,,0.6,133
 ❣️,2763,smileys-emotion,emotion,heart exclamation,"exclamation, mark, punctuation",,Laura Humpfer,2018-04-18,,,,,1,135
 💔,1F494,smileys-emotion,emotion,broken heart,"break, broken",heartbreak,Laura Humpfer,2018-04-18,,,,,0.6,136
+❤️‍🔥,2764-FE0F-200D-1F525,smileys-emotion,emotion,heart on fire,"burn, heart, love, lust, sacred heart",,Nelly Nieter,2021-04-23,,,,,13.1,137
+❤️‍🩹,2764-FE0F-200D-1FA79,smileys-emotion,emotion,mending heart,"healthier, improving, mending, recovering, recuperating, well",,Nelly Nieter,2021-04-23,,,,,13.1,139
 ❤️,2764,smileys-emotion,emotion,red heart,heart,"love, red",Laura Humpfer,2018-04-18,,,,,0.6,142
 🧡,1F9E1,smileys-emotion,emotion,orange heart,orange,,Laura Schießer,2019-05-06,,,,,5,143
 💛,1F49B,smileys-emotion,emotion,yellow heart,yellow,,Laura Humpfer,2018-04-18,,,,,0.6,144
@@ -2516,7 +2521,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🕋,1F54B,travel-places,place-religious,kaaba,"islam, muslim, religion","religious, pray, building, god, black, mecca, faith",Martin Wehl,2018-04-18,,,,,1,3419
 ⛲️,26F2,travel-places,place-other,fountain,fountain,,Louisa Mantsch,2018-11-16,,,,,0.6,3420
 ⛺️,26FA,travel-places,place-other,tent,camping,"nature, outdoor, adventure",Martin Wehl,2018-04-18,,,,,0.6,3421
-🌁,1F301,travel-places,place-other,foggy,fog,,Jonas Dunkel,2019-05-07,,,,,0.6,3422
+🌁,1F301,travel-places,place-other,foggy,fog,,Nelly Nieter,2021-04-23,,,,,0.6,3422
 🌃,1F303,travel-places,place-other,night with stars,"night, star",,Louisa Mantsch,2018-11-16,,,,,0.6,3423
 🏙️,1F3D9,travel-places,place-other,cityscape,city,"buildings, metropolis",Martin Wehl,2018-04-18,,,,,0.7,3425
 🌄,1F304,travel-places,place-other,sunrise over mountains,"morning, mountain, sun, sunrise",,Louisa Mantsch,2018-11-16,,,,,0.6,3426
@@ -2664,7 +2669,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🌨️,1F328,travel-places,sky-weather,cloud with snow,"cloud, cold, snow","cloud, snow, falling, ice, wet, cold, cloudy, stormy, weather",Vanessa Boutzikoudi,2018-04-18,,,,,0.7,3593
 🌩️,1F329,travel-places,sky-weather,cloud with lightning,"cloud, lightning","cloud, lightning, glaring, wet, cold, cloudy, gray, weather, storm, current, voltage, light up, light",Vanessa Boutzikoudi,2018-04-18,,,,,0.7,3595
 🌪️,1F32A,travel-places,sky-weather,tornado,"cloud, whirlwind","tornado, wind, blow, sky, dangerous, severe weather, storm, hurricane, typhoon, cyclone",Vanessa Boutzikoudi,2018-04-18,,,,,0.7,3597
-🌫️,1F32B,travel-places,sky-weather,fog,cloud,,Jonas Dunkel,2019-05-07,,,,,0.7,3599
+🌫️,1F32B,travel-places,sky-weather,fog,cloud,,Nelly Nieter,2021-04-23,,,,,0.7,3599
 🌬️,1F32C,travel-places,sky-weather,wind face,"blow, cloud, face, wind","wind, face, blowing, air, mouth, mother nature, sky",Vanessa Boutzikoudi,2018-04-18,,,,,0.7,3601
 🌀,1F300,travel-places,sky-weather,cyclone,"dizzy, hurricane, twister, typhoon","whirl, swirl, spiral, funnel, rotation, rotate, air, turbulent",Vanessa Boutzikoudi,2018-04-18,,,,,0.6,3602
 🌈,1F308,travel-places,sky-weather,rainbow,rain,"rainbow, color, colorful, colors formed in the sky, sunbeams, sunlight, facet, sparkle, unicorn",Vanessa Boutzikoudi,2018-04-18,,,,,0.6,3603
@@ -3789,6 +3794,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E20B,extras-openmoji,travel-places,space shuttle,,"nasa, shuttle, rocket, space, galaxy, adventure, alien, transportation",Ronja Bäurlen,2018-04-18,,,,,,
 ,E20C,extras-openmoji,travel-places,viennese coffee house,,viennese coffee culture,Alexander Müller,2020-05-11,,,,,,
 ,E20D,extras-openmoji,travel-places,black hole,,"interstellar, event horizon, accretion disc",Alexander Müller,2020-06-28,,,,,,
+,E20E,extras-openmoji,travel-places,foggy mountain,,"fog, weather, berg, peak, elevation, hiking",Jonas Dunkel,2019-05-07,,,,,,
 ,E240,extras-openmoji,ui-element,mark,,,Baris Camli,2018-04-18,,,,,,
 ,E241,extras-openmoji,ui-element,toggle button,,,Baris Camli,2018-04-18,,,,,,
 ,E242,extras-openmoji,ui-element,location indicator,,,Baris Camli,2018-04-18,,,,,,
