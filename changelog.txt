@@ -11,7 +11,8 @@ New:
   + Annoyed face with tongue by Barkin Simsek @woswos #287
   + Québec flag by Denis Blanchette @dblanchette #293
   + Basque, Bretagne, and anarchist flag by Sam Hocevar @samhocevar #306
-  + Unicode 13.1: face in clouds, face-unwell, heart on fire, mending heart, by Nelly Nieter
+  + Unicode 13.1: face in clouds, face-unwell, heart on fire, mending heart,
+    "man: beard" and "woman: beard" by Nelly Nieter
 
 Redesign:
   * Amphora, Pile of Books, Dagger, Teddy Bear, Caterpillar, Lady Beetle, Microscope,
