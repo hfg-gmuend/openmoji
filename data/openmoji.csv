@@ -2394,7 +2394,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥨,1F968,food-drink,food-prepared,pretzel,twisted,,Miriam Vollmeier,2018-04-18,,,,,5,3265
 🥯,1F96F,food-drink,food-prepared,bagel,"bakery, breakfast, schmear",,Ricarda Krejci,2019-05-07,,,,,11,3266
 🥞,1F95E,food-drink,food-prepared,pancakes,"breakfast, crêpe, food, hotcake, pancake",,Ricarda Krejci,2019-05-07,,,,,3,3267
-🧇,1F9C7,food-drink,food-prepared,waffle,"breakfast, indecisive, iron",,Yasmin Abdullahi,2019-05-07,,,,,12,3268
+🧇,1F9C7,food-drink,food-prepared,waffle,"breakfast, indecisive, iron","breakfast, indecisive, iron",Liz Bravo,2021-04-28,,,,,12,3268
 🧀,1F9C0,food-drink,food-prepared,cheese wedge,cheese,,Miriam Vollmeier,2018-04-18,,,,,1,3269
 🍖,1F356,food-drink,food-prepared,meat on bone,"bone, meat",,Miriam Vollmeier,2018-04-18,,,,,0.6,3270
 🍗,1F357,food-drink,food-prepared,poultry leg,"bone, chicken, drumstick, leg, poultry",,Miriam Vollmeier,2018-04-18,,,,,0.6,3271
@@ -2438,11 +2438,11 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥟,1F95F,food-drink,food-asian,dumpling,"empanada, gyōza, jiaozi, pierogi, potsticker",,Ricarda Krejci,2019-05-07,,,,,5,3309
 🥠,1F960,food-drink,food-asian,fortune cookie,prophecy,,Ricarda Krejci,2019-05-07,,,,,5,3310
 🥡,1F961,food-drink,food-asian,takeout box,oyster pail,,Daniel Quiros,2018-11-16,,,,,5,3311
-🦀,1F980,food-drink,food-marine,crab,"cancer, zodiac","beach, sand, water",Selina Bauder,2018-04-18,,,,,1,3312
+🦀,1F980,food-drink,food-marine,crab,"cancer, zodiac","cancer, zodiac",Liz Bravo,2021-04-28,,,,,1,3312
 🦞,1F99E,food-drink,food-marine,lobster,"bisque, claws, seafood",,Ricarda Krejci,2019-05-07,,,,,11,3313
 🦐,1F990,food-drink,food-marine,shrimp,"food, shellfish, small","swim, animal, water, food",Selina Bauder,2018-04-18,,,,,3,3314
 🦑,1F991,food-drink,food-marine,squid,"food, molusc","swim, animal, water",Selina Bauder,2018-04-18,,,,,3,3315
-🦪,1F9AA,food-drink,food-marine,oyster,"diving, pearl",,Evelyn Soos,2019-05-04,,,,,12,3316
+🦪,1F9AA,food-drink,food-marine,oyster,"diving, pearl",shell,Liz Bravo,2021-04-28,,,,,12,3316
 🍦,1F366,food-drink,food-sweet,soft ice cream,"cream, dessert, ice, icecream, soft, sweet",,Miriam Vollmeier,2018-04-18,,,,,0.6,3317
 🍧,1F367,food-drink,food-sweet,shaved ice,"dessert, ice, shaved, sweet",,Miriam Vollmeier,2018-04-18,,,,,0.6,3318
 🍨,1F368,food-drink,food-sweet,ice cream,"cream, dessert, ice, sweet",,Miriam Vollmeier,2018-04-18,,,,,0.6,3319
@@ -2666,7 +2666,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ☀️,2600,travel-places,sky-weather,sun,"bright, rays, sunny","sun, sunrise, warm, sunbeams, feel good, beach, tanning, fire, fireball, hot, heavenly body",Vanessa Boutzikoudi,2018-04-18,,,,,0.6,3571
 🌝,1F31D,travel-places,sky-weather,full moon face,"bright, face, full, moon","moon, full moon, night, stars, moonlight, disc, no clouds",Vanessa Boutzikoudi,2018-04-18,,,,,1,3572
 🌞,1F31E,travel-places,sky-weather,sun with face,"bright, face, sun","sun, face, bright, sun, sunrise, warm, rays, beach, tanning, fire, fireball, hot, celestial bodies, star",Vanessa Boutzikoudi,2018-04-18,,,,,1,3573
-🪐,1FA90,travel-places,sky-weather,ringed planet,"saturn, saturnine",,Evelyn Soos,2019-05-04,,,,,12,3574
+🪐,1FA90,travel-places,sky-weather,ringed planet,"saturn, saturnine","saturn, saturnine",Liz Bravo,2021-04-28,,,,,12,3574
 ⭐️,2B50,travel-places,sky-weather,star,star,"star, shine, small planet, sky, yellow, sparkle, far away",Vanessa Boutzikoudi,2018-04-18,,,,,0.6,3575
 🌟,1F31F,travel-places,sky-weather,glowing star,"glittery, glow, shining, sparkle, star","star, shine, glow, bright, sparkle, small planet, sky, yellow, far away, constellation, shooting star, milky way",Vanessa Boutzikoudi,2018-04-18,,,,,0.6,3576
 🌠,1F320,travel-places,sky-weather,shooting star,"falling, shooting, star","shooting star, star, sparkle, shine, bright, far away, sky, star sky, night, wish, lightning",Vanessa Boutzikoudi,2018-04-18,,,,,0.6,3577
@@ -2698,7 +2698,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💧,1F4A7,travel-places,sky-weather,droplet,"cold, comic, drop, sweat","drops, droplets, raindrops, wet, rain, cold, fluid, liquid, wet, puddle, pearl, tear",Vanessa Boutzikoudi,2018-04-18,,,,,0.6,3619
 🌊,1F30A,travel-places,sky-weather,water wave,"ocean, water, wave","wave, water, salty, sea, wet, cold, sun, beach, vacation, air, surf, sough, listen",Vanessa Boutzikoudi,2018-04-18,,,,,0.6,3620
 🎃,1F383,activities,event,jack-o-lantern,"celebration, halloween, jack, lantern",pumpkin,Laura Humpfer,2018-04-18,,,,,0.6,3621
-🎄,1F384,activities,event,Christmas tree,"celebration, christmas, tree",,Laura Humpfer,2018-04-18,,,,,0.6,3622
+🎄,1F384,activities,event,Christmas tree,"celebration, christmas, tree","celebration, christmas, tree, xmas",Liz Bravo,2021-04-28,,,,,0.6,3622
 🎆,1F386,activities,event,fireworks,celebration,,Jonas Dunkel,2019-05-07,,,,,0.6,3623
 🎇,1F387,activities,event,sparkler,"celebration, fireworks, sparkle",,Jonas Dunkel,2019-05-07,,,,,0.6,3624
 🧨,1F9E8,activities,event,firecracker,"dynamite, explosive, fireworks",,Jonas Dunkel,2019-05-07,,,,,11,3625
@@ -2921,7 +2921,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📩,1F4E9,objects,mail,envelope with arrow,"arrow, e-mail, email, envelope, outgoing",post,Marius Schnabel,2018-04-18,,,,,0.6,3871
 📤️,1F4E4,objects,mail,outbox tray,"box, letter, mail, outbox, sent, tray",post,Marius Schnabel,2018-04-18,,,,,0.6,3872
 📥️,1F4E5,objects,mail,inbox tray,"box, inbox, letter, mail, receive, tray",post,Marius Schnabel,2018-04-18,,,,,0.6,3873
-📦️,1F4E6,objects,mail,package,"box, parcel","shipping, post",Marius Schnabel,2018-04-18,,,,,0.6,3874
+📦️,1F4E6,objects,mail,package,"box, parcel","shipping, post, mail, parcel",Liz Bravo,2021-04-28,,,,,0.6,3874
 📫️,1F4EB,objects,mail,closed mailbox with raised flag,"closed, mail, mailbox, postbox",post,Marius Schnabel,2018-04-18,,,,,0.6,3875
 📪️,1F4EA,objects,mail,closed mailbox with lowered flag,"closed, lowered, mail, mailbox, postbox",post,Marius Schnabel,2018-04-18,,,,,0.6,3876
 📬️,1F4EC,objects,mail,open mailbox with raised flag,"mail, mailbox, open, postbox",,Marleen Heine,2018-11-16,,,,,0.7,3877
