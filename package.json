@@ -48,7 +48,7 @@
     "jsdom": "^13.2.0",
     "kd-tree-javascript": "^1.0.3",
     "libxmljs": "^0.19.7",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "mkdirp": "^1.0.3",
     "mocha": "^5.2.0",
     "optimist": "^0.6.1",
