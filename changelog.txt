@@ -13,6 +13,7 @@ New:
   + Basque, Bretagne, and anarchist flag by Sam Hocevar @samhocevar #306
   + Unicode 13.1: face in clouds, face-unwell, heart on fire, mending heart,
     "man: beard" and "woman: beard" by Nelly Nieter
+  + Champignon Mushroom extras-openmoji/food-drink by Liz Bravo @lizbravob
 
 Redesign:
   * Amphora, Pile of Books, Dagger, Teddy Bear, Caterpillar, Lady Beetle, Microscope,
@@ -21,7 +22,9 @@ Redesign:
     Fearful Face, Yawning Face, 🎄📦️🦀🦪🧇🪐 and 🍊🍎🍓🍝🍮🎎🎦🏧💐🛩️🥒✒️
     by Liz Bravo @lizbravob
   * Fog, Foggy by Nelly Nieter
-  * Moved old Fog to extras-openmoji Foggy Mountain
+  * Moved old Fog to extras-openmoji/travel-places Foggy Mountain E20E
+  * Moved old 🍮 to extras-openmoji/food-drink Cake E0C7
+  * Moved old ✒️ to 1F58B
 
 Fix:
   * Fix wrong Unicode of Catalonia flag by Sam Hocevar @samhocevar #305
