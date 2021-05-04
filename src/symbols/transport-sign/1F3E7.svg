@@ -1,43 +1,43 @@
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
-    <rect x="11" y="10.9583" width="50" height="50" rx="1.9231" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" transform="translate(72 0) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
+    <rect x="11" y="10.9583" rx="1.9231" width="50" height="50" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.2537" width="40" height="64" transform="translate(72 0) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="line-supplement">
     <g>
-      <polyline points="20.071 27.98 24.541 18.066 29.01 27.98" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <line x1="21.1945" y1="25.5309" x2="27.7593" y2="25.5309" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="20.071 27.98 24.541 18.066 29.01 27.98"/>
+      <line x1="21.1945" x2="27.7593" y1="25.5309" y2="25.5309" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     </g>
-    <line x1="34.5559" y1="18.0657" x2="34.5559" y2="27.9796" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="31.1833" y1="18.0657" x2="37.9285" y2="18.0657" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polyline points="42.575 28.002 42.575 18.044 46.809 26.937 51.278 18.044 51.278 28.002" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="34.5559" x2="34.5559" y1="18.0657" y2="27.9796" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="31.1833" x2="37.9285" y1="18.0657" y2="18.0657" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="42.575 28.002 42.575 18.044 46.809 26.937 51.278 18.044 51.278 28.002"/>
   </g>
   <g id="color">
     <rect x="16" y="13.4375" width="40" height="45.0417" fill="#3f3f3f"/>
     <g>
-      <polyline points="20.071 27.98 24.541 18.066 29.01 27.98" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <line x1="21.1945" y1="25.5309" x2="27.7593" y2="25.5309" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <polyline fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="20.071 27.98 24.541 18.066 29.01 27.98"/>
+      <line x1="21.1945" x2="27.7593" y1="25.5309" y2="25.5309" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     </g>
-    <line x1="34.5559" y1="18.0657" x2="34.5559" y2="27.9796" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="31.1833" y1="18.0657" x2="37.9285" y2="18.0657" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polyline points="42.575 28.002 42.575 18.044 46.809 26.937 51.278 18.044 51.278 28.002" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="34.5559" x2="34.5559" y1="18.0657" y2="27.9796" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="31.1833" x2="37.9285" y1="18.0657" y2="18.0657" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="42.575 28.002 42.575 18.044 46.809 26.937 51.278 18.044 51.278 28.002"/>
     <rect x="19.4258" y="33.6381" width="15.1255" height="13.8874" fill="#d0cfce"/>
     <rect x="19.4258" y="51.1472" width="32.4976" height="3.5422" fill="#b1cc33"/>
-    <path d="M43.2372,39.7711H38.1044a.9994.9994,0,0,1-1-1V33.6383a1,1,0,0,1,1-1h5.1328a1,1,0,0,1,1,1v5.1328A.9993.9993,0,0,1,43.2372,39.7711Z" fill="#d0cfce"/>
-    <path d="M51.9238,39.7711H46.791a.9993.9993,0,0,1-1-1V33.6383a1,1,0,0,1,1-1h5.1328a1,1,0,0,1,1,1v5.1328A.9994.9994,0,0,1,51.9238,39.7711Z" fill="#d0cfce"/>
-    <path d="M43.2372,48.5287H38.1044a1,1,0,0,1-1-1V42.3958a1,1,0,0,1,1-1h5.1328a1,1,0,0,1,1,1v5.1329A.9994.9994,0,0,1,43.2372,48.5287Z" fill="#d0cfce"/>
-    <path d="M51.9238,48.5287H46.791a.9994.9994,0,0,1-1-1V42.3958a1,1,0,0,1,1-1h5.1328a1,1,0,0,1,1,1v5.1329A1,1,0,0,1,51.9238,48.5287Z" fill="#d0cfce"/>
+    <path fill="#d0cfce" d="M43.2372,39.7711H38.1044a.9994.9994,0,0,1-1-1V33.6383a1,1,0,0,1,1-1h5.1328a1,1,0,0,1,1,1v5.1328A.9993.9993,0,0,1,43.2372,39.7711Z"/>
+    <path fill="#d0cfce" d="M51.9238,39.7711H46.791a.9993.9993,0,0,1-1-1V33.6383a1,1,0,0,1,1-1h5.1328a1,1,0,0,1,1,1v5.1328A.9994.9994,0,0,1,51.9238,39.7711Z"/>
+    <path fill="#d0cfce" d="M43.2372,48.5287H38.1044a1,1,0,0,1-1-1V42.3958a1,1,0,0,1,1-1h5.1328a1,1,0,0,1,1,1v5.1329A.9994.9994,0,0,1,43.2372,48.5287Z"/>
+    <path fill="#d0cfce" d="M51.9238,48.5287H46.791a.9994.9994,0,0,1-1-1V42.3958a1,1,0,0,1,1-1h5.1328a1,1,0,0,1,1,1v5.1329A1,1,0,0,1,51.9238,48.5287Z"/>
   </g>
   <g id="line">
     <rect x="16" y="13.4375" width="40" height="45.0417" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.1223"/>
     <rect x="19.4258" y="33.6381" width="15.1255" height="13.8874" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polyline points="19.426 53.723 19.426 51.147 51.923 51.147 51.923 53.723" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polyline points="38.104 38.771 38.104 33.638 43.237 33.638" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polyline points="46.79 38.771 46.79 33.638 51.923 33.638" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polyline points="38.104 47.529 38.104 42.396 43.237 42.396" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polyline points="46.79 47.529 46.79 42.396 51.923 42.396" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="19.426 53.723 19.426 51.147 51.923 51.147 51.923 53.723"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="38.104 38.771 38.104 33.638 43.237 33.638"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="46.79 38.771 46.79 33.638 51.923 33.638"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="38.104 47.529 38.104 42.396 43.237 42.396"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="46.79 47.529 46.79 42.396 51.923 42.396"/>
   </g>
 </svg>
