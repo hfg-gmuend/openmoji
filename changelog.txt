@@ -14,6 +14,7 @@ New:
   + Unicode 13.1: face in clouds, face-unwell, heart on fire, mending heart,
     "man: beard" and "woman: beard" by Nelly Nieter
   + Champignon Mushroom extras-openmoji/food-drink by Liz Bravo @lizbravob
+  + Boule bread extras-openmoji/food-drink by @fuddl
 
 Redesign:
   * Amphora, Pile of Books, Dagger, Teddy Bear, Caterpillar, Lady Beetle, Microscope,
