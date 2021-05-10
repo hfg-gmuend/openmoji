@@ -28,6 +28,7 @@ Redesign:
   * Moved old ✒️ to 1F58B
 
 Fix:
+  * Bagel with schmear of cream cheese
   * Fix wrong Unicode of Catalonia flag by Sam Hocevar @samhocevar #305
   * Fix South Sudan flag star orientation by Sam Hocevar @samhocevar #301
   * Fix the Tajikistan flag, it has 7 stars, not 8 by Sam Hocevar @samhocevar #302
