@@ -4,7 +4,12 @@
 
 --------------------------------------------------------------------------------
 
-🧑‍🎄 OpenMoji 13.1 - ?? ??? 2020
+⛱🍉 OpenMoji 13.1 - ?? ??? 2020
+
+Many improvements, fixes and new OpenMojis:
+👉 Full support of Unicode Emoji 13.1. Yay!
+👉 Lots of fixes and redesigns
+👉 New flags and misc emojis in extras-openmoji
 
 New:
   + Colorful hexagons by @fuddl #278
@@ -41,6 +46,11 @@ Fix:
     Colour of mouth in Exploding Head
     by Liz Bravo #285
   * Fix slightly broken carrot
+
+Website:
+  * openmoji.org/library/ support to display multi-skintone OpenMojis
+  * openmoji.org/library/ new sorting and filtering
+
 
 --------------------------------------------------------------------------------
 
