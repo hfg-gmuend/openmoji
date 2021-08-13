@@ -66,7 +66,7 @@ Our community is always looking for enthusiasts to help in all different ways.
 - **Create**. OpenMoji is looking for designers, artists, coders, programmers to bring your creative and amazing work to show and inspire other people. Submit your work to [OpenMojis in the Wild](https://github.com/hfg-gmuend/openmoji/issues/125) on Github.
 
 **Attribution**
-The OpenMoji Community Statement is based and adapted from the [ml5.js community statement](https://github.com/ml5js/ml5-library/blob/development/CODE_OF_CONDUCT.md).
+The OpenMoji Community Statement is based and adapted from the [ml5.js community statement](https://github.com/ml5js/Code-of-Conduct).
 
 
 ## Contributor Covenant Code of Conduct
