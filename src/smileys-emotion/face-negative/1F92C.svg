@@ -8,7 +8,7 @@
   </g>
   <g id="line-supplement">
     <line x1="44.96" x2="44.96" y1="44.3741" y2="48.8453" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <circle cx="44.9259" cy="51.6467" r="1"/>
+    <circle fill="#000" cx="44.9259" cy="51.6467" r="1"/>
     <line x1="28.1472" x2="27.0463" y1="44.0809" y2="51.3195" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="31.3692" x2="30.2683" y1="44.0809" y2="51.3195" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="25.7875" x2="33.1094" y1="46.0973" y2="46.0901" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

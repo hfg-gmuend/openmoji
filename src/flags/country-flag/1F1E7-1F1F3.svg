@@ -9,7 +9,7 @@
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#f1b31c"/>
     <path fill="#fff" stroke="#fff" stroke-miterlimit="10" d="M5,19v5L67,47V42Z"/>
-    <path stroke="#000" stroke-miterlimit="10" d="M5,25v5L67,53V48Z"/>
+    <path stroke-miterlimit="10" d="M5,25v5L67,53V48Z"/>
     <g fill="none" stroke="#d22f27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
       <path d="M41.528 34.915c.30362 .71783 .47151 1.507 .47151 2.3355 0 3.3137-2.6863 6-6 6s-6-2.6863-6-6c0-.82843 .16789-1.6176 .47151-2.3355"/>
       <path d="M36 28v12.5"/>

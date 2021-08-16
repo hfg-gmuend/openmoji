@@ -18,8 +18,8 @@
   </g>
   <g id="line">
     <rect x="16" y="48.9583" rx="2.6211" ry="2.6211" width="40" height="8" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <rect x="18" y="56.9583" rx="2" ry="2" width="6" height="4"/>
-    <rect x="48" y="56.9583" rx="2" ry="2" width="6" height="4"/>
+    <rect fill="#000" x="18" y="56.9583" rx="2" ry="2" width="6" height="4"/>
+    <rect fill="#000" x="48" y="56.9583" rx="2" ry="2" width="6" height="4"/>
     <line x1="16" x2="13" y1="25.9583" y2="25.9583" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="13" x2="13" y1="22.9583" y2="28.9583" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="56" x2="59" y1="25.9583" y2="25.9583" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

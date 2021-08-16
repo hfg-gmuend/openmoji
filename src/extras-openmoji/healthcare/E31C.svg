@@ -11,7 +11,7 @@
   </g>
   <g id="line">
     <ellipse cx="36" cy="39.9211" rx="20" ry="11.7371" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <circle cx="36.1436" cy="39.6511" r="4.8502"/>
+    <circle fill="#000" cx="36.1436" cy="39.6511" r="4.8502"/>
     <circle cx="36.1436" cy="39.6511" r="4.8502" fill="none"/>
     <circle cx="36.1436" cy="39.6511" r="8.8964" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="43.135 24.35 45.118 20.313 47.144 22.465 49.635 17.393"/>

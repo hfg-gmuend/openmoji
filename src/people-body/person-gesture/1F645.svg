@@ -21,8 +21,8 @@
   </g>
   <g id="line">
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M22.0112,27.9583c-.0029-.6543-.0029-1.3223-.0029-2,0-7,5-14,14-14a13.75,13.75,0,0,1,14,14c0,.6.0039,1.1318.0049,1.666"/>
-    <path d="M41.8813,29.9583a2,2,0,1,1-2-2,2,2,0,0,1,2,2"/>
-    <path d="M33.8813,29.9583a2,2,0,1,1-2-2,2,2,0,0,1,2,2"/>
+    <path fill="#000" d="M41.8813,29.9583a2,2,0,1,1-2-2,2,2,0,0,1,2,2"/>
+    <path fill="#000" d="M33.8813,29.9583a2,2,0,1,1-2-2,2,2,0,0,1,2,2"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M46.9712,29.9563a11.66,11.66,0,0,0-.9629-3.998c-3-3-7-8-7-8-4,3-7,6-13,7,0,0-.9287.873-1.05,5.0693"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M34.0083,37.9583h4"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M47.9409,48.4075c3.85,1.1778,7.0674,4.5469,7.0674,8.5508v3"/>

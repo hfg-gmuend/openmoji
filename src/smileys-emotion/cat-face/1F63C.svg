@@ -36,7 +36,7 @@
     <line x1="14.16" x2="23.52" y1="59.3601" y2="54.1601" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M25.6,55.2001"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M16.24,60.4001"/>
-    <circle cx="23.52" cy="38.5601" r="2.08"/>
-    <circle cx="48.48" cy="38.5601" r="2.08"/>
+    <circle fill="#000" cx="23.52" cy="38.5601" r="2.08"/>
+    <circle fill="#000" cx="48.48" cy="38.5601" r="2.08"/>
   </g>
 </svg>

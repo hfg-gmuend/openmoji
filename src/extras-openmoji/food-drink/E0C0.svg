@@ -7,7 +7,7 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="line-supplement">
-    <circle cx="36" cy="36" r="2.403" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <circle fill="#000" cx="36" cy="36" r="2.403" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
     <path fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" d="m28.46 17.87 15.07 36.39"/>
     <path fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" d="m17.73 43.54 36.37-15.07"/>
     <path fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" d="m17.75 28.44 36.31 15.04"/>

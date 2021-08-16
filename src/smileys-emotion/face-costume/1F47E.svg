@@ -17,7 +17,7 @@
     <rect x="50" y="51" width="6" height="6" fill="#8967AA"/>
   </g>
   <g id="line">
-    <rect x="25.175" y="31" width="3.6" height="6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <rect fill="#000" x="25.175" y="31" width="3.6" height="6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="22,45 16,45 16,39"/>
     <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="22.583,25 22.583,20 26,20"/>
     <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="48.708,25 48.708,20 45.292,20"/>
@@ -32,7 +32,7 @@
     <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="28,45 28,51 22,51 22,45"/>
     <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="50,45 56,45 56,39"/>
     <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="44,45 44,51 50,51 50,45"/>
-    <rect x="43.425" y="31" width="3.6" height="6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <rect fill="#000" x="43.425" y="31" width="3.6" height="6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M44,45L44,45z"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M39,20L39,20z"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16,25L16,25z"/>

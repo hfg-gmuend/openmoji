@@ -17,7 +17,7 @@
     <g>
       <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="39.533 27.219 39.533 34.219 42.533 34.219"/>
       <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M33.7078,34.2187h0a2.5,2.5,0,0,1-2.5-2.5v-2a2.5,2.5,0,0,1,2.5-2.5h0a2.5,2.5,0,0,1,2.5,2.5v2A2.5,2.5,0,0,1,33.7078,34.2187Z"/>
-      <circle cx="45.5328" cy="34.2187" r="1"/>
+      <circle fill="#000" cx="45.5328" cy="34.2187" r="1"/>
       <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="28.416 27.29 26.898 34.29 26.208 34.29 25.537 34.29 24 27.29"/>
       <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M49.4011,29.0073A2.151,2.151,0,0,1,51.5076,27.29h0a2.1436,2.1436,0,0,1,1.52.63,1.66,1.66,0,0,1-.0185,2.2515L49.3574,34.29h4.3"/>
     </g>

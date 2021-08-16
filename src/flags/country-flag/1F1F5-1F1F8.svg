@@ -9,7 +9,7 @@
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#fff"/>
     <rect x="5" y="42" width="62" height="13" fill="#5c9e31"/>
-    <rect x="5" y="17" width="62" height="13"/>
+    <rect fill="#000" x="5" y="17" width="62" height="13"/>
     <polygon fill="#d22f27" points="26 36 5 55 5 17 26 36"/>
   </g>
   <g id="line">

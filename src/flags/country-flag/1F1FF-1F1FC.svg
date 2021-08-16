@@ -7,7 +7,7 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <rect x="5" y="17" width="62" height="38"/>
+    <rect fill="#000" x="5" y="17" width="62" height="38"/>
     <rect x="5" y="49" width="62" height="6" fill="#5c9e31"/>
     <rect x="5" y="44" width="62" height="5" fill="#f1b31c"/>
     <rect x="5" y="39" width="62" height="5" fill="#d22f27"/>

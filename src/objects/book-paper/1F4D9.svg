@@ -20,7 +20,7 @@
         <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="50.164 27.219 49.563 31.099 53.658 31.099"/>
         <line x1="52.9834" x2="52.9834" y1="27.2187" y2="34.2187" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
-      <circle cx="45.5328" cy="34.2187" r="1"/>
+      <circle fill="#000" cx="45.5328" cy="34.2187" r="1"/>
       <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="28.416 27.29 26.898 34.29 26.208 34.29 25.537 34.29 24 27.29"/>
     </g>
   </g>

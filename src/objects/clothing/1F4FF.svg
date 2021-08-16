@@ -7,7 +7,7 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="line-supplement">
-    <circle id="xx_1_" cx="40.4665" cy="54" r="1.95"/>
+    <circle fill="#000" id="xx_1_" cx="40.4665" cy="54" r="1.95"/>
   </g>
   <g id="color">
     <polygon fill="#F1B31C" points="37.3037,56.9264 38.6067,53.2677 42.4051,53.5098 42.7217,57.9283"/>

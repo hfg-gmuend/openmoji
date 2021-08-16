@@ -20,8 +20,8 @@
   <g id="line">
     <g>
       <ellipse cx="34.7361" cy="31.9067" rx="4.865" ry="6.5204" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.6"/>
-      <circle cx="32.2858" cy="21.4671" r="1.0418"/>
-      <circle cx="36.7298" cy="21.4671" r="1.0418"/>
+      <circle fill="#000" cx="32.2858" cy="21.4671" r="1.0418"/>
+      <circle fill="#000" cx="36.7298" cy="21.4671" r="1.0418"/>
       <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.6" d="M32.6192,33.6038a7.0235,7.0235,0,0,0,4.2348-.0412"/>
       <g>
         <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M19.5037,49.8351l-5.78-4.0757A2.4627,2.4627,0,0,1,12.905,42.72L19.6606,27.994a2.4625,2.4625,0,0,1,1.3039-1.2516l2.0934-.8585"/>

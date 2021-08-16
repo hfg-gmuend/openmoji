@@ -28,8 +28,8 @@
     <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="57.314,60.051 57.314,40.605 53.314,40.605 53.314,60.051"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M46.4401,48.109 c2.7065,0.407,5.2719,1.9246,6.8759,4.0597"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17,60v-3 c0-4.5823,4.2159-8.3326,8.7675-8.92"/>
-    <path d="M42,29.9c0,1.1-0.9,2-2,2s-2-0.9-2-2s0.9-2,2-2S42,28.8,42,29.9"/>
-    <path d="M34,29.9c0,1.1-0.9,2-2,2c-1.1,0-2-0.9-2-2s0.9-2,2-2C33.1,27.9,34,28.8,34,29.9"/>
+    <path fill="#000" d="M42,29.9c0,1.1-0.9,2-2,2s-2-0.9-2-2s0.9-2,2-2S42,28.8,42,29.9"/>
+    <path fill="#000" d="M34,29.9c0,1.1-0.9,2-2,2c-1.1,0-2-0.9-2-2s0.9-2,2-2C33.1,27.9,34,28.8,34,29.9"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M33,38.1c1.9,1,4.1,1,6,0"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M35.7577,54.3964 c13.4215-9.6934,13.0943-22.1473,11.7-27.5827h-1.7c0,0,1.5809,7.897-9.7577,7.897s-9.496-7.897-9.496-7.897h-1.7463 C23.1558,31.5588,22.3608,42.4881,35.7577,54.3964z"/>
   </g>

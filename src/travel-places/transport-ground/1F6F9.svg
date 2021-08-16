@@ -8,8 +8,8 @@
   </g>
   <g id="line-supplement">
     <g>
-      <circle cx="51" cy="47.9995" r="3"/>
-      <circle cx="21" cy="47.9995" r="3"/>
+      <circle fill="#000" cx="51" cy="47.9995" r="3"/>
+      <circle fill="#000" cx="21" cy="47.9995" r="3"/>
     </g>
   </g>
   <g id="color">
