@@ -12,7 +12,7 @@
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M29.1,38c-.9,0-1.5-.4-2.1-1.5"/>
     <path fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" d="M28,31c-.1,8,4.9,14,11,14,5.9,0,11.1-6,11.1-14,0-5-3-11-3-11-8,0-10,3-16,1C31.1,21,28.1,26,28,31Z"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M36.1,37.7a6.375,6.375,0,0,1,6,0V38a6.375,6.375,0,0,1-6,0Z"/>
-    <path d="M37,30a2,2,0,1,1-2-2,2.0059,2.0059,0,0,1,2,2"/>
-    <path d="M45,30a2,2,0,1,1-2-2,2.0059,2.0059,0,0,1,2,2"/>
+    <path fill="#000" d="M37,30a2,2,0,1,1-2-2,2.0059,2.0059,0,0,1,2,2"/>
+    <path fill="#000" d="M45,30a2,2,0,1,1-2-2,2.0059,2.0059,0,0,1,2,2"/>
   </g>
 </svg>

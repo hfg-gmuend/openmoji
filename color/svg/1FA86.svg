@@ -14,7 +14,7 @@
     <line x1="23.76" x2="48.24" y1="60.11" y2="60.11" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m45.11 47.15a10 10 0 0 1-19.91 0.1"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m46 21.75a10.11 10.11 0 0 1-10.07-9.999h0a10.17 10.17 0 0 1-9.934 9.997"/>
-    <circle cx="32.83" cy="23.61" r="2"/>
-    <circle cx="38.98" cy="23.61" r="2"/>
+    <circle cx="32.83" cy="23.61" r="2" fill="#000"/>
+    <circle cx="38.98" cy="23.61" r="2" fill="#000"/>
   </g>
 </svg>

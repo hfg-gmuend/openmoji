@@ -8,10 +8,10 @@
     <line x1="35.8886" x2="29.2805" y1="28.6676" y2="19.0573" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="35.494 43.898 39.87 50.059 44.171 47.005 40.401 41.634"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.1061,26.0533l9.7445,14.1716a4.0339,4.0339,0,0,0,1.6732,1.4093"/>
-    <rect x="24.1272" y="49.4235" rx="0.7996" width="6.7909" height="2.2909" transform="translate(-29.5957 43.343) rotate(-54.2322)"/>
-    <rect x="22.3979" y="53.6029" rx="1.1751" width="3.4169" height="3.4169" transform="translate(36.8762 -3.6581) rotate(35.7678)"/>
-    <rect x="40.6028" y="50.0066" rx="0.7996" width="6.7909" height="2.2909" transform="translate(25.0954 115.9214) rotate(-123.0299)"/>
-    <rect x="45.4756" y="54.3438" rx="1.1751" width="3.4169" height="3.4169" transform="translate(-22.9272 34.7777) rotate(-33.0299)"/>
+    <rect x="24.1272" y="49.4235" rx="0.7996" width="6.7909" height="2.2909" transform="translate(-29.5957 43.343) rotate(-54.2322)" fill="#000"/>
+    <rect x="22.3979" y="53.6029" rx="1.1751" width="3.4169" height="3.4169" transform="translate(36.8762 -3.6581) rotate(35.7678)" fill="#000"/>
+    <rect x="40.6028" y="50.0066" rx="0.7996" width="6.7909" height="2.2909" transform="translate(25.0954 115.9214) rotate(-123.0299)" fill="#000"/>
+    <rect x="45.4756" y="54.3438" rx="1.1751" width="3.4169" height="3.4169" transform="translate(-22.9272 34.7777) rotate(-33.0299)" fill="#000"/>
     <line x1="39.5146" x2="49.0658" y1="24.6038" y2="31.6584" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="21.5103" x2="31.6384" y1="29.5498" y2="22.4866" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>

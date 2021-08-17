@@ -31,7 +31,7 @@
     </g>
     <g>
       <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="24.22 48.658 23.641 53.203 23.641 67.037 27.37 67.037 27.37 53.203"/>
-      <rect x="24.7518" y="29.5072" width="1.5" height="16"/>
+      <rect x="24.7518" y="29.5072" width="1.5" height="16" fill="#000"/>
       <ellipse cx="25.7518" cy="16.8421" rx="9" ry="11.8421" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
     </g>
   </g>

@@ -1,16 +1,16 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line-supplement">
-    <circle cx="56.8815" cy="44.306" r="1"/>
-    <circle cx="60.7016" cy="38.7196" r="1"/>
-    <circle cx="59.7716" cy="42.9274" r="1"/>
-    <circle cx="57.8728" cy="40.0561" r="1"/>
-    <circle cx="61.6612" cy="34.3952" r="1"/>
-    <circle cx="58.8552" cy="35.607" r="1"/>
-    <circle cx="59.8269" cy="31.3216" r="1"/>
-    <circle cx="19.9122" cy="45.5619" r="1"/>
-    <circle cx="18.0621" cy="41.6095" r="1"/>
-    <circle cx="16.0818" cy="37.5061" r="1"/>
-    <circle cx="14.1943" cy="33.538" r="1"/>
+    <circle cx="56.8815" cy="44.306" r="1" fill="#000"/>
+    <circle cx="60.7016" cy="38.7196" r="1" fill="#000"/>
+    <circle cx="59.7716" cy="42.9274" r="1" fill="#000"/>
+    <circle cx="57.8728" cy="40.0561" r="1" fill="#000"/>
+    <circle cx="61.6612" cy="34.3952" r="1" fill="#000"/>
+    <circle cx="58.8552" cy="35.607" r="1" fill="#000"/>
+    <circle cx="59.8269" cy="31.3216" r="1" fill="#000"/>
+    <circle cx="19.9122" cy="45.5619" r="1" fill="#000"/>
+    <circle cx="18.0621" cy="41.6095" r="1" fill="#000"/>
+    <circle cx="16.0818" cy="37.5061" r="1" fill="#000"/>
+    <circle cx="14.1943" cy="33.538" r="1" fill="#000"/>
   </g>
   <g id="line">
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="43.915 21.386 48.418 20.173 46.997 46.783 43.115 44.371"/>

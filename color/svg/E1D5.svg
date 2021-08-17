@@ -13,7 +13,7 @@
     <line x1="21" x2="16" y1="40" y2="40" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
     <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="27,41.4 27,42 21,42 21,30 27,30 27,30.6"/>
     <circle cx="41" cy="36" r="15" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <circle cx="41" cy="36" r="4"/>
+    <circle cx="41" cy="36" r="4" fill="#000"/>
   </g>
   <g id="color-foreground">
     <path fill="#E27022" d="M20.005,30.99v2.02h-4.04c-0.606,0-1.01-0.505-1.01-1.01c0-0.505,0.404-1.01,1.01-1.01H20.005z"/>

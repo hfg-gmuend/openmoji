@@ -26,13 +26,13 @@
       <polygon fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" points="52.016 20.787 55.465 25.415 53.163 23.582 52.016 20.787"/>
     </g>
     <g>
-      <circle cx="42.6545" cy="32.4903" r="1.25"/>
-      <circle cx="28.6545" cy="29.4903" r="1.25"/>
-      <circle cx="35.6545" cy="28.4903" r="1.25"/>
-      <circle cx="37.6545" cy="44.4903" r="1.25"/>
-      <circle cx="31.6545" cy="34.7403" r="2"/>
-      <circle cx="31.1545" cy="41.7403" r="2"/>
-      <circle cx="39.6545" cy="37.7403" r="3"/>
+      <circle cx="42.6545" cy="32.4903" r="1.25" fill="#000"/>
+      <circle cx="28.6545" cy="29.4903" r="1.25" fill="#000"/>
+      <circle cx="35.6545" cy="28.4903" r="1.25" fill="#000"/>
+      <circle cx="37.6545" cy="44.4903" r="1.25" fill="#000"/>
+      <circle cx="31.6545" cy="34.7403" r="2" fill="#000"/>
+      <circle cx="31.1545" cy="41.7403" r="2" fill="#000"/>
+      <circle cx="39.6545" cy="37.7403" r="3" fill="#000"/>
     </g>
   </g>
 </svg>

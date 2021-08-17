@@ -1,21 +1,21 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line-supplement">
-    <circle cx="20.0016" cy="21.8302" r="1"/>
-    <circle cx="20.0016" cy="25.5676" r="1"/>
-    <circle cx="18.1329" cy="23.6989" r="1"/>
-    <circle cx="21.8703" cy="23.6989" r="1"/>
-    <circle cx="54.8929" cy="22.8302" r="1"/>
-    <circle cx="54.8929" cy="26.5676" r="1"/>
-    <circle cx="53.0242" cy="24.6989" r="1"/>
-    <circle cx="56.7616" cy="24.6989" r="1"/>
-    <circle cx="40.581" cy="52.2834" r="1"/>
-    <circle cx="40.581" cy="56.0208" r="1"/>
-    <circle cx="38.7123" cy="54.1521" r="1"/>
-    <circle cx="42.4497" cy="54.1521" r="1"/>
-    <circle cx="16.5286" cy="28.4363" r="1"/>
-    <circle cx="16.5286" cy="32.1737" r="1"/>
-    <circle cx="14.6599" cy="30.305" r="1"/>
-    <circle cx="18.3973" cy="30.305" r="1"/>
+    <circle cx="20.0016" cy="21.8302" r="1" fill="#000"/>
+    <circle cx="20.0016" cy="25.5676" r="1" fill="#000"/>
+    <circle cx="18.1329" cy="23.6989" r="1" fill="#000"/>
+    <circle cx="21.8703" cy="23.6989" r="1" fill="#000"/>
+    <circle cx="54.8929" cy="22.8302" r="1" fill="#000"/>
+    <circle cx="54.8929" cy="26.5676" r="1" fill="#000"/>
+    <circle cx="53.0242" cy="24.6989" r="1" fill="#000"/>
+    <circle cx="56.7616" cy="24.6989" r="1" fill="#000"/>
+    <circle cx="40.581" cy="52.2834" r="1" fill="#000"/>
+    <circle cx="40.581" cy="56.0208" r="1" fill="#000"/>
+    <circle cx="38.7123" cy="54.1521" r="1" fill="#000"/>
+    <circle cx="42.4497" cy="54.1521" r="1" fill="#000"/>
+    <circle cx="16.5286" cy="28.4363" r="1" fill="#000"/>
+    <circle cx="16.5286" cy="32.1737" r="1" fill="#000"/>
+    <circle cx="14.6599" cy="30.305" r="1" fill="#000"/>
+    <circle cx="18.3973" cy="30.305" r="1" fill="#000"/>
   </g>
   <g id="line">
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M46.4988,30.4385s.9557,24.37-.5973,29.388c0,0-1.6446,1.1318-9.9015,1.1318h-.0289c-8.2318-.0026-9.8726-1.1318-9.8726-1.1318-1.553-5.0175-.5973-29.388-.5973-29.388"/>

@@ -1,6 +1,6 @@
 <svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <g id="line-supplement">
-    <circle id="xx_1_" cx="40.4665" cy="54" r="1.95"/>
+    <circle id="xx_1_" cx="40.4665" cy="54" r="1.95" fill="#000"/>
   </g>
   <g id="color">
     <polygon fill="#F1B31C" points="37.3037,56.9264 38.6067,53.2677 42.4051,53.5098 42.7217,57.9283"/>

@@ -8,6 +8,6 @@
     <ellipse cx="44.5446" cy="38.5168" rx="3.0863" ry="2.0608" transform="translate(-13.5937 47.8818) rotate(-50)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <ellipse cx="26.5578" cy="38.5168" rx="2.0608" ry="3.0863" transform="translate(-18.5448 26.0823) rotate(-40)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M26.0369,35.6641A17.2426,17.2426,0,0,1,24.44,28.2772c0-3.369.9753-7.5655,3.0766-10.2554a9.755,9.755,0,0,1,.8615-.968,10.8875,10.8875,0,0,1,7.3428-2.8778h.0652a10.8875,10.8875,0,0,1,7.3428,2.8778,9.755,9.755,0,0,1,.8615.968c2.1013,2.69,3.0766,6.8864,3.0766,10.2554a17.2452,17.2452,0,0,1-1.5935,7.379"/>
-    <circle cx="47.0666" cy="51.5579" r="2.1001"/>
+    <circle cx="47.0666" cy="51.5579" r="2.1001" fill="#000"/>
   </g>
 </svg>

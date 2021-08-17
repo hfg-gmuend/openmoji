@@ -18,7 +18,7 @@
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M58.1549,27.9329c0,0,2.047-1.4682,0.6019-3.1236c0,0,2.2788-2.0129,0.4281-3.9039c0,0,1.2382-4.0732-2.1382-4.309 c0,0,0.3899-4.0721-4.079-3.5985c0,0-2.5018-1.8015-4.3561,0.2489c0,0-2.5324-1.6079-3.8427,0.4026"/>
     <ellipse cx="27.7711" cy="30.818" rx="3.5" ry="6.3045" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2"/>
     <ellipse cx="44.2289" cy="30.8216" rx="3.5" ry="6.3045" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2"/>
-    <circle cx="36" cy="38.9779" r="2.7351"/>
+    <circle cx="36" cy="38.9779" r="2.7351" fill="#000"/>
   </g>
   <g id="color-foreground">
     <ellipse cx="27.7711" cy="30.818" rx="3.5" ry="6.3045" fill="none" stroke="#92D3F5" stroke-miterlimit="10" stroke-width="2.1"/>

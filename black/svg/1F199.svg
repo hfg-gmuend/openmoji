@@ -6,7 +6,7 @@
       <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M35.6477,40.47V29.97h4.0038a2.6151,2.6151,0,0,1,2.6151,2.6153h0A2.6149,2.6149,0,0,1,39.6515,35.2H35.6477"/>
       <g>
         <line x1="49.8694" x2="49.8694" y1="29.9699" y2="36.4557" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-        <circle cx="49.8694" cy="40.4699" r="1.5"/>
+        <circle cx="49.8694" cy="40.4699" r="1.5" fill="#000"/>
       </g>
     </g>
   </g>

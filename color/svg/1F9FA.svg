@@ -17,7 +17,7 @@
       <line x1="36.383" x2="48.4451" y1="55.6997" y2="43.2164" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       <line x1="44.7347" x2="46.8963" y1="55.2642" y2="53.4424" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     </g>
-    <circle cx="33.8738" cy="29.8369" r="0.8858"/>
+    <circle cx="33.8738" cy="29.8369" r="0.8858" fill="#000"/>
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="36.383 27.427 57.357 27.427 57.357 35.092 14.643 35.092 14.643 27.427 27.849 27.427"/>
   </g>
 </svg>

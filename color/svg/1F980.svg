@@ -14,8 +14,8 @@
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M25.5661,50.84a3.699,3.699,0,0,0-2,3"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M29.6494,51.9234A3.8823,3.8823,0,0,0,28.5661,54.84"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M44.5661,51.9234A3.8823,3.8823,0,0,1,45.6494,54.84"/>
-    <ellipse cx="32.5661" cy="27.3401" rx="1" ry="2.5"/>
-    <ellipse cx="40.5661" cy="27.3401" rx="1" ry="2.5"/>
+    <ellipse cx="32.5661" cy="27.3401" rx="1" ry="2.5" fill="#000"/>
+    <ellipse cx="40.5661" cy="27.3401" rx="1" ry="2.5" fill="#000"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M48.9014,50.5918s1.7184,1.2213,1.3293,2.4966"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21.7309,44.231s-5,4-8-3,1-7,1-7,4,0,4,2-1.6667,5,2.6667,6.5Z"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.4921,33.043s-8.3114-8.2415,3.4967-16.0242c0,0,4.522-2.1335,6.7065.153C9.6737,22.8554,27.6909,31.7886,13.4921,33.043Z"/>

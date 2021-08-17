@@ -29,11 +29,11 @@
     <line x1="55.3797" x2="58.0597" y1="40.8307" y2="43.5106" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="58.0597" x2="55.3797" y1="24.8307" y2="27.5106" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="16.0597" x2="13.3797" y1="41.8307" y2="44.5106" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <circle cx="25" cy="37" r="1.25"/>
-    <circle cx="32" cy="33" r="1.25"/>
-    <circle cx="21" cy="32" r="1.25"/>
-    <circle cx="45" cy="37" r="1.25"/>
-    <circle cx="52" cy="33" r="1.25"/>
-    <circle cx="40" cy="33" r="1.25"/>
+    <circle cx="25" cy="37" r="1.25" fill="#000"/>
+    <circle cx="32" cy="33" r="1.25" fill="#000"/>
+    <circle cx="21" cy="32" r="1.25" fill="#000"/>
+    <circle cx="45" cy="37" r="1.25" fill="#000"/>
+    <circle cx="52" cy="33" r="1.25" fill="#000"/>
+    <circle cx="40" cy="33" r="1.25" fill="#000"/>
   </g>
 </svg>

@@ -13,7 +13,7 @@
     <rect x="26" y="23" rx="1.125" ry="1.143" width="9" height="8" fill="#fff"/>
   </g>
   <g id="line">
-    <rect x="26" y="18.5" rx="1" ry="1" width="20" height="3"/>
+    <rect x="26" y="18.5" rx="1" ry="1" width="20" height="3" fill="#000"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m38 54.01v5.986h6.986"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m27 54.01v5.986h6.986"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m38 44v6h7"/>

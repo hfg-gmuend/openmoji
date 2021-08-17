@@ -1,11 +1,11 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line-supplement">
-    <circle cx="31.592" cy="45.6233" r="1"/>
-    <circle cx="30.1589" cy="41.739" r="1"/>
-    <circle cx="32.814" cy="39.7492" r="1"/>
-    <circle cx="40.4278" cy="45.6233" r="1"/>
-    <circle cx="41.8608" cy="41.739" r="1"/>
-    <circle cx="39.2058" cy="39.7492" r="1"/>
+    <circle cx="31.592" cy="45.6233" r="1" fill="#000"/>
+    <circle cx="30.1589" cy="41.739" r="1" fill="#000"/>
+    <circle cx="32.814" cy="39.7492" r="1" fill="#000"/>
+    <circle cx="40.4278" cy="45.6233" r="1" fill="#000"/>
+    <circle cx="41.8608" cy="41.739" r="1" fill="#000"/>
+    <circle cx="39.2058" cy="39.7492" r="1" fill="#000"/>
   </g>
   <g id="line">
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M31.746,51.6805c-4.4446-2.4527-5.3118-8.2931-5.3118-13.6639,0-7.1689,9.5658-5.0535,9.5658-5.0535V50.2488L34.7119,52.69"/>

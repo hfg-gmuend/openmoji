@@ -4,6 +4,6 @@
     <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2.251" d="m49.11 15.44c8.167 8.299 9.065 22.67-0.05274 32.99-8.942 10.13-25.08 8.628-33.27 0.3566z"/>
     <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2.345" d="m41.09 23.53a12.9 12.9 0 0 1-17.94 17.94z"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.251" d="m31.79 51.06c3.369 0.5372 9.099-0.9131 13.52-5.585 3.186-3.371 5.996-9.423 5.673-13.39"/>
-    <circle cx="50.54" cy="28.03" r="1.173"/>
+    <circle cx="50.54" cy="28.03" r="1.173" fill="#000"/>
   </g>
 </svg>

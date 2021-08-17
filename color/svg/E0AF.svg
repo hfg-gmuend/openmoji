@@ -39,10 +39,10 @@
         <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.6331,28.0122a3.686,3.686,0,0,1,3.64,3.4944l.5535,13.2788"/>
       </g>
     </g>
-    <circle cx="26.1125" cy="29.3378" r="2"/>
-    <circle cx="9.297" cy="19.0027" r="2"/>
-    <circle cx="7" cy="26.0228" r="2"/>
-    <circle cx="22.8264" cy="20" r="2"/>
-    <circle cx="28.1125" cy="23.7843" r="2"/>
+    <circle cx="26.1125" cy="29.3378" r="2" fill="#000"/>
+    <circle cx="9.297" cy="19.0027" r="2" fill="#000"/>
+    <circle cx="7" cy="26.0228" r="2" fill="#000"/>
+    <circle cx="22.8264" cy="20" r="2" fill="#000"/>
+    <circle cx="28.1125" cy="23.7843" r="2" fill="#000"/>
   </g>
 </svg>

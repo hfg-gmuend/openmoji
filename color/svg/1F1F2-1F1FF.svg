@@ -2,7 +2,7 @@
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#fcea2b"/>
     <rect x="5" y="17" width="62" height="13" fill="#186648"/>
-    <rect x="5" y="30" width="62" height="12" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    <rect x="5" y="30" width="62" height="12" fill="#000" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
     <polygon fill="#d22f27" points="26 36 5 55 5 17 26 36"/>
     <polygon fill="#fcea2b" stroke="#fcea2b" stroke-linecap="round" stroke-linejoin="round" points="10.004 41.409 13.593 30.591 16.689 41.245 8.091 34.825 18.909 34.559 10.004 41.409"/>
     <polygon fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" points="16.869 38.804 10.131 38.804 11.033 35.585 15.967 35.585 16.869 38.804"/>

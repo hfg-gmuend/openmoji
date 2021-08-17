@@ -6,7 +6,7 @@
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M38.127,38.4375 c-1.2481,0.75-2.5821,0.75-4,0"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M31.127,36.4375 c0,1-1,2-1,2"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M41.127,36.4375 c0,1,1,2,1,2"/>
-    <path d="M42,29.4375c0,1.1045-0.8955,2-2,2s-2-0.8955-2-2s0.8955-2,2-2S42,28.333,42,29.4375"/>
-    <path d="M34,29.4375c0,1.1045-0.8955,2-2,2s-2-0.8955-2-2s0.8955-2,2-2S34,28.333,34,29.4375"/>
+    <path fill="#000" d="M42,29.4375c0,1.1045-0.8955,2-2,2s-2-0.8955-2-2s0.8955-2,2-2S42,28.333,42,29.4375"/>
+    <path fill="#000" d="M34,29.4375c0,1.1045-0.8955,2-2,2s-2-0.8955-2-2s0.8955-2,2-2S34,28.333,34,29.4375"/>
   </g>
 </svg>

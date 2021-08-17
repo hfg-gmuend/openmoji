@@ -11,10 +11,10 @@
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M48.7769,35.9282a4.8018,4.8018,0,0,1,5.3262,7.9668"/>
     <circle cx="44.3339" cy="47.1867" r="2.552" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
     <circle cx="32.8296" cy="39.7426" r="2.552" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
-    <circle cx="45.4334" cy="26.877" r="1.2785"/>
-    <circle cx="42.1251" cy="31.0381" r="1.2785"/>
-    <circle cx="38.0802" cy="27.4137" r="1.2785"/>
-    <circle cx="29.857" cy="19.7384" r="1.2785"/>
-    <circle cx="33.105" cy="30.4585" r="1.2785"/>
+    <circle cx="45.4334" cy="26.877" r="1.2785" fill="#000"/>
+    <circle cx="42.1251" cy="31.0381" r="1.2785" fill="#000"/>
+    <circle cx="38.0802" cy="27.4137" r="1.2785" fill="#000"/>
+    <circle cx="29.857" cy="19.7384" r="1.2785" fill="#000"/>
+    <circle cx="33.105" cy="30.4585" r="1.2785" fill="#000"/>
   </g>
 </svg>

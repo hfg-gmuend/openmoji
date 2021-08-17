@@ -21,11 +21,11 @@
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <circle cx="26.8381" cy="38.2509" r="3"/>
-    <circle cx="45.3945" cy="38.2509" r="3"/>
+    <circle cx="26.8381" cy="38.2509" r="3" fill="#000"/>
+    <circle cx="45.3945" cy="38.2509" r="3" fill="#000"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M41.9792,49.017c-0.2036,0.2681-0.7527,6.0217-6.3387,6.0246c-4.9521,0.0025-5.4413-5.6762-5.7048-6.0246 C33.9503,49.017,37.9648,49.017,41.9792,49.017z"/>
-    <circle cx="34.0988" cy="44.5578" r="1"/>
-    <circle cx="37.7384" cy="44.5578" r="1"/>
+    <circle cx="34.0988" cy="44.5578" r="1" fill="#000"/>
+    <circle cx="37.7384" cy="44.5578" r="1" fill="#000"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M11.6836,20.1837c-1.2053,0.6459-2.3451,1.7036-3.2117,3.3917c-1.708,3.3272-1.274,6.2517,0.0837,8.8217"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M60.5424,20.2614c1.1529,0.6519,2.2379,1.6919,3.0706,3.3141c1.6027,3.122,1.3194,5.8895,0.1566,8.3422"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M50.0121,54.2076c-3.8867,3.0046-8.7619,4.7923-14.0546,4.7923c-5.1125,0-9.8354-1.6681-13.6542-4.4897"/>

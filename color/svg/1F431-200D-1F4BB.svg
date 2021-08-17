@@ -33,8 +33,8 @@
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.5788,35.589"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M29.7416,37.3975"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M24.2439,40.4117"/>
-    <ellipse cx="28.5199" cy="27.752" rx="1.2217" ry="1.2057"/>
-    <ellipse cx="43.1805" cy="27.752" rx="1.2217" ry="1.2057"/>
+    <ellipse cx="28.5199" cy="27.752" rx="1.2217" ry="1.2057" fill="#000"/>
+    <ellipse cx="43.1805" cy="27.752" rx="1.2217" ry="1.2057" fill="#000"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" d="M47.0723,24.9474s-8.1678,3.4075-7.7837,3.84C47.104,35.8033,47.7172,25.9247,47.0723,24.9474Z"/>
     <line x1="50.9216" x2="45.4239" y1="37.1947" y2="34.1804" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
     <line x1="48.6782" x2="43.1805" y1="39.8089" y2="36.7947" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>

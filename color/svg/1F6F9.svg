@@ -1,8 +1,8 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line-supplement">
     <g>
-      <circle cx="51" cy="47.9995" r="3"/>
-      <circle cx="21" cy="47.9995" r="3"/>
+      <circle cx="51" cy="47.9995" r="3" fill="#000"/>
+      <circle cx="21" cy="47.9995" r="3" fill="#000"/>
     </g>
   </g>
   <g id="color">

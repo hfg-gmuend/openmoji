@@ -1,7 +1,7 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#fff"/>
-    <rect x="5" y="30" width="62" height="12"/>
+    <rect x="5" y="30" width="62" height="12" fill="#000"/>
     <rect x="5" y="17" width="62" height="13" fill="#1e50a0"/>
   </g>
   <g id="line">

@@ -6,8 +6,8 @@
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m38.1 37.89a3.629 3.629 0 0 1-4 0"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m31.1 35.89a3.491 3.491 0 0 1-1 2"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m41.1 35.89a3.491 3.491 0 0 0 1 2"/>
-    <path d="m42 28.89a2 2 0 1 1-2-2 2.006 2.006 0 0 1 2 2"/>
-    <path d="m34 28.89a2 2 0 1 1-2-2 2.006 2.006 0 0 1 2 2"/>
+    <path fill="#000" d="m42 28.89a2 2 0 1 1-2-2 2.006 2.006 0 0 1 2 2"/>
+    <path fill="#000" d="m34 28.89a2 2 0 1 1-2-2 2.006 2.006 0 0 1 2 2"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m29.28 25.72v-6.218s-6.523-0.3406-6.523 6.523 2.652 8.687 2.652 8.687 0.3141-8.991 3.87-8.991z"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m42.91 25.72v-6.218s6.523-0.3406 6.523 6.523-2.652 8.687-2.652 8.687-0.3144-8.991-3.871-8.991z"/>
   </g>

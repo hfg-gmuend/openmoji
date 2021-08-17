@@ -3,8 +3,8 @@
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="19.875 46.59 9.329 28.985 14.739 25.611 25.91 43.573"/>
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="14.206 30.088 13.508 35.961 22.129 37.493"/>
     <line x1="20.0702" x2="19.4474" y1="40.6246" y2="45.8582" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path d="M42.7455,24.9444a2,2,0,1,1-2-2,2.0007,2.0007,0,0,1,2,2"/>
-    <path d="M34.7455,24.9444a2,2,0,1,1-2-2,2.0007,2.0007,0,0,1,2,2"/>
+    <path fill="#000" d="M42.7455,24.9444a2,2,0,1,1-2-2,2.0007,2.0007,0,0,1,2,2"/>
+    <path fill="#000" d="M34.7455,24.9444a2,2,0,1,1-2-2,2.0007,2.0007,0,0,1,2,2"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.3926,59.9165V54.8349C17.349,51.2,18.3529,43.47,27.6814,43.47h2.4147a1.1408,1.1408,0,0,0,1.1253-.9534l.2768-1.6607"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M55.9373,59.9165V54.8349C55.9809,51.2,54.977,43.47,45.6485,43.47H43.2338a1.1408,1.1408,0,0,1-1.1253-.9534l-.2768-1.6607"/>
     <ellipse cx="36.6675" cy="25.6198" rx="14.5511" ry="16.2951" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
