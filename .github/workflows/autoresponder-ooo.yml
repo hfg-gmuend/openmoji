@@ -20,4 +20,4 @@ jobs:
         respondableId: ${{ github.event.issue.node_id }}
         response: "🏝 OpenMoji is on hold over summer (project maintainers are out of office until Oct 2021)."
         author: ${{ github.event.issue.user.login }}
-        exemptedAuthors: "carlinmack, b-g"
+        exemptedAuthors: "carlinmack, b-g, dnlutz"
