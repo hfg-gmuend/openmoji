@@ -1,43 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 72 72" style="enable-background:new 0 0 72 72;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#B3B3B3;}
-	.st1{fill:none;stroke:#00A5FF;stroke-width:0.1;stroke-miterlimit:10;}
-	.st2{fill:#D0CFCE;}
-	.st3{fill:#EA5A47;}
-	.st4{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st5{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
-</style>
-<g id="grid">
-	<path class="st0" d="M68,4v64H4V4H68 M72,0H0v72h72V0z"/>
-	<path class="st1" d="M12.9,11h46.2c1.1,0,1.9,0.9,1.9,1.9v0V59c0,1.1-0.9,1.9-1.9,1.9H12.9C11.9,61,11,60.1,11,59l0,0V12.9
-		C11,11.8,11.9,11,12.9,11L12.9,11z"/>
-	<path class="st1" d="M18.3,4h35.5C55,4,56,5,56,6.3v59.5c0,1.2-1,2.3-2.3,2.3H18.3C17,68,16,67,16,65.7V6.3C16,5,17,4,18.3,4z"/>
-	<path class="st1" d="M68,18.3v35.5c0,1.2-1,2.3-2.3,2.3H6.3C5,56,4,55,4,53.7V18.3C4,17,5,16,6.3,16h59.5C67,16,68,17,68,18.3z"/>
-	<circle class="st1" cx="36" cy="36" r="29"/>
-</g>
-<g id="color">
-	<path class="st2" d="M60,42.3c0-0.6,0.4-1,1-1h4.1v-9.2H61c-0.6,0-1-0.4-1-1 M60,31.1V24H6.7v25H60v-6.7"/>
-	<path class="st2" d="M61.1,31.8c-0.6,0-1-0.4-1-1v-7.2H37H6.8v25h11.7h41.6V42c0-0.6,0.4-1,1-1h4.1v-9.2H61.1z"/>
-	<polygon class="st3" points="39.7,27.7 27.9,45.9 11.7,45.9 11.7,27.7 	"/>
-	<g transform="matrix(0 1 1 0 418.5 20.13)">
-		<path class="st4" d="M15.7-395.8"/>
-		<path class="st4" d="M11.4-395.8"/>
-	</g>
-</g>
-<g id="hair">
-</g>
-<g id="skin">
-</g>
-<g id="skin-shadow">
-</g>
-<g id="line">
-	<path class="st5" d="M61.1,31.3v-7.2c0-0.6-0.4-1-1-1H6.8c-0.6,0-1,0.4-1,1v25c0,0.6,0.4,1,1,1h53.3c0.6,0,1-0.4,1-1v-6.7h5.1V31.3
-		H61.1z"/>
-	<path d="M29.5,39.7c0,0.6-0.4,1-0.9,1c-0.5,0-0.9-0.4-0.9-1c0-0.6,0.4-1,0.9-1C29.1,38.7,29.5,39.1,29.5,39.7"/>
-	<path class="st4" d="M28.7,32.7V37"/>
-	<rect x="11" y="27.4" class="st5" width="34.2" height="19"/>
-</g>
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <style type="text/css">
+    .st1{fill:none;stroke:#00A5FF;stroke-width:0.1;stroke-miterlimit:10}.st2{fill:#D0CFCE}.st4{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}.st5{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+  </style>
+  <g id="grid">
+    <path d="M68,4v64H4V4H68 M72,0H0v72h72V0z" style="fill:#B3B3B3"/>
+    <path d="M12.9,11h46.2c1.1,0,1.9,0.9,1.9,1.9v0V59c0,1.1-0.9,1.9-1.9,1.9H12.9C11.9,61,11,60.1,11,59l0,0V12.9 C11,11.8,11.9,11,12.9,11L12.9,11z" class="st1"/>
+    <path d="M18.3,4h35.5C55,4,56,5,56,6.3v59.5c0,1.2-1,2.3-2.3,2.3H18.3C17,68,16,67,16,65.7V6.3C16,5,17,4,18.3,4z" class="st1"/>
+    <path d="M68,18.3v35.5c0,1.2-1,2.3-2.3,2.3H6.3C5,56,4,55,4,53.7V18.3C4,17,5,16,6.3,16h59.5C67,16,68,17,68,18.3z" class="st1"/>
+    <circle cx="36" cy="36" r="29" class="st1"/>
+  </g>
+  <g id="color">
+    <path d="M60,42.3c0-0.6,0.4-1,1-1h4.1v-9.2H61c-0.6,0-1-0.4-1-1 M60,31.1V24H6.7v25H60v-6.7" class="st2"/>
+    <path d="M61.1,31.8c-0.6,0-1-0.4-1-1v-7.2H37H6.8v25h11.7h41.6V42c0-0.6,0.4-1,1-1h4.1v-9.2H61.1z" class="st2"/>
+    <polygon points="39.7,27.7 27.9,45.9 11.7,45.9 11.7,27.7" style="fill:#EA5A47"/>
+    <g transform="matrix(0 1 1 0 418.5 20.13)">
+      <path d="M15.7-395.8" class="st4"/>
+      <path d="M11.4-395.8" class="st4"/>
+    </g>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <path d="M61.1,31.3v-7.2c0-0.6-0.4-1-1-1H6.8c-0.6,0-1,0.4-1,1v25c0,0.6,0.4,1,1,1h53.3c0.6,0,1-0.4,1-1v-6.7h5.1V31.3 H61.1z" class="st5"/>
+    <path d="M29.5,39.7c0,0.6-0.4,1-0.9,1c-0.5,0-0.9-0.4-0.9-1c0-0.6,0.4-1,0.9-1C29.1,38.7,29.5,39.1,29.5,39.7"/>
+    <path d="M28.7,32.7V37" class="st4"/>
+    <rect x="11" y="27.4" width="34.2" height="19" class="st5"/>
+  </g>
 </svg>
