@@ -4,6 +4,14 @@
 
 --------------------------------------------------------------------------------
 
+OpenMoji 14.0 - XX XXX 2021
+
+New:
+  + E1D8 QR code OpenMoji by @loominade (try it on your mobile) #347
+
+
+--------------------------------------------------------------------------------
+
 ⛱🍉 OpenMoji 13.1 - 29 Jun 2021
 
 Many improvements, fixes and new OpenMojis:
