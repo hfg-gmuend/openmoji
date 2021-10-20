@@ -2845,7 +2845,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🎧️,1F3A7,objects,music,headphone,earbud,"music, headphones",Sina Schulz,2018-04-18,,,,,0.6,3783
 📻️,1F4FB,objects,music,radio,video,"radio, stereo radio, analog radio",Sina Schulz,2018-04-18,,,,,0.6,3784
 🎷,1F3B7,objects,musical-instrument,saxophone,"instrument, music, sax","saxophone, sax, jazz, instrument",Sina Schulz,2018-04-18,,,,,0.6,3785
-🪗,1FA97,objects,musical-instrument,accordion,"concertina, squeeze box",,Liz Bravo,2020-07-21,,,,,13,3786
+🪗,1FA97,objects,musical-instrument,accordion,"accordian, concertina, squeeze box",,Liz Bravo,2020-07-21,,,,,13,3786
 🎸,1F3B8,objects,musical-instrument,guitar,"instrument, music","guitar, e-guitar, instrumental, acoustic, chords,",Sina Schulz,2018-04-18,,,,,0.6,3787
 🎹,1F3B9,objects,musical-instrument,musical keyboard,"instrument, keyboard, music, piano","keyboard, piano keys, chords",Sina Schulz,2018-04-18,,,,,0.6,3788
 🎺,1F3BA,objects,musical-instrument,trumpet,"instrument, music","trumpet, horns, music, woodwind instrument",Sina Schulz,2018-04-18,,,,,0.6,3789
@@ -3797,6 +3797,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E1D6,extras-openmoji,technology,solar cell,,"solar, module, cell, photovoltaic",Kai Magnus Müller,2018-04-18,,,,,,
 ,E1D7,extras-openmoji,technology,circuit,,"circuit, electric, prototype",Kai Magnus Müller,2018-04-18,,,,,,
 ,E1D8,extras-openmoji,technology,qr code,,"scan, tag, matrix, barcode, quick response",Alexander Müller,2021-10-08,,,,,,
+,E1D9,extras-openmoji,technology,barcode,,"scan, tag, machine readable, data",Alexander Müller,2021-10-20,,,,,,
 ,E200,extras-openmoji,travel-places,cafeteria,,,Baris Camli,2018-04-18,,,,,,
 ,E201,extras-openmoji,travel-places,emergency exit,,"alarm, fire, escape, way, route, guidance, signage, run, person, people, humans",Kai Wanschura,2018-04-18,,,,,,
 ,E202,extras-openmoji,travel-places,stairway,,"steps, up, down, ascend, descend, walk",Kai Wanschura,2018-04-18,,,,,,
