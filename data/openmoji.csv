@@ -2506,6 +2506,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🍴,1F374,food-drink,dishware,fork and knife,"cooking, cutlery, fork, knife",eat,Jonas Roßner,2018-04-18,,,,,0.6,3453
 🥄,1F944,food-drink,dishware,spoon,tableware,"metal, spoon, eat",Jonas Roßner,2018-04-18,,,,,3,3454
 🔪,1F52A,food-drink,dishware,kitchen knife,"cooking, hocho, knife, tool, weapon",eat,Jonas Roßner,2018-04-18,,,,,0.6,3455
+🫙,1FAD9,food-drink,dishware,jar,"condiment, container, empty, sauce, store",,Alexander Müller,2021-05-09,,,,,14,3456
 🏺,1F3FA,food-drink,dishware,amphora,"aquarius, cooking, drink, jug, zodiac",,Liz Bravo,2020-12-22,,,,,1,3457
 🌍️,1F30D,travel-places,place-map,globe showing Europe-Africa,"africa, earth, europe, globe, globe showing europe-africa, world","geographic, continent, global, planet",Martin Wehl,2018-04-18,,,,,0.7,3458
 🌎️,1F30E,travel-places,place-map,globe showing Americas,"americas, earth, globe, globe showing americas, world","geographic, continent, global, planet",Martin Wehl,2018-04-18,,,,,0.7,3459
@@ -3880,6 +3881,13 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E267,extras-openmoji,ui-element,,,"write, compose, author",Kai Magnus Müller,2018-04-18,,,,,,
 ,E268,extras-openmoji,ui-element,,,"add, contact",Kai Magnus Müller,2018-04-18,,,,,,
 ,E269,extras-openmoji,ui-element,,,"link, chain",Kai Magnus Müller,2018-04-18,,,,,,
+🫙‍🟥,1FAD9-200D-1F7E5,extras-unicode,food-drink,,,"red potion, health potion, jam, jelly",Alexander Müller,2021-10-22,,,,,?,
+🫙‍🟦,1FAD9-200D-1F7E6,extras-unicode,food-drink,,,"blue potion, magic potion, mana potion, water",Alexander Müller,2021-10-22,,,,,?,
+🫙‍🟧,1FAD9-200D-1F7E7,extras-unicode,food-drink,,,"marmelade, jelly",Alexander Müller,2021-10-22,,,,,?,
+🫙‍🟨,1FAD9-200D-1F7E8,extras-unicode,food-drink,,,"urine, marmelade",Alexander Müller,2021-10-22,,,,,?,
+🫙‍🟩,1FAD9-200D-1F7E9,extras-unicode,food-drink,,,kiwi jam,Alexander Müller,2021-10-22,,,,,?,
+🫙‍🟪,1FAD9-200D-1F7EA,extras-unicode,food-drink,,,"potion of health and magic, jam",Alexander Müller,2021-10-22,,,,,?,
+🫙‍🟫,1FAD9-200D-1F7EB,extras-unicode,food-drink,,,"nutella, peanut butter, nut spread, chocolate",Alexander Müller,2021-10-22,,,,,?,
 🏴󠁣󠁡󠁱󠁣󠁿,1F3F4-E0063-E0061-E0071-E0063-E007F,extras-unicode,subdivision-flag,,,"fleur-de-lis, quebec, canada, province",Denis Blanchette,2021-02-10,,,,,?,
 🏴󠁤󠁥󠁢󠁥󠁿,1F3F4-E0064-E0065-E0062-E0065-E007F,extras-unicode,subdivision-flag,,,"bear, city, capital",Alexander Müller,2020-04-26,,,,,?,
 🏴󠁤󠁥󠁢󠁹󠁿,1F3F4-E0064-E0065-E0062-E0079-E007F,extras-unicode,subdivision-flag,,,"state, lozenge",Manuel Strehl,2020-07-09,,,,,?,
