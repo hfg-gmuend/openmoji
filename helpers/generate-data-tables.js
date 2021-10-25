@@ -52,6 +52,12 @@ _.each(emojibaseData, e => {
       } else {
         s['skintone_combination'] = 'single';
       }
+      // TODO: quickfix of emojibase-data 7.0.0, s.tone should be array [1,4] and not a String e.g. "1,4"
+      if (_.isString(s.tone)) {
+        s['skintone_combination'] = 'multiple';
+      } else {
+        s['skintone_combination'] = 'single';
+      }
       return s;
     })
     emojis = [...emojis, ...skintones];
@@ -77,7 +83,7 @@ emojis = _.map(emojis, e => {
     hexcode: e.hexcode,
     group: groups[e.group],
     subgroups: subgroups[e.subgroup],
-    annotation: e.annotation,
+    annotation: e.label,
     tags: e.tags ? e.tags.join(', ') : '',
     openmoji_tags: enhancements[e.emoji] ? enhancements[e.emoji]['openmoji_tags'] : '',
     openmoji_author: openmoji_author,
@@ -118,7 +124,7 @@ extrasOpenMoji = _.map(extrasOpenMoji, e => {
     hexcode: e.hexcode,
     group: e.group,
     subgroups: e.subgroups,
-    annotation: e.annotation,
+    annotation: e.label,
     tags: '',
     openmoji_tags: e.openmoji_tags,
     openmoji_author: e.openmoji_author,
@@ -140,7 +146,7 @@ extrasUnicode = _.map(extrasUnicode, e => {
     hexcode: e.hexcode,
     group: e.group,
     subgroups: e.subgroups,
-    annotation: e.annotation,
+    annotation: e.label,
     tags: '',
     openmoji_tags: e.openmoji_tags,
     openmoji_author: e.openmoji_author,
