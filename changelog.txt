@@ -6,6 +6,9 @@
 
 OpenMoji 14.0 - XX XXX 2021
 
+Emoji 14:
+  * 1F91D 🤝 Handshake changed to have multiple skintones
+
 New:
   + E1D8 QR code OpenMoji by @loominade (try it on your mobile) #347
   + E1D9 barcode OpenMoji by @loominade
