@@ -52,12 +52,6 @@ _.each(emojibaseData, e => {
       } else {
         s['skintone_combination'] = 'single';
       }
-      // TODO: quickfix of emojibase-data 7.0.0, s.tone should be array [1,4] and not a String e.g. "1,4"
-      if (_.isString(s.tone)) {
-        s['skintone_combination'] = 'multiple';
-      } else {
-        s['skintone_combination'] = 'single';
-      }
       return s;
     })
     emojis = [...emojis, ...skintones];
