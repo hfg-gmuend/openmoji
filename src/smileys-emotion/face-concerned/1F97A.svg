@@ -13,12 +13,12 @@
   </g>
   <g id="line">
     <circle cx="36" cy="36" r="23" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m26.46 46.57c1.877-1.542 5.824-2.494 10-2.415 3.834 0.0726 7.293 1.003 9 2.415"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m29.02 46.68c1.379-1.678 4.279-2.713 7.347-2.628 2.817 0.07899 5.358 1.091 6.612 2.628"/>
     <circle cx="27.56" cy="31.38" r="6.5" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
     <circle cx="44.65" cy="31.38" r="6.5" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
     <path fill-rule="evenodd" d="m27.53 25.77a4.619 4.619 0 0 0-4.592 4.619 4.619 4.619 0 0 0 4.619 4.619 4.619 4.619 0 0 0 4.619-4.619 4.619 4.619 0 0 0-4.619-4.619 4.619 4.619 0 0 0-0.02734 0zm-1.453 1.828a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" paint-order="stroke fill markers"/>
     <path fill-rule="evenodd" d="m44.62 25.77a4.619 4.619 0 0 0-4.592 4.619 4.619 4.619 0 0 0 4.619 4.619 4.619 4.619 0 0 0 4.619-4.619 4.619 4.619 0 0 0-4.619-4.619 4.619 4.619 0 0 0-0.02734 0zm-1.453 1.828a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" paint-order="stroke fill markers"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m52.32 24.93c-1.185-2.421-3-5-9-4"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19.95 24.93c1.185-2.421 3-5 9-4"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m41.31 18.02c1.185 2.421 3 5 9 4"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m30.96 18.02c-1.185 2.421-3 5-9 4"/>
   </g>
 </svg>
