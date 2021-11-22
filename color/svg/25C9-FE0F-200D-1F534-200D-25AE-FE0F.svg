@@ -1,0 +1,22 @@
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="line-supplement">
+    <circle cx="36" cy="40" r="1" fill="#000"/>
+  </g>
+  <g id="color">
+    <rect x="26" y="5" width="20" height="62" fill="#3F3F3F" stroke="#000" stroke-linejoin="round"/>
+    <rect x="26" y="53" width="20" height="14" fill="#9B9B9A"/>
+    <circle cx="36" cy="40" r="8" fill="#D22F27" stroke="#D0CFCE"/>
+    <circle r="4" transform="matrix(-1 0 0 1 36 40)" fill="#EA5A47"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M41 40C41 39.4156 40.8997 38.8546 40.7155 38.3333C40.0291 36.3913 38.177 35 36 35"/>
+    <circle cx="36" cy="40" r="2" fill="#F1B31C"/>
+    <circle cx="36" cy="40" r="1" fill="#FCEA2B"/>
+    <rect x="28" y="7" width="8" height="4" fill="#61B2E4"/>
+  </g>
+  <g id="line">
+    <rect x="26" y="5" width="20" height="62" fill="none" stroke="#000" stroke-linejoin="round"/>
+    <circle cx="36" cy="40" r="7" fill="none" stroke="#000"/>
+    <line x1="27.5" x2="44.5" y1="52.5" y2="52.5" stroke="#000" stroke-linecap="round"/>
+    <rect x="28" y="7" width="16" height="4" fill="none" stroke="#000" stroke-linejoin="round"/>
+    <rect x="26" y="5" width="20" height="62" fill="none" stroke="#000" stroke-linejoin="round"/>
+  </g>
+</svg>
