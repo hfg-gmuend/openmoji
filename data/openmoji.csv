@@ -426,6 +426,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👁️,1F441,people-body,body-parts,eye,body,"eye, face",Julian Grüneberg,2018-04-18,,,,,0.7,493
 👅,1F445,people-body,body-parts,tongue,body,"tongue, kiss, lick, licking",Julian Grüneberg,2018-04-18,,,,,0.6,494
 👄,1F444,people-body,body-parts,mouth,lips,"lips, kiss, mouth",Julian Grüneberg,2018-04-18,,,,,0.6,495
+🫦,1FAE6,people-body,body-parts,biting lip,"anxious, fear, flirting, nervous, uncomfortable, worried",,Alexander Müller,2021-11-27,,,,,14,496
 👶,1F476,people-body,person,baby,young,"human, person",Johanna Wellnitz,2018-04-18,,single,👶,1F476,0.6,497
 👶🏻,1F476-1F3FB,people-body,person,baby: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,👶,1F476,1,498
 👶🏼,1F476-1F3FC,people-body,person,baby: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,👶,1F476,1,499
@@ -3047,6 +3048,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧻,1F9FB,objects,household,roll of paper,"paper towels, toilet paper",isometric,Tonia Reinhardt,2019-05-07,,,,,11,4109
 🪣,1FAA3,objects,household,bucket,"cask, pail, vat",,Liz Bravo,2020-03-26,,,,,13,4110
 🧼,1F9FC,objects,household,soap,"bar, bathing, cleaning, lather, soapdish",,Tonia Reinhardt,2019-05-07,,,,,11,4111
+🫧,1FAE7,objects,household,bubbles,"burp, clean, soap, underwater",,Alexander Müller,2021-11-27,,,,,14,4112
 🪥,1FAA5,objects,household,toothbrush,"bathroom, brush, clean, dental, hygiene, teeth",,Liz Bravo,2020-03-11,,,,,13,4113
 🧽,1F9FD,objects,household,sponge,"absorbing, cleaning, porous",,Tonia Reinhardt,2019-05-07,,,,,11,4114
 🧯,1F9EF,objects,household,fire extinguisher,"extinguish, fire, quench",,Tonia Reinhardt,2019-05-07,,,,,11,4115

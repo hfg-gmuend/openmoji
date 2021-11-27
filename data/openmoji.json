@@ -7259,6 +7259,23 @@
     "order": 495
   },
   {
+    "emoji": "🫦",
+    "hexcode": "1FAE6",
+    "group": "people-body",
+    "subgroups": "body-parts",
+    "annotation": "biting lip",
+    "tags": "anxious, fear, flirting, nervous, uncomfortable, worried",
+    "openmoji_tags": "",
+    "openmoji_author": "Alexander Müller",
+    "openmoji_date": "2021-11-27",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 14,
+    "order": 496
+  },
+  {
     "emoji": "👶",
     "hexcode": "1F476",
     "group": "people-body",
@@ -51814,6 +51831,23 @@
     "skintone_base_hexcode": "",
     "unicode": 11,
     "order": 4111
+  },
+  {
+    "emoji": "🫧",
+    "hexcode": "1FAE7",
+    "group": "objects",
+    "subgroups": "household",
+    "annotation": "bubbles",
+    "tags": "burp, clean, soap, underwater",
+    "openmoji_tags": "",
+    "openmoji_author": "Alexander Müller",
+    "openmoji_date": "2021-11-27",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 14,
+    "order": 4112
   },
   {
     "emoji": "🪥",
