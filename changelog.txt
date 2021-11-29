@@ -9,6 +9,8 @@ OpenMoji 14.0 - XX XXX 2021
 Emoji 14:
   * 1F91D 🤝 Handshake changed to have multiple skintones
   + 1FAD9 Jar by @fuddl #315
+  + 1FAE6 biting lip by @fuddl #364
+  + 1FAE7 bubbles by @fuddl #364
 
 New:
   + E1D8 QR code OpenMoji by @loominade (try it on your mobile) #347
@@ -16,7 +18,7 @@ New:
   + 1FAD9 Jar plus color by @fuddl #315
   + 25AE black vertical rectangle by @fuddl #362
   + 25C9 fisheye by @fuddl #362
-  + 25C9-FE0F-200D-1F534-200D-25AE-FE0F "HAL 9000" in Hommage to 
+  + 25C9-FE0F-200D-1F534-200D-25AE-FE0F "HAL 9000" in Hommage to
     "A Space Odyssey" movie by @fuddl #362
   + 25C9-FE0F-200D-1F534 red eye of HAL 9000 by @fuddl #362
 
