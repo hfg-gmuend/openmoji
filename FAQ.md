@@ -45,7 +45,7 @@ Under the following terms:
 🤔: How can I help or contribute to OpenMoji?
 </summary>
 
-Contributions and help are very welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) guide!
+Contributions and help are very welcome! Please check the [CONTRIBUTING.md](https://github.com/hfg-gmuend/openmoji/blob/master/CONTRIBUTING.md) guide!
 </details>
 
 
