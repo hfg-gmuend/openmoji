@@ -25,6 +25,7 @@ New:
 Fix:
   * 1F414 chicken: fixed white fill #359
   * 1F97A pleading face: now more consistent with other platforms by @mincerafter42 #360
+  * E0A2 E0A3 E0A4 SOS, YES, NO: color shield was not correctly centered by @tmechen #367
 
 --------------------------------------------------------------------------------
 
