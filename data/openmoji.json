@@ -170,6 +170,23 @@
     "order": 10
   },
   {
+    "emoji": "🫠",
+    "hexcode": "1FAE0",
+    "group": "smileys-emotion",
+    "subgroups": "face-smiling",
+    "annotation": "melting face",
+    "tags": "disappear, dissolve, liquid, melt",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2022-02-10",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 14,
+    "order": 11
+  },
+  {
     "emoji": "😉",
     "hexcode": "1F609",
     "group": "smileys-emotion",
@@ -510,6 +527,23 @@
     "order": 32
   },
   {
+    "emoji": "🫢",
+    "hexcode": "1FAE2",
+    "group": "smileys-emotion",
+    "subgroups": "face-hand",
+    "annotation": "face with open eyes and hand over mouth",
+    "tags": "amazement, awe, disbelief, embarrass, scared, surprise",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2022-02-10",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 14,
+    "order": 33
+  },
+  {
     "emoji": "🤫",
     "hexcode": "1F92B",
     "group": "smileys-emotion",
@@ -627,6 +661,23 @@
     "skintone_base_hexcode": "",
     "unicode": 1,
     "order": 42
+  },
+  {
+    "emoji": "🫥",
+    "hexcode": "1FAE5",
+    "group": "smileys-emotion",
+    "subgroups": "face-neutral-skeptical",
+    "annotation": "dotted line face",
+    "tags": "depressed, disappear, hide, introvert, invisible",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2022-02-10",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 14,
+    "order": 43
   },
   {
     "emoji": "😶‍🌫️",
@@ -1156,6 +1207,23 @@
     "order": 75
   },
   {
+    "emoji": "🫤",
+    "hexcode": "1FAE4",
+    "group": "smileys-emotion",
+    "subgroups": "face-concerned",
+    "annotation": "face with diagonal mouth",
+    "tags": "disappointed, meh, skeptical, unsure",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2022-02-10",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 14,
+    "order": 76
+  },
+  {
     "emoji": "😟",
     "hexcode": "1F61F",
     "group": "smileys-emotion",
@@ -1290,6 +1358,23 @@
     "skintone_base_hexcode": "",
     "unicode": 11,
     "order": 85
+  },
+  {
+    "emoji": "🥹",
+    "hexcode": "1F979",
+    "group": "smileys-emotion",
+    "subgroups": "face-concerned",
+    "annotation": "face holding back tears",
+    "tags": "angry, cry, proud, resist, sad",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2022-02-10",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 14,
+    "order": 86
   },
   {
     "emoji": "😦",
@@ -44625,6 +44710,23 @@
     "order": 3595
   },
   {
+    "emoji": "🛟",
+    "hexcode": "1F6DF",
+    "group": "travel-places",
+    "subgroups": "transport-water",
+    "annotation": "ring buoy",
+    "tags": "float, life preserver, life saver, rescue, safety",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2022-02-10",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 14,
+    "order": 3596
+  },
+  {
     "emoji": "⛵️",
     "hexcode": "26F5",
     "group": "travel-places",
@@ -47479,6 +47581,23 @@
     "skintone_base_hexcode": "",
     "unicode": 13,
     "order": 3798
+  },
+  {
+    "emoji": "🪩",
+    "hexcode": "1FAA9",
+    "group": "activities",
+    "subgroups": "game",
+    "annotation": "mirror ball",
+    "tags": "dance, disco, glitter, party",
+    "openmoji_tags": "",
+    "openmoji_author": "Liz Bravo",
+    "openmoji_date": "2022-02-10",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 14,
+    "order": 3799
   },
   {
     "emoji": "🪆",
