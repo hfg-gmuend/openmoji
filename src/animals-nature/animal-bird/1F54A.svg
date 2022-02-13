@@ -14,7 +14,6 @@
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m12.46 27.72"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m38.29 46.13c28.36-0.9149 18.3-37.51 17.38-32.93s-27.44 31.1-30.19 27.44c-2.744-3.659-6.404-4.574-8.233-1.83-1.83 2.744-2.744 3.659-2.744 3.659s5.489-0.9149 6.404 0.9149c0.9149 1.83 3.816 7.833 9.148 8.233 0 0 1.821 0.6215 5.489 8.233 4.277 8.876 21.96 0 16.47-4.574-5.489-4.574-9.148-2.744-11.89-4.574-2.744-1.83-1.83-4.574-1.83-4.574z"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m38.37 26.51c0.3138-7.019-3.262-24.11-6.481-16.06-3.659 9.148-5.489 11.89-5.489 11.89-4.348 4.13-5.957 7.228-6.529 9.162"/>
   </g>
