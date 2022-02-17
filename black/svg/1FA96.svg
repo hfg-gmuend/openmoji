@@ -9,6 +9,6 @@
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M42.1156,32.089s.3991,10.8651-5.8172,15.5623"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M31.2564,48.9821q-.5181-.0081-1.0847.0129c-5.6436.213-10.7778-6.4626-11.2116-7.0408"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M36.2984,47.6513A10.8261,10.8261,0,0,1,44.8631,52.39s2.2657,3.1164,5.7239,2.1147S53.6,56.5634,53.6,56.5634s-.7791,4.4825-5.7319,2.09c0,0-5.4314-3.01-7.739-5.3173a15.6652,15.6652,0,0,0-3.9437-3.2863"/>
-    <rect x="31.2799" y="46.3353" rx="1.6793" width="5.0137" height="5.0137" transform="rotate(-174.74 33.787 48.842)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <rect x="31.2799" y="46.3353" rx="1.6793" width="5.0137" height="5.0137" transform="matrix(-.99579 -.09168 .09168 -.99579 62.954 100.576)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>
