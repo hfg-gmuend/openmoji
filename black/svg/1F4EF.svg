@@ -1,11 +1,8 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M34.8074,55"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.6106,30.6932 C8.0869,28.7456,7.8074,26.8198,7.8074,25h-5c0,6.0533,2.3385,13.15,6.1613,18.9211"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M56.8664,29.4674 C54.0513,19.9468,45.2406,13,34.8074,13c-12.7025,0-23,10.2975-23,23c0,4.7187,1.421,9.1055,3.8584,12.7559"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M25.8074,54.5"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M46.1575,26.1927 C43.407,23.0123,39.3422,21,34.8074,21c-8.2843,0-15,6.7157-15,15c0,2.3463,0.5387,4.5667,1.4991,6.5444"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M51.3351,52.3195"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M47.4032,43.44l0.39-0.59 c1.82-2.72,2.28-6.27,1.26-9.4c0-0.01,0-0.02-0.01-0.03c-0.24-0.75-0.56-1.46-0.98-2.14c-0.13-0.23-0.28-0.46-0.44-0.67 c-0.06-0.1-0.14-0.2-0.21-0.3l0.04-0.03l0.15-0.12l3.19-2.45l7.02,9.12l0.92,1.2l10.43,13.57l-3.38,2.6 c-2.9-3.76-7.88-4.97-12.06-3.25"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.1425" d="M49.8432,54.61 c-14.54,9.47-27.82,2.42-31.8-0.17c-0.61-0.39-0.72-1.22-0.28-1.77c0.02-0.04,0.06-0.08,0.09-0.11l0.47-0.57l3.11-3.74l1.68-2.02 c0.39-0.39,0.99-0.45,1.47-0.18c0.38,0.21,0.77,0.41,1.14,0.6c8.25,3.99,15.14,0.76,17.41-0.57c0.43-0.26,0.97-0.22,1.36,0.08 c0.04,0.03,0.08,0.06,0.12,0.1l0.36,0.43l0.01,0.01l3.09,3.71l1.86,2.23l0.08,0.1c0.02,0.02,0.03,0.03,0.04,0.05 c0.09,0.1,0.16,0.2,0.21,0.32C50.4932,53.63,50.3432,54.28,49.8432,54.61z"/>
   </g>

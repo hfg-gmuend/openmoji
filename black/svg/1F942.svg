@@ -4,9 +4,6 @@
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.9742" d="M57.4035,12.0455L34.4427,17.485"/>
   </g>
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M21.8093,7.0316"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M45.7952,6.3333"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M48.9142,6.3333"/>
     <line x1="15" x2="15" y1="44" y2="67" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
     <line x1="4" x2="26" y1="67" y2="67" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.9742" d="M3.0427,5C3.0168,5.9411,3,6.8895,3,7.85C3,27.2628,8.3726,43,15,43S27,27.2628,27,7.85c0-0.9605-0.0168-1.9089-0.0427-2.85"/>

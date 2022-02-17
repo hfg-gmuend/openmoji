@@ -2,7 +2,6 @@
   <g id="line">
     <circle cx="54.9688" cy="8.0938" r="3" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M49,35l-3.0479,30.0098C45.8408,66.1045,46.5205,67,47.4619,67s1.9492-0.8682,2.2383-1.9297l5.4863-20.1152 c0.2891-1.0615,1.043-2.667,1.6739-3.5674l2.1992-3.1397c0.6308-0.9003,1.1035-2.5371,1.0508-3.6357l-0.4922-10.1191"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M50,24"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M59.1348,38.1406l1.8203,11.5254c0.1709,1.0869,0.7793,2.7451,1.3496,3.6846l4.8242,7.9404 c0.5703,0.9395,0.3633,2.1592-0.4619,2.709c-0.8252,0.5498-2.0342,0.2764-2.6875-0.6094l-5.2686-7.1357 c-0.6533-0.8858-1.5146-2.4483-1.914-3.4727l-2.2031-5.6533"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M59.9248,29.5811L59.292,19.0347C59.1602,16.8389,57.252,15,55.0518,15H55c-2.2002,0-4.2002,1.8306-4.4463,4.0171L50.084,23.23"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M55.167,20l-3.0684,6.4443c-0.4726,0.9932-1.6269,2.2754-2.5654,2.8487l-7.5957,4.6445"/>
