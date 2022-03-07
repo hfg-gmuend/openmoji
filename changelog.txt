@@ -22,12 +22,14 @@ New:
   + 25C9-FE0F-200D-1F534-200D-25AE-FE0F "HAL 9000" in Hommage to
     "A Space Odyssey" movie by @fuddl #362
   + 25C9-FE0F-200D-1F534 red eye of HAL 9000 by @fuddl #362
+  + More open source variants for brands in extras-openmoji/brand:
+    gitlab, mastodon, peertube, pixelfed, signal by Liz Bravo @lizbravob #240
 
 Fix:
   * 1F414 chicken: fixed white fill #359
   * 1F97A pleading face: now more consistent with other platforms by @mincerafter42 #360
   * E0A2 E0A3 E0A4 SOS, YES, NO: color shield was not correctly centered by @tmechen #367
-  * Remove problematic id attributes from certain SVG elements by @RobertWinslow #373 
+  * Remove problematic id attributes from certain SVG elements by @RobertWinslow #373
 
 --------------------------------------------------------------------------------
 
