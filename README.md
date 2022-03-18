@@ -40,7 +40,16 @@ You can download, use and "consume" OpenMoji in various ways:
 - [OpenMoji Stickers](https://itunes.apple.com/us/app/openmoji/id1462636288): for iOS Messages app
 - [OpenMoji Github](https://github.com/hfg-gmuend/openmoji/): `git clone --depth 1 https://github.com/hfg-gmuend/openmoji.git` The OpenMoji repo is big! It is recommended to clone it without the entire history, note the --depth flag.
 - [OpenMoji NPM Package](https://www.npmjs.com/package/openmoji): `npm install openmoji`. You can also get individual files via [UNPKG](https://unpkg.com/) direclty e.g.: unpkg.com/openmoji@12.1.0/color/svg/1F64B.svg
-
+- CDN (will always fetch latest version - to pin to a version, see documentation [here](https://www.jsdelivr.com/features#gh))
+  - color
+    - https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji/color/72x72/1F63A.png
+    - https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji/color/618x618/1F63A.png
+    - https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji/color/svg/1F63A.svg
+  - black
+    - https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji/black/72x72/1F63A.png
+    - https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji/black/618x618/1F63A.png
+    - https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji/black/svg/1F63A.svg
+ 
 **Community Extensions**
 
 - [OpenMoji Jekyll Plugin](https://github.com/azadeh-afzar/OpenMoji-Jekyll-Plugin): `gem install jekyll-openmoji`
