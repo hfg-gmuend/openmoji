@@ -25,6 +25,9 @@ New:
   + More open source variants for brands in extras-openmoji/brand:
     gitlab, mastodon, peertube, pixelfed, signal by Liz Bravo @lizbravob #240
 
+Redesign:
+  * 1F990, 1F422, 1F98B Redesign of shrimp, butterfly, and turtle by @RobertWinslow #383
+
 Fix:
   * 1F414 chicken: fixed white fill #359
   * 1F97A pleading face: now more consistent with other platforms by @mincerafter42 #360
