@@ -18,8 +18,8 @@
     "colorfont"
   ],
   "scripts": {
-    "test": "mocha --reporter progress test/*.js --openmoji-data-json $PWD/data/openmoji.json --openmoji-src-folder $PWD/src",
-    "test-dev": "mocha --reporter min --invert --grep \"production\" test/*.js --openmoji-data-json $PWD/data/openmoji.json --openmoji-src-folder $PWD/src",
+    "test": "mocha --parallel --reporter min test/*.js --openmoji-data-json $PWD/data/openmoji.json --openmoji-src-folder $PWD/src",
+    "test-dev": "mocha --parallel --reporter min --invert --grep \"production\" test/*.js --openmoji-data-json $PWD/data/openmoji.json --openmoji-src-folder $PWD/src",
     "lint-sh": "shellcheck helpers/*.sh",
     "pretty-src-svg": "./helpers/pretty-src-svg.sh",
     "export-svg": "./helpers/export-svg.sh",
@@ -37,7 +37,7 @@
   "repository": "https://github.com/hfg-gmuend/openmoji",
   "license": "CC-BY-SA-4.0",
   "devDependencies": {
-    "chai": "^4.2.0",
+    "chai": "^4.3.6",
     "characterset": "^1.3.0",
     "chroma-js": "^1.4.0",
     "csv-parse": "^2.5.0",
@@ -50,7 +50,7 @@
     "libxmljs": "^0.19.7",
     "lodash": "^4.17.21",
     "mkdirp": "^1.0.3",
-    "mocha": "^5.2.0",
+    "mocha": "^9.2.0",
     "optimist": "^0.6.1",
     "svgo": "^1.3.2"
   }

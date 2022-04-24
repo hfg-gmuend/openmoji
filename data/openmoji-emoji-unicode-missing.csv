@@ -1,11 +1,6 @@
 emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,openmoji_date,skintone,skintone_combination,skintone_base_emoji,skintone_base_hexcode,unicode,order
-🫠,1FAE0,smileys-emotion,face-smiling,melting face,"disappear, dissolve, liquid, melt",,,,,,,,14,11
-🫢,1FAE2,smileys-emotion,face-hand,face with open eyes and hand over mouth,"amazement, awe, disbelief, embarrass, scared, surprise",,,,,,,,14,33
 🫣,1FAE3,smileys-emotion,face-hand,face with peeking eye,"captivated, peep, stare",,,,,,,,14,34
 🫡,1FAE1,smileys-emotion,face-hand,saluting face,"ok, salute, sunny, troops, yes",,,,,,,,14,37
-🫥,1FAE5,smileys-emotion,face-neutral-skeptical,dotted line face,"depressed, disappear, hide, introvert, invisible",,,,,,,,14,43
-🫤,1FAE4,smileys-emotion,face-concerned,face with diagonal mouth,"disappointed, meh, skeptical, unsure",,,,,,,,14,76
-🥹,1F979,smileys-emotion,face-concerned,face holding back tears,"angry, cry, proud, resist, sad",,,,,,,,14,86
 🫱,1FAF1,people-body,hand-fingers-open,rightwards hand,"hand, right, rightward",,,,,single,🫱,1FAF1,14,209
 🫲,1FAF2,people-body,hand-fingers-open,leftwards hand,"hand, left, leftward",,,,,single,🫲,1FAF2,14,215
 🫳,1FAF3,people-body,hand-fingers-open,palm down hand,"dismiss, drop, shoo",,,,,single,🫳,1FAF3,14,221
@@ -25,9 +20,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🫗,1FAD7,food-drink,drink,pouring liquid,"drink, empty, glass, spill",,,,,,,,14,3444
 🛝,1F6DD,travel-places,place-other,playground slide,"amusement park, play",,,,,,,,14,3535
 🛞,1F6DE,travel-places,transport-ground,wheel,"circle, tire, turn",,,,,,,,14,3589
-🛟,1F6DF,travel-places,transport-water,ring buoy,"float, life preserver, life saver, rescue, safety",,,,,,,,14,3596
 🪬,1FAAC,activities,game,hamsa,"amulet, fatima, hand, mary, miriam, protection",,,,,,,,14,3790
-🪩,1FAA9,activities,game,mirror ball,"dance, disco, glitter, party",,,,,,,,14,3799
 🪫,1FAAB,objects,computer,low battery,"electronic, low energy",,,,,,,,14,3908
 🩼,1FA7C,objects,medical,crutch,"cane, disability, hurt, mobility aid, stick",,,,,,,,14,4087
 🩻,1FA7B,objects,medical,x-ray,"bones, doctor, medical, skeleton",,,,,,,,14,4089

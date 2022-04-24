@@ -18,10 +18,10 @@ This GitHub repository contains all of the source files and exported png/svg fil
 
 ## Table of Contents
 
-- [Styleguide](http://openmoji.org/styleguide) our beloved styleguide.
+- [Styleguide](http://openmoji.org/styleguide) Our beloved styleguide.
 - [FAQ](FAQ.md) Check if your question has already been answered
 - [Contributing](CONTRIBUTING.md) Pull Requests are welcome!
-- [Developer Setup](CONTRIBUTING.md#-Developer-Setup) how to setup a environment.
+- [Developer Setup](CONTRIBUTING.md#-Developer-Setup) How to setup a environment.
 - [API](API.md) documentation for the npm OpenMoji package.
 - [Font](font) infos on the OpenMoji-Color and OpenMoji-Black fonts.
 - [Team](http://openmoji.org/about/#team) list of all authors and contributors.
@@ -39,7 +39,8 @@ You can download, use and "consume" OpenMoji in various ways:
 - [OpenMoji app](https://itunes.apple.com/us/app/openmoji/id1462636288): for iOS with emoji picker
 - [OpenMoji Stickers](https://itunes.apple.com/us/app/openmoji/id1462636288): for iOS Messages app
 - [OpenMoji Github](https://github.com/hfg-gmuend/openmoji/): `git clone --depth 1 https://github.com/hfg-gmuend/openmoji.git` The OpenMoji repo is big! It is recommended to clone it without the entire history, note the --depth flag.
-- [OpenMoji NPM Package](https://www.npmjs.com/package/openmoji): `npm install openmoji`. You can also get individual files via [UNPKG](https://unpkg.com/) direclty e.g.: unpkg.com/openmoji@12.1.0/color/svg/1F64B.svg
+- [OpenMoji NPM Package](https://www.npmjs.com/package/openmoji): `npm install openmoji`. You can also get individual files via [UNPKG](https://unpkg.com/) directly e.g.: unpkg.com/openmoji@12.1.0/color/svg/1F64B.svg
+- CDN (will always fetch latest version - to pin to a version, see documentation [here](https://www.jsdelivr.com/features#gh)): cdn.jsdelivr.net/gh/hfg-gmuend/openmoji/color/svg/1F63A.svg
 
 **Community Extensions**
 

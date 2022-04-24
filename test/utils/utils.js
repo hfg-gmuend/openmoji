@@ -3,7 +3,7 @@ const path = require('path');
 const { JSDOM } = require('jsdom');
 const libxmljs = require("libxmljs");
 
-const argv = require('optimist').demand('openmoji-src-folder').argv;
+const argv = require('optimist').default('openmoji-src-folder', './src').argv;
 const openmojiSrcFolder = argv['openmoji-src-folder'];
 
 

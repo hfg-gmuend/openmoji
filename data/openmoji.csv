@@ -9,6 +9,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😂,1F602,smileys-emotion,face-smiling,face with tears of joy,"face, joy, laugh, tear",,Emily Jäger,2018-04-18,,,,,0.6,8
 🙂,1F642,smileys-emotion,face-smiling,slightly smiling face,"face, smile",satisfied,Emily Jäger,2018-04-18,,,,,1,9
 🙃,1F643,smileys-emotion,face-smiling,upside-down face,"face, upside-down",turn,Emily Jäger,2018-04-18,,,,,1,10
+🫠,1FAE0,smileys-emotion,face-smiling,melting face,"disappear, dissolve, liquid, melt",,Liz Bravo,2022-02-10,,,,,14,11
 😉,1F609,smileys-emotion,face-smiling,winking face,"face, wink",eye,Emily Jäger,2018-04-18,,,,,0.6,12
 😊,1F60A,smileys-emotion,face-smiling,smiling face with smiling eyes,"blush, eye, face, smile",satisfied,Emily Jäger,2018-04-18,,,,,0.6,13
 😇,1F607,smileys-emotion,face-smiling,smiling face with halo,"angel, face, fantasy, halo, innocent",,Emily Jäger,2018-04-18,,,,,1,14
@@ -29,6 +30,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🤑,1F911,smileys-emotion,face-tongue,money-mouth face,"face, money, mouth","tongue, dollar",Emily Jäger,2018-04-18,,,,,1,30
 🤗,1F917,smileys-emotion,face-hand,smiling face with open hands,"face, hug, hugging, open hands, smiling face",hands,Emily Jäger,2018-04-18,,,,,1,31
 🤭,1F92D,smileys-emotion,face-hand,face with hand over mouth,whoops,"hand, mouth, smile, giggling, covering",Liz Bravo,2020-12-21,,,,,5,32
+🫢,1FAE2,smileys-emotion,face-hand,face with open eyes and hand over mouth,"amazement, awe, disbelief, embarrass, scared, surprise",,Liz Bravo,2022-02-10,,,,,14,33
 🤫,1F92B,smileys-emotion,face-hand,shushing face,"quiet, shush","hand, silent",Emily Jäger,2018-04-18,,,,,5,35
 🤔,1F914,smileys-emotion,face-hand,thinking face,"face, thinking","hand, overthinking",Emily Jäger,2018-04-18,,,,,1,36
 🤐,1F910,smileys-emotion,face-neutral-skeptical,zipper-mouth face,"face, mouth, zipper",,Emily Jäger,2018-04-18,,,,,1,38
@@ -36,6 +38,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😐️,1F610,smileys-emotion,face-neutral-skeptical,neutral face,"deadpan, face, meh, neutral",,Mariella Steeb,2018-04-18,,,,,0.7,40
 😑,1F611,smileys-emotion,face-neutral-skeptical,expressionless face,"expressionless, face, inexpressive, meh, unexpressive",,Mariella Steeb,2018-04-18,,,,,1,41
 😶,1F636,smileys-emotion,face-neutral-skeptical,face without mouth,"face, mouth, quiet, silent",shhh,Emily Jäger,2018-04-18,,,,,1,42
+🫥,1FAE5,smileys-emotion,face-neutral-skeptical,dotted line face,"depressed, disappear, hide, introvert, invisible",,Liz Bravo,2022-02-10,,,,,14,43
 😶‍🌫️,1F636-200D-1F32B-FE0F,smileys-emotion,face-neutral-skeptical,face in clouds,"absentminded, face in the fog, head in clouds",,Nelly Nieter,2021-04-23,,,,,13.1,44
 😏,1F60F,smileys-emotion,face-neutral-skeptical,smirking face,"face, smirk",,Mariella Steeb,2018-04-18,,,,,0.6,46
 😒,1F612,smileys-emotion,face-neutral-skeptical,unamused face,"face, unamused, unhappy",,Mariella Steeb,2018-04-18,,,,,0.6,47
@@ -67,6 +70,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🤓,1F913,smileys-emotion,face-glasses,nerd face,"face, geek, nerd","glasses, learning",Emily Jäger,2018-04-18,,,,,1,73
 🧐,1F9D0,smileys-emotion,face-glasses,face with monocle,"face, monocle, stuffy","glasses, intelligent",Emily Jäger,2018-04-18,,,,,5,74
 😕,1F615,smileys-emotion,face-concerned,confused face,"confused, face, meh",,Mariella Steeb,2018-04-18,,,,,1,75
+🫤,1FAE4,smileys-emotion,face-concerned,face with diagonal mouth,"disappointed, meh, skeptical, unsure",,Liz Bravo,2022-02-10,,,,,14,76
 😟,1F61F,smileys-emotion,face-concerned,worried face,"face, worried",,Mariella Steeb,2018-04-18,,,,,1,77
 🙁,1F641,smileys-emotion,face-concerned,slightly frowning face,"face, frown",,Mariella Steeb,2018-04-18,,,,,1,78
 ☹️,2639,smileys-emotion,face-concerned,frowning face,"face, frown",negative,Mariella Steeb,2018-04-18,,,,,0.7,80
@@ -75,6 +79,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😲,1F632,smileys-emotion,face-concerned,astonished face,"astonished, face, shocked, totally",,Emily Jäger,2018-04-18,,,,,0.6,83
 😳,1F633,smileys-emotion,face-concerned,flushed face,"dazed, face, flushed",red jaws,Mariella Steeb,2018-04-18,,,,,0.6,84
 🥺,1F97A,smileys-emotion,face-concerned,pleading face,"begging, mercy, puppy eyes",,Antonia Wagner,2019-05-03,,,,,11,85
+🥹,1F979,smileys-emotion,face-concerned,face holding back tears,"angry, cry, proud, resist, sad",,Liz Bravo,2022-02-10,,,,,14,86
 😦,1F626,smileys-emotion,face-concerned,frowning face with open mouth,"face, frown, mouth, open",,Mariella Steeb,2018-04-18,,,,,1,87
 😧,1F627,smileys-emotion,face-concerned,anguished face,"anguished, face",,Mariella Steeb,2018-04-18,,,,,1,88
 😨,1F628,smileys-emotion,face-concerned,fearful face,"face, fear, fearful, scared",,Liz Bravo,2020-12-27,,,,,0.6,89
@@ -2323,7 +2328,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦜,1F99C,animals-nature,animal-bird,parrot,"bird, pirate, talk",,Ricarda Krejci,2019-05-07,,,,,11,3257
 🐸,1F438,animals-nature,animal-amphibian,frog,face,"jump, green",Selina Bauder,2018-04-18,,,,,0.6,3258
 🐊,1F40A,animals-nature,animal-reptile,crocodile,crocodile,dinosaur,Selina Bauder,2018-04-18,,,,,1,3259
-🐢,1F422,animals-nature,animal-reptile,turtle,"terrapin, tortoise","slow, water, sand",Selina Bauder,2018-04-18,,,,,0.6,3260
+🐢,1F422,animals-nature,animal-reptile,turtle,"terrapin, tortoise","slow, water, sand",Robert Winslow,2022-03-29,,,,,0.6,3260
 🦎,1F98E,animals-nature,animal-reptile,lizard,reptile,"fast, small",Selina Bauder,2018-04-18,,,,,3,3261
 🐍,1F40D,animals-nature,animal-reptile,snake,"bearer, ophiuchus, serpent, zodiac","wriggle, fast,",Selina Bauder,2018-04-18,,,,,0.6,3262
 🐲,1F432,animals-nature,animal-reptile,dragon face,"dragon, face, fairy tale","fire, fly",Selina Bauder,2018-04-18,,,,,0.6,3263
@@ -2341,7 +2346,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐙,1F419,animals-nature,animal-marine,octopus,octopus,"swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,3275
 🐚,1F41A,animals-nature,animal-marine,spiral shell,"shell, spiral","beach, sand, water",Selina Bauder,2018-04-18,,,,,0.6,3276
 🐌,1F40C,animals-nature,animal-bug,snail,snail,,Selina Bauder,2018-04-18,,,,,0.6,3278
-🦋,1F98B,animals-nature,animal-bug,butterfly,"insect, pretty",,Selina Bauder,2018-04-18,,,,,3,3279
+🦋,1F98B,animals-nature,animal-bug,butterfly,"insect, pretty",,Robert Winslow,2022-03-29,,,,,3,3279
 🐛,1F41B,animals-nature,animal-bug,bug,insect,,Liz Bravo,2020-12-22,,,,,0.6,3280
 🐜,1F41C,animals-nature,animal-bug,ant,insect,,Selina Bauder,2018-04-18,,,,,0.6,3281
 🐝,1F41D,animals-nature,animal-bug,honeybee,"bee, insect",,Selina Bauder,2018-04-18,,,,,0.6,3282
@@ -2466,7 +2471,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥡,1F961,food-drink,food-asian,takeout box,oyster pail,,Daniel Quiros,2018-11-16,,,,,5,3410
 🦀,1F980,food-drink,food-marine,crab,"cancer, zodiac","cancer, zodiac",Liz Bravo,2021-04-28,,,,,1,3411
 🦞,1F99E,food-drink,food-marine,lobster,"bisque, claws, seafood",,Ricarda Krejci,2019-05-07,,,,,11,3412
-🦐,1F990,food-drink,food-marine,shrimp,"food, shellfish, small","swim, animal, water, food",Selina Bauder,2018-04-18,,,,,3,3413
+🦐,1F990,food-drink,food-marine,shrimp,"food, shellfish, small","swim, animal, water, food",Robert Winslow,2022-03-29,,,,,3,3413
 🦑,1F991,food-drink,food-marine,squid,"food, molusc","swim, animal, water",Selina Bauder,2018-04-18,,,,,3,3414
 🦪,1F9AA,food-drink,food-marine,oyster,"diving, pearl",shell,Liz Bravo,2021-04-28,,,,,12,3415
 🍦,1F366,food-drink,food-sweet,soft ice cream,"cream, dessert, ice, icecream, soft, sweet",,Miriam Vollmeier,2018-04-18,,,,,0.6,3416
@@ -2624,6 +2629,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🛑,1F6D1,travel-places,transport-ground,stop sign,"octagonal, sign, stop","stop, sign, signal, warning",Ronja Bäurlen,2018-04-18,,,,,3,3593
 🚧,1F6A7,travel-places,transport-ground,construction,barrier,"barrier, warning, stop, attention, traffic",Carlin MacKenzie,2020-09-13,,,,,0.6,3594
 ⚓️,2693,travel-places,transport-water,anchor,"ship, tool","boat, ship, travel, sea, atlantic, ocean, water, tool, anchor, metal",Ronja Bäurlen,2018-04-18,,,,,0.6,3595
+🛟,1F6DF,travel-places,transport-water,ring buoy,"float, life preserver, life saver, rescue, safety",,Liz Bravo,2022-02-10,,,,,14,3596
 ⛵️,26F5,travel-places,transport-water,sailboat,"boat, resort, sea, yacht","boat, passengers, ship, travel, sea, atlantic, ocean, water, yacht, resort, sail, sailboat",Ronja Bäurlen,2018-04-18,,,,,0.6,3597
 🛶,1F6F6,travel-places,transport-water,canoe,boat,,Jonas Dunkel,2019-05-07,,,,,3,3598
 🚤,1F6A4,travel-places,transport-water,speedboat,boat,"boat, passengers, ship, travel, sea, atlantic, ocean, water, speed",Ronja Bäurlen,2018-04-18,,,,,0.6,3599
@@ -2792,6 +2798,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧩,1F9E9,activities,game,puzzle piece,"clue, interlocking, jigsaw, piece, puzzle",,Nicole Kornhaas,2019-05-06,,,,,11,3796
 🧸,1F9F8,activities,game,teddy bear,"plaything, plush, stuffed, toy",,Liz Bravo,2020-12-22,,,,,11,3797
 🪅,1FA85,activities,game,piñata,"celebration, party",,Liz Bravo,2020-03-03,,,,,13,3798
+🪩,1FAA9,activities,game,mirror ball,"dance, disco, glitter, party",,Liz Bravo,2022-02-10,,,,,14,3799
 🪆,1FA86,activities,game,nesting dolls,"doll, nesting, russia",,Liz Bravo,2020-03-11,,,,,13,3800
 ♠️,2660,activities,game,spade suit,"card, game",,Nicole Kornhaas,2019-05-06,,,,,0.6,3802
 ♥️,2665,activities,game,heart suit,"card, game",,Nicole Kornhaas,2019-05-06,,,,,0.6,3804
@@ -3581,6 +3588,11 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E056,extras-openmoji,brand,Internet Explorer,,"browser, ie, microsoft",Alexander Müller,2020-11-04,,,,,,
 ,E057,extras-openmoji,brand,Edge,,"browser, microsoft",Alexander Müller,2020-11-04,,,,,,
 ,E058,extras-openmoji,brand,iNaturalist,,"opendata, nature, observation",Alexander Müller,2020-11-04,,,,,,
+,E059,extras-openmoji,brand,gitlab,,"git, code",Liz Bravo,2022-03-07,,,,,,
+,E05A,extras-openmoji,brand,mastodon,,"social media, twitter",Liz Bravo,2022-03-07,,,,,,
+,E05B,extras-openmoji,brand,peertube,,"social media, youtube",Liz Bravo,2022-03-07,,,,,,
+,E05C,extras-openmoji,brand,pixelfed,,"social media, image sharing platform, photo",Liz Bravo,2022-03-07,,,,,,
+,E05D,extras-openmoji,brand,signal,,"social media, messenger, whatsapp, app",Liz Bravo,2022-03-07,,,,,,
 ,E0FF,extras-openmoji,brand,ubuntu,,linux,Alexander Müller,2020-04-26,,,,,,
 ,F000,extras-openmoji,brand,windows,,microsoft,Alexander Müller,2020-04-26,,,,,,
 ,F8FF,extras-openmoji,brand,apple,,"iOS, osx",Alexander Müller,2020-04-26,,,,,,

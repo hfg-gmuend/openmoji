@@ -8,8 +8,6 @@
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.5" d="m25.11 65.95"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m47.06 47.38"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m21.19 27.2c0.7207-1.386 1.928-2.454 3.391-3 1.405-0.7002 3.02-0.8486 4.53-0.4209"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m50.8 27.2c-1.582-2.772-4.804-4.17-7.909-3.431"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m50.24 54.07c5.338-4.212 8.764-10.74 8.764-18.07 0-12.7-10.3-23-23-23-12.7 0-23 10.3-23 23 0 12.7 10.3 23 23 23 0.3675 0 0.7329-0.0086 1.096-0.0257"/>

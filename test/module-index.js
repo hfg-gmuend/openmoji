@@ -1,7 +1,7 @@
 const path = require('path');
 const { expect } = require('chai');
 
-const argv = require('optimist').demand('openmoji-data-json').argv;
+const argv = require('optimist').default('openmoji-data-json', path.join(__dirname, '../data/openmoji.json')).argv;
 const openmojiDataJson = argv['openmoji-data-json'];
 const openmojis = require(openmojiDataJson);
 

@@ -1,9 +1,6 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5597" d="M25.456,30.229"/>
     <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5597" points="20.382,26.3985 14.0939,15.9336 11.0157,14.8931 12.1468,25.0383"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5597" d="M20.5745,27.9556"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5597" d="M12.3393,26.5955"/>
     <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5597" points="44.2447,39.3708 26.1047,22.6204 23.5352,22.5103 33.0704,37.5285"/>
     <ellipse cx="32.4526" cy="44.1922" rx="2" ry="2" transform="matrix(0.3202 -0.9473 0.9473 0.3202 -19.8042 60.7858)" fill="#000000" stroke="none"/>
     <ellipse cx="37.7723" cy="45.7704" rx="2" ry="2" transform="matrix(0.3202 -0.9473 0.9473 0.3202 -17.683 66.8983)" fill="#000000" stroke="none"/>

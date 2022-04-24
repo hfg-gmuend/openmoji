@@ -19,7 +19,6 @@
   <g id="skin"/>
   <g id="skin-shadow"/>
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M7.7037,46.5833"/>
     <rect x="31.4074" y="25.4404" width="4.1482" height="4.5232" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M27.33,25.0298v4.92h-6.81v-4.63c0-1.32,1.08-2.4,2.41-2.4h2.29C26.39,22.9197,27.33,23.8597,27.33,25.0298z"/>
     <rect x="9.56" y="18.6998" width="3.11" height="11.25" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
@@ -27,7 +26,6 @@
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M7.56,37.7298v-6.78c0-0.55,0.45-1,1-1h1"/>
     <line x1="20.52" x2="12.67" y1="29.9498" y2="29.9498" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
     <rect x="53.7037" y="14.9172" width="4.5926" height="3.1852" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M64,41.2135"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M7.7037,44.5833v3.1087c0,0.5523,0.4477,1,1,1h6.2088"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M60.4028,48.692H64c0.5523,0,1-0.4477,1-1v-3.8118"/>
     <line x1="29.8241" x2="32.9907" y1="48.692" y2="48.692" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
