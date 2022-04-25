@@ -335,9 +335,10 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 ,E1D8,extras-openmoji,technology,qr code,"scan, tag, matrix, barcode, quick response",Alexander Müller,2021-10-08
 ,E1D9,extras-openmoji,technology,barcode,"scan, tag, machine readable, data",Alexander Müller,2021-10-20
 ,25C9-FE0F-200D-1F534,extras-openmoji,technology,red eye,"turret, ai, rogue ai, portal",Alexander Müller,2021-10-20
-,25C9-FE0F-200D-1F534-200D-25AE-FE0F,extras-openmoji,technology,HAL 9000,"ai, artificial intelligence, rouge ai, i'm sorry Dave, i'm afraid i can't do that, space odyssey, science fiction, 2001, Stanley Kubrick, movie, film",Alexander Müller,2021-10-20
+,25C9-FE0F-200D-1F534-200D-25AE-FE0F,extras-openmoji,technology,HAL 9000,"ai, artificial intelligence, rogue ai, i'm sorry Dave, i'm afraid i can't do that, space odyssey, science fiction, 2001, Stanley Kubrick, movie, film",Alexander Müller,2021-10-20
 ,E059,extras-openmoji,brand,gitlab,"git, code",Liz Bravo,2022-03-07
 ,E05A,extras-openmoji,brand,mastodon,"social media, twitter",Liz Bravo,2022-03-07
 ,E05B,extras-openmoji,brand,peertube,"social media, youtube",Liz Bravo,2022-03-07
 ,E05C,extras-openmoji,brand,pixelfed,"social media, image sharing platform, photo",Liz Bravo,2022-03-07
 ,E05D,extras-openmoji,brand,signal,"social media, messenger, whatsapp, app",Liz Bravo,2022-03-07
+,E3C0,extras-openmoji,flags,true south (antarctica) flag,"antarctica flag, antarctica, antarctic",Spangle Labs,2022-04-24
