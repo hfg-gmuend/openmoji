@@ -24,7 +24,7 @@ New:
   + 25C9-FE0F-200D-1F534 red eye of HAL 9000 by @fuddl #362
   + More open source variants for brands in extras-openmoji/brand:
     gitlab, mastodon, peertube, pixelfed, signal by Liz Bravo @lizbravob #240
-  + E3C0 true south (antarctica) flag by @SpangleLabs #366
+  + 1F1E6-1F1F6-1F48E true south (antarctica) flag by @SpangleLabs #366
 
 Redesign:
   * 1F990, 1F422, 1F98B Redesign of shrimp, butterfly, and turtle by @RobertWinslow #383
