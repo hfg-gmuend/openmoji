@@ -3103,7 +3103,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🔬,1F52C,objects,science,microscope,"science, tool",,Marleen Heine,2018-11-16,,,,,1,4080
 🔭,1F52D,objects,science,telescope,"science, tool","stars, sky, space",Sina Schulz,2018-04-18,,,,,1,4081
 📡,1F4E1,objects,science,satellite antenna,"antenna, dish, satellite","signal, receive, radiation",Sina Schulz,2018-04-18,,,,,0.6,4082
-💉,1F489,objects,medical,syringe,"medicine, needle, shot, sick","health,needle, injection, IV, drug, medicine",Tonia Reinhardt,2010-01-31,,,,,0.6,4083
+💉,1F489,objects,medical,syringe,"medicine, needle, shot, sick","health, needle, injection, IV, drug, medicine",Tonia Reinhardt,2010-01-31,,,,,0.6,4083
 🩸,1FA78,objects,medical,drop of blood,"bleed, blood donation, injury, medicine, menstruation",,Sam Eckert,2019-05-06,,,,,12,4084
 💊,1F48A,objects,medical,pill,"doctor, medicine, sick",health,Marius Schnabel,2018-04-18,,,,,0.6,4085
 🩹,1FA79,objects,medical,adhesive bandage,bandage,,Sam Eckert,2019-05-06,,,,,12,4086
@@ -3829,10 +3829,10 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E321,extras-openmoji,healthcare,backache,,"spine, ache, lumbar, pain",Fanny Jung,2010-01-31,,,,,,
 ,E322,extras-openmoji,healthcare,joint pain,,"ache, arthritis, strain, cartilage,",Tonia Reinhardt,2010-01-31,,,,,,
 ,E324,extras-openmoji,healthcare,clinical thermometer,,"temperature, fever, mercury, heat",Tonia Reinhardt,2010-01-31,,,,,,
-,E325,extras-openmoji,healthcare,bandage scissors,,"hospital,gauze, dressing",Fanny Jung,2010-01-31,,,,,,
+,E325,extras-openmoji,healthcare,bandage scissors,,"hospital, gauze, dressing",Fanny Jung,2010-01-31,,,,,,
 ,E326,extras-openmoji,healthcare,crutches,,"walk, broken leg, accessibility",Tonia Reinhardt,2010-01-31,,,,,,
 ,E327,extras-openmoji,healthcare,wheel chair,,"accessibility, DACA, disability, mobility",Fanny Jung,2010-01-31,,,,,,
-,E328,extras-openmoji,healthcare,stretcher,,"hospital,ambulance,patient,gurney",Tonia Reinhardt,2010-01-31,,,,,,
+,E328,extras-openmoji,healthcare,stretcher,,"hospital, ambulance, patient, gurney",Tonia Reinhardt,2010-01-31,,,,,,
 ,E329,extras-openmoji,healthcare,ct scan,,"MRI, cat, cancer, tumour",Fanny Jung,2010-01-31,,,,,,
 ,E32B,extras-openmoji,healthcare,scales,,"BMI, weight, mass, heavy",Fanny Jung,2010-01-31,,,,,,
 ,E100,extras-openmoji,interaction,tap,,,Baris Camli,2018-04-18,,,,,,

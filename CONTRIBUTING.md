@@ -26,7 +26,7 @@ Simply send us the source .svg file and the meta informations via email e.g.:
 
 ```csv
 emoji,hexcode,openmoji_tags,openmoji_author
-ℹ️,2139,"advice,info",Jose Avila
+ℹ️,2139,"advice, info",Jose Avila
 ```
 
 You can find the email address at [openmoji.org/about](http://openmoji.org/about/#contact). Thanks 🙏!
