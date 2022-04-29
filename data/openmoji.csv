@@ -238,19 +238,19 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🤙🏽,1F919-1F3FD,people-body,hand-fingers-partial,call me hand: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,🤙,1F919,3,285
 🤙🏾,1F919-1F3FE,people-body,hand-fingers-partial,call me hand: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,🤙,1F919,3,286
 🤙🏿,1F919-1F3FF,people-body,hand-fingers-partial,call me hand: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,🤙,1F919,3,287
-👈️,1F448,people-body,hand-single-finger,backhand index pointing left,"backhand, finger, hand, index, point","backhand, finger, hand, index, point, point, left, Middle Finger, White left",Julian Grüneberg,2018-04-18,,single,👈️,1F448,0.6,288
+👈️,1F448,people-body,hand-single-finger,backhand index pointing left,"backhand, finger, hand, index, point, left","backhand, finger, hand, index, point, left, point left",Julian Grüneberg,2018-04-18,,single,👈️,1F448,0.6,288
 👈🏻,1F448-1F3FB,people-body,hand-single-finger,backhand index pointing left: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,👈️,1F448,1,289
 👈🏼,1F448-1F3FC,people-body,hand-single-finger,backhand index pointing left: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,👈️,1F448,1,290
 👈🏽,1F448-1F3FD,people-body,hand-single-finger,backhand index pointing left: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,👈️,1F448,1,291
 👈🏾,1F448-1F3FE,people-body,hand-single-finger,backhand index pointing left: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,👈️,1F448,1,292
 👈🏿,1F448-1F3FF,people-body,hand-single-finger,backhand index pointing left: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,👈️,1F448,1,293
-👉️,1F449,people-body,hand-single-finger,backhand index pointing right,"backhand, finger, hand, index, point","backhand, finger, hand, index, point, point, right, Middle Finger, White right",Julian Grüneberg,2018-04-18,,single,👉️,1F449,0.6,294
+👉️,1F449,people-body,hand-single-finger,backhand index pointing right,"backhand, finger, hand, index, point, right","backhand, finger, hand, index, point, right, point right",Julian Grüneberg,2018-04-18,,single,👉️,1F449,0.6,294
 👉🏻,1F449-1F3FB,people-body,hand-single-finger,backhand index pointing right: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,👉️,1F449,1,295
 👉🏼,1F449-1F3FC,people-body,hand-single-finger,backhand index pointing right: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,👉️,1F449,1,296
 👉🏽,1F449-1F3FD,people-body,hand-single-finger,backhand index pointing right: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,👉️,1F449,1,297
 👉🏾,1F449-1F3FE,people-body,hand-single-finger,backhand index pointing right: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,👉️,1F449,1,298
 👉🏿,1F449-1F3FF,people-body,hand-single-finger,backhand index pointing right: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,👉️,1F449,1,299
-👆️,1F446,people-body,hand-single-finger,backhand index pointing up,"backhand, finger, hand, point, up","backhand, finger, hand, index, point, up, Middle Finger, White Up",Julian Grüneberg,2018-04-18,,single,👆️,1F446,0.6,300
+👆️,1F446,people-body,hand-single-finger,backhand index pointing up,"backhand, finger, hand, index, point, up","backhand, finger, hand, index, point, up, point up",Julian Grüneberg,2018-04-18,,single,👆️,1F446,0.6,300
 👆🏻,1F446-1F3FB,people-body,hand-single-finger,backhand index pointing up: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,👆️,1F446,1,301
 👆🏼,1F446-1F3FC,people-body,hand-single-finger,backhand index pointing up: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,👆️,1F446,1,302
 👆🏽,1F446-1F3FD,people-body,hand-single-finger,backhand index pointing up: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,👆️,1F446,1,303
@@ -262,7 +262,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🖕🏽,1F595-1F3FD,people-body,hand-single-finger,middle finger: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,🖕,1F595,1,309
 🖕🏾,1F595-1F3FE,people-body,hand-single-finger,middle finger: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,🖕,1F595,1,310
 🖕🏿,1F595-1F3FF,people-body,hand-single-finger,middle finger: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,🖕,1F595,1,311
-👇️,1F447,people-body,hand-single-finger,backhand index pointing down,"backhand, down, finger, hand, point","backhand, down, finger, hand, index, point, point, down, Middle Finger, White down",Julian Grüneberg,2018-04-18,,single,👇️,1F447,0.6,312
+👇️,1F447,people-body,hand-single-finger,backhand index pointing down,"backhand, finger, hand, index, point, down","backhand, finger, hand, index, point, down, point down",Julian Grüneberg,2018-04-18,,single,👇️,1F447,0.6,312
 👇🏻,1F447-1F3FB,people-body,hand-single-finger,backhand index pointing down: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,👇️,1F447,1,313
 👇🏼,1F447-1F3FC,people-body,hand-single-finger,backhand index pointing down: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,👇️,1F447,1,314
 👇🏽,1F447-1F3FD,people-body,hand-single-finger,backhand index pointing down: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,👇️,1F447,1,315
