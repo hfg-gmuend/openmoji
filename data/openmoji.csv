@@ -292,7 +292,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ✊🏽,270A-1F3FD,people-body,hand-fingers-closed,raised fist: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,✊,270A,1,346
 ✊🏾,270A-1F3FE,people-body,hand-fingers-closed,raised fist: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,✊,270A,1,347
 ✊🏿,270A-1F3FF,people-body,hand-fingers-closed,raised fist: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,✊,270A,1,348
-👊,1F44A,people-body,hand-fingers-closed,oncoming fist,"clenched, fist, hand, punch","clenched, fist, hand, punch, fist, oncoming fist, Brofist, Bro, Bump,",Julian Grüneberg,2018-04-18,,single,👊,1F44A,0.6,349
+👊,1F44A,people-body,hand-fingers-closed,oncoming fist,"clenched, fist, hand, punch","clenched, fist, hand, punch, fist, oncoming fist, Brofist, Bro, Bump",Julian Grüneberg,2018-04-18,,single,👊,1F44A,0.6,349
 👊🏻,1F44A-1F3FB,people-body,hand-fingers-closed,oncoming fist: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,👊,1F44A,1,350
 👊🏼,1F44A-1F3FC,people-body,hand-fingers-closed,oncoming fist: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,👊,1F44A,1,351
 👊🏽,1F44A-1F3FD,people-body,hand-fingers-closed,oncoming fist: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,👊,1F44A,1,352
@@ -2330,7 +2330,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐊,1F40A,animals-nature,animal-reptile,crocodile,crocodile,dinosaur,Selina Bauder,2018-04-18,,,,,1,3259
 🐢,1F422,animals-nature,animal-reptile,turtle,"terrapin, tortoise","slow, water, sand",Robert Winslow,2022-03-29,,,,,0.6,3260
 🦎,1F98E,animals-nature,animal-reptile,lizard,reptile,"fast, small",Selina Bauder,2018-04-18,,,,,3,3261
-🐍,1F40D,animals-nature,animal-reptile,snake,"bearer, ophiuchus, serpent, zodiac","wriggle, fast,",Selina Bauder,2018-04-18,,,,,0.6,3262
+🐍,1F40D,animals-nature,animal-reptile,snake,"bearer, ophiuchus, serpent, zodiac","wriggle, fast",Selina Bauder,2018-04-18,,,,,0.6,3262
 🐲,1F432,animals-nature,animal-reptile,dragon face,"dragon, face, fairy tale","fire, fly",Selina Bauder,2018-04-18,,,,,0.6,3263
 🐉,1F409,animals-nature,animal-reptile,dragon,fairy tale,"fire, fly",Selina Bauder,2018-04-18,,,,,1,3264
 🦕,1F995,animals-nature,animal-reptile,sauropod,"brachiosaurus, brontosaurus, diplodocus",dinosaur,Selina Bauder,2018-04-18,,,,,5,3265
@@ -2362,7 +2362,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🪱,1FAB1,animals-nature,animal-bug,worm,"annelid, earthworm, parasite",,Liz Bravo,2020-03-07,,,,,13,3294
 🦠,1F9A0,animals-nature,animal-bug,microbe,"amoeba, bacteria, virus","corona, virus, COVID-19",Benedikt Groß,2020-07-07,,,,,11,3295
 💐,1F490,animals-nature,plant-flower,bouquet,flower,"present, flower, tulip, bouquet",Liz Bravo,2021-05-04,,,,,0.6,3296
-🌸,1F338,animals-nature,plant-flower,cherry blossom,"blossom, cherry, flower","pink,",Hilda Kalyoncu,2018-04-18,,,,,0.6,3297
+🌸,1F338,animals-nature,plant-flower,cherry blossom,"blossom, cherry, flower",pink,Hilda Kalyoncu,2018-04-18,,,,,0.6,3297
 💮,1F4AE,animals-nature,plant-flower,white flower,flower,,Ricarda Krejci,2019-05-07,,,,,0.6,3298
 🏵️,1F3F5,animals-nature,plant-flower,rosette,plant,,Ricarda Krejci,2019-05-07,,,,,0.7,3301
 🌹,1F339,animals-nature,plant-flower,rose,flower,"rose, red, nature, present, valentines day",Hilda Kalyoncu,2018-04-18,,,,,0.6,3302
@@ -2500,7 +2500,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🍹,1F379,food-drink,drink,tropical drink,"bar, drink, tropical","cocktail, glass, drink, party, summer, party",Laura Humpfer,2018-04-18,,,,,0.6,3439
 🍺,1F37A,food-drink,drink,beer mug,"bar, beer, drink, mug","beer, german, alcohol, bavaria, party",Laura Humpfer,2018-04-18,,,,,0.6,3440
 🍻,1F37B,food-drink,drink,clinking beer mugs,"bar, beer, clink, drink, mug","beer, german, party, alcohol, bavaria, party",Laura Humpfer,2018-04-18,,,,,0.6,3441
-🥂,1F942,food-drink,drink,clinking glasses,"celebrate, clink, drink, glass","party, secco,",Laura Humpfer,2018-04-18,,,,,3,3442
+🥂,1F942,food-drink,drink,clinking glasses,"celebrate, clink, drink, glass","party, secco",Laura Humpfer,2018-04-18,,,,,3,3442
 🥃,1F943,food-drink,drink,tumbler glass,"glass, liquor, shot, tumbler, whisky","alcohol, classic",Laura Humpfer,2018-04-18,,,,,3,3443
 🥤,1F964,food-drink,drink,cup with straw,"juice, soda","beverage, fastfood",Laura Humpfer,2018-04-18,,,,,5,3445
 🧋,1F9CB,food-drink,drink,bubble tea,"bubble, milk, pearl, tea",,Liz Bravo,2020-07-21,,,,,13,3446
@@ -2610,7 +2610,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🚜,1F69C,travel-places,transport-ground,tractor,vehicle,"tractor, towing, vehicle, farm, farming, field, acre",Ronja Bäurlen,2018-04-18,,,,,1,3568
 🏎️,1F3CE,travel-places,transport-ground,racing car,"car, racing","sports, motor",Johanna Wellnitz,2018-04-18,,,,,0.7,3570
 🏍️,1F3CD,travel-places,transport-ground,motorcycle,racing,"motorsports, vehicle",Johanna Wellnitz,2018-04-18,,,,,0.7,3572
-🛵,1F6F5,travel-places,transport-ground,motor scooter,"motor, scooter","motor, scooter, transportation, bicycle,",Ronja Bäurlen,2018-04-18,,,,,3,3573
+🛵,1F6F5,travel-places,transport-ground,motor scooter,"motor, scooter","motor, scooter, transportation, bicycle",Ronja Bäurlen,2018-04-18,,,,,3,3573
 🦽,1F9BD,travel-places,transport-ground,manual wheelchair,accessibility,,Evelyn Soos,2019-05-04,,,,,12,3574
 🦼,1F9BC,travel-places,transport-ground,motorized wheelchair,accessibility,,Evelyn Soos,2019-05-04,,,,,12,3575
 🛺,1F6FA,travel-places,transport-ground,auto rickshaw,tuk tuk,,Evelyn Soos,2019-05-04,,,,,12,3576
@@ -2654,7 +2654,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧳,1F9F3,travel-places,hotel,luggage,"packing, travel",,Jonas Dunkel,2019-05-07,,,,,11,3625
 ⌛️,231B,travel-places,time,hourglass done,"sand, timer","countdown, hourglass",Rana Cakir,2018-04-18,,,,,0.6,3626
 ⏳️,23F3,travel-places,time,hourglass not done,"hourglass, sand, timer",,Rana Cakir,2018-04-18,,,,,0.6,3627
-⌚️,231A,travel-places,time,watch,clock,"watch, time,",Rana Cakir,2018-04-18,,,,,0.6,3628
+⌚️,231A,travel-places,time,watch,clock,"watch, time",Rana Cakir,2018-04-18,,,,,0.6,3628
 ⏰,23F0,travel-places,time,alarm clock,"alarm, clock",,Rana Cakir,2018-04-18,,,,,0.6,3629
 ⏱️,23F1,travel-places,time,stopwatch,clock,,Rana Cakir,2018-04-18,,,,,1,3631
 ⏲️,23F2,travel-places,time,timer clock,"clock, timer",time,Rana Cakir,2018-04-18,,,,,1,3633
@@ -2833,13 +2833,13 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🩱,1FA71,objects,clothing,one-piece swimsuit,bathing suit,,Sam Eckert,2019-05-06,,,,,12,3838
 🩲,1FA72,objects,clothing,briefs,"bathing suit, one-piece, swimsuit, underwear",,Sam Eckert,2019-05-06,,,,,12,3839
 🩳,1FA73,objects,clothing,shorts,"bathing suit, pants, underwear",,Sam Eckert,2019-05-06,,,,,12,3840
-👙,1F459,objects,clothing,bikini,"clothing, swim","summer,",Jonas Roßner,2018-04-18,,,,,0.6,3841
+👙,1F459,objects,clothing,bikini,"clothing, swim",summer,Jonas Roßner,2018-04-18,,,,,0.6,3841
 👚,1F45A,objects,clothing,woman’s clothes,"clothing, woman",,Jonas Roßner,2018-04-18,,,,,0.6,3842
-👛,1F45B,objects,clothing,purse,"clothing, coin","money,",Jonas Roßner,2018-04-18,,,,,0.6,3843
+👛,1F45B,objects,clothing,purse,"clothing, coin",money,Jonas Roßner,2018-04-18,,,,,0.6,3843
 👜,1F45C,objects,clothing,handbag,"bag, clothing, purse",,Jonas Roßner,2018-04-18,,,,,0.6,3844
 👝,1F45D,objects,clothing,clutch bag,"bag, clothing, pouch",,Jonas Roßner,2018-04-18,,,,,0.6,3845
-🛍️,1F6CD,objects,clothing,shopping bags,"bag, hotel, shopping","buy,",Jonas Roßner,2018-04-18,,,,,0.7,3847
-🎒,1F392,objects,clothing,backpack,"bag, rucksack, satchel, school","young,",Jonas Roßner,2018-04-18,,,,,0.6,3848
+🛍️,1F6CD,objects,clothing,shopping bags,"bag, hotel, shopping",buy,Jonas Roßner,2018-04-18,,,,,0.7,3847
+🎒,1F392,objects,clothing,backpack,"bag, rucksack, satchel, school",young,Jonas Roßner,2018-04-18,,,,,0.6,3848
 🩴,1FA74,objects,clothing,thong sandal,"beach sandals, sandals, thong sandals, thongs, zōri",,Liz Bravo,2020-03-11,,,,,13,3849
 👞,1F45E,objects,clothing,man’s shoe,"clothing, man, shoe",,Jonas Roßner,2018-04-18,,,,,0.6,3850
 👟,1F45F,objects,clothing,running shoe,"athletic, clothing, shoe, sneaker",,Jonas Roßner,2018-04-18,,,,,0.6,3851
@@ -2849,9 +2849,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👡,1F461,objects,clothing,woman’s sandal,"clothing, sandal, shoe, woman",,Jonas Roßner,2018-04-18,,,,,0.6,3855
 🩰,1FA70,objects,clothing,ballet shoes,"ballet, dance",,Sam Eckert,2019-05-06,,,,,12,3856
 👢,1F462,objects,clothing,woman’s boot,"boot, clothing, shoe, woman",,Jonas Roßner,2018-04-18,,,,,0.6,3857
-👑,1F451,objects,clothing,crown,"clothing, king, queen","crone, gold,",Jonas Roßner,2018-04-18,,,,,0.6,3858
-👒,1F452,objects,clothing,woman’s hat,"clothing, hat, woman","beautiful,",Jonas Roßner,2018-04-18,,,,,0.6,3859
-🎩,1F3A9,objects,clothing,top hat,"clothing, hat, top, tophat","magic,",Jonas Roßner,2018-04-18,,,,,0.6,3860
+👑,1F451,objects,clothing,crown,"clothing, king, queen","crone, gold",Jonas Roßner,2018-04-18,,,,,0.6,3858
+👒,1F452,objects,clothing,woman’s hat,"clothing, hat, woman",beautiful,Jonas Roßner,2018-04-18,,,,,0.6,3859
+🎩,1F3A9,objects,clothing,top hat,"clothing, hat, top, tophat",magic,Jonas Roßner,2018-04-18,,,,,0.6,3860
 🎓️,1F393,objects,clothing,graduation cap,"cap, celebration, clothing, graduation, hat",,Jonas Roßner,2018-04-18,,,,,0.6,3861
 🧢,1F9E2,objects,clothing,billed cap,baseball cap,,Daniel Quiros,2018-11-16,,,,,5,3862
 🪖,1FA96,objects,clothing,military helmet,"army, helmet, military, soldier, warrior",,Liz Bravo,2020-09-26,,,,,13,3863
@@ -2859,7 +2859,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📿,1F4FF,objects,clothing,prayer beads,"beads, clothing, necklace, prayer, religion","expensive, jewelry",Jonas Roßner,2018-04-18,,,,,1,3866
 💄,1F484,objects,clothing,lipstick,"cosmetics, makeup",,Anne Frauendorf,2018-11-16,,,,,0.6,3867
 💍,1F48D,objects,clothing,ring,diamond,"expensive, jewelry",Jonas Roßner,2018-04-18,,,,,0.6,3868
-💎,1F48E,objects,clothing,gem stone,"diamond, gem, jewel","expensive,",Jonas Roßner,2018-04-18,,,,,0.6,3869
+💎,1F48E,objects,clothing,gem stone,"diamond, gem, jewel",expensive,Jonas Roßner,2018-04-18,,,,,0.6,3869
 🔇,1F507,objects,sound,muted speaker,"mute, quiet, silent, speaker",,Rana Cakir,2018-04-18,,,,,1,3870
 🔈️,1F508,objects,sound,speaker low volume,soft,sound,Rana Cakir,2018-04-18,,,,,0.7,3871
 🔉,1F509,objects,sound,speaker medium volume,medium,,Rana Cakir,2018-04-18,,,,,1,3872
@@ -2880,7 +2880,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📻️,1F4FB,objects,music,radio,video,"radio, stereo radio, analog radio",Sina Schulz,2018-04-18,,,,,0.6,3890
 🎷,1F3B7,objects,musical-instrument,saxophone,"instrument, music, sax","saxophone, sax, jazz, instrument",Sina Schulz,2018-04-18,,,,,0.6,3891
 🪗,1FA97,objects,musical-instrument,accordion,"concertina, squeeze box",,Liz Bravo,2020-07-21,,,,,13,3892
-🎸,1F3B8,objects,musical-instrument,guitar,"instrument, music","guitar, e-guitar, instrumental, acoustic, chords,",Sina Schulz,2018-04-18,,,,,0.6,3893
+🎸,1F3B8,objects,musical-instrument,guitar,"instrument, music","guitar, e-guitar, instrumental, acoustic, chords",Sina Schulz,2018-04-18,,,,,0.6,3893
 🎹,1F3B9,objects,musical-instrument,musical keyboard,"instrument, keyboard, music, piano","keyboard, piano keys, chords",Sina Schulz,2018-04-18,,,,,0.6,3894
 🎺,1F3BA,objects,musical-instrument,trumpet,"instrument, music","trumpet, horns, music, woodwind instrument",Sina Schulz,2018-04-18,,,,,0.6,3895
 🎻,1F3BB,objects,musical-instrument,violin,"instrument, music","string, violin, fiddle, bow",Sina Schulz,2018-04-18,,,,,0.6,3896
@@ -2903,7 +2903,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🖲️,1F5B2,objects,computer,trackball,computer,,Nicole Kornhaas,2019-05-06,,,,,0.7,3920
 💽,1F4BD,objects,computer,computer disk,"computer, disk, minidisk, optical","old, retro",Jonas Roßner,2018-04-18,,,,,0.6,3921
 💾,1F4BE,objects,computer,floppy disk,"computer, disk, floppy","old, retro",Jonas Roßner,2018-04-18,,,,,0.6,3922
-💿️,1F4BF,objects,computer,optical disk,"cd, computer, disk, optical","analog,",Jonas Roßner,2018-04-18,,,,,0.6,3923
+💿️,1F4BF,objects,computer,optical disk,"cd, computer, disk, optical",analog,Jonas Roßner,2018-04-18,,,,,0.6,3923
 📀,1F4C0,objects,computer,dvd,"blu-ray, computer, disk, optical",film,Jonas Roßner,2018-04-18,,,,,0.6,3924
 🧮,1F9EE,objects,computer,abacus,calculation,,Nicole Kornhaas,2019-05-06,,,,,11,3925
 🎥,1F3A5,objects,light-video,movie camera,"camera, cinema, movie","film, record",Sina Schulz,2018-04-18,,,,,0.6,3926
@@ -2937,8 +2937,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📰,1F4F0,objects,book-paper,newspaper,"news, paper","read, news, paper, text",Jonas Roßner,2018-04-18,,,,,0.6,3957
 🗞️,1F5DE,objects,book-paper,rolled-up newspaper,"news, newspaper, paper, rolled",,Tonia Reinhardt,2019-05-07,,,,,0.7,3959
 📑,1F4D1,objects,book-paper,bookmark tabs,"bookmark, mark, marker, tabs",,Abby Esquivel,2018-11-16,,,,,0.6,3960
-🔖,1F516,objects,book-paper,bookmark,mark,"remember,",Jonas Roßner,2018-04-18,,,,,0.6,3961
-🏷️,1F3F7,objects,book-paper,label,label,"stick,",Jonas Roßner,2018-04-18,,,,,0.7,3963
+🔖,1F516,objects,book-paper,bookmark,mark,remember,Jonas Roßner,2018-04-18,,,,,0.6,3961
+🏷️,1F3F7,objects,book-paper,label,label,stick,Jonas Roßner,2018-04-18,,,,,0.7,3963
 💰️,1F4B0,objects,money,money bag,"bag, dollar, money, moneybag",,Marius Schnabel,2018-04-18,,,,,0.6,3964
 🪙,1FA99,objects,money,coin,"gold, metal, money, silver, treasure",,Liz Bravo,2020-07-21,,,,,13,3965
 💴,1F4B4,objects,money,yen banknote,"banknote, bill, currency, money, note, yen",,Marius Schnabel,2018-04-18,,,,,0.6,3966
@@ -3189,7 +3189,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ✅,2705,symbols,other-symbol,check mark button,"button, check, mark, ✓","check, mark, white, right",Hilda Kalyoncu,2018-04-18,,,,,0.6,4293
 ☑️,2611,symbols,other-symbol,check box with check,"box, check, ✓","check, right, box",Hilda Kalyoncu,2018-04-18,,,,,0.6,4295
 ✔️,2714,symbols,other-symbol,check mark,"check, mark, ✓","check, mark, right, todo",Carlin MacKenzie,2020-05-12,,,,,0.6,4297
-❌,274C,symbols,other-symbol,cross mark,"cancel, cross, mark, multiplication, multiply, x, ×","cancel, wrong, multiply, x,",Hilda Kalyoncu,2018-04-18,,,,,0.6,4298
+❌,274C,symbols,other-symbol,cross mark,"cancel, cross, mark, multiplication, multiply, x, ×","cancel, wrong, multiply, x",Hilda Kalyoncu,2018-04-18,,,,,0.6,4298
 ❎,274E,symbols,other-symbol,cross mark button,"mark, square, x, ×","mark, square, button",Hilda Kalyoncu,2018-04-18,,,,,0.6,4299
 ➰,27B0,symbols,other-symbol,curly loop,"curl, loop",,Selina Lange,2019-05-06,,,,,0.6,4300
 ➿,27BF,symbols,other-symbol,double curly loop,"curl, double, loop",,Selina Lange,2019-05-06,,,,,1,4301
