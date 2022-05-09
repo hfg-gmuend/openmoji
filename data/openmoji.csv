@@ -31,8 +31,10 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🤗,1F917,smileys-emotion,face-hand,smiling face with open hands,"face, hug, hugging, open hands, smiling face",hands,Emily Jäger,2018-04-18,,,,,1,31
 🤭,1F92D,smileys-emotion,face-hand,face with hand over mouth,whoops,"hand, mouth, smile, giggling, covering",Liz Bravo,2020-12-21,,,,,5,32
 🫢,1FAE2,smileys-emotion,face-hand,face with open eyes and hand over mouth,"amazement, awe, disbelief, embarrass, scared, surprise",,Liz Bravo,2022-02-10,,,,,14,33
+🫣,1FAE3,smileys-emotion,face-hand,face with peeking eye,"captivated, peep, stare",,Robin Bauer,2022-05-09,,,,,14,34
 🤫,1F92B,smileys-emotion,face-hand,shushing face,"quiet, shush","hand, silent",Emily Jäger,2018-04-18,,,,,5,35
 🤔,1F914,smileys-emotion,face-hand,thinking face,"face, thinking","hand, overthinking",Emily Jäger,2018-04-18,,,,,1,36
+🫡,1FAE1,smileys-emotion,face-hand,saluting face,"ok, salute, sunny, troops, yes",,Alan Seng,2022-05-09,,,,,14,37
 🤐,1F910,smileys-emotion,face-neutral-skeptical,zipper-mouth face,"face, mouth, zipper",,Emily Jäger,2018-04-18,,,,,1,38
 🤨,1F928,smileys-emotion,face-neutral-skeptical,face with raised eyebrow,"distrust, skeptic",suspiciously,Emily Jäger,2018-04-18,,,,,5,39
 😐️,1F610,smileys-emotion,face-neutral-skeptical,neutral face,"deadpan, face, meh, neutral",,Mariella Steeb,2018-04-18,,,,,0.7,40
@@ -190,6 +192,30 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🖖🏽,1F596-1F3FD,people-body,hand-fingers-open,vulcan salute: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,🖖,1F596,1,206
 🖖🏾,1F596-1F3FE,people-body,hand-fingers-open,vulcan salute: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,🖖,1F596,1,207
 🖖🏿,1F596-1F3FF,people-body,hand-fingers-open,vulcan salute: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,🖖,1F596,1,208
+🫱,1FAF1,people-body,hand-fingers-open,rightwards hand,"hand, right, rightward",,Pia Stockhaus,2022-05-09,,single,🫱,1FAF1,14,209
+🫱🏻,1FAF1-1F3FB,people-body,hand-fingers-open,rightwards hand: light skin tone,,,Pia Stockhaus,2022-05-09,1,single,🫱,1FAF1,14,210
+🫱🏼,1FAF1-1F3FC,people-body,hand-fingers-open,rightwards hand: medium-light skin tone,,,Pia Stockhaus,2022-05-09,2,single,🫱,1FAF1,14,211
+🫱🏽,1FAF1-1F3FD,people-body,hand-fingers-open,rightwards hand: medium skin tone,,,Pia Stockhaus,2022-05-09,3,single,🫱,1FAF1,14,212
+🫱🏾,1FAF1-1F3FE,people-body,hand-fingers-open,rightwards hand: medium-dark skin tone,,,Pia Stockhaus,2022-05-09,4,single,🫱,1FAF1,14,213
+🫱🏿,1FAF1-1F3FF,people-body,hand-fingers-open,rightwards hand: dark skin tone,,,Pia Stockhaus,2022-05-09,5,single,🫱,1FAF1,14,214
+🫲,1FAF2,people-body,hand-fingers-open,leftwards hand,"hand, left, leftward",,Pia Stockhaus,2022-05-09,,single,🫲,1FAF2,14,215
+🫲🏻,1FAF2-1F3FB,people-body,hand-fingers-open,leftwards hand: light skin tone,,,Pia Stockhaus,2022-05-09,1,single,🫲,1FAF2,14,216
+🫲🏼,1FAF2-1F3FC,people-body,hand-fingers-open,leftwards hand: medium-light skin tone,,,Pia Stockhaus,2022-05-09,2,single,🫲,1FAF2,14,217
+🫲🏽,1FAF2-1F3FD,people-body,hand-fingers-open,leftwards hand: medium skin tone,,,Pia Stockhaus,2022-05-09,3,single,🫲,1FAF2,14,218
+🫲🏾,1FAF2-1F3FE,people-body,hand-fingers-open,leftwards hand: medium-dark skin tone,,,Pia Stockhaus,2022-05-09,4,single,🫲,1FAF2,14,219
+🫲🏿,1FAF2-1F3FF,people-body,hand-fingers-open,leftwards hand: dark skin tone,,,Pia Stockhaus,2022-05-09,5,single,🫲,1FAF2,14,220
+🫳,1FAF3,people-body,hand-fingers-open,palm down hand,"dismiss, drop, shoo",,Pia Stockhaus,2022-05-09,,single,🫳,1FAF3,14,221
+🫳🏻,1FAF3-1F3FB,people-body,hand-fingers-open,palm down hand: light skin tone,,,Pia Stockhaus,2022-05-09,1,single,🫳,1FAF3,14,222
+🫳🏼,1FAF3-1F3FC,people-body,hand-fingers-open,palm down hand: medium-light skin tone,,,Pia Stockhaus,2022-05-09,2,single,🫳,1FAF3,14,223
+🫳🏽,1FAF3-1F3FD,people-body,hand-fingers-open,palm down hand: medium skin tone,,,Pia Stockhaus,2022-05-09,3,single,🫳,1FAF3,14,224
+🫳🏾,1FAF3-1F3FE,people-body,hand-fingers-open,palm down hand: medium-dark skin tone,,,Pia Stockhaus,2022-05-09,4,single,🫳,1FAF3,14,225
+🫳🏿,1FAF3-1F3FF,people-body,hand-fingers-open,palm down hand: dark skin tone,,,Pia Stockhaus,2022-05-09,5,single,🫳,1FAF3,14,226
+🫴,1FAF4,people-body,hand-fingers-open,palm up hand,"beckon, catch, come, offer",,Pia Stockhaus,2022-05-09,,single,🫴,1FAF4,14,227
+🫴🏻,1FAF4-1F3FB,people-body,hand-fingers-open,palm up hand: light skin tone,,,Pia Stockhaus,2022-05-09,1,single,🫴,1FAF4,14,228
+🫴🏼,1FAF4-1F3FC,people-body,hand-fingers-open,palm up hand: medium-light skin tone,,,Pia Stockhaus,2022-05-09,2,single,🫴,1FAF4,14,229
+🫴🏽,1FAF4-1F3FD,people-body,hand-fingers-open,palm up hand: medium skin tone,,,Pia Stockhaus,2022-05-09,3,single,🫴,1FAF4,14,230
+🫴🏾,1FAF4-1F3FE,people-body,hand-fingers-open,palm up hand: medium-dark skin tone,,,Pia Stockhaus,2022-05-09,4,single,🫴,1FAF4,14,231
+🫴🏿,1FAF4-1F3FF,people-body,hand-fingers-open,palm up hand: dark skin tone,,,Pia Stockhaus,2022-05-09,5,single,🫴,1FAF4,14,232
 👌,1F44C,people-body,hand-fingers-partial,OK hand,"hand, ok","hand, ok, okay, perfect",Julian Grüneberg,2018-04-18,,single,👌,1F44C,0.6,233
 👌🏻,1F44C-1F3FB,people-body,hand-fingers-partial,OK hand: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,👌,1F44C,1,234
 👌🏼,1F44C-1F3FC,people-body,hand-fingers-partial,OK hand: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,👌,1F44C,1,235
@@ -220,6 +246,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🤞🏽,1F91E-1F3FD,people-body,hand-fingers-partial,crossed fingers: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,🤞,1F91E,3,261
 🤞🏾,1F91E-1F3FE,people-body,hand-fingers-partial,crossed fingers: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,🤞,1F91E,3,262
 🤞🏿,1F91E-1F3FF,people-body,hand-fingers-partial,crossed fingers: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,🤞,1F91E,3,263
+🫰,1FAF0,people-body,hand-fingers-partial,hand with index finger and thumb crossed,"expensive, heart, love, money, snap",,Niklas Kuntz,2022-05-09,,single,🫰,1FAF0,14,264
+🫰🏻,1FAF0-1F3FB,people-body,hand-fingers-partial,hand with index finger and thumb crossed: light skin tone,,,Niklas Kuntz,2022-05-09,1,single,🫰,1FAF0,14,265
+🫰🏼,1FAF0-1F3FC,people-body,hand-fingers-partial,hand with index finger and thumb crossed: medium-light skin tone,,,Niklas Kuntz,2022-05-09,2,single,🫰,1FAF0,14,266
+🫰🏽,1FAF0-1F3FD,people-body,hand-fingers-partial,hand with index finger and thumb crossed: medium skin tone,,,Niklas Kuntz,2022-05-09,3,single,🫰,1FAF0,14,267
+🫰🏾,1FAF0-1F3FE,people-body,hand-fingers-partial,hand with index finger and thumb crossed: medium-dark skin tone,,,Niklas Kuntz,2022-05-09,4,single,🫰,1FAF0,14,268
+🫰🏿,1FAF0-1F3FF,people-body,hand-fingers-partial,hand with index finger and thumb crossed: dark skin tone,,,Niklas Kuntz,2022-05-09,5,single,🫰,1FAF0,14,269
 🤟,1F91F,people-body,hand-fingers-partial,love-you gesture,"hand, ily","hand, love, heavy metal",Julian Grüneberg,2018-04-18,,single,🤟,1F91F,5,270
 🤟🏻,1F91F-1F3FB,people-body,hand-fingers-partial,love-you gesture: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,🤟,1F91F,5,271
 🤟🏼,1F91F-1F3FC,people-body,hand-fingers-partial,love-you gesture: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,🤟,1F91F,5,272
@@ -238,19 +270,19 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🤙🏽,1F919-1F3FD,people-body,hand-fingers-partial,call me hand: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,🤙,1F919,3,285
 🤙🏾,1F919-1F3FE,people-body,hand-fingers-partial,call me hand: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,🤙,1F919,3,286
 🤙🏿,1F919-1F3FF,people-body,hand-fingers-partial,call me hand: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,🤙,1F919,3,287
-👈️,1F448,people-body,hand-single-finger,backhand index pointing left,"backhand, finger, hand, index, point, left","backhand, finger, hand, index, point, left, point left",Julian Grüneberg,2018-04-18,,single,👈️,1F448,0.6,288
+👈️,1F448,people-body,hand-single-finger,backhand index pointing left,"backhand, finger, hand, index, point","backhand, finger, hand, index, point, left, point left",Julian Grüneberg,2018-04-18,,single,👈️,1F448,0.6,288
 👈🏻,1F448-1F3FB,people-body,hand-single-finger,backhand index pointing left: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,👈️,1F448,1,289
 👈🏼,1F448-1F3FC,people-body,hand-single-finger,backhand index pointing left: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,👈️,1F448,1,290
 👈🏽,1F448-1F3FD,people-body,hand-single-finger,backhand index pointing left: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,👈️,1F448,1,291
 👈🏾,1F448-1F3FE,people-body,hand-single-finger,backhand index pointing left: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,👈️,1F448,1,292
 👈🏿,1F448-1F3FF,people-body,hand-single-finger,backhand index pointing left: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,👈️,1F448,1,293
-👉️,1F449,people-body,hand-single-finger,backhand index pointing right,"backhand, finger, hand, index, point, right","backhand, finger, hand, index, point, right, point right",Julian Grüneberg,2018-04-18,,single,👉️,1F449,0.6,294
+👉️,1F449,people-body,hand-single-finger,backhand index pointing right,"backhand, finger, hand, index, point","backhand, finger, hand, index, point, right, point right",Julian Grüneberg,2018-04-18,,single,👉️,1F449,0.6,294
 👉🏻,1F449-1F3FB,people-body,hand-single-finger,backhand index pointing right: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,👉️,1F449,1,295
 👉🏼,1F449-1F3FC,people-body,hand-single-finger,backhand index pointing right: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,👉️,1F449,1,296
 👉🏽,1F449-1F3FD,people-body,hand-single-finger,backhand index pointing right: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,👉️,1F449,1,297
 👉🏾,1F449-1F3FE,people-body,hand-single-finger,backhand index pointing right: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,👉️,1F449,1,298
 👉🏿,1F449-1F3FF,people-body,hand-single-finger,backhand index pointing right: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,👉️,1F449,1,299
-👆️,1F446,people-body,hand-single-finger,backhand index pointing up,"backhand, finger, hand, index, point, up","backhand, finger, hand, index, point, up, point up",Julian Grüneberg,2018-04-18,,single,👆️,1F446,0.6,300
+👆️,1F446,people-body,hand-single-finger,backhand index pointing up,"backhand, finger, hand, point, up","backhand, finger, hand, index, point, up, point up",Julian Grüneberg,2018-04-18,,single,👆️,1F446,0.6,300
 👆🏻,1F446-1F3FB,people-body,hand-single-finger,backhand index pointing up: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,👆️,1F446,1,301
 👆🏼,1F446-1F3FC,people-body,hand-single-finger,backhand index pointing up: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,👆️,1F446,1,302
 👆🏽,1F446-1F3FD,people-body,hand-single-finger,backhand index pointing up: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,👆️,1F446,1,303
@@ -262,7 +294,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🖕🏽,1F595-1F3FD,people-body,hand-single-finger,middle finger: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,🖕,1F595,1,309
 🖕🏾,1F595-1F3FE,people-body,hand-single-finger,middle finger: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,🖕,1F595,1,310
 🖕🏿,1F595-1F3FF,people-body,hand-single-finger,middle finger: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,🖕,1F595,1,311
-👇️,1F447,people-body,hand-single-finger,backhand index pointing down,"backhand, finger, hand, index, point, down","backhand, finger, hand, index, point, down, point down",Julian Grüneberg,2018-04-18,,single,👇️,1F447,0.6,312
+👇️,1F447,people-body,hand-single-finger,backhand index pointing down,"backhand, down, finger, hand, point","backhand, finger, hand, index, point, down, point down",Julian Grüneberg,2018-04-18,,single,👇️,1F447,0.6,312
 👇🏻,1F447-1F3FB,people-body,hand-single-finger,backhand index pointing down: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,👇️,1F447,1,313
 👇🏼,1F447-1F3FC,people-body,hand-single-finger,backhand index pointing down: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,👇️,1F447,1,314
 👇🏽,1F447-1F3FD,people-body,hand-single-finger,backhand index pointing down: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,👇️,1F447,1,315
@@ -274,6 +306,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ☝🏽,261D-1F3FD,people-body,hand-single-finger,index pointing up: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,☝️,261D,1,322
 ☝🏾,261D-1F3FE,people-body,hand-single-finger,index pointing up: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,☝️,261D,1,323
 ☝🏿,261D-1F3FF,people-body,hand-single-finger,index pointing up: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,☝️,261D,1,324
+🫵,1FAF5,people-body,hand-single-finger,index pointing at the viewer,"point, you",,Aileen Gedrat,2022-05-09,,single,🫵,1FAF5,14,325
+🫵🏻,1FAF5-1F3FB,people-body,hand-single-finger,index pointing at the viewer: light skin tone,,,Aileen Gedrat,2022-05-09,1,single,🫵,1FAF5,14,326
+🫵🏼,1FAF5-1F3FC,people-body,hand-single-finger,index pointing at the viewer: medium-light skin tone,,,Aileen Gedrat,2022-05-09,2,single,🫵,1FAF5,14,327
+🫵🏽,1FAF5-1F3FD,people-body,hand-single-finger,index pointing at the viewer: medium skin tone,,,Aileen Gedrat,2022-05-09,3,single,🫵,1FAF5,14,328
+🫵🏾,1FAF5-1F3FE,people-body,hand-single-finger,index pointing at the viewer: medium-dark skin tone,,,Aileen Gedrat,2022-05-09,4,single,🫵,1FAF5,14,329
+🫵🏿,1FAF5-1F3FF,people-body,hand-single-finger,index pointing at the viewer: dark skin tone,,,Aileen Gedrat,2022-05-09,5,single,🫵,1FAF5,14,330
 👍️,1F44D,people-body,hand-fingers-closed,thumbs up,"+1, hand, thumb, up","Like, yes, +1, hand, thumb, up, thumbs up, thumbs up",Julian Grüneberg,2018-04-18,,single,👍️,1F44D,0.6,331
 👍🏻,1F44D-1F3FB,people-body,hand-fingers-closed,thumbs up: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,👍️,1F44D,1,332
 👍🏼,1F44D-1F3FC,people-body,hand-fingers-closed,thumbs up: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,👍️,1F44D,1,333
@@ -322,6 +360,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🙌🏽,1F64C-1F3FD,people-body,hands,raising hands: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,🙌,1F64C,1,376
 🙌🏾,1F64C-1F3FE,people-body,hands,raising hands: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,🙌,1F64C,1,377
 🙌🏿,1F64C-1F3FF,people-body,hands,raising hands: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,🙌,1F64C,1,378
+🫶,1FAF6,people-body,hands,heart hands,love,,Alan Seng,2022-05-09,,single,🫶,1FAF6,14,379
+🫶🏻,1FAF6-1F3FB,people-body,hands,heart hands: light skin tone,,,Alan Seng,2022-05-09,1,single,🫶,1FAF6,14,380
+🫶🏼,1FAF6-1F3FC,people-body,hands,heart hands: medium-light skin tone,,,Alan Seng,2022-05-09,2,single,🫶,1FAF6,14,381
+🫶🏽,1FAF6-1F3FD,people-body,hands,heart hands: medium skin tone,,,Alan Seng,2022-05-09,3,single,🫶,1FAF6,14,382
+🫶🏾,1FAF6-1F3FE,people-body,hands,heart hands: medium-dark skin tone,,,Alan Seng,2022-05-09,4,single,🫶,1FAF6,14,383
+🫶🏿,1FAF6-1F3FF,people-body,hands,heart hands: dark skin tone,,,Alan Seng,2022-05-09,5,single,🫶,1FAF6,14,384
 👐,1F450,people-body,hands,open hands,"hand, open","Hug, Open Hands, Open, Hands, Jazz Hands, Jazz",Julian Grüneberg,2018-04-18,,single,👐,1F450,0.6,385
 👐🏻,1F450-1F3FB,people-body,hands,open hands: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,👐,1F450,1,386
 👐🏼,1F450-1F3FC,people-body,hands,open hands: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,👐,1F450,1,387
@@ -1146,6 +1190,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👷🏽‍♀️,1F477-1F3FD-200D-2640-FE0F,people-body,person-role,woman construction worker: medium skin tone,,,Antonia Wagner,2019-05-03,3,single,👷‍♀️,1F477-200D-2640-FE0F,4,1456
 👷🏾‍♀️,1F477-1F3FE-200D-2640-FE0F,people-body,person-role,woman construction worker: medium-dark skin tone,,,Antonia Wagner,2019-05-03,4,single,👷‍♀️,1F477-200D-2640-FE0F,4,1458
 👷🏿‍♀️,1F477-1F3FF-200D-2640-FE0F,people-body,person-role,woman construction worker: dark skin tone,,,Antonia Wagner,2019-05-03,5,single,👷‍♀️,1F477-200D-2640-FE0F,4,1460
+🫅,1FAC5,people-body,person-role,person with crown,"monarch, noble, regal, royalty",,Alena Peichl,2022-05-09,,single,🫅,1FAC5,14,1462
+🫅🏻,1FAC5-1F3FB,people-body,person-role,person with crown: light skin tone,,,Alena Peichl,2022-05-09,1,single,🫅,1FAC5,14,1463
+🫅🏼,1FAC5-1F3FC,people-body,person-role,person with crown: medium-light skin tone,,,Alena Peichl,2022-05-09,2,single,🫅,1FAC5,14,1464
+🫅🏽,1FAC5-1F3FD,people-body,person-role,person with crown: medium skin tone,,,Alena Peichl,2022-05-09,3,single,🫅,1FAC5,14,1465
+🫅🏾,1FAC5-1F3FE,people-body,person-role,person with crown: medium-dark skin tone,,,Alena Peichl,2022-05-09,4,single,🫅,1FAC5,14,1466
+🫅🏿,1FAC5-1F3FF,people-body,person-role,person with crown: dark skin tone,,,Alena Peichl,2022-05-09,5,single,🫅,1FAC5,14,1467
 🤴,1F934,people-body,person-role,prince,prince,"prince, charming, crown, fairy tale, fantasy, pink",Lisa Thiel,2018-04-18,,single,🤴,1F934,3,1468
 🤴🏻,1F934-1F3FB,people-body,person-role,prince: light skin tone,,,Lisa Thiel,2018-04-18,1,single,🤴,1F934,3,1469
 🤴🏼,1F934-1F3FC,people-body,person-role,prince: medium-light skin tone,,,Lisa Thiel,2018-04-18,2,single,🤴,1F934,3,1470
@@ -1230,6 +1280,18 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🤰🏽,1F930-1F3FD,people-body,person-role,pregnant woman: medium skin tone,,,Lisa Thiel,2018-04-18,3,single,🤰,1F930,3,1585
 🤰🏾,1F930-1F3FE,people-body,person-role,pregnant woman: medium-dark skin tone,,,Lisa Thiel,2018-04-18,4,single,🤰,1F930,3,1586
 🤰🏿,1F930-1F3FF,people-body,person-role,pregnant woman: dark skin tone,,,Lisa Thiel,2018-04-18,5,single,🤰,1F930,3,1587
+🫃,1FAC3,people-body,person-role,pregnant man,"belly, bloated, full, pregnant",,Natalie Siebler,2022-05-09,,single,🫃,1FAC3,14,1588
+🫃🏻,1FAC3-1F3FB,people-body,person-role,pregnant man: light skin tone,,,Natalie Siebler,2022-05-09,1,single,🫃,1FAC3,14,1589
+🫃🏼,1FAC3-1F3FC,people-body,person-role,pregnant man: medium-light skin tone,,,Natalie Siebler,2022-05-09,2,single,🫃,1FAC3,14,1590
+🫃🏽,1FAC3-1F3FD,people-body,person-role,pregnant man: medium skin tone,,,Natalie Siebler,2022-05-09,3,single,🫃,1FAC3,14,1591
+🫃🏾,1FAC3-1F3FE,people-body,person-role,pregnant man: medium-dark skin tone,,,Natalie Siebler,2022-05-09,4,single,🫃,1FAC3,14,1592
+🫃🏿,1FAC3-1F3FF,people-body,person-role,pregnant man: dark skin tone,,,Natalie Siebler,2022-05-09,5,single,🫃,1FAC3,14,1593
+🫄,1FAC4,people-body,person-role,pregnant person,"belly, bloated, full, pregnant",,Jana Gerspach,2022-05-09,,single,🫄,1FAC4,14,1594
+🫄🏻,1FAC4-1F3FB,people-body,person-role,pregnant person: light skin tone,,,Jana Gerspach,2022-05-09,1,single,🫄,1FAC4,14,1595
+🫄🏼,1FAC4-1F3FC,people-body,person-role,pregnant person: medium-light skin tone,,,Jana Gerspach,2022-05-09,2,single,🫄,1FAC4,14,1596
+🫄🏽,1FAC4-1F3FD,people-body,person-role,pregnant person: medium skin tone,,,Jana Gerspach,2022-05-09,3,single,🫄,1FAC4,14,1597
+🫄🏾,1FAC4-1F3FE,people-body,person-role,pregnant person: medium-dark skin tone,,,Jana Gerspach,2022-05-09,4,single,🫄,1FAC4,14,1598
+🫄🏿,1FAC4-1F3FF,people-body,person-role,pregnant person: dark skin tone,,,Jana Gerspach,2022-05-09,5,single,🫄,1FAC4,14,1599
 🤱,1F931,people-body,person-role,breast-feeding,"baby, breast, nursing","baby, breast, nursing, love, trust, mother, motherhood",Lisa Thiel,2018-04-18,,single,🤱,1F931,5,1600
 🤱🏻,1F931-1F3FB,people-body,person-role,breast-feeding: light skin tone,,,Lisa Thiel,2018-04-18,1,single,🤱,1F931,5,1601
 🤱🏼,1F931-1F3FC,people-body,person-role,breast-feeding: medium-light skin tone,,,Lisa Thiel,2018-04-18,2,single,🤱,1F931,5,1602
@@ -1410,6 +1472,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧟,1F9DF,people-body,person-fantasy,zombie,"undead, walking dead","undead, walking dead, brain, decayed",Lisa Thiel,2018-04-18,,,,,5,1863
 🧟‍♂️,1F9DF-200D-2642-FE0F,people-body,person-fantasy,man zombie,"undead, walking dead",,Rifat Erdogan,2019-05-06,,,,,5,1864
 🧟‍♀️,1F9DF-200D-2640-FE0F,people-body,person-fantasy,woman zombie,"undead, walking dead",,Rifat Erdogan,2019-05-06,,,,,5,1866
+🧌,1F9CC,people-body,person-fantasy,troll,"fairy tale, fantasy, monster",,Niklas Kuntz,2022-05-09,,,,,14,1868
 💆,1F486,people-body,person-activity,person getting massage,"face, massage, salon","human, person",Johanna Wellnitz,2018-04-18,,single,💆,1F486,0.6,1869
 💆🏻,1F486-1F3FB,people-body,person-activity,person getting massage: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,💆,1F486,1,1870
 💆🏼,1F486-1F3FC,people-body,person-activity,person getting massage: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,💆,1F486,1,1871
@@ -2345,6 +2408,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦈,1F988,animals-nature,animal-marine,shark,fish,"swim, animal, water",Selina Bauder,2018-04-18,,,,,3,3274
 🐙,1F419,animals-nature,animal-marine,octopus,octopus,"swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,3275
 🐚,1F41A,animals-nature,animal-marine,spiral shell,"shell, spiral","beach, sand, water",Selina Bauder,2018-04-18,,,,,0.6,3276
+🪸,1FAB8,animals-nature,animal-marine,coral,"ocean, reef",,Alena Peichl,2022-05-09,,,,,14,3277
 🐌,1F40C,animals-nature,animal-bug,snail,snail,,Selina Bauder,2018-04-18,,,,,0.6,3278
 🦋,1F98B,animals-nature,animal-bug,butterfly,"insect, pretty",,Robert Winslow,2022-03-29,,,,,3,3279
 🐛,1F41B,animals-nature,animal-bug,bug,insect,,Liz Bravo,2020-12-22,,,,,0.6,3280
@@ -2364,6 +2428,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💐,1F490,animals-nature,plant-flower,bouquet,flower,"present, flower, tulip, bouquet",Liz Bravo,2021-05-04,,,,,0.6,3296
 🌸,1F338,animals-nature,plant-flower,cherry blossom,"blossom, cherry, flower",pink,Hilda Kalyoncu,2018-04-18,,,,,0.6,3297
 💮,1F4AE,animals-nature,plant-flower,white flower,flower,,Ricarda Krejci,2019-05-07,,,,,0.6,3298
+🪷,1FAB7,animals-nature,plant-flower,lotus,"buddhism, flower, hinduism, india, purity, vietnam",,Max Isele,2022-05-09,,,,,14,3299
 🏵️,1F3F5,animals-nature,plant-flower,rosette,plant,,Ricarda Krejci,2019-05-07,,,,,0.7,3301
 🌹,1F339,animals-nature,plant-flower,rose,flower,"rose, red, nature, present, valentines day",Hilda Kalyoncu,2018-04-18,,,,,0.6,3302
 🥀,1F940,animals-nature,plant-flower,wilted flower,"flower, wilted","rose, wilted, flower, red, sad, plant",Hilda Kalyoncu,2018-04-18,,,,,3,3303
@@ -2384,6 +2449,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🍁,1F341,animals-nature,plant-other,maple leaf,"falling, leaf, maple","autumn, colorful",Hilda Kalyoncu,2018-04-18,,,,,0.6,3319
 🍂,1F342,animals-nature,plant-other,fallen leaf,"falling, leaf",,Ricarda Krejci,2019-05-07,,,,,0.6,3320
 🍃,1F343,animals-nature,plant-other,leaf fluttering in wind,"blow, flutter, leaf, wind",,Ricarda Krejci,2019-05-07,,,,,0.6,3321
+🪹,1FAB9,animals-nature,plant-other,empty nest,nesting,,Alena Peichl,2022-05-09,,,,,14,3322
+🪺,1FABA,animals-nature,plant-other,nest with eggs,nesting,,Alena Peichl,2022-05-09,,,,,14,3323
 🍇,1F347,food-drink,food-fruit,grapes,"fruit, grape",,Hend Hourani,2018-11-16,,,,,0.6,3324
 🍈,1F348,food-drink,food-fruit,melon,fruit,,Hend Hourani,2018-11-16,,,,,0.6,3325
 🍉,1F349,food-drink,food-fruit,watermelon,fruit,"melon, red",Marius Schnabel,2018-04-18,,,,,0.6,3326
@@ -2417,6 +2484,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧅,1F9C5,food-drink,food-vegetable,onion,flavoring,,Yasmin Abdullahi,2019-05-07,,,,,12,3355
 🍄,1F344,food-drink,food-vegetable,mushroom,toadstool,mushroom,Marius Schnabel,2018-04-18,,,,,0.6,3356
 🥜,1F95C,food-drink,food-vegetable,peanuts,"food, nut, peanut, vegetable",,Marius Schnabel,2018-04-18,,,,,3,3357
+🫘,1FAD8,food-drink,food-vegetable,beans,"food, kidney, legume",,Jana Junk,2022-05-09,,,,,14,3358
 🌰,1F330,food-drink,food-vegetable,chestnut,plant,,Hend Hourani,2018-11-16,,,,,0.6,3359
 🍞,1F35E,food-drink,food-prepared,bread,loaf,,Miriam Vollmeier,2018-04-18,,,,,0.6,3360
 🥐,1F950,food-drink,food-prepared,croissant,"bread, breakfast, food, french, roll",,Miriam Vollmeier,2018-04-18,,,,,3,3361
@@ -2502,6 +2570,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🍻,1F37B,food-drink,drink,clinking beer mugs,"bar, beer, clink, drink, mug","beer, german, party, alcohol, bavaria, party",Laura Humpfer,2018-04-18,,,,,0.6,3441
 🥂,1F942,food-drink,drink,clinking glasses,"celebrate, clink, drink, glass","party, secco",Laura Humpfer,2018-04-18,,,,,3,3442
 🥃,1F943,food-drink,drink,tumbler glass,"glass, liquor, shot, tumbler, whisky","alcohol, classic",Laura Humpfer,2018-04-18,,,,,3,3443
+🫗,1FAD7,food-drink,drink,pouring liquid,"drink, empty, glass, spill",,Klara Schöninger,2022-05-09,,,,,14,3444
 🥤,1F964,food-drink,drink,cup with straw,"juice, soda","beverage, fastfood",Laura Humpfer,2018-04-18,,,,,5,3445
 🧋,1F9CB,food-drink,drink,bubble tea,"bubble, milk, pearl, tea",,Liz Bravo,2020-07-21,,,,,13,3446
 🧃,1F9C3,food-drink,drink,beverage box,"beverage, box, juice, straw, sweet",,Evelyn Soos,2019-05-04,,,,,12,3447
@@ -2575,6 +2644,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🌉,1F309,travel-places,place-other,bridge at night,"bridge, night",,Jonas Dunkel,2019-05-07,,,,,0.6,3531
 ♨️,2668,travel-places,place-other,hot springs,"hot, hotsprings, springs, steaming",,Louisa Mantsch,2018-11-16,,,,,0.6,3533
 🎠,1F3A0,travel-places,place-other,carousel horse,"carousel, horse",,Louisa Mantsch,2018-11-16,,,,,0.6,3534
+🛝,1F6DD,travel-places,place-other,playground slide,"amusement park, play",,Niklas Kuntz,2022-05-09,,,,,14,3535
 🎡,1F3A1,travel-places,place-other,ferris wheel,"amusement park, ferris, wheel",,Louisa Mantsch,2018-11-16,,,,,0.6,3536
 🎢,1F3A2,travel-places,place-other,roller coaster,"amusement park, coaster, roller",,Louisa Mantsch,2018-11-16,,,,,0.6,3537
 💈,1F488,travel-places,place-other,barber pole,"barber, haircut, pole","beauty, hairdresser",Martin Wehl,2018-04-18,,,,,0.6,3538
@@ -2623,6 +2693,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🛤️,1F6E4,travel-places,transport-ground,railway track,"railway, train",,Nadja Grün,2018-11-16,,,,,0.7,3585
 🛢️,1F6E2,travel-places,transport-ground,oil drum,"drum, oil",,Nadja Grün,2018-11-16,,,,,0.7,3587
 ⛽️,26FD,travel-places,transport-ground,fuel pump,"diesel, fuel, fuelpump, gas, pump, station","fuel, gas, station, transportation",Ronja Bäurlen,2018-04-18,,,,,0.6,3588
+🛞,1F6DE,travel-places,transport-ground,wheel,"circle, tire, turn",,Niklas Kuntz,2022-05-09,,,,,14,3589
 🚨,1F6A8,travel-places,transport-ground,police car light,"beacon, car, light, police, revolving",,Nadja Grün,2018-11-16,,,,,0.6,3590
 🚥,1F6A5,travel-places,transport-ground,horizontal traffic light,"light, signal, traffic","light, red, green, yellow, traffic, traffic light",Ronja Bäurlen,2018-04-18,,,,,0.6,3591
 🚦,1F6A6,travel-places,transport-ground,vertical traffic light,"light, signal, traffic","light, red, green, yellow, vertical, traffic, light",Ronja Bäurlen,2018-04-18,,,,,1,3592
@@ -2791,6 +2862,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🔮,1F52E,activities,game,crystal ball,"ball, crystal, fairy tale, fantasy, fortune, tool",mystery,Marius Schnabel,2018-04-18,,,,,0.6,3787
 🪄,1FA84,activities,game,magic wand,"magic, witch, wizard",,Liz Bravo,2020-03-11,,,,,13,3788
 🧿,1F9FF,activities,game,nazar amulet,"bead, charm, evil-eye, nazar, talisman",,Nicole Kornhaas,2019-05-06,,,,,11,3789
+🪬,1FAAC,activities,game,hamsa,"amulet, fatima, hand, mary, miriam, protection",,Pia Stockhaus,2022-05-09,,,,,14,3790
 🎮️,1F3AE,activities,game,video game,"controller, game",gamble,Lisa Schulz,2018-04-18,,,,,0.6,3791
 🕹️,1F579,activities,game,joystick,"game, video game",,Lisa Schulz,2018-04-18,,,,,0.7,3793
 🎰,1F3B0,activities,game,slot machine,"game, slot",,Nicole Kornhaas,2019-05-06,,,,,0.6,3794
@@ -2894,6 +2966,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📟️,1F4DF,objects,phone,pager,pager,,Nicole Kornhaas,2019-05-06,,,,,0.6,3905
 📠,1F4E0,objects,phone,fax machine,fax,"office, paper, communication",Martin Wehl,2018-04-18,,,,,0.6,3906
 🔋,1F50B,objects,computer,battery,battery,"electricity, energy, electric",Jonas Roßner,2018-04-18,,,,,0.6,3907
+🪫,1FAAB,objects,computer,low battery,"electronic, low energy",,Alena Peichl,2022-05-09,,,,,14,3908
 🔌,1F50C,objects,computer,electric plug,"electric, electricity, plug",,Jonas Roßner,2018-04-18,,,,,0.6,3909
 💻️,1F4BB,objects,computer,laptop,"computer, pc, personal","old, retro",Jonas Roßner,2018-04-18,,,,,0.6,3910
 🖥️,1F5A5,objects,computer,desktop computer,"computer, desktop","electric, screen",Jonas Roßner,2018-04-18,,,,,0.7,3912
@@ -3034,7 +3107,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🩸,1FA78,objects,medical,drop of blood,"bleed, blood donation, injury, medicine, menstruation",,Sam Eckert,2019-05-06,,,,,12,4084
 💊,1F48A,objects,medical,pill,"doctor, medicine, sick",health,Marius Schnabel,2018-04-18,,,,,0.6,4085
 🩹,1FA79,objects,medical,adhesive bandage,bandage,,Sam Eckert,2019-05-06,,,,,12,4086
+🩼,1FA7C,objects,medical,crutch,"cane, disability, hurt, mobility aid, stick",,Niklas Kuntz,2022-05-09,,,,,14,4087
 🩺,1FA7A,objects,medical,stethoscope,"doctor, heart, medicine",,Sam Eckert,2019-05-06,,,,,12,4088
+🩻,1FA7B,objects,medical,x-ray,"bones, doctor, medical, skeleton",,Tim Loose,2022-05-09,,,,,14,4089
 🚪,1F6AA,objects,household,door,door,,Lisa Schulz,2018-04-18,,,,,0.6,4090
 🛗,1F6D7,objects,household,elevator,"accessibility, hoist, lift",,Liz Bravo,2020-09-26,,,,,13,4091
 🪞,1FA9E,objects,household,mirror,"reflection, reflector, speculum",,Liz Bravo,2020-03-26,,,,,13,4092
@@ -3066,6 +3141,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ⚱️,26B1,objects,other-object,funeral urn,"ashes, death, funeral, urn",,Marleen Heine,2018-11-16,,,,,1,4122
 🗿,1F5FF,objects,other-object,moai,"face, moyai, statue","stone, easter island",Liz Bravo,2020-12-22,,,,,0.6,4123
 🪧,1FAA7,objects,other-object,placard,"demonstration, picket, protest, sign",,Liz Bravo,2020-03-28,,,,,13,4124
+🪪,1FAAA,objects,other-object,identification card,"credentials, id, license, security",,Niklas Kuntz,2022-05-09,,,,,14,4125
 🏧,1F3E7,symbols,transport-sign,ATM sign,"atm, atm sign, automated, bank, teller",,Liz Bravo,2021-05-04,,,,,0.6,4126
 🚮,1F6AE,symbols,transport-sign,litter in bin sign,"litter, litter bin","trash, litter, bin, garbage, can, throw, away",Ronja Bäurlen,2018-04-18,,,,,1,4127
 🚰,1F6B0,symbols,transport-sign,potable water,"drinking, potable, water","water, faucet, tap, glass",Guemil Project,2019-01-14,,,,,1,4128
@@ -3169,6 +3245,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ➕,2795,symbols,math,plus,"+, math, sign","math, plus, sign",Hilda Kalyoncu,2018-04-18,,,,,0.6,4265
 ➖,2796,symbols,math,minus,"-, math, sign, −","math, minus, sign",Hilda Kalyoncu,2018-04-18,,,,,0.6,4266
 ➗,2797,symbols,math,divide,"division, math, sign, ÷","math, division, sign",Hilda Kalyoncu,2018-04-18,,,,,0.6,4267
+🟰,1F7F0,symbols,math,heavy equals sign,"equality, math",,Aileen Gedrat,2022-05-09,,,,,14,4268
 ♾️,267E,symbols,math,infinity,"forever, unbounded, universal",,Selina Lange,2019-05-06,,,,,11,4270
 ‼️,203C,symbols,punctuation,double exclamation mark,"!, !!, bangbang, exclamation, mark",,Selina Lange,2019-05-06,,,,,0.6,4272
 ⁉️,2049,symbols,punctuation,exclamation question mark,"!, !?, ?, exclamation, interrobang, mark, punctuation, question",,Selina Lange,2019-05-06,,,,,0.6,4274
@@ -3303,7 +3380,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🇦🇱,1F1E6-1F1F1,flags,country-flag,flag: Albania,"AL, flag",,Ferdinand Sorg,2019-02-13,,,,,2,4448
 🇦🇲,1F1E6-1F1F2,flags,country-flag,flag: Armenia,"AM, flag",,Ferdinand Sorg,2019-02-13,,,,,2,4449
 🇦🇴,1F1E6-1F1F4,flags,country-flag,flag: Angola,"AO, flag",,Ferdinand Sorg,2019-02-13,,,,,2,4450
-🇦🇶,1F1E6-1F1F6,flags,country-flag,flag: Antarctica,"AQ, flag",,Carlin MacKenzie, 2020-03-29,,,,,2,4451
+🇦🇶,1F1E6-1F1F6,flags,country-flag,flag: Antarctica,"AQ, flag",,Carlin MacKenzie,2020-03-29,,,,,2,4451
 🇦🇷,1F1E6-1F1F7,flags,country-flag,flag: Argentina,"AR, flag",,Ferdinand Sorg,2019-02-13,,,,,2,4452
 🇦🇸,1F1E6-1F1F8,flags,country-flag,flag: American Samoa,"AS, flag",,Aileen Gedrat,2019-02-13,,,,,2,4453
 🇦🇹,1F1E6-1F1F9,flags,country-flag,flag: Austria,"AT, flag",,Ferdinand Sorg,2019-02-13,,,,,2,4454

@@ -129,7 +129,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🔼,1F53C,improve,Jose Avila,2018-04-18
 🔽,1F53D,"decline, decrease",Jose Avila,2018-04-18
 ▶️,25B6,,Jose Avila,2018-04-18
-⏩️,23E9,,Jose Avila,2018-04-18
+⏩️,23000000000,,Jose Avila,2018-04-18
 📳,1F4F3,silent mode,Jose Avila,2018-04-18
 📶,1F4F6,,Jose Avila,2018-04-18
 ⏏️,23CF,,Carlin MacKenzie,2020-06-05
@@ -201,8 +201,8 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 📚️,1F4DA,"book, read, write, isometric",Liz Bravo,2020-12-22
 📄,1F4C4,"write, text, paper",Jonas Roßner,2018-04-18
 📰,1F4F0,"read, news, paper, text",Jonas Roßner,2018-04-18
-🔖,1F516,"remember",Jonas Roßner,2018-04-18
-🏷️,1F3F7,"stick",Jonas Roßner,2018-04-18
+🔖,1F516,remember,Jonas Roßner,2018-04-18
+🏷️,1F3F7,stick,Jonas Roßner,2018-04-18
 📃,1F4C3,"rolled, page, text",Jonas Roßner,2018-04-18
 📒,1F4D2,"book, read, write",Jonas Roßner,2018-04-18
 📜,1F4DC,"old, papyrus, text",Jonas Roßner,2018-04-18
@@ -218,21 +218,21 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🎓️,1F393,,Jonas Roßner,2018-04-18
 👑,1F451,"crone, gold",Jonas Roßner,2018-04-18
 👓️,1F453,,Jonas Roßner,2018-04-18
-💎,1F48E,"expensive",Jonas Roßner,2018-04-18
+💎,1F48E,expensive,Jonas Roßner,2018-04-18
 🕶️,1F576,sunglasses,Jonas Roßner,2018-04-18
-🛍️,1F6CD,"buy",Jonas Roßner,2018-04-18
-🎒,1F392,"young",Jonas Roßner,2018-04-18
+🛍️,1F6CD,buy,Jonas Roßner,2018-04-18
+🎒,1F392,young,Jonas Roßner,2018-04-18
 🩴,1FA74,,Liz Bravo,2020-03-11
-🎩,1F3A9,"magic",Jonas Roßner,2018-04-18
-👒,1F452,"beautiful",Jonas Roßner,2018-04-18
+🎩,1F3A9,magic,Jonas Roßner,2018-04-18
+👒,1F452,beautiful,Jonas Roßner,2018-04-18
 👔,1F454,"cravatte, smart",Jonas Roßner,2018-04-18
 👕,1F455,,Jonas Roßner,2018-04-18
 👖,1F456,,Jonas Roßner,2018-04-18
 👗,1F457,"beautiful, dress, woman",Jonas Roßner,2018-04-18
 👘,1F458,"japan, clothing",Liz Bravo,2020-12-22
-👙,1F459,"summer",Jonas Roßner,2018-04-18
+👙,1F459,summer,Jonas Roßner,2018-04-18
 👚,1F45A,,Jonas Roßner,2018-04-18
-👛,1F45B,"money",Jonas Roßner,2018-04-18
+👛,1F45B,money,Jonas Roßner,2018-04-18
 👜,1F45C,,Jonas Roßner,2018-04-18
 👝,1F45D,,Jonas Roßner,2018-04-18
 👞,1F45E,,Jonas Roßner,2018-04-18
@@ -251,7 +251,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🖱️,1F5B1,"electric, computer, mouse",Jonas Roßner,2018-04-18
 🖨️,1F5A8,"color, electric",Jonas Roßner,2018-04-18
 ⌨️,2328,"key, write, electric",Carlin MacKenzie,2020-05-12
-💿️,1F4BF,"analog",Jonas Roßner,2018-04-18
+💿️,1F4BF,analog,Jonas Roßner,2018-04-18
 📀,1F4C0,film,Jonas Roßner,2018-04-18
 🔪,1F52A,eat,Jonas Roßner,2018-04-18
 🍴,1F374,eat,Jonas Roßner,2018-04-18
@@ -763,11 +763,11 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🎪,1F3AA,"fun, leisure, entertainment, red, white",Martin Wehl,2018-04-18
 💈,1F488,"beauty, hairdresser",Martin Wehl,2018-04-18
 ⛪️,26EA,"religious, pray, cross, building, god, mess, faith",Martin Wehl,2018-04-18
-⛩️,26E9,"religious, pray, building, god, faith",Martin Wehl,2018-04-18
+⛩️,26000000000,"religious, pray, building, god, faith",Martin Wehl,2018-04-18
 🕋,1F54B,"religious, pray, building, god, black, mecca, faith",Martin Wehl,2018-04-18
 🕌,1F54C,"religious, pray, building, god, faith",Liz Bravo,2020-12-22
 🕍,1F54D,"religious, pray, building, god, faith",Martin Wehl,2018-04-18
-🌸,1F338,"pink",Hilda Kalyoncu,2018-04-18
+🌸,1F338,pink,Hilda Kalyoncu,2018-04-18
 🌹,1F339,"rose, red, nature, present, valentines day",Hilda Kalyoncu,2018-04-18
 🌼,1F33C,"yellow, nature",Hilda Kalyoncu,2018-04-18
 🌷,1F337,"pink, eastern",Hilda Kalyoncu,2018-04-18
@@ -1094,7 +1094,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🇦🇱,1F1E6-1F1F1,,Ferdinand Sorg,2019-02-13
 🇦🇲,1F1E6-1F1F2,,Ferdinand Sorg,2019-02-13
 🇦🇴,1F1E6-1F1F4,,Ferdinand Sorg,2019-02-13
-🇦🇶,1F1E6-1F1F6,,Carlin MacKenzie, 2020-03-29
+🇦🇶,1F1E6-1F1F6,,Carlin MacKenzie,2020-03-29
 🇦🇷,1F1E6-1F1F7,,Ferdinand Sorg,2019-02-13
 🇦🇸,1F1E6-1F1F8,,Aileen Gedrat,2019-02-13
 🇦🇹,1F1E6-1F1F9,,Ferdinand Sorg,2019-02-13
@@ -1830,3 +1830,30 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🫢,1FAE2,,Liz Bravo,2022-02-10
 🫤,1FAE4,,Liz Bravo,2022-02-10
 🫥,1FAE5,,Liz Bravo,2022-02-10
+🛝,1F6DD,,Niklas Kuntz,2022-05-09
+🛞,1F6DE,,Niklas Kuntz,2022-05-09
+🟰,1F7F0,,Aileen Gedrat,2022-05-09
+🧌,1F9CC,,Niklas Kuntz,2022-05-09
+🩻,1FA7B,,Tim Loose,2022-05-09
+🩼,1FA7C,,Niklas Kuntz,2022-05-09
+🪪,1FAAA,,Niklas Kuntz,2022-05-09
+🪫,1FAAB,,Alena Peichl,2022-05-09
+🪬,1FAAC,,Pia Stockhaus,2022-05-09
+🪷,1FAB7,,Max Isele,2022-05-09
+🪸,1FAB8,,Alena Peichl,2022-05-09
+🪹,1FAB9,,Alena Peichl,2022-05-09
+🪺,1FABA,,Alena Peichl,2022-05-09
+🫃,1FAC3,,Natalie Siebler,2022-05-09
+🫄,1FAC4,,Jana Gerspach,2022-05-09
+🫅,1FAC5,,Alena Peichl,2022-05-09
+🫗,1FAD7,,Klara Schöninger,2022-05-09
+🫘,1FAD8,,Jana Junk,2022-05-09
+🫡,1FAE1,,Alan Seng,2022-05-09
+🫣,1FAE3,,Robin Bauer,2022-05-09
+🫰,1FAF0,,Niklas Kuntz,2022-05-09
+🫱,1FAF1,,Pia Stockhaus,2022-05-09
+🫲,1FAF2,,Pia Stockhaus,2022-05-09
+🫳,1FAF3,,Pia Stockhaus,2022-05-09
+🫴,1FAF4,,Pia Stockhaus,2022-05-09
+🫵,1FAF5,,Aileen Gedrat,2022-05-09
+🫶,1FAF6,,Alan Seng,2022-05-09
