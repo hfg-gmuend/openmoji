@@ -12,6 +12,12 @@ Emoji 14:
   + 1FAE6 biting lip by @fuddl #364
   + 1FAE7 bubbles by @fuddl #364
   + 1F6DF, 1F979, 1FAA9, 1FAE0, 1FAE2, 1FAE4, 1FAE5 by Liz Bravo @lizbravob
+  + 1F6DD, 1F6DE, 1F7F0, 1F9CC, 1FA7B, 1FA7C, 1FAAA, 1FAAB, 1FAAC, 1FAB7,
+    1FAB8, 1FAB9, 1FABA, 1FAC3, 1FAC4, 1FAC5, 1FAD7, 1FAD8, 1FAE1, 1FAE3,
+    1FAF0, 1FAF1, 1FAF2, 1FAF3, 1FAF4, 1FAF5, 1FAF6
+    by Aileen Gedrat, Alan Seng, Alena Peichl, Jana Gerspach, Jana Junk,
+    Klara Schöninger, Max Isele, Natalie Siebler, Niklas Kuntz, Pia Stockhaus,
+    Robin Bauer, Tim Loose
 
 New:
   + E1D8 QR code OpenMoji by @loominade (try it on your mobile) #347
@@ -26,8 +32,12 @@ New:
     gitlab, mastodon, peertube, pixelfed, signal by Liz Bravo @lizbravob #240
   + 1F1E6-1F1F6-1F48E true south (antarctica) flag by @SpangleLabs #366
 
-Redesign:
+Redesign / Improvements:
   * 1F990, 1F422, 1F98B Redesign of shrimp, butterfly, and turtle by @RobertWinslow #383
+  * 1F458 changed color of Kimono
+  * 1FAD9 changed shape of jar and added label
+  * 1FAE2 changed shape of hand covering mouth
+  * 1FAE4 changed shape mouth
 
 Fix:
   * 1F414 chicken: fixed white fill #359
