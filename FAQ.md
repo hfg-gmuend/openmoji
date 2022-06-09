@@ -108,16 +108,18 @@ This script can be added to any website:
 <html>
 <script>
     function get_emoji(emoji) {
-        let emoji_code = emoji.codePointAt(0).toString(16).toUpperCase();
+        let emoji_code = [...emoji].map(e => e.codePointAt(0).toString(16)).join(`-`).toUpperCase();
         new_url = `https://openmoji.org/data/color/svg/${emoji_code}.svg`
         document.write(`<img src=${new_url} style="height: 80px;">`);
     }
     get_emoji("🦴")
     get_emoji("🎭")
+    get_emoji("👩‍⚕️")
 </script>
+</html>
 ```
 
-</html>
+
 
 </details>
 
@@ -144,9 +146,9 @@ def get_emoji(emoji):
 
 get_emoji("🦴")
 get_emoji("🎭")
+get_emoji("👩‍⚕️")
 ```
 
-</html>
 
 </details>
 
