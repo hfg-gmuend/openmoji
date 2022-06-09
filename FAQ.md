@@ -96,3 +96,58 @@ Because we decided that the authorship should go to the person who took actively
 
 No, we are sorry! This is simply out of scope. But all other ways to consume/use/download OpenMojis are listed under [Downloads & Distribution Channels](https://github.com/hfg-gmuend/openmoji#downloads--distribution-channels).
 </details>
+
+
+<details>
+<summary>
+🤔: How can I convert an emoji to an openmoji svg with javascript?
+</summary>
+
+This script can be added to any website: 
+```
+<html>
+<script>
+    function get_emoji(emoji) {
+        let emoji_code = emoji.codePointAt(0).toString(16).toUpperCase();
+        new_url = `https://openmoji.org/data/color/svg/${emoji_code}.svg`
+        document.write(`<img src=${new_url} style="height: 80px;">`);
+    }
+    get_emoji("🦴")
+    get_emoji("🎭")
+</script>
+```
+
+</html>
+
+</details>
+
+
+
+
+
+<details>
+<summary>
+🤔: How can I convert an emoji to an openmoji png image with python?
+</summary>
+
+This script can be used: 
+```
+from PIL import Image
+import requests
+
+def get_emoji(emoji):
+    emoji_code = "-".join(f"{ord(c):x}" for c in emoji).upper()
+    url = f"https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/{emoji_code}.png"
+    im = Image.open(requests.get(url, stream=True).raw)
+   # image = np.array(im.convert("RGBA")) 
+    return im
+
+get_emoji("🦴")
+get_emoji("🎭")
+```
+
+</html>
+
+</details>
+
+
