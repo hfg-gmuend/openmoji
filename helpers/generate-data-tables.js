@@ -99,7 +99,9 @@ emojis = _.orderBy(emojis, ['order', 'group', 'subgroups', 'hexcode'], ['asc', '
 // writeCsv(emojis, 'data/openmoji-emoji-unicode.csv');
 
 // select all emojis which have not been designed yet (without skintones)
-const missingEmojis = _.filter(emojis, (e) => { return e.openmoji_author === '' && e.skintone === '' });
+let missingEmojis = _.filter(emojis, (e) => { return e.openmoji_author === '' && e.skintone === '' });
+// remove edge cases e.g. reginal indicators which are not really emojis, hence don't have group/subgroups definition
+missingEmojis = _.filter(missingEmojis, (e) => { return e.group !== undefined && e.subgroups !== undefined });
 writeCsv(missingEmojis, 'data/openmoji-emoji-unicode-missing.csv');
 
 // remove all emojis which have not been designed yet
