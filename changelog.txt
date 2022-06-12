@@ -45,6 +45,7 @@ Fix:
   * 1F97A pleading face: now more consistent with other platforms by @mincerafter42 #360
   * E0A2 E0A3 E0A4 SOS, YES, NO: color shield was not correctly centered by @tmechen #367
   * Remove problematic id attributes from certain SVG elements by @RobertWinslow #373
+  * E2C9 E2CA swapped polar explorer man/woman #390
 
 Website:
   * Is completly re-write! Now OpenMoji.org is build with Astro (a static site generator)
