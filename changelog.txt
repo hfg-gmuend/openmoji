@@ -31,6 +31,7 @@ New:
   + More open source variants for brands in extras-openmoji/brand:
     gitlab, mastodon, peertube, pixelfed, signal by Liz Bravo @lizbravob #240
   + 1F1E6-1F1F6-1F48E true south (antarctica) flag by @SpangleLabs #366
+  + New category extras-unicode/regional-indicator holding A-Z Regional Indicators by Daniel Utz #351
 
 Redesign / Improvements:
   * 1F990, 1F422, 1F98B Redesign of shrimp, butterfly, and turtle by @RobertWinslow #383
@@ -44,6 +45,10 @@ Fix:
   * 1F97A pleading face: now more consistent with other platforms by @mincerafter42 #360
   * E0A2 E0A3 E0A4 SOS, YES, NO: color shield was not correctly centered by @tmechen #367
   * Remove problematic id attributes from certain SVG elements by @RobertWinslow #373
+
+Website:
+  * Is completly re-write! Now OpenMoji.org is build with Astro (a static site generator)
+    by Stephan Bogner @stephanbogner
 
 --------------------------------------------------------------------------------
 
