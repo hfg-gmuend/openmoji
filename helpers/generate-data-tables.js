@@ -100,7 +100,7 @@ emojis = _.orderBy(emojis, ['order', 'group', 'subgroups', 'hexcode'], ['asc', '
 
 // select all emojis which have not been designed yet (without skintones)
 let missingEmojis = _.filter(emojis, (e) => { return e.openmoji_author === '' && e.skintone === '' });
-// remove edge cases e.g. reginal indicators which are not really emojis, hence don't have group/subgroups definition
+// remove edge cases e.g. regional indicators which are not really emojis, hence don't have group/subgroups definition
 missingEmojis = _.filter(missingEmojis, (e) => { return e.group !== undefined && e.subgroups !== undefined });
 writeCsv(missingEmojis, 'data/openmoji-emoji-unicode-missing.csv');
 
