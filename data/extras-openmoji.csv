@@ -288,49 +288,49 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 ,E348,extras-openmoji,gardening,saw,"foxtail, carpentry, wood, branch, rip saw",Tonia Reinhardt,2020-06-11
 ,E011,extras-openmoji,animals-nature,microbe,"amoeba, bacteria, virus",Ricarda Krejci,2019-05-07
 ,E20D,extras-openmoji,travel-places,black hole,"interstellar, event horizon, accretion disc",Alexander Müller,2020-06-28
-,E048,extras-openmoji,brand,musicbrainz,"music metadata",Alexander Müller,2020-10-03
-,E049,extras-openmoji,brand,openfoodfact,"nutrition data",Alexander Müller,2020-10-03
+,E048,extras-openmoji,brand,musicbrainz,music metadata,Alexander Müller,2020-10-03
+,E049,extras-openmoji,brand,openfoodfact,nutrition data,Alexander Müller,2020-10-03
 ,E04A,extras-openmoji,brand,openstreetmap,"map, osm, geodata",Alexander Müller,2020-10-03
-,E04B,extras-openmoji,brand,wikidata,"open knowledge graph",Alexander Müller,2020-10-03
+,E04B,extras-openmoji,brand,wikidata,open knowledge graph,Alexander Müller,2020-10-03
 ,E050,extras-openmoji,brand,Firefox,"browser, fire, fox",Alexander Müller,2020-11-04
 ,E051,extras-openmoji,brand,Safari,"browser, compass, webkit, apple",Alexander Müller,2020-11-04
-,E052,extras-openmoji,brand,Opera,"browser",Alexander Müller,2020-11-04
-,E053,extras-openmoji,brand,Chromium,"browser",Alexander Müller,2020-11-04
+,E052,extras-openmoji,brand,Opera,browser,Alexander Müller,2020-11-04
+,E053,extras-openmoji,brand,Chromium,browser,Alexander Müller,2020-11-04
 ,E054,extras-openmoji,brand,Chrome,"browser, google",Alexander Müller,2020-11-04
-,E055,extras-openmoji,brand,Netscape Navigator,"browser",Alexander Müller,2020-11-04
+,E055,extras-openmoji,brand,Netscape Navigator,browser,Alexander Müller,2020-11-04
 ,E056,extras-openmoji,brand,Internet Explorer,"browser, ie, microsoft",Alexander Müller,2020-11-04
 ,E057,extras-openmoji,brand,Edge,"browser, microsoft",Alexander Müller,2020-11-04
-🯆‍👗,1FBC6-200D-1F457,extras-openmoji,symbol-other,stick figure with dress and arms raised,"legacy computing",Alexander Müller,2020-11-04
-🯇‍👗,1FBC7-200D-1F457,extras-openmoji,symbol-other,stick figure with dress leaning left,"legacy computing",Alexander Müller,2020-11-04
-🯈‍👗,1FBC8-200D-1F457,extras-openmoji,symbol-other,stick figure with dress leaning right,"legacy computing",Alexander Müller,2020-11-04
-‍♀️,E0AC-200D-2640-FE0F,extras-openmoji,emergency,"woman with medical mask","coronavirus, COVID-19",Guemil Project,2020-11-06
-‍♂️,E0AC-200D-2642-FE0F,extras-openmoji,emergency,"man with medical mask","coronavirus, COVID-19",Guemil Project,2020-11-06
-,E0AC,extras-openmoji,emergency,"person with medical mask","coronavirus, COVID-19",Guemil Project,2020-11-06
-‍♀️,E0AD-200D-2640-FE0F,extras-openmoji,emergency,"woman sneezing into elbow","coronavirus, COVID-19, dab",Guemil Project,2020-11-06
-‍♂️,E0AD-200D-2642-FE0F,extras-openmoji,emergency,"man sneezing into elbow","coronavirus, COVID-19, dab",Guemil Project,2020-11-06
-,E0AD,extras-openmoji,emergency,"person sneezing into elbow","coronavirus, COVID-19, dab",Guemil Project,2020-11-06
-,E0AE,extras-openmoji,emergency,"disinfect surface","coronavirus, COVID-19, sanitize, clean",Guemil Project,2020-11-06
-,E0AF,extras-openmoji,emergency,"quarantine","coronavirus, COVID-19",Guemil Project,2020-11-06
-,E0B0,extras-openmoji,emergency,"social distancing","coronavirus, COVID-19",Guemil Project,2020-11-06
-,E0B1,extras-openmoji,emergency,"sanitizer spray","coronavirus, COVID-19, disinfect, clean",Guemil Project,2020-11-06
-,E0B2,extras-openmoji,emergency,"wash hands","coronavirus, COVID-19, sanitize, clean",Guemil Project,2020-11-06
-,E0B3,extras-openmoji,emergency,"temperature taking","coronavirus, COVID-19, thermometer",Guemil Project,2020-11-06
-,E0B4,extras-openmoji,emergency,"medical gloves","coronavirus, COVID-19",Guemil Project,2020-11-06
-⬡️‍🌈,2B21-FE0F-200D-1F308,extras-openmoji,symbol-other,rainbow hexagon,"pride",Alexander Müller,2020-11-14
-⬡️‍🟥,2B21-FE0F-200D-1F7E5,extras-openmoji,symbol-other,red hexagon,"",Alexander Müller,2020-11-14
-⬡️‍🟦,2B21-FE0F-200D-1F7E6,extras-openmoji,symbol-other,blue hexagon,"",Alexander Müller,2020-11-14
-⬡️‍🟧,2B21-FE0F-200D-1F7E7,extras-openmoji,symbol-other,orange hexagon,"",Alexander Müller,2020-11-14
-⬡️‍🟨,2B21-FE0F-200D-1F7E8,extras-openmoji,symbol-other,yellow hexagon,"",Alexander Müller,2020-11-14
-⬡️‍🟪,2B21-FE0F-200D-1F7EA,extras-openmoji,symbol-other,purple hexagon,"",Alexander Müller,2020-11-14
-⬡️‍🟫,2B21-FE0F-200D-1F7EB,extras-openmoji,symbol-other,brown hexagon,"",Alexander Müller,2020-11-14
-⬡️‍🟩,2B21-FE0F-200D-1F7E9,extras-openmoji,symbol-other,green hexagon,"",Alexander Müller,2020-11-14
+🯆‍👗,1FBC6-200D-1F457,extras-openmoji,symbol-other,stick figure with dress and arms raised,legacy computing,Alexander Müller,2020-11-04
+🯇‍👗,1FBC7-200D-1F457,extras-openmoji,symbol-other,stick figure with dress leaning left,legacy computing,Alexander Müller,2020-11-04
+🯈‍👗,1FBC8-200D-1F457,extras-openmoji,symbol-other,stick figure with dress leaning right,legacy computing,Alexander Müller,2020-11-04
+‍♀️,E0AC-200D-2640-FE0F,extras-openmoji,emergency,woman with medical mask,"coronavirus, COVID-19",Guemil Project,2020-11-06
+‍♂️,E0AC-200D-2642-FE0F,extras-openmoji,emergency,man with medical mask,"coronavirus, COVID-19",Guemil Project,2020-11-06
+,E0AC,extras-openmoji,emergency,person with medical mask,"coronavirus, COVID-19",Guemil Project,2020-11-06
+‍♀️,E0AD-200D-2640-FE0F,extras-openmoji,emergency,woman sneezing into elbow,"coronavirus, COVID-19, dab",Guemil Project,2020-11-06
+‍♂️,E0AD-200D-2642-FE0F,extras-openmoji,emergency,man sneezing into elbow,"coronavirus, COVID-19, dab",Guemil Project,2020-11-06
+,E0AD,extras-openmoji,emergency,person sneezing into elbow,"coronavirus, COVID-19, dab",Guemil Project,2020-11-06
+,E0AE,extras-openmoji,emergency,disinfect surface,"coronavirus, COVID-19, sanitize, clean",Guemil Project,2020-11-06
+,E0AF,extras-openmoji,emergency,quarantine,"coronavirus, COVID-19",Guemil Project,2020-11-06
+,E0B0,extras-openmoji,emergency,social distancing,"coronavirus, COVID-19",Guemil Project,2020-11-06
+,E0B1,extras-openmoji,emergency,sanitizer spray,"coronavirus, COVID-19, disinfect, clean",Guemil Project,2020-11-06
+,E0B2,extras-openmoji,emergency,wash hands,"coronavirus, COVID-19, sanitize, clean",Guemil Project,2020-11-06
+,E0B3,extras-openmoji,emergency,temperature taking,"coronavirus, COVID-19, thermometer",Guemil Project,2020-11-06
+,E0B4,extras-openmoji,emergency,medical gloves,"coronavirus, COVID-19",Guemil Project,2020-11-06
+⬡️‍🌈,2B21-FE0F-200D-1F308,extras-openmoji,symbol-other,rainbow hexagon,pride,Alexander Müller,2020-11-14
+⬡️‍🟥,2B21-FE0F-200D-1F7E5,extras-openmoji,symbol-other,red hexagon,,Alexander Müller,2020-11-14
+⬡️‍🟦,2B21-FE0F-200D-1F7E6,extras-openmoji,symbol-other,blue hexagon,,Alexander Müller,2020-11-14
+⬡️‍🟧,2B21-FE0F-200D-1F7E7,extras-openmoji,symbol-other,orange hexagon,,Alexander Müller,2020-11-14
+⬡️‍🟨,2B21-FE0F-200D-1F7E8,extras-openmoji,symbol-other,yellow hexagon,,Alexander Müller,2020-11-14
+⬡️‍🟪,2B21-FE0F-200D-1F7EA,extras-openmoji,symbol-other,purple hexagon,,Alexander Müller,2020-11-14
+⬡️‍🟫,2B21-FE0F-200D-1F7EB,extras-openmoji,symbol-other,brown hexagon,,Alexander Müller,2020-11-14
+⬡️‍🟩,2B21-FE0F-200D-1F7E9,extras-openmoji,symbol-other,green hexagon,,Alexander Müller,2020-11-14
 ,E058,extras-openmoji,brand,iNaturalist,"opendata, nature, observation",Alexander Müller,2020-11-04
 ,E283,extras-openmoji,smileys-emotion,annoyed face with tongue,"disappointed, playful, goofy, tongue out, annoyed, frustrated, childish, offended",Barkin Simsek,2021-01-16
-🏴️‍🅰️,1F3F4-FE0F-200D-1F170-FE0F,extras-openmoji,flags,"red and black flag","anarchist flag, bisected flag",Sam Hocevar,2021-03-15
+🏴️‍🅰️,1F3F4-FE0F-200D-1F170-FE0F,extras-openmoji,flags,red and black flag,"anarchist flag, bisected flag",Sam Hocevar,2021-03-15
 ,E20E,extras-openmoji,travel-places,foggy mountain,"fog, weather, berg, peak, elevation, hiking",Jonas Dunkel,2019-05-07
 ,E0C7,extras-openmoji,food-drink,cake,"custard, cherry",Miriam Vollmeier,2018-04-18
-,E0C8,extras-openmoji,food-drink,champignon brown,"mushroom fungi",Liz Bravo,2021-05-04
-,E0C9,extras-openmoji,food-drink,champignon white,"mushroom fungi",Liz Bravo,2021-05-04
+,E0C8,extras-openmoji,food-drink,champignon brown,mushroom fungi,Liz Bravo,2021-05-04
+,E0C9,extras-openmoji,food-drink,champignon white,mushroom fungi,Liz Bravo,2021-05-04
 ,E0CA,extras-openmoji,food-drink,boule bread,"french bread, traditional bread, round bread",Alexander Müller,2021-05-08
 ,E1D8,extras-openmoji,technology,qr code,"scan, tag, matrix, barcode, quick response",Alexander Müller,2021-10-08
 ,E1D9,extras-openmoji,technology,barcode,"scan, tag, machine readable, data",Alexander Müller,2021-10-20
@@ -342,3 +342,7 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 ,E05C,extras-openmoji,brand,pixelfed,"social media, image sharing platform, photo",Liz Bravo,2022-03-07
 ,E05D,extras-openmoji,brand,signal,"social media, messenger, whatsapp, app",Liz Bravo,2022-03-07
 ,1F1E6-1F1F6-1F48E,extras-openmoji,flags,true south (antarctica) flag,"antarctica flag, antarctica, antarctic",Spangle Labs,2022-04-24
+,1F3F3-1F7E6-1F7E9-1F7E8,extras-openmoji,flags,berber flag,,Daniel Utz,2022-07-01
+,1F9D1-200D-1FAA9,extras-openmoji,people,dj,"party, disc jockey, Diskjockey, music, rave, techno",Liz Bravo,2022-07-01
+,1F468-200D-1FAA9,extras-openmoji,people,dj man,"party, disc jockey, Diskjockey, music, rave, techno",Liz Bravo,2022-07-01
+,1F469-200D-1FAA9,extras-openmoji,people,dj woman,"party, disc jockey, Diskjockey, music, rave, techno",Liz Bravo,2022-07-01
