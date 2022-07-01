@@ -1,21 +1,4 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="grid">
-    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
-    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-  </g>
-  <g id="color">
-    <path fill="#9b9b9a" d="M27.7666,61.5156H17.6217v-.5748H16.0469v1.5748a.9993.9993,0,0,0,1,1h10.72a1,1,0,1,0,0-2Z"/>
-    <path fill="#9b9b9a" d="M44.299,61.5156H54.4439v-.5748h1.5748v1.5748a.9993.9993,0,0,1-1,1H44.299a1,1,0,0,1,0-2Z"/>
-    <rect x="26.7666" y="61.8887" rx="1" width="18.5322" height="4.1113" fill="#61b2e4"/>
-    <circle cx="35.9519" cy="19.3681" r="2.3143" fill="#f4aa41"/>
-    <path fill="#f4aa41" d="M41.7407,38.9116l-1.1358-9.5873.1828-.3953,3.3964,3.7429a.7619.7619,0,0,1,.0767.93c-.4689.72-1.0447,1.6361-1.4252,2.1951a2.22,2.22,0,0,0,.85,3.1146L48.1537,32.8,41.9873,26.335,39.32,25.3067l-7.0052-.1505L31.23,24.5389l-3.31-4.22-1.419-6.3466c-1.2909,0-1.8634.7644-1.8634,1.5441,0,1.255.0575,1.495.0575,4.0649,0,2.2106,2.1772,4.9232,4.262,6.7536A12.0742,12.0742,0,0,0,31.32,28.0883l-.2142,1.236-.5018,9.5873L23.9073,60.9531H26.453l8.7518-19.2858h1.5429l8.9189,19.2858h2.5457Z"/>
-    <path fill="none" stroke="#9b9b9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M25.0952,7.5441c0-.9722.5578-1.9444,1.41-1.9444"/>
-    <path fill="none" stroke="#9b9b9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M28.8458,7.5441a2.0955,2.0955,0,0,1,1.4322-2.23c1.5293-.6169,2.8529.6682,4.4908-.3084"/>
-    <path fill="#f4aa41" d="M31.8073,9.8822c0,1.7456-1.9977,3.1606-4.462,3.1606s-4.4619-1.415-4.4619-3.1606Z"/>
-  </g>
   <g id="line">
     <line x1="34.3155" x2="32.4374" y1="17.7316" y2="15.8536" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <circle cx="35.9519" cy="19.3681" r="2.3143" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>

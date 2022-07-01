@@ -1,19 +1,4 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="grid">
-    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
-    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-  </g>
-  <g id="color">
-    <circle cx="44.3317" cy="11.4161" r="2.8709" fill="#fcea2b"/>
-    <path fill="#fcea2b" d="M37.9166,33.1726H25.323c-1.4613,0-1.8556-1.59-1.8556-2.7749,0-.5527,2.6816-.98,3.2343-.98H38.9893c.5527,0-.0727,2.2017-.0727,2.7544A.9994.9994,0,0,1,37.9166,33.1726Z"/>
-    <path fill="#fcea2b" d="M48.4893,21.9756c-.1006-2.8745-1.8008-4.8184-4.3672-4.9541a5.3705,5.3705,0,0,0-5.3994,4.4878l-.8916,5.9858v.0034l-1.127,7.7525-4.2568.001-2.6045.1406a8.4665,8.4665,0,0,0-3.4912,1.1728,5.318,5.318,0,0,0-2.6885,4.8428l.332,15.9414c0,1.3027,0,4.0147,2.4141,4.0147a3.2284,3.2284,0,0,0,3.4023-2.6514L31.665,42.7041l13.0577-.0254a3.7968,3.7968,0,0,0,3.7685-3.7051Z"/>
-    <line x1="47.0576" x2="47.0576" y1="45.2092" y2="60.9583" fill="none" stroke="#9b9b9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="34.5492" x2="34.5492" y1="45.2092" y2="60.9583" fill="none" stroke="#9b9b9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polygon fill="#9b9b9a" points="47.44 25.417 51.12 25.178 50.529 45.038 31.342 45.209 31.342 41.822 47.031 40.668 47.44 25.417"/>
-  </g>
   <g id="line">
     <circle cx="44.3317" cy="11.4161" r="2.8709" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="43.551 22.011 41.461 34.982 32.501 26.129"/>
