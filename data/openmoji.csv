@@ -174,12 +174,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🤚🏽,1F91A-1F3FD,people-body,hand-fingers-open,raised back of hand: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,🤚,1F91A,3,187
 🤚🏾,1F91A-1F3FE,people-body,hand-fingers-open,raised back of hand: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,🤚,1F91A,3,188
 🤚🏿,1F91A-1F3FF,people-body,hand-fingers-open,raised back of hand: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,🤚,1F91A,3,189
-🖐️,1F590,people-body,hand-fingers-open,hand with fingers splayed,"finger, hand, splayed","Five Hand, Hand, Five, Splayed",Julian Grüneberg,2018-04-18,,single,🖐️,1F590,0.7,191
-🖐🏻,1F590-1F3FB,people-body,hand-fingers-open,hand with fingers splayed: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,🖐️,1F590,1,192
-🖐🏼,1F590-1F3FC,people-body,hand-fingers-open,hand with fingers splayed: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,🖐️,1F590,1,193
-🖐🏽,1F590-1F3FD,people-body,hand-fingers-open,hand with fingers splayed: medium skin tone,,,Julian Grüneberg,2018-04-18,3,single,🖐️,1F590,1,194
-🖐🏾,1F590-1F3FE,people-body,hand-fingers-open,hand with fingers splayed: medium-dark skin tone,,,Julian Grüneberg,2018-04-18,4,single,🖐️,1F590,1,195
-🖐🏿,1F590-1F3FF,people-body,hand-fingers-open,hand with fingers splayed: dark skin tone,,,Julian Grüneberg,2018-04-18,5,single,🖐️,1F590,1,196
+🖐️,1F590,people-body,hand-fingers-open,hand with fingers splayed,"finger, hand, splayed","Five Hand, Hand, Five, Splayed",Aileen Gedrat,2022-07-01,,single,🖐️,1F590,0.7,191
+🖐🏻,1F590-1F3FB,people-body,hand-fingers-open,hand with fingers splayed: light skin tone,,,Aileen Gedrat,2022-07-01,1,single,🖐️,1F590,1,192
+🖐🏼,1F590-1F3FC,people-body,hand-fingers-open,hand with fingers splayed: medium-light skin tone,,,Aileen Gedrat,2022-07-01,2,single,🖐️,1F590,1,193
+🖐🏽,1F590-1F3FD,people-body,hand-fingers-open,hand with fingers splayed: medium skin tone,,,Aileen Gedrat,2022-07-01,3,single,🖐️,1F590,1,194
+🖐🏾,1F590-1F3FE,people-body,hand-fingers-open,hand with fingers splayed: medium-dark skin tone,,,Aileen Gedrat,2022-07-01,4,single,🖐️,1F590,1,195
+🖐🏿,1F590-1F3FF,people-body,hand-fingers-open,hand with fingers splayed: dark skin tone,,,Aileen Gedrat,2022-07-01,5,single,🖐️,1F590,1,196
 ✋,270B,people-body,hand-fingers-open,raised hand,"hand, high 5, high five","raise, raised, raised hand, hand",Julian Grüneberg,2018-04-18,,single,✋,270B,0.6,197
 ✋🏻,270B-1F3FB,people-body,hand-fingers-open,raised hand: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,✋,270B,1,198
 ✋🏼,270B-1F3FC,people-body,hand-fingers-open,raised hand: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,✋,270B,1,199
@@ -2509,7 +2509,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🫔,1FAD4,food-drink,food-prepared,tamale,"mexican, wrapped",,Liz Bravo,2020-03-03,,,,,13,3380
 🥙,1F959,food-drink,food-prepared,stuffed flatbread,"falafel, flatbread, food, gyro, kebab, stuffed",,Ricarda Krejci,2019-05-07,,,,,3,3381
 🧆,1F9C6,food-drink,food-prepared,falafel,"chickpea, meatball","hummus, pita",Corvin Kraasch,2020-03-06,,,,,12,3382
-🥚,1F95A,food-drink,food-prepared,egg,"breakfast, food",,Miriam Vollmeier,2018-04-18,,,,,3,3383
+🥚,1F95A,food-drink,food-prepared,egg,"breakfast, food",,Niklas Kuntz,2022-07-01,,,,,3,3383
 🍳,1F373,food-drink,food-prepared,cooking,"breakfast, egg, frying, pan",,Miriam Vollmeier,2018-04-18,,,,,0.6,3384
 🥘,1F958,food-drink,food-prepared,shallow pan of food,"casserole, food, paella, pan, shallow",,Ricarda Krejci,2019-05-07,,,,,3,3385
 🍲,1F372,food-drink,food-prepared,pot of food,"pot, stew",,Miriam Vollmeier,2018-04-18,,,,,0.6,3386
@@ -2618,7 +2618,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏨,1F3E8,travel-places,place-building,hotel,building,"sleep, travel, business, holiday, vacation",Martin Wehl,2018-04-18,,,,,0.6,3503
 🏩,1F3E9,travel-places,place-building,love hotel,"hotel, love","building, sex, affair",Martin Wehl,2018-04-18,,,,,0.6,3504
 🏪,1F3EA,travel-places,place-building,convenience store,"convenience, store","building, shopping, buying, 24",Martin Wehl,2018-04-18,,,,,0.6,3505
-🏫,1F3EB,travel-places,place-building,school,building,"learning, public, teaching, education",Martin Wehl,2018-04-18,,,,,0.6,3506
+🏫,1F3EB,travel-places,place-building,school,building,"learning, public, teaching, education",Niklas Kuntz,2022-07-01,,,,,0.6,3506
 🏬,1F3EC,travel-places,place-building,department store,"department, store","building, shopping, buying",Martin Wehl,2018-04-18,,,,,0.6,3507
 🏭️,1F3ED,travel-places,place-building,factory,building,"firm, workplace, business",Martin Wehl,2018-04-18,,,,,0.6,3508
 🏯,1F3EF,travel-places,place-building,Japanese castle,"castle, japanese","building, culture, historical, war",Martin Wehl,2018-04-18,,,,,0.6,3509
@@ -2922,10 +2922,10 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🩰,1FA70,objects,clothing,ballet shoes,"ballet, dance",,Sam Eckert,2019-05-06,,,,,12,3856
 👢,1F462,objects,clothing,woman’s boot,"boot, clothing, shoe, woman",,Jonas Roßner,2018-04-18,,,,,0.6,3857
 👑,1F451,objects,clothing,crown,"clothing, king, queen","crone, gold",Jonas Roßner,2018-04-18,,,,,0.6,3858
-👒,1F452,objects,clothing,woman’s hat,"clothing, hat, woman",beautiful,Jonas Roßner,2018-04-18,,,,,0.6,3859
+👒,1F452,objects,clothing,woman’s hat,"clothing, hat, woman",beautiful,Niklas Kuntz,2022-07-01,,,,,0.6,3859
 🎩,1F3A9,objects,clothing,top hat,"clothing, hat, top, tophat",magic,Jonas Roßner,2018-04-18,,,,,0.6,3860
 🎓️,1F393,objects,clothing,graduation cap,"cap, celebration, clothing, graduation, hat",,Jonas Roßner,2018-04-18,,,,,0.6,3861
-🧢,1F9E2,objects,clothing,billed cap,baseball cap,,Daniel Quiros,2018-11-16,,,,,5,3862
+🧢,1F9E2,objects,clothing,billed cap,baseball cap,,Jennifer Pätzold,2022-07-01,,,,,5,3862
 🪖,1FA96,objects,clothing,military helmet,"army, helmet, military, soldier, warrior",,Liz Bravo,2020-09-26,,,,,13,3863
 ⛑️,26D1,objects,clothing,rescue worker’s helmet,"aid, cross, face, hat, helmet",,Anne Frauendorf,2018-11-16,,,,,0.7,3865
 📿,1F4FF,objects,clothing,prayer beads,"beads, clothing, necklace, prayer, religion","expensive, jewelry",Jonas Roßner,2018-04-18,,,,,1,3866
@@ -3099,7 +3099,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ⚗️,2697,objects,science,alembic,"chemistry, tool",,Marleen Heine,2018-11-16,,,,,1,4076
 🧪,1F9EA,objects,science,test tube,"chemist, chemistry, experiment, lab, science",,Tonia Reinhardt,2019-05-07,,,,,11,4077
 🧫,1F9EB,objects,science,petri dish,"bacteria, biologist, biology, culture, lab",,Tonia Reinhardt,2019-05-07,,,,,11,4078
-🧬,1F9EC,objects,science,dna,"biologist, evolution, gene, genetics, life",,Tonia Reinhardt,2019-05-07,,,,,11,4079
+🧬,1F9EC,objects,science,dna,"biologist, evolution, gene, genetics, life",,Alan Seng,2022-07-01,,,,,11,4079
 🔬,1F52C,objects,science,microscope,"science, tool",,Marleen Heine,2018-11-16,,,,,1,4080
 🔭,1F52D,objects,science,telescope,"science, tool","stars, sky, space",Sina Schulz,2018-04-18,,,,,1,4081
 📡,1F4E1,objects,science,satellite antenna,"antenna, dish, satellite","signal, receive, radiation",Sina Schulz,2018-04-18,,,,,0.6,4082
