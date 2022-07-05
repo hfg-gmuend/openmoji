@@ -42,6 +42,7 @@ Redesign / Improvements:
   * 1FAD9 changed shape of jar and added label
   * 1FAE2 changed shape of hand covering mouth
   * 1FAE4 changed shape mouth
+  * 1F5FF changed to moyai and moved moai to extras-openmoji E216 by Liz Bravo @lizbravob #396
 
 Fix:
   * 1F414 chicken: fixed white fill #359
@@ -53,7 +54,7 @@ Fix:
     by Jennifer Pätzold, Alan Seng, Niklas Kuntz, Aileen Gedrat
 
 Website:
-  * Is completly re-write! Now OpenMoji.org is build with Astro (a static site generator)
+  * Is completly re-write! Now OpenMoji.org is build with Astro (static site generator)
     by Stephan Bogner @stephanbogner
 
 --------------------------------------------------------------------------------
