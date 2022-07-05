@@ -4,7 +4,7 @@
 
 --------------------------------------------------------------------------------
 
-OpenMoji 14.0 - XX XXX 2021
+🏖🍦 OpenMoji 14.0 - 05 Jul 2022
 
 Emoji 14:
   * 1F91D 🤝 Handshake changed to have multiple skintones
@@ -18,6 +18,9 @@ Emoji 14:
     by Aileen Gedrat, Alan Seng, Alena Peichl, Jana Gerspach, Jana Junk,
     Klara Schöninger, Max Isele, Natalie Siebler, Niklas Kuntz, Pia Stockhaus,
     Robin Bauer, Tim Loose
+
+🙏 Special thanks to @stephanbogner for shiny old new website
+   and @lizbravob the generous contributions!
 
 New:
   + E1D8 QR code OpenMoji by @loominade (try it on your mobile) #347
