@@ -7,14 +7,27 @@ const { filter } = require('lodash');
 const mkdirp = require('mkdirp');
 
 const openmojis = require('../data/openmoji.json');
-const openmojisNoSkintones = filter(openmojis, (e) => { return e.skintone == ''});
+const openmojisNoSkintones = filter(openmojis, (e) => { return e.skintone === ''});
 
+// remove emojis with multiple skintones
+let openmojiForSwift = filter(openmojis, (e) => { return e.skintone_combination !== 'multiple' });
+// make openmoji.json safer for iOS App
+// search in Swift requires type safety for each property
+openmojiForSwift = openmojis.map((openmoji, i) => {
+  openmoji.order = i + 1; // start at 1
+  openmoji.unicode = parseFloat(openmoji.unicode);
+  if (!openmoji.unicode) openmoji.unicode = -1 // no unicode mapped to -1
+  if (typeof openmoji.skintone === 'string') openmoji.skintone = -1; // no skintone mapped to -1
+  return openmoji;
+});
 
-console.log("copy openmojis.json → openmoji-ios");
-fs.copyFileSync(
-  path.join('./data/openmoji.json') ,
-  path.join('../openmoji-ios/OpenMoji/OpenMoji/Data & Model/openmoji.json')
+console.log("copy modified openmojis.json (safe for Swift) → openmoji-ios");
+fs.writeFileSync(
+  path.join('../openmoji-ios/OpenMoji/OpenMoji/Data & Model/openmoji.json'),
+  JSON.stringify(openmojiForSwift, null, 2)
 );
+
+return;
 
 console.log("copy openmojis → in app stickers, with skintones");
 openmojis.forEach((openmoji, i) => {
