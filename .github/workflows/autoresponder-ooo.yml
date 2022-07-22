@@ -18,6 +18,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         respondableId: ${{ github.event.issue.node_id }}
-        response: "🏝 OpenMoji is on hold over summer (project maintainers are out of office until Oct 2021)."
+        response: "🏝 OpenMoji is on hold over summer (project maintainers are out of office until Oct 2022)."
         author: ${{ github.event.issue.user.login }}
         exemptedAuthors: "carlinmack, b-g, dnlutz"
