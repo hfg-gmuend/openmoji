@@ -2,17 +2,17 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 ⬌,2B0C,extras-unicode,symbol-other,left right black arrow,,Guemil Project,2019-01-14,4
 ⬍,2B0D,extras-unicode,symbol-other,up down black arrow,,Guemil Project,2019-01-14,4
 ⮏,2B8F,extras-unicode,symbol-other,anticlockwise triangle-headed top u-shaped arrow,,Guemil Project,2019-01-14,7
-□,25A1,extras-unicode,symbol-other,white square,missing glyph,Benedikt Groß,2019-04-15,1
+□,25A1,extras-unicode,symbol-other,white square,"missing glyph",Benedikt Groß,2019-04-15,1
 🐱‍💻,1F431-200D-1F4BB,extras-unicode,symbol-other,hacker cat,"coder, developer, software, technologist, smart, clever, code, notebook, computer",Benedikt Groß,2020-03-06,?
 🏴󠁵󠁳󠁴󠁸󠁿,1F3F4-E0075-E0073-E0074-E0078-E007F,extras-unicode,subdivision-flag,texas flag,"cowboy, lone star, republic, state",Carlin MacKenzie,2020-04-03,?
 ⬮,2B2E,extras-unicode,symbol-other,black vertical ellipse,,loominade,2020-04-17,5
 ⬯,2B2F,extras-unicode,symbol-other,white vertical ellipse,,loominade,2020-04-17,5
-⬡,2B21,extras-unicode,symbol-other,white hexagon,equilateral polygon,loominade,2020-04-17,5
-⬢,2B22,extras-unicode,symbol-other,black hexagon,equilateral polygon,loominade,2020-04-17,5
-⯃,2BC3,extras-unicode,symbol-other,horizontal black octagon,equilateral polygon,loominade,2020-04-17,5
-⬟,2B1F,extras-unicode,symbol-other,black pentagon,equilateral polygon,loominade,2020-04-17,5
-⬠,2B20,extras-unicode,symbol-other,white pentagon,equilateral polygon,loominade,2020-04-17,5
-⬣,2B23,extras-unicode,symbol-other,horizontal black hexagon ,equilateral polygon,loominade,2020-04-17,5
+⬡,2B21,extras-unicode,symbol-other,white hexagon,"equilateral polygon",loominade,2020-04-17,5
+⬢,2B22,extras-unicode,symbol-other,black hexagon,"equilateral polygon",loominade,2020-04-17,5
+⯃,2BC3,extras-unicode,symbol-other,horizontal black octagon,"equilateral polygon",loominade,2020-04-17,5
+⬟,2B1F,extras-unicode,symbol-other,black pentagon,"equilateral polygon",loominade,2020-04-17,5
+⬠,2B20,extras-unicode,symbol-other,white pentagon,"equilateral polygon",loominade,2020-04-17,5
+⬣,2B23,extras-unicode,symbol-other,horizontal black hexagon ,"equilateral polygon",loominade,2020-04-17,5
 ▬,25AC,extras-unicode,symbol-other,black rectangle,,loominade,2020-04-22,1.1
 ▭,25AD,extras-unicode,symbol-other,white rectangle,,loominade,2020-04-22,1.1
 ◐,25D0,extras-unicode,symbol-other,circle with left half black,,loominade,2020-04-22,1.1
@@ -27,7 +27,7 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 ⮺,2BBA,extras-unicode,symbol-other,overlapping white squares,,loominade,2020-04-22,1.1
 ⮻,2BBB,extras-unicode,symbol-other,overlapping white and black squares,,loominade,2020-04-22,1.1
 ⮼,2BBC,extras-unicode,symbol-other,overlapping black squares,,loominade,2020-04-22,1.1
-⯄,2BC4,extras-unicode,symbol-other,black octagon,equilateral polygon,loominade,2020-04-17,5
+⯄,2BC4,extras-unicode,symbol-other,black octagon,"equilateral polygon",loominade,2020-04-17,5
 🏴󠁣󠁡󠁱󠁣󠁿,1F3F4-E0063-E0061-E0071-E0063-E007F,extras-unicode,subdivision-flag,quebec flag,"fleur-de-lis, quebec, canada, province",Denis Blanchette,2021-02-10,?
 🏴󠁵󠁳󠁣󠁡󠁿,1F3F4-E0075-E0073-E0063-E0061-E007F,extras-unicode,subdivision-flag,california flag,"bear, republic, state",Alexander Müller,2020-04-26,?
 🏴󠁤󠁥󠁢󠁥󠁿,1F3F4-E0064-E0065-E0062-E0065-E007F,extras-unicode,subdivision-flag,berlin flag,"bear, city, capital",Alexander Müller,2020-04-26,?
@@ -57,15 +57,15 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 ★,2605,extras-unicode,symbol-other,black star,"full star",Alexander Müller,2020-11-09,1
 ⯪,2BEA,extras-unicode,symbol-other,star with left half black,"half star",Alexander Müller,2020-11-09,11
 ⯫,2BEB,extras-unicode,symbol-other,star with right half black,"half star",Alexander Müller,2020-11-09,11
-🏴󠁦󠁲󠁢󠁲󠁥󠁿,1F3F4-E0066-E0072-E0062-E0072-E0065-E007F,extras-unicode,subdivision-flag,"bretagne flag","breton, brittany, gwenn-ha-du",Sam Hocevar,2021-03-15,?
-🏴󠁥󠁳󠁰󠁶󠁿,1F3F4-E0065-E0073-E0070-E0076-E007F,extras-unicode,subdivision-flag,"basque flag","basque, ikurrina, euskal",Sam Hocevar,2021-03-15,?
-,1FAD9-200D-1F7E5,extras-unicode,food-drink,"jar with red content","red potion, health potion, jam, jelly",Alexander Müller,2021-10-22,?
-,1FAD9-200D-1F7E6,extras-unicode,food-drink,"jar with blue content","blue potion, magic potion, mana potion, water",Alexander Müller,2021-10-22,?
-,1FAD9-200D-1F7E7,extras-unicode,food-drink,"jar with orange content","marmelade, jelly",Alexander Müller,2021-10-22,?
-,1FAD9-200D-1F7E8,extras-unicode,food-drink,"jar with yellow content","urine, marmelade",Alexander Müller,2021-10-22,?
-,1FAD9-200D-1F7E9,extras-unicode,food-drink,"jar with green content","kiwi jam",Alexander Müller,2021-10-22,?
-,1FAD9-200D-1F7EA,extras-unicode,food-drink,"jar with purple content","potion of health and magic, jam",Alexander Müller,2021-10-22,?
-,1FAD9-200D-1F7EB,extras-unicode,food-drink,"jar with brown content","nutella, peanut butter, nut spread, chocolate",Alexander Müller,2021-10-22,?
+🏴󠁦󠁲󠁢󠁲󠁥󠁿,1F3F4-E0066-E0072-E0062-E0072-E0065-E007F,extras-unicode,subdivision-flag,bretagne flag,"breton, brittany, gwenn-ha-du",Sam Hocevar,2021-03-15,?
+🏴󠁥󠁳󠁰󠁶󠁿,1F3F4-E0065-E0073-E0070-E0076-E007F,extras-unicode,subdivision-flag,basque flag,"basque, ikurrina, euskal",Sam Hocevar,2021-03-15,?
+,1FAD9-200D-1F7E5,extras-unicode,food-drink,jar with red content,"red potion, health potion, jam, jelly",Alexander Müller,2021-10-22,?
+,1FAD9-200D-1F7E6,extras-unicode,food-drink,jar with blue content,"blue potion, magic potion, mana potion, water",Alexander Müller,2021-10-22,?
+,1FAD9-200D-1F7E7,extras-unicode,food-drink,jar with orange content,"marmelade, jelly",Alexander Müller,2021-10-22,?
+,1FAD9-200D-1F7E8,extras-unicode,food-drink,jar with yellow content,"urine, marmelade",Alexander Müller,2021-10-22,?
+,1FAD9-200D-1F7E9,extras-unicode,food-drink,jar with green content,"kiwi jam",Alexander Müller,2021-10-22,?
+,1FAD9-200D-1F7EA,extras-unicode,food-drink,jar with purple content,"potion of health and magic, jam",Alexander Müller,2021-10-22,?
+,1FAD9-200D-1F7EB,extras-unicode,food-drink,jar with brown content,"nutella, peanut butter, nut spread, chocolate",Alexander Müller,2021-10-22,?
 ▮,25AE,extras-unicode,symbol-other,black vertical rectangle,,Alexander Müller,2021-11-17,1.1
 ◉,25C9,extras-unicode,symbol-other,fisheye,"iris",Alexander Müller,2021-11-17,1.1
 🇦,1F1E6,extras-unicode,regional-indicator,regional indicator A,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
