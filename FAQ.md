@@ -108,14 +108,18 @@ This script can be added to any website:
 <html>
 <script>
     function get_emoji(emoji) {
-        let emoji_code = [...emoji].map(e => e.codePointAt(0).toString(16)).join(`-`).toUpperCase().replace("-FE0F", "");
+        let emoji_code = [...emoji].map(e => e.codePointAt(0).toString(16).padStart(4, '0')).join(`-`).toUpperCase()
+        if (emoji.length === 3) emoji_code = emoji_code.replace("-FE0F", "");
         new_url = `https://openmoji.org/data/color/svg/${emoji_code}.svg`
         document.write(`<img src=${new_url} style="height: 80px;">`);
+        document.write(emoji_code)
     }
     get_emoji("🦴")
     get_emoji("🐿️")
+    get_emoji("5️⃣") // problem here 0035-FE0F-20E3 -> the FE0F is removed. javascript "replace" function has to be something like removesuffix
     get_emoji("👩‍⚕️")
 </script>
+
 </html>
 ```
 
