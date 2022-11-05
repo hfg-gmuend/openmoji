@@ -108,14 +108,18 @@ This script can be added to any website:
 <html>
 <script>
     function get_emoji(emoji) {
-        let emoji_code = [...emoji].map(e => e.codePointAt(0).toString(16)).join(`-`).toUpperCase();
+        let emoji_code = [...emoji].map(e => e.codePointAt(0).toString(16).padStart(4, '0')).join(`-`).toUpperCase()
+        if (emoji_code.length === 10) emoji_code = emoji_code.replace("-FE0F", "");
         new_url = `https://openmoji.org/data/color/svg/${emoji_code}.svg`
         document.write(`<img src=${new_url} style="height: 80px;">`);
     }
     get_emoji("🦴")
-    get_emoji("🎭")
+    get_emoji("🐿️")
+    get_emoji("5️⃣")
     get_emoji("👩‍⚕️")
+    get_emoji("🏳️")
 </script>
+
 </html>
 ```
 
@@ -138,15 +142,19 @@ from PIL import Image
 import requests
 
 def get_emoji(emoji):
-    emoji_code = "-".join(f"{ord(c):x}" for c in emoji).upper()
+    emoji_code = "-".join(f"{ord(c):04x}" for c in emoji).upper()
+    if len(emoji_code) == 10:
+        emoji_code = emoji_code.removesuffix("-FE0F")
     url = f"https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/{emoji_code}.png"
     im = Image.open(requests.get(url, stream=True).raw)
-   # image = np.array(im.convert("RGBA")) 
+    # image = np.array(im.convert("RGBA")) 
     return im
 
 get_emoji("🦴")
-get_emoji("🎭")
+get_emoji("🐿️")
+get_emoji("5️⃣")
 get_emoji("👩‍⚕️")
+get_emoji("🏳️")
 ```
 
 
