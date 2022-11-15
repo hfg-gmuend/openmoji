@@ -8,12 +8,12 @@
   </g>
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#186648"/>
-    <rect x="38" y="16.9999" width="4" height="38" fill="#ffffff" stroke-width="2"/>
+    <rect x="38" y="17" width="4" height="38" fill="#ffffff" stroke-width="2"/>
     <rect x="5" y="34" width="62" height="4"/>
     <rect x="5" y="38" width="62" height="4" fill="#ffffff" stroke-width="2"/>
     <rect x="5" y="30" width="62" height="4" fill="#fcea2b"/>
-    <rect x="34" y="16.9999" width="4" height="38"/>
-    <rect x="30" y="16.9999" width="4" height="38" fill="#fcea2b"/>
+    <rect x="34" y="17" width="4" height="38"/>
+    <rect x="30" y="17" width="4" height="38" fill="#fcea2b"/>
     <circle cx="36" cy="36" r="13" fill="#d22f27"/>
     <g>
       <path d="M36.3668,34.9556A5.1,5.1,0,0,0,39.2812,38.46a.2572.2572,0,0,0,.3528-.1087.1829.1829,0,0,0-.0858-.2935h0a4.81,4.81,0,0,1-2.6927-3.1408h0a.2261.2261,0,0,0-.2408-.1658A.2317.2317,0,0,0,36.3668,34.9556Z"/>
