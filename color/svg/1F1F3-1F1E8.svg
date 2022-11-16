@@ -13,7 +13,7 @@
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" d="m22.39 42.45c1.114-3.639 4.098-3.639 5.216 0"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" d="m22.4 31.36c1.11 3.798 4.085 3.798 5.199 0"/>
     <line x1="23.35" x2="26.65" y1="35.25" y2="35.25" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="23.35" x2="26.65" y1="38.61" y2="38.61" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9999"/>
+    <line x1="23.35" x2="26.65" y1="38.61" y2="38.61" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
   </g>
   <g id="line">
     <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
