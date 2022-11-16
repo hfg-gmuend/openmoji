@@ -7,7 +7,8 @@
 OpenMoji 15.0 - XX XXX XXXX
 
 Improvements:
-  * Better Python code snippet in FAQ by @kolibril13 #405
+  * clean up flag paths (reasonable rounding) by @samhocevar #411
+  * better Python code snippet in FAQ by @kolibril13 #405
   * cleaning up openmoji meta data by @waldyrious #407 #406 #392 #391 #389 #388
 
 --------------------------------------------------------------------------------
