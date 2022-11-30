@@ -7,7 +7,7 @@
     <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M36 65C52.0163 65 65 52.0163 65 36C65 19.9837 52.0163 7 36 7C19.9837 7 7 19.9837 7 36C7 52.0163 19.9837 65 36 65Z"/>
   </g>
   <g id="line-supplement">
-    <path fill="#000" fill-rule="evenodd" d="M16 16H56V56H16V16ZM25 26H46V47H25V26Z" clip-rule="evenodd"/>
+    <path fill="#000" fill-rule="evenodd" d="M16 16 H56V56H16V16Z M25 26 V47H46V26H25Z" clip-rule="evenodd"/>
   </g>
   <g id="color">
     <path fill="#3F3F3F" fill-rule="evenodd" d="M16 16H56V56H16V16ZM25 26H46V47H25V26Z" clip-rule="evenodd"/>
