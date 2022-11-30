@@ -26,7 +26,7 @@
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M33.4552,48.5348c0,0-1.2063,6.0215,2.3073,6.0215s2.3073-6.0215,2.3073-6.0215"/>
     <line x1="44.7" x2="38.9601" y1="55.6292" y2="57.8075" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
     <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M16.825,57.8861c0,0-2-13,10-13c3.1919,2.1279,5.9264,3.5984,9,3.5921H35.7c3.0736,0.0063,5.8081-1.4642,9-3.5921"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="34.9121,54.5563 32.4969,57.8011 26.825,44.8861 22.8676,53.3698 32.3254,57.8011"/>
+    <polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="34.9121,54.5563 32.4969,57.8011 26.825,44.8861 22.8676,53.3698 32.3254,57.8011"/>
     <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="44.7,44.8861 39.0281,57.8011 36.6129,54.5563"/>
     <path d="M41.9529,27.0468c0,1.1046-0.8954,2-2,2s-2-0.8954-2-2s0.8954-2,2-2C41.0573,25.0472,41.9525,25.9424,41.9529,27.0468"/>
     <path d="M33.9529,27.0468c0,1.1046-0.8954,2-2,2s-2-0.8954-2-2s0.8954-2,2-2C33.0573,25.0472,33.9525,25.9424,33.9529,27.0468"/>

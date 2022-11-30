@@ -10,8 +10,8 @@
     <circle cx="36" cy="36" r="26.68" fill="#fff" fill-rule="evenodd" paint-order="normal"/>
   </g>
   <g id="line">
-    <circle fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.75" cx="36" cy="36" r="26.68"/>
-    <circle fill="#000" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.33" cx="36" cy="19.35503" r="2"/>
+    <circle cx="36" cy="36" r="26.68" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.75"/>
+    <circle cx="36" cy="19.355" r="2" fill="#000" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.33"/>
     <path fill="#000" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.33" d="m 30.027694 39.967258 l 11.9436336 -.00003331 l -.5276304 -12.6578 c -.096599 -1.852036 -1.615535 -3.3103478 -3.4455864 -3.331 l -3.9732168 .00003331 c -1.8540346 .0206522 -3.37337032 1.478964 -3.4695696 3.331 z"/>
     <path fill="#000" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.33" d="m 32.6944926 27.975658 l -1.26578 25.3156 c -.036641 .73282 .383065 1.3324 .93268 1.3324 a 1.3830312 1.3830312 0 0 0 1.1518598 -1.3237394 l 1.6914818 -14.676386 c .0839412 -.7281566 .4523498 -1.3237394 .8187598 -1.3237394 s .73282 .5955828 .8187598 1.3237394 l 1.6934804 14.676386 a 1.3830312 1.3830312 0 0 0 1.1518598 1.3237394 c .549615 0 .969321 -.59958 .93268 -1.3324 l -1.26578 -25.3156 z"/>
   </g>

@@ -3,11 +3,9 @@
     <circle cx="36" cy="36" r="26.68" fill="#fff" fill-rule="evenodd" paint-order="normal"/>
   </g>
   <g id="line">
-    <circle cx="36" cy="36" r="26.68" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.74" paint-order="normal"/>
-    <g transform="translate(12.46 12.26) scale(.6662)">
-      <circle cx="35.4" cy="10.65" r="2.969" fill="#000" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
-      <path fill="#000" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.999" d="m26.37 41.59 0.792-19c0.1444-2.78 2.425-4.969 5.208-5l5.964-5e-5c2.747 0.03103 5.027 2.22 5.172 5l0.792 19z" paint-order="normal"/>
-      <path fill="#000" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m40.37 23.59 1.9 38c0.055 1.1-0.575 2-1.4 2a2.076 2.076 0 0 1-1.729-1.987l-2.542-22.03c-0.129-1.093-0.679-1.987-1.229-1.987s-1.103 0.894-1.229 1.987l-2.539 22.03a2.076 2.076 0 0 1-1.729 1.987c-0.825 0-1.455-0.9-1.4-2l1.9-38"/>
-    </g>
+    <circle cx="36" cy="36" r="26.68" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.75"/>
+    <circle cx="36" cy="19.355" r="2" fill="#000" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.33"/>
+    <path fill="#000" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.33" d="m 30.027694 39.967258 l 11.9436336 -.00003331 l -.5276304 -12.6578 c -.096599 -1.852036 -1.615535 -3.3103478 -3.4455864 -3.331 l -3.9732168 .00003331 c -1.8540346 .0206522 -3.37337032 1.478964 -3.4695696 3.331 z"/>
+    <path fill="#000" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.33" d="m 32.6944926 27.975658 l -1.26578 25.3156 c -.036641 .73282 .383065 1.3324 .93268 1.3324 a 1.3830312 1.3830312 0 0 0 1.1518598 -1.3237394 l 1.6914818 -14.676386 c .0839412 -.7281566 .4523498 -1.3237394 .8187598 -1.3237394 s .73282 .5955828 .8187598 1.3237394 l 1.6934804 14.676386 a 1.3830312 1.3830312 0 0 0 1.1518598 1.3237394 c .549615 0 .969321 -.59958 .93268 -1.3324 l -1.26578 -25.3156 z"/>
   </g>
 </svg>

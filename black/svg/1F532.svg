@@ -1,6 +1,6 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line-supplement">
-    <path fill="#000" fill-rule="evenodd" d="M16 16H56V56H16V16ZM25 26H46V47H25V26Z" clip-rule="evenodd"/>
+    <path fill="#000" fill-rule="evenodd" d="M16 16 H56V56H16V16Z M25 26 V47H46V26H25Z" clip-rule="evenodd"/>
   </g>
   <g id="line">
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M56 16H16V56H56V16Z"/>
