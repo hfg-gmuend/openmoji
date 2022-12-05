@@ -7,6 +7,8 @@
 OpenMoji 15.0 - XX XXX XXXX
 
 Improvements:
+  * fix symbol for ionising radiation to correct orientation by @RobertWinslow #421
+  * add black elements for Nepal's flag by @RobertWinslow #421
   * various improvements/alterations of svg src files by @RobertWinslow #420
   * clean up flag paths (reasonable rounding) by @samhocevar #411
   * better Python code snippet in FAQ by @kolibril13 #405
