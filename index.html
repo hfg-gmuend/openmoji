@@ -140,7 +140,7 @@ li button:focus {
 	background: none;
 	transform: none;
 }
-li.selected {    
+li.selected {
     border-bottom: 4px solid #3D98BB;
 }
 #pngsvgToggle {
@@ -192,11 +192,11 @@ li.selected {
 }
 @font-face {
     font-family: 'OpenMojiBlack';
-    src: url('font/OpenMoji-Black.ttf') format('truetype');
+    src: url('font/OpenMoji-black-glyf/OpenMoji-black-glyf.woff2') format('woff2');
   }
 @font-face {
     font-family: 'OpenMojiColor';
-    src: url('font/OpenMoji-Color.ttf') format('truetype');
+    src: url('font/OpenMoji-color-glyf_colr_0/OpenMoji-color-glyf_colr_0.woff2') format('woff2');
   }
 </style>
 </head>
@@ -32626,7 +32626,7 @@ function toggle(t) {
 function toggleNightmode() {
     if (document.body.getAttribute('color-scheme') == 'light') {
         document.body.setAttribute('color-scheme', 'dark');
-        
+
         document.getElementById('backgroundT').children[0].innerHTML = '<img alt="bright button" title="bright button - 1F506" src="color/svg/1F506.svg">'
     } else {
         document.body.setAttribute('color-scheme', 'light');
@@ -32664,6 +32664,6 @@ document.getElementById('blackT').onclick = () => {
 };
 document.getElementById('backgroundT').onclick = () => {
     toggleNightmode()
-}; 
+};
 </script>
 </html>
