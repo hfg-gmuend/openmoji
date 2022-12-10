@@ -38,7 +38,7 @@ $container_engine run \
   "${tty[@]}" \
   --pull=always \
   "ghcr.io/jeppeklitgaard/font_builder:latest" \
-  /mnt/helpers/generate-ttf-nanoemoji.sh \
+  /mnt/helpers/generate-fonts-runner.sh \
     "$build_dir" "$version"
 
 # Move to font
