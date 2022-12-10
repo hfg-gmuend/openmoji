@@ -11,7 +11,7 @@ node --version
 build_dir=$1
 version=$2
 
-mkdir -p $build_dir
+mkdir -p "$build_dir"
 
 methods_black=(glyf)
 methods_color=(cbdt glyf_colr_0 glyf_colr_1 sbix picosvgz untouchedsvgz)
@@ -54,7 +54,7 @@ EOF
     done
 
     # Generate font
-    nanoemoji --build_dir="$build_dir/$saturation" $build_dir/$saturation/*.toml
+    nanoemoji --build_dir="$build_dir/$saturation" "$build_dir/$saturation/"*.toml
 
     for method in "${methods[@]}"; do
         # Generate XML for font
