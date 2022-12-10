@@ -1,5 +1,16 @@
 FROM nikolaik/python-nodejs:python3.11-nodejs18-slim
 
+# This Dockerfile provides the image used to generate the fonts
+# from the source images.
+
+# Versions of nanoemoji and picsvg used to build the fonts
+# can be changed here. Pushing such a change to GitHub should
+# trigger a rebuild of the image.
+#!!! This must be done BEFORE helpers/generate-fonts.sh is rerun
+# for the change to materialise.
+
+# The file helpers/generate-fonts-runner.sh is run within this image
+
 LABEL org.opencontainers.image.url="https://openmoji.org/"
 LABEL org.opencontainers.image.source="https://github.com/hfg-gmuend/openmoji"
 LABEL org.opencontainers.image.title="OpenMoji Font Builder"
