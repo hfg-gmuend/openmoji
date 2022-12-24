@@ -50,6 +50,7 @@ You can download, use and "consume" OpenMoji in various ways:
 - [OpenMoji in JavaFX](https://github.com/pavlobu/emoji-text-flow-javafx): A cross-platform JavaFX library allowing you to replace all standard emoji in extended TextFlow (EmojiTextFlow) with OpenMoji.
 - [OpenMoji Awesome CSS Classes](https://github.com/gromain/openmoji-awesome): "Font Awesome" flavored CSS classes eg.  `<i class="oma oma-face-with-monocle"></i>` ready to use for websites.  
 - [OpenMoji Sticker Sets](https://github.com/MEibenst/openmoji-sticker-sets): Stickers for Telegram and WhatsApp.
+- [OpenMoji Flutter](https://pub.dev/packages/flutter_openmoji): OpenMoji usable as Icon for the FLutter framework.
 
 
 ## Attribution Requirements
