@@ -2359,9 +2359,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐇,1F407,animals-nature,animal-mammal,rabbit,"bunny, pet","rodent, teeth, cute, ears, bunny, hopping, easter",Sofie Ascherl,2018-04-18,,,,,1,3222
 🐿️,1F43F,animals-nature,animal-mammal,chipmunk,squirrel,"squirrel, alvin",Sofie Ascherl,2018-04-18,,,,,0.7,3224
 🦫,1F9AB,animals-nature,animal-mammal,beaver,dam,,Liz Bravo,2020-10-07,,,,,13,3225
-🦔,1F994,animals-nature,animal-mammal,hedgehog,spiny,"prickly, fall, apple, leafs",Sofie Ascherl,2018-04-18,,,,,5,3226
+🦔,1F994,animals-nature,animal-mammal,hedgehog,spiny,prickly,Sofie Ascherl,2018-04-18,,,,,5,3226
 🦇,1F987,animals-nature,animal-mammal,bat,vampire,"batman, dracula",Sofie Ascherl,2018-04-18,,,,,3,3227
-🐻,1F43B,animals-nature,animal-mammal,bear,face,"brown, salmon, river, thick",Sofie Ascherl,2018-04-18,,,,,0.6,3228
+🐻,1F43B,animals-nature,animal-mammal,bear,face,brown,Sofie Ascherl,2018-04-18,,,,,0.6,3228
 🐻‍❄️,1F43B-200D-2744-FE0F,animals-nature,animal-mammal,polar bear,"arctic, bear, white","ice, arctic, animal, ursa",Sina Grund,2020-02-18,,,,,13,3229
 🐨,1F428,animals-nature,animal-mammal,koala,"face, marsupial","grey, fluffy, eucalyptus, australia, clingy",Sofie Ascherl,2018-04-18,,,,,0.6,3231
 🐼,1F43C,animals-nature,animal-mammal,panda,face,"kawaii, cute, japan",Sofie Ascherl,2018-04-18,,,,,0.6,3232
@@ -2431,22 +2431,22 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🪷,1FAB7,animals-nature,plant-flower,lotus,"buddhism, flower, hinduism, india, purity, vietnam",,Max Isele,2022-05-09,,,,,14,3299
 🏵️,1F3F5,animals-nature,plant-flower,rosette,plant,,Ricarda Krejci,2019-05-07,,,,,0.7,3301
 🌹,1F339,animals-nature,plant-flower,rose,flower,"rose, red, nature, present, valentines day",Hilda Kalyoncu,2018-04-18,,,,,0.6,3302
-🥀,1F940,animals-nature,plant-flower,wilted flower,"flower, wilted","rose, wilted, flower, red, sad, plant",Hilda Kalyoncu,2018-04-18,,,,,3,3303
+🥀,1F940,animals-nature,plant-flower,wilted flower,"flower, wilted","rose, red, sad, plant",Hilda Kalyoncu,2018-04-18,,,,,3,3303
 🌺,1F33A,animals-nature,plant-flower,hibiscus,flower,pink,Hilda Kalyoncu,2018-04-18,,,,,0.6,3304
 🌻,1F33B,animals-nature,plant-flower,sunflower,"flower, sun","sun, flower, yellow, summer",Hilda Kalyoncu,2018-04-18,,,,,0.6,3305
 🌼,1F33C,animals-nature,plant-flower,blossom,flower,"yellow, nature",Hilda Kalyoncu,2018-04-18,,,,,0.6,3306
 🌷,1F337,animals-nature,plant-flower,tulip,flower,"pink, eastern",Hilda Kalyoncu,2018-04-18,,,,,0.6,3307
-🌱,1F331,animals-nature,plant-other,seedling,young,"farming, growing, green",Hilda Kalyoncu,2018-04-18,,,,,0.6,3308
+🌱,1F331,animals-nature,plant-other,seedling,young,"farming, growing, green, leaf, leaves, plant",Hilda Kalyoncu,2018-04-18,,,,,0.6,3308
 🪴,1FAB4,animals-nature,plant-other,potted plant,"boring, grow, house, nurturing, plant, useless",,Liz Bravo,2020-03-26,,,,,13,3309
-🌲,1F332,animals-nature,plant-other,evergreen tree,tree,"green, tree, fir, plant",Hilda Kalyoncu,2018-04-18,,,,,1,3310
-🌳,1F333,animals-nature,plant-other,deciduous tree,"deciduous, shedding, tree","green, tree, huge, plant",Hilda Kalyoncu,2018-04-18,,,,,1,3311
-🌴,1F334,animals-nature,plant-other,palm tree,"palm, tree","sea, vacation, beach, relax, plant",Hilda Kalyoncu,2018-04-18,,,,,0.6,3312
+🌲,1F332,animals-nature,plant-other,evergreen tree,tree,"green, fir, plant",Hilda Kalyoncu,2018-04-18,,,,,1,3310
+🌳,1F333,animals-nature,plant-other,deciduous tree,"deciduous, shedding, tree","green, plant",Hilda Kalyoncu,2018-04-18,,,,,1,3311
+🌴,1F334,animals-nature,plant-other,palm tree,"palm, tree","sea, vacation, beach, relax",Hilda Kalyoncu,2018-04-18,,,,,0.6,3312
 🌵,1F335,animals-nature,plant-other,cactus,plant,"desert, sun, warm, hot, texas, plant",Liz Bravo,2020-12-22,,,,,0.6,3313
 🌾,1F33E,animals-nature,plant-other,sheaf of rice,"ear, grain, rice",,Hend Hourani,2018-11-16,,,,,0.6,3314
-🌿,1F33F,animals-nature,plant-other,herb,leaf,green,Hilda Kalyoncu,2018-04-18,,,,,0.6,3315
-☘️,2618,animals-nature,plant-other,shamrock,plant,"green, plant",Hilda Kalyoncu,2018-04-18,,,,,1,3317
-🍀,1F340,animals-nature,plant-other,four leaf clover,"4, clover, four, four-leaf clover, leaf","luck, four, leaf, green, plant",Hilda Kalyoncu,2018-04-18,,,,,0.6,3318
-🍁,1F341,animals-nature,plant-other,maple leaf,"falling, leaf, maple","autumn, colorful",Hilda Kalyoncu,2018-04-18,,,,,0.6,3319
+🌿,1F33F,animals-nature,plant-other,herb,leaf,"green, leaves, plant",Hilda Kalyoncu,2018-04-18,,,,,0.6,3315
+☘️,2618,animals-nature,plant-other,shamrock,plant,"green, leaf, leaves",Hilda Kalyoncu,2018-04-18,,,,,1,3317
+🍀,1F340,animals-nature,plant-other,four leaf clover,"4, clover, four, four-leaf clover, leaf","luck, leaves, green, plant",Hilda Kalyoncu,2018-04-18,,,,,0.6,3318
+🍁,1F341,animals-nature,plant-other,maple leaf,"falling, leaf, maple","autumn, fall, orange",Hilda Kalyoncu,2018-04-18,,,,,0.6,3319
 🍂,1F342,animals-nature,plant-other,fallen leaf,"falling, leaf",,Ricarda Krejci,2019-05-07,,,,,0.6,3320
 🍃,1F343,animals-nature,plant-other,leaf fluttering in wind,"blow, flutter, leaf, wind",,Ricarda Krejci,2019-05-07,,,,,0.6,3321
 🪹,1FAB9,animals-nature,plant-other,empty nest,nesting,,Alena Peichl,2022-05-09,,,,,14,3322
