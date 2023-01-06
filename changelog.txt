@@ -6,6 +6,9 @@
 
 OpenMoji 15.0 - XX XXX XXXX
 
+New:
+  + hyphen-minus symbol (codepoint 002D) by @RobertWinslow #93
+
 Improvements:
   * fix symbol for ionising radiation to correct orientation by @RobertWinslow #421
   * add black elements for Nepal's flag by @RobertWinslow #421
@@ -13,6 +16,20 @@ Improvements:
   * clean up flag paths (reasonable rounding) by @samhocevar #411
   * better Python code snippet in FAQ by @kolibril13 #405
   * cleaning up openmoji meta data by @waldyrious #407 #406 #392 #391 #389 #388
+
+  #426 by @RobertWinslow
+  * Several paths have had superfluous colinear points removed (tophat and math symbols)
+  * Several math symbols were centered
+  * 1FAD7 (pouring liquid) was reworked to have thicker lines
+  * The lines in 1F6EB and 1F6EC (airplane takeoff and landing) were likewise thickened
+  * The post office symbol in 1F3E3 was made blockier and red
+  * 1F691 (ambulance) was updated to have the correct symbol, the Star of Life #419 #417
+  * The black version of the moon phases now has a black fill
+  * 1F5C2 and 1F4C7 have made more distinct
+  * 1F4C7 redesigned to be more similar to other emoji sets
+  * The black flag 1F3F4 has had a path closed and reversed.
+  * Lighten the background of 1F233
+  * The 'E' in 1F4E7 (e-mail) has been rounded and copied into the line-supplement layer.
 
 --------------------------------------------------------------------------------
 
