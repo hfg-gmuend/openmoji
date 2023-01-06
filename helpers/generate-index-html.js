@@ -35,7 +35,7 @@ body {
     font-family: "Source Sans Pro", sans-serif;
 }
 header {
-	border-bottom: rgba(129, 128, 128, 0.5) 1px solid;
+    border-bottom: rgba(129, 128, 128, 0.5) 1px solid;
     background-color: #FFF;
     box-sizing: border-box;
     padding: 0 50px;
@@ -43,13 +43,13 @@ header {
     align-items: center;
     justify-content: space-between;
     height: 80px;
-	max-width: 100vw;
+    max-width: 100vw;
     position: sticky;
     top: 0;
 }
 header nav {
-	display: flex;
-	align-items: center;
+    display: flex;
+    align-items: center;
 }
 header nav ul {
     display: flex;
@@ -64,10 +64,10 @@ header nav ul li {
     list-style: none;
 }
 header nav ul li a {
-	vertical-align: middle;
-	display: inline-block;
-	line-height: 1.55rem;
-	font-size: 17px;
+    vertical-align: middle;
+    display: inline-block;
+    line-height: 1.55rem;
+    font-size: 17px;
 }
 a {
     text-decoration: none;
@@ -114,27 +114,27 @@ button:active {
     transform: scale(1.4);
 }
 button p {
-	line-height: 72px;
-	font-size: 44px;
-	margin: 0;
+    line-height: 72px;
+    font-size: 44px;
+    margin: 0;
 }
 li img {
     width: 30px;
     height: 30px;
-	margin-top: -5px;
+    margin-top: -5px;
 }
 li p {
-	margin-top: 10px;
+    margin-top: 10px;
 }
 li button {
-	color: inherit;
+    color: inherit;
     height: auto;
     width: auto;
-	font-family: inherit;
-	background: none;
-	padding: 0 5px;
-	margin: 0 5px;
-	font-size: 17px;
+    font-family: inherit;
+    background: none;
+    padding: 0 5px;
+    margin: 0 5px;
+    font-size: 17px;
 }
 li button:hover {
     background: none;
@@ -145,12 +145,12 @@ li button:active {
     background: none;
 }
 li button:focus {
-	outline: 1px solid #0003;
-	outline-offset: -2px;
-	background: none;
-	transform: none;
+    outline: 1px solid #0003;
+    outline-offset: -2px;
+    background: none;
+    transform: none;
 }
-li.selected {    
+li.selected {
     border-bottom: 4px solid #3D98BB;
 }
 #pngsvgToggle {
@@ -203,11 +203,11 @@ li.selected {
 @font-face {
     font-family: 'OpenMojiBlack';
     src: url('font/OpenMoji-Black.ttf') format('truetype');
-  }
+}
 @font-face {
     font-family: 'OpenMojiColor';
     src: url('font/OpenMoji-Color.ttf') format('truetype');
-  }
+}
 </style>
 </head>
 <body color-scheme='light'>
@@ -379,7 +379,7 @@ function toggle(t) {
 function toggleNightmode() {
     if (document.body.getAttribute('color-scheme') == 'light') {
         document.body.setAttribute('color-scheme', 'dark');
-        
+
         document.getElementById('backgroundT').children[0].innerHTML = '<img alt="bright button" title="bright button - 1F506" src="color/svg/1F506.svg">'
     } else {
         document.body.setAttribute('color-scheme', 'light');
@@ -417,7 +417,7 @@ document.getElementById('blackT').onclick = () => {
 };
 document.getElementById('backgroundT').onclick = () => {
     toggleNightmode()
-}; 
+};
 </script>
 </html>
 `;
