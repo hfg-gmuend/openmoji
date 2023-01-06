@@ -6,6 +6,11 @@
     <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M68,18.2537v35.4926 C68,54.991,66.991,56,65.7463,56H6.2537C5.009,56,4,54.991,4,53.7463V18.2537C4,17.009,5.009,16,6.2537,16h59.4926 C66.991,16,68,17.009,68,18.2537z"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
+  <g id="line-supplement">
+    <rect x="17" y="17" width="18" height="4" fill="#000000"/>
+    <rect x="17" y="23" width="18" height="4" fill="#000000"/>
+    <rect x="24" y="25" width="4" height="9" fill="#000000"/>
+  </g>
   <g id="color">
     <rect x="12.5" y="12" width="27" height="48" fill="#D0CFCE"/>
     <rect x="39.5" y="25" width="19" height="35" fill="#D0CFCE"/>
@@ -19,6 +24,9 @@
     <rect x="44" y="50" width="2" height="5" fill="#92D3F5" stroke="#92D3F5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
     <rect x="52" y="50" width="2" height="5" fill="#92D3F5" stroke="#92D3F5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
     <rect x="19.5" y="50" width="13" height="10" fill="#92D3F5"/>
+    <rect x="17" y="17" width="18" height="4" fill="#D22F27"/>
+    <rect x="17" y="23" width="18" height="4" fill="#D22F27"/>
+    <rect x="24" y="25" width="4" height="9" fill="#D22F27"/>
   </g>
   <g id="hair"/>
   <g id="skin"/>
@@ -37,8 +45,5 @@
     <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="19,45 17,45 17,40"/>
     <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="46,45 44,45 44,40"/>
     <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="46,55 44,55 44,50"/>
-    <rect x="18" y="18" width="16" height="2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="18" y="24" width="16" height="2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="25" y="26" width="2" height="7" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
   </g>
 </svg>
