@@ -33,12 +33,14 @@ The color font comes in a variety of formats:
 | [`OpenMoji-color-glyf_colr_1`](OpenMoji-color-glyf_colr_1) | `COLRv1` in OpenType | Emerging standard with many features | Vector        | Most modern browsers (not Safari), very little support on desktop applications |
 | [`OpenMoji-color-picosvgz`](OpenMoji-color-picosvgz) | `SVG` in OpenType | SVG-based format with compression tricks applied using `picosvg` | Vector        | Firefox and Safari, some desktop applications |
 | [`OpenMoji-color-sbix`](OpenMoji-color-sbix) | `SBIX` | Format primarily used by Apple | Bitmap        | Safari, Chrome-based browsers, some desktop applications, MacOS, iOS |
-| [`OpenMoji-color-untouchedsvgz`](OpenMoji-color-untouchedsvgz) | `SVG` in OpenType | SVG-based format without compression tricks | Vector        | Firefox and Safari, some desktop applications |
+| [`OpenMoji-color-untouchedsvgz`](OpenMoji-color-untouchedsvgz) | `SVG` in OpenType | `SVG`-based format without compression tricks | Vector        | Firefox and Safari, some desktop applications |
+| [`OpenMoji-color-colr0_svg`](OpenMoji-color-colr0_svg) | `SVG` in OpenType, `COLRv0` | Both `SVG` and `COLRv0` in one font | Vector        | All modern webbrowsers, some desktop applications |
+| [`OpenMoji-color-colr1_svg`](OpenMoji-color-colr1_svg) | `SVG` in OpenType, `COLRv0` | Both `SVG` and `COLRv1` in one font | Vector        | Almost all modern webbrowsers, some desktop applications |
 
 We generally recommend:
 - `COLRv0` with `woff2` for websites
 - `COLRv1` with `woff2` for websites if lack of support for Safari is okay
-- `picosvgz` with `ttf` for desktop applications, though you may want to try bitmap-based formats if this does not work.
+- `SVG`+`COLRv0` with `ttf` for desktop applications, though you may want to try bitmap-based formats if this does not work.
 
 ## Further reading
 
