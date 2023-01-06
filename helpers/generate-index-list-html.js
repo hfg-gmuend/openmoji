@@ -62,8 +62,8 @@ html += _.map(emojisList, (e, i) => {
             <td>${e.group}</td>
             <td>${e.subgroups}</td>
             <td>${e.annotation}</td>
-            <td>${e.tags.replace(/,/g, ', ')}</td>
-            <td>${e.openmoji_tags.replace(/,/g, ', ')}</td>
+            <td>${e.tags}</td>
+            <td>${e.openmoji_tags}</td>
             <td>${e.openmoji_author}</td>
             <td><a download href="src/${e.group +'/'+ e.subgroups +'/'+ e.hexcode +'.svg'}">⬇</a></td>
         </tr>`;
