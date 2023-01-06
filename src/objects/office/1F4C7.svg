@@ -7,16 +7,16 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <path  fill="#ea5a47" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m 18.6 7 h 5.87 a 1.57 1.57 0 0 1 1.56 1.57 v 3.43 a 0 0 0 0 1 0 0 h -9 a 0 0 0 0 1 0 0 v -3.43 a 1.57 1.57 0 0 1 1.57 -1.57 z"/>
-    <path  fill="#b1cc33" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m 30 7 h 5.87 a 1.57 1.57 0 0 1 1.56 1.57 v 3.43 a 0 0 0 0 1 0 0 h -9 a 0 0 0 0 1 0 0 v -3.43 a 1.57 1.57 0 0 1 1.57 -1.57 z"/>
-    <path  fill="#92d3f5" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m 45 7 h 5.87 a 1.57 1.57 0 0 1 1.56 1.57 v 3.43 a 0 0 0 0 1 0 0 h -9 a 0 0 0 0 1 0 0 v -3.43 a 1.57 1.57 0 0 1 1.57 -1.57 z"/>
+    <path fill="#ea5a47" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m 18.6 7 h 5.87 a 1.57 1.57 0 0 1 1.56 1.57 v 3.43 a 0 0 0 0 1 0 0 h -9 a 0 0 0 0 1 0 0 v -3.43 a 1.57 1.57 0 0 1 1.57 -1.57 z"/>
+    <path fill="#b1cc33" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m 30 7 h 5.87 a 1.57 1.57 0 0 1 1.56 1.57 v 3.43 a 0 0 0 0 1 0 0 h -9 a 0 0 0 0 1 0 0 v -3.43 a 1.57 1.57 0 0 1 1.57 -1.57 z"/>
+    <path fill="#92d3f5" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m 45 7 h 5.87 a 1.57 1.57 0 0 1 1.56 1.57 v 3.43 a 0 0 0 0 1 0 0 h -9 a 0 0 0 0 1 0 0 v -3.43 a 1.57 1.57 0 0 1 1.57 -1.57 z"/>
     <rect x="17" y="12" width="38" height="22" fill="#d0cfce" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <rect x="17" y="38" width="38" height="22" fill="#d0cfce" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
   <g id="line">
-    <path d="m 18.6 7 h 5.87 a 1.57 1.57 0 0 1 1.56 1.57 v 3.43 a 0 0 0 0 1 0 0 h -9 a 0 0 0 0 1 0 0 v -3.43 a 1.57 1.57 0 0 1 1.57 -1.57 z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path d="m 30 7 h 5.87 a 1.57 1.57 0 0 1 1.56 1.57 v 3.43 a 0 0 0 0 1 0 0 h -9 a 0 0 0 0 1 0 0 v -3.43 a 1.57 1.57 0 0 1 1.57 -1.57 z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path d="m 45 7 h 5.87 a 1.57 1.57 0 0 1 1.56 1.57 v 3.43 a 0 0 0 0 1 0 0 h -9 a 0 0 0 0 1 0 0 v -3.43 a 1.57 1.57 0 0 1 1.57 -1.57 z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m 18.6 7 h 5.87 a 1.57 1.57 0 0 1 1.56 1.57 v 3.43 a 0 0 0 0 1 0 0 h -9 a 0 0 0 0 1 0 0 v -3.43 a 1.57 1.57 0 0 1 1.57 -1.57 z"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m 30 7 h 5.87 a 1.57 1.57 0 0 1 1.56 1.57 v 3.43 a 0 0 0 0 1 0 0 h -9 a 0 0 0 0 1 0 0 v -3.43 a 1.57 1.57 0 0 1 1.57 -1.57 z"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m 45 7 h 5.87 a 1.57 1.57 0 0 1 1.56 1.57 v 3.43 a 0 0 0 0 1 0 0 h -9 a 0 0 0 0 1 0 0 v -3.43 a 1.57 1.57 0 0 1 1.57 -1.57 z"/>
     <rect x="17" y="12" width="38" height="22" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <rect x="17" y="38" width="38" height="22" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M28,31 v10"/>
