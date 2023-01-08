@@ -97,20 +97,20 @@ done
 
 for colr_version in 0 1; do
     # Make TTF with both COLR and SVG font data in it
-    rm -rv "$build_dir/fonts/OpenMoji-color-colr"$colr_version"_svg"
-    mkdir "$build_dir/fonts/OpenMoji-color-colr"$colr_version"_svg"
+    rm -rv "$build_dir/fonts/OpenMoji-color-colr${colr_version}_svg"
+    mkdir "$build_dir/fonts/OpenMoji-color-colr${colr_version}_svg"
 
     cp \
-        "$build_dir/fonts/OpenMoji-color-glyf_colr_"$colr_version"/OpenMoji-color-glyf_colr_"$colr_version".ttf"\
-        "$build_dir/fonts/OpenMoji-color-colr"$colr_version"_svg/OpenMoji-color-colr"$colr_version"_svg.ttf"
+        "$build_dir/fonts/OpenMoji-color-glyf_colr_${colr_version}/OpenMoji-color-glyf_colr_${colr_version}.ttf"\
+        "$build_dir/fonts/OpenMoji-color-colr${colr_version}_svg/OpenMoji-color-colr${colr_version}_svg.ttf"
 
-    maximum_color "$build_dir/fonts/OpenMoji-color-colr"$colr_version"_svg/OpenMoji-color-colr"$colr_version"_svg.ttf"
+    maximum_color "$build_dir/fonts/OpenMoji-color-colr${colr_version}_svg/OpenMoji-color-colr${colr_version}_svg.ttf"
 
-    woff2_compress "$build_dir/fonts/OpenMoji-color-colr"$colr_version"_svg/OpenMoji-color-colr"$colr_version"_svg.ttf"
+    woff2_compress "$build_dir/fonts/OpenMoji-color-colr${colr_version}_svg/OpenMoji-color-colr${colr_version}_svg.ttf"
 
     /mnt/helpers/generate-font-demo.js\
-        "OpenMoji-color-colr"$colr_version"_svg.woff2"\
-        "$build_dir/fonts/OpenMoji-color-colr"$colr_version"_svg"
+        "OpenMoji-color-colr${colr_version}_svg.woff2"\
+        "$build_dir/fonts/OpenMoji-color-colr${colr_version}_svg"
 done
 
 echo "Done building fonts!"
