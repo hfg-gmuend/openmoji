@@ -6,6 +6,10 @@
     <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M68,18.2537v35.4926 C68,54.991,66.991,56,65.7463,56H6.2537C5.009,56,4,54.991,4,53.7463V18.2537C4,17.009,5.009,16,6.2537,16h59.4926 C66.991,16,68,17.009,68,18.2537z"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
+  <g id="line-supplement">
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="37.6982,20.7547 33.6982,20.7547 33.6982,27.7547 37.6982,27.7547"/>
+    <line x1="33.6982" x2="36.6982" y1="24.2547" y2="24.2547" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
   <g id="color">
     <path fill="#D0CFCE" d="M26.6383,36.75l-15.35,14.14c-0.35-0.6201-0.57-1.44-0.57-2.32V22.06L26.6383,36.75z"/>
     <rect x="21.1707" y="19.8958" width="28.5417" height="3.125" fill="#D0CFCE"/>
@@ -16,7 +20,7 @@
     <rect x="20" y="36" width="7" height="5" fill="#D0CFCE" stroke="#D0CFCE" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
     <path fill="#D0CFCE" d="M47.7628,39.536L60.1082,50.84c-0.42,0.77-1.07,1.27-1.79,1.27h-45.26c-0.7,0-1.34-0.47-1.77-1.22 l12.0781-11.126"/>
     <path fill="#D0CFCE" d="M49.4849,20.9h9.46c0.59,0,1.16,0.35,1.57,0.91c0.05,0.06,0.1,0.13,0.14,0.2l-15.96,14.72l-4.5,4.15 c-0.22,0.2-0.46,0.4-0.69,0.56c-2.42,1.81-5.25,1.81-7.68,0.01c-0.24-0.16-0.48-0.35-0.72-0.57l-4.47-4.13l-15.92-14.69 c0.04-0.06,0.09-0.13,0.14-0.2c0.42-0.6,0.99-0.96,1.61-0.96h8.48"/>
-    <polyline fill="none" stroke="#EA5A47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" points="37.6982,20.7547 33.6982,20.7547 33.6982,27.7547 37.6982,27.7547"/>
+    <polyline fill="none" stroke="#EA5A47" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="37.6982,20.7547 33.6982,20.7547 33.6982,27.7547 37.6982,27.7547"/>
     <line x1="33.6982" x2="36.6982" y1="24.2547" y2="24.2547" fill="none" stroke="#EA5A47" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
   </g>
   <g id="hair"/>

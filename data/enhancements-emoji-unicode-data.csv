@@ -75,7 +75,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🐷,1F437,"pork, farm, pink, meat, oink",Sofie Ascherl,2018-04-18
 🐹,1F439,"rodent, fat, fluffy, corn",Sofie Ascherl,2018-04-18
 🐺,1F43A,"pack, wild, free, forest, dog",Sofie Ascherl,2018-04-18
-🐻,1F43B,"brown, salmon, river, thick",Sofie Ascherl,2018-04-18
+🐻,1F43B,brown,Sofie Ascherl,2018-04-18
 🐻‍❄️,1F43B-200D-2744-FE0F,"ice, arctic, animal, ursa",Sina Grund,2020-02-18
 🐼,1F43C,"kawaii, cute, japan",Sofie Ascherl,2018-04-18
 🐽,1F43D,"smell, socket, nose",Sofie Ascherl,2018-04-18
@@ -88,7 +88,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🦏,1F98F,"rhino, horn, africa",Sofie Ascherl,2018-04-18
 🦒,1F992,"long, neck, trees, big",Sofie Ascherl,2018-04-18
 🦓,1F993,"horse, black, white",Sofie Ascherl,2018-04-18
-🦔,1F994,"prickly, fall, apple, leafs",Sofie Ascherl,2018-04-18
+🦔,1F994,prickly,Sofie Ascherl,2018-04-18
 🐟️,1F41F,"swim, animal, water",Selina Bauder,2018-04-18
 🐬,1F42C,"cetacean, swim, animal, water",Kris Kowal,2020-04-04
 🦈,1F988,"swim, animal, water",Selina Bauder,2018-04-18
@@ -773,17 +773,17 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🌷,1F337,"pink, eastern",Hilda Kalyoncu,2018-04-18
 🌺,1F33A,pink,Hilda Kalyoncu,2018-04-18
 🌻,1F33B,"sun, flower, yellow, summer",Hilda Kalyoncu,2018-04-18
-🥀,1F940,"rose, wilted, flower, red, sad, plant",Hilda Kalyoncu,2018-04-18
-🌲,1F332,"green, tree, fir, plant",Hilda Kalyoncu,2018-04-18
-🌳,1F333,"green, tree, huge, plant",Hilda Kalyoncu,2018-04-18
-🌴,1F334,"sea, vacation, beach, relax, plant",Hilda Kalyoncu,2018-04-18
+🥀,1F940,"rose, red, sad, plant",Hilda Kalyoncu,2018-04-18
+🌲,1F332,"green, fir, plant",Hilda Kalyoncu,2018-04-18
+🌳,1F333,"green, plant",Hilda Kalyoncu,2018-04-18
+🌴,1F334,"sea, vacation, beach, relax",Hilda Kalyoncu,2018-04-18
 🌵,1F335,"desert, sun, warm, hot, texas, plant",Liz Bravo,2020-12-22
-🍀,1F340,"luck, four, leaf, green, plant",Hilda Kalyoncu,2018-04-18
-☘️,2618,"green, plant",Hilda Kalyoncu,2018-04-18
-🌱,1F331,"farming, growing, green",Hilda Kalyoncu,2018-04-18
+🍀,1F340,"luck, leaves, green, plant",Hilda Kalyoncu,2018-04-18
+☘️,2618,"green, leaf, leaves",Hilda Kalyoncu,2018-04-18
+🌱,1F331,"farming, growing, green, leaf, leaves, plant",Hilda Kalyoncu,2018-04-18
 🪴,1FAB4,,Liz Bravo,2020-03-26
-🌿,1F33F,green,Hilda Kalyoncu,2018-04-18
-🍁,1F341,"autumn, colorful",Hilda Kalyoncu,2018-04-18
+🌿,1F33F,"green, leaves, plant",Hilda Kalyoncu,2018-04-18
+🍁,1F341,"autumn, fall, orange",Hilda Kalyoncu,2018-04-18
 ✝️,271D,,Jose Avila,2018-04-18
 🛐,1F6D0,pray,Jose Avila,2018-04-18
 ☪️,262A,,Jose Avila,2018-04-18
