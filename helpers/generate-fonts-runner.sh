@@ -97,8 +97,7 @@ done
 
 for colr_version in 0 1; do
     # Make TTF with both COLR and SVG font data in it
-    rm -rv "$build_dir/fonts/OpenMoji-color-colr${colr_version}_svg"
-    mkdir "$build_dir/fonts/OpenMoji-color-colr${colr_version}_svg"
+    mkdir -p "$build_dir/fonts/OpenMoji-color-colr${colr_version}_svg"
 
     cp \
         "$build_dir/fonts/OpenMoji-color-glyf_colr_${colr_version}/OpenMoji-color-glyf_colr_${colr_version}.ttf"\
