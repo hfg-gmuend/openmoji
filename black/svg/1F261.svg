@@ -1,0 +1,6 @@
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="line">
+    <circle cx="36" cy="36" r="28" fill="none" stroke="#000000" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M 13.2 33 a23,23,0,0,1,45.6,0 H39 v-14.8 a18,18,0,0,1,13.1,9.8 H45 M 13.2 33 H33 v-14.8 a18,18,0,0,0,-13.1,9.8 H27 M 13.2 39 a23,23,0,0,0,45.6,0 H39 v14.8 a18,18,0,0,0,13.1,-9.8 H45 M 13.2 39 H33 v14.8 a18,18,0,0,1,-13.1,-9.8 H 27 M19.8,19.8 l3.2,3.2 M52.2,52.2 l-3.2,-3.2 M19.8,52.2 l3.2,-3.2 M52.2,19.8 l-3.2,3.2 M 18.1 39 a18,18,0,0,1,0,-6 M 53.9 39 a18,18,0,0,0,0,-6"/>
+  </g>
+</svg>
