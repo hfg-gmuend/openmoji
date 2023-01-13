@@ -95,3 +95,9 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 🇾,1F1FE,extras-unicode,regional-indicator,regional indicator Y,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
 🇿,1F1FF,extras-unicode,regional-indicator,regional indicator Z,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
 -,002D,extras-unicode,symbol-other,hyphen-minus,"hyphen, minus, dash, line",Robert Winslow,2022-12-24,1
+🉠,1F260,extras-unicode,symbol-other,rounded symbol for fu,"ideograph, chinese, religion, luck, 福",Robert Winslow,2023-01-06,10
+🉡,1F261,extras-unicode,symbol-other,rounded symbol for lu,"ideograph, chinese, religion, prosperity, 禄, 祿",Robert Winslow,2023-01-06,10
+🉢,1F262,extras-unicode,symbol-other,rounded symbol for shou,"ideograph, chinese, religion, longevity, 寿, 壽",Robert Winslow,2023-01-06,10
+🉣,1F263,extras-unicode,symbol-other,rounded symbol for xi,"ideograph, chinese, religion, happiness, 喜",Robert Winslow,2023-01-06,10
+🉤,1F264,extras-unicode,symbol-other,rounded symbol for shuangxi,"ideograph, chinese, religion, double happiness, love and marriage, 囍",Robert Winslow,2023-01-06,10
+🉥,1F265,extras-unicode,symbol-other,rounded symbol for cai,"ideograph, chinese, religion, wealth, 财, 財",Robert Winslow,2023-01-06,10
