@@ -1,10 +1,9 @@
 .DS_Store
 node_modules/*
 _tmp/*
-font/tmp-color/*
-font/tmp-black/*
 color/pdf/*
 black/pdf/*
 color/512x512/*
+build/
 data/openmoji-tester.json
 *.csv\#

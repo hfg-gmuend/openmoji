@@ -1,31 +1,52 @@
 #!/bin/bash
 set -ueo pipefail
 
+# This file uses docker and the container described in
+# helpers/docker/font_builder.Dockerfile
+# to build the fonts using nanoemoji
+
+# See font/README.md for details
+
 # -- prepare assets --
 cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/.. || exit 1
 
-# copy and prepare svg assets for OpenMoji font generator
-echo "👉 generate-font-glyphs.js"
-helpers/generate-font-glyphs.js
+build_dir="/mnt/build"
+version=$(git describe --tags)
 
-# generate css file for OpenMoji fonts
-echo "👉 generate-font-css.js"
-helpers/generate-font-css.js
+# If we're connected to a terminal, don't flood it with ninja output,
+# and enable ^C.
+if [[ -t 1 ]]; then
+    tty=(--tty --interactive)
+else
+    tty=()
+fi
 
-# -- OpenMoji font generator via scfbuild Docker --
-cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/../font || exit 1
+case "${CONTAINER_ENGINE:-unset}" in
+podman)
+    container_engine=podman
+    ;;
+docker)
+    container_engine=docker
+    ;;
+*)
+    for ce in podman docker; do
+        if type -t $ce >/dev/null; then
+            container_engine=$ce
+            break
+        fi
+    done
+    ;;
+esac
 
-IMAGE='scfbuild:latest'
-NAME='scfbuild_bash'
+$container_engine run \
+  --volume="$PWD":/mnt:Z \
+  --rm \
+  "${tty[@]}" \
+  --pull=always \
+  "ghcr.io/jeppeklitgaard/font_builder:latest" \
+  /mnt/helpers/generate-fonts-runner.sh \
+    "$build_dir" "$version"
 
-# is docker container "scfbuild_bash" running?
-# if not ... start container
-[[ "$(docker ps -f "name=$NAME" --format '{{.Names}}')" == "$NAME" ]] ||
-docker run --name "$NAME" --rm -t -d --volume "$PWD":/wd --workdir /wd "$IMAGE" bash
-
-# generate fonts
-docker exec -ti "$NAME" bash -c "/scfbuild/bin/scfbuild -c /wd/scfbuild-color.yml"
-docker exec -ti "$NAME" bash -c "/scfbuild/bin/scfbuild -c /wd/scfbuild-black.yml"
-
-# stop container
-docker stop "$NAME"
+# Move to font
+echo "Moving built fonts to font folder"
+cp -r build/fonts/* font
