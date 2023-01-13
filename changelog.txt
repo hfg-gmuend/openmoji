@@ -11,6 +11,7 @@ OpenMoji 15.0 - XX XXX XXXX
 New:
   + OpenMoji colorfonts for desktop and web by @RobertWinslow #422
   + hyphen-minus symbol (codepoint 002D) by @RobertWinslow #93
+  + rounded Chinese folk symbols Fú Lù Shòu etc. by @RobertWinslow #431
 
 Improvements:
   * New build chain (based on Nanoemoji) with colorfont outputs for desktop and web
