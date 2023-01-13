@@ -22,7 +22,8 @@ Improvements:
   * clean up flag paths (reasonable rounding) by @samhocevar #411
   * better Python code snippet in FAQ by @kolibril13 #405
   * cleaning up openmoji meta data by @waldyrious #407 #406 #392 #391 #389 #388
-  * adjust openmoji tags of nature-related emoji by waldyrious #427
+  * adjust openmoji tags of nature-related emoji by @waldyrious #427
+  * adjust openmoji tags of Vulcan salute emoji by @waldyrious #432
 
   #426 by @RobertWinslow
   * Several paths have had superfluous colinear points removed (tophat and math symbols)
