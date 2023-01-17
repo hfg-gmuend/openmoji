@@ -14,16 +14,16 @@ New:
   + rounded Chinese folk symbols Fú Lù Shòu etc. by @RobertWinslow #431
 
 Improvements:
-  * New build chain (based on Nanoemoji) with colorfont outputs for desktop and web
+  * new build chain (based on Nanoemoji) with colorfont outputs for desktop and web
     by @RobertWinslow and Peter Oliver @mavit #422
   * fix symbol for ionising radiation to correct orientation by @RobertWinslow #421
   * add black elements for Nepal's flag by @RobertWinslow #421
   * various improvements/alterations of svg src files by @RobertWinslow #420
   * clean up flag paths (reasonable rounding) by @samhocevar #411
   * better Python code snippet in FAQ by @kolibril13 #405
-  * cleaning up openmoji meta data by @waldyrious #407 #406 #392 #391 #389 #388
+  * adjusting and cleaning up openmoji meta data by @waldyrious
+    #407 #406 #392 #391 #389 #388 #435 #432
   * adjust openmoji tags of nature-related emoji by @waldyrious #427
-  * adjust openmoji tags of Vulcan salute emoji by @waldyrious #432
 
   #426 by @RobertWinslow
   * Several paths have had superfluous colinear points removed (tophat and math symbols)
