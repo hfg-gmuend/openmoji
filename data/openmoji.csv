@@ -33,12 +33,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🫢,1FAE2,smileys-emotion,face-hand,face with open eyes and hand over mouth,"amazement, awe, disbelief, embarrass, scared, surprise",,Liz Bravo,2022-02-10,,,,,14,33
 🫣,1FAE3,smileys-emotion,face-hand,face with peeking eye,"captivated, peep, stare",,Robin Bauer,2022-05-09,,,,,14,34
 🤫,1F92B,smileys-emotion,face-hand,shushing face,"quiet, shush","hand, silent",Emily Jäger,2018-04-18,,,,,5,35
-🤔,1F914,smileys-emotion,face-hand,thinking face,"face, thinking","hand, overthinking",Emily Jäger,2018-04-18,,,,,1,36
+🤔,1F914,smileys-emotion,face-hand,thinking face,"face, thinking","hand, chin, overthinking, frown, curious",Emily Jäger,2018-04-18,,,,,1,36
 🫡,1FAE1,smileys-emotion,face-hand,saluting face,"ok, salute, sunny, troops, yes",,Alan Seng,2022-05-09,,,,,14,37
 🤐,1F910,smileys-emotion,face-neutral-skeptical,zipper-mouth face,"face, mouth, zipper",,Emily Jäger,2018-04-18,,,,,1,38
-🤨,1F928,smileys-emotion,face-neutral-skeptical,face with raised eyebrow,"distrust, skeptic",suspiciously,Emily Jäger,2018-04-18,,,,,5,39
-😐️,1F610,smileys-emotion,face-neutral-skeptical,neutral face,"deadpan, face, meh, neutral",,Mariella Steeb,2018-04-18,,,,,0.7,40
-😑,1F611,smileys-emotion,face-neutral-skeptical,expressionless face,"expressionless, face, inexpressive, meh, unexpressive",,Mariella Steeb,2018-04-18,,,,,1,41
+🤨,1F928,smileys-emotion,face-neutral-skeptical,face with raised eyebrow,"distrust, skeptic",suspicious,Emily Jäger,2018-04-18,,,,,5,39
+😐️,1F610,smileys-emotion,face-neutral-skeptical,neutral face,"deadpan, face, meh, neutral",poker face,Mariella Steeb,2018-04-18,,,,,0.7,40
+😑,1F611,smileys-emotion,face-neutral-skeptical,expressionless face,"expressionless, face, inexpressive, meh, unexpressive","unamused, annoyed",Mariella Steeb,2018-04-18,,,,,1,41
 😶,1F636,smileys-emotion,face-neutral-skeptical,face without mouth,"face, mouth, quiet, silent",shhh,Emily Jäger,2018-04-18,,,,,1,42
 🫥,1FAE5,smileys-emotion,face-neutral-skeptical,dotted line face,"depressed, disappear, hide, introvert, invisible",,Liz Bravo,2022-02-10,,,,,14,43
 😶‍🌫️,1F636-200D-1F32B-FE0F,smileys-emotion,face-neutral-skeptical,face in clouds,"absentminded, face in the fog, head in clouds",,Nelly Nieter,2021-04-23,,,,,13.1,44
@@ -71,11 +71,11 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😎,1F60E,smileys-emotion,face-glasses,smiling face with sunglasses,"bright, cool, face, sun, sunglasses",,Emily Jäger,2018-04-18,,,,,1,72
 🤓,1F913,smileys-emotion,face-glasses,nerd face,"face, geek, nerd","glasses, learning",Emily Jäger,2018-04-18,,,,,1,73
 🧐,1F9D0,smileys-emotion,face-glasses,face with monocle,"face, monocle, stuffy","glasses, intelligent",Emily Jäger,2018-04-18,,,,,5,74
-😕,1F615,smileys-emotion,face-concerned,confused face,"confused, face, meh",,Mariella Steeb,2018-04-18,,,,,1,75
+😕,1F615,smileys-emotion,face-concerned,confused face,"confused, face, meh",frown,Mariella Steeb,2018-04-18,,,,,1,75
 🫤,1FAE4,smileys-emotion,face-concerned,face with diagonal mouth,"disappointed, meh, skeptical, unsure",,Liz Bravo,2022-02-10,,,,,14,76
-😟,1F61F,smileys-emotion,face-concerned,worried face,"face, worried",,Mariella Steeb,2018-04-18,,,,,1,77
+😟,1F61F,smileys-emotion,face-concerned,worried face,"face, worried",sad,Mariella Steeb,2018-04-18,,,,,1,77
 🙁,1F641,smileys-emotion,face-concerned,slightly frowning face,"face, frown",,Mariella Steeb,2018-04-18,,,,,1,78
-☹️,2639,smileys-emotion,face-concerned,frowning face,"face, frown",negative,Mariella Steeb,2018-04-18,,,,,0.7,80
+☹️,2639,smileys-emotion,face-concerned,frowning face,"face, frown","negative, sad",Mariella Steeb,2018-04-18,,,,,0.7,80
 😮,1F62E,smileys-emotion,face-concerned,face with open mouth,"face, mouth, open, sympathy",,Mariella Steeb,2018-04-18,,,,,1,81
 😯,1F62F,smileys-emotion,face-concerned,hushed face,"face, hushed, stunned, surprised",,Mariella Steeb,2018-04-18,,,,,1,82
 😲,1F632,smileys-emotion,face-concerned,astonished face,"astonished, face, shocked, totally",,Emily Jäger,2018-04-18,,,,,0.6,83
@@ -86,12 +86,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😧,1F627,smileys-emotion,face-concerned,anguished face,"anguished, face",,Mariella Steeb,2018-04-18,,,,,1,88
 😨,1F628,smileys-emotion,face-concerned,fearful face,"face, fear, fearful, scared",,Liz Bravo,2020-12-27,,,,,0.6,89
 😰,1F630,smileys-emotion,face-concerned,anxious face with sweat,"blue, cold, face, rushed, sweat","anxious, worried, considerate",Mariella Steeb,2018-04-18,,,,,0.6,90
-😥,1F625,smileys-emotion,face-concerned,sad but relieved face,"disappointed, face, relieved, whew",,Liz Bravo,2020-12-27,,,,,0.6,91
+😥,1F625,smileys-emotion,face-concerned,sad but relieved face,"disappointed, face, relieved, whew",anxious,Liz Bravo,2020-12-27,,,,,0.6,91
 😢,1F622,smileys-emotion,face-concerned,crying face,"cry, face, sad, tear",,Mariella Steeb,2018-04-18,,,,,0.6,92
 😭,1F62D,smileys-emotion,face-concerned,loudly crying face,"cry, face, sad, sob, tear",,Carlin MacKenzie,2020-05-11,,,,,0.6,93
 😱,1F631,smileys-emotion,face-concerned,face screaming in fear,"face, fear, munch, scared, scream",open mouth,Mariella Steeb,2018-04-18,,,,,0.6,94
 😖,1F616,smileys-emotion,face-concerned,confounded face,"confounded, face",,Mariella Steeb,2018-04-18,,,,,0.6,95
-😣,1F623,smileys-emotion,face-concerned,persevering face,"face, persevere",,Mariella Steeb,2018-04-18,,,,,0.6,96
+😣,1F623,smileys-emotion,face-concerned,persevering face,"face, persevere",ouch,Mariella Steeb,2018-04-18,,,,,0.6,96
 😞,1F61E,smileys-emotion,face-concerned,disappointed face,"disappointed, face",,Mariella Steeb,2018-04-18,,,,,0.6,97
 😓,1F613,smileys-emotion,face-concerned,downcast face with sweat,"cold, face, sweat",,Mariella Steeb,2018-04-18,,,,,0.6,98
 😩,1F629,smileys-emotion,face-concerned,weary face,"face, tired, weary",distraught,Mariella Steeb,2018-04-18,,,,,0.6,99

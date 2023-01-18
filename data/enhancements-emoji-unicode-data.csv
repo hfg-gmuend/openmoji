@@ -321,10 +321,10 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 ☠️,2620,,Mariella Steeb,2018-04-18
 👻,1F47B,ghost,Mariella Steeb,2018-04-18
 👽️,1F47D,alien,Mariella Steeb,2018-04-18
-☹️,2639,negative,Mariella Steeb,2018-04-18
+☹️,2639,"negative, sad",Mariella Steeb,2018-04-18
 😖,1F616,,Mariella Steeb,2018-04-18
 😞,1F61E,,Mariella Steeb,2018-04-18
-😟,1F61F,,Mariella Steeb,2018-04-18
+😟,1F61F,sad,Mariella Steeb,2018-04-18
 😠,1F620,,Mariella Steeb,2018-04-18
 😡,1F621,,Mariella Steeb,2018-04-18
 😢,1F622,,Mariella Steeb,2018-04-18
@@ -345,17 +345,17 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🤯,1F92F,explosion,Tara Lynn Connelly,2020-04-13
 😌,1F60C,,Mariella Steeb,2018-04-18
 😏,1F60F,,Mariella Steeb,2018-04-18
-😐️,1F610,,Mariella Steeb,2018-04-18
-😑,1F611,,Mariella Steeb,2018-04-18
+😐️,1F610,poker face,Mariella Steeb,2018-04-18
+😑,1F611,"unamused, annoyed",Mariella Steeb,2018-04-18
 😒,1F612,,Mariella Steeb,2018-04-18
 😓,1F613,,Mariella Steeb,2018-04-18
 😔,1F614,,Mariella Steeb,2018-04-18
-😕,1F615,,Mariella Steeb,2018-04-18
+😕,1F615,frown,Mariella Steeb,2018-04-18
 😛,1F61B,,Mariella Steeb,2018-04-18
 😜,1F61C,,Mariella Steeb,2018-04-18
 😝,1F61D,,Mariella Steeb,2018-04-18
-😣,1F623,,Mariella Steeb,2018-04-18
-😥,1F625,,Liz Bravo,2020-12-27
+😣,1F623,ouch,Mariella Steeb,2018-04-18
+😥,1F625,anxious,Liz Bravo,2020-12-27
 😪,1F62A,"snot bubble, side-tear",Mariella Steeb,2018-04-18
 😫,1F62B,exhausted,Mariella Steeb,2018-04-18
 😮,1F62E,,Mariella Steeb,2018-04-18
@@ -366,10 +366,10 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🙃,1F643,turn,Emily Jäger,2018-04-18
 🙄,1F644,annoyed,Emily Jäger,2018-04-18
 🤐,1F910,,Emily Jäger,2018-04-18
-🤔,1F914,"hand, overthinking",Emily Jäger,2018-04-18
+🤔,1F914,"hand, chin, overthinking, frown, curious",Emily Jäger,2018-04-18
 🤑,1F911,"tongue, dollar",Emily Jäger,2018-04-18
 🤤,1F924,"hungry, yummy",Emily Jäger,2018-04-18
-🤨,1F928,suspiciously,Emily Jäger,2018-04-18
+🤨,1F928,suspicious,Emily Jäger,2018-04-18
 😀,1F600,"smile, happy",Emily Jäger,2018-04-18
 😁,1F601,"happy, teeth, mouth",Emily Jäger,2018-04-18
 😂,1F602,,Emily Jäger,2018-04-18
