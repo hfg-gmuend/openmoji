@@ -39,7 +39,6 @@ The color font comes in a variety of formats:
 
 We generally recommend:
 - `COLRv0` with `woff2` for websites
-- `COLRv1` with `woff2` for websites if lack of support for Safari is okay
 - `SVG`+`COLRv0` with `ttf` for desktop applications, though you may want to try bitmap-based formats if this does not work.
 
 ## Further reading
