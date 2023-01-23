@@ -35,7 +35,7 @@ The color font comes in a variety of formats:
 | [`OpenMoji-color-sbix`](OpenMoji-color-sbix) | `SBIX` | Format primarily used by Apple | Bitmap        | Safari, Chrome-based browsers, some desktop applications, MacOS, iOS |
 | [`OpenMoji-color-untouchedsvgz`](OpenMoji-color-untouchedsvgz) | `SVG` in OpenType | `SVG`-based format without compression tricks | Vector        | Firefox and Safari, some desktop applications |
 | [`OpenMoji-color-colr0_svg`](OpenMoji-color-colr0_svg) | `SVG` in OpenType, `COLRv0` | Both `SVG` and `COLRv0` in one font | Vector        | All modern webbrowsers, some desktop applications |
-| [`OpenMoji-color-colr1_svg`](OpenMoji-color-colr1_svg) | `SVG` in OpenType, `COLRv0` | Both `SVG` and `COLRv1` in one font | Vector        | Almost all modern webbrowsers, some desktop applications |
+| [`OpenMoji-color-colr1_svg`](OpenMoji-color-colr1_svg) | `SVG` in OpenType, `COLRv1` | Both `SVG` and `COLRv1` in one font | Vector        | Almost all modern webbrowsers, some desktop applications |
 
 We generally recommend:
 - `COLRv0` with `woff2` for websites
