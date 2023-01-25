@@ -28,18 +28,17 @@ The color font comes in a variety of formats:
 
 | Directory                                    | Format | Description                             | Bitmap/Vector | Use-case                                  |
 | -------------------------------------------- | ------ | --------------------------------------- | ------------- | ----------------------------------------- |
-| [`OpenMoji-color-cbdt`](OpenMoji-color-cbdt) | `CBDT` | Early format that is largely deprecated | Bitmap        | Android applications, Old Chrome browsers |
-| [`OpenMoji-color-glyf_colr_0`](OpenMoji-color-glyf_colr_0) | `COLRv0` in OpenType | Standardised format that is superceded by `COLRv1`, limited features | Vector        | Almost all modern webbrowsers, very little support on desktop applications |
-| [`OpenMoji-color-glyf_colr_1`](OpenMoji-color-glyf_colr_1) | `COLRv1` in OpenType | Emerging standard with many features | Vector        | Most modern browsers (not Safari), very little support on desktop applications |
+| [`OpenMoji-color-cbdt`](OpenMoji-color-cbdt) | `CBDT` | Early format that is largely deprecated | Bitmap        | Android applications, Old Chrome browsers, some desktop applications |
+| [`OpenMoji-color-glyf_colr_0`](OpenMoji-color-glyf_colr_0) | `COLRv0` in OpenType | Standardised format that is superceded by `COLRv1`, limited features | Vector        | Almost all modern webbrowsers, many desktop applications |
+| [`OpenMoji-color-glyf_colr_1`](OpenMoji-color-glyf_colr_1) | `COLRv1` in OpenType | Emerging standard with many features | Vector        | Most modern browsers (not Safari), very little support on desktop applications yet |
 | [`OpenMoji-color-picosvgz`](OpenMoji-color-picosvgz) | `SVG` in OpenType | SVG-based format with compression tricks applied using `picosvg` | Vector        | Firefox and Safari, some desktop applications |
 | [`OpenMoji-color-sbix`](OpenMoji-color-sbix) | `SBIX` | Format primarily used by Apple | Bitmap        | Safari, Chrome-based browsers, some desktop applications, MacOS, iOS |
 | [`OpenMoji-color-untouchedsvgz`](OpenMoji-color-untouchedsvgz) | `SVG` in OpenType | `SVG`-based format without compression tricks | Vector        | Firefox and Safari, some desktop applications |
-| [`OpenMoji-color-colr0_svg`](OpenMoji-color-colr0_svg) | `SVG` in OpenType, `COLRv0` | Both `SVG` and `COLRv0` in one font | Vector        | All modern webbrowsers, some desktop applications |
-| [`OpenMoji-color-colr1_svg`](OpenMoji-color-colr1_svg) | `SVG` in OpenType, `COLRv0` | Both `SVG` and `COLRv1` in one font | Vector        | Almost all modern webbrowsers, some desktop applications |
+| [`OpenMoji-color-colr0_svg`](OpenMoji-color-colr0_svg) | `SVG` in OpenType, `COLRv0` | Both `SVG` and `COLRv0` in one font | Vector        | All modern webbrowsers, many desktop applications |
+| [`OpenMoji-color-colr1_svg`](OpenMoji-color-colr1_svg) | `SVG` in OpenType, `COLRv1` | Both `SVG` and `COLRv1` in one font | Vector        | Almost all modern webbrowsers, some desktop applications |
 
 We generally recommend:
 - `COLRv0` with `woff2` for websites
-- `COLRv1` with `woff2` for websites if lack of support for Safari is okay
 - `SVG`+`COLRv0` with `ttf` for desktop applications, though you may want to try bitmap-based formats if this does not work.
 
 ## Further reading
