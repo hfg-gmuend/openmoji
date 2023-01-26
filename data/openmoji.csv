@@ -3006,7 +3006,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📒,1F4D2,objects,book-paper,ledger,notebook,"book, read, write",Jonas Roßner,2018-04-18,,,,,0.6,3953
 📃,1F4C3,objects,book-paper,page with curl,"curl, document, page","rolled, page, text",Jonas Roßner,2018-04-18,,,,,0.6,3954
 📜,1F4DC,objects,book-paper,scroll,paper,"old, papyrus, text",Jonas Roßner,2018-04-18,,,,,0.6,3955
-📄,1F4C4,objects,book-paper,page facing up,"document, page","write, text, paper",Jonas Roßner,2018-04-18,,,,,0.6,3956
+📄,1F4C4,objects,book-paper,page facing up,"document, page","write, text, paper, notes",Jonas Roßner,2018-04-18,,,,,0.6,3956
 📰,1F4F0,objects,book-paper,newspaper,"news, paper","read, news, paper, text",Jonas Roßner,2018-04-18,,,,,0.6,3957
 🗞️,1F5DE,objects,book-paper,rolled-up newspaper,"news, newspaper, paper, rolled",,Tonia Reinhardt,2019-05-07,,,,,0.7,3959
 📑,1F4D1,objects,book-paper,bookmark tabs,"bookmark, mark, marker, tabs",,Abby Esquivel,2018-11-16,,,,,0.6,3960
@@ -3035,13 +3035,13 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📭️,1F4ED,objects,mail,open mailbox with lowered flag,"lowered, mail, mailbox, open, postbox",,Marleen Heine,2018-11-16,,,,,0.7,3985
 📮,1F4EE,objects,mail,postbox,"mail, mailbox",post,Marius Schnabel,2018-04-18,,,,,0.6,3986
 🗳️,1F5F3,objects,mail,ballot box with ballot,"ballot, box",,Marleen Heine,2018-11-16,,,,,0.7,3988
-✏️,270F,objects,writing,pencil,pencil,,Rana Cakir,2018-04-18,,,,,0.6,3990
+✏️,270F,objects,writing,pencil,pencil,notes,Rana Cakir,2018-04-18,,,,,0.6,3990
 ✒️,2712,objects,writing,black nib,"nib, pen",,Liz Bravo,2021-05-04,,,,,0.6,3992
 🖋️,1F58B,objects,writing,fountain pen,"fountain, pen",,Rana Cakir,2018-04-18,,,,,0.7,3994
 🖊️,1F58A,objects,writing,pen,ballpoint,,Rana Cakir,2018-04-18,,,,,0.7,3996
 🖌️,1F58C,objects,writing,paintbrush,painting,"colors, pain, brush",Rana Cakir,2018-04-18,,,,,0.7,3998
 🖍️,1F58D,objects,writing,crayon,crayon,"painting, colors",Rana Cakir,2018-04-18,,,,,0.7,4000
-📝,1F4DD,objects,writing,memo,pencil,"pencil, paper, notice",Rana Cakir,2018-04-18,,,,,0.6,4001
+📝,1F4DD,objects,writing,memo,pencil,"pencil, paper, notice, notes",Rana Cakir,2018-04-18,,,,,0.6,4001
 💼,1F4BC,objects,office,briefcase,briefcase,"bag, briefcase, office bag, leather bag",Sina Schulz,2018-04-18,,,,,0.6,4002
 📁,1F4C1,objects,office,file folder,"file, folder","file, folder, paper, organise, structure, office, box",Sina Schulz,2018-04-18,,,,,0.6,4003
 📂,1F4C2,objects,office,open file folder,"file, folder, open","open file, folder, organise, structure, office, box",Sina Schulz,2018-04-18,,,,,0.6,4004
