@@ -199,7 +199,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 📕,1F4D5,"book, read, write, closed",Jonas Roßner,2018-04-18
 📖,1F4D6,"book, read, write, open",Jonas Roßner,2018-04-18
 📚️,1F4DA,"book, read, write, isometric",Liz Bravo,2020-12-22
-📄,1F4C4,"write, text, paper",Jonas Roßner,2018-04-18
+📄,1F4C4,"write, text, paper, notes",Jonas Roßner,2018-04-18
 📰,1F4F0,"read, news, paper, text",Jonas Roßner,2018-04-18
 🔖,1F516,remember,Jonas Roßner,2018-04-18
 🏷️,1F3F7,stick,Jonas Roßner,2018-04-18
@@ -947,8 +947,8 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🔞,1F51E,,Miriam Vollmeier,2018-04-18
 🚭️,1F6AD,,Miriam Vollmeier,2018-04-18
 🚳,1F6B3,,Miriam Vollmeier,2018-04-18
-✏️,270F,,Rana Cakir,2018-04-18
-📝,1F4DD,"pencil, paper, notice",Rana Cakir,2018-04-18
+✏️,270F,notes,Rana Cakir,2018-04-18
+📝,1F4DD,"pencil, paper, notice, notes",Rana Cakir,2018-04-18
 🖊️,1F58A,,Rana Cakir,2018-04-18
 🖋️,1F58B,,Rana Cakir,2018-04-18
 🖌️,1F58C,"colors, pain, brush",Rana Cakir,2018-04-18
