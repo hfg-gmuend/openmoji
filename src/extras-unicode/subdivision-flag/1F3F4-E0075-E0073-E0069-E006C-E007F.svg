@@ -1,0 +1,27 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="grid">
+    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="m12.9 11h46.2a1.92 1.92 0 0 1 1.92 1.92v46.2a1.92 1.92 0 0 1-1.92 1.92h-46.2a1.92 1.92 0 0 1-1.92-1.92v-46.2a1.92 1.92 0 0 1 1.92-1.92z"/>
+    <rect x="16" y="4" rx="2.25" ry="2.25" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.25" ry="2.25" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <rect x="5" y="17" width="62" height="38" fill="#fff"/>
+    <path fill="none" stroke="#bf032b" stroke-linecap="round" stroke-width="2" d="m25.2 35.8 2.63 0.345"/>
+    <path fill="none" stroke="#bf032b" stroke-linecap="round" stroke-width="2" d="m29.8 34.7c-0.526-1.9-4.3-1.55-4.54-3.45"/>
+    <path fill="none" stroke="#bf032b" stroke-linecap="round" stroke-width="2" d="m25.4 28.4c1.27-2.56 4.52-1.86 4.52-1.86"/>
+    <path fill="none" stroke="#bf032b" stroke-linecap="round" stroke-width="2" d="m30 23.9 3.76-1.38"/>
+    <circle cx="44.4" cy="37" r="3.32" fill="#ffe60f"/>
+    <circle cx="36.1" cy="31.5" r="5.18" fill="#785a3c"/>
+    <path fill="none" stroke="#00205b" stroke-linecap="round" stroke-width="2" d="m30.3 37.4 4.23 3.02"/>
+    <path fill="none" stroke="#3f863f" stroke-linecap="round" stroke-width="2" d="m25.9 40.1 8.43 4.52"/>
+    <circle cx="38.4" cy="41.6" r="2.76" fill="#b4b4b4"/>
+    <circle cx="30.3" cy="41.7" r="2.29" fill="#be0a2f"/>
+    <circle cx="30.3" cy="41.7" r="2.29" fill="#be0a2f"/>
+    <path fill="none" stroke="#00205b" stroke-linecap="round" stroke-width="2" d="m29.7 50h12.8"/>
+  </g>
+  <g id="line">
+    <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
