@@ -24,6 +24,7 @@ Improvements:
   * adjusting and cleaning up openmoji meta data by @waldyrious
     #407 #406 #392 #391 #389 #388 #435 #432
   * adjust openmoji tags of nature-related emoji by @waldyrious #427
+  * fix key emojis to not show color outside of the outlines by @rosseljost #448
 
   #426 by @RobertWinslow
   * Several paths have had superfluous colinear points removed (tophat and math symbols)
