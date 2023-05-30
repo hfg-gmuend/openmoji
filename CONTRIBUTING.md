@@ -79,7 +79,7 @@ Add your meta infos at the very end to exacltly one of the following files:
 
 -  `data/enhancements-emoji-unicode-data.csv` if you have designed a standard Emoji which is part of Unicode
 -  `data/extras-openmoji.csv` if you have designed a non-standard Emoji which is not part of Unicode and should go into Private Use Area, see → [:octocat: Non-standard emoji](#octocat-non-standard-emoji)
--  `data/extras-unicode.csv` if you have designed a standard Unicode charakter but which is also not part of the Unicode Emoji standard, see → [:octocat: Non-standard emoji](#octocat-non-standard-emoji)
+-  `data/extras-unicode.csv` if you have designed a standard Unicode character but which is also not part of the Unicode Emoji standard, see → [:octocat: Non-standard emoji](#octocat-non-standard-emoji)
 
 N.B. the properties prefixed `openmoji_` are not part of the Unicode specification.
 
