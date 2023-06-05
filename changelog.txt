@@ -29,6 +29,7 @@ Improvements:
   * adjust openmoji tags of nature-related emoji by @waldyrious #427
   * fix key emojis to not show color outside of the outlines by @rosseljost #448
   * redesign of 1FAD6 teapot by Andrew Luckett
+  * 1F96F fix small spike on right side by @BenediktSeidl #455
 
   #426 by @RobertWinslow
   * Several paths have had superfluous colinear points removed (tophat and math symbols)
