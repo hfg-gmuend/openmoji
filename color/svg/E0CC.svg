@@ -1,0 +1,20 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="color">
+    <path fill="#92d3f5" d="m30 8.5v6.5l-5 7 2 4-2 3 2 3-2 3 2 3-2 3 2 3-2 3 2 3-2 3 2 3-2 3 2 3-2 4 2 1h18l2-1-2-4 2-3-2-3 2-3-2-3 2-3-2-3 2-3-2-3 2-3-2-3 2-3-2-3 2-4-5-7v-6.5z"/>
+    <rect x="29" y="4" rx="1" width="14" height="6.5" fill="#9b9b9a"/>
+    <path fill="#3f3f3f" d="m43 5v5h-5v-5z"/>
+    <path fill="#61b2e4" d="m42 10.5v6l4.5 5-1 4.5 1.5 3-1.5 3 1.5 3-1.5 3 1.5 3-1.5 3 1.5 3-1.5 3 1.5 3-1.5 3 1.5 3-1.5 3 1 5h-4.5c-0.2833 0 2 0 2-2s-2-2-2-3 2-1 2-3-2-2-2-3 2-1 2-3-2-2-2-3 2-1 2-3-2-2-2-3 2-1 2-3-2-2-2-3 2-1 2-3-2-2-2-3 2-1 2-3-2-2-2-3 2.5-1.5 2.5-3.5c0-1.5-5.5-5.5-5.5-7.5v-4.5z"/>
+  </g>
+  <g id="line">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m29 10h14"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m30 5h12"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m41 13.5v1.5c4 5 6 6 6 8s-2 2-2 3 2 1 2 3-2 2-2 3 2 1 2 3-2 2-2 3 2 1 2 3-2 2-2 3 2 1 2 3-2 2-2 3 2 1 2 3-2 2-2 3 2 1 2 3-2 2-2 3 2 1 2 3-1.717 2-2 2h-18c-0.2833 0-2 0-2-2s2-2 2-3-2-1-2-3 2-2 2-3-2-1-2-3 2-2 2-3-2-1-2-3 2-2 2-3-2-1-2-3 2-2 2-3-2-1-2-3 2-2 2-3-2-1-2-3 2-2 2-3-2-1-2-3 2-3 6-8v-1.5"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m31.5 26h9"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m31.5 32h9"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m31.5 38h9"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m31.5 44h9"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m31.5 50h9"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m31.5 56h9"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m31.5 62h9"/>
+  </g>
+</svg>
