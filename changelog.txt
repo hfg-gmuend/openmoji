@@ -14,6 +14,7 @@ New:
   + rounded Chinese folk symbols Fú Lù Shòu etc. by @RobertWinslow #431
   + Element instant messaging brand logo by @SethFalco #451
   + Jellyfin brand logo by @JenTheBluePanda #452
+  + Glass and plastic (water) bottle by @BenediktSeidl #454 #447
 
 Improvements:
   * new build chain (based on Nanoemoji) with colorfont outputs for desktop and web
