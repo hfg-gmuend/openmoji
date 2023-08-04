@@ -45,7 +45,7 @@ Under the following terms:
 🤔: How can I help or contribute to OpenMoji?
 </summary>
 
-Contributions and help are very welcome! Please check the [CONTRIBUTING.md](https://github.com/hfg-gmuend/openmoji/blob/master/CONTRIBUTING.md) guide!
+Contributions and help are very welcome! Please check the [`CONTRIBUTING.md`](https://github.com/hfg-gmuend/openmoji/blob/master/CONTRIBUTING.md) guide!
 </details>
 
 
@@ -74,7 +74,7 @@ Full discussion and context in [#120](https://github.com/hfg-gmuend/openmoji/iss
 🤔: I suggested / proposed / asked for an Emoji ... but why is my name not listed as "author" of the new OpenMoji?
 </summary>
 
-Because we decided that the authorship should go to the person who took actively care of everything in terms of making: sketching, designing, testing, iterating, discussing etc. until the new OpenMoji was accepted. Idealy the same person takes care of the entire pipeline from start to end. However if the initial suggestion was by a different person, we will acknowledge this is the changelog.txt file while still credit the "maker" as the author.
+Because we decided that the authorship should go to the person who took actively care of everything in terms of making: sketching, designing, testing, iterating, discussing etc. until the new OpenMoji was accepted. Ideally the same person takes care of the entire pipeline from start to end. However if the initial suggestion was by a different person, we will acknowledge this in the `changelog.txt` file while still crediting the "maker" as the author.
 </details>
 
 ## Technical problems
