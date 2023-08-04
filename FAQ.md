@@ -19,6 +19,9 @@ Under the following terms:
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#) as OpenMoji.
 
 (Bullet points are based on the official license text of [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#))
+
+**ℹ️ Please see [#462](https://github.com/hfg-gmuend/openmoji/issues/462) for a longer and more explanation of the license.**
+
 </details>
 
 <details>
@@ -64,7 +67,7 @@ Start a conversation on Github with us. For example [#84](https://github.com/hfg
 
 No. OpenMoji does not have an explicit Contributor License Agreement. We simply go with common practice of many open source projects: "inbound = outbound"! Every Github user already agrees to this via the [terms of service](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license) of Github:
 
-> Whenever you make a contribution to a repository containing notice of a license, you license your contribution under the same terms, and you agree that you have the right to license your contribution under those terms. 
+> Whenever you make a contribution to a repository containing notice of a license, you license your contribution under the same terms, and you agree that you have the right to license your contribution under those terms.
 
 Full discussion and context in [#120](https://github.com/hfg-gmuend/openmoji/issues/120).
 </details>
@@ -103,7 +106,7 @@ No, we are sorry! This is simply out of scope. But all other ways to consume/use
 🤔: How can I convert an emoji to an openmoji svg with javascript?
 </summary>
 
-This script can be added to any website: 
+This script can be added to any website:
 ```
 <html>
 <script>
@@ -136,7 +139,7 @@ This script can be added to any website:
 🤔: How can I convert an emoji to an openmoji png image with python?
 </summary>
 
-This script can be used: 
+This script can be used:
 ```
 from PIL import Image
 import requests
@@ -147,7 +150,7 @@ def get_emoji(emoji):
         emoji_code = emoji_code.removesuffix("-FE0F")
     url = f"https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/{emoji_code}.png"
     im = Image.open(requests.get(url, stream=True).raw)
-    # image = np.array(im.convert("RGBA")) 
+    # image = np.array(im.convert("RGBA"))
     return im
 
 get_emoji("🦴")
