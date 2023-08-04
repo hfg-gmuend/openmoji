@@ -20,7 +20,7 @@ Under the following terms:
 
 (Bullet points are based on the official license text of [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#))
 
-**ℹ️ Please see [#462](https://github.com/hfg-gmuend/openmoji/issues/462) for a longer and more explanation of the license.**
+**ℹ️ Please see [#462](https://github.com/hfg-gmuend/openmoji/issues/462) for a longer explanation and more examples of the license.**
 
 </details>
 
