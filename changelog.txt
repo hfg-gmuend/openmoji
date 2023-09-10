@@ -15,6 +15,7 @@ New:
   + Element instant messaging brand logo by @SethFalco #451
   + Jellyfin brand logo by @JenTheBluePanda #452
   + Glass and plastic (water) bottle by @BenediktSeidl #454 #447
+  + Artstation brand logo by @SethFalco #463
 
 Improvements:
   * new build chain (based on Nanoemoji) with colorfont outputs for desktop and web
