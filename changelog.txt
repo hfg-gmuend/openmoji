@@ -47,6 +47,10 @@ Improvements:
   * Lighten the background of 1F233
   * The 'E' in 1F4E7 (e-mail) has been rounded and copied into the line-supplement layer.
 
+Fonts:
+  * Fix generating combined COLR/SVG fonts by @999eagle #458
+  + New tests to check TTFs have expected tables by @mavit #464
+
 --------------------------------------------------------------------------------
 
 🏖🍦 OpenMoji 14.0 - 05 Jul 2022
