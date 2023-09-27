@@ -51,6 +51,9 @@ Fonts:
   * Fix generating combined COLR/SVG fonts by @999eagle #458
   + New tests to check TTFs have expected tables by @mavit #464
 
+Tech:
+  + npm run show-extras-hexcodes: shows an overview of private use hexcodes of the openmoji-extras
+
 --------------------------------------------------------------------------------
 
 🏖🍦 OpenMoji 14.0 - 05 Jul 2022
