@@ -19,13 +19,11 @@ New:
   + Reddit and Discord brand logos by Allison Fister @alfister #470
 
 Improvements:
-  * new build chain (based on Nanoemoji) with colorfont outputs for desktop and web
-    by @RobertWinslow and Peter Oliver @mavit #422
+  * Redesign of full ABC (regional indicators) in extras-unicode by Jasmin Fassler & Linda Hartmann
   * fix symbol for ionising radiation to correct orientation by @RobertWinslow #421
   * add black elements for Nepal's flag by @RobertWinslow #421
   * various improvements/alterations of svg src files by @RobertWinslow #420
   * clean up flag paths (reasonable rounding) by @samhocevar #411
-  * better Python code snippet in FAQ by @kolibril13 #405
   * adjusting and cleaning up openmoji meta data by @waldyrious
     #407 #406 #392 #391 #389 #388 #435 #432
   * adjust openmoji tags of nature-related emoji by @waldyrious #427
@@ -49,11 +47,14 @@ Improvements:
   * The 'E' in 1F4E7 (e-mail) has been rounded and copied into the line-supplement layer.
 
 Fonts:
+  * new build chain (based on Nanoemoji) with colorfont outputs for desktop and web
+    by @RobertWinslow and Peter Oliver @mavit #422
   * Fix generating combined COLR/SVG fonts by @999eagle #458
   + New tests to check TTFs have expected tables by @mavit #464
 
 Tech:
   + npm run show-extras-hexcodes: shows an overview of private use hexcodes of the openmoji-extras
+  * better Python code snippet in FAQ by @kolibril13 #405
 
 --------------------------------------------------------------------------------
 
