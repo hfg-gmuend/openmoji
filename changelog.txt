@@ -19,7 +19,6 @@ New:
   + Reddit and Discord brand logos by Allison Fister @alfister #470
 
 Improvements:
-  * Redesign of full ABC (regional indicators) in extras-unicode by Jasmin Fassler & Linda Hartmann
   * fix symbol for ionising radiation to correct orientation by @RobertWinslow #421
   * add black elements for Nepal's flag by @RobertWinslow #421
   * various improvements/alterations of svg src files by @RobertWinslow #420
@@ -31,6 +30,7 @@ Improvements:
   * redesign of 1FAD6 teapot by Andrew Luckett
   * 1F96F fix small spike on right side by @BenediktSeidl #455
   * 1F567 fix short hand to be actually twelve-thirty by @jkaving #465
+  * fix regional indicators (ABC) in extras-unicode by Jasmin Fassler & Linda Hartmann
 
   #426 by @RobertWinslow
   * Several paths have had superfluous colinear points removed (tophat and math symbols)
