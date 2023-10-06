@@ -39559,6 +39559,23 @@
     "order": 3207
   },
   {
+    "emoji": "🫎",
+    "hexcode": "1FACE",
+    "group": "animals-nature",
+    "subgroups": "animal-mammal",
+    "annotation": "moose",
+    "tags": "animal, antlers, elk, mammal",
+    "openmoji_tags": "",
+    "openmoji_author": "Linda Hartmann",
+    "openmoji_date": "2023-10-06",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 15,
+    "order": 3208
+  },
+  {
     "emoji": "🐎",
     "hexcode": "1F40E",
     "group": "animals-nature",
@@ -40611,6 +40628,23 @@
     "skintone_base_hexcode": "",
     "unicode": 11,
     "order": 3274
+  },
+  {
+    "emoji": "🐦‍⬛",
+    "hexcode": "1F426-200D-2B1B",
+    "group": "animals-nature",
+    "subgroups": "animal-bird",
+    "annotation": "black bird",
+    "tags": "bird, black, crow, raven, rook",
+    "openmoji_tags": "",
+    "openmoji_author": "Jasmin Fassler",
+    "openmoji_date": "2023-10-06",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 15,
+    "order": 3276
   },
   {
     "emoji": "🐸",

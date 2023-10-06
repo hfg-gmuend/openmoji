@@ -1,23 +1,23 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="grid">
-    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
-    <rect x="11" y="10.9583" rx="1.9231" width="50" height="50" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" transform="translate(72 0) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path d="m68,4v64H4V4h64M72,0H0v72h72V0Z" fill="#b3b3b3"/>
+    <rect x="11" y="10.9583" width="50" height="50" rx="1.9231" ry="1.9231" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <rect x="4" y="16" width="64" height="40" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
   </g>
   <g id="color">
-    <path fill="#d0cfce" stroke="#d0cfce" stroke-linejoin="round" stroke-width="2" d="m10.14 63.05v-31.95h51.73v31.95z"/>
-    <path fill="#9b9b9a" stroke="#9b9b9a" stroke-linecap="round" stroke-width="2" d="m61.35 37-26.34 26.05h10.23l16.11-26.05"/>
+    <path d="m10.14,62.8l.25-31.7h51.23l-.5,31.45-50.98.25Z" fill="#d0cfce" stroke="#d0cfce" stroke-linejoin="round" stroke-width="2"/>
     <rect x="22.17" y="36.99" width="27.87" height="3.752" fill="#d0cfce"/>
-    <path fill="#fff" d="m24.1 31.34 16.17 5.836 9.927-22.72-16.38-6.695z"/>
-    <path fill="#9b9b9a" stroke="#9b9b9a" stroke-linejoin="round" stroke-width="2" d="m45.24 63.05h16.62l-0.5146-26.05z"/>
-    <path fill="none" stroke="#9b9b9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m21.97 38.89h28.18"/>
+    <path d="m24.1,31.34l16.17,5.836,9.927-22.72-16.38-6.695-9.717,23.579Z" fill="#fff"/>
+    <path d="m34.3228,62.682l27.5472-.1321-.0246-25.5906-27.5226,25.7226Z" fill="#9b9b9a" stroke="#9b9b9a" stroke-linejoin="round" stroke-width="2"/>
+    <path d="m21.97,38.89h28.18" fill="none" stroke="#9b9b9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
   <g id="line">
-    <polyline transform="translate(-7.271 -7.921) scale(1.202)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.664" points="42.41 32.46 57.51 32.46 57.51 57.37"/>
-    <path transform="translate(-7.271 -7.921) scale(1.202)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.664" d="m14.48 57.37v-24.91h11.26"/>
-    <polyline transform="translate(-7.271 -7.921) scale(1.202)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.664" points="37.05 37.24 25.83 32.64 34.14 12.37 48.05 18.07 40.25 37.09"/>
-    <line x1="21.91" x2="50.1" y1="36.92" y2="36.92" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="43.7058 31.0959 61.856 31.0959 61.856 61.0377" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0001"/>
+    <path d="m10.134,61.0377v-29.9418h13.5345" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0001"/>
+    <polyline points="37.2631 36.8415 23.7767 31.3123 33.7653 6.9477 50.4851 13.7991 41.1095 36.6612" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0001"/>
+    <line x1="21.91" y1="36.92" x2="50.1" y2="36.92" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>

@@ -1,20 +1,21 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
   <g id="grid">
-    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
-    <rect x="11" y="10.9583" rx="1.9231" width="50" height="50" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path d="m68,4v64H4V4h64M72,0H0v72h72V0Z" fill="#b3b3b3"/>
+    <rect x="11" y="10.9583" width="50" height="50" rx="1.9231" ry="1.9231" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <rect x="4" y="16" width="64" height="40" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
   </g>
   <g id="color">
-    <path fill="#d0cfce" d="m38.32 14.95h-4.638a12.72 12.72 0 0 0-12.68 12.68v22.84a12.72 12.72 0 0 0 12.68 12.68h4.638a12.72 12.72 0 0 0 12.68-12.68v-22.84a12.72 12.72 0 0 0-12.68-12.68z"/>
-    <path fill="#9b9b9a" d="m34.84 16.71c3.809 1.634 7.429 3.98 7.851 9.907 0.4884 6.864-2.052 19.72-2.868 26.25-0.571 4.565-2.829 6.678-5.826 9.074 7.15 1.956 12.45-1.073 15.39-3.987 2.791-10 1.554-22.51 1.443-33.41-0.8459-5.23-6.24-8.613-11.53-8.356 0 0-9.629-0.4959-4.459 0.5303z"/>
+    <path d="m38.32,16.2h-4.638c-6.9939.022-11.908,4.1861-11.93,11.18v23.34c.022,6.9939,4.9361,11.158,11.93,11.18h4.638c6.9939-.022,11.908-4.4361,11.93-11.43v-22.84c-.022-6.9939-4.9361-11.408-11.93-11.43Z" fill="#d0cfce"/>
+    <path d="m34.84,16.46c3.809,1.634,7.429,4.23,7.851,10.157.4884,6.864-2.052,19.72-2.868,26.25-.571,4.565-2.829,6.428-5.826,8.824,4.0006.0797,6.615-.021,8.4816-.3376,3.3065-.5608,6.7918-3.3895,7.1428-6.3991,1.2286-10.5343.5587-20.5754.4586-30.4102-.8459-5.23-6.6283-8.3678-10.78-8.106,0,0-1.3055-.5118-4.459.0303l-.001-.0083Z" fill="#9b9b9a"/>
     <circle cx="36.74" cy="30.51" r="8.902" fill="#f4aa41"/>
-    <path fill="#e27022" d="m37.95 21.03a6.238 6.238 0 0 1 1.407 3.94 8.902 8.902 0 0 1-8.902 8.901c-1.765 0-2.272-0.52-3.656-1.407 1.582 2.47 6.045 6.946 9.196 6.946a8.902 8.902 0 0 0 8.902-8.902c-1e-4 -3.151-4.476-7.897-6.946-9.479z"/>
+    <path d="m37.95,21.03c.9086,1.1122,1.4055,2.5039,1.407,3.94-.0006,4.916-3.986,8.901-8.902,8.901-1.765,0-2.272-.52-3.656-1.407,1.582,2.47,6.045,6.946,9.196,6.946,4.9164,0,8.902-3.9856,8.902-8.902,0-3.151-4.476-7.897-6.946-9.479l-.001.001Z" fill="#e27022"/>
   </g>
   <g id="line">
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m40.13 62.42h-8.259a10.75 10.75 0 0 1-10.72-10.72v-25.31a10.75 10.75 0 0 1 10.72-10.72h8.259a10.75 10.75 0 0 1 10.72 10.72v25.31a10.75 10.75 0 0 1-10.72 10.72z"/>
+    <path d="m40.13,62.42h-8.259c-5.9137-.0165-10.7035-4.8063-10.72-10.72v-25.31c.0165-5.9137,4.8063-10.7035,10.72-10.72h8.259c5.9137.0165,10.7035,4.8063,10.72,10.72v25.31c-.0165,5.9137-4.8063,10.7035-10.72,10.72Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <circle cx="36" cy="30.51" r="8.902" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m36 15.1c0.5005-13.15-19.03-4.582-21.79-9.568"/>
+    <path d="m36,15.1c.5005-13.15-19.03-4.582-21.79-9.568" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>
