@@ -14,9 +14,10 @@ New:
   + rounded Chinese folk symbols Fú Lù Shòu etc. by @RobertWinslow #431
   + Element instant messaging brand logo by @SethFalco #451
   + Jellyfin brand logo by @JenTheBluePanda #452
-  + Glass and plastic (water) bottle by @BenediktSeidl #454 #447
+  + glass and plastic (water) bottle by @BenediktSeidl #454 #447
   + Artstation brand logo by @SethFalco #463
   + Reddit and Discord brand logos by Allison Fister @alfister #470
+  + moose and black bird by Jasmin Fassler & Linda Hartmann
 
 Improvements:
   * fix symbol for ionising radiation to correct orientation by @RobertWinslow #421
