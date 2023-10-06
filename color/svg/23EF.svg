@@ -1,11 +1,10 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color"/>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
+  <g id="color">
+    <path fill="#fff" d="m14.736,54.1869c.4103.1658.8719.2763,1.3336.2763.7181,0,1.4362-.2763,2.0518-.7185l25.39-14.8661.2565-.2763c.6668-.7184,1.0258-1.6027,1.0258-2.5974s-.359-1.9342-1.0258-2.5974l-.2565-.2763-25.39-14.9767c-.9233-.7737-2.2569-.9395-3.3854-.4422-1.2823.5527-2.103,1.9343-2.103,3.4264v29.6217c0,1.4922.8207,2.8738,2.103,3.4265Z"/>
+  </g>
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M14.1579,54.7165C14.5789,54.8866,15.0526,55,15.5263,55c0.7368,0,1.4737-0.2835,2.1053-0.7372l26.0526-15.2541l0.2632-0.2835 C44.6316,37.988,45,37.0807,45,36.06s-0.3684-1.9847-1.0526-2.6652l-0.2632-0.2835L17.6316,17.7438 c-0.9474-0.7939-2.3158-0.964-3.4737-0.4537C12.8421,17.8572,12,19.2749,12,20.8059v30.3947 C12,52.7317,12.8421,54.1494,14.1579,54.7165z"/>
-    <line x1="60" x2="60" y1="17" y2="55" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <line x1="52" x2="52" y1="17" y2="55" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m14.1579,54.7165c.421.1701.8947.2835,1.3684.2835.7368,0,1.4737-.2835,2.1053-.7372l26.0526-15.2541.2632-.2835c.6842-.7372,1.0526-1.6445,1.0526-2.6652s-.3684-1.9847-1.0526-2.6652l-.2632-.2835-26.0526-15.3675c-.9474-.7939-2.3158-.964-3.4737-.4537-1.3158.5671-2.1579,1.9848-2.1579,3.5158v30.3947c0,1.5311.8421,2.9488,2.1579,3.5159Z"/>
+    <line x1="60" x2="60" y1="17" y2="55" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="52" x2="52" y1="17" y2="55" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>

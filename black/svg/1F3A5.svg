@@ -1,11 +1,11 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M21.3957,40.0307h26.6918v16.8676H23.2607c-1.03,0-1.865-0.8095-1.865-1.8082v-3.1238"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M7.9148,39.3892l-1.1513,7.5734l5.0161-0.7784l13.5947,2.4922c-0.0187,0.2723-0.0103,0.5506,0.0275,0.8316 c0.3018,2.2475,2.3682,3.8244,4.6154,3.5226c2.2475-0.3018,3.8245-2.3681,3.5227-4.6156 c-0.3018-2.2473-2.3682-3.8243-4.6156-3.5224c-0.4237,0.0569-0.8235,0.1768-1.1914,0.3485l-15.2674-2.7989L7.9148,39.3892z"/>
-    <circle cx="46.1537" cy="26.1104" r="10" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <circle cx="46.1537" cy="26.1104" r="3" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <circle cx="22.2579" cy="26.1104" r="10" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <circle cx="22.2579" cy="26.1104" r="3" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="52.0534,53.0676 60.9446,55.1814 60.9446,41.3615 52.0534,43.7729"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m21.3957,40.0307h26.6918v16.8676h-24.8268c-1.03,0-1.865-.8095-1.865-1.8082v-3.1238"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m7.9148,39.3892l-1.1513,7.5734,5.0161-.7784,13.5947,2.4922c-.0187.2723-.0103.5506.0275.8316.3018,2.2475,2.3682,3.8244,4.6154,3.5226,2.2475-.3018,3.8245-2.3681,3.5227-4.6156-.3018-2.2473-2.3682-3.8243-4.6156-3.5224-.4237.0569-.8235.1768-1.1914.3485l-15.2674-2.7989-4.5507-3.053Z"/>
+    <circle cx="46.1537" cy="26.1104" r="10" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle cx="46.1537" cy="26.1104" r="3" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle cx="22.2579" cy="26.1104" r="10" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle cx="22.2579" cy="26.1104" r="3" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="52.0534 53.0676 60.9446 55.1814 60.9446 41.3615 52.0534 43.7729"/>
   </g>
 </svg>

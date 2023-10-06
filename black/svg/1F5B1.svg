@@ -1,6 +1,6 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m36.26 31.12h-0.5181c-1.37 0-2.49-1.115-2.49-2.478v-8.126c0-1.363 1.121-2.478 2.49-2.478h0.5181c1.37 0 2.49 1.115 2.49 2.478v8.126c0 1.363-1.121 2.478-2.49 2.478z"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m39.61 60.05h-7.215c-6.475 0-11.77-5.263-11.77-11.7v-24.71c0-6.432 5.298-11.7 11.77-11.7h7.215c6.475 0 11.77 5.263 11.77 11.7v24.71c0 6.432-5.298 11.7-11.77 11.7z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m36.26,31.12h-.5181c-1.37,0-2.49-1.115-2.49-2.478v-8.126c0-1.363,1.121-2.478,2.49-2.478h.5181c1.37,0,2.49,1.115,2.49,2.478v8.126c0,1.363-1.121,2.478-2.49,2.478Z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m39.61,60.05h-7.215c-6.475,0-11.77-5.263-11.77-11.7v-24.71c0-6.432,5.298-11.7,11.77-11.7h7.215c6.475,0,11.77,5.263,11.77,11.7v24.71c0,6.432-5.298,11.7-11.77,11.7Z"/>
   </g>
 </svg>

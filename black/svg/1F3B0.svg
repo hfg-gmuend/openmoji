@@ -1,14 +1,14 @@
-<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <line x1="13.23" x2="55.87" y1="19.86" y2="19.86" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.305"/>
+    <line x1="13.23" x2="55.87" y1="19.86" y2="19.86" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.305"/>
     <line x1="12.08" x2="12.08" y1="52.14" y2="19.86" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="55.95" x2="13.15" y1="52.14" y2="52.14" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.007"/>
     <line x1="13.15" x2="55.95" y1="19.86" y2="19.86" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.007"/>
     <line x1="27.06" x2="27.06" y1="19.86" y2="52.14" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="42.04" x2="42.04" y1="19.86" y2="52.14" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="57.02" x2="63.16" y1="47.42" y2="47.42" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="63.16" x2="63.16" y1="47.42" y2="34" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <circle cx="63.16" cy="30.73" r="2.593" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.297"/>
+    <line x1="57.273" x2="62.91" y1="47.67" y2="47.67" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9163"/>
+    <line x1="62.91" x2="62.91" y1="47.42" y2="34" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle cx="62.91" cy="30.73" r="2.593" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.297"/>
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="17.3 35.69 17.3 33.7 21.84 33.7 19.03 41.77"/>
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="32.28 31.23 32.28 29.24 36.82 29.24 34.02 37.3"/>
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="47.26 35.69 47.26 33.7 51.8 33.7 49 41.77"/>

@@ -1,25 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path d="m68,4v64H4V4h64m4-4H0v72h72V0Z" fill="#b3b3b3"/>
-    <path d="m12.923,10.9583h46.1539c1.0621,0,1.9231.861,1.9231,1.9231h0v46.1538c0,1.0621-.861,1.9231-1.9231,1.9231H12.9231c-1.0621,0-1.9231-.861-1.9231-1.9231h0V12.8813c0-1.062.861-1.923,1.923-1.923h0Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="4" y="16" width="64" height="40" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <path fill="#b3b3b3" d="m68,4v64H4V4h64m4-4H0v72h72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="m12.923,10.9583h46.1539c1.0621,0,1.9231.861,1.9231,1.9231h0v46.1538c0,1.0621-.861,1.9231-1.9231,1.9231H12.9231c-1.0621,0-1.9231-.861-1.9231-1.9231h0V12.8813c0-1.062.861-1.923,1.923-1.923h0Z"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="4" y="16" rx="2.2537" ry="2.2537" width="64" height="40" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <line x1="34.6169" y1="59.3493" x2="43.91" y2="59.3493" fill="#d0cfce" stroke="#d0cfce" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="35.9912" y1="30.0551" x2="41.8941" y2="30.0551" fill="none" stroke="#9b9b9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="15.653" y1="30.7881" x2="15.653" y2="35.6273" fill="#d0cfce" stroke="#9b9b9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="34.6169" x2="43.91" y1="59.3493" y2="59.3493" fill="#d0cfce" stroke="#d0cfce" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="35.9912" x2="41.8941" y1="30.0551" y2="30.0551" fill="none" stroke="#9b9b9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="15.653" x2="15.653" y1="30.7881" y2="35.6273" fill="#d0cfce" stroke="#9b9b9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <rect x="35.264" y="31.0531" width="11.3187" height="28.2774" fill="#d0cfce"/>
-    <path d="m42.0698,59.2955h6.9469c-2.6901-9.2639-1.7826-17.3885-1.7826-17.3885,0,0,.1739-4.8033,3.4783-5.8033,0,0,3.7391-1.087,5-1.8261v-17.3846h-13.6041v14.1367l-.0385,28.2658Z" fill="#d0cfce" stroke="#d0cfce" stroke-linejoin="round" stroke-width="2"/>
-    <path d="m15.5848,36c-.3215-5.6425.6741-5.1006.6741-5.1006l26.8505-.04-.0014,3.0626c-.0005,1.1479-.5209,2.0779-1.1625,2.0779H15.5848Z" fill="#9b9b9a"/>
-    <path d="m15.661,35.5399s-.201,5.0192,4.9803,8.9725l2.9011,1.7458s-.8331,7.4562-.9581,11.4135c0,0,.0723,1.5872,3.2907,1.7079h9.6223s1.9343.0514,2.4769-1.4407v-11.8464s2.8109-2.3107,3.4363-3.3459c0,0,2.8044-3.9765,1.6135-7.0315,0,0-.93-.1194-4.1375-.1263l-18.8161-.0401-4.4094-.0088Z" fill="#d0cfce"/>
+    <path fill="#d0cfce" stroke="#d0cfce" stroke-linejoin="round" stroke-width="2" d="m42.0698,59.2955h6.9469c-2.6901-9.2639-1.7826-17.3885-1.7826-17.3885,0,0,.1739-4.8033,3.4783-5.8033,0,0,3.7391-1.087,5-1.8261v-17.3846h-13.6041v14.1367l-.0385,28.2658Z"/>
+    <path fill="#9b9b9a" d="m15.5848,36c-.3215-5.6425.6741-5.1006.6741-5.1006l26.8505-.04-.0014,3.0626c-.0005,1.1479-.5209,2.0779-1.1625,2.0779H15.5848Z"/>
+    <path fill="#d0cfce" d="m15.661,35.5399s-.201,5.0192,4.9803,8.9725l2.9011,1.7458s-.8331,7.4562-.9581,11.4135c0,0,.0723,1.5872,3.2907,1.7079h9.6223s1.9343.0514,2.4769-1.4407v-11.8464s2.8109-2.3107,3.4363-3.3459c0,0,2.8044-3.9765,1.6135-7.0315,0,0-.93-.1194-4.1375-.1263l-18.8161-.0401-4.4094-.0088Z"/>
   </g>
   <g id="line">
-    <path d="m15.661,35.5399s-.201,5.0192,4.9803,8.9725l2.9011,1.7458s-.9857,7.4544-.9581,11.4135c.0065.9269.0723,1.5872,3.2907,1.7079h9.6223s2.4297.1463,2.4769-1.4407c.0894-3.0038,0-11.8463,0-11.8463,0,0,2.8109-2.3107,3.4363-3.3459,0,0,2.8044-3.9765,1.6135-7.0315,0,0-.93-.1194-4.1375-.1263l-18.8161-.0401-4.4094-.0089Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path d="m38.1354,30.0615h-21.6403s-.9323.0764-.8214,1.6588" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path d="m42.0698,59.2955h6.9469c-2.6901-9.2639-1.7826-17.3885-1.7826-17.3885,0,0,.1739-4.8033,3.4783-5.8033,0,0,3.7391-1.087,5-1.8261v-17.3846h-13.6041v14.1367" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="42" y1="12.875" x2="55.9655" y2="12.875" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m15.661,35.5399s-.201,5.0192,4.9803,8.9725l2.9011,1.7458s-.9857,7.4544-.9581,11.4135c.0065.9269.0723,1.5872,3.2907,1.7079h9.6223s2.4297.1463,2.4769-1.4407c.0894-3.0038,0-11.8463,0-11.8463,0,0,2.8109-2.3107,3.4363-3.3459,0,0,2.8044-3.9765,1.6135-7.0315,0,0-.93-.1194-4.1375-.1263l-18.8161-.0401-4.4094-.0089Z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m38.1354,30.0615h-21.6403s-.9323.0764-.8214,1.6588"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m42.0698,59.2955h6.9469c-2.6901-9.2639-1.7826-17.3885-1.7826-17.3885,0,0,.1739-4.8033,3.4783-5.8033,0,0,3.7391-1.087,5-1.8261v-17.3846h-13.6041v14.1367"/>
+    <line x1="42" x2="55.9655" y1="12.875" y2="12.875" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>

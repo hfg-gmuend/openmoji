@@ -1,10 +1,10 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M52.5373,11.832 c0,0,0-0.519-3.667,17.814c-1.588,7.942-5.5,12.572-12.833,12.572s-11.245-4.5-12.833-12.443 c-3.667-18.333-3.667-17.943-3.667-17.943L52.5373,11.832z"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M23.0443,31.479 c0,0,0.079-0.261-5.421-3.928c-2.528-1.683-5.459-3.9-5.459-6.943s2.5-5.11,5.539-5.11h1.513"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M48.7113,31.766 c0,0,0.079-0.261,5.579-3.928c2.528-1.683,5.541-3.9,5.541-6.943c-0.0146-2.842-2.3303-5.1341-5.1723-5.1196 c-0.0963,0.0005-0.1926,0.0037-0.2887,0.0096h-2.154"/>
-    <rect x="26.5503" y="50.332" width="18.333" height="9.167" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <circle cx="36.0373" cy="24.581" r="5" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="36.0373" x2="36.0373" y1="50.332" y2="42.218" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m52.219,11.832c.1581,0,.275.1446.2389.2984-.2055.8767-.9426,4.2922-3.5876,17.5156-1.588,7.942-5.5,12.572-12.833,12.572s-11.245-4.5-12.833-12.443c-2.414-11.8492-3.667-17.943-3.667-17.943h32.6817Z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m23.0443,31.479s.079-.261-5.421-3.928c-2.528-1.683-5.459-3.9-5.459-6.943s2.5-5.11,5.539-5.11h1.513"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m48.7113,31.766s.079-.261,5.579-3.928c2.528-1.683,5.541-3.9,5.541-6.943-.0146-2.842-2.3303-5.1341-5.1723-5.1196-.0963.0005-.1926.0037-.2887.0096h-2.154"/>
+    <rect x="26.5503" y="50.332" width="18.333" height="9.167" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle cx="36.0373" cy="24.581" r="5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="36.0373" x2="36.0373" y1="50.332" y2="42.218" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>

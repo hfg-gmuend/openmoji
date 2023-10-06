@@ -1,12 +1,12 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <line x1="3" x2="67" y1="56" y2="56" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="3" x2="67" y1="56" y2="56" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="21" x2="67" y1="16" y2="16" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="34.358 26.392 40 21 34 16"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.0737" d="M23.149,50.1115H22.33a.891.891,0,0,1-.8884-.8884V28.2888a1.9023,1.9023,0,0,1,1.8968-1.8968H64.8225a1.9023,1.9023,0,0,1,1.8968,1.8968V49.2235a.8906.8906,0,0,1-.888.888h-.8291"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.0737" d="m23.149,50.1115h-.819c-.4901-.0014-.887-.3983-.8884-.8884v-20.9343c.003-1.0463.8505-1.8938,1.8968-1.8968h41.4841c1.0463.003,1.8938.8505,1.8968,1.8968v20.9347c-.0014.4898-.3982.8866-.888.888h-.8291"/>
     <line x1="51.9715" x2="35.8454" y1="50.1115" y2="50.1115" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.0737"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.0737" d="M33.749,51.3635a4.2445,4.2445,0,1,1-8.4889,0"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.0737" d="M62.7161,51.1115a4.2445,4.2445,0,0,1-8.4889,0"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.0737" d="m33.749,51.3635c.0114,2.3441-1.8796,4.2537-4.2237,4.2652-2.3441.0114-4.2537-1.8796-4.2652-4.2237,0-.0138,0-.0276,0-.0414"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.0737" d="m62.7161,51.1115c-.0114,2.3441-1.921,4.2352-4.2652,4.2237-2.328-.0114-4.2124-1.8958-4.2237-4.2237"/>
     <rect x="34.358" y="32.2455" rx="1.0578" ry="1.0578" width="6.3408" height="10.6464" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.0737"/>
     <rect x="21.4024" y="32.2455" rx="1.0578" ry="1.0578" width="6.3408" height="10.6464" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.0737"/>
     <rect x="47.1963" y="32.3238" rx="1.0578" ry="1.0578" width="6.3408" height="10.6464" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.0737"/>

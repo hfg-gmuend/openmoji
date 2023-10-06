@@ -1,14 +1,14 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line-supplement">
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m52 52.38c0.8775-1.631 1-5.38 1-7.38 0-4-4-11-4-11"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m44 36s3 6.728 3 10c0 3.065-1 8-1 10"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m20 52.4c-0.8775-1.631-1-5.4-1-7.4 0-4 4-11 4-11"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m28 36s-3 6.728-3 10c0 3.065 1 8 1 10"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m52,52.38c.8775-1.631,1-5.38,1-7.38,0-4-4-11-4-11"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m44,36s3,6.728,3,10c0,3.065-1,8-1,10"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m20,52.4c-.8775-1.631-1-5.4-1-7.4,0-4,4-11,4-11"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m28,36s-3,6.728-3,10c0,3.065,1,8,1,10"/>
   </g>
   <g id="line">
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m40.5 32.82c0.4132-0.344 2.246-1.792 4.909-1.636 2.161 0.1259 3.61 1.233 4.091 1.636"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m22.5 32.82c0.4132-0.344 2.246-1.792 4.909-1.636 2.161 0.1259 3.61 1.233 4.091 1.636"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m40.5,32.82c.4132-.344,2.246-1.792,4.909-1.636,2.161.1259,3.61,1.233,4.091,1.636"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m22.5,32.82c.4132-.344,2.246-1.792,4.909-1.636,2.161.1259,3.61,1.233,4.091,1.636"/>
     <circle cx="36" cy="36" r="23" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
-    <circle cx="36" cy="46.6" r="4.759" fill="none" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <circle cx="36" cy="46.6" r="4.759" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>

@@ -1,8 +1,8 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="line" stroke="#000" stroke-miterlimit="10">
-    <polyline fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="11 25.04 36 10.83 61 24.47"/>
-    <circle cx="32.02" cy="25.04" r="3" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m36.54 43.58c2.15 2.33 2.92 7.6 2.92 7.6l-6.848-0.0016s-6.124-0.094-6.124 5.138 5.724 4.624 5.724 4.624l13.31 0.0216s1.824-0.0216 1.824-1.932-2.171-1.563-2.171-1.563h-8.004l-5.206-1.39"/>
-    <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m23.29 39.46s2.67 4.92 6.02 4.92 1.649-9.221 8.239-12.25c5.227-2.407 14.21 14.38 10.31 21.46"/>
+  <g id="line">
+    <circle cx="32.02" cy="25.04" r="3" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m36.54,43.58c2.15,2.33,2.92,7.6,2.92,7.6l-6.848-.0016s-6.124-.094-6.124,5.138,5.724,4.624,5.724,4.624l13.31.0216s1.824-.0216,1.824-1.932-2.171-1.563-2.171-1.563h-8.004l-5.206-1.39"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m23.29,39.46s2.67,4.92,6.02,4.92,1.649-9.221,8.239-12.25c5.227-2.407,14.21,14.38,10.31,21.46"/>
+    <path fill="#000" d="m10.6165,24.0605c-.5261.2976-.7008.972-.3852,1.4876l.0064.0105c.2621.4282.8167.5711,1.2531.3229l24.3488-13.8477c.0737-.0419.1637-.0427.2381-.0021l24.3348,13.2849c.4454.2432,1.0037.0729,1.2376-.3774h0c.2752-.5297.076-1.1821-.448-1.4679l-24.8772-13.581c-.2022-.1104-.447-.1086-.6475.0048l-25.0609,14.1654Z"/>
   </g>
 </svg>

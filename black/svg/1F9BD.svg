@@ -2,7 +2,7 @@
   <g id="line">
     <line x1="19.2468" x2="13.9409" y1="45.2892" y2="45.2892" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="51.759" x2="48.7419" y1="11.7483" y2="25.5634" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M30.35,27.3077l-5.7455-.9827a4.7949,4.7949,0,0,0-4.8664,3.41s-4.2077,9.749-2.3324,17.2505"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m30.35,27.3077l-5.7455-.9827c-2.2158-.1266-4.229,1.284-4.8664,3.41,0,0-4.2077,9.749-2.3324,17.2505"/>
     <circle cx="40.8929" cy="38.8172" r="14.9622" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <circle cx="22.5204" cy="50.1301" r="3.8971" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
     <line x1="17.1822" x2="20.2143" y1="43.0317" y2="46.233" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

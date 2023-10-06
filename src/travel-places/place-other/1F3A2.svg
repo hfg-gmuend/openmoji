@@ -1,34 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path d="m68,4v64H4V4h64M72,0H0v72h72V0Z" fill="#b3b3b3"/>
-    <rect x="11" y="10.7543" width="50" height="50" rx="1.9231" ry="1.9231" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="3.796" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="4" y="15.796" width="64" height="40" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <circle cx="36" cy="35.796" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <path fill="#b3b3b3" d="m68,4v64H4V4h64M72,0H0v72h72V0Z"/>
+    <rect x="11" y="10.7543" rx="1.9231" ry="1.9231" width="50" height="50" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="3.796" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="4" y="15.796" rx="2.2537" ry="2.2537" width="64" height="40" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="35.796" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <path d="m39.4776,16.4928c5.5494-3.93,8.754-.6339,8.754-.6339.9628.8397,1.0667,2.2993.2327,3.267l-9.9662,11.4952c-.8397.9629-2.2993,1.0669-3.267.2328l-3.7134-3.2195c-.9629-.8397-1.0669-2.2993-.2328-3.267l1.6316-1.8819,3.2342,2.8045,5.8114-6.7029-2.4845-2.0943Z" fill="#fcea2b"/>
-    <path d="m45.9661,22.1935l-7.1061,8.1965c-.8397.9628-2.2992,1.0667-3.2669.2327l-3.7131-3.2197c-.9628-.8397-1.0668-2.2993-.2327-3.2669l1.6315-1.8819,3.2343,2.804,2.4169-2.7882" fill="#f4aa41"/>
-    <polygon points="14.271 50.034 7.866 47.472 7.866 63.893 14.271 63.893 14.271 50.034" fill="#ea5a47"/>
-    <polygon points="10.38 49.63 10.38 63.713 13.583 63.713 13.583 50.9 10.38 49.63" fill="#d22f27"/>
-    <polygon points="30.613 48.78 24.208 50.473 24.208 63.893 30.613 63.893 30.613 48.78" fill="#ea5a47"/>
-    <polygon points="27.41 50.111 27.41 63.194 30.613 63.194 30.613 48.78 27.41 50.111" fill="#d22f27"/>
-    <polygon points="48.353 36.383 41.948 42.796 41.948 63.935 48.353 63.935 48.353 36.383" fill="#ea5a47"/>
-    <polygon points="44.515 40.249 44.515 63.444 47.718 63.444 47.718 37.986 44.515 40.249" fill="#d22f27"/>
-    <polygon points="64.822 11.896 58.417 22.378 58.417 63.893 64.822 63.893 64.822 11.896" fill="#ea5a47"/>
-    <polygon points="61.62 17.866 61.62 63.358 64.822 63.358 64.822 13.565 61.62 17.866" fill="#d22f27"/>
+    <path fill="#fcea2b" d="m39.4776,16.4928c5.5494-3.93,8.754-.6339,8.754-.6339.9628.8397,1.0667,2.2993.2327,3.267l-9.9662,11.4952c-.8397.9629-2.2993,1.0669-3.267.2328l-3.7134-3.2195c-.9629-.8397-1.0669-2.2993-.2328-3.267l1.6316-1.8819,3.2342,2.8045,5.8114-6.7029-2.4845-2.0943Z"/>
+    <path fill="#f4aa41" d="m45.9661,22.1935l-7.1061,8.1965c-.8397.9628-2.2992,1.0667-3.2669.2327l-3.7131-3.2197c-.9628-.8397-1.0668-2.2993-.2327-3.2669l1.6315-1.8819,3.2343,2.804,2.4169-2.7882"/>
+    <polygon fill="#ea5a47" points="14.271 50.034 7.866 47.472 7.866 63.893 14.271 63.893 14.271 50.034"/>
+    <polygon fill="#d22f27" points="10.38 49.63 10.38 63.713 13.583 63.713 13.583 50.9 10.38 49.63"/>
+    <polygon fill="#ea5a47" points="30.613 48.78 24.208 50.473 24.208 63.893 30.613 63.893 30.613 48.78"/>
+    <polygon fill="#d22f27" points="27.41 50.111 27.41 63.194 30.613 63.194 30.613 48.78 27.41 50.111"/>
+    <polygon fill="#ea5a47" points="48.353 36.383 41.948 42.796 41.948 63.935 48.353 63.935 48.353 36.383"/>
+    <polygon fill="#d22f27" points="44.515 40.249 44.515 63.444 47.718 63.444 47.718 37.986 44.515 40.249"/>
+    <polygon fill="#ea5a47" points="64.822 11.896 58.417 22.378 58.417 63.893 64.822 63.893 64.822 11.896"/>
+    <polygon fill="#d22f27" points="61.62 17.866 61.62 63.358 64.822 63.358 64.822 13.565 61.62 17.866"/>
   </g>
   <g id="line">
-    <path d="m62.3587,6.1951S36.5336,62.1351,7.1779,42.1691" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
-    <polygon points="47.718 36.383 41.313 42.796 41.313 63.935 47.718 63.935 47.718 36.383" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polygon points="30.613 48.78 24.208 50.473 24.208 63.893 30.613 63.893 30.613 48.78" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polygon points="13.583 50.034 7.178 47.472 7.178 63.893 13.583 63.893 13.583 50.034" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path d="m39.8608,16.45c5.5494-3.9305,8.754-.6339,8.754-.6339.9628.8397,1.0667,2.2993.2327,3.267l-9.9662,11.4947c-.8397.9628-2.2993,1.0668-3.267.2328l-3.7134-3.2195c-.9629-.8397-1.0669-2.2993-.2328-3.267l1.6319-1.8819,3.2342,2.8041,5.8114-6.7029-2.4848-2.0934Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="m62.3587,6.1951S36.5336,62.1351,7.1779,42.1691"/>
+    <polygon fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="47.718 36.383 41.313 42.796 41.313 63.935 47.718 63.935 47.718 36.383"/>
+    <polygon fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="30.613 48.78 24.208 50.473 24.208 63.893 30.613 63.893 30.613 48.78"/>
+    <polygon fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="13.583 50.034 7.178 47.472 7.178 63.893 13.583 63.893 13.583 50.034"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m39.8608,16.45c5.5494-3.9305,8.754-.6339,8.754-.6339.9628.8397,1.0667,2.2993.2327,3.267l-9.9662,11.4947c-.8397.9628-2.2993,1.0668-3.267.2328l-3.7134-3.2195c-.9629-.8397-1.0669-2.2993-.2328-3.267l1.6319-1.8819,3.2342,2.8041,5.8114-6.7029-2.4848-2.0934Z"/>
     <circle cx="48.5754" cy="20.7695" r="1.5501"/>
     <circle cx="46.8841" cy="22.9915" r="1.5501"/>
     <circle cx="40.021" cy="30.6363" r="1.5501"/>
     <circle cx="42.2104" cy="28.608" r="1.5501"/>
-    <polygon points="64.822 11.896 58.417 22.378 58.417 63.893 64.822 63.893 64.822 11.896" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polygon fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="64.822 11.896 58.417 22.378 58.417 63.893 64.822 63.893 64.822 11.896"/>
   </g>
 </svg>

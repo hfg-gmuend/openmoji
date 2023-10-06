@@ -1,29 +1,29 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="51,56 51,25 67,25 67,56"/>
-    <polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="5,56 5,34 39,34 39,56"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="51,55 51,25 67,25 67,55"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="5,55 5,34 39,34 39,55"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="35,31 35,21 47,21 47,55"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="11,31 11,17 19,17 19,31"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="57,34 55,34 55,29"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="63,34 61,34 61,29"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="57,44 55,44 55,39"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="63,44 61,44 61,39"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="29,43 27,43 27,38"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="35,43 33,43 33,38"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="29,53 27,53 27,48"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="35,53 33,53 33,48"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="17,43 15,43 15,38"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="23,43 21,43 21,38"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="17,53 15,53 15,48"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="11,43 9,43 9,38"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="11,53 9,53 9,48"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="23,53 21,53 21,48"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="57,54 55,54 55,49"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="63,54 61,54 61,49"/>
-    <line x1="15" x2="15" y1="20" y2="31" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <line x1="39" x2="39" y1="24" y2="31" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <line x1="43" x2="43" y1="24" y2="55" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <polyline fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.9744" points="50.6154 55 50.6154 25.0449 66.2051 25.0449 66.2051 55"/>
+    <polyline fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.9744" points="5.7949 55 5.7949 33.8141 38.9231 33.8141 38.9231 55.25"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="50.6154 54.2756 50.6154 25.0449 66.2051 25.0449 66.2051 54.2756"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="5.7949 54.2756 5.7949 33.8141 38.9231 33.8141 38.9231 54.2756"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="35.0256 30.891 35.0256 21.1474 46.7179 21.1474 46.7179 54.2756"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="11.641 30.891 11.641 17.25 19.4359 17.25 19.4359 30.891"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="56.4615 33.8141 54.5128 33.8141 54.5128 28.9423"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="62.3077 33.8141 60.359 33.8141 60.359 28.9423"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="56.4615 43.5577 54.5128 43.5577 54.5128 38.6859"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="62.3077 43.5577 60.359 43.5577 60.359 38.6859"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="29.1795 42.5833 27.2308 42.5833 27.2308 37.7115"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="35.0256 42.5833 33.0769 42.5833 33.0769 37.7115"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="29.1795 52.3269 27.2308 52.3269 27.2308 47.4551"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="35.0256 52.3269 33.0769 52.3269 33.0769 47.4551"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="17.4872 42.5833 15.5385 42.5833 15.5385 37.7115"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="23.3333 42.5833 21.3846 42.5833 21.3846 37.7115"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="17.4872 52.3269 15.5385 52.3269 15.5385 47.4551"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="11.641 42.5833 9.6923 42.5833 9.6923 37.7115"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="11.641 52.3269 9.6923 52.3269 9.6923 47.4551"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="23.3333 52.3269 21.3846 52.3269 21.3846 47.4551"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="56.4615 53.3013 54.5128 53.3013 54.5128 48.4295"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487" points="62.3077 53.3013 60.359 53.3013 60.359 48.4295"/>
+    <line x1="15.5385" x2="15.5385" y1="20.1731" y2="30.891" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487"/>
+    <line x1="38.9231" x2="38.9231" y1="24.0705" y2="30.891" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487"/>
+    <line x1="42.8205" x2="42.8205" y1="24.0705" y2="54.2756" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9487"/>
   </g>
 </svg>

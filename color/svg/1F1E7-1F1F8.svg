@@ -3,7 +3,7 @@
     <rect x="5" y="17" width="62" height="38" fill="#fcea2b"/>
     <rect x="5" y="42" width="62" height="13" fill="#61b2e4"/>
     <rect x="5" y="17" width="62" height="13" fill="#61b2e4"/>
-    <polygon points="26 36 5 55 5 17 26 36"/>
+    <polyline points="5 17 26 36 5 55"/>
   </g>
   <g id="line">
     <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

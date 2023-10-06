@@ -1,10 +1,10 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M62.3587,6.1951s-25.8251,55.94-55.1808,35.974"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="m62.3587,6.1951S36.5336,62.1351,7.1779,42.1691"/>
     <polygon fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="47.718 36.383 41.313 42.796 41.313 63.935 47.718 63.935 47.718 36.383"/>
     <polygon fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="30.613 48.78 24.208 50.473 24.208 63.893 30.613 63.893 30.613 48.78"/>
     <polygon fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="13.583 50.034 7.178 47.472 7.178 63.893 13.583 63.893 13.583 50.034"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M39.8608,16.45c5.5494-3.9305,8.754-.6339,8.754-.6339a2.3228,2.3228,0,0,1,.2327,3.267L38.8813,30.5778a2.3228,2.3228,0,0,1-3.267.2328l-3.7134-3.2195a2.3227,2.3227,0,0,1-.2328-3.267L33.3,22.4422l3.2342,2.8041,5.8114-6.7029Z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m39.8608,16.45c5.5494-3.9305,8.754-.6339,8.754-.6339.9628.8397,1.0667,2.2993.2327,3.267l-9.9662,11.4947c-.8397.9628-2.2993,1.0668-3.267.2328l-3.7134-3.2195c-.9629-.8397-1.0669-2.2993-.2328-3.267l1.6319-1.8819,3.2342,2.8041,5.8114-6.7029-2.4848-2.0934Z"/>
     <circle cx="48.5754" cy="20.7695" r="1.5501"/>
     <circle cx="46.8841" cy="22.9915" r="1.5501"/>
     <circle cx="40.021" cy="30.6363" r="1.5501"/>

@@ -1,15 +1,14 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="line-supplement">
-    <rect x="33.6248" y="20.0448" width="4.6535" height="32.1987" transform="matrix(.70797 .70624 -.70624 .70797 36.025 -14.836)"/>
-  </g>
   <g id="color">
-    <rect x="33.6248" y="20.0448" width="4.6535" height="32.1987" transform="rotate(44.93 35.952 36.144)" fill="#3f3f3f"/>
+    <polygon fill="#fff" points="46.6845 24.0742 53.6399 17.146 54.8082 18.3958 47.9887 25.1339 46.6845 24.0742"/>
+    <polygon fill="#fff" points="16.6168 54.2079 23.5722 47.2797 24.7404 48.5295 17.9209 55.2676 16.6168 54.2079"/>
+    <polygon fill="#3f3f3f" points="46.4235 23.7854 47.9758 25.4033 25.4349 48.3596 23.7077 46.7855 46.4235 23.7854"/>
     <circle cx="47.5749" cy="10.9583" r="2" fill="#fcea2b"/>
     <circle cx="56" cy="28.3101" r="2" fill="#fcea2b"/>
   </g>
   <g id="line">
-    <rect x="34.2628" y="9.2771" rx="0.4398" width="3.3851" height="53.5249" transform="matrix(.70797 .70624 -.70624 .70797 35.953 -14.8682)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
-    <line x1="45.3062" x2="47.6346" y1="23.8732" y2="26.0854" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <rect x="9.1933" y="34.3473" rx="0.4398" ry="0.4398" width="53.5248" height="3.3851" transform="translate(-14.9528 36.0426) rotate(-45.0701)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="45.8806" x2="47.6346" y1="24.4476" y2="26.0854" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
     <line x1="23.4413" x2="25.8379" y1="46.1937" y2="48.5844" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
     <line x1="47.5749" x2="47.5749" y1="8.9583" y2="7.2929" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
     <line x1="47.5749" x2="47.5749" y1="14.6237" y2="12.9583" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>

@@ -2,18 +2,18 @@
   <g id="line">
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" points="32.55 5 32.55 16.57 32.55 23.16"/>
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" points="37.55 5 37.55 15.83 37.55 22"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m26.55 24c-1-1-2.5-3.5-5-6a14.39 14.39 0 0 0-3-2l-2-3"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m46.55 30s-1 3 0 5c1.2 2.4 5.8 8 5.8 9l-2.8 3s-1.1 0.7-1.1 1.4a1.563 1.563 0 0 0 1.9 1.6s6.4-5.6 6.2-6c-0.5-1.3-1.4-3.7-2-5-1-2 4-5 4-8 0-1.6-1-6-5-7a19.32 19.32 0 0 0-6-0.3"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m24.55 54a19.44 19.44 0 0 1-5-3 3.054 3.054 0 0 1 0-3l3-6a7.812 7.812 0 0 1-3-2c-1-1-0.9-5-1-7-0.1-1.8-2-8-2-8a37.46 37.46 0 0 0-8 1c-0.7 0.2-2.6-1.6-2-2a79.74 79.74 0 0 1 8-6"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m26.55 51a11.35 11.35 0 0 1 1.2 1.2 1.758 1.758 0 0 1-2.2 2.7c-0.6-0.5-1-0.9-1-0.9"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m47.55 38s-7.4 3.4-10 4a79.17 79.17 0 0 1-9 1c-4 4-5 6-5 6a20.04 20.04 0 0 0 3 2"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M48.5485,39s-2.1,6.8-3,9c-.5,1.2-.6,1.9-1.5,4-.8,1.8-.9,2.1-.9,2.1a1.85,1.85,0,0,0,1,2.4,2.1579,2.1579,0,0,0,2.4-1.3l1-2.1"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m15.55 52v2c0 1.1-0.7 2-1.5 2a1.56 1.56 0 0 1-1.5-1.6v-2.4"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m18.55 40a61.25 61.25 0 0 0-6 4 3.881 3.881 0 0 0-1 3 46.19 46.19 0 0 0 1 5"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m56.55 25h2c3 0 7 3 6 7-0.7 2.9-5 6 0 11"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m26.55,24c-1-1-2.5-3.5-5-6-.9122-.7898-1.9201-1.4617-3-2l-2-3"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m46.55,30s-1,3,0,5c1.2,2.4,5.8,8,5.8,9l-2.8,3s-1.1.7-1.1,1.4c-.041.8622.6248,1.5944,1.4871,1.6354.1386.0066.2775-.0053.4129-.0354,0,0,6.4-5.6,6.2-6-.5-1.3-1.4-3.7-2-5-1-2,4-5,4-8,0-1.6-1-6-5-7-1.9721-.4122-3.9966-.5135-6-.3"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m24.55,54c-1.808-.7429-3.4936-1.7543-5-3-.525-.9311-.525-2.0689,0-3l3-6c-1.1423-.4236-2.1696-1.1085-3-2-1-1-.9-5-1-7-.1-1.8-2-8-2-8-2.6949.0446-5.3771.3798-8,1-.7.2-2.6-1.6-2-2,2.5385-2.1654,5.2104-4.1693,8-6"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m26.55,51c.4294.3695.8305.7706,1.2,1.2.6615.7107.6217,1.8231-.089,2.4846-.5761.5363-1.4384.6243-2.111.2154-.6-.5-1-.9-1-.9"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m47.55,38s-7.4,3.4-10,4c-2.9785.5048-5.9834.8386-9,1-4,4-5,6-5,6,.9379.7555,1.9419,1.4248,3,2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m48.5485,39s-2.1,6.8-3,9c-.5,1.2-.6,1.9-1.5,4-.8,1.8-.9,2.1-.9,2.1-.3798.9389.0659,2.0086,1,2.4,1.0073.1919,2.0105-.3515,2.4-1.3l1-2.1"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m15.55,52v2c0,1.1-.7,2-1.5,2-.8538-.0326-1.5225-.7459-1.5-1.6v-2.4"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m18.55,40c-2.0768,1.2143-4.0803,2.55-6,4-.7441.8127-1.1077,1.9034-1,3,.241,1.6838.5749,3.353,1,5"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m56.55,25h2c3,0,7,3,6,7-.7,2.9-5,6,0,11"/>
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" points="32.55 46 32.55 59.38 32.55 67"/>
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" points="37.55 45 37.55 59.02 37.55 67"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m29.55 25c-0.2 2.269 0.3851 3.392 1 4 1.432 1.416 3.389 0.3868 5 2 1.149 1.15 0.8128 2.332 2 3a3.718 3.718 0 0 0 3 0"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m29.55,25c-.2,2.269.3851,3.392,1,4,1.432,1.416,3.389.3868,5,2,1.149,1.15.8128,2.332,2,3,.9556.4213,2.0444.4213,3,0"/>
     <line x1="15.55" x2="15.55" y1="48" y2="52" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>
