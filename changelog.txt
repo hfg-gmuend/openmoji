@@ -18,6 +18,7 @@ New:
   + Artstation brand logo by @SethFalco #463
   + Reddit and Discord brand logos by Allison Fister @alfister #470
   + moose and black bird by Jasmin Fassler & Linda Hartmann
+  + windsurfing emoji by Mostafa Hussein Omar #469
 
 Improvements:
   * fix symbol for ionising radiation to correct orientation by @RobertWinslow #421
