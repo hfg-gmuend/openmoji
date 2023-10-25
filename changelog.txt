@@ -38,6 +38,8 @@ Improvements:
   * 1F96F fix small spike on right side by @BenediktSeidl #455
   * 1F567 fix short hand to be actually twelve-thirty by @jkaving #465
   * fix regional indicators (ABC) in extras-unicode by Jasmin Fassler & Linda Hartmann
+  * optimized extras-openmoji for upcoming dark mode by Jasmin Fassler & Linda Hartmann
+  * optimized extras-unicode for upcoming dark mode by Jasmin Fassler & Linda Hartmann
 
   #426 by @RobertWinslow
   * Several paths have had superfluous colinear points removed (tophat and math symbols)
