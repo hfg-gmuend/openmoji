@@ -48,6 +48,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😬,1F62C,smileys-emotion,face-neutral-skeptical,grimacing face,"face, grimace",awkward,Daniel Utz,2019-11-11,,,,,1,49
 😮‍💨,1F62E-200D-1F4A8,smileys-emotion,face-neutral-skeptical,face exhaling,"exhale, gasp, groan, relief, whisper, whistle",,Nelly Nieter,2021-04-23,,,,,13.1,50
 🤥,1F925,smileys-emotion,face-neutral-skeptical,lying face,"face, lie, pinocchio","nose, long",Emily Jäger,2018-04-18,,,,,3,51
+🫨,1FAE8,smileys-emotion,face-neutral-skeptical,shaking face,"earthquake, face, shaking, shock, vibrate",,Linda Hartmann,2023-10-25,,,,,15,52
 😌,1F60C,smileys-emotion,face-sleepy,relieved face,"face, relieved",,Mariella Steeb,2018-04-18,,,,,0.6,53
 😔,1F614,smileys-emotion,face-sleepy,pensive face,"dejected, face, pensive",,Mariella Steeb,2018-04-18,,,,,0.6,54
 😪,1F62A,smileys-emotion,face-sleepy,sleepy face,"face, good night, sleep","snot bubble, side-tear",Mariella Steeb,2018-04-18,,,,,0.6,55
@@ -139,13 +140,16 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ❤️‍🔥,2764-FE0F-200D-1F525,smileys-emotion,heart,heart on fire,"burn, heart, love, lust, sacred heart",,Nelly Nieter,2021-04-23,,,,,13.1,144
 ❤️‍🩹,2764-FE0F-200D-1FA79,smileys-emotion,heart,mending heart,"healthier, improving, mending, recovering, recuperating, well",,Nelly Nieter,2021-04-23,,,,,13.1,146
 ❤️,2764,smileys-emotion,heart,red heart,heart,"love, red",Laura Humpfer,2018-04-18,,,,,0.6,149
+🩷,1FA77,smileys-emotion,heart,pink heart,"cute, heart, like, love, pink",,Jasmin Fassler,2023-10-25,,,,,15,150
 🧡,1F9E1,smileys-emotion,heart,orange heart,orange,,Laura Schießer,2019-05-06,,,,,5,151
 💛,1F49B,smileys-emotion,heart,yellow heart,yellow,,Laura Humpfer,2018-04-18,,,,,0.6,152
 💚,1F49A,smileys-emotion,heart,green heart,green,,Laura Humpfer,2018-04-18,,,,,0.6,153
 💙,1F499,smileys-emotion,heart,blue heart,blue,,Laura Humpfer,2018-04-18,,,,,0.6,154
+🩵,1FA75,smileys-emotion,heart,light blue heart,"cyan, heart, light blue, teal",,Kira Lehmann,2023-10-25,,,,,15,155
 💜,1F49C,smileys-emotion,heart,purple heart,purple,,Laura Humpfer,2018-04-18,,,,,0.6,156
 🤎,1F90E,smileys-emotion,heart,brown heart,"brown, heart",,Laura Dworatschek,2019-05-06,,,,,12,157
 🖤,1F5A4,smileys-emotion,heart,black heart,"black, evil, wicked",,Laura Humpfer,2018-04-18,,,,,3,158
+🩶,1FA76,smileys-emotion,heart,grey heart,"gray, heart, silver, slate",,Jasmin Fassler,2023-10-25,,,,,15,159
 🤍,1F90D,smileys-emotion,heart,white heart,"heart, white",,Laura Dworatschek,2019-05-06,,,,,12,160
 💋,1F48B,smileys-emotion,emotion,kiss mark,"kiss, lips",love,Laura Humpfer,2018-04-18,,,,,0.6,161
 💯,1F4AF,smileys-emotion,emotion,hundred points,"100, full, hundred, score","perfect, excellent",Jose Avila,2018-04-18,,,,,0.6,162
@@ -215,6 +219,18 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🫴🏽,1FAF4-1F3FD,people-body,hand-fingers-open,palm up hand: medium skin tone,,,Pia Stockhaus,2022-05-09,3,single,🫴,1FAF4,14,233
 🫴🏾,1FAF4-1F3FE,people-body,hand-fingers-open,palm up hand: medium-dark skin tone,,,Pia Stockhaus,2022-05-09,4,single,🫴,1FAF4,14,234
 🫴🏿,1FAF4-1F3FF,people-body,hand-fingers-open,palm up hand: dark skin tone,,,Pia Stockhaus,2022-05-09,5,single,🫴,1FAF4,14,235
+🫷,1FAF7,people-body,hand-fingers-open,leftwards pushing hand,"high five, leftward, push, refuse, stop, wait",,Jasmin Fassler,2023-10-25,,single,🫷,1FAF7,15,236
+🫷🏻,1FAF7-1F3FB,people-body,hand-fingers-open,leftwards pushing hand: light skin tone,,,Jasmin Fassler,2023-10-25,1,single,🫷,1FAF7,15,237
+🫷🏼,1FAF7-1F3FC,people-body,hand-fingers-open,leftwards pushing hand: medium-light skin tone,,,Jasmin Fassler,2023-10-25,2,single,🫷,1FAF7,15,238
+🫷🏽,1FAF7-1F3FD,people-body,hand-fingers-open,leftwards pushing hand: medium skin tone,,,Jasmin Fassler,2023-10-25,3,single,🫷,1FAF7,15,239
+🫷🏾,1FAF7-1F3FE,people-body,hand-fingers-open,leftwards pushing hand: medium-dark skin tone,,,Jasmin Fassler,2023-10-25,4,single,🫷,1FAF7,15,240
+🫷🏿,1FAF7-1F3FF,people-body,hand-fingers-open,leftwards pushing hand: dark skin tone,,,Jasmin Fassler,2023-10-25,5,single,🫷,1FAF7,15,241
+🫸,1FAF8,people-body,hand-fingers-open,rightwards pushing hand,"high five, push, refuse, rightward, stop, wait",,Paul Mang,2023-10-25,,single,🫸,1FAF8,15,242
+🫸🏻,1FAF8-1F3FB,people-body,hand-fingers-open,rightwards pushing hand: light skin tone,,,Paul Mang,2023-10-25,1,single,🫸,1FAF8,15,243
+🫸🏼,1FAF8-1F3FC,people-body,hand-fingers-open,rightwards pushing hand: medium-light skin tone,,,Paul Mang,2023-10-25,2,single,🫸,1FAF8,15,244
+🫸🏽,1FAF8-1F3FD,people-body,hand-fingers-open,rightwards pushing hand: medium skin tone,,,Paul Mang,2023-10-25,3,single,🫸,1FAF8,15,245
+🫸🏾,1FAF8-1F3FE,people-body,hand-fingers-open,rightwards pushing hand: medium-dark skin tone,,,Paul Mang,2023-10-25,4,single,🫸,1FAF8,15,246
+🫸🏿,1FAF8-1F3FF,people-body,hand-fingers-open,rightwards pushing hand: dark skin tone,,,Paul Mang,2023-10-25,5,single,🫸,1FAF8,15,247
 👌,1F44C,people-body,hand-fingers-partial,OK hand,"hand, ok","hand, ok, okay, perfect",Julian Grüneberg,2018-04-18,,single,👌,1F44C,0.6,248
 👌🏻,1F44C-1F3FB,people-body,hand-fingers-partial,OK hand: light skin tone,,,Julian Grüneberg,2018-04-18,1,single,👌,1F44C,1,249
 👌🏼,1F44C-1F3FC,people-body,hand-fingers-partial,OK hand: medium-light skin tone,,,Julian Grüneberg,2018-04-18,2,single,👌,1F44C,1,250
@@ -2327,6 +2343,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐆,1F406,animals-nature,animal-mammal,leopard,leopard,"dots, strong, cat, wild, spots",Sofie Ascherl,2018-04-18,,,,,1,3206
 🐴,1F434,animals-nature,animal-mammal,horse face,"face, horse","riding, sport",Sofie Ascherl,2018-04-18,,,,,0.6,3207
 🫎,1FACE,animals-nature,animal-mammal,moose,"animal, antlers, elk, mammal",,Linda Hartmann,2023-10-06,,,,,15,3208
+🫏,1FACF,animals-nature,animal-mammal,donkey,"animal, ass, burro, mammal, mule, stubborn",,Charlotte Beha,2023-10-25,,,,,15,3209
 🐎,1F40E,animals-nature,animal-mammal,horse,"equestrian, racehorse, racing","riding, sport",Sofie Ascherl,2018-04-18,,,,,0.6,3210
 🦄,1F984,animals-nature,animal-mammal,unicorn,face,"fabulous, magical, rainbow, schwäbisch, gmünd",Sofie Ascherl,2018-04-18,,,,,1,3211
 🦓,1F993,animals-nature,animal-mammal,zebra,stripe,"horse, black, white",Sofie Ascherl,2018-04-18,,,,,5,3212
@@ -2389,7 +2406,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🦩,1F9A9,animals-nature,animal-bird,flamingo,"flamboyant, tropical",flamingo,Mariella Steeb,2018-04-18,,,,,12,3272
 🦚,1F99A,animals-nature,animal-bird,peacock,"bird, ostentatious, peahen, proud",,Laura Schießer,2019-05-06,,,,,11,3273
 🦜,1F99C,animals-nature,animal-bird,parrot,"bird, pirate, talk",,Ricarda Krejci,2019-05-07,,,,,11,3274
+🪽,1FABD,animals-nature,animal-bird,wing,"angelic, aviation, bird, flying, mythology",,Kathrin Gerold,2023-10-25,,,,,15,3275
 🐦‍⬛,1F426-200D-2B1B,animals-nature,animal-bird,black bird,"bird, black, crow, raven, rook",,Jasmin Fassler,2023-10-06,,,,,15,3276
+🪿,1FABF,animals-nature,animal-bird,goose,"bird, fowl, honk, silly",,Paul Gabriel,2023-10-25,,,,,15,3277
 🐸,1F438,animals-nature,animal-amphibian,frog,face,"jump, green",Selina Bauder,2018-04-18,,,,,0.6,3278
 🐊,1F40A,animals-nature,animal-reptile,crocodile,crocodile,dinosaur,Selina Bauder,2018-04-18,,,,,1,3279
 🐢,1F422,animals-nature,animal-reptile,turtle,"terrapin, tortoise","slow, water, sand",Robert Winslow,2022-03-29,,,,,0.6,3280
@@ -2410,6 +2429,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐙,1F419,animals-nature,animal-marine,octopus,octopus,"swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,3295
 🐚,1F41A,animals-nature,animal-marine,spiral shell,"shell, spiral","beach, sand, water",Selina Bauder,2018-04-18,,,,,0.6,3296
 🪸,1FAB8,animals-nature,animal-marine,coral,"ocean, reef",,Alena Peichl,2022-05-09,,,,,14,3297
+🪼,1FABC,animals-nature,animal-marine,jellyfish,"burn, invertebrate, jelly, marine, ouch, stinger",,Raluca Maniu,2023-10-25,,,,,15,3298
 🐌,1F40C,animals-nature,animal-bug,snail,snail,,Selina Bauder,2018-04-18,,,,,0.6,3299
 🦋,1F98B,animals-nature,animal-bug,butterfly,"insect, pretty",,Robert Winslow,2022-03-29,,,,,3,3300
 🐛,1F41B,animals-nature,animal-bug,bug,insect,,Liz Bravo,2020-12-22,,,,,0.6,3301
@@ -2437,6 +2457,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🌻,1F33B,animals-nature,plant-flower,sunflower,"flower, sun","sun, flower, yellow, summer",Hilda Kalyoncu,2018-04-18,,,,,0.6,3326
 🌼,1F33C,animals-nature,plant-flower,blossom,flower,"yellow, nature",Hilda Kalyoncu,2018-04-18,,,,,0.6,3327
 🌷,1F337,animals-nature,plant-flower,tulip,flower,"pink, eastern",Hilda Kalyoncu,2018-04-18,,,,,0.6,3328
+🪻,1FABB,animals-nature,plant-flower,hyacinth,"bluebonnet, flower, lavender, lupine, snapdragon",,Simon Rutsch,2023-10-25,,,,,15,3329
 🌱,1F331,animals-nature,plant-other,seedling,young,"farming, growing, green, leaf, leaves, plant",Hilda Kalyoncu,2018-04-18,,,,,0.6,3330
 🪴,1FAB4,animals-nature,plant-other,potted plant,"boring, grow, house, nurturing, plant, useless",,Liz Bravo,2020-03-26,,,,,13,3331
 🌲,1F332,animals-nature,plant-other,evergreen tree,tree,"green, fir, plant",Hilda Kalyoncu,2018-04-18,,,,,1,3332
@@ -2487,6 +2508,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🥜,1F95C,food-drink,food-vegetable,peanuts,"food, nut, peanut, vegetable",,Marius Schnabel,2018-04-18,,,,,3,3379
 🫘,1FAD8,food-drink,food-vegetable,beans,"food, kidney, legume",,Jana Junk,2022-05-09,,,,,14,3380
 🌰,1F330,food-drink,food-vegetable,chestnut,plant,,Hend Hourani,2018-11-16,,,,,0.6,3381
+🫚,1FADA,food-drink,food-vegetable,ginger root,"beer, root, spice",,Jennifer Zhu,2023-10-25,,,,,15,3382
+🫛,1FADB,food-drink,food-vegetable,pea pod,"beans, edamame, legume, pea, pod, vegetable",,Sonja Partheymüller,2023-10-25,,,,,15,3383
 🍞,1F35E,food-drink,food-prepared,bread,loaf,,Miriam Vollmeier,2018-04-18,,,,,0.6,3384
 🥐,1F950,food-drink,food-prepared,croissant,"bread, breakfast, food, french, roll",,Miriam Vollmeier,2018-04-18,,,,,3,3385
 🥖,1F956,food-drink,food-prepared,baguette bread,"baguette, bread, food, french",,Miriam Vollmeier,2018-04-18,,,,,3,3386
@@ -2907,6 +2930,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🩳,1FA73,objects,clothing,shorts,"bathing suit, pants, underwear",,Sam Eckert,2019-05-06,,,,,12,3863
 👙,1F459,objects,clothing,bikini,"clothing, swim",summer,Jonas Roßner,2018-04-18,,,,,0.6,3864
 👚,1F45A,objects,clothing,woman’s clothes,"clothing, woman",,Jonas Roßner,2018-04-18,,,,,0.6,3865
+🪭,1FAAD,objects,clothing,folding hand fan,"cooling, dance, fan, flutter, hot, shy",,Anna Schneider,2023-10-25,,,,,15,3866
 👛,1F45B,objects,clothing,purse,"clothing, coin",money,Jonas Roßner,2018-04-18,,,,,0.6,3867
 👜,1F45C,objects,clothing,handbag,"bag, clothing, purse",,Jonas Roßner,2018-04-18,,,,,0.6,3868
 👝,1F45D,objects,clothing,clutch bag,"bag, clothing, pouch",,Jonas Roßner,2018-04-18,,,,,0.6,3869
@@ -2921,6 +2945,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👡,1F461,objects,clothing,woman’s sandal,"clothing, sandal, shoe, woman",,Jonas Roßner,2018-04-18,,,,,0.6,3879
 🩰,1FA70,objects,clothing,ballet shoes,"ballet, dance",,Sam Eckert,2019-05-06,,,,,12,3880
 👢,1F462,objects,clothing,woman’s boot,"boot, clothing, shoe, woman",,Jonas Roßner,2018-04-18,,,,,0.6,3881
+🪮,1FAAE,objects,clothing,hair pick,"afro, comb, hair, pick",,Linda Hartmann,2023-10-25,,,,,15,3882
 👑,1F451,objects,clothing,crown,"clothing, king, queen","crone, gold",Jonas Roßner,2018-04-18,,,,,0.6,3883
 👒,1F452,objects,clothing,woman’s hat,"clothing, hat, woman",beautiful,Niklas Kuntz,2022-07-01,,,,,0.6,3884
 🎩,1F3A9,objects,clothing,top hat,"clothing, hat, top, tophat",magic,Jonas Roßner,2018-04-18,,,,,0.6,3885
@@ -2959,6 +2984,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🪕,1FA95,objects,musical-instrument,banjo,"music, stringed",,Sam Eckert,2019-05-06,,,,,12,3922
 🥁,1F941,objects,musical-instrument,drum,"drumsticks, music","drum, drumsticks, music, beat",Sina Schulz,2018-04-18,,,,,3,3923
 🪘,1FA98,objects,musical-instrument,long drum,"beat, conga, drum, rhythm",,Liz Bravo,2020-03-03,,,,,13,3924
+🪇,1FA87,objects,musical-instrument,maracas,"instrument, music, percussion, rattle, shake",,Ben Engelhardt,2023-10-25,,,,,15,3925
+🪈,1FA88,objects,musical-instrument,flute,"fife, music, pipe, recorder, woodwind",,Christian Engler,2023-10-25,,,,,15,3926
 📱,1F4F1,objects,phone,mobile phone,"cell, mobile, phone, telephone","smartphone, message, voice, communication",Martin Wehl,2018-04-18,,,,,0.6,3927
 📲,1F4F2,objects,phone,mobile phone with arrow,"arrow, cell, mobile, phone, receive","voice, smartphone, message",Martin Wehl,2018-04-18,,,,,0.6,3928
 ☎️,260E,objects,phone,telephone,phone,"call, voice, communication",Kai Wanschura,2018-04-18,,,,,0.6,3930
@@ -3238,6 +3265,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🔅,1F505,symbols,av-symbol,dim button,"brightness, dim, low",,Jose Avila,2018-04-18,,,,,1,4282
 🔆,1F506,symbols,av-symbol,bright button,"bright, brightness",,Jose Avila,2018-04-18,,,,,1,4283
 📶,1F4F6,symbols,av-symbol,antenna bars,"antenna, bar, cell, mobile, phone",,Jose Avila,2018-04-18,,,,,0.6,4284
+🛜,1F6DC,symbols,av-symbol,wireless,"computer, internet, network",,Linda Hartmann,2023-10-25,,,,,15,4285
 📳,1F4F3,symbols,av-symbol,vibration mode,"cell, mobile, mode, phone, telephone, vibration",silent mode,Jose Avila,2018-04-18,,,,,0.6,4286
 📴,1F4F4,symbols,av-symbol,mobile phone off,"cell, mobile, off, phone, telephone",caos,Jose Avila,2018-04-18,,,,,0.6,4287
 ♀️,2640,symbols,gender,female sign,woman,"woman, sign, gender",Hilda Kalyoncu,2018-04-18,,,,,4,4289

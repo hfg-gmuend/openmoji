@@ -19,6 +19,11 @@ New:
   + Reddit and Discord brand logos by Allison Fister @alfister #470
   + moose and black bird by Jasmin Fassler & Linda Hartmann
   + windsurfing emoji by Mostafa Hussein Omar #469
+  + new Unicode v15 emojis by Anna Schneider, Ben Engelhardt, Charlotte Beha,
+    Christian Engler, Jasmin Fassler, Jennifer Zhu, Kathrin Gerold,
+    Kira Lehmann, Linda Hartmann, Paul Gabriel, Paul Mang,Raluca Maniu,
+    Simon Rutsch, Sonja Partheymüller
+
 
 Improvements:
   * fix symbol for ionising radiation to correct orientation by @RobertWinslow #421

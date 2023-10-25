@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <g id="grid">
+    <path d="m68,4v64H4V4h64M72,0H0v72h72V0h0Z" fill="#b3b3b3"/>
+    <rect x="11" y="10.9583" width="50" height="50" rx="1.923" ry="1.923" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <rect x="4" y="16" width="64" height="40" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+  </g>
+  <g id="color">
+    <path d="m59.5,25.4802c0-6.9036-5.5964-12.5-12.5-12.5-4.7533,0-8.8861,2.6536-11,6.5598-2.1139-3.9062-6.2467-6.5598-11-6.5598-6.9036,0-12.5,5.5964-12.5,12.5,0,2.9699,1.0403,5.6942,2.7703,7.8387l-.0043.0034,20.734,25.6976,20.7339-25.6975-.0043-.0034c1.7301-2.1446,2.7704-4.8689,2.7704-7.8388Z" fill="#9b9b9a"/>
+  </g>
+  <g id="line">
+    <path d="m59.5,25.4802c0-6.9036-5.5964-12.5-12.5-12.5-4.7533,0-8.8861,2.6536-11,6.5598-2.1139-3.9062-6.2467-6.5598-11-6.5598-6.9036,0-12.5,5.5964-12.5,12.5,0,2.9699,1.0403,5.6942,2.7703,7.8387l-.0043.0034,20.734,25.6976,20.7339-25.6975-.0043-.0034c1.7301-2.1446,2.7704-4.8689,2.7704-7.8388Z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
