@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path d="m68,4v64H4V4h64m4-4H0v72h72V0Z" fill="#b3b3b3"/>
-    <path d="m12.923,10.9583h46.1539c1.0621,0,1.9231.861,1.9231,1.9231h0v46.1538c0,1.0621-.861,1.9231-1.9231,1.9231H12.9231c-1.0621,0-1.9231-.861-1.9231-1.9231h0V12.8813c0-1.062.861-1.923,1.923-1.923h0Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="4" y="16" width="64" height="40" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <path fill="#b3b3b3" d="m68,4v64H4V4h64m4-4H0v72h72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="m12.923,10.9583h46.1539c1.0621,0,1.9231.861,1.9231,1.9231h0v46.1538c0,1.0621-.861,1.9231-1.9231,1.9231H12.9231c-1.0621,0-1.9231-.861-1.9231-1.9231h0V12.8813c0-1.062.861-1.923,1.923-1.923h0Z"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="4" y="16" rx="2.2537" ry="2.2537" width="64" height="40" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
     <circle cx="35.4728" cy="36.1677" r="18.0684" fill="#fff"/>
-    <polygon points="54.9984 12.297 35.4838 40.4967 24.9116 30.2655 24.9116 35.2959 35.8675 46.0386 54.9984 18.2865 54.9984 12.297" fill="#d0cfce"/>
+    <polygon fill="#d0cfce" points="54.9984 12.297 35.4838 40.4967 24.9116 30.2655 24.9116 35.2959 35.8675 46.0386 54.9984 18.2865 54.9984 12.297"/>
   </g>
   <g id="line">
-    <path d="m52.0844,28.991c.9115,2.1542,1.4156,4.5227,1.4156,7.009,0,9.9411-8.0589,18-18,18s-18-8.0589-18-18,8.0589-18,18-18c3.2668,0,6.3303.8703,8.9714,2.3916" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polygon points="54.5737 12.7708 35.5 40.3333 25.1667 30.3333 25.1667 35.25 35.875 45.75 54.5737 18.625 54.5737 12.7708" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m52.0844,28.991c.9115,2.1542,1.4156,4.5227,1.4156,7.009,0,9.9411-8.0589,18-18,18s-18-8.0589-18-18,8.0589-18,18-18c3.2668,0,6.3303.8703,8.9714,2.3916"/>
+    <polygon fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="54.5737 12.7708 35.5 40.3333 25.1667 30.3333 25.1667 35.25 35.875 45.75 54.5737 18.625 54.5737 12.7708"/>
   </g>
 </svg>

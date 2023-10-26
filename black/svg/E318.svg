@@ -1,7 +1,7 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="line">
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.251" d="m23.21 63.42a4.609 4.609 0 0 0 3.514-2.904s22.26-40.97 25-51.13"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.251" d="m19.33 61.22a4.956 4.956 0 0 1 0.8883-4.53s24.13-39.9 31.51-47.4"/>
-    <path stroke-width="1.625" d="m51.35 7.081 2.667 1.54a0.9753 0.9753 0 0 1 0.357 1.332l-5.254 9.101-4.356-2.515 5.254-9.101a0.9753 0.9753 0 0 1 1.332-0.357z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.251" d="m23.21,63.42c1.6016-.2804,2.9369-1.3839,3.514-2.904,0,0,22.26-40.97,25-51.13"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.251" d="m19.33,61.22c-.4682-1.5641-.1359-3.2585.8883-4.53,0,0,24.13-39.9,31.51-47.4"/>
+    <path d="m51.3472,7.0815l2.522,1.4563c.441.2547.5921.8185.3376,1.2596l-5.5467,9.401-3.9341-2.1932,5.3616-9.5861c.2547-.441.8185-.5921,1.2596-.3376Z"/>
   </g>
 </svg>

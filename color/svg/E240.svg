@@ -1,12 +1,10 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="color">
-    <polygon fill="#d0cfce" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="54.5737,12.7708 35.5,40.3333 25.1667,30.3333 25.1667,35.25 35.875,45.75 54.5737,18.625"/>
+    <circle cx="35.4728" cy="36.1677" r="18.0684" fill="#fff"/>
+    <polygon fill="#d0cfce" points="54.9984 12.297 35.4838 40.4967 24.9116 30.2655 24.9116 35.2959 35.8675 46.0386 54.9984 18.2865 54.9984 12.297"/>
   </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M52.0844,28.991C52.9959,31.1452,53.5,33.5137,53.5,36c0,9.9411-8.0589,18-18,18s-18-8.0589-18-18s8.0589-18,18-18 c3.2668,0,6.3303,0.8703,8.9714,2.3916"/>
-    <polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="54.5737,12.7708 35.5,40.3333 25.1667,30.3333 25.1667,35.25 35.875,45.75 54.5737,18.625"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m52.0844,28.991c.9115,2.1542,1.4156,4.5227,1.4156,7.009,0,9.9411-8.0589,18-18,18s-18-8.0589-18-18,8.0589-18,18-18c3.2668,0,6.3303.8703,8.9714,2.3916"/>
+    <polygon fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="54.5737 12.7708 35.5 40.3333 25.1667 30.3333 25.1667 35.25 35.875 45.75 54.5737 18.625 54.5737 12.7708"/>
   </g>
 </svg>

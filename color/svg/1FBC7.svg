@@ -1,12 +1,14 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color"/>
+  <g id="color">
+    <polygon fill="#fff" points="30.8156 19.6103 38.1349 18.1516 35.371 35.5798 30.7132 34.3769 30.8156 19.6103"/>
+  </g>
   <g id="line">
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M29.5 63.5L30 35L36 36.5"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M43.5 63.5L36 36.5"/>
-    <path fill="none" stroke="#000" stroke-width="2" d="M30 35V19"/>
-    <path fill="none" stroke="#000" stroke-width="2" d="M36 36.5L39 18"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M30 19L39.5 17L41.5 40"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M30 19L25 27L30 34.5"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m29.5,63.5l.5-28.5,6,1.5"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m43.5,63.5l-7.5-27"/>
+    <path fill="none" stroke="#000" stroke-width="2" d="m30,35v-16"/>
+    <path fill="none" stroke="#000" stroke-width="2" d="m36,36.5l3-18.5"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m30,19l9.5-2,2,23"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m30,19l-5,8,5,7.5"/>
     <circle cx="35" cy="11" r="3" fill="none" stroke="#000" stroke-width="2"/>
   </g>
 </svg>

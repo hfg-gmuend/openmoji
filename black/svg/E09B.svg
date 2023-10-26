@@ -5,9 +5,9 @@
     <line x1="61.8618" x2="61.8618" y1="26.9311" y2="36.571" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="41.116 28.015 52.193 19.668 63.347 28.015"/>
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="50.232 27.741 54.547 27.741 54.547 33.343"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.8861,32.33c1.0278-5.61,4.9283-9.1318,9.1039-9.1318,3.7754,0,6.9221,2.1467,7.7409,5.6384"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M62.7857,49.87a17.5234,17.5234,0,0,0-9.14-2.7116c-11.4643,0-14.0145,6.8353-24.103,6.8353"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M31.476,34.1678a2.9316,2.9316,0,0,0-2.9637-2.7755c-1.8624,0-3.3462,1.6622-3.3462,4.3419,0,3.6251,3.33,6.5652,7.5,6.5652,9.91,0,11.7853-3.7786,19.9164-3.7786a8.1548,8.1548,0,0,1,6.7549,3.4652"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.5042,32.7092c1.2426-10.4278,8.438-16.3214,16.12-16.3214A12.5859,12.5859,0,0,1,37.1385,28.7046a16.452,16.452,0,0,1-.7092,4.938"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m15.8861,32.33c1.0278-5.61,4.9283-9.1318,9.1039-9.1318,3.7754,0,6.9221,2.1467,7.7409,5.6384"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m62.7857,49.87c-2.7375-1.7312-5.9013-2.6698-9.14-2.7116-11.4643,0-14.0145,6.8353-24.103,6.8353"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m31.476,34.1678c-.0836-1.5703-1.3913-2.7949-2.9637-2.7755-1.8624,0-3.3462,1.6622-3.3462,4.3419,0,3.6251,3.33,6.5652,7.5,6.5652,9.91,0,11.7853-3.7786,19.9164-3.7786,2.6848-.0274,5.211,1.2686,6.7549,3.4652"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m8.5042,32.7092c1.2426-10.4278,8.438-16.3214,16.12-16.3214,6.8194.0372,12.3686,5.4989,12.5143,12.3168.016,1.6725-.2232,3.3376-.7092,4.938"/>
   </g>
 </svg>

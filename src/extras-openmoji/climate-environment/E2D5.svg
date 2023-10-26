@@ -1,21 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path d="m68,4v64H4V4h64m4-4H0v72h72V0Z" fill="#b3b3b3"/>
-    <path d="m12.923,10.9583h46.1539c1.0621,0,1.9231.861,1.9231,1.9231h0v46.1538c0,1.0621-.861,1.9231-1.9231,1.9231H12.9231c-1.0621,0-1.9231-.861-1.9231-1.9231h0V12.8813c0-1.062.861-1.923,1.923-1.923h0Z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="4" y="16" width="64" height="40" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <path fill="#b3b3b3" d="m68,4v64H4V4h64m4-4H0v72h72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="m12.923,10.9583h46.1539c1.0621,0,1.9231.861,1.9231,1.9231h0v46.1538c0,1.0621-.861,1.9231-1.9231,1.9231H12.9231c-1.0621,0-1.9231-.861-1.9231-1.9231h0V12.8813c0-1.062.861-1.923,1.923-1.923h0Z"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="4" y="16" rx="2.2537" ry="2.2537" width="64" height="40" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <path d="m20,32l3,5-2,3,1,3-5.0352,2.0141c-.7075,8.4799-2.9789,17.3004-5.9648,20.9859h22V30.1429l-13,1.8571Z" fill="#d0cfce"/>
-    <path d="m45,47c-2.3974-.0021-4.6689,1.0734-6.1866,2.9292-1.1117-7.2961-1.1712-15.1315.3836-19.9292h-5.197l-1,.1429v35.8571h14v-17l-1.3018-1.9526c-.2312-.0216-.4612-.0474-.6982-.0474Z" fill="#9b9b9a"/>
-    <polygon points="54 41 53 37 51 36.6 51 66 57 66 57 42.5 54 41" fill="#fff"/>
-    <path d="m52,64l1-3-3-2,2.943-4.905c-.0092-.081-.0196-.1617-.0312-.242l-2.9118-4.853h-3v17h6v-.75l-1-1.25Z" fill="#3f3f3f"/>
+    <path fill="#d0cfce" d="m20,32l3,5-2,3,1,3-5.0352,2.0141c-.7075,8.4799-2.9789,17.3004-5.9648,20.9859h22V30.1429l-13,1.8571Z"/>
+    <path fill="#9b9b9a" d="m45,47c-2.3974-.0021-4.6689,1.0734-6.1866,2.9292-1.1117-7.2961-1.1712-15.1315.3836-19.9292h-5.197l-1,.1429v35.8571h14v-17l-1.3018-1.9526c-.2312-.0216-.4612-.0474-.6982-.0474Z"/>
+    <polygon fill="#fff" points="54 41 53 37 51 36.6 51 66 57 66 57 42.5 54 41"/>
+    <path fill="#3f3f3f" d="m52,64l1-3-3-2,2.943-4.905c-.0092-.081-.0196-.1617-.0312-.242l-2.9118-4.853h-3v17h6v-.75l-1-1.25Z"/>
   </g>
   <g id="line">
-    <path d="m39.197,30h-5.197l-14,2,3,5-2,3,1,3-5.0352,2.0141c-.7075,8.4799-2.9789,17.3004-5.9648,20.9859h33.197c-5-6.1714-8-26.7429-5-36Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polyline points="53 66 57 66 57 42.5 54 41 53 37 51 36.6 51 50.721" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path d="m44.197,66h8.803v-.75l-1-1.25,1-3-3-2,2.9449-4.9082c-.0094-.0831-.0256-.164-.0376-.2463l-2.9073-4.8455h-3l-1.31-1.9651c-.228-.0196-.4571-.0349-.69-.0349-2.3974-.0021-4.6689,1.0734-6.1866,2.9292" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m39.197,30h-5.197l-14,2,3,5-2,3,1,3-5.0352,2.0141c-.7075,8.4799-2.9789,17.3004-5.9648,20.9859h33.197c-5-6.1714-8-26.7429-5-36Z"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="53 66 57 66 57 42.5 54 41 53 37 51 36.6 51 50.721"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m44.197,66h8.803v-.75l-1-1.25,1-3-3-2,2.9449-4.9082c-.0094-.0831-.0256-.164-.0376-.2463l-2.9073-4.8455h-3l-1.31-1.9651c-.228-.0196-.4571-.0349-.69-.0349-2.3974-.0021-4.6689,1.0734-6.1866,2.9292"/>
   </g>
 </svg>

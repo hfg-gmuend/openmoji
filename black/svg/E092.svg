@@ -8,7 +8,7 @@
     <line x1="26.4521" x2="26.4521" y1="55.1141" y2="52.3302" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="22.5337" x2="22.5337" y1="55.1141" y2="52.3302" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <rect x="18.3562" y="46.0122" width="12.2734" height="15.4199" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M27.9173,9.34A13.4159,13.4159,0,0,1,34.85,7.1922c4.5419,0,8.4377,3.9373,14.3339,3.9373.8691,0,1.3042-.3912,2.1813-.3912.7275,0,1.018.52,1.018,1.4384V25.7823c0,.7168-.783,1.531-3.0816,1.531-6.91,0-10.8056-3.9084-14.8143-3.9084a11.7385,11.7385,0,0,0-6.6492,2.219V21.3567"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m27.9173,9.34c2.0697-1.3393,4.4684-2.0824,6.9327-2.1478,4.5419,0,8.4377,3.9373,14.3339,3.9373.8691,0,1.3042-.3912,2.1813-.3912.7275,0,1.018.52,1.018,1.4384v13.6056c0,.7168-.783,1.531-3.0816,1.531-6.91,0-10.8056-3.9084-14.8143-3.9084-2.3907.0452-4.7105.8194-6.6492,2.219v-4.2672"/>
     <line x1="24.5786" x2="24.5786" y1="7.3472" y2="40.7795" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
     <rect x="35.927" y="44.8695" width="6.4666" height="12.5623" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <rect x="47.0129" y="44.8695" width="6.4666" height="12.5623" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

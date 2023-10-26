@@ -1,27 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="emoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path d="m68,4v64H4V4h64m4-4H0v72h72V0Z" fill="#b3b3b3"/>
-    <rect x="11" y="10.9583" width="50" height="50" rx="1.9231" ry="1.9231" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <rect x="4" y="16" width="64" height="40" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <path fill="#b3b3b3" d="m68,4v64H4V4h64m4-4H0v72h72V0Z"/>
+    <rect x="11" y="10.9583" rx="1.9231" ry="1.9231" width="50" height="50" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="4" y="16" rx="2.2537" ry="2.2537" width="64" height="40" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <path d="m26.3929,29.1993l.0846,16.4508s12.687,6.0898,21.9062-3.0026l.0423-14.9284s-2.1991,1.2264-5.7514,2.2837c-4.9718,1.4797-9.7267,2.8757-16.2816-.8035Z" fill="#fff"/>
+    <path fill="#fff" d="m26.3929,29.1993l.0846,16.4508s12.687,6.0898,21.9062-3.0026l.0423-14.9284s-2.1991,1.2264-5.7514,2.2837c-4.9718,1.4797-9.7267,2.8757-16.2816-.8035Z"/>
     <ellipse cx="35.1363" cy="26.1544" rx="8.8147" ry="3.8907" fill="#fff"/>
     <ellipse cx="34.9608" cy="25.8528" rx="2.2509" ry="1.3197" fill="#fff"/>
   </g>
   <g id="line">
     <ellipse cx="35.1693" cy="26.1013" rx="9.5873" ry="4.6806" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
-    <path d="m25.5821,45.118c0,1.7658,4.2926,3.1908,9.5852,3.1908,5.3,0,8.1386-1.0336,10.4642-2.5249" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
-    <line x1="25.5821" y1="26.1013" x2="25.5821" y2="45.1197" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
-    <line x1="44.7594" y1="27.9326" x2="44.7594" y2="26.0974" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
-    <path d="m42.165,29.3017s5.3488-1.7634,7.1208-3.2043v16.8869c-2.098,1.9936-4.5865,3.5305-7.3085,4.5137" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2" d="m25.5821,45.118c0,1.7658,4.2926,3.1908,9.5852,3.1908,5.3,0,8.1386-1.0336,10.4642-2.5249"/>
+    <line x1="25.5821" x2="25.5821" y1="26.1013" y2="45.1197" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="44.7594" x2="44.7594" y1="27.9326" y2="26.0974" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m42.165,29.3017s5.3488-1.7634,7.1208-3.2043v16.8869c-2.098,1.9936-4.5865,3.5305-7.3085,4.5137"/>
     <ellipse cx="34.9608" cy="26.0974" rx="2.2509" ry="1.3725" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path d="m34.344,58.0262c-12.5012-.7606-22.0189-11.5114-21.2583-24.0126.5655-9.2951,6.756-17.2996,15.6102-20.1845" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m34.344,58.0262c-12.5012-.7606-22.0189-11.5114-21.2583-24.0126.5655-9.2951,6.756-17.2996,15.6102-20.1845"/>
     <path d="m29.0563,17.4945l4.6293-4.14c.21-.1877.228-.5101.0403-.7201-.0597-.0667-.1359-.1166-.2209-.1446l-5.8993-1.94c-.2676-.088-.5558.0577-.6438.3252-.0279.085-.033.1759-.0147.2635l1.27,6.08c.0576.2757.3278.4526.6035.395.0876-.0183.1689-.0593.2356-.119Z"/>
-    <path d="m37.656,12.7662c12.5012.7606,22.0188,11.5115,21.2582,24.0127-.5656,9.295-6.7561,17.2995-15.6102,20.1844" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m37.656,12.7662c12.5012.7606,22.0188,11.5115,21.2582,24.0127-.5656,9.295-6.7561,17.2995-15.6102,20.1844"/>
     <path d="m42.9437,53.2979l-4.6293,4.14c-.2099.1878-.2279.5102-.0402.7201.0596.0667.1358.1165.2208.1445l5.8993,1.94c.2676.088.5558-.0577.6438-.3252.0279-.085.033-.1759.0147-.2635l-1.27-6.08c-.0576-.2757-.3278-.4525-.6035-.3949-.0876.0183-.1688.0593-.2355.119Z"/>
   </g>
 </svg>
