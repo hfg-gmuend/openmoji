@@ -22,7 +22,7 @@ New:
   + new Unicode v15 emojis by Anna Schneider, Ben Engelhardt, Charlotte Beha,
     Christian Engler, Jasmin Fassler, Jennifer Zhu, Kathrin Gerold,
     Kira Lehmann, Linda Hartmann, Paul Gabriel, Paul Mang,Raluca Maniu,
-    Simon Rutsch, Sonja Partheymüller
+    Simon Rutsch, Sonja Partheymüller, Katja Widmann
 
 
 Improvements:
