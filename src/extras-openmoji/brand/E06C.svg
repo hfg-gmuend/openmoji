@@ -1,0 +1,21 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="grid">
+    <path fill="#B3B3B3" d="m68 4.042v64h-64v-64h64zm4-4h-72v72h72v-72z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="m12.92 11h46.15c0.51 0 0.9992 0.2026 1.36 0.5633 0.3607 0.3606 0.5633 0.8498 0.5633 1.36v46.15c0 0.51-0.2026 0.9992-0.5633 1.36-0.3606 0.3607-0.8498 0.5633-1.36 0.5633h-46.15c-0.51 0-0.9992-0.2026-1.36-0.5633-0.3607-0.3606-0.5633-0.8498-0.5633-1.36v-46.15c0-0.51 0.2026-0.9991 0.5632-1.36 0.3607-0.3606 0.8498-0.5632 1.36-0.5632z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="m53.75 4.042h-35.49c-1.245 0-2.254 1.009-2.254 2.254v59.49c0 1.245 1.009 2.254 2.254 2.254h35.49c1.245 0 2.254-1.009 2.254-2.254v-59.49c0-1.245-1.009-2.254-2.254-2.254z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="m68 53.79v-35.49c0-1.245-1.009-2.254-2.254-2.254h-59.49c-1.245 0-2.254 1.009-2.254 2.254v35.49c0 1.245 1.009 2.254 2.254 2.254h59.49c1.245 0 2.254-1.009 2.254-2.254z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="m36 65.04c16.02 0 29-12.98 29-29 0-16.02-12.98-29-29-29s-29 12.98-29 29c0 16.02 12.98 29 29 29z"/>
+  </g>
+  <g id="line-supplement" transform="translate(0 11.57)">
+    <path stroke-width="0.7317" d="m61 11.04h-50v26.77h50z" display="none"/>
+  </g>
+  <g id="color" transform="translate(0 11.57)">
+    <path fill="#fff" stroke-width="0.7317" d="m61 11.04h-50v26.77h50z"/>
+  </g>
+  <g id="line" transform="translate(0 11.57)">
+    <path id="groÃŸes schwarzes quadrat line" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="m61.26 10.78h-50.51v27.29h50.51z"/>
+    <polyline transform="matrix(-.7721 0 0 -.7721 75.75 45.27)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="35.99 14 23 28.52 32.53 28.52 32.69 40 39.48 40 39.46 28.52 48.98 28.52 35.99 14"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4.804" d="m30.05 32.83v-16.82l-7.206 14.41-7.206-14.41v16.82" clip-rule="evenodd"/>
+    <polyline transform="matrix(-.7721 0 0 -.7721 75.75 45.27)" points="35.99 14 23 28.52 32.53 28.52 32.69 40 39.48 40 39.46 28.52 48.98 28.52 35.99 14"/>
+  </g>
+</svg>
