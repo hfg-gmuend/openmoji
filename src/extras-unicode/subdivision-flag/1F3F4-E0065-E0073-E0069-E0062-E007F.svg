@@ -12,7 +12,7 @@
     <rect x="5" y="30" width="62" height="4" fill="#d22f27"/>
     <rect x="5" y="38" width="62" height="4" fill="#d22f27"/>
     <rect x="5" y="46" width="62" height="4" fill="#d22f27"/>
-    <rect x="5" y="17" rx="0" ry="0" width="31" height="19" fill="#1e50a0" stroke-width="2.59"/>
+    <rect x="5.612" y="17.63" rx="0" ry="0" width="30.39" height="18.37" fill="#1e50a0" stroke-width="2.521"/>
     <g transform="translate(-69.32 7.602)">
       <rect x="78.21" y="17.69" rx="0" ry="0" width="23.22" height="6.069" fill="#fff" stroke-width="2"/>
       <rect x="80.47" y="15.46" rx="0" ry="0" width="1.786" height="2.939" fill="#fff" stroke-width="0.3859"/>
