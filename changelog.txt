@@ -23,6 +23,14 @@ New:
     Christian Engler, Jasmin Fassler, Jennifer Zhu, Kathrin Gerold,
     Kira Lehmann, Linda Hartmann, Paul Gabriel, Paul Mang,Raluca Maniu,
     Simon Rutsch, Sonja Partheymüller, Katja Widmann
+  + 18 openmoji-extras from openmoji-xk-extensions by Xavier Martínez @xavizardKnight #479
+    Motorbike helmet and Guy Fawkes mask
+    subdivision flags: Valencian Community ES-VC, Balearic Islands ES-IB,
+    Aragon ES-AR and Murcia ES-MC
+    logos: C programming language, C++ programming language, C# programming language,
+    Chrome Canary, Firefox Developer, Firefox Canary, JavaScript programming language,
+    TypeScript programming language, WebAssembly, SVG, Markdown, WinRAR
+
 
 
 Improvements:
