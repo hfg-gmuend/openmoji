@@ -1,0 +1,14 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="line-supplement" transform="translate(0 11.57)">
+    <path stroke-width="0.7317" d="m61 11.04h-50v26.77h50z" display="none"/>
+  </g>
+  <g id="color" transform="translate(0 11.57)">
+    <path fill="#fff" stroke-width="0.7317" d="m61 11.04h-50v26.77h50z"/>
+  </g>
+  <g id="line" transform="translate(0,11.57)">
+    <path id="groÃŸes schwarzes quadrat line" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="m61.26 10.78h-50.51v27.29h50.51z"/>
+    <polyline transform="matrix(-.68 0 0 -.68 71.01 42.79)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="35.99 14 23 28.52 32.53 28.52 32.69 40 39.48 40 39.46 28.52 48.98 28.52 35.99 14"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4.231" d="m30.76 31.84v-14.81l-6.347 12.69-6.347-12.69v14.81" clip-rule="evenodd"/>
+    <polyline transform="matrix(-.68 0 0 -.68 71.01 42.79)" points="35.99 14 23 28.52 32.53 28.52 32.69 40 39.48 40 39.46 28.52 48.98 28.52 35.99 14"/>
+  </g>
+</svg>
