@@ -1,0 +1,65 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="color">
+    <rect x="5" y="17" width="62" height="38" fill="#f1b31c"/>
+    <rect x="5" y="22" width="62" height="4" fill="#d22f27"/>
+    <rect x="5" y="30" width="62" height="4" fill="#d22f27"/>
+    <rect x="5" y="38" width="62" height="4" fill="#d22f27"/>
+    <rect x="5" y="46" width="62" height="4" fill="#d22f27"/>
+    <rect x="16.27" y="18.17" rx="0" ry="0" width="4.206" height="35.92" fill="#fcea2b" stroke="#fcea2b" stroke-linecap="square" stroke-width="1.957"/>
+    <rect x="5.168" y="17.08" rx="0" ry="0" width="13.85" height="37.87" fill="#1e50a0"/>
+    <rect x="20.4" y="18.09" rx="0" ry="0" width="3.507" height="36.08" fill="#d22f27" stroke="#d22f27" stroke-linecap="square" stroke-width="1.791"/>
+    <ellipse cx="22.22" cy="24.02" rx="1.057" ry="1.093" fill="#d22f27" stroke="#fcea2b" stroke-linecap="square" stroke-width="0.25"/>
+    <ellipse cx="22.22" cy="20" rx="1.057" ry="1.093" fill="#fff"/>
+    <ellipse cx="22.22" cy="28.04" rx="1.057" ry="1.093" fill="#fff"/>
+    <ellipse cx="22.22" cy="36.08" rx="1.057" ry="1.093" fill="#fff"/>
+    <ellipse cx="22.22" cy="44.12" rx="1.057" ry="1.093" fill="#fff"/>
+    <ellipse cx="22.22" cy="52.16" rx="1.057" ry="1.093" fill="#fff"/>
+    <ellipse cx="22.22" cy="32.06" rx="1.057" ry="1.093" fill="#5c9e31"/>
+    <ellipse cx="22.22" cy="40.1" rx="1.057" ry="1.093" fill="#d22f27" stroke="#fcea2b" stroke-linecap="square" stroke-width="0.25"/>
+    <ellipse cx="22.22" cy="48.14" rx="1.057" ry="1.093" fill="#5c9e31"/>
+    <g transform="matrix(1.001 0 0 .9465 .08693 1.925)" fill="none" stroke="#fcea2b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.027">
+      <path d="m10.33 19.55s-0.6551-0.8387 0.6787-1.093c1.334-0.2543 1.009 1.412 3.463 4.349"/>
+      <path d="m10.51 26.78s-0.6551 0.8387 0.6787 1.093c1.334 0.2545 1.009-1.412 3.463-4.349"/>
+      <path d="m15.87 19.74 2.804-0.1029"/>
+      <path d="m14.87 23.2 1.567-0.02184 2.266-1.204"/>
+      <path d="m16.44 23.18 2.254 1.565"/>
+      <path d="m9.542 23.19 5.332 0.0112"/>
+      <path d="m11.04 21.69 1.163 1.5"/>
+      <path d="m11.06 24.68 1.139-1.496"/>
+      <path d="m10.2 32.26s-0.6551-0.8387 0.6787-1.093c1.334-0.2543 1.009 1.412 3.463 4.349"/>
+      <path d="m10.38 39.49s-0.6551 0.8387 0.6787 1.093c1.334 0.2543 1.009-1.412 3.463-4.349"/>
+      <path d="m14.74 35.91 1.567-0.02184 2.266-1.204"/>
+      <path d="m16.3 35.88 2.254 1.565"/>
+      <path d="m9.41 35.9 5.332 0.0112"/>
+      <path d="m10.91 34.41 1.163 1.5"/>
+      <path d="m10.93 37.4 1.139-1.496"/>
+      <path d="m10.23 45.39s-0.6551-0.8387 0.6787-1.093c1.334-0.2545 1.009 1.412 3.463 4.349"/>
+      <path d="m10.41 52.62s-0.6551 0.8387 0.6787 1.093c1.334 0.2545 1.009-1.412 3.463-4.349"/>
+      <path d="m14.77 49.04 1.567-0.02184 2.266-1.204"/>
+      <path d="m16.33 49.02 2.254 1.565"/>
+      <path d="m9.438 49.03 5.332 0.0112"/>
+      <path d="m10.94 47.54 1.163 1.5"/>
+      <path d="m10.96 50.53 1.139-1.496"/>
+      <path d="m15.84 26.51 2.832 0.1235"/>
+      <path d="m15.84 32.75 2.832-0.1303"/>
+      <path d="m15.81 39.55 2.818 0.1098"/>
+      <path d="m15.84 45.63 2.832-0.06258"/>
+      <path d="m15.81 52.67 2.86 0.09644"/>
+      <path d="m14.29 29.63 3.22 0.01907 1.074-0.7169"/>
+      <path d="m17.51 29.65 1.111 1.133"/>
+      <path d="m10.71 29.56 1.927 0.06778"/>
+      <path d="m14.57 28.55 1.213 1.078"/>
+      <path d="m14.57 30.73 1.325-1.092"/>
+      <path d="m14.57 28.55-1.933 1.07 1.933 1.1"/>
+      <path d="m14.32 42.58 3.22 0.01908 1.074-0.7169"/>
+      <path d="m17.54 42.6 1.111 1.133"/>
+      <path d="m10.74 42.52 1.927 0.06778"/>
+      <path d="m14.6 41.51 1.213 1.078"/>
+      <path d="m14.6 43.68 1.325-1.092"/>
+      <path d="m14.6 41.51-1.933 1.07 1.933 1.1"/>
+    </g>
+  </g>
+  <g id="line">
+    <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

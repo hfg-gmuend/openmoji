@@ -1,0 +1,74 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="line-supplement" stroke="#000">
+    <rect x="6.95" y="36" rx="4.05" ry="4.31" width="58.1" height="29.02" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" display="none"/>
+    <g transform="matrix(.8851 0 0 .8851 -134.7 18.68)" stroke-width="8">
+      <path stroke-linecap="round" stroke-linejoin="round" d="m192.9-2.429v22"/>
+      <path stroke-linecap="round" stroke-linejoin="round" d="m208.5 4.015-15.6 15.56"/>
+      <line x1="214.9" x2="170.9" y1="19.57" y2="19.57" stroke-linecap="round" stroke-linejoin="round"/>
+      <path stroke-linecap="round" stroke-linejoin="round" d="m192.9 19.57-15.6-15.56"/>
+      <ellipse cx="192.9" cy="42.47" rx="0.8695" ry="0.8987" display="none"/>
+      <ellipse cx="192.9" cy="-3.328" rx="0.8695" ry="0.8987"/>
+      <ellipse cx="150.2" cy="-99.67" rx="0.8695" ry="0.8987" transform="rotate(45)" display="none"/>
+      <ellipse cx="150.2" cy="-145.5" rx="0.8695" ry="0.8987" transform="rotate(45)"/>
+      <ellipse cx="19.57" cy="-170" rx="0.8695" ry="0.8987" transform="rotate(90)"/>
+      <ellipse cx="19.57" cy="-215.8" rx="0.8695" ry="0.8987" transform="rotate(90)"/>
+      <ellipse cx="-122.6" cy="-127.3" rx="0.8695" ry="0.8987" transform="rotate(135)"/>
+      <ellipse cx="-122.6" cy="-173.1" rx="0.8695" ry="0.8987" transform="rotate(135)" display="none"/>
+    </g>
+    <g transform="matrix(.886 0 0 .886 4.107 7.336)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.386" clip-rule="evenodd">
+      <path d="m55.64 41.53c-1.106-0.9832-2.563-1.578-4.161-1.578-3.461 0-6.27 2.807-6.27 6.27v5.016c0 3.461 2.809 6.27 6.27 6.27 3.464 0 6.27-2.809 6.27-6.27v-2.543h-5.016"/>
+      <path d="m40.61 39.95-5.016 17.56-5.016-17.56"/>
+      <path d="m25.15 43.45c-0.5138-2-2.735-3.501-5.396-3.501-3.043 0-5.509 1.963-5.509 4.386 0 2.421 2.466 4.386 5.509 4.386l-0.1128 0.01504c3.043 0 5.509 1.965 5.509 4.386 0 2.424-2.466 4.386-5.509 4.386-2.662 0-4.883-1.504-5.396-3.504"/>
+    </g>
+  </g>
+  <g id="color" transform="matrix(.8621 0 0 .8621 4.97 4.974)">
+    <g transform="matrix(.8851 0 0 .8851 -134.7 -44.62)" class="UnoptimicedTransforms">
+      <path stroke="#000" stroke-linejoin="round" stroke-width="18" d="m208.5 75.53-15.64 15.56" display="none"/>
+      <path stroke="#000" stroke-width="18" d="m193.8 68.19a0.8695 0.8987 0 0 1-0.8695 0.8987 0.8695 0.8987 0 0 1-0.8695-0.8987 0.8695 0.8987 0 0 1 0.8695-0.8987 0.8695 0.8987 0 0 1 0.8695 0.8987z" display="none"/>
+      <path transform="rotate(45)" stroke="#000" stroke-width="18" d="m201.7-94.9a0.8695 0.8987 0 0 1-0.8695 0.8987 0.8695 0.8987 0 0 1-0.8695-0.8987 0.8695 0.8987 0 0 1 0.8695-0.8987 0.8695 0.8987 0 0 1 0.8695 0.8987z" display="none"/>
+      <path transform="rotate(90)" stroke="#000" stroke-width="18" d="m91.95-170a0.8695 0.8987 0 0 1-0.8695 0.8987 0.8695 0.8987 0 0 1-0.8695-0.8987 0.8695 0.8987 0 0 1 0.8695-0.8987 0.8695 0.8987 0 0 1 0.8695 0.8987z" display="none"/>
+      <path transform="rotate(90)" stroke="#000" stroke-width="18" d="m91.95-215.8a0.8695 0.8987 0 0 1-0.8695 0.8987 0.8695 0.8987 0 0 1-0.8695-0.8987 0.8695 0.8987 0 0 1 0.8695-0.8987 0.8695 0.8987 0 0 1 0.8695 0.8987z" display="none"/>
+      <path transform="rotate(135)" stroke="#000" stroke-linejoin="round" stroke-width="18" d="m-71.13-177.9a0.8695 0.8987 0 0 1-0.8695 0.8987 0.8695 0.8987 0 0 1-0.8695-0.8987 0.8695 0.8987 0 0 1 0.8695-0.8987 0.8695 0.8987 0 0 1 0.8695 0.8987z" display="none"/>
+      <path fill="none" stroke="#000" stroke-linejoin="round" stroke-width="18.08" d="m175.6 74.08 17.31 17" display="none"/>
+      <rect x="141.3" y="91.08" rx="3.482" ry="3.482" width="103.1" height="38.67" fill="none" stroke="#000" stroke-width="0.9999" display="none"/>
+      <rect x="141.3" y="91.08" rx="3.482" ry="3.482" width="103.1" height="38.67" fill="none" stroke="#000" stroke-width="0.9999" display="none"/>
+      <path stroke="#000" stroke-linejoin="round" stroke-width="18" d="m192.9 69.08-0.0404 22.01" class="UnoptimicedTransforms"/>
+      <path stroke-linejoin="round" d="m170.9 82.08-2e-3 9h44l-9.1e-4 -9z" color="#000000"/>
+      <path transform="matrix(1 0 0 -1 -.0731 182.2)" d="m160.1 91.11c5.1e-4 5.435 4.432 9.841 9.9 9.841s9.902-4.406 9.902-9.841z" class="UnoptimicedTransforms"/>
+      <path transform="matrix(1,0,0,-1,45.68,182.2)" d="m160.1 91.11c5.1e-4 5.435 4.432 9.841 9.9 9.841s9.902-4.406 9.902-9.841z" class="UnoptimicedTransforms"/>
+      <circle cx="176.7" cy="74.88" r="9.83"/>
+      <circle cx="209.1" cy="74.88" r="9.83"/>
+      <circle cx="192.9" cy="68.19" r="9.83"/>
+      <rect x="182.1" y="80.08" rx="3.482" ry="3.482" width="22.56" height="3.551"/>
+    </g>
+    <g transform="matrix(.8851 0 0 .8851 -134.7 18.68)" fill="#f1b31c" stroke="#f1b31c" stroke-width="8">
+      <line x1="192.9" x2="192.9" y1="-2.429" y2="41.57" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="208.5" x2="177.3" y1="4.015" y2="35.13" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="214.9" x2="170.9" y1="19.57" y2="19.57" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="208.5" x2="177.3" y1="35.13" y2="4.015" stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="192.9" cy="42.47" rx="0.8695" ry="0.8987"/>
+      <ellipse cx="192.9" cy="-3.328" rx="0.8695" ry="0.8987"/>
+      <ellipse cx="150.2" cy="-99.67" rx="0.8695" ry="0.8987" transform="rotate(45)"/>
+      <ellipse cx="150.2" cy="-145.5" rx="0.8695" ry="0.8987" transform="rotate(45)"/>
+      <ellipse cx="19.57" cy="-170" rx="0.8695" ry="0.8987" transform="rotate(90)"/>
+      <ellipse cx="19.57" cy="-215.8" rx="0.8695" ry="0.8987" transform="rotate(90)"/>
+      <ellipse cx="-122.6" cy="-127.3" rx="0.8695" ry="0.8987" transform="rotate(135)"/>
+      <ellipse cx="-122.6" cy="-173.1" rx="0.8695" ry="0.8987" transform="rotate(135)"/>
+    </g>
+    <ellipse cx="56.43" cy="35.93" rx="4.206" ry="4.238" fill="#f1b31c" paint-order="normal"/>
+    <ellipse cx="15.64" cy="35.93" rx="4.206" ry="4.238" fill="#f1b31c" paint-order="normal"/>
+    <rect x="6.95" y="36" rx="4.698" ry="5" width="58.1" height="29.02" stroke-width="1.006"/>
+    <rect x="7.524" y="35.99" rx="0" ry="0" width="56.94" height="12.72" stroke="#000" stroke-linecap="square" stroke-width="1.149"/>
+    <g transform="matrix(.886 0 0 .886 4.107 7.336)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.386" clip-rule="evenodd">
+      <path d="m55.64 41.53c-1.106-0.9832-2.563-1.578-4.161-1.578-3.461 0-6.27 2.807-6.27 6.27v5.016c0 3.461 2.809 6.27 6.27 6.27 3.464 0 6.27-2.809 6.27-6.27v-2.543h-5.016"/>
+      <path d="m40.61 39.95-5.016 17.56-5.016-17.56"/>
+      <path d="m25.15 43.45c-0.5138-2-2.735-3.501-5.396-3.501-3.043 0-5.509 1.963-5.509 4.386 0 2.421 2.466 4.386 5.509 4.386l-0.1128 0.01504c3.043 0 5.509 1.965 5.509 4.386 0 2.424-2.466 4.386-5.509 4.386-2.662 0-4.883-1.504-5.396-3.504"/>
+    </g>
+    <ellipse cx="21.61" cy="21.56" rx="4.206" ry="4.238" fill="#f1b31c" paint-order="normal"/>
+    <ellipse cx="36.04" cy="15.42" rx="4.206" ry="4.238" fill="#f1b31c" paint-order="normal"/>
+    <ellipse cx="50.46" cy="21.56" rx="4.206" ry="4.238" fill="#f1b31c" paint-order="normal"/>
+  </g>
+  <g id="line" transform="matrix(.8621 0 0 .8621 4.97 4.974)" stroke="#000">
+    <rect x="6.95" y="36" rx="4.698" ry="5" width="58.1" height="29.02" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" display="none"/>
+  </g>
+</svg>

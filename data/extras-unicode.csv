@@ -101,3 +101,7 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 🉣,1F263,extras-unicode,symbol-other,rounded symbol for xi,"ideograph, chinese, religion, happiness, 喜",Robert Winslow,2023-01-06,10
 🉤,1F264,extras-unicode,symbol-other,rounded symbol for shuangxi,"ideograph, chinese, religion, double happiness, love and marriage, 囍",Robert Winslow,2023-01-06,10
 🉥,1F265,extras-unicode,symbol-other,rounded symbol for cai,"ideograph, chinese, religion, wealth, 财, 財",Robert Winslow,2023-01-06,10
+🏴󠁥󠁳󠁶󠁣󠁿,1F3F4-E0065-E0073-E0076-E0063-E007F,extras-unicode,subdivision-flag,valencian community flag,"valencian, community, comunitat, valenciana, reial, senyera, valencia",Xavier Martinez,2023-12-04,?
+🏴󠁥󠁳󠁩󠁢󠁿,1F3F4-E0065-E0073-E0069-E0062-E007F,extras-unicode,subdivision-flag,balearic islands flag,"balearic, balearic, islands, illes, balears, balears",Xavier Martinez,2023-12-04,?
+🏴󠁥󠁳󠁡󠁲󠁿,1F3F4-E0065-E0073-E0061-E0072-E007F,extras-unicode,subdivision-flag,aragon flag,"aragon, arago",Xavier Martinez,2023-12-04,?
+🏴󠁥󠁳󠁭󠁣󠁿,1F3F4-E0065-E0073-E006D-E0063-E007F,extras-unicode,subdivision-flag,murcia flag,"murcia, region",Xavier Martinez,2023-12-04,?
