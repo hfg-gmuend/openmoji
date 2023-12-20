@@ -49,6 +49,7 @@ Improvements:
   * optimized extras-openmoji for upcoming dark mode by Jasmin Fassler & Linda Hartmann
   * optimized extras-unicode for upcoming dark mode by Jasmin Fassler & Linda Hartmann
   * fix incorrect skin tone for kiss: man, man #456
+  * removed cross of coffin to make it better usable for non-Christians
 
   #426 by @RobertWinslow
   * Several paths have had superfluous colinear points removed (tophat and math symbols)
