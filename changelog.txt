@@ -4,7 +4,13 @@
 
 --------------------------------------------------------------------------------
 
-OpenMoji 15.0 - XX XXX XXXX
+🎄🥶 OpenMoji 15.0 - 21 Dec 2023
+
+Many improvements, fixes and new OpenMojis:
+👉 Full support of Unicode Emoji 15.0.
+👉 New font build system
+👉 Lots of fixes and redesigns
+👉 New (open source and programming languages) logos and symbols
 
 🙏 Special thanks to @RobertWinslow and @mavit for the epic colorfont build system!
 
@@ -30,8 +36,6 @@ New:
     logos: C programming language, C++ programming language, C# programming language,
     Chrome Canary, Firefox Developer, Firefox Canary, JavaScript programming language,
     TypeScript programming language, WebAssembly, SVG, Markdown, WinRAR
-
-
 
 Improvements:
   * fix symbol for ionising radiation to correct orientation by @RobertWinslow #421
