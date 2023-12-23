@@ -69,7 +69,7 @@ You need to have the following installed:
 2. Open a terminal and go to the OpenMoji folder
    - `cd path/to/openmoji`
 3. Run the font builder
-   - `./helpers/generate-fonts.sh`
+   - `./helpers/generate-fonts.sh [version]`
    - Wait for build to finish. This can take a few hours for the initial run. Be patient!
 4. Done ✅
 
