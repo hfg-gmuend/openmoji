@@ -7,3 +7,4 @@ color/512x512/*
 build/
 data/openmoji-tester.json
 *.csv\#
+.idea
