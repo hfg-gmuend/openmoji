@@ -12,6 +12,7 @@ cd -- "$(dirname -- "${BASH_SOURCE[0]}")"/.. || exit 1
 
 build_dir="/mnt/build"
 version=${1:-$(git describe --tags)}
+echo "Building OpenMoji fonts for version: $version"
 
 # If we're connected to a terminal, don't flood it with ninja output,
 # and enable ^C.
