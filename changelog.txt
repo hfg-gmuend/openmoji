@@ -10,6 +10,7 @@ Improvements:
 
 Fix:
   * Correct versions of TTFs font files #486
+  * Lobster (1F99E) was missing some transparency #490
 
 --------------------------------------------------------------------------------
 
