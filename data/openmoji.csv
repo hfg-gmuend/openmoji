@@ -3663,8 +3663,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏴󠁧󠁢󠁥󠁮󠁧󠁿,1F3F4-E0067-E0062-E0065-E006E-E0067-E007F,flags,subdivision-flag,flag: England,"flag, gbeng",,Ferdinand Sorg,2019-02-13,,,,,5,4731
 🏴󠁧󠁢󠁳󠁣󠁴󠁿,1F3F4-E0067-E0062-E0073-E0063-E0074-E007F,flags,subdivision-flag,flag: Scotland,"flag, gbsct",,Ferdinand Sorg,2019-02-13,,,,,5,4732
 🏴󠁧󠁢󠁷󠁬󠁳󠁿,1F3F4-E0067-E0062-E0077-E006C-E0073-E007F,flags,subdivision-flag,flag: Wales,"flag, gbwls",dragon,Daniel Utz,2019-02-13,,,,,5,4733
-🏴,1F3F4-E0077-E0064-E0063-E007F,flags,subdivision-flag,"flag: Washington D.C.","flag, Washington DC",Varvara Kirylchyk,2024-02-20,,,,,5,4734
-󠁧󠁢󠁷󠁬󠁳󠁿,E000,extras-openmoji,animals-nature,goldfish,,"goldfish, fish, water",Kai Magnus Müller,2018-04-18,,,,,,
+,E000,extras-openmoji,animals-nature,goldfish,,"goldfish, fish, water",Kai Magnus Müller,2018-04-18,,,,,,
 ,E001,extras-openmoji,animals-nature,donkey,,,Baris Camli,2018-04-18,,,,,,
 ,E002,extras-openmoji,animals-nature,poppy,,"poppy, remembrance, veterans",Carlin MacKenzie,2019-12-20,,,,,,
 ,E003,extras-openmoji,animals-nature,doe,,"forest, hunt, antler, deer",Carlin MacKenzie,2020-03-21,,,,,,
@@ -4087,6 +4086,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏴󠁦󠁲󠁢󠁲󠁥󠁿,1F3F4-E0066-E0072-E0062-E0072-E0065-E007F,extras-unicode,subdivision-flag,bretagne flag,,"breton, brittany, gwenn-ha-du",Sam Hocevar,2021-03-15,,,,,?,
 🏴󠁵󠁳󠁣󠁡󠁿,1F3F4-E0075-E0073-E0063-E0061-E007F,extras-unicode,subdivision-flag,california flag,,"bear, republic, state",Alexander Müller,2020-04-26,,,,,?,
 🏴󠁵󠁳󠁴󠁸󠁿,1F3F4-E0075-E0073-E0074-E0078-E007F,extras-unicode,subdivision-flag,texas flag,,"cowboy, lone star, republic, state",Carlin MacKenzie,2020-04-03,,,,,?,
+🏴󠁷󠁤󠁣󠁿,1F3F4-E0077-E0064-E0063-E007F,extras-unicode,subdivision-flag,Washington D.C.,,Washington DC,Varvara Kirylchyk,2024-02-20,,,,,?,
 -,002D,extras-unicode,symbol-other,hyphen-minus,,"hyphen, minus, dash, line",Robert Winslow,2022-12-24,,,,,1,
 🄍,1F10D,extras-unicode,symbol-other,circled zero with slash,,"license, copyright, creative commons, open, libre, public domain",Carlin MacKenzie,2020-04-17,,,,,13,
 🄎,1F10E,extras-unicode,symbol-other,circled anticlockwise arrow,,"license, copyright, creative commons, open, libre, share alike",Carlin MacKenzie,2020-04-17,,,,,13,
