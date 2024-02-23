@@ -5,6 +5,9 @@
 --------------------------------------------------------------------------------
 OpenMoji 15.1 - XX XXX 2024
 
+New:
+  + Washington DC subdivision-flag by @Kirylchyk #489
+
 Improvements:
   * blue heart emoji should be blue not light blue #483
 
