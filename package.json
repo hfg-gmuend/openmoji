@@ -49,7 +49,7 @@
     "jsdom": "^13.2.0",
     "kd-tree-javascript": "^1.0.3",
     "lib-font": "^2.4.0",
-    "libxmljs": "^0.19.7",
+    "libxmljs": "^1.0.11",
     "lodash": "^4.17.21",
     "mkdirp": "^1.0.3",
     "mocha": "^9.2.0",
