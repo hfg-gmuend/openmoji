@@ -7,7 +7,6 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <polygon fill="#fff" points="10.7518 18.0834 10.976 52.776 17.888 45.5761 53.3118 45.9601 61.0878 53.448 61.6638 17.9282 10.7518 18.0834"/>
   </g>
   <g id="line">
     <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="62 55.5 62 17 10 17 10 55.5"/>
