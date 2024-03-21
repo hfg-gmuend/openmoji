@@ -7,7 +7,6 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <path fill="#fff" d="m33.289,36.9738l-3.4617-6.7458s5.3256,4.083,12.7815,0c0,0-1.7752,6.1245-1.5089,6.9233s-7.8109-.1775-7.8109-.1775Z"/>
     <circle cx="19" cy="36.7" r="11.5" fill="#3f3f3f"/>
     <circle cx="36.2" cy="19.6" r="11.5" fill="#3f3f3f"/>
     <circle cx="53.4" cy="36.7" r="11.5" fill="#3f3f3f"/>
