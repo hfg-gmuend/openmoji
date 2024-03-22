@@ -19,7 +19,6 @@
   <g id="color">
     <circle cx="53.2623" cy="45.9184" r="8.5632" fill="#fff"/>
     <circle cx="20.8059" cy="46.1306" r="8.5632" fill="#fff"/>
-    <polygon fill="#fff" points="30.9117 33.2459 38.5365 33.3774 35.7758 39.5561 30.9117 33.2459"/>
   </g>
   <g id="color-foreground">
     <line x1="21.1" x2="22.8" y1="46" y2="24.6" fill="none" stroke="#ea5a47" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.1"/>
