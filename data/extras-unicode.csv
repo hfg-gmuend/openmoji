@@ -1,109 +1,125 @@
-emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_date,unicode
-‚¨å,2B0C,extras-unicode,symbol-other,left right black arrow,,Guemil Project,2019-01-14,4
-‚¨ç,2B0D,extras-unicode,symbol-other,up down black arrow,,Guemil Project,2019-01-14,4
-‚Æè,2B8F,extras-unicode,symbol-other,anticlockwise triangle-headed top u-shaped arrow,,Guemil Project,2019-01-14,7
-‚ñ°,25A1,extras-unicode,symbol-other,white square,"missing glyph",Benedikt Gro√ü,2019-04-15,1
-üê±‚Äçüíª,1F431-200D-1F4BB,extras-unicode,symbol-other,hacker cat,"coder, developer, software, technologist, smart, clever, code, notebook, computer",Benedikt Gro√ü,2020-03-06,?
-üè¥Û†ÅµÛ†Å≥Û†Å¥Û†Å∏Û†Åø,1F3F4-E0075-E0073-E0074-E0078-E007F,extras-unicode,subdivision-flag,texas flag,"cowboy, lone star, republic, state",Carlin MacKenzie,2020-04-03,?
-‚¨Æ,2B2E,extras-unicode,symbol-other,black vertical ellipse,,loominade,2020-04-17,5
-‚¨Ø,2B2F,extras-unicode,symbol-other,white vertical ellipse,,loominade,2020-04-17,5
-‚¨°,2B21,extras-unicode,symbol-other,white hexagon,"equilateral polygon",loominade,2020-04-17,5
-‚¨¢,2B22,extras-unicode,symbol-other,black hexagon,"equilateral polygon",loominade,2020-04-17,5
-‚ØÉ,2BC3,extras-unicode,symbol-other,horizontal black octagon,"equilateral polygon",loominade,2020-04-17,5
-‚¨ü,2B1F,extras-unicode,symbol-other,black pentagon,"equilateral polygon",loominade,2020-04-17,5
-‚¨†,2B20,extras-unicode,symbol-other,white pentagon,"equilateral polygon",loominade,2020-04-17,5
-‚¨£,2B23,extras-unicode,symbol-other,horizontal black hexagon ,"equilateral polygon",loominade,2020-04-17,5
-‚ñ¨,25AC,extras-unicode,symbol-other,black rectangle,,loominade,2020-04-22,1.1
-‚ñ≠,25AD,extras-unicode,symbol-other,white rectangle,,loominade,2020-04-22,1.1
-‚óê,25D0,extras-unicode,symbol-other,circle with left half black,,loominade,2020-04-22,1.1
-‚óë,25D1,extras-unicode,symbol-other,circle with right half black,,loominade,2020-04-22,1.1
-‚óß,25E7,extras-unicode,symbol-other,square with left half black,,loominade,2020-04-22,1.1
-‚ó®,25E8,extras-unicode,symbol-other,square with right half black,,loominade,2020-04-22,1.1
-‚ó©,25E9,extras-unicode,symbol-other,square with upper left diagonal black,,loominade,2020-04-22,1.1
-‚ó™,25EA,extras-unicode,symbol-other,square with lower right diagonal black,,loominade,2020-04-22,1.1
-‚ó≠,25ED,extras-unicode,symbol-other,up-pointing triangle with left half black,,loominade,2020-04-22,1.1
-‚óÆ,25EE,extras-unicode,symbol-other,up-pointing triangle with right half black,,loominade,2020-04-22,1.1
-‚¨§,2B24,extras-unicode,symbol-other,black large circle,,loominade,2020-04-22,1.1
-‚Æ∫,2BBA,extras-unicode,symbol-other,overlapping white squares,,loominade,2020-04-22,1.1
-‚Æª,2BBB,extras-unicode,symbol-other,overlapping white and black squares,,loominade,2020-04-22,1.1
-‚Æº,2BBC,extras-unicode,symbol-other,overlapping black squares,,loominade,2020-04-22,1.1
-‚ØÑ,2BC4,extras-unicode,symbol-other,black octagon,"equilateral polygon",loominade,2020-04-17,5
-üè¥Û†Å£Û†Å°Û†Å±Û†Å£Û†Åø,1F3F4-E0063-E0061-E0071-E0063-E007F,extras-unicode,subdivision-flag,quebec flag,"fleur-de-lis, quebec, canada, province",Denis Blanchette,2021-02-10,?
-üè¥Û†ÅµÛ†Å≥Û†Å£Û†Å°Û†Åø,1F3F4-E0075-E0073-E0063-E0061-E007F,extras-unicode,subdivision-flag,california flag,"bear, republic, state",Alexander M√ºller,2020-04-26,?
-üè¥Û†Å§Û†Å•Û†Å¢Û†Å•Û†Åø,1F3F4-E0064-E0065-E0062-E0065-E007F,extras-unicode,subdivision-flag,berlin flag,"bear, city, capital",Alexander M√ºller,2020-04-26,?
-‚èª,23FB,extras-unicode,symbol-other,power symbol,"enable, on, off",Alexander M√ºller,2020-04-20,5
-‚èº,23FC,extras-unicode,symbol-other,power on-off symbol,"enable, disable, on, off",Alexander M√ºller,2020-04-20,5
-‚èΩ,23FD,extras-unicode,symbol-other,power on symbol,"enable, on, I",Alexander M√ºller,2020-04-20,5
-‚èæ,23FE,extras-unicode,symbol-other,power sleep symbol,"sleep, standby, crescent moon",Alexander M√ºller,2020-04-20,5
-‚≠ò,2B58,extras-unicode,symbol-other,heavy circle,"off, disable, power off, O",Alexander M√ºller,2020-04-20,5
-üÑç,1F10D,extras-unicode,symbol-other,circled zero with slash,"license, copyright, creative commons, open, libre, public domain",Carlin MacKenzie,2020-04-17,13
-üÑé,1F10E,extras-unicode,symbol-other,circled anticlockwise arrow,"license, copyright, creative commons, open, libre, share alike",Carlin MacKenzie,2020-04-17,13
-üÑè,1F10F,extras-unicode,symbol-other,circled dollar sign with overlaid backslash,"license, copyright, creative commons, open, libre, non commercial",Carlin MacKenzie,2020-04-17,13
-üÖ≠,1F16D,extras-unicode,symbol-other,circled cc,"license, copyright, creative commons, open, libre, public domain",Carlin MacKenzie,2020-04-17,13
-üÖÆ,1F16E,extras-unicode,symbol-other,circled c with overlaid backslash,"license, copyright, creative commons, open, libre, public domain",Carlin MacKenzie,2020-04-17,13
-üÖØ,1F16F,extras-unicode,symbol-other,circled human figure,"license, copyright, creative commons, open, libre, by, attribution, credit",Carlin MacKenzie,2020-04-17,13
-‚äú,229C,extras-unicode,symbol-other,circled equals,"license, copyright, creative commons, open, libre",Carlin MacKenzie,2020-04-18,1.1
-‚Ñ†,2120,extras-unicode,symbol-other,service mark,"trademark, sm",Carlin MacKenzie,2020-06-06,1.1
-‚Ñó,2117,extras-unicode,symbol-other,sound recording copyright,"trademark, music, phonogram",Carlin MacKenzie,2020-06-06,1.1
-üÑØ,1F12F,extras-unicode,symbol-other,copyleft symbol,"open source, free, libre, reciprocal",Carlin MacKenzie,2020-06-06,11
-üè¥Û†Å§Û†Å•Û†Å¢Û†ÅπÛ†Åø,1F3F4-E0064-E0065-E0062-E0079-E007F,extras-unicode,subdivision-flag,bavaria flag,"state, lozenge",Manuel Strehl,2020-07-09,?
-üè¥,1F3F4-E0065-E0073-E0061-E0073-E007F,extras-unicode,subdivision-flag,asturian flag,"asturian, asturina",Mikel Gonz√°lez,2020-10-11,?
-üè¥Û†Å•Û†Å≥Û†Å£Û†Å¥Û†Åø,1F3F4-E0065-E0073-E0063-E0074-E007F,extras-unicode,subdivision-flag,catalonia flag,"catalan, senyera",Joan Montan√©,2020-08-24,?
-üØÖ,1FBC5,extras-unicode,symbol-other,stick figure,"legacy computing",Alexander M√ºller,2020-11-04,13
-üØÜ,1FBC6,extras-unicode,symbol-other,stick figure with arms raised,"legacy computing",Alexander M√ºller,2020-11-04,13
-üØá,1FBC7,extras-unicode,symbol-other,stick figure leaning left,"legacy computing",Alexander M√ºller,2020-11-04,13
-üØà,1FBC8,extras-unicode,symbol-other,stick figure leaning right,"legacy computing",Alexander M√ºller,2020-11-04,13
-üØâ,1FBC9,extras-unicode,symbol-other,stick figure with dress,"legacy computing",Alexander M√ºller,2020-11-04,13
-‚òÖ,2605,extras-unicode,symbol-other,black star,"full star",Alexander M√ºller,2020-11-09,1
-‚Ø™,2BEA,extras-unicode,symbol-other,star with left half black,"half star",Alexander M√ºller,2020-11-09,11
-‚Ø´,2BEB,extras-unicode,symbol-other,star with right half black,"half star",Alexander M√ºller,2020-11-09,11
-üè¥Û†Å¶Û†Å≤Û†Å¢Û†Å≤Û†Å•Û†Åø,1F3F4-E0066-E0072-E0062-E0072-E0065-E007F,extras-unicode,subdivision-flag,bretagne flag,"breton, brittany, gwenn-ha-du",Sam Hocevar,2021-03-15,?
-üè¥Û†Å•Û†Å≥Û†Å∞Û†Å∂Û†Åø,1F3F4-E0065-E0073-E0070-E0076-E007F,extras-unicode,subdivision-flag,basque flag,"basque, ikurrina, euskal",Sam Hocevar,2021-03-15,?
-,1FAD9-200D-1F7E5,extras-unicode,food-drink,jar with red content,"red potion, health potion, jam, jelly",Alexander M√ºller,2021-10-22,?
-,1FAD9-200D-1F7E6,extras-unicode,food-drink,jar with blue content,"blue potion, magic potion, mana potion, water",Alexander M√ºller,2021-10-22,?
-,1FAD9-200D-1F7E7,extras-unicode,food-drink,jar with orange content,"marmelade, jelly",Alexander M√ºller,2021-10-22,?
-,1FAD9-200D-1F7E8,extras-unicode,food-drink,jar with yellow content,"urine, marmelade",Alexander M√ºller,2021-10-22,?
-,1FAD9-200D-1F7E9,extras-unicode,food-drink,jar with green content,"kiwi jam",Alexander M√ºller,2021-10-22,?
-,1FAD9-200D-1F7EA,extras-unicode,food-drink,jar with purple content,"potion of health and magic, jam",Alexander M√ºller,2021-10-22,?
-,1FAD9-200D-1F7EB,extras-unicode,food-drink,jar with brown content,"nutella, peanut butter, nut spread, chocolate",Alexander M√ºller,2021-10-22,?
-‚ñÆ,25AE,extras-unicode,symbol-other,black vertical rectangle,,Alexander M√ºller,2021-11-17,1.1
-‚óâ,25C9,extras-unicode,symbol-other,fisheye,"iris",Alexander M√ºller,2021-11-17,1.1
-üá¶,1F1E6,extras-unicode,regional-indicator,regional indicator A,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üáß,1F1E7,extras-unicode,regional-indicator,regional indicator B,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üá®,1F1E8,extras-unicode,regional-indicator,regional indicator C,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üá©,1F1E9,extras-unicode,regional-indicator,regional indicator D,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üá™,1F1EA,extras-unicode,regional-indicator,regional indicator E,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üá´,1F1EB,extras-unicode,regional-indicator,regional indicator F,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üá¨,1F1EC,extras-unicode,regional-indicator,regional indicator G,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üá≠,1F1ED,extras-unicode,regional-indicator,regional indicator H,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üáÆ,1F1EE,extras-unicode,regional-indicator,regional indicator I,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üáØ,1F1EF,extras-unicode,regional-indicator,regional indicator J,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üá∞,1F1F0,extras-unicode,regional-indicator,regional indicator K,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üá±,1F1F1,extras-unicode,regional-indicator,regional indicator L,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üá≤,1F1F2,extras-unicode,regional-indicator,regional indicator M,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üá≥,1F1F3,extras-unicode,regional-indicator,regional indicator N,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üá¥,1F1F4,extras-unicode,regional-indicator,regional indicator O,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üáµ,1F1F5,extras-unicode,regional-indicator,regional indicator P,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üá∂,1F1F6,extras-unicode,regional-indicator,regional indicator Q,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üá∑,1F1F7,extras-unicode,regional-indicator,regional indicator R,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üá∏,1F1F8,extras-unicode,regional-indicator,regional indicator S,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üáπ,1F1F9,extras-unicode,regional-indicator,regional indicator T,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üá∫,1F1FA,extras-unicode,regional-indicator,regional indicator U,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üáª,1F1FB,extras-unicode,regional-indicator,regional indicator V,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üáº,1F1FC,extras-unicode,regional-indicator,regional indicator W,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üáΩ,1F1FD,extras-unicode,regional-indicator,regional indicator X,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üáæ,1F1FE,extras-unicode,regional-indicator,regional indicator Y,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
-üáø,1F1FF,extras-unicode,regional-indicator,regional indicator Z,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
--,002D,extras-unicode,symbol-other,hyphen-minus,"hyphen, minus, dash, line",Robert Winslow,2022-12-24,1
-üâ†,1F260,extras-unicode,symbol-other,rounded symbol for fu,"ideograph, chinese, religion, luck, Á¶è",Robert Winslow,2023-01-06,10
-üâ°,1F261,extras-unicode,symbol-other,rounded symbol for lu,"ideograph, chinese, religion, prosperity, Á¶Ñ, Á•ø",Robert Winslow,2023-01-06,10
-üâ¢,1F262,extras-unicode,symbol-other,rounded symbol for shou,"ideograph, chinese, religion, longevity, ÂØø, Â£Ω",Robert Winslow,2023-01-06,10
-üâ£,1F263,extras-unicode,symbol-other,rounded symbol for xi,"ideograph, chinese, religion, happiness, Âñú",Robert Winslow,2023-01-06,10
-üâ§,1F264,extras-unicode,symbol-other,rounded symbol for shuangxi,"ideograph, chinese, religion, double happiness, love and marriage, Âõç",Robert Winslow,2023-01-06,10
-üâ•,1F265,extras-unicode,symbol-other,rounded symbol for cai,"ideograph, chinese, religion, wealth, Ë¥¢, Ë≤°",Robert Winslow,2023-01-06,10
-üè¥Û†Å•Û†Å≥Û†Å∂Û†Å£Û†Åø,1F3F4-E0065-E0073-E0076-E0063-E007F,extras-unicode,subdivision-flag,valencian community flag,"valencian, community, comunitat, valenciana, reial, senyera, valencia",Xavier Martinez,2023-12-04,?
-üè¥Û†Å•Û†Å≥Û†Å©Û†Å¢Û†Åø,1F3F4-E0065-E0073-E0069-E0062-E007F,extras-unicode,subdivision-flag,balearic islands flag,"balearic, balearic, islands, illes, balears, balears",Xavier Martinez,2023-12-04,?
-üè¥Û†Å•Û†Å≥Û†Å°Û†Å≤Û†Åø,1F3F4-E0065-E0073-E0061-E0072-E007F,extras-unicode,subdivision-flag,aragon flag,"aragon, arago",Xavier Martinez,2023-12-04,?
-üè¥Û†Å•Û†Å≥Û†Å≠Û†Å£Û†Åø,1F3F4-E0065-E0073-E006D-E0063-E007F,extras-unicode,subdivision-flag,murcia flag,"murcia, region",Xavier Martinez,2023-12-04,?
+Ôªøemoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_date,unicode
+,2BC,extras-unicode,symbol-other,left right black arrow,,Guemil Project,2019-01-14,4
+,2BD,extras-unicode,symbol-other,up down black arrow,,Guemil Project,2019-01-14,4
+è,2B8F,extras-unicode,symbol-other,anticlockwise triangle-headed top u-shaped arrow,,Guemil Project,2019-01-14,7
+°,25A1,extras-unicode,symbol-other,white square,missing glyph,Benedikt Groﬂ,2019-04-15,1
+1ª,1F431-200D-1F4BB,extras-unicode,symbol-other,hacker cat,"coder, developer, software, technologist, smart, clever, code, notebook, computer",Benedikt Groﬂ,2020-03-06,?
+Ùustx,1F3F4-E0075-E0073-E0074-E0078-E007F,extras-unicode,subdivision-flag,texas flag,"cowboy, lone star, republic, state",Carlin MacKenzie,2020-04-03,?
+.,2B2E,extras-unicode,symbol-other,black vertical ellipse,,loominade,2020-04-17,5
+/,2B2F,extras-unicode,symbol-other,white vertical ellipse,,loominade,2020-04-17,5
+!,2B21,extras-unicode,symbol-other,white hexagon,equilateral polygon,loominade,2020-04-17,5
+",2B22,extras-unicode,symbol-other,black hexagon,equilateral polygon,loominade,2020-04-17,5
+√,2BC3,extras-unicode,symbol-other,horizontal black octagon,equilateral polygon,loominade,2020-04-17,5
+,2B1F,extras-unicode,symbol-other,black pentagon,equilateral polygon,loominade,2020-04-17,5
+ ,2B2,extras-unicode,symbol-other,white pentagon,equilateral polygon,loominade,2020-04-17,5
+#,2B23,extras-unicode,symbol-other,horizontal black hexagon ,equilateral polygon,loominade,2020-04-17,5
+¨,25AC,extras-unicode,symbol-other,black rectangle,,loominade,2020-04-22,1.1
+≠,25AD,extras-unicode,symbol-other,white rectangle,,loominade,2020-04-22,1.1
+–,25D,extras-unicode,symbol-other,circle with left half black,,loominade,2020-04-22,1.1
+—,25D1,extras-unicode,symbol-other,circle with right half black,,loominade,2020-04-22,1.1
+Á,250000000,extras-unicode,symbol-other,square with left half black,,loominade,2020-04-22,1.1
+Ë,2500000000,extras-unicode,symbol-other,square with right half black,,loominade,2020-04-22,1.1
+È,25000000000,extras-unicode,symbol-other,square with upper left diagonal black,,loominade,2020-04-22,1.1
+Í,25EA,extras-unicode,symbol-other,square with lower right diagonal black,,loominade,2020-04-22,1.1
+Ì,25ED,extras-unicode,symbol-other,up-pointing triangle with left half black,,loominade,2020-04-22,1.1
+Ó,25EE,extras-unicode,symbol-other,up-pointing triangle with right half black,,loominade,2020-04-22,1.1
+$,2B24,extras-unicode,symbol-other,black large circle,,loominade,2020-04-22,1.1
+∫,2BBA,extras-unicode,symbol-other,overlapping white squares,,loominade,2020-04-22,1.1
+ª,2BBB,extras-unicode,symbol-other,overlapping white and black squares,,loominade,2020-04-22,1.1
+º,2BBC,extras-unicode,symbol-other,overlapping black squares,,loominade,2020-04-22,1.1
+ƒ,2BC4,extras-unicode,symbol-other,black octagon,equilateral polygon,loominade,2020-04-17,5
+Ùcaqc,1F3F4-E0063-E0061-E0071-E0063-E007F,extras-unicode,subdivision-flag,quebec flag,"fleur-de-lis, quebec, canada, province",Denis Blanchette,2021-02-10,?
+Ùusca,1F3F4-E0075-E0073-E0063-E0061-E007F,extras-unicode,subdivision-flag,california flag,"bear, republic, state",Alexander M¸ller,2020-04-26,?
+Ùdebe,1F3F4-E0064-E0065-E0062-E0065-E007F,extras-unicode,subdivision-flag,berlin flag,"bear, city, capital",Alexander M¸ller,2020-04-26,?
+˚,23FB,extras-unicode,symbol-other,power symbol,"enable, on, off",Alexander M¸ller,2020-04-20,5
+¸,23FC,extras-unicode,symbol-other,power on-off symbol,"enable, disable, on, off",Alexander M¸ller,2020-04-20,5
+˝,23FD,extras-unicode,symbol-other,power on symbol,"enable, on, I",Alexander M¸ller,2020-04-20,5
+˛,23FE,extras-unicode,symbol-other,power sleep symbol,"sleep, standby, crescent moon",Alexander M¸ller,2020-04-20,5
+X,2B58,extras-unicode,symbol-other,heavy circle,"off, disable, power off, O",Alexander M¸ller,2020-04-20,5
+,1F10D,extras-unicode,symbol-other,circled zero with slash,"license, copyright, creative commons, open, libre, public domain",Carlin MacKenzie,2020-04-17,13
+,1F10E,extras-unicode,symbol-other,circled anticlockwise arrow,"license, copyright, creative commons, open, libre, share alike",Carlin MacKenzie,2020-04-17,13
+,1F10F,extras-unicode,symbol-other,circled dollar sign with overlaid backslash,"license, copyright, creative commons, open, libre, non commercial",Carlin MacKenzie,2020-04-17,13
+m,1F16D,extras-unicode,symbol-other,circled cc,"license, copyright, creative commons, open, libre, public domain",Carlin MacKenzie,2020-04-17,13
+n,1F16E,extras-unicode,symbol-other,circled c with overlaid backslash,"license, copyright, creative commons, open, libre, public domain",Carlin MacKenzie,2020-04-17,13
+o,1F16F,extras-unicode,symbol-other,circled human figure,"license, copyright, creative commons, open, libre, by, attribution, credit",Carlin MacKenzie,2020-04-17,13
+ú,229C,extras-unicode,symbol-other,circled equals,"license, copyright, creative commons, open, libre",Carlin MacKenzie,2020-04-18,1.1
+ ,2120,extras-unicode,symbol-other,service mark,"trademark, sm",Carlin MacKenzie,2020-06-06,1.1
+,2117,extras-unicode,symbol-other,sound recording copyright,"trademark, music, phonogram",Carlin MacKenzie,2020-06-06,1.1
+/,1F12F,extras-unicode,symbol-other,copyleft symbol,"open source, free, libre, reciprocal",Carlin MacKenzie,2020-06-06,11
+Ùdeby,1F3F4-E0064-E0065-E0062-E0079-E007F,extras-unicode,subdivision-flag,bavaria flag,"state, lozenge",Manuel Strehl,2020-07-09,?
+Ù,1F3F4-E0065-E0073-E0061-E0073-E007F,extras-unicode,subdivision-flag,asturian flag,"asturian, asturina",Mikel Gonz·lez,2020-10-11,?
+Ùesct,1F3F4-E0065-E0073-E0063-E0074-E007F,extras-unicode,subdivision-flag,catalonia flag,"catalan, senyera",Joan MontanÈ,2020-08-24,?
+≈,1FBC5,extras-unicode,symbol-other,stick figure,legacy computing,Alexander M¸ller,2020-11-04,13
+∆,1FBC6,extras-unicode,symbol-other,stick figure with arms raised,legacy computing,Alexander M¸ller,2020-11-04,13
+«,1FBC7,extras-unicode,symbol-other,stick figure leaning left,legacy computing,Alexander M¸ller,2020-11-04,13
+»,1FBC8,extras-unicode,symbol-other,stick figure leaning right,legacy computing,Alexander M¸ller,2020-11-04,13
+…,1FBC9,extras-unicode,symbol-other,stick figure with dress,legacy computing,Alexander M¸ller,2020-11-04,13
+,2605,extras-unicode,symbol-other,black star,full star,Alexander M¸ller,2020-11-09,1
+Í,2BEA,extras-unicode,symbol-other,star with left half black,half star,Alexander M¸ller,2020-11-09,11
+Î,2BEB,extras-unicode,symbol-other,star with right half black,half star,Alexander M¸ller,2020-11-09,11
+Ùfrbre,1F3F4-E0066-E0072-E0062-E0072-E0065-E007F,extras-unicode,subdivision-flag,bretagne flag,"breton, brittany, gwenn-ha-du",Sam Hocevar,2021-03-15,?
+Ùespv,1F3F4-E0065-E0073-E0070-E0076-E007F,extras-unicode,subdivision-flag,basque flag,"basque, ikurrina, euskal",Sam Hocevar,2021-03-15,?
+,1FAD9-200D-1F7E5,extras-unicode,food-drink,jar with red content,"red potion, health potion, jam, jelly",Alexander M¸ller,2021-10-22,?
+,1FAD9-200D-1F7E6,extras-unicode,food-drink,jar with blue content,"blue potion, magic potion, mana potion, water",Alexander M¸ller,2021-10-22,?
+,1FAD9-200D-1F7E7,extras-unicode,food-drink,jar with orange content,"marmelade, jelly",Alexander M¸ller,2021-10-22,?
+,1FAD9-200D-1F7E8,extras-unicode,food-drink,jar with yellow content,"urine, marmelade",Alexander M¸ller,2021-10-22,?
+,1FAD9-200D-1F7E9,extras-unicode,food-drink,jar with green content,kiwi jam,Alexander M¸ller,2021-10-22,?
+,1FAD9-200D-1F7EA,extras-unicode,food-drink,jar with purple content,"potion of health and magic, jam",Alexander M¸ller,2021-10-22,?
+,1FAD9-200D-1F7EB,extras-unicode,food-drink,jar with brown content,"nutella, peanut butter, nut spread, chocolate",Alexander M¸ller,2021-10-22,?
+Æ,25AE,extras-unicode,symbol-other,black vertical rectangle,,Alexander M¸ller,2021-11-17,1.1
+…,25C9,extras-unicode,symbol-other,fisheye,iris,Alexander M¸ller,2021-11-17,1.1
+Ê,1F1E6,extras-unicode,regional-indicator,regional indicator A,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+Á,1F1E7,extras-unicode,regional-indicator,regional indicator B,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+Ë,1F1E8,extras-unicode,regional-indicator,regional indicator C,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+È,1F1E9,extras-unicode,regional-indicator,regional indicator D,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+Í,1F1EA,extras-unicode,regional-indicator,regional indicator E,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+Î,1F1EB,extras-unicode,regional-indicator,regional indicator F,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+Ï,1F1EC,extras-unicode,regional-indicator,regional indicator G,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+Ì,1F1ED,extras-unicode,regional-indicator,regional indicator H,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+Ó,1F1EE,extras-unicode,regional-indicator,regional indicator I,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+Ô,1F1EF,extras-unicode,regional-indicator,regional indicator J,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+,1F1F0,extras-unicode,regional-indicator,regional indicator K,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+Ò,1F1F1,extras-unicode,regional-indicator,regional indicator L,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+Ú,1F1F2,extras-unicode,regional-indicator,regional indicator M,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+Û,1F1F3,extras-unicode,regional-indicator,regional indicator N,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+Ù,1F1F4,extras-unicode,regional-indicator,regional indicator O,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+ı,1F1F5,extras-unicode,regional-indicator,regional indicator P,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+ˆ,1F1F6,extras-unicode,regional-indicator,regional indicator Q,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+˜,1F1F7,extras-unicode,regional-indicator,regional indicator R,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+¯,1F1F8,extras-unicode,regional-indicator,regional indicator S,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+˘,1F1F9,extras-unicode,regional-indicator,regional indicator T,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+˙,1F1FA,extras-unicode,regional-indicator,regional indicator U,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+˚,1F1FB,extras-unicode,regional-indicator,regional indicator V,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+¸,1F1FC,extras-unicode,regional-indicator,regional indicator W,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+˝,1F1FD,extras-unicode,regional-indicator,regional indicator X,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+˛,1F1FE,extras-unicode,regional-indicator,regional indicator Y,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+ˇ,1F1FF,extras-unicode,regional-indicator,regional indicator Z,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,6
+-,2D,extras-unicode,symbol-other,hyphen-minus,"hyphen, minus, dash, line",Robert Winslow,2022-12-24,1
+`,1F260,extras-unicode,symbol-other,rounded symbol for fu,"ideograph, chinese, religion, luck, è",Robert Winslow,2023-01-06,10
+a,1F261,extras-unicode,symbol-other,rounded symbol for lu,"ideograph, chinese, religion, prosperity, Ñ, ",Robert Winslow,2023-01-06,10
+b,1F262,extras-unicode,symbol-other,rounded symbol for shou,"ideograph, chinese, religion, longevity, ˇ, ˝",Robert Winslow,2023-01-06,10
+c,1F263,extras-unicode,symbol-other,rounded symbol for xi,"ideograph, chinese, religion, happiness, ú",Robert Winslow,2023-01-06,10
+d,1F264,extras-unicode,symbol-other,rounded symbol for shuangxi,"ideograph, chinese, religion, double happiness, love and marriage, Õ",Robert Winslow,2023-01-06,10
+e,1F265,extras-unicode,symbol-other,rounded symbol for cai,"ideograph, chinese, religion, wealth, ", °",Robert Winslow,2023-01-06,10
+Ùesvc,1F3F4-E0065-E0073-E0076-E0063-E007F,extras-unicode,subdivision-flag,valencian community flag,"valencian, community, comunitat, valenciana, reial, senyera, valencia",Xavier Martinez,2023-12-04,?
+Ùesib,1F3F4-E0065-E0073-E0069-E0062-E007F,extras-unicode,subdivision-flag,balearic islands flag,"balearic, balearic, islands, illes, balears, balears",Xavier Martinez,2023-12-04,?
+Ùesar,1F3F4-E0065-E0073-E0061-E0072-E007F,extras-unicode,subdivision-flag,aragon flag,"aragon, arago",Xavier Martinez,2023-12-04,?
+Ùesmc,1F3F4-E0065-E0073-E006D-E0063-E007F,extras-unicode,subdivision-flag,murcia flag,"murcia, region",Xavier Martinez,2023-12-04,?
 ,1F3F4-E0077-E0064-E0063-E007F,extras-unicode,subdivision-flag,Washington D.C.,Washington DC,Varvara Kirylchyk,2024-02-20,?
-üè¥Û†ÅµÛ†Å≥Û†Å£Û†ÅØÛ†Åø,1F3F4-E0075-E0073-E0063-E006F-E007F,extras-unicode,subdivision-flag,colorado flag,"colorado, mountains, state",Alex Cochran,2024-02-26,?
+Ùusco,1F3F4-E0075-E0073-E0063-E006F-E007F,extras-unicode,subdivision-flag,colorado flag,"colorado, mountains, state",Alex Cochran,2024-02-26,?
+Ùesan,1F3F4-E0065-E0073-E0061-E006E-E007F,extras-unicode,subdivision-flag,andalusia flag,"andalusia, arbonaida",Xavier Martinez,2024-04-08,?
+Ùescn,1F3F4-E0065-E0073-E0063-E006E-E007F,extras-unicode,subdivision-flag,canary islands flag,"canary, islands, canaries",Xavier Martinez,2024-04-09,?
+Ùescb,1F3F4-E0065-E0073-E0063-E0062-E007F,extras-unicode,subdivision-flag,cantabria flag,cantabria,Xavier Martinez,2024-04-10,?
+Ùescm,1F3F4-E0065-E0073-E0063-E006D-E007F,extras-unicode,subdivision-flag,castile-la mancha flag,"castile-la mancha, castile, la, mancha, castilla-la mancha, castilla",Xavier Martinez,2024-04-11,?
+Ùescl,1F3F4-E0065-E0073-E0063-E006C-E007F,extras-unicode,subdivision-flag,castile and leÛn flag,"castile and leÛn, castile and leon, castile, and leÛn, leon",Xavier Martinez,2024-04-12,?
+Ùesce,1F3F4-E0065-E0073-E0063-E0065-E007F,extras-unicode,subdivision-flag,ceuta flag,ceuta,Xavier Martinez,2024-04-13,?
+Ùesex,1F3F4-E0065-E0073-E0065-E0078-E007F,extras-unicode,subdivision-flag,extremadura flag,extremadura,Xavier Martinez,2024-04-14,?
+Ùesga,1F3F4-E0065-E0073-E0067-E0061-E007F,extras-unicode,subdivision-flag,galicia flag,galicia,Xavier Martinez,2024-04-15,?
+Ùesri,1F3F4-E0065-E0073-E0072-E0069-E007F,extras-unicode,subdivision-flag,la rioja flag,"la rioja, la, rioja",Xavier Martinez,2024-04-16,?
+Ùesmd,1F3F4-E0065-E0073-E006D-E0064-E007F,extras-unicode,subdivision-flag,madrid autonomous community flag,"madrid autonomous community, madrid, autonomous, community",Xavier Martinez,2024-04-17,?
+Ùesml,1F3F4-E0065-E0073-E006D-E006C-E007F,extras-unicode,subdivision-flag,melilla flag,melilla,Xavier Martinez,2024-04-18,?
+Ùesnc,1F3F4-E0065-E0073-E006E-E0063-E007F,extras-unicode,subdivision-flag,navarra chartered community,"navarra chartered community, navarra, chartered, community, navarre",Xavier Martinez,2024-04-19,?
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
