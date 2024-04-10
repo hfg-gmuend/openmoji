@@ -27,8 +27,6 @@ fs.writeFileSync(
   JSON.stringify(openmojiForSwift, null, 2)
 );
 
-return;
-
 console.log("copy openmojis → in app stickers, with skintones");
 openmojis.forEach((openmoji, i) => {
   fs.copyFileSync(
