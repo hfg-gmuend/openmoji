@@ -70531,5 +70531,22 @@
     "skintone_base_hexcode": "",
     "unicode": "11",
     "order": ""
+  },
+  {
+    "emoji": "🏴",
+    "hexcode": "1F3F4-E0061-E0076-E007F",
+    "group": "extras-unicode",
+    "subgroups": "subdivision-flag",
+    "annotation": "Alabama flag",
+    "tags": "alabama",
+    "openmoji_tags": "flag",
+    "openmoji_author": "Varvara Kirylchyk",
+    "openmoji_date": "2024-04-04",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 13,
+    "order": 4734
   }
 ]
