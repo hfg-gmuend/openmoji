@@ -6,12 +6,14 @@
 OpenMoji 15.1 - XX XXX 2024
 
 New:
-  + Washington DC subdivision-flag by @Kirylchyk #489
-  + Colorado subdivision-flag by @alexcochran #491
+  + Washington DC subdivision flag by @Kirylchyk #489
+  + Colorado subdivision flag by @alexcochran #491
+  + Spain subdivision flags by @xavizardKnight #495
+  + More programming languages: .NET, Kotlin and Ruby by @xavizardKnight #495
 
 Improvements:
   * blue heart emoji should be blue not light blue #483
-  * fixed grid of Colorado subdivision-flag @xavizardKnight #496
+  * fixed grid of Colorado subdivision flag @xavizardKnight #496
 
 Fix:
   * Correct versions of TTFs font files #486
