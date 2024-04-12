@@ -1,0 +1,20 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="color">
+    <rect x="5" y="17" width="62" height="38" fill="#fff"/>
+    <path fill="#61b2e4" d="m10.3 17.03c-5.301-0.03272-5.301-0.03272-5.432 3.904l56.9 34.13c5.235-0.06544 5.235-0.06544 5.202-4.018z"/>
+    <g transform="translate(-.035 -.02538)" stroke-linecap="round">
+      <path fill="#1e50a0" stroke="#1e50a0" stroke-linejoin="round" stroke-width="2" d="m31.63 34.08h8.784c0 10.31-2.035 10.34-4.416 10.34-2.431 0-4.368 0.09442-4.368-10.34z"/>
+      <path fill="none" stroke="#f1b31c" stroke-linejoin="round" stroke-width="1.792" d="m36.02 40.21v3.843"/>
+      <path fill="none" stroke="#fff" stroke-width="2" d="m36.02 37.37v0.6256"/>
+      <path fill="none" stroke="#d0cfce" stroke-linejoin="round" stroke-width="1" d="m32.11 40.91c-0.4839-6.834-0.4837-6.984 4.154-6.905 4.146 0.07083 4.146 0.07083 3.657 6.928"/>
+      <path fill="none" stroke="#ea5a47" stroke-linejoin="round" stroke-width="3" d="m31.52 31.03c3.306-0.8714 5.541-0.9361 8.997-0.03174"/>
+      <path fill="none" stroke="#f1b31c" stroke-linejoin="round" d="m30.96 32.45c3.306-0.8714 6.684-0.9044 10.14 0"/>
+      <path fill="none" stroke="#f1b31c" stroke-width="2" d="m36 27.63 0.03 3.714"/>
+      <path fill="none" stroke="#f1b31c" stroke-width="2" d="m29.57 29.04 1.396 2.911"/>
+      <path fill="none" stroke="#f1b31c" stroke-width="2" d="m42.5 29.04-1.396 2.911"/>
+    </g>
+  </g>
+  <g id="line">
+    <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="color">
+    <path fill="#b399c8" d="m59.03 60h-46.07a0.9679 0.9679 0 0 1-0.9649-0.9651v-46.07a0.9679 0.9679 0 0 1 0.9651-0.9649h46.07a0.9679 0.9679 0 0 1 0.9649 0.9651v46.07a0.9679 0.9679 0 0 1-0.9651 0.9649z"/>
+  </g>
+  <g id="line" fill="none" stroke="#000" stroke-linejoin="round">
+    <path stroke-width="2" d="m59.03 60h-46.07a0.9679 0.9679 0 0 1-0.9649-0.9651v-46.07a0.9679 0.9679 0 0 1 0.9651-0.9649h46.07a0.9679 0.9679 0 0 1 0.9649 0.9651v46.07a0.9679 0.9679 0 0 1-0.9651 0.9649z"/>
+    <g transform="matrix(1.55 0 0 1.55 135.6 111.9)" clip-rule="evenodd">
+      <g transform="translate(-34)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2">
+        <path transform="translate(-23.74 -52.5)" d="m0 0h4"/>
+        <path transform="matrix(0 1 1 0 -18.24 -49)" d="m-3.5-3.5h7"/>
+      </g>
+      <g transform="translate(82.27)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2">
+        <path transform="translate(-142.7 -45.5)" d="m0-7h-4v7h4"/>
+        <path transform="translate(-146.7 -49)" d="m0 0h3"/>
+      </g>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m-72.14-45.5v-7l5 7v-7"/>
+      <path fill="#000" stroke="none" d="m-73.85-45.5c0 0.552-0.448 1-1 1s-1-0.448-1-1 0.448-1 1-1 1 0.448 1 1"/>
+    </g>
+    <path stroke-linecap="round" stroke-miterlimit="10" stroke-width="4.453" d="m53.82 41.34c-0.4564-1.777-2.429-3.11-4.793-3.11-2.703 0-4.893 1.743-4.893 3.896 0 2.151 2.191 3.896 4.893 3.896l-0.1002 0.01336c2.703 0 4.893 1.745 4.893 3.896 0 2.153-2.191 3.896-4.893 3.896-2.364 0-4.337-1.336-4.793-3.112" clip-rule="evenodd" display="none"/>
+    <path stroke-linecap="round" stroke-miterlimit="10" stroke-width="4.456" d="m36.74 38.23v10.03c0 3.077-2.493 5.569-5.569 5.569-1.432 0-2.738-0.5414-3.727-1.43" clip-rule="evenodd" display="none"/>
+  </g>
+</svg>
