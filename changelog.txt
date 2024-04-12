@@ -10,6 +10,7 @@ New:
   + Colorado subdivision flag by @alexcochran #491
   + Spain subdivision flags by @xavizardKnight #495
   + More programming languages: .NET, Kotlin and Ruby by @xavizardKnight #495
+  + Alabama subdivision flag by @Kirylchyk #497
 
 Improvements:
   * blue heart emoji should be blue not light blue #483
