@@ -4076,6 +4076,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🇽,1F1FD,extras-unicode,regional-indicator,regional indicator X,,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,,,,,6,
 🇾,1F1FE,extras-unicode,regional-indicator,regional indicator Y,,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,,,,,6,
 🇿,1F1FF,extras-unicode,regional-indicator,regional indicator Z,,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,,,,,6,
+🏴󠁡󠁶󠁿,1F3F4-E0061-E0076-E007F,extras-unicode,subdivision-flag,Alabama flag,,alabama,Varvara Kirylchyk,2024-04-04,,,,,?,
 🏴󠁣󠁡󠁱󠁣󠁿,1F3F4-E0063-E0061-E0071-E0063-E007F,extras-unicode,subdivision-flag,quebec flag,,"fleur-de-lis, quebec, canada, province",Denis Blanchette,2021-02-10,,,,,?,
 🏴󠁤󠁥󠁢󠁥󠁿,1F3F4-E0064-E0065-E0062-E0065-E007F,extras-unicode,subdivision-flag,berlin flag,,"bear, city, capital",Alexander Müller,2020-04-26,,,,,?,
 🏴󠁤󠁥󠁢󠁹󠁿,1F3F4-E0064-E0065-E0062-E0079-E007F,extras-unicode,subdivision-flag,bavaria flag,,"state, lozenge",Manuel Strehl,2020-07-09,,,,,?,
@@ -4163,4 +4164,3 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ⯄,2BC4,extras-unicode,symbol-other,black octagon,,equilateral polygon,loominade,2020-04-17,,,,,5,
 ⯪,2BEA,extras-unicode,symbol-other,star with left half black,,half star,Alexander Müller,2020-11-09,,,,,11,
 ⯫,2BEB,extras-unicode,symbol-other,star with right half black,,half star,Alexander Müller,2020-11-09,,,,,11,
-🏴,1F3F4-E0061-E0076-E007F,extras-unicode,subdivision-flag,Alabama flag,"alabama",Varvara Kirylchyk,2024-04-04,,,,,13,4734
