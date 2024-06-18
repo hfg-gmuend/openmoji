@@ -9,7 +9,8 @@ New:
   + Washington DC subdivision flag by @Kirylchyk #489
   + Colorado subdivision flag by @alexcochran #491
   + Spain subdivision flags by @xavizardKnight #495
-  + More programming languages: .NET, Kotlin and Ruby by @xavizardKnight #495
+  + More programming languages: .NET, Kotlin, Ruby
+    and Golang by @xavizardKnight #495 #498
   + Alabama subdivision flag by @Kirylchyk #497
 
 Improvements:
