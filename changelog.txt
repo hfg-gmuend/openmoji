@@ -20,7 +20,7 @@ Improvements:
 Fix:
   * Correct versions of TTFs font files #486
   * Lobster (1F99E) was missing some transparency #490
-  * Fix apple logo #512
+  * Update apple logo #512
 
 --------------------------------------------------------------------------------
 
