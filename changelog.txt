@@ -16,7 +16,7 @@ New:
 Improvements:
   * blue heart emoji should be blue not light blue #483
   * fixed grid of Colorado subdivision flag @xavizardKnight #496
-  * Update apple logo #512
+  * Update apple logo @nataliakeniganti #512
 
 Fix:
   * Correct versions of TTFs font files #486
