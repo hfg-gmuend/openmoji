@@ -12,11 +12,15 @@ New:
   + More programming languages: .NET, Kotlin, Ruby
     and Golang by @xavizardKnight #495 #498
   + Alabama subdivision flag by @Kirylchyk #497
+  + Adding lime and brown mushroom @nataliakeniganti #515
 
 Improvements:
   * blue heart emoji should be blue not light blue #483
   * fixed grid of Colorado subdivision flag @xavizardKnight #496
   * Update apple logo @nataliakeniganti #512
+  * Cleaned up brown mushroom @nataliakeniganti #515
+  * Change colors feather @nataliakeniganti #515
+  * Changed manual wheelchair people not facing right @nataliakeniganti #515
 
 Fix:
   * Correct versions of TTFs font files #486
