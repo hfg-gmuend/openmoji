@@ -21,7 +21,7 @@
     <path fill="none" stroke="#ffffff" stroke-linejoin="round" stroke-width="2" d="m43.43 17.96-14.97 36.13"/>
     <path fill="none" stroke="#ffffff" stroke-linejoin="round" stroke-width="2" d="m17.73 43.54 36.37-15.07"/>
     <path fill="none" stroke="#ffffff" stroke-linejoin="round" stroke-width="2" d="m17.75 28.44 36.31 15.04"/>
-    <circle cx="36" cy="36" r="2.403" fill="#ffffff" fill-rule="evenodd" stroke="#e27022" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <circle cx="36" cy="36" r="2.403" fill="#ffffff" fill-rule="evenodd" stroke="#ffffff" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
   </g>
   <g id="line">
     <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2" d="m62 36a26 26 0 0 1-26 26 26 26 0 0 1-26-26 26 26 0 0 1 26-26 26 26 0 0 1 26 26"/>
