@@ -1,8 +1,6 @@
 emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,openmoji_date,skintone,skintone_combination,skintone_base_emoji,skintone_base_hexcode,unicode,order
 🙂‍↔️,1F642-200D-2194-FE0F,smileys-emotion,face-neutral-skeptical,head shaking horizontally,"no, shake",,,,,,,,15.1,53
 🙂‍↕️,1F642-200D-2195-FE0F,smileys-emotion,face-neutral-skeptical,head shaking vertically,"nod, yes",,,,,,,,15.1,55
-✋️,270B,people-body,hand-fingers-open,raised hand,"hand, high 5, high five",,,,,single,✋️,270B,0.6,204
-✊️,270A,people-body,hand-fingers-closed,raised fist,"clenched, fist, hand, punch",,,,,single,✊️,270A,0.6,362
 🚶‍➡️,1F6B6-200D-27A1-FE0F,people-body,person-activity,person walking facing right,"hike, person walking, walk, walking",,,,,single,🚶‍➡️,1F6B6-200D-27A1-FE0F,15.1,1978
 🚶‍♀️‍➡️,1F6B6-200D-2640-FE0F-200D-27A1-FE0F,people-body,person-activity,woman walking facing right,"hike, walk, woman, woman walking",,,,,single,🚶‍♀️‍➡️,1F6B6-200D-2640-FE0F-200D-27A1-FE0F,15.1,1990
 🚶‍♂️‍➡️,1F6B6-200D-2642-FE0F-200D-27A1-FE0F,people-body,person-activity,man walking facing right,"hike, man, man walking, walk",,,,,single,🚶‍♂️‍➡️,1F6B6-200D-2642-FE0F-200D-27A1-FE0F,15.1,2014
@@ -28,19 +26,4 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐦‍🔥,1F426-200D-1F525,animals-nature,animal-bird,phoenix,"fantasy, firebird, rebirth, reincarnation",,,,,,,,15.1,3574
 🍋‍🟩,1F34B-200D-1F7E9,food-drink,food-fruit,lime,"citrus, fruit, tropical",,,,,,,,15.1,3649
 🍄‍🟫,1F344-200D-1F7EB,food-drink,food-vegetable,brown mushroom,"food, fungus, nature, vegetable",,,,,,,,15.1,3682
-⏰️,23F0,travel-places,time,alarm clock,"alarm, clock",,,,,,,,0.6,3952
-✨️,2728,activities,event,sparkles,"*, sparkle, star",,,,,,,,0.6,4053
 ⛓️‍💥,26D3-FE0F-200D-1F4A5,objects,tool,broken chain,"break, breaking, chain, cuffs, freedom",,,,,,,,15.1,4395
-⛎️,26CE,symbols,zodiac,Ophiuchus,"bearer, ophiuchus, serpent, snake, zodiac",,,,,,,,0.6,4554
-⏫️,23EB,symbols,av-symbol,fast up button,"arrow, double",,,,,,,,0.6,4571
-⏬️,23EC,symbols,av-symbol,fast down button,"arrow, double, down",,,,,,,,0.6,4573
-➕️,2795,symbols,math,plus,"+, math, sign",,,,,,,,0.6,4597
-➖️,2796,symbols,math,minus,"-, math, sign, −",,,,,,,,0.6,4598
-➗️,2797,symbols,math,divide,"division, math, sign, ÷",,,,,,,,0.6,4599
-❔️,2754,symbols,punctuation,white question mark,"?, mark, outlined, punctuation, question",,,,,,,,0.6,4608
-❕️,2755,symbols,punctuation,white exclamation mark,"!, exclamation, mark, outlined, punctuation",,,,,,,,0.6,4609
-✅️,2705,symbols,other-symbol,check mark button,"button, check, mark, ✓",,,,,,,,0.6,4625
-❌️,274C,symbols,other-symbol,cross mark,"cancel, cross, mark, multiplication, multiply, x, ×",,,,,,,,0.6,4630
-❎️,274E,symbols,other-symbol,cross mark button,"mark, square, x, ×",,,,,,,,0.6,4631
-➰️,27B0,symbols,other-symbol,curly loop,"curl, loop",,,,,,,,0.6,4632
-➿️,27BF,symbols,other-symbol,double curly loop,"curl, double, loop",,,,,,,,1,4633

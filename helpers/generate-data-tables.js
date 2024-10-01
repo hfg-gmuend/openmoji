@@ -19,7 +19,7 @@ const loadCsv = (filePath) => {
   return csvParse(content, {columns: true});
 }
 const arrayToEmojiDict = (array) => {
-  return array.reduce((o, a) => Object.assign(o, { [a.emoji]: a }), {});
+  return array.reduce((o, a) => Object.assign(o, { [String(a.hexcode)]: a }), {});
 }
 const writeCsv = (data, filePath) => {
   const csvOut = csvWriter();
@@ -66,11 +66,11 @@ const enhancements = arrayToEmojiDict( loadCsv('./data/enhancements-emoji-unicod
 // filter out what we want in the end
 // enhance meta informations of each emoji
 emojis = _.map(emojis, e => {
-  let openmoji_author = enhancements[e.emoji] ? enhancements[e.emoji]['openmoji_author'] : '';
-  let openmoji_date = enhancements[e.emoji] ? enhancements[e.emoji]['openmoji_date'] : '';
-  if (e.skintone_base_emoji) {
-    openmoji_author = enhancements[e.skintone_base_emoji] ? enhancements[e.skintone_base_emoji]['openmoji_author'] : '';
-    openmoji_date = enhancements[e.skintone_base_emoji] ? enhancements[e.skintone_base_emoji]['openmoji_date'] : '';
+  let openmoji_author = enhancements[e.hexcode] ? enhancements[e.hexcode]['openmoji_author'] : '';
+  let openmoji_date = enhancements[e.hexcode] ? enhancements[e.hexcode]['openmoji_date'] : '';
+  if (e.skintone_base_hexcode) {
+    openmoji_author = enhancements[e.skintone_base_hexcode] ? enhancements[e.skintone_base_hexcode]['openmoji_author'] : '';
+    openmoji_date = enhancements[e.skintone_base_hexcode] ? enhancements[e.skintone_base_hexcode]['openmoji_date'] : '';
   }
   return {
     emoji: e.emoji,
