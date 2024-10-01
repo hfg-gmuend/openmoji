@@ -134,8 +134,6 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 📶,1F4F6,,Jose Avila,2018-04-18
 ⏏️,23CF,,Carlin MacKenzie,2020-06-05
 ⏪️,23EA,,Jose Avila,2018-04-18
-⏫,23EB,,Jose Avila,2018-04-18
-⏬,23EC,,Jose Avila,2018-04-18
 ⏭️,23ED,,Jose Avila,2018-04-18
 ⏮️,23EE,,Jose Avila,2018-04-18
 ⏯️,23EF,,Jose Avila,2018-04-18
@@ -188,8 +186,6 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🧠,1F9E0,"brain, intelligent, clever",Julian Grüneberg,2018-04-18
 🫀,1FAC0,"pump, blood, beat, organ",Tonia Reinhardt,2010-01-31
 🫁,1FAC1,"respiration, breathing, air, organ",Fanny Jung,2010-01-31
-✊,270A,"clenched, fist, hand, punch",Julian Grüneberg,2018-04-18
-✋,270B,"raise, raised, raised hand, hand",Julian Grüneberg,2018-04-18
 👁️‍🗨️,1F441-FE0F-200D-1F5E8-FE0F,"eye, speech bubble, witness",Julian Grüneberg,2018-04-18
 👣,1F463,"clothing, footprint, print",Julian Grüneberg,2018-04-18
 🖖,1F596,"fingers, star trek",Julian Grüneberg,2018-04-18
@@ -308,7 +304,6 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🎊,1F38A,"decoration, happy",Laura Humpfer,2018-04-18
 🎗️,1F397,,Laura Humpfer,2018-04-18
 🎫,1F3AB,,Laura Humpfer,2018-04-18
-✨,2728,"magic, beautiful",Laura Humpfer,2018-04-18
 🎀,1F380,"present, gift, decoration, party, girl, girly, fashion",Laura Humpfer,2018-04-18
 🎋,1F38B,,Laura Humpfer,2018-04-18
 🎟️,1F39F,,Laura Humpfer,2018-04-18
@@ -589,21 +584,13 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🪦,1FAA6,,Liz Bravo,2020-03-22
 ✔️,2714,"check, mark, right, todo",Carlin MacKenzie,2020-05-12
 ✖️,2716,"multiplication, x, cancel, wrong",Hilda Kalyoncu,2018-04-18
-❌,274C,"cancel, wrong, multiply, x",Hilda Kalyoncu,2018-04-18
 ☑️,2611,"check, right, box",Hilda Kalyoncu,2018-04-18
 ♀️,2640,"woman, sign, gender",Hilda Kalyoncu,2018-04-18
 ♂️,2642,"man, sign, gender",Hilda Kalyoncu,2018-04-18
 ⚧️,26A7,"LGBT, trans, queer, gender",Carlin MacKenzie,2020-03-12
-✅,2705,"check, mark, white, right",Hilda Kalyoncu,2018-04-18
 ❓️,2753,"question, punctuation",Selina Lange,2019-05-06
-❔,2754,"punctuation, mark, question, white",Selina Lange,2019-05-06
-❕,2755,"exclamation, mark, punctuation, white",Hilda Kalyoncu,2018-04-18
 ❗️,2757,"exclamation, mark, punctuation",Hilda Kalyoncu,2018-04-18
-➕,2795,"math, plus, sign",Hilda Kalyoncu,2018-04-18
-➖,2796,"math, minus, sign",Hilda Kalyoncu,2018-04-18
-➗,2797,"math, division, sign",Hilda Kalyoncu,2018-04-18
 ♻️,267B,"recycle, nature",Hilda Kalyoncu,2018-04-18
-❎,274E,"mark, square, button",Hilda Kalyoncu,2018-04-18
 ⭕️,2B55,"circle, red",Hilda Kalyoncu,2018-04-18
 ⚕️,2695,"medical, staff",Hilda Kalyoncu,2018-04-18
 〰️,3030,"dash, punctuation, wavy",Hilda Kalyoncu,2018-04-18
@@ -849,7 +836,6 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 ⛳️,26F3,"flag, golf, golf flag, golf hole with flag, sport, ball, goal",Vanessa Boutzikoudi,2018-04-18
 ⌚️,231A,"watch, time",Rana Cakir,2018-04-18
 ⌛️,231B,"countdown, hourglass",Rana Cakir,2018-04-18
-⏰,23F0,,Rana Cakir,2018-04-18
 ⏱️,23F1,,Rana Cakir,2018-04-18
 ⏳️,23F3,,Rana Cakir,2018-04-18
 🕐️,1F550,time,Rana Cakir,2018-04-18
@@ -1071,7 +1057,6 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 ♑️,2651,,Sina Chlod,2018-11-16
 ♒️,2652,,Sina Chlod,2018-11-16
 ♓️,2653,,Sina Chlod,2018-11-16
-⛎,26CE,,Sina Chlod,2018-11-16
 ✡️,2721,,Sina Chlod,2018-11-16
 🔃,1F503,,Vincent Seitz,2018-11-16
 🔙,1F519,,Vincent Seitz,2018-11-16
@@ -1593,8 +1578,6 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 ✳️,2733,,Selina Lange,2019-05-06
 ✴️,2734,,Selina Lange,2019-05-06
 ❇️,2747,,Selina Lange,2019-05-06
-➰,27B0,,Selina Lange,2019-05-06
-➿,27BF,,Selina Lange,2019-05-06
 〽️,303D,,Selina Lange,2019-05-06
 🌁,1F301,,Nelly Nieter,2021-04-23
 🌉,1F309,,Jonas Dunkel,2019-05-07
