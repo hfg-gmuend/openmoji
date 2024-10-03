@@ -12,6 +12,10 @@ New:
   + More programming languages: .NET, Kotlin, Ruby
     and Golang by @xavizardKnight #495 #498
   + Alabama subdivision flag by @Kirylchyk #497
+  + 15.1 emojis: head shaking horizontally/vertically,
+    more families, phoenix, lime, brown mushroom, broken chain
+    by Annika Raue, Vanessa Stoessinger and Daniel Utz
+
 
 Improvements:
   * blue heart emoji should be blue not light blue #483

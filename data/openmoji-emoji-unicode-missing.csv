@@ -1,6 +1,4 @@
 emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,openmoji_date,skintone,skintone_combination,skintone_base_emoji,skintone_base_hexcode,unicode,order
-🙂‍↔️,1F642-200D-2194-FE0F,smileys-emotion,face-neutral-skeptical,head shaking horizontally,"no, shake",,,,,,,,15.1,53
-🙂‍↕️,1F642-200D-2195-FE0F,smileys-emotion,face-neutral-skeptical,head shaking vertically,"nod, yes",,,,,,,,15.1,55
 🚶‍➡️,1F6B6-200D-27A1-FE0F,people-body,person-activity,person walking facing right,"hike, person walking, walk, walking",,,,,single,🚶‍➡️,1F6B6-200D-27A1-FE0F,15.1,1978
 🚶‍♀️‍➡️,1F6B6-200D-2640-FE0F-200D-27A1-FE0F,people-body,person-activity,woman walking facing right,"hike, walk, woman, woman walking",,,,,single,🚶‍♀️‍➡️,1F6B6-200D-2640-FE0F-200D-27A1-FE0F,15.1,1990
 🚶‍♂️‍➡️,1F6B6-200D-2642-FE0F-200D-27A1-FE0F,people-body,person-activity,man walking facing right,"hike, man, man walking, walk",,,,,single,🚶‍♂️‍➡️,1F6B6-200D-2642-FE0F-200D-27A1-FE0F,15.1,2014
@@ -19,11 +17,3 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏃‍➡️,1F3C3-200D-27A1-FE0F,people-body,person-activity,person running facing right,"marathon, person running, running",,,,,single,🏃‍➡️,1F3C3-200D-27A1-FE0F,15.1,2350
 🏃‍♀️‍➡️,1F3C3-200D-2640-FE0F-200D-27A1-FE0F,people-body,person-activity,woman running facing right,"marathon, racing, running, woman",,,,,single,🏃‍♀️‍➡️,1F3C3-200D-2640-FE0F-200D-27A1-FE0F,15.1,2362
 🏃‍♂️‍➡️,1F3C3-200D-2642-FE0F-200D-27A1-FE0F,people-body,person-activity,man running facing right,"man, marathon, racing, running",,,,,single,🏃‍♂️‍➡️,1F3C3-200D-2642-FE0F-200D-27A1-FE0F,15.1,2386
-🧑‍🧑‍🧒,1F9D1-200D-1F9D1-200D-1F9D2,people-body,person-symbol,"family: adult, adult, child","family: adult, adult, child",,,,,,,,15.1,3470
-🧑‍🧑‍🧒‍🧒,1F9D1-200D-1F9D1-200D-1F9D2-200D-1F9D2,people-body,person-symbol,"family: adult, adult, child, child","family: adult, adult, child, child",,,,,,,,15.1,3471
-🧑‍🧒,1F9D1-200D-1F9D2,people-body,person-symbol,"family: adult, child","family: adult, child",,,,,,,,15.1,3472
-🧑‍🧒‍🧒,1F9D1-200D-1F9D2-200D-1F9D2,people-body,person-symbol,"family: adult, child, child","family: adult, child, child",,,,,,,,15.1,3473
-🐦‍🔥,1F426-200D-1F525,animals-nature,animal-bird,phoenix,"fantasy, firebird, rebirth, reincarnation",,,,,,,,15.1,3574
-🍋‍🟩,1F34B-200D-1F7E9,food-drink,food-fruit,lime,"citrus, fruit, tropical",,,,,,,,15.1,3649
-🍄‍🟫,1F344-200D-1F7EB,food-drink,food-vegetable,brown mushroom,"food, fungus, nature, vegetable",,,,,,,,15.1,3682
-⛓️‍💥,26D3-FE0F-200D-1F4A5,objects,tool,broken chain,"break, breaking, chain, cuffs, freedom",,,,,,,,15.1,4395

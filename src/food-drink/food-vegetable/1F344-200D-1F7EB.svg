@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="emoji" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 72 72">
+  <g id="grid" display="none">
+    <path d="M68,4v64H4V4h64M72,0H0v72h72V0h0Z" fill="#b3b3b3" stroke-width="0"/>
+    <rect x="11" y="10.9583" width="50" height="50" rx="1.923" ry="1.923" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <rect x="16" y="4" width="40" height="64" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <rect x="4" y="16" width="64" height="40" rx="2.2537" ry="2.2537" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+  </g>
+  <g id="color">
+    <path d="M27.6041,40.5s1.0376,4,0,6-4.291,7.4661,2.0751,9c4.1502,1,10.2892,1.0277,13.4882,0,1.5563-.5,2.7408-4.2944,2.3732-6.5-.5-3-1.5-5-.5-8" fill="#d0cfce" stroke-width="0"/>
+    <path d="M36.5405,15.0058c-5.7532.1508-17.7639,1.7182-20,12.275-2,9.4423,6,13.2192,11,13.2192h17s14,0,12-12.275c-1.7001-10.434-14.0389-13.3754-20-13.2192Z" fill="#a57939" stroke-width="0"/>
+    <ellipse cx="25.0405" cy="23.5039" rx="4.382" ry="2.9089" transform="translate(-9.2718 22.0463) rotate(-40.7545)" fill="#d0cfce" stroke-width="0"/>
+    <path d="M27.7459,46s2.5816,2.9363,8.2533,1.6302c0,0,.0929,3.2719,0,4.3535s-.6673,2.6121-2.3354,3.0475c-2.4915.6502-6.3107-.2851-7.3398-1.7414-1.1156-1.5787,1.422-7.2898,1.422-7.2898h-.0001Z" fill="#d0cfce" stroke-width="0"/>
+  </g>
+  <g id="line">
+    <path d="M27.5405,40.5s1,4,0,6-2.5,7.5,2,9c3.9115,1.3038,12.5,1.5,14.5-1.5s0-5,0-8" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M36.2058,14.5058c-5.7532.1508-17.7639,1.7182-20,12.275-2,9.4423,6,13.2192,11,13.2192h17s14,0,12-12.275c-1.7001-10.434-14.0389-13.3754-20-13.2192Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

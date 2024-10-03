@@ -49,6 +49,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😮‍💨,1F62E-200D-1F4A8,smileys-emotion,face-neutral-skeptical,face exhaling,"exhale, gasp, groan, relief, whisper, whistle",,Nelly Nieter,2021-04-23,,,,,13.1,50
 🤥,1F925,smileys-emotion,face-neutral-skeptical,lying face,"face, lie, pinocchio",,Emily Jäger,2018-04-18,,,,,3,51
 🫨,1FAE8,smileys-emotion,face-neutral-skeptical,shaking face,"earthquake, face, shaking, shock, vibrate",,Linda Hartmann,2023-10-25,,,,,15,52
+🙂‍↔️,1F642-200D-2194-FE0F,smileys-emotion,face-neutral-skeptical,head shaking horizontally,"no, shake",,Vanessa Stoessinger,2024-10-03,,,,,15.1,53
+🙂‍↕️,1F642-200D-2195-FE0F,smileys-emotion,face-neutral-skeptical,head shaking vertically,"nod, yes",,Annika Raue,2024-10-03,,,,,15.1,55
 😌,1F60C,smileys-emotion,face-sleepy,relieved face,"face, relieved",,Mariella Steeb,2018-04-18,,,,,0.6,57
 😔,1F614,smileys-emotion,face-sleepy,pensive face,"dejected, face, pensive",,Mariella Steeb,2018-04-18,,,,,0.6,58
 😪,1F62A,smileys-emotion,face-sleepy,sleepy face,"face, good night, sleep",,Mariella Steeb,2018-04-18,,,,,0.6,59
@@ -2312,6 +2314,10 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 👥,1F465,people-body,person-symbol,busts in silhouette,"bust, silhouette",,Johanna Wellnitz,2018-04-18,,,,,1,3467
 🫂,1FAC2,people-body,person-symbol,people hugging,"goodbye, hello, hug, thanks",,Kai Wanschura,2018-04-18,,,,,13,3468
 👪️,1F46A,people-body,person-symbol,family,family,,Lisa Schulz,2018-04-18,,,,,0.6,3469
+🧑‍🧑‍🧒,1F9D1-200D-1F9D1-200D-1F9D2,people-body,person-symbol,"family: adult, adult, child","family: adult, adult, child",,Daniel Utz,2024-10-03,,,,,15.1,3470
+🧑‍🧑‍🧒‍🧒,1F9D1-200D-1F9D1-200D-1F9D2-200D-1F9D2,people-body,person-symbol,"family: adult, adult, child, child","family: adult, adult, child, child",,Daniel Utz,2024-10-03,,,,,15.1,3471
+🧑‍🧒,1F9D1-200D-1F9D2,people-body,person-symbol,"family: adult, child","family: adult, child",,Daniel Utz,2024-10-03,,,,,15.1,3472
+🧑‍🧒‍🧒,1F9D1-200D-1F9D2-200D-1F9D2,people-body,person-symbol,"family: adult, child, child","family: adult, child, child",,Daniel Utz,2024-10-03,,,,,15.1,3473
 👣,1F463,people-body,person-symbol,footprints,"clothing, footprint, print",,Julian Grüneberg,2018-04-18,,,,,0.6,3474
 🏻,1F3FB,component,skin-tone,light skin tone,"skin tone, type 1–2",,Benedikt Groß,2019-05-07,,,,,1,3475
 🏼,1F3FC,component,skin-tone,medium-light skin tone,"skin tone, type 3",,Benedikt Groß,2019-05-07,,,,,1,3476
@@ -2409,6 +2415,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🪽,1FABD,animals-nature,animal-bird,wing,"angelic, aviation, bird, flying, mythology",,Kathrin Gerold,2023-10-25,,,,,15,3571
 🐦‍⬛,1F426-200D-2B1B,animals-nature,animal-bird,black bird,"bird, black, crow, raven, rook",,Jasmin Fassler,2023-10-06,,,,,15,3572
 🪿,1FABF,animals-nature,animal-bird,goose,"bird, fowl, honk, silly",,Paul Gabriel,2023-10-25,,,,,15,3573
+🐦‍🔥,1F426-200D-1F525,animals-nature,animal-bird,phoenix,"fantasy, firebird, rebirth, reincarnation",,Vanessa Stoessinger,2024-10-03,,,,,15.1,3574
 🐸,1F438,animals-nature,animal-amphibian,frog,face,,Selina Bauder,2018-04-18,,,,,0.6,3575
 🐊,1F40A,animals-nature,animal-reptile,crocodile,crocodile,,Selina Bauder,2018-04-18,,,,,1,3576
 🐢,1F422,animals-nature,animal-reptile,turtle,"terrapin, tortoise",,Robert Winslow,2022-03-29,,,,,0.6,3577
@@ -2479,6 +2486,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🍉,1F349,food-drink,food-fruit,watermelon,fruit,,Marius Schnabel,2018-04-18,,,,,0.6,3646
 🍊,1F34A,food-drink,food-fruit,tangerine,"fruit, orange",,Liz Bravo,2021-05-04,,,,,0.6,3647
 🍋,1F34B,food-drink,food-fruit,lemon,"citrus, fruit",,Marius Schnabel,2018-04-18,,,,,1,3648
+🍋‍🟩,1F34B-200D-1F7E9,food-drink,food-fruit,lime,"citrus, fruit, tropical",,Annika Raue,2024-10-03,,,,,15.1,3649
 🍌,1F34C,food-drink,food-fruit,banana,fruit,,Marius Schnabel,2018-04-18,,,,,0.6,3650
 🍍,1F34D,food-drink,food-fruit,pineapple,fruit,,Marius Schnabel,2018-04-18,,,,,0.6,3651
 🥭,1F96D,food-drink,food-fruit,mango,"fruit, tropical",,Ricarda Krejci,2019-05-07,,,,,11,3652
@@ -2510,6 +2518,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🌰,1F330,food-drink,food-vegetable,chestnut,plant,,Hend Hourani,2018-11-16,,,,,0.6,3679
 🫚,1FADA,food-drink,food-vegetable,ginger root,"beer, root, spice",,Jennifer Zhu,2023-10-25,,,,,15,3680
 🫛,1FADB,food-drink,food-vegetable,pea pod,"beans, edamame, legume, pea, pod, vegetable",,Sonja Partheymüller,2023-10-25,,,,,15,3681
+🍄‍🟫,1F344-200D-1F7EB,food-drink,food-vegetable,brown mushroom,"food, fungus, nature, vegetable",,Annika Raue,2024-10-03,,,,,15.1,3682
 🍞,1F35E,food-drink,food-prepared,bread,loaf,,Miriam Vollmeier,2018-04-18,,,,,0.6,3683
 🥐,1F950,food-drink,food-prepared,croissant,"bread, breakfast, food, french, roll",,Miriam Vollmeier,2018-04-18,,,,,3,3684
 🥖,1F956,food-drink,food-prepared,baguette bread,"baguette, bread, food, french",,Miriam Vollmeier,2018-04-18,,,,,3,3685
@@ -3118,6 +3127,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ⚖️,2696,objects,tool,balance scale,"balance, justice, libra, scale, zodiac",,Hilda Kalyoncu,2018-04-18,,,,,1,4392
 🦯,1F9AF,objects,tool,white cane,"accessibility, blind",,Sam Eckert,2019-05-06,,,,,12,4393
 🔗,1F517,objects,tool,link,link,,Hilda Kalyoncu,2018-04-18,,,,,0.6,4394
+⛓️‍💥,26D3-FE0F-200D-1F4A5,objects,tool,broken chain,"break, breaking, chain, cuffs, freedom",,Vanessa Stoessinger,2024-10-03,,,,,15.1,4395
 ⛓️,26D3,objects,tool,chains,chain,,Hilda Kalyoncu,2018-04-18,,,,,0.7,4398
 🪝,1FA9D,objects,tool,hook,"catch, crook, curve, ensnare, selling point",,Liz Bravo,2020-04-11,,,,,13,4399
 🧰,1F9F0,objects,tool,toolbox,"chest, mechanic, tool",,Tonia Reinhardt,2019-05-07,,,,,11,4400
