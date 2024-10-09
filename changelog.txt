@@ -19,11 +19,12 @@ New:
 
 Improvements:
   * blue heart emoji should be blue not light blue #483
-  * fixed grid of Colorado subdivision flag @xavizardKnight #496
+  * fixed grid of Colorado subdivision flag by @xavizardKnight #496
 
 Fix:
   * Correct versions of TTFs font files #486
   * Lobster (1F99E) was missing some transparency #490
+  * Martinique flag to new official flag updated by @nataliakeniganti #517 #519
 
 --------------------------------------------------------------------------------
 
