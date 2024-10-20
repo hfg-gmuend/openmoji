@@ -15,6 +15,7 @@ New:
   + 15.1 emojis: head shaking horizontally/vertically,
     more families, phoenix, lime, brown mushroom, broken chain
     by Annika Raue, Vanessa Stoessinger and Daniel Utz
+  + Flipped person-activities by Andrew Sachen
 
 
 Improvements:
