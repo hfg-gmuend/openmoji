@@ -615,6 +615,7 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🗣️,1F5E3,"human, person",Johanna Wellnitz,2018-04-18
 🚶,1F6B6,"human, person",Johanna Wellnitz,2018-04-18
 🏃,1F3C3,"human, person",Johanna Wellnitz,2018-04-18
+🏃‍➡️,1F3C3-200D-27A1-FE0F,"human, person",Andrew Sachen,2024-10-20
 👯,1F46F,"human, person",Johanna Wellnitz,2018-04-18
 💆,1F486,"human, person",Johanna Wellnitz,2018-04-18
 💇,1F487,"human, person",Johanna Wellnitz,2018-04-18
@@ -1445,7 +1446,9 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 ♥️,2665,,Nicole Kornhaas,2019-05-06
 ♦️,2666,,Nicole Kornhaas,2019-05-06
 🏃‍♀️,1F3C3-200D-2640-FE0F,,Rifat Erdogan,2019-05-06
+🏃‍♀️‍➡️,1F3C3-200D-2640-FE0F-200D-27A1-FE0F,,Andrew Sachen,2024-10-20
 🏃‍♂️,1F3C3-200D-2642-FE0F,,Rifat Erdogan,2019-05-06
+🏃‍♂️‍➡️,1F3C3-200D-2642-FE0F-200D-27A1-FE0F,,Andrew Sachen,2024-10-20
 👯‍♀️,1F46F-200D-2640-FE0F,,Rifat Erdogan,2019-05-06
 👯‍♂️,1F46F-200D-2642-FE0F,,Rifat Erdogan,2019-05-06
 💁‍♀️,1F481-200D-2640-FE0F,,Rifat Erdogan,2019-05-06
