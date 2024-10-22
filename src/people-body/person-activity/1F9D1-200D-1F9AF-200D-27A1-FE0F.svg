@@ -6,13 +6,13 @@
     <rect x="16" y="4" rx="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
-  <g id="color" transform=" scale(-1, 1) translate(-72, 0)">
+  <g id="color" transform="scale(-1, 1) translate(-72, 0)">
     <g id="skin">
       <circle cx="41.2264" cy="10.1266" r="3" fill="#fcea2b"/>
       <path fill="#fcea2b" d="M49.05,19.1578l-3.458-1.333-9.709-.2085-3.416,4.458-.542,4.2915-1.667,1.167-6.666-6.1665s-1.459,1.729-.459,3.104,3.7881,5.3242,5.916,5.7285a4.1625,4.1625,0,0,0,4.375-1.416,13.9159,13.9159,0,0,0,1.834-5.75l-1.7,41h3.3l3.4-25h2l3.4,25h3.3l-1.7-41S49.952,39.724,50.94,41.149a1.3558,1.3558,0,0,0,2.3546.2476Z"/>
     </g>
   </g>
-  <g id="line" transform=" scale(-1, 1) translate(-72, 0)">
+  <g id="line" transform="scale(-1, 1) translate(-72, 0)">
     <g>
       <g id="line-2">
         <circle cx="41.2264" cy="10.1266" r="3" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
@@ -22,7 +22,7 @@
       <line x1="24.1997" x2="19.7347" y1="22.101" y2="61.6725" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
     </g>
   </g>
-  <g id="color-foreground" transform=" scale(-1, 1) translate(-72, 0)">
+  <g id="color-foreground" transform="scale(-1, 1) translate(-72, 0)">
     <g>
       <line x1="22.3616" x2="18.8126" y1="21.6975" y2="52.5305" fill="none" stroke="#d0cfce" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
       <line x1="18.8126" x2="17.7371" y1="52.5305" y2="62.0921" fill="none" stroke="#d22f27" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
