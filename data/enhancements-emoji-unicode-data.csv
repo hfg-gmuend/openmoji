@@ -614,12 +614,16 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🕺,1F57A,"human, person",Johanna Wellnitz,2018-04-18
 🗣️,1F5E3,"human, person",Johanna Wellnitz,2018-04-18
 🚶,1F6B6,"human, person",Johanna Wellnitz,2018-04-18
+🚶‍➡️,1F6B6-200D-27A1-FE0F,"human, person",Johanna Wellnitz,2018-04-18
 🏃,1F3C3,"human, person",Johanna Wellnitz,2018-04-18
+🏃‍➡️,1F3C3-200D-27A1-FE0F,"human, person",Johanna Wellnitz,2018-04-18
 👯,1F46F,"human, person",Johanna Wellnitz,2018-04-18
 💆,1F486,"human, person",Johanna Wellnitz,2018-04-18
 💇,1F487,"human, person",Johanna Wellnitz,2018-04-18
 🚶‍♀️,1F6B6-200D-2640-FE0F,"human, person",Johanna Wellnitz,2018-04-18
+🚶‍♀️‍➡️,1F6B6-200D-2640-FE0F-200D-27A1-FE0F,"human, person",Johanna Wellnitz,2018-04-18
 🚶‍♂️,1F6B6-200D-2642-FE0F,"human, person",Johanna Wellnitz,2018-04-18
+🚶‍♂️‍➡️,1F6B6-200D-2642-FE0F-200D-27A1-FE0F,"human, person",Johanna Wellnitz,2018-04-18
 🛌,1F6CC,"human, person",Johanna Wellnitz,2018-04-18
 🧗,1F9D7,"human, person",Johanna Wellnitz,2018-04-18
 🧘,1F9D8,"human, person, exercise",Johanna Wellnitz,2018-04-18
@@ -1445,7 +1449,9 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 ♥️,2665,,Nicole Kornhaas,2019-05-06
 ♦️,2666,,Nicole Kornhaas,2019-05-06
 🏃‍♀️,1F3C3-200D-2640-FE0F,,Rifat Erdogan,2019-05-06
+🏃‍♀️‍➡️,1F3C3-200D-2640-FE0F-200D-27A1-FE0F,,Rifat Erdogan,2019-05-06
 🏃‍♂️,1F3C3-200D-2642-FE0F,,Rifat Erdogan,2019-05-06
+🏃‍♂️‍➡️,1F3C3-200D-2642-FE0F-200D-27A1-FE0F,,Rifat Erdogan,2019-05-06
 👯‍♀️,1F46F-200D-2640-FE0F,,Rifat Erdogan,2019-05-06
 👯‍♂️,1F46F-200D-2642-FE0F,,Rifat Erdogan,2019-05-06
 💁‍♀️,1F481-200D-2640-FE0F,,Rifat Erdogan,2019-05-06
@@ -1537,7 +1543,9 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🆙,1F199,,Laura Dworatschek,2019-05-06
 🎌,1F38C,,Laura Dworatschek,2019-05-06
 👨‍🦼,1F468-200D-1F9BC,,Laura Dworatschek,2019-05-06
+👨‍🦼‍➡️,1F468-200D-1F9BC-200D-27A1-FE0F,,Laura Dworatschek,2019-05-06
 👩‍🦼,1F469-200D-1F9BC,,Laura Dworatschek,2019-05-06
+👩‍🦼‍➡️,1F469-200D-1F9BC-200D-27A1-FE0F,,Laura Dworatschek,2019-05-06
 🤍,1F90D,,Laura Dworatschek,2019-05-06
 🤎,1F90E,,Laura Dworatschek,2019-05-06
 🤏,1F90F,,Laura Dworatschek,2019-05-06
@@ -1549,8 +1557,11 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🧍‍♂️,1F9CD-200D-2642-FE0F,,Laura Dworatschek,2019-05-06
 🧍,1F9CD,,Laura Dworatschek,2019-05-06
 🧎‍♀️,1F9CE-200D-2640-FE0F,,Laura Dworatschek,2019-05-06
+🧎‍♀️‍➡️,1F9CE-200D-2640-FE0F-200D-27A1-FE0F,,Laura Dworatschek,2019-05-06
 🧎‍♂️,1F9CE-200D-2642-FE0F,,Laura Dworatschek,2019-05-06
+🧎‍♂️‍➡️,1F9CE-200D-2642-FE0F-200D-27A1-FE0F,,Laura Dworatschek,2019-05-06
 🧎,1F9CE,,Laura Dworatschek,2019-05-06
+🧎‍➡️,1F9CE-200D-27A1-FE0F,,Laura Dworatschek,2019-05-06
 🧏,1F9CF,,Laura Dworatschek,2019-05-06
 Ⓜ️,24C2,,Laura Dworatschek,2019-05-06
 #️⃣,0023-FE0F-20E3,,Selina Lange,2019-05-06
@@ -1629,9 +1640,13 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🉐,1F250,,Yasmin Abdullahi,2019-05-07
 🐕‍🦺,1F415-200D-1F9BA,,Yasmin Abdullahi,2019-05-07
 👨‍🦯,1F468-200D-1F9AF,,Yasmin Abdullahi,2019-05-07
+👨‍🦯‍➡️,1F468-200D-1F9AF-200D-27A1-FE0F,,Yasmin Abdullahi,2019-05-07
 👨‍🦽,1F468-200D-1F9BD,,Yasmin Abdullahi,2019-05-07
+👨‍🦽‍➡️,1F468-200D-1F9BD-200D-27A1-FE0F,,Yasmin Abdullahi,2019-05-07
 👩‍🦯,1F469-200D-1F9AF,,Yasmin Abdullahi,2019-05-07
+👩‍🦯‍➡️,1F469-200D-1F9AF-200D-27A1-FE0F,,Yasmin Abdullahi,2019-05-07
 👩‍🦽,1F469-200D-1F9BD,,Yasmin Abdullahi,2019-05-07
+👩‍🦽‍➡️,1F469-200D-1F9BD-200D-27A1-FE0F,,Yasmin Abdullahi,2019-05-07
 🦥,1F9A5,,Yasmin Abdullahi,2019-05-07
 🦦,1F9A6,,Yasmin Abdullahi,2019-05-07
 🦧,1F9A7,,Yasmin Abdullahi,2019-05-07
@@ -1740,8 +1755,11 @@ emoji,hexcode,openmoji_tags,openmoji_author,openmoji_date
 🧑‍🚀,1F9D1-200D-1F680,,Benedikt Groß,2020-01-15
 🧑‍🚒,1F9D1-200D-1F692,,Benedikt Groß,2020-01-15
 🧑‍🦯,1F9D1-200D-1F9AF,,Benedikt Groß,2020-01-15
+🧑‍🦯‍➡️,1F9D1-200D-1F9AF-200D-27A1-FE0F,,Benedikt Groß,2020-01-15
 🧑‍🦼,1F9D1-200D-1F9BC,,Benedikt Groß,2020-01-15
+🧑‍🦼‍➡️,1F9D1-200D-1F9BC-200D-27A1-FE0F,,Benedikt Groß,2020-01-15
 🧑‍🦽,1F9D1-200D-1F9BD,,Benedikt Groß,2020-01-15
+🧑‍🦽‍➡️,1F9D1-200D-1F9BD-200D-27A1-FE0F,,Benedikt Groß,2020-01-15
 🪡,1FAA1,,Liz Bravo,2020-03-28
 🪤,1FAA4,isometric,Liz Bravo,2020-03-28
 🪧,1FAA7,,Liz Bravo,2020-03-28
