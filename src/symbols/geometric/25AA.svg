@@ -7,7 +7,7 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <rect id="kleines_schwarzes_quadrat_color_1" x="23.0094" y="23.0511" width="25.9812" height="25.9812"/>
+    <rect id="kleines_schwarzes_quadrat_color_1" fill="#3F3F3F" x="23.0094" y="23.0511" width="25.9812" height="25.9812"/>
   </g>
   <g id="line">
     <rect id="kleines_schwarzes_quadrat_line_1" x="23.0094" y="23.0511" width="25.9812" height="25.9812" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
