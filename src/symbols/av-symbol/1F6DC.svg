@@ -7,7 +7,7 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a3ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <rect x="12" y="12" width="48" height="48" fill="#61b2e4" stroke-width="0"/>
+    <rect x="12" y="12" width="48" height="48" fill="#92d3f5" stroke-width="0"/>
   </g>
   <g id="line">
     <rect x="12" y="12" rx="0.931" ry="0.931" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
