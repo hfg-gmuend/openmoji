@@ -3,21 +3,21 @@
 - removed
 
 --------------------------------------------------------------------------------
-OpenMoji 15.1 - XX XXX 2024
+
+🎄🛷 OpenMoji 15.1 - 17 Dec 2024
 
 New:
+  + Emoji 15.1: head shaking horizontally/vertically,
+    more families, phoenix, lime, brown mushroom, broken chain
+    by Annika Raue, Vanessa Stoessinger and Daniel Utz
+  + Emoji 15.1: direction-specifying variations of
+    person-activities by Andrew Sachen @RealityRipple #521
   + Washington DC subdivision flag by @Kirylchyk #489
   + Colorado subdivision flag by @alexcochran #491
   + Spain subdivision flags by @xavizardKnight #495
   + More programming languages: .NET, Kotlin, Ruby
     and Golang by @xavizardKnight #495 #498
   + Alabama subdivision flag by @Kirylchyk #497
-  + Emoji 15.1: head shaking horizontally/vertically,
-    more families, phoenix, lime, brown mushroom, broken chain
-    by Annika Raue, Vanessa Stoessinger and Daniel Utz
-  + Emoji 15.1: direction-specifying variations of
-    person-activities by Andrew Sachen @RealityRipple #521
-
 
 Improvements:
   * blue heart emoji should be blue not light blue #483
