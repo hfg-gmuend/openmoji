@@ -71808,6 +71808,23 @@
     "order": ""
   },
   {
+    "emoji": "🏴󠁵󠁳󠁮󠁶󠁿",
+    "hexcode": "1F3F4-E0075-E0073-E006E-E0076-E007F",
+    "group": "extras-unicode",
+    "subgroups": "subdivision-flag",
+    "annotation": "nevada flag",
+    "tags": "",
+    "openmoji_tags": "nevada",
+    "openmoji_author": "Natalia Kenig",
+    "openmoji_date": "2024-12-19",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": "?",
+    "order": ""
+  },
+  {
     "emoji": "-",
     "hexcode": "002D",
     "group": "extras-unicode",
