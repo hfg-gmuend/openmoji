@@ -56,6 +56,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😪,1F62A,smileys-emotion,face-sleepy,sleepy face,"crying, face, good, night, sad, sleep, sleeping, sleepy, tired",,Mariella Steeb,2018-04-18,,,,,0.6,59
 🤤,1F924,smileys-emotion,face-sleepy,drooling face,"drooling, face",,Emily Jäger,2018-04-18,,,,,3,60
 😴,1F634,smileys-emotion,face-sleepy,sleeping face,"bed, bedtime, face, good, goodnight, nap, night, sleep, sleeping, tired, whatever, yawn, zzz",,Emily Jäger,2018-04-18,,,,,1,61
+🫩,1FAE9,smileys-emotion,face-sleepy,face with bags under eyes,"bags, bored, exhausted, eyes, face, fatigued, late, sleepy, tired, weary",,Daniel Utz,2025-02-18,,,,,16,62
 😷,1F637,smileys-emotion,face-unwell,face with medical mask,"cold, dentist, dermatologist, doctor, dr, face, germs, mask, medical, medicine, sick",,Emily Jäger,2018-04-18,,,,,0.6,63
 🤒,1F912,smileys-emotion,face-unwell,face with thermometer,"face, ill, sick, thermometer",,Emily Jäger,2018-04-18,,,,,1,64
 🤕,1F915,smileys-emotion,face-unwell,face with head-bandage,"bandage, face, head-bandage, hurt, injury, ouch",,Emily Jäger,2018-04-18,,,,,1,65
@@ -2427,6 +2428,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧑‍🧒,1F9D1-200D-1F9D2,people-body,person-symbol,"family: adult, child","adult, child, family",,Daniel Utz,2024-10-03,,,,,15.1,3473
 🧑‍🧒‍🧒,1F9D1-200D-1F9D2-200D-1F9D2,people-body,person-symbol,"family: adult, child, child","adult, child, family",,Daniel Utz,2024-10-03,,,,,15.1,3474
 👣,1F463,people-body,person-symbol,footprints,"barefoot, clothing, footprint, omw, print, walk",,Julian Grüneberg,2018-04-18,,,,,0.6,3475
+🫆,1FAC6,people-body,person-symbol,fingerprint,"clue, crime, detective, forensics, identity, mystery, print, safety, trace",,Daniel Utz,2025-02-18,,,,,16,3476
 🏻,1F3FB,component,skin-tone,light skin tone,"1–2, light, skin, tone, type",,Benedikt Groß,2019-05-07,,,,,1,3477
 🏼,1F3FC,component,skin-tone,medium-light skin tone,"3, medium-light, skin, tone, type",,Benedikt Groß,2019-05-07,,,,,1,3478
 🏽,1F3FD,component,skin-tone,medium skin tone,"4, medium, skin, tone, type",,Benedikt Groß,2019-05-07,,,,,1,3479
@@ -2594,6 +2596,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🪹,1FAB9,animals-nature,plant-other,empty nest,"branch, empty, home, nest, nesting",,Alena Peichl,2022-05-09,,,,,14,3648
 🪺,1FABA,animals-nature,plant-other,nest with eggs,"bird, branch, egg, eggs, nest, nesting",,Alena Peichl,2022-05-09,,,,,14,3649
 🍄,1F344,animals-nature,plant-other,mushroom,"fungus, toadstool",,Marius Schnabel,2018-04-18,,,,,0.6,3650
+🪾,1FABE,animals-nature,plant-other,leafless tree,"bare, barren, branches, dead, drought, leafless, tree, trunk, winter, wood",,Daniel Utz,2025-02-18,,,,,16,3651
 🍇,1F347,food-drink,food-fruit,grapes,"dionysus, fruit, grape",,Hend Hourani,2018-11-16,,,,,0.6,3652
 🍈,1F348,food-drink,food-fruit,melon,"cantaloupe, fruit",,Hend Hourani,2018-11-16,,,,,0.6,3653
 🍉,1F349,food-drink,food-fruit,watermelon,fruit,,Marius Schnabel,2018-04-18,,,,,0.6,3654
@@ -2632,6 +2635,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🫚,1FADA,food-drink,food-vegetable,ginger root,"beer, ginger, health, herb, natural, root, spice",,Jennifer Zhu,2023-10-25,,,,,15,3688
 🫛,1FADB,food-drink,food-vegetable,pea pod,"beans, beanstalk, edamame, legume, pea, pod, soybean, vegetable, veggie",,Sonja Partheymüller,2023-10-25,,,,,15,3689
 🍄‍🟫,1F344-200D-1F7EB,food-drink,food-vegetable,brown mushroom,"food, fungi, fungus, mushroom, nature, pizza, portobello, shiitake, shroom, spore, sprout, toppings, truffle, vegetable, vegetarian, veggie",,Annika Raue,2024-10-03,,,,,15.1,3690
+🫜,1FADC,food-drink,food-vegetable,root vegetable,"beet, food, garden, radish, root, salad, turnip, vegetable, vegetarian",,Daniel Utz,2025-02-18,,,,,16,3691
 🍞,1F35E,food-drink,food-prepared,bread,"carbs, food, grain, loaf, restaurant, toast, wheat",,Miriam Vollmeier,2018-04-18,,,,,0.6,3692
 🥐,1F950,food-drink,food-prepared,croissant,"bread, breakfast, crescent, food, french, roll",,Miriam Vollmeier,2018-04-18,,,,,3,3693
 🥖,1F956,food-drink,food-prepared,baguette bread,"baguette, bread, food, french",,Miriam Vollmeier,2018-04-18,,,,,3,3694
@@ -3103,6 +3107,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🪘,1FA98,objects,musical-instrument,long drum,"beat, conga, drum, instrument, long, rhythm",,Liz Bravo,2020-03-03,,,,,13,4227
 🪇,1FA87,objects,musical-instrument,maracas,"cha, dance, instrument, music, party, percussion, rattle, shake, shaker",,Ben Engelhardt,2023-10-25,,,,,15,4228
 🪈,1FA88,objects,musical-instrument,flute,"band, fife, flautist, instrument, marching, music, orchestra, piccolo, pipe, recorder, woodwind",,Christian Engler,2023-10-25,,,,,15,4229
+🪉,1FA89,objects,musical-instrument,harp,"cupid, instrument, love, music, orchestra",,Daniel Utz,2025-02-18,,,,,16,4230
 📱,1F4F1,objects,phone,mobile phone,"cell, communication, mobile, phone, telephone",,Martin Wehl,2018-04-18,,,,,0.6,4231
 📲,1F4F2,objects,phone,mobile phone with arrow,"arrow, build, call, cell, communication, mobile, phone, receive, telephone",,Martin Wehl,2018-04-18,,,,,0.6,4232
 ☎️,260E,objects,phone,telephone,phone,,Kai Wanschura,2018-04-18,,,,,0.6,4234
@@ -3241,6 +3246,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧰,1F9F0,objects,tool,toolbox,"box, chest, mechanic, red, tool",,Tonia Reinhardt,2019-05-07,,,,,11,4405
 🧲,1F9F2,objects,tool,magnet,"attraction, horseshoe, magnetic, negative, positive, shape, u",,Tonia Reinhardt,2019-05-07,,,,,11,4406
 🪜,1FA9C,objects,tool,ladder,"climb, rung, step",,Liz Bravo,2020-09-26,,,,,13,4407
+🪏,1FA8F,objects,tool,shovel,"bury, dig, garden, hole, plant, scoop, snow, spade",,Daniel Utz,2025-02-18,,,,,16,4408
 ⚗️,2697,objects,science,alembic,"chemistry, tool",,Marleen Heine,2018-11-16,,,,,1,4410
 🧪,1F9EA,objects,science,test tube,"chemist, chemistry, experiment, lab, science, test, tube",,Tonia Reinhardt,2019-05-07,,,,,11,4411
 🧫,1F9EB,objects,science,petri dish,"bacteria, biologist, biology, culture, dish, lab, petri",,Tonia Reinhardt,2019-05-07,,,,,11,4412
@@ -3426,6 +3432,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ©️,00A9,symbols,other-symbol,copyright,c,,Carlin MacKenzie,2020-06-06,,,,,0.6,4649
 ®️,00AE,symbols,other-symbol,registered,r,,Carlin MacKenzie,2020-06-06,,,,,0.6,4651
 ™️,2122,symbols,other-symbol,trade mark,"mark, tm, trade, trademark",,Carlin MacKenzie,2020-06-06,,,,,0.6,4653
+🫟,1FADF,symbols,other-symbol,splatter,"drip, holi, ink, liquid, mess, paint, spill, stain",,Daniel Utz,2025-02-18,,,,,16,4654
 #️⃣,0023-FE0F-20E3,symbols,keycap,keycap: #,keycap,,Selina Lange,2019-05-06,,,,,0.6,4655
 *️⃣,002A-FE0F-20E3,symbols,keycap,keycap: *,keycap,,Selina Lange,2019-05-06,,,,,2,4657
 0️⃣,0030-FE0F-20E3,symbols,keycap,keycap: 0,keycap,,Selina Lange,2019-05-06,,,,,0.6,4659

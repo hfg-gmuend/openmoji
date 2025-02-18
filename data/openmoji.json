@@ -969,6 +969,23 @@
     "order": 61
   },
   {
+    "emoji": "🫩",
+    "hexcode": "1FAE9",
+    "group": "smileys-emotion",
+    "subgroups": "face-sleepy",
+    "annotation": "face with bags under eyes",
+    "tags": "bags, bored, exhausted, eyes, face, fatigued, late, sleepy, tired, weary",
+    "openmoji_tags": "",
+    "openmoji_author": "Daniel Utz",
+    "openmoji_date": "2025-02-18",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 16,
+    "order": 62
+  },
+  {
     "emoji": "😷",
     "hexcode": "1F637",
     "group": "smileys-emotion",
@@ -41276,6 +41293,23 @@
     "order": 3475
   },
   {
+    "emoji": "🫆",
+    "hexcode": "1FAC6",
+    "group": "people-body",
+    "subgroups": "person-symbol",
+    "annotation": "fingerprint",
+    "tags": "clue, crime, detective, forensics, identity, mystery, print, safety, trace",
+    "openmoji_tags": "",
+    "openmoji_author": "Daniel Utz",
+    "openmoji_date": "2025-02-18",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 16,
+    "order": 3476
+  },
+  {
     "emoji": "🏻",
     "hexcode": "1F3FB",
     "group": "component",
@@ -44115,6 +44149,23 @@
     "order": 3650
   },
   {
+    "emoji": "🪾",
+    "hexcode": "1FABE",
+    "group": "animals-nature",
+    "subgroups": "plant-other",
+    "annotation": "leafless tree",
+    "tags": "bare, barren, branches, dead, drought, leafless, tree, trunk, winter, wood",
+    "openmoji_tags": "",
+    "openmoji_author": "Daniel Utz",
+    "openmoji_date": "2025-02-18",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 16,
+    "order": 3651
+  },
+  {
     "emoji": "🍇",
     "hexcode": "1F347",
     "group": "food-drink",
@@ -44759,6 +44810,23 @@
     "skintone_base_hexcode": "",
     "unicode": 15.1,
     "order": 3690
+  },
+  {
+    "emoji": "🫜",
+    "hexcode": "1FADC",
+    "group": "food-drink",
+    "subgroups": "food-vegetable",
+    "annotation": "root vegetable",
+    "tags": "beet, food, garden, radish, root, salad, turnip, vegetable, vegetarian",
+    "openmoji_tags": "",
+    "openmoji_author": "Daniel Utz",
+    "openmoji_date": "2025-02-18",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 16,
+    "order": 3691
   },
   {
     "emoji": "🍞",
@@ -52768,6 +52836,23 @@
     "order": 4229
   },
   {
+    "emoji": "🪉",
+    "hexcode": "1FA89",
+    "group": "objects",
+    "subgroups": "musical-instrument",
+    "annotation": "harp",
+    "tags": "cupid, instrument, love, music, orchestra",
+    "openmoji_tags": "",
+    "openmoji_author": "Daniel Utz",
+    "openmoji_date": "2025-02-18",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 16,
+    "order": 4230
+  },
+  {
     "emoji": "📱",
     "hexcode": "1F4F1",
     "group": "objects",
@@ -55112,6 +55197,23 @@
     "skintone_base_hexcode": "",
     "unicode": 13,
     "order": 4407
+  },
+  {
+    "emoji": "🪏",
+    "hexcode": "1FA8F",
+    "group": "objects",
+    "subgroups": "tool",
+    "annotation": "shovel",
+    "tags": "bury, dig, garden, hole, plant, scoop, snow, spade",
+    "openmoji_tags": "",
+    "openmoji_author": "Daniel Utz",
+    "openmoji_date": "2025-02-18",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 16,
+    "order": 4408
   },
   {
     "emoji": "⚗️",
@@ -58257,6 +58359,23 @@
     "skintone_base_hexcode": "",
     "unicode": 0.6,
     "order": 4653
+  },
+  {
+    "emoji": "🫟",
+    "hexcode": "1FADF",
+    "group": "symbols",
+    "subgroups": "other-symbol",
+    "annotation": "splatter",
+    "tags": "drip, holi, ink, liquid, mess, paint, spill, stain",
+    "openmoji_tags": "",
+    "openmoji_author": "Daniel Utz",
+    "openmoji_date": "2025-02-18",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 16,
+    "order": 4654
   },
   {
     "emoji": "#️⃣",
