@@ -1,11 +1,4 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="grid">
-    <path fill="#b3b3b3" d="M68,4v64H4V4h64M72,0H0v72h72V0h0Z"/>
-    <rect x="11" y="10.9583" rx="1.923" ry="1.923" width="50" height="50" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-  </g>
   <g id="line-supplement">
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M50.8109,39.0003c-.6662,1.7251-3.0153,2.9997-5.8109,2.9997s-5.1447-1.2746-5.8109-2.9997"/>
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M32.8109,39.0002c-.6662,1.7251-3.0152,2.9998-5.8109,2.9998s-5.1447-1.2747-5.8109-2.9998"/>

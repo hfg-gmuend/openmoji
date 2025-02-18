@@ -1,11 +1,4 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="grid">
-    <path fill="#b3b3b3" d="M68,4v64H4V4h64M72,0H0v72h72V0h0Z"/>
-    <rect x="11" y="10.9583" rx="1.923" ry="1.923" width="50" height="50" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-  </g>
   <g id="color">
     <path fill="#9b9b9a" d="M13.8017,58.1983c6.2518,3.251,13.2956.9586,17.9845-3.7303l1.8964-1.8964c.8287-.8287.7914-2.2095-.0834-3.0842l-5.5433-5.5433s-5.5433-5.5433-5.5433-5.5433c-.8747-.8747-2.2556-.912-3.0842-.0834l-1.8964,1.8964c-4.6889,4.6889-6.9812,11.7326-3.7303,17.9845Z"/>
     <path fill="#d0cfce" d="M22.5127,43.7056c-.8747-.8747-2.2556-.912-3.0843-.0833l-1.8963,1.8964c-2.5246,2.5245-4.2998,8.1047-3.7303,12.6796,6.2519,3.2509,13.2956.9586,17.9845-3.7303l.7444-.7444-4.4747-4.4746-5.5433-5.5433Z"/>
