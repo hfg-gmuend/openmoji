@@ -60843,6 +60843,23 @@
     "order": 4831
   },
   {
+    "emoji": "🇨🇶",
+    "hexcode": "1F1E8-1F1F6",
+    "group": "flags",
+    "subgroups": "country-flag",
+    "annotation": "flag: Sark",
+    "tags": "CQ, flag",
+    "openmoji_tags": "",
+    "openmoji_author": "Daniel Utz",
+    "openmoji_date": "2025-02-27",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 16,
+    "order": 4832
+  },
+  {
     "emoji": "🇨🇷",
     "hexcode": "1F1E8-1F1F7",
     "group": "flags",
