@@ -8,10 +8,11 @@
   </g>
   <g id="color">
     <rect x="5" y="17" width="62" height="38"/>
-    <rect x="5" y="17" width="62" height="13" fill="#d22f27"/>
+    <rect x="5" y="17" width="62" height="13" fill="#5c9e31" stroke="#5c9e31" stroke-linecap="round" stroke-linejoin="round"/>
     <rect x="5" y="30" width="62" height="12" fill="#fff"/>
-    <polygon fill="#5c9e31" stroke="#5c9e31" stroke-linecap="round" stroke-linejoin="round" points="28.5 33.59 30.045 38.59 26 35.5 31 35.5 26.955 38.59 28.5 33.59"/>
-    <polygon fill="#5c9e31" stroke="#5c9e31" stroke-linecap="round" stroke-linejoin="round" points="43.5 33.59 45.045 38.59 41 35.5 46 35.5 41.955 38.59 43.5 33.59"/>
+    <polygon fill="#d22f27" stroke="#d22f27" stroke-linecap="round" stroke-linejoin="round" points="21 33.09 22.8539 39.09 18 35.382 24 35.382 19.1461 39.09 21 33.09"/>
+    <polygon fill="#d22f27" stroke="#d22f27" stroke-linecap="round" stroke-linejoin="round" points="36 33.09 37.8539 39.09 33 35.382 39 35.382 34.1461 39.09 36 33.09"/>
+    <polygon fill="#d22f27" stroke="#d22f27" stroke-linecap="round" stroke-linejoin="round" points="51 33.09 52.8539 39.09 48 35.382 54 35.382 49.1461 39.09 51 33.09"/>
   </g>
   <g id="line">
     <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

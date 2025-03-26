@@ -5,6 +5,9 @@
 --------------------------------------------------------------------------------
 OpenMoji 16 - XX YYY 2024
 
+Fix:
+  * 1F1F8-1F1FE update the Syria flag to the new official flag #533
+
 New:
   + Emoji 16: 1FA89, 1FA8F, 1FABE, 1FAC6, 1FADC, 1FADF
     and 1FAE9 by Daniel Utz
