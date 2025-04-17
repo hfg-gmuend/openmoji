@@ -12,6 +12,9 @@ New:
   + Emoji 16: 1FA89, 1FA8F, 1FABE, 1FAC6, 1FADC, 1FADF
     and 1FAE9 by Daniel Utz
 
+Tech:
+  * Fix libxmljs 404s by bumping its patch version #535 by @kili-ilo
+
 --------------------------------------------------------------------------------
 
 🎄🛷 OpenMoji 15.1 - 17 Dec 2024
