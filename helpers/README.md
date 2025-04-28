@@ -25,8 +25,6 @@ This folder `helpers/` Contains various helper scripts e.g. to export to .png an
 - `find-emojis.js` sub script used by generate.sh
 - `force-color-palette-svg.js` helper to force the OpenMoji colors for all svg files in the src folder
 - `npm run generate-data-tables` generate files in data folder eg. openmoji.json
-- `generate-font-css.js` generate css file to be used with OpenMoji fonts
-- `generate-font-glyphs.js` copy all svg glyph files to font folder in preparation for font generator
 - `npm run lint-sh` lint all bash script in the helpers folder
 - `npm run pretty-src-svg` pretty all svg files in the src folder
 - `generate-index-html.js` generate overview grid index.html
