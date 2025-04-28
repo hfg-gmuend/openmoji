@@ -30,7 +30,7 @@
     "export-openmoji-ios": "node helpers/export-openmoji-ios.js",
     "generate-data-tables": "node helpers/generate-data-tables.js",
     "generate": "./helpers/generate.sh",
-    "generate-font": "./helpers/generate-fonts.sh",
+    "generate-fonts": "./helpers/generate-fonts.sh",
     "cache-clear": "for ref in export-png-618 export-png-72 export-svg-color export-svg-skintones pretty-src-svg; do git update-ref -d refs/memos/$ref; done",
     "cc": "npm run cache-clear",
     "show-extras-hexcodes": "node helpers/show-extras-hexcodes.js"

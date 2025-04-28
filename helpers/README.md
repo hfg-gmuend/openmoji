@@ -8,7 +8,7 @@ This folder `helpers/` Contains various helper scripts e.g. to export to .png an
 ## Big helpers
 
 - `npm run generate` generate everything
-- `npm run generate-font` generate the OpenMoji fonts
+- `npm run generate-fonts` generate the OpenMoji fonts
 
 
 
