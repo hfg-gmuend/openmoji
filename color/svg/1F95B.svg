@@ -1,11 +1,9 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="color">
-    <polygon fill="#fff" points="19.275 27.5981 17.7577 17.4832 53.9674 17.7964 52.7771 27.444 19.275 27.5981"/>
-    <polyline fill="#fff" points="53.545 27.9395 48.35 67 24.6 67 18.6794 28.0487"/>
-    <polygon fill="#d0cfce" points="43.404 29 38.35 67 48.35 67 53.404 29 43.404 29"/>
+    <polygon fill="#fff" points="53.545 28 48.35 67 24.6 67 18.6794 28"/>
+    <polygon fill="#d0cfce" points="43.404 28 38.35 67 48.35 67 53.404 28"/>
   </g>
   <g id="line">
-    <polygon fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="48.35 67 24.6 67 17 17 55 17 48.35 67"/>
-    <line x1="19.5396" x2="52.7253" y1="28" y2="28" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m17,17L24.6,67L48.35,67L55,17"/>
   </g>
 </svg>

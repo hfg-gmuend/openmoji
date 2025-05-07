@@ -11,6 +11,6 @@
     <polygon fill="#d0cfce" points="43.404 28 38.35 67 48.35 67 53.404 28"/>
   </g>
   <g id="line">
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke-miterlimit="10" d="m17,17L24.6,67L48.35,67L55,17"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m17,17L24.6,67L48.35,67L55,17"/>
   </g>
 </svg>
