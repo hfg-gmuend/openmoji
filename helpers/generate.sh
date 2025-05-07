@@ -26,6 +26,10 @@ echo "👉 helpers/export-svg.sh"
 helpers/export-svg.sh
 
 echo "-------------------------------------------"
+echo "👉 helpers/pretty-exported-svg.sh"
+helpers/pretty-exported-svg.sh
+
+echo "-------------------------------------------"
 echo "👉 helpers/export-png.sh"
 helpers/export-png.sh
 
