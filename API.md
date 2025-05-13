@@ -11,7 +11,7 @@ Install with [npm](https://www.npmjs.com/package/openmoji):
 
 ## Usage
 
-    > const openmoji = require('openmoji')
+    > import openmoji from 'openmoji'
     > const om = openmoji.openmojis[0]
     > om.emoji
     '😀'
