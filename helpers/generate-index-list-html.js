@@ -1,11 +1,9 @@
 #!/usr/bin/env node
-'use strict';
 
-const path = require('path');
-const fs = require('fs');
-const _ = require('lodash');
+import fs from 'fs';
+import _ from 'lodash';
 
-const emojisList = require('../data/openmoji.json');
+import emojisList from '../data/openmoji.json' assert { type: 'json' };
 
 let html = `\
 <!DOCTYPE html>
