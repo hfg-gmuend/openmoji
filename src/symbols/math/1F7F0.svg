@@ -1,11 +1,11 @@
 <svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
     <g>
-      <path fill="#b3b3b3" d="m68,4v64H4V4h64m4-4H0v72h72V0Z"/>
-      <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="m12.923,10.9583h46.1539c1.0621,0,1.9231.861,1.9231,1.9231v46.1538c0,1.0621-.861,1.9231-1.9231,1.9231H12.9231c-1.0621,0-1.9231-.861-1.9231-1.9231V12.8813c0-1.062.861-1.923,1.923-1.923Z"/>
-      <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-      <rect x="4" y="16" rx="2.2537" ry="2.2537" width="64" height="40" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-      <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+      <path fill="#b399c8" d="m68,4v64H4V4h64m4-4H0v72h72V0Z"/>
+      <path fill="none" stroke="#61b2e4" stroke-miterlimit="10" stroke-width="0.1" d="m12.923,10.9583h46.1539c1.0621,0,1.9231.861,1.9231,1.9231v46.1538c0,1.0621-.861,1.9231-1.9231,1.9231H12.9231c-1.0621,0-1.9231-.861-1.9231-1.9231V12.8813c0-1.062.861-1.923,1.923-1.923Z"/>
+      <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#61b2e4" stroke-miterlimit="10" stroke-width="0.1"/>
+      <rect x="4" y="16" rx="2.2537" ry="2.2537" width="64" height="40" fill="none" stroke="#61b2e4" stroke-miterlimit="10" stroke-width="0.1"/>
+      <circle cx="36" cy="36" r="29" fill="none" stroke="#61b2e4" stroke-miterlimit="10" stroke-width="0.1"/>
     </g>
   </g>
   <g id="color">

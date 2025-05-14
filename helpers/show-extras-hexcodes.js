@@ -1,8 +1,12 @@
-const fs = require('fs');
-const path = require('path');
-const glob = require('glob').sync;
-const { minBy, maxBy, first, range } = require('lodash');
+import _glob from 'glob';
+import lodash from 'lodash';
+import path, { dirname } from 'path';
+import { fileURLToPath } from 'url';
 
+const { minBy, maxBy, first, range } = lodash;
+const { sync: glob } = _glob;
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const srcFiles = glob(path.join(__dirname, '../src/extras-openmoji/**/*.svg'));
 console.log('Found', srcFiles.length, 'extras-openmoji');
@@ -12,9 +16,9 @@ let extras = {};
 srcFiles.forEach(f => {
   const [filename, subgroups, group] = f.split(path.sep).reverse();
   const hexcode = path.basename(filename, '.svg');
-  key = `${group}/${subgroups}`;
+  let key = `${group}/${subgroups}`;
   if (!extras[key]) extras[key] = [];
-  extras[key].push({ hexcode, index: parseInt(hexcode, 16)});
+  extras[key].push({ hexcode, index: parseInt(hexcode, 16) });
 });
 
 for (const [srcPath, hexcodes] of Object.entries(extras)) {

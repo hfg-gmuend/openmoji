@@ -1,24 +1,27 @@
 #!/usr/bin/env node
-'use strict';
 
-const fs = require('fs');
-const path = require('path');
-const _ = require('lodash');
-const chroma = require('chroma-js');
-const KDTree = require('kd-tree-javascript').kdTree;
-const JSDOM = require('jsdom').JSDOM;
+import fs from 'fs';
+import path from 'path';
+import _ from 'lodash';
+import chroma from 'chroma-js';
+import kdTreeJs from 'kd-tree-javascript';
+import { JSDOM } from 'jsdom';
+import colorPaletteJson from '../data/color-palette.json' assert {type: 'json'};
+import emojiElements from '../data/openmoji.json' assert {type: 'json'};
 
+const { kdTree: KDTree } = kdTreeJs;
+const { colors } = colorPaletteJson;
 
 const hexToRGB = (hex) => {
   const rgb = chroma(hex).rgb();
-  return {r: rgb[0], g: rgb[1], b: rgb[2]};
+  return { r: rgb[0], g: rgb[1], b: rgb[2] };
 }
 
 const rgbToHex = (rgb) => {
   return chroma(rgb.r, rgb.g, rgb.b).hex();
 }
 
-let colorPalette = require('../data/color-palette.json').colors;
+let colorPalette = colors;
 colorPalette = colorPalette.map(c => {
   return hexToRGB(c);
 });
@@ -26,7 +29,7 @@ colorPalette = colorPalette.map(c => {
 // setup kdTree to find neareast color in a speedy way
 const tree = new KDTree(
   colorPalette,
-  (a, b) => { return Math.pow( Math.pow(a.r - b.r, 2) + Math.pow(a.g - b.g, 2) + Math.pow(a.b - b.b, 2), 0.5); },
+  (a, b) => { return Math.pow(Math.pow(a.r - b.r, 2) + Math.pow(a.g - b.g, 2) + Math.pow(a.b - b.b, 2), 0.5); },
   ["r", "g", "b"]
 );
 
@@ -68,15 +71,15 @@ const forceColors = (srcFilePath, destFilePath, colorPalette) => {
 }
 
 
-let emojis = require('../data/openmoji.json');
-console.log('Loaded emoijs: ' + emojis.length);
-emojis = _.filter(emojis, (e) => { return e.skintone == ''});
+let emojis = emojiElements;
+console.log('Loaded emojis: ' + emojis.length);
+emojis = _.filter(emojis, (e) => { return e.skintone == '' });
 // exclude the "Emoji Modifier Fitzpatrick"
-emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FB'});
-emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FC'});
-emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FD'});
-emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FE'});
-emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FF'});
+emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FB' });
+emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FC' });
+emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FD' });
+emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FE' });
+emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FF' });
 console.log('Emoijs without skintones: ' + emojis.length);
 
 emojis.forEach(emoji => {

@@ -1,12 +1,10 @@
-const fs = require('fs');
-const path = require('path');
-const _ = require('lodash');
-const chroma = require('chroma-js');
-const KDTree = require('kd-tree-javascript').kdTree;
-const JSDOM = require('jsdom').JSDOM;
-const { exec } = require("child_process");
+import { exec } from 'child_process';
+import fs from 'fs';
+import { JSDOM } from 'jsdom';
+import kdTreeJs from 'kd-tree-javascript';
+import path from 'path';
 
-
+const { kdTree: KDTree } = kdTreeJs;
 const writeSvg = (filePath, data) => {
   fs.writeFileSync(filePath, data);
 }
@@ -42,20 +40,20 @@ const prettyfyFigmaSVG = (srcFilePath, destFilePath) => {
     parent.removeChild(rootGroup);
   }
 
-  doc.querySelector('svg').setAttribute('id','emoji');
+  doc.querySelector('svg').setAttribute('id', 'emoji');
 
   console.log('cleaning up -> ', srcFilePath);
   fs.unlinkSync(srcFilePath);
   writeSvg(destFilePath, doc.querySelector('svg').outerHTML);
-  
+
   exec(`./node_modules/.bin/svgo ${destFilePath} --config helpers/beautify-svg.yml`, (error, stdout, stderr) => {
     if (error) {
-        console.log(`SVGO failed: ${error.message}`);
-        return;
+      console.log(`SVGO failed: ${error.message}`);
+      return;
     }
     if (stderr) {
-        console.log(`SVGO failed: ${stderr}`);
-        return;
+      console.log(`SVGO failed: ${stderr}`);
+      return;
     }
     console.log(`File beautified with SVGO: ${stdout}`);
   });
@@ -63,11 +61,11 @@ const prettyfyFigmaSVG = (srcFilePath, destFilePath) => {
 
 function searchDirectoryForFigma(startPath) {
   let files = fs.readdirSync(startPath);
-  for(let i = 0; i < files.length; i++){
-    let filename = path.join(startPath,files[i]);
+  for (let i = 0; i < files.length; i++) {
+    let filename = path.join(startPath, files[i]);
     let stat = fs.lstatSync(filename);
-    if (stat.isDirectory()){
-       searchDirectoryForFigma(filename);
+    if (stat.isDirectory()) {
+      searchDirectoryForFigma(filename);
     }
     else if (filename.indexOf('.figma.svg') >= 0) {
       prettyfyFigmaSVG(filename, filename.replace('.figma.svg', '.svg'));

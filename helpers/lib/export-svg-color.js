@@ -1,9 +1,7 @@
 #!/usr/bin/env node
-'use strict';
-
-const fs = require('fs');
-const path = require('path');
-const JSDOM = require('jsdom').JSDOM;
+import fs from 'fs';
+import path from 'path';
+import { JSDOM } from 'jsdom';
 
 const folderSrc = './src';
 const folderOut = './color/svg';
@@ -21,7 +19,7 @@ const generateSvg = (srcFilePath, destFilePath) => {
 }
 
 // Construct an index of emojis by target path for fast lookup.
-const emojis = require('../../data/openmoji.json');
+import emojis from '../../data/openmoji.json' assert {type: 'json'};
 const emojisByTarget = {};
 for (const e of emojis) {
   const target = path.join(folderOut, e.hexcode + '.svg');

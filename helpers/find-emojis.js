@@ -1,11 +1,10 @@
 #!/usr/bin/env node
-'use strict';
 
 // This utility prints all the hexcodes of emojis with matching hexcodes or
 // annotations.
 // With no arguments, lists all hexcodes.
 
-const data = require('../data/openmoji.json');
+import data from '../data/openmoji.json' assert {type: 'json'};
 
 const makeMatcher = (value) => (entry) =>
   value == entry.hexcode ||
