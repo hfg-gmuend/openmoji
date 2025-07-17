@@ -7,13 +7,14 @@ OpenMoji 16 - XX YYY 2024
 
 Fix:
   * 1F1F8-1F1FE update the Syria flag to the new official flag #533
+  * Improvements for some white fills for dark backgrounds by @kili-ilo #538
 
 New:
   + Emoji 16: 1FA89, 1FA8F, 1FABE, 1FAC6, 1FADC, 1FADF
     and 1FAE9 by Daniel Utz
 
 Tech:
-  * Fix libxmljs 404s by bumping its patch version #535 by @kili-ilo
+  * Fix libxmljs 404s by bumping its patch version by @kili-ilo #535
 
 --------------------------------------------------------------------------------
 

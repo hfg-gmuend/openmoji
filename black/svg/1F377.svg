@@ -5,6 +5,5 @@
     <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m56,24c0,3.265-.7824,6.3473-2.1699,9.0696-3.3065,6.4874-10.0494,10.9304-17.8301,10.9304-11.0457,0-20-8.9543-20-20"/>
     <line x1="16" x2="16" y1="5" y2="24" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <line x1="56" x2="56" y1="5" y2="24" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="16.5387" x2="55.5" y1="14.5" y2="14.5" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.9739"/>
   </g>
 </svg>
