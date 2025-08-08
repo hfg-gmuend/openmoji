@@ -3,7 +3,11 @@
 - removed
 
 --------------------------------------------------------------------------------
-OpenMoji 16 - XX YYY 2024
+🏖😎 OpenMoji 16 - 8 Aug 2025
+
+Many improvements, fixes and new OpenMojis:
+👉 Full support of Unicode Emoji 16.0.
+👉 Update Node.js from v14 to v22 (current LTS) by @kili-ilo #536
 
 Fix:
   * 1F1F8-1F1FE update the Syria flag to the new official flag #533
