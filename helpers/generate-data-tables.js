@@ -79,7 +79,7 @@ emojis = _.map(emojis, e => {
     subgroups: subgroups[e.subgroup],
     annotation: e.label,
     tags: e.tags ? e.tags.join(', ') : '',
-    openmoji_tags: enhancements[e.emoji] ? enhancements[e.emoji]['openmoji_tags'] : '',
+    openmoji_tags: enhancements[e.hexcode] ? enhancements[e.hexcode]['openmoji_tags'] : '',
     openmoji_author: openmoji_author,
     openmoji_date: openmoji_date,
     skintone: e.tone ? e.tone : '',
