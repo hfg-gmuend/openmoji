@@ -3,7 +3,13 @@
 - removed
 
 --------------------------------------------------------------------------------
-🏖😎 OpenMoji 16 - 8 Aug 2025
+🏖😎 OpenMoji 17.0 - XX XXX 2026
+
+Improvements:
+  * 1F383 removed unnecessary points by @yukal #555
+
+--------------------------------------------------------------------------------
+🏖😎 OpenMoji 16.0 - 8 Aug 2025
 
 Many improvements, fixes and new OpenMojis:
 👉 Full support of Unicode Emoji 16.0.
