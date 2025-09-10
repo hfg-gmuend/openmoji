@@ -5,6 +5,9 @@
 --------------------------------------------------------------------------------
 🏖😎 OpenMoji 17.0 - XX XXX 2026
 
+New:
+  + E070 extras-openmoji/brand Bluesky by @agriyakhetarpal #557
+
 Improvements:
   * 1F383 removed unnecessary points by @yukal #555
 
