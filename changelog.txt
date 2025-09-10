@@ -7,6 +7,7 @@
 
 New:
   + E070 extras-openmoji/brand Bluesky by @agriyakhetarpal #557
+  + extras-openmoji/E1DA "ai hand" by @artlung Joe Crawford #561
 
 Improvements:
   * 1F383 removed unnecessary points by @yukal #555
