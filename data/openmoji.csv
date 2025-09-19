@@ -4247,6 +4247,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🉣,1F263,extras-unicode,symbol-other,rounded symbol for xi,,"ideograph, chinese, religion, happiness, 喜",Robert Winslow,2023-01-06,,,,,10,
 🉤,1F264,extras-unicode,symbol-other,rounded symbol for shuangxi,,"ideograph, chinese, religion, double happiness, love and marriage, 囍",Robert Winslow,2023-01-06,,,,,10,
 🉥,1F265,extras-unicode,symbol-other,rounded symbol for cai,,"ideograph, chinese, religion, wealth, 财, 財",Robert Winslow,2023-01-06,,,,,10,
+⃣,20E3,extras-unicode,symbol-other,combining enclosing keycap,"keycap",Natalia Kenig,2025-09-19,,,,,1.1,
 🐱‍💻,1F431-200D-1F4BB,extras-unicode,symbol-other,hacker cat,,"coder, developer, software, technologist, smart, clever, code, notebook, computer",Benedikt Groß,2020-03-06,,,,,?,
 🯅,1FBC5,extras-unicode,symbol-other,stick figure,,legacy computing,Alexander Müller,2020-11-04,,,,,13,
 🯆,1FBC6,extras-unicode,symbol-other,stick figure with arms raised,,legacy computing,Alexander Müller,2020-11-04,,,,,13,
