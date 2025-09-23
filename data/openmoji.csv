@@ -4253,6 +4253,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🯇,1FBC7,extras-unicode,symbol-other,stick figure leaning left,,legacy computing,Alexander Müller,2020-11-04,,,,,13,
 🯈,1FBC8,extras-unicode,symbol-other,stick figure leaning right,,legacy computing,Alexander Müller,2020-11-04,,,,,13,
 🯉,1FBC9,extras-unicode,symbol-other,stick figure with dress,,legacy computing,Alexander Müller,2020-11-04,,,,,13,
+⃣,20E3,extras-unicode,symbol-other,combining enclosing keycap,,keycap,Natalia Kenig,2025-09-19,,,,,3,
 ℗,2117,extras-unicode,symbol-other,sound recording copyright,,"trademark, music, phonogram",Carlin MacKenzie,2020-06-06,,,,,1.1,
 ℠,2120,extras-unicode,symbol-other,service mark,,"trademark, sm",Carlin MacKenzie,2020-06-06,,,,,1.1,
 ⊜,229C,extras-unicode,symbol-other,circled equals,,"license, copyright, creative commons, open, libre",Carlin MacKenzie,2020-04-18,,,,,1.1,
