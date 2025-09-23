@@ -6,8 +6,9 @@
 🏖😎 OpenMoji 17.0 - XX XXX 2026
 
 New:
-  + E070 extras-openmoji/brand Bluesky by @agriyakhetarpal #557
-  + extras-openmoji/E1DA "ai hand" by @artlung Joe Crawford #561
+  + E070 extras-openmoji Bluesky by @agriyakhetarpal #557
+  + E1DA extras-openmoji "ai hand" by @artlung Joe Crawford #561
+  + 20E3 extras-openmoji combining enclosing keycap by @nataliakeniganti #565
 
 Improvements:
   * 1F383 removed unnecessary points by @yukal #555
