@@ -72216,23 +72216,6 @@
     "order": ""
   },
   {
-    "emoji": "⃣",
-    "hexcode": "20E3",
-    "group": "extras-unicode",
-    "subgroups": "symbol-other",
-    "annotation": "combining enclosing keycap",
-    "tags": "",
-    "openmoji_tags": "keycap",
-    "openmoji_author": "Natalia Kenig",
-    "openmoji_date": "2025-09-19",
-    "skintone": "",
-    "skintone_combination": "",
-    "skintone_base_emoji": "",
-    "skintone_base_hexcode": "",
-    "unicode": "3",
-    "order": ""
-  },
-  {
     "emoji": "🐱‍💻",
     "hexcode": "1F431-200D-1F4BB",
     "group": "extras-unicode",
@@ -72332,6 +72315,23 @@
     "skintone_base_emoji": "",
     "skintone_base_hexcode": "",
     "unicode": "13",
+    "order": ""
+  },
+  {
+    "emoji": "⃣",
+    "hexcode": "20E3",
+    "group": "extras-unicode",
+    "subgroups": "symbol-other",
+    "annotation": "combining enclosing keycap",
+    "tags": "",
+    "openmoji_tags": "keycap",
+    "openmoji_author": "Natalia Kenig",
+    "openmoji_date": "2025-09-19",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": "3",
     "order": ""
   },
   {
