@@ -65416,6 +65416,23 @@
     "order": ""
   },
   {
+    "emoji": "",
+    "hexcode": "E070",
+    "group": "extras-openmoji",
+    "subgroups": "brand",
+    "annotation": "bluesky",
+    "tags": "",
+    "openmoji_tags": "logo, brand, bluesky, company, social-media",
+    "openmoji_author": "Agriya Khetarpal",
+    "openmoji_date": "2025-08-21",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": "",
+    "order": ""
+  },
+  {
     "emoji": "",
     "hexcode": "E0FF",
     "group": "extras-openmoji",
@@ -69802,6 +69819,23 @@
     "order": ""
   },
   {
+    "emoji": "",
+    "hexcode": "E1DA",
+    "group": "extras-openmoji",
+    "subgroups": "technology",
+    "annotation": "ai hand",
+    "tags": "",
+    "openmoji_tags": "artificial intelligence hand, ai hand, six-fingered hand, hallucination, error, bug, glitch",
+    "openmoji_author": "Joe Crawford",
+    "openmoji_date": "2025-09-08",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": "",
+    "order": ""
+  },
+  {
     "emoji": "",
     "hexcode": "E200",
     "group": "extras-openmoji",
@@ -72281,6 +72315,23 @@
     "skintone_base_emoji": "",
     "skintone_base_hexcode": "",
     "unicode": "13",
+    "order": ""
+  },
+  {
+    "emoji": "⃣",
+    "hexcode": "20E3",
+    "group": "extras-unicode",
+    "subgroups": "symbol-other",
+    "annotation": "combining enclosing keycap",
+    "tags": "",
+    "openmoji_tags": "keycap",
+    "openmoji_author": "Natalia Kenig",
+    "openmoji_date": "2025-09-19",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": "3",
     "order": ""
   },
   {
