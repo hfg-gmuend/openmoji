@@ -1,9 +1,15 @@
-const fs = require('fs');
-const path = require('path');
-const { JSDOM } = require('jsdom');
-const libxmljs = require("libxmljs");
+import fs from 'fs';
+import { JSDOM } from 'jsdom';
+import libxmljs from 'libxmljs';
+import path from 'path';
+import parser from 'yargs-parser';
 
-const argv = require('optimist').default('openmoji-src-folder', './src').argv;
+const argv = parser('openmoji-src-folder', {
+  default: {
+    'openmoji-src-folder': './src'
+  }
+});
+
 const openmojiSrcFolder = argv['openmoji-src-folder'];
 
 
@@ -14,9 +20,9 @@ function createDoc(emoji) {
 }
 
 function readSVG(emoji) {
-    const svgFile = path.join(openmojiSrcFolder, emoji.group, emoji.subgroups, emoji.hexcode + '.svg');
-    var str = fs.readFileSync(svgFile, "utf8");
-    return str;
+  const svgFile = path.join(openmojiSrcFolder, emoji.group, emoji.subgroups, emoji.hexcode + '.svg');
+  var str = fs.readFileSync(svgFile, "utf8");
+  return str;
 }
 
 function getSrcFilepath(emoji) {
@@ -33,7 +39,8 @@ function isValidXML(string) {
   return true;
 };
 
-module.exports.createDoc = createDoc;
-module.exports.readSVG = readSVG;
-module.exports.getSrcFilepath = getSrcFilepath;
-module.exports.isValidXML = isValidXML;
+export {
+  createDoc, getSrcFilepath,
+  isValidXML, readSVG
+};
+

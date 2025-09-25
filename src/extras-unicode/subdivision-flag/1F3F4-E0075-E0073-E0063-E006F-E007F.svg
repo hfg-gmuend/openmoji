@@ -1,8 +1,8 @@
 <svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
     <g id="grid-lines">
-      <path fill="#b3b3b3" d="m68 4v64h-64v-64h64m4-4h-72v72h72z"/>
-      <g fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1">
+      <path fill="#b399c8" d="m68 4v64h-64v-64h64m4-4h-72v72h72z"/>
+      <g fill="none" stroke="#61b2e4" stroke-miterlimit="10" stroke-width="0.1">
         <path d="m12.92 10.96h46.15a1.923 1.923 0 0 1 1.923 1.923v46.15a1.923 1.923 0 0 1-1.923 1.923h-46.15a1.923 1.923 0 0 1-1.923-1.923v-46.15a1.923 1.923 0 0 1 1.923-1.923z"/>
         <rect x="16" y="4" rx="2.254" width="40" height="64"/>
         <rect x="16" y="4" rx="2.254" width="40" height="64" transform="rotate(90,36,36)"/>

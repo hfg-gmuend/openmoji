@@ -1,12 +1,9 @@
 #!/usr/bin/env node
 
-'use strict';
+import fs from 'fs';
+import _ from 'lodash';
 
-const path = require('path');
-const fs = require('fs');
-const _ = require('lodash');
-
-const emojisList = require('../data/openmoji.json');
+import emojisList from '../data/openmoji.json' with { type: 'json' };
 
 let html = `\
 <!DOCTYPE html>
@@ -244,7 +241,7 @@ html += _.map(emojisList, (e) => {
             <button onclick="copyToClipboard('${e.hexcode}')">
                 <img alt="${e.annotation}"
                      title="${e.annotation} - ${e.hexcode}"
-                     src="${'color/72x72/' + e.hexcode +'.png'}" height="72" width="72">
+                     src="${'color/72x72/' + e.hexcode + '.png'}" height="72" width="72">
             </button>`;
     }
 }).join('');
@@ -259,7 +256,7 @@ html += _.map(emojisList, (e) => {
             <button onclick="copyToClipboard('${e.hexcode}')">
                 <img alt="${e.annotation}"
                      title="${e.annotation} - ${e.hexcode}"
-                     src="${'black/72x72/' + e.hexcode +'.png'}" height="72" width="72">
+                     src="${'black/72x72/' + e.hexcode + '.png'}" height="72" width="72">
             </button>`;
     }
 }).join('');
@@ -274,7 +271,7 @@ html += _.map(emojisList, (e) => {
             <button onclick="copyToClipboard('${e.hexcode}')">
                 <img alt="${e.annotation}"
                      title="${e.annotation} - ${e.hexcode}"
-                     src="${'color/svg/' + e.hexcode +'.svg'}" height="72" width="72">
+                     src="${'color/svg/' + e.hexcode + '.svg'}" height="72" width="72">
             </button>`;
     }
 }).join('');
@@ -289,7 +286,7 @@ html += _.map(emojisList, (e) => {
             <button onclick="copyToClipboard('${e.hexcode}')">
                 <img alt="${e.annotation}"
                      title="${e.annotation} - ${e.hexcode}"
-                     src="${'black/svg/' + e.hexcode +'.svg'}" height="72" width="72">
+                     src="${'black/svg/' + e.hexcode + '.svg'}" height="72" width="72">
             </button>`;
     }
 }).join('');

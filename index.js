@@ -1,12 +1,17 @@
 // npm module entry
 //
-// Provides OpenMoji data in a web developer friendly fashion.
-//
-const version = require('./package.json').version;
-const openmojisRaw = require('./data/openmoji.json');
-const colorPalette = require('./data/color-palette.json');
 // For path joining
-const path = require('path');
+import path, { dirname } from 'path';
+import { fileURLToPath } from 'url';
+
+// Provides OpenMoji data in a web developer friendly fashion.
+import colorPalette from './data/color-palette.json' with { type: 'json' };
+import openmojisRaw from './data/openmoji.json' with { type: 'json' };
+import packageJson from './package.json' with { type: 'json' };
+const { version } = packageJson;
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+
 // Path to SVG directories
 // TODO expose svg files under src/:group/:subgroups?
 const baseBlackDir = path.join(__dirname, 'black');
@@ -27,9 +32,12 @@ const openmojisWithPaths = openmojisRaw.map(om => {
   });
 });
 
-// Version to help track bugs
-exports.version = version;
-// Emoji data objects
-exports.openmojis = openmojisWithPaths;
-// Colors available
-exports.color_palette = colorPalette;
+export {
+  // Colors available
+  colorPalette as color_palette,
+  // Emoji data objects
+  openmojisWithPaths as openmojis,
+  // Version to help track bugs
+  version
+};
+

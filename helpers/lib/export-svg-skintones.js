@@ -1,18 +1,18 @@
 #!/usr/bin/env node
-'use strict';
 
 // Used by helpers/export-svg-skintones.sh via helpers/lib/export-svg-skintones.sh
 // to project one skintone variation of a base emoji into its corresponding
 // composite hexcode SVG file.
 // Receives target SVG file paths as arguments.
+import fs from 'fs';
+import path from 'path';
+import { JSDOM } from 'jsdom';
 
-const fs = require('fs');
-const path = require('path');
-const JSDOM = require('jsdom').JSDOM;
-
-const hairColors = require('../../data/color-palette.json').skintones.hair;
-const fitzpatrickColors = require('../../data/color-palette.json').skintones.fitzpatrick;
-const shadowColors = require('../../data/color-palette.json').skintones.shadow;
+import colorPaletteJson from '../../data/color-palette.json' with { type: 'json' };;
+const { skintones } = colorPaletteJson;
+const hairColors = skintones.hair;
+const fitzpatrickColors = skintones.fitzpatrick;
+const shadowColors = skintones.shadow;
 const folderSrc = 'src';
 const folderOut = 'color/svg';
 
@@ -79,7 +79,7 @@ const generateSkintoneMultiple = (srcFilePath, destFilePath, skintones) => {
 }
 
 // Construct indices for emojis, by path and by hexcode for fast lookup.
-const emojis = require('../../data/openmoji.json');
+import emojis from '../../data/openmoji.json' with { type: 'json' };;
 const emojisByTarget = {};
 const emojisByHexcode = {};
 for (const e of emojis) {
@@ -98,7 +98,7 @@ for (const target of process.argv.slice(2)) {
       target,
       e.skintone
     );
-  // single skintone modifier
+    // single skintone modifier
   } else {
     generateSkintoneSingle(
       path.join(folderSrc, skintoneBaseEmoji.group, skintoneBaseEmoji.subgroups, skintoneBaseEmoji.hexcode + '.svg'),
