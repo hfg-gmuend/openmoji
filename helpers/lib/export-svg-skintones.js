@@ -8,7 +8,7 @@ import fs from 'fs';
 import path from 'path';
 import { JSDOM } from 'jsdom';
 
-import colorPaletteJson from '../../data/color-palette.json' assert {type: 'json'};
+import colorPaletteJson from '../../data/color-palette.json' with { type: 'json' };;
 const { skintones } = colorPaletteJson;
 const hairColors = skintones.hair;
 const fitzpatrickColors = skintones.fitzpatrick;
@@ -79,7 +79,7 @@ const generateSkintoneMultiple = (srcFilePath, destFilePath, skintones) => {
 }
 
 // Construct indices for emojis, by path and by hexcode for fast lookup.
-import emojis from '../../data/openmoji.json' assert {type: 'json'};
+import emojis from '../../data/openmoji.json' with { type: 'json' };;
 const emojisByTarget = {};
 const emojisByHexcode = {};
 for (const e of emojis) {

@@ -3,7 +3,7 @@
 import fs from 'fs';
 import _ from 'lodash';
 
-import emojisList from '../data/openmoji.json' assert { type: 'json' };
+import emojisList from '../data/openmoji.json' with { type: 'json' };
 
 let html = `\
 <!DOCTYPE html>

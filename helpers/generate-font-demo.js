@@ -6,7 +6,7 @@
 import CharacterSet from 'characterset';
 import fs from 'fs';
 
-import openmojis from '../data/openmoji.json' assert { type: 'json' };
+import openmojis from '../data/openmoji.json' with { type: 'json' };
 
 const emojis = openmojis.map(e => { return e.emoji });
 const characterSet = new CharacterSet(emojis.join(''));

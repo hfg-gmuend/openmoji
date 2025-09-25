@@ -8,8 +8,8 @@ var argv = process.argv.slice(2);
 import _ from 'lodash';
 
 const { sync: glob } = _glob;
-import emojibaseData from 'emojibase-data/en/data.json' assert {type: 'json'};
-import emojibaseGroups from 'emojibase-data/meta/groups.json' assert {type: 'json'};
+import emojibaseData from 'emojibase-data/en/data.json' with { type: 'json' };;
+import emojibaseGroups from 'emojibase-data/meta/groups.json' with { type: 'json' };;
 const { groups, subgroups } = emojibaseGroups;
 
 const emojis = _.map(emojibaseData, e => {

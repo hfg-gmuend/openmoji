@@ -5,7 +5,7 @@ import path from 'path';
 import lodash from 'lodash';
 import mkdirp from 'mkdirp';
 
-import openmojis from '../data/openmoji.json' assert {type: 'json'};
+import openmojis from '../data/openmoji.json' with { type: 'json' };;
 
 const { filter } = lodash;
 const openmojisNoSkintones = filter(openmojis, (e) => { return e.skintone === '' });

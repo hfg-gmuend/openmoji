@@ -5,9 +5,9 @@ import path, { dirname } from 'path';
 import { fileURLToPath } from 'url';
 
 // Provides OpenMoji data in a web developer friendly fashion.
-import colorPalette from './data/color-palette.json' assert { type: 'json' };
-import openmojisRaw from './data/openmoji.json' assert { type: 'json' };
-import packageJson from './package.json' assert { type: 'json' };
+import colorPalette from './data/color-palette.json' with { type: 'json' };
+import openmojisRaw from './data/openmoji.json' with { type: 'json' };
+import packageJson from './package.json' with { type: 'json' };
 const { version } = packageJson;
 
 const __dirname = dirname(fileURLToPath(import.meta.url));

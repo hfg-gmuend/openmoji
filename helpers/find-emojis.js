@@ -4,7 +4,7 @@
 // annotations.
 // With no arguments, lists all hexcodes.
 
-import data from '../data/openmoji.json' assert {type: 'json'};
+import data from '../data/openmoji.json' with { type: 'json' };;
 
 const makeMatcher = (value) => (entry) =>
   value == entry.hexcode ||

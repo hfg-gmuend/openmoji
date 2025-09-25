@@ -3,8 +3,8 @@
 import csvParse from 'csv-parse/lib/sync.js';
 import csvWriter from 'csv-write-stream';
 import { fromCodepointToUnicode, fromHexcodeToCodepoint } from 'emojibase';
-import emojibaseData from 'emojibase-data/en/data.json' assert { type: 'json' };
-import emojibaseGroups from 'emojibase-data/meta/groups.json' assert { type: 'json' };
+import emojibaseData from 'emojibase-data/en/data.json' with { type: 'json' };
+import emojibaseGroups from 'emojibase-data/meta/groups.json' with { type: 'json' };
 import fs from 'fs';
 import _ from 'lodash';
 

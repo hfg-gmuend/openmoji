@@ -6,8 +6,8 @@ import _ from 'lodash';
 import chroma from 'chroma-js';
 import kdTreeJs from 'kd-tree-javascript';
 import { JSDOM } from 'jsdom';
-import colorPaletteJson from '../data/color-palette.json' assert {type: 'json'};
-import emojiElements from '../data/openmoji.json' assert {type: 'json'};
+import colorPaletteJson from '../data/color-palette.json' with { type: 'json' };;
+import emojiElements from '../data/openmoji.json' with { type: 'json' };;
 
 const { kdTree: KDTree } = kdTreeJs;
 const { colors } = colorPaletteJson;

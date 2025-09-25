@@ -19,7 +19,7 @@ const generateSvg = (srcFilePath, destFilePath) => {
 }
 
 // Construct an index of emojis by target path for fast lookup.
-import emojis from '../../data/openmoji.json' assert {type: 'json'};
+import emojis from '../../data/openmoji.json' with { type: 'json' };;
 const emojisByTarget = {};
 for (const e of emojis) {
   const target = path.join(folderOut, e.hexcode + '.svg');

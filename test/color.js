@@ -18,7 +18,7 @@ const argv = parser('openmoji-data-json', {
 const openmojisSource = fs.readFileSync(argv['openmoji-data-json']);
 const openmojis = JSON.parse(openmojisSource);
 
-import colorPaletteJson from '../data/color-palette.json' assert { type: 'json'};
+import colorPaletteJson from '../data/color-palette.json' with { type: 'json'};
 const { colors, skintones } = colorPaletteJson;
 
 
