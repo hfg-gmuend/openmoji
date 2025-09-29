@@ -12,6 +12,7 @@ New:
 
 Improvements:
   * 1F383 removed unnecessary points by @yukal #555
+  * font/README.md: easy font usage via jsdelivr.com by @jjb #570
 
 --------------------------------------------------------------------------------
 🏖😎 OpenMoji 16.0 - 8 Aug 2025
