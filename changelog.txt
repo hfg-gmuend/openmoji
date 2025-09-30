@@ -11,6 +11,7 @@ New:
   + 20E3 extras-openmoji combining enclosing keycap by @nataliakeniganti #565
 
 Improvements:
+  * 270D better fingers of drawing hand by Daniel Utz
   * 1F383 removed unnecessary points by @yukal #555
   * font/README.md: easy font usage via jsdelivr.com by @jjb #570
 
