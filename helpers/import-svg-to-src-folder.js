@@ -1,17 +1,16 @@
 #!/usr/bin/env node
-'use strict';
 
-const path = require('path');
-const fs = require('fs');
+import path from 'path';
+import fs from 'fs';
 
-const glob = require('glob').sync;
+import _glob from 'glob';
 var argv = process.argv.slice(2);
-const _ = require('lodash');
+import _ from 'lodash';
 
-const emojibaseData = require('emojibase-data/en/data.json');
-const emojibaseGroups = require('emojibase-data/meta/groups.json');
-const groups = emojibaseGroups.groups;
-const subgroups = emojibaseGroups.subgroups;
+const { sync: glob } = _glob;
+import emojibaseData from 'emojibase-data/en/data.json' with { type: 'json' };;
+import emojibaseGroups from 'emojibase-data/meta/groups.json' with { type: 'json' };;
+const { groups, subgroups } = emojibaseGroups;
 
 const emojis = _.map(emojibaseData, e => {
   e.group = groups[e.group];
@@ -19,7 +18,7 @@ const emojis = _.map(emojibaseData, e => {
   return e
 });
 
-if(!argv[0]) {
+if (!argv[0]) {
   help();
   process.exit(1);
 }
@@ -50,7 +49,7 @@ const mkdirp = dir => path
 
 
 let results = [];
-const svgFiles = glob( path.join(argv[0], '*.svg') );
+const svgFiles = glob(path.join(argv[0], '*.svg'));
 console.log(`Found ${svgFiles.length} svg files in ${argv[0]}`);
 let importedCounter = 0;
 
@@ -65,7 +64,7 @@ svgFiles.forEach((f, i) => {
     emojiChar = emoji.emoji;
     const destinationFolder = path.join('src', emoji.group, emoji.subgroups);
     mkdirp(destinationFolder); // generate missing folders recursively
-    const destinationSvg = path.join(destinationFolder, basename+'.svg');
+    const destinationSvg = path.join(destinationFolder, basename + '.svg');
     if (fs.existsSync(destinationSvg)) importResult = 'OVERWRITE';
     else importResult = 'NEW';
     fs.copyFileSync(f, destinationSvg);
@@ -75,7 +74,7 @@ svgFiles.forEach((f, i) => {
   }
 
   let dt = new Date();
-  dt = dt.getFullYear() +'-'+ ('0' + (dt.getMonth()+1)).slice(-2) +'-'+ ('0' + dt.getDate()).slice(-2);
+  dt = dt.getFullYear() + '-' + ('0' + (dt.getMonth() + 1)).slice(-2) + '-' + ('0' + dt.getDate()).slice(-2);
   results.push([emojiChar, basename, '', foldername, dt, importResult]);
 });
 

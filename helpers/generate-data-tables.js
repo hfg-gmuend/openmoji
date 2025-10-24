@@ -1,22 +1,19 @@
 #!/usr/bin/env node
-'use strict';
 
-const fs = require('fs');
-const _ = require('lodash');
-const csvWriter = require('csv-write-stream');
-const csvParse = require('csv-parse/lib/sync');
-const { fromCodepointToUnicode, fromHexcodeToCodepoint } = require('emojibase');
+import csvParse from 'csv-parse/lib/sync.js';
+import csvWriter from 'csv-write-stream';
+import { fromCodepointToUnicode, fromHexcodeToCodepoint } from 'emojibase';
+import emojibaseData from 'emojibase-data/en/data.json' with { type: 'json' };
+import emojibaseGroups from 'emojibase-data/meta/groups.json' with { type: 'json' };
+import fs from 'fs';
+import _ from 'lodash';
 
-const emojibaseData = require('emojibase-data/en/data.json');
-const emojibaseGroups = require('emojibase-data/meta/groups.json');
-const groups = emojibaseGroups.groups;
-const subgroups = emojibaseGroups.subgroups;
-
+const { groups, subgroups } = emojibaseGroups;
 
 // -- helper functions --
 const loadCsv = (filePath) => {
   const content = fs.readFileSync(filePath, 'utf8');
-  return csvParse(content, {columns: true});
+  return csvParse(content, { columns: true });
 }
 const arrayToEmojiDict = (array) => {
   return array.reduce((o, a) => Object.assign(o, { [String(a.hexcode)]: a }), {});
@@ -61,7 +58,7 @@ _.each(emojibaseData, e => {
 
 
 // load custom meta informations extending the unicode definitions
-const enhancements = arrayToEmojiDict( loadCsv('./data/enhancements-emoji-unicode-data.csv'), 'emoji');
+const enhancements = arrayToEmojiDict(loadCsv('./data/enhancements-emoji-unicode-data.csv'), 'emoji');
 
 // filter out what we want in the end
 // enhance meta informations of each emoji

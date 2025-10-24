@@ -1,7 +1,5 @@
-const fs = require('fs');
-const path = require('path');
-const { JSDOM } = require('jsdom');
-
+import fs from 'fs';
+import { JSDOM } from 'jsdom';
 
 function mirrorSVGHorizontally(svgContent) {
   const dom = new JSDOM(svgContent, { contentType: "image/svg+xml" });

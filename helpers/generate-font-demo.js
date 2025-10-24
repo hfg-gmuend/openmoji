@@ -1,14 +1,12 @@
 #!/usr/bin/env node
-'use strict';
 
 // argv[2]: font file
 // argv[3]: output folder
 
-const path = require('path');
-const fs = require('fs');
-const CharacterSet = require('characterset');
+import CharacterSet from 'characterset';
+import fs from 'fs';
 
-const openmojis = require('../data/openmoji.json');
+import openmojis from '../data/openmoji.json' with { type: 'json' };
 
 const emojis = openmojis.map(e => { return e.emoji });
 const characterSet = new CharacterSet(emojis.join(''));

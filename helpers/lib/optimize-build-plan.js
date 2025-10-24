@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-'use strict';
 
 // This script assists optimize-build.sh by reading all of the file names in
 // the build plan conversions and filtering out the ones that have already been
@@ -9,7 +8,7 @@
 // $3 is the current output from git ls-files for relevant files.
 // $4 is the output from ls-files generated previously.
 
-let FS = require("fs");
+import FS from 'fs';
 
 function *lines(text) {
   let i = 0;
