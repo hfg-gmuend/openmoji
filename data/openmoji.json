@@ -1444,6 +1444,22 @@
     "unicode": 0.6,
     "order": 90
   },
+{
+  "emoji": "🫪",
+  "hexcode": "1FAEA",
+  "group": "smileys-emotion",
+  "subgroups": "concerned-face",
+  "annotation": "distorted face",
+  "tags": "distorted, anxiety, panic, shocked, bloated, overwhelmed, face",
+  "openmoji_tags": "",
+  "openmoji_author": "Crepank",
+  "openmoji_date": "2025-11-07",
+  "skintone": "",
+  "skintone_combination": "",
+  "skintone_base_emoji": "",
+  "skintone_base_hexcode": "",
+  "unicode": 17.0,
+},
   {
     "emoji": "🥺",
     "hexcode": "1F97A",
