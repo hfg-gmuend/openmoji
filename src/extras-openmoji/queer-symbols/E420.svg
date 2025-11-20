@@ -1,40 +1,22 @@
-<svg id="emoji" width="72" height="72" version="1.1" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="clipPath14">
-      <path transform="translate(-904.1 -1914)" d="m0 3827h6017v-3827h-6017z"/>
-    </clipPath>
-  </defs>
-  <g transform="matrix(.007479 0 0 .007055 6.085 18.08)" style="display:none;stroke-width:137.7">
-    <path transform="matrix(1.333 0 0 -1.333 -11.34 5091)" d="m0 0h6017v3827h-6017z" style="fill:#61279e"/>
-    <path transform="matrix(1.333 0 0 -1.333 -11.34 5091)" d="m0 637.2h6017v3190h-6017z" style="fill:#005db9"/>
-    <path transform="matrix(1.333 0 0 -1.333 -11.34 5091)" d="m0 1275h6017v2552h-6017z" style="fill:#81bc00"/>
-    <path transform="matrix(1.333 0 0 -1.333 -11.34 5091)" d="m0 1914h6017v1914h-6017z" style="fill:#ffde00"/>
-    <path transform="matrix(1.333 0 0 -1.333 -11.34 5091)" d="m0 2552h6017v1275h-6017z" style="fill:#ff8400"/>
-    <path transform="matrix(1.333 0 0 -1.333 -11.34 5091)" d="m0 3190h6017v637.2h-6017z" style="fill:#ed1d24"/>
-    <path transform="matrix(1.333 0 0 -1.333 1108 -11.34)" d="m0 0 1772-1914-1772-1914h369l1772 1914-1772 1914z" style="fill:#7e4115"/>
-    <path transform="matrix(1.333 0 0 -1.333 1601 -11.34)" d="m0 0 1772-1914-1772-1914h368.9l1772 1914-1772 1914z" style="fill:#231f20"/>
-    <path transform="matrix(1.333 0 0 -1.333 124.3 -11.34)" d="m0 0 1772-1914-1772-1914h369.2l1772 1914-1772 1914z" style="fill:#efb3cb"/>
-    <path transform="matrix(1.333 0 0 -1.333 616.5 -11.34)" d="m0 0 1772-1914-1772-1914h369.1l1772 1914-1772 1914z" style="fill:#55c9e8"/>
-    <path transform="matrix(1.333 0 0 -1.333 -11.34 4706)" d="m0 0 1504 1625-1504 1625z" style="fill:#ffce00"/>
-    <path transform="matrix(1.333 0 0 -1.333 -11.34 -11.34)" d="m0 0v-288.9l1504-1625-1504-1625v-288.9h101.7l1772 1914-1772 1914z" style="fill:#fff"/>
-    <path transform="matrix(1.333 0 0 -1.333 1194 2540)" d="m0 0c0-197.4-160.6-358-358-358-197.4 0-358 160.6-358 358 0 197.4 160.6 358 358 358 197.4 0 358-160.6 358-358m58.89 176.1c-22.79 53.88-55.41 102.3-96.95 143.8-41.54 41.54-89.92 74.16-143.8 96.95-55.81 23.61-115.1 35.58-176.1 35.58s-120.3-11.97-176.1-35.58c-53.89-22.79-102.3-55.41-143.8-96.95-41.54-41.54-74.16-89.92-96.95-143.8-23.61-55.81-35.58-115.1-35.58-176.1s11.97-120.3 35.58-176.1c22.79-53.88 55.41-102.3 96.95-143.8 41.54-41.54 89.92-74.15 143.8-96.95 55.81-23.61 115.1-35.58 176.1-35.58 61.06 0 120.3 11.97 176.1 35.58 53.89 22.79 102.3 55.41 143.8 96.95 41.54 41.54 74.16 89.92 96.95 143.8 23.61 55.81 35.58 115.1 35.58 176.1s-11.97 120.3-35.58 176.1" clip-path="url(#clipPath14)" style="fill:#4d008c"/>
-  </g>
-  <g>
-    <path d="m6 54h60v-36h-60z" style="fill:#b399c8"/>
-    <path d="m6 48.01h60v-30.01h-60z" style="fill:#92d3f5"/>
-    <path d="m6 42h60v-24h-60z" style="fill:#b1cc33"/>
-    <path d="m6 36h60v-18h-60z" style="fill:#fcea2b"/>
-    <path d="m6 30h60v-12h-60z" style="fill:#f4aa41"/>
-    <path d="m6 23.99h60v-5.994h-60z" style="fill:#ea5a47"/>
-    <path d="m14.37 18 17.67 18-17.67 18h3.68l17.67-18-17.67-18z" style="fill:#a57939"/>
-    <path d="m18.06 18 17.67 18-17.67 18h3.679l17.67-18-17.67-18z" style="fill:#3f3f3f"/>
-    <path d="m7.014 18 17.67 18-17.67 18h3.681l17.67-18-17.67-18z" style="fill:#ffa7c0"/>
-    <path d="m10.7 18 17.67 18-17.67 18h3.68l17.67-18-17.67-18z" style="fill:#92d3f5"/>
-    <path d="m6 51.28 15-15.28-15-15.28z" style="fill:#fcea2b"/>
-    <path d="m6 18v2.718l15 15.28-15 15.28v2.718h1.014l17.67-18-17.67-18z" style="fill:#fff"/>
-    <circle cx="11.75" cy="36" r="4" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#8967aa"/>
+<svg id="emoji"  version="1.1" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="color">
+    <path d="m6 54h60v-36h-60z" fill="#b399c8"/>
+    <path d="m6 48.01h60v-30.01h-60z" fill="#92d3f5"/>
+    <path d="m6 42h60v-24h-60z" fill="#b1cc33"/>
+    <path d="m6 36h60v-18h-60z" fill="#fcea2b"/>
+    <path d="m6 30h60v-12h-60z" fill="#f4aa41"/>
+    <path d="m6 23.99h60v-5.994h-60z" fill="#ea5a47"/>
+    <path d="m14.37 18 17.67 18-17.67 18h3.68l17.67-18-17.67-18z" fill="#a57939"/>
+    <path d="m18.06 18 17.67 18-17.67 18h3.679l17.67-18-17.67-18z" fill="#3f3f3f"/>
+    <path d="m7.014 18 17.67 18-17.67 18h3.681l17.67-18-17.67-18z" fill="#ffa7c0"/>
+    <path d="m10.7 18 17.67 18-17.67 18h3.68l17.67-18-17.67-18z" fill="#92d3f5"/>
+    <path d="m6 51.28 15-15.28-15-15.28z" fill="#fcea2b"/>
+    <path d="m6 18v2.718l15 15.28-15 15.28v2.718h1.014l17.67-18-17.67-18z" fill="#fff"/>
+    <circle cx="11.75" cy="36" r="4" fill="none" stroke-width="2" stroke="#8967aa"/>
   </g>
   <g id="line">
     <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+  <g id="grid">
   </g>
 </svg>

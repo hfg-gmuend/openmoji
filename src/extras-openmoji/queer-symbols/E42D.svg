@@ -1,25 +1,27 @@
 <svg id="emoji" version="1.1" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g>
-    <rect x="6" y="18" width="60" height="36" style="fill:#3f3f3f;stroke-width:.333"/>
-    <rect x="6" y="18" width="60" height="32" style="fill:#1e50a0;stroke-width:.333"/>
-    <rect x="6" y="18" width="60" height="28" style="fill:#3f3f3f;stroke-width:.333"/>
-    <rect x="6" y="18" width="60" height="24" style="fill:#1e50a0;stroke-width:.333"/>
-    <rect x="6" y="18" width="60" height="20" style="fill:#fff;stroke-width:.333"/>
-    <rect x="6" y="18" width="60" height="16" style="fill:#1e50a0;stroke-width:.333"/>
-    <rect x="6" y="18" width="60" height="12" style="fill:#3f3f3f;stroke-width:.333"/>
-    <rect x="6" y="18" width="60" height="8" style="fill:#1e50a0;stroke-width:.333"/>
-    <rect x="6" y="18" width="60" height="4" style="fill:#3f3f3f;stroke-width:.333"/>
-    <g transform="rotate(240 36 36)">
-      <circle transform="rotate(120)" cx="13.18" cy="-49.18" r="15" style="fill:#fff"/>
-      <path d="m49 36.03c-0.02864-4.171-2.057-8.355-5.555-10.7-2.347-1.63-5.249-2.489-8.106-2.299-2.548 0.2506-4.697 2.502-4.83 5.059-0.2416 2.543 1.539 5.071 4.008 5.711 1.533 0.4345 3.224 0.1464 4.555-0.7164 2.67-1.41 6.166-0.9826 8.4 1.057 0.6086 0.54 1.127 1.181 1.529 1.888z" style="fill:#d22f27;stop-color:#000000;stroke-linecap:round;stroke-linejoin:round"/>
-      <path d="m34.2 42.63c1.393-2.165 0.9315-5.246-0.9836-6.947-0.7749-0.7169-1.824-1.071-2.508-1.9-1.287-1.309-2.132-3.061-2.2-4.909-0.07666-1.445 0.2784-2.909 1.012-4.156-3.778 2.133-6.322 6.267-6.502 10.6-0.1433 2.715 0.6073 5.475 2.092 7.748 1.498 2.073 4.519 2.798 6.795 1.631 0.9413-0.4555 1.747-1.18 2.294-2.072z" style="fill:#d22f27;stop-color:#000000;stroke-linecap:round;stroke-linejoin:round"/>
-      <path d="m47.26 42.5c1.278-2.119 0.8575-5.065-0.9695-6.736-1.767-1.733-4.727-2.023-6.783-0.6372-1.656 1.052-2.63 3.03-2.516 4.981-0.1086 2.981-2.169 5.771-5.001 6.723-0.8068 0.284-1.663 0.4265-2.518 0.4208 4.058 2.401 9.429 2.319 13.41-0.2095 1.81-1.122 3.299-2.713 4.379-4.543z" style="fill:#d22f27;stop-color:#000000;stroke-linecap:round;stroke-linejoin:round"/>
-      <circle transform="translate(85.18 22.82)" cx="-49.18" cy="5.677" r="2" style="fill:#fff"/>
-      <circle transform="rotate(240 49.18 -13.18)" cx="13.18" cy="-56.68" r="2" style="fill:#fff"/>
-      <circle transform="rotate(120 36 36)" cx="36" cy="28.5" r="2" style="fill:#fff"/>
+  <g id="color">
+    <rect x="6" y="18" width="60" height="36" fill="#3f3f3f"/>
+    <rect x="6" y="18" width="60" height="32" fill="#1e50a0"/>
+    <rect x="6" y="18" width="60" height="28" fill="#3f3f3f"/>
+    <rect x="6" y="18" width="60" height="24" fill="#1e50a0"/>
+    <rect x="6" y="18" width="60" height="20" fill="#fff"/>
+    <rect x="6" y="18" width="60" height="16" fill="#1e50a0"/>
+    <rect x="6" y="18" width="60" height="12" fill="#3f3f3f"/>
+    <rect x="6" y="18" width="60" height="8" fill="#1e50a0"/>
+    <rect x="6" y="18" width="60" height="4" fill="#3f3f3f"/>
+    <g>
+      <circle cx="36" cy="36" r="15" fill="#fff"/>
+      <path d="m49 36.03c-0.02864-4.171-2.057-8.355-5.555-10.7-2.347-1.63-5.249-2.489-8.106-2.299-2.548 0.2506-4.697 2.502-4.83 5.059-0.2416 2.543 1.539 5.071 4.008 5.711 1.533 0.4345 3.224 0.1464 4.555-0.7164 2.67-1.41 6.166-0.9826 8.4 1.057 0.6086 0.54 1.127 1.181 1.529 1.888z" fill="#d22f27"/>
+      <path d="m34.2 42.63c1.393-2.165 0.9315-5.246-0.9836-6.947-0.7749-0.7169-1.824-1.071-2.508-1.9-1.287-1.309-2.132-3.061-2.2-4.909-0.07666-1.445 0.2784-2.909 1.012-4.156-3.778 2.133-6.322 6.267-6.502 10.6-0.1433 2.715 0.6073 5.475 2.092 7.748 1.498 2.073 4.519 2.798 6.795 1.631 0.9413-0.4555 1.747-1.18 2.294-2.072z" fill="#d22f27"/>
+      <path d="m47.26 42.5c1.278-2.119 0.8575-5.065-0.9695-6.736-1.767-1.733-4.727-2.023-6.783-0.6372-1.656 1.052-2.63 3.03-2.516 4.981-0.1086 2.981-2.169 5.771-5.001 6.723-0.8068 0.284-1.663 0.4265-2.518 0.4208 4.058 2.401 9.429 2.319 13.41-0.2095 1.81-1.122 3.299-2.713 4.379-4.543z" fill="#d22f27"/>
+      <circle cx="36" cy="28.5" r="2" fill="#fff"/>
+      <circle cx="42.5" cy="39.75" r="2" fill="#fff"/>
+      <circle cx="29.5" cy="39.75" r="2" fill="#fff"/>
     </g>
   </g>
   <g id="line">
     <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+  <g id="grid">
   </g>
 </svg>
