@@ -6,12 +6,12 @@
     <rect x="16" y="4" rx="2.254" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
-  <g id="color" stroke-width="0">
-    <rect x="6" y="46.8" width="60" height="7.2" fill="#3f3f3f"/>
-    <rect x="6" y="39.6" width="60" height="7.2" fill="#9b9b9a"/>
-    <rect x="6" y="32.4" width="60" height="7.2" fill="#fff"/>
-    <rect x="6" y="25.2" width="60" height="7.2" fill="#b1cc33"/>
-    <rect x="6" y="18" width="60" height="7.2" fill="#5c9e31"/>
+  <g id="color">
+    <rect x="6" y="18" width="60" height="36" fill="#8967aa"/>
+    <rect x="6" y="18" width="60" height="24" fill="#e67a94"/>
+    <rect x="6" y="18" width="60" height="12" fill="#61b2e4"/>
+    <path d="m6 18v36l24-24-12-12h-12z" fill="#fff"/>
+    <path d="m14 39c-2.761 0-5-2.239-5-5 0-1.636 0.7858-3.088 2-4-1.214-0.9122-2-2.364-2-4 0-2.761 2.239-5 5-5 1.381 0 2.63 0.56 3.536 1.464l7.536 7.536-7.536 7.536c-0.9052 0.9044-2.155 1.464-3.536 1.464z" fill="#fcea2b"/>
   </g>
   <g id="line">
     <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

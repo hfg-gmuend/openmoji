@@ -7,8 +7,10 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <path d="m6 18v36h60v-36h-60z" fill="#fcea2b"/>
-    <circle cx="36" cy="36" r="10" fill="none" stroke-width="3" stroke="#8967aa"/>
+    <rect x="6" y="18" width="60" height="36" fill="#3f3f3f"/>
+    <rect x="6" y="18" width="60" height="27" fill="#8967aa"/>
+    <rect x="6" y="18" width="60" height="18" fill="#fff"/>
+    <rect x="6" y="18" width="60" height="9" fill="#fcea2b"/>
   </g>
   <g id="line">
     <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
