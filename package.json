@@ -44,7 +44,7 @@
     "csv-parse": "^2.5.0",
     "csv-write-stream": "^2.0.0",
     "emojibase": "^5.2.0",
-    "emojibase-data": "^16.0.2",
+    "emojibase-data": "^17.0.0",
     "glob": "^7.1.2",
     "jsdom": "^13.2.0",
     "kd-tree-javascript": "^1.0.3",

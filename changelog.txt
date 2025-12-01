@@ -9,6 +9,7 @@ New:
   + E070 extras-openmoji Bluesky by @agriyakhetarpal #557
   + E1DA extras-openmoji "ai hand" by @artlung Joe Crawford #561
   + 20E3 extras-openmoji combining enclosing keycap by @nataliakeniganti #565
+  + E420 to E435 extras-openmoji 🏳️‍🌈 Queer symbols by @felifluid Feli Berner #588
 
 Improvements:
   * 270D better fingers of drawing hand by Daniel Utz
