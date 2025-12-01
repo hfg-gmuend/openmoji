@@ -84,6 +84,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😯,1F62F,smileys-emotion,face-concerned,hushed face,"epic, face, hushed, omg, stunned, surprised, whoa, woah",,Mariella Steeb,2018-04-18,,,,,1,88
 😲,1F632,smileys-emotion,face-concerned,astonished face,"astonished, cost, face, no, omg, shocked, totally, way",,Emily Jäger,2018-04-18,,,,,0.6,89
 😳,1F633,smileys-emotion,face-concerned,flushed face,"amazed, awkward, crazy, dazed, dead, disbelief, embarrassed, face, flushed, geez, heat, hot, impressed, jeez, what, wow",red jaws,Mariella Steeb,2018-04-18,,,,,0.6,90
+🫪,1FAEA,smileys-emotion,face-concerned,distorted face,"anxiety, bloated, panic, shocked, surprised, vulnerable",,Natalia Kenig,2025-11-11,,,,,17,91
 🥺,1F97A,smileys-emotion,face-concerned,pleading face,"begging, big, eyes, face, mercy, not, pleading, please, pretty, puppy, sad, why",,Antonia Wagner,2019-05-03,,,,,11,92
 🥹,1F979,smileys-emotion,face-concerned,face holding back tears,"admiration, aww, back, cry, embarrassed, face, feelings, grateful, gratitude, holding, joy, please, proud, resist, sad, tears",,Liz Bravo,2022-02-10,,,,,14,93
 😦,1F626,smileys-emotion,face-concerned,frowning face with open mouth,"caught, face, frown, frowning, guard, mouth, open, scared, scary, surprise, what, wow",,Mariella Steeb,2018-04-18,,,,,1,94
@@ -2688,6 +2689,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐳,1F433,animals-nature,animal-marine,spouting whale,"animal, beach, face, ocean, spouting, whale","cetacean, swim, animal, water",Kris Kowal,2020-04-04,,,,,0.6,3765
 🐋,1F40B,animals-nature,animal-marine,whale,"animal, beach, ocean","cetacean, swim, animal, water",Kris Kowal,2020-04-04,,,,,1,3766
 🐬,1F42C,animals-nature,animal-marine,dolphin,"animal, beach, flipper, ocean","cetacean, swim, animal, water",Kris Kowal,2020-04-04,,,,,0.6,3767
+🫍,1FACD,animals-nature,animal-marine,orca,"marine, ocean, whale","cetacean, whale, orca, killer whale, blackfish, swim, animal, water",Selina Bauder,2018-04-18,,,,,17,3768
 🦭,1F9AD,animals-nature,animal-marine,seal,"animal, lion, ocean, sea",,Liz Bravo,2020-09-26,,,,,13,3769
 🐟️,1F41F,animals-nature,animal-marine,fish,"animal, dinner, fishes, fishing, pisces, zodiac","swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,3770
 🐠,1F420,animals-nature,animal-marine,tropical fish,"animal, fish, fishes, tropical","swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,3771
@@ -2887,6 +2889,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧭,1F9ED,travel-places,place-map,compass,"direction, magnetic, navigation, orienteering","wayfinding, direction",Kai Magnus Müller,2018-04-18,,,,,11,3972
 🏔️,1F3D4,travel-places,place-geographic,snow-capped mountain,"cold, mountain, snow, snow-capped","landscape, nature, hiking, climbing, white, outdoor, adventure",Martin Wehl,2018-04-18,,,,,0.7,3974
 ⛰️,26F0,travel-places,place-geographic,mountain,mountain,"landscape, nature, hiking, climbing, outdoor, adventure",Martin Wehl,2018-04-18,,,,,0.7,3976
+🛘,1F6D8,travel-places,place-geographic,landslide,"avalanche, danger, disaster, earthquake, mountain, mudslide, rocks",,Guemil Project,2019-01-14,,,,,17,3977
 🌋,1F30B,travel-places,place-geographic,volcano,"eruption, mountain, nature","vulcano, landscape, nature, fire, smoke, hot",Guemil Project,2019-01-14,,,,,0.6,3978
 🗻,1F5FB,travel-places,place-geographic,mount fuji,"fuji, mount, mountain, nature","japan, japanese, geographic",Martin Wehl,2018-04-18,,,,,0.6,3979
 🏕️,1F3D5,travel-places,place-geographic,camping,camping,"nature, outdoor, tent, adventure, sleeping",Martin Wehl,2018-04-18,,,,,0.7,3981
