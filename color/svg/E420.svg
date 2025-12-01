@@ -1,0 +1,20 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="color">
+    <path fill="#b399c8" d="m6 54h60v-36h-60z"/>
+    <path fill="#92d3f5" d="m6 48.01h60v-30.01h-60z"/>
+    <path fill="#b1cc33" d="m6 42h60v-24h-60z"/>
+    <path fill="#fcea2b" d="m6 36h60v-18h-60z"/>
+    <path fill="#f4aa41" d="m6 30h60v-12h-60z"/>
+    <path fill="#ea5a47" d="m6 23.99h60v-5.994h-60z"/>
+    <path fill="#a57939" d="m14.37 18 17.67 18-17.67 18h3.68l17.67-18-17.67-18z"/>
+    <path fill="#3f3f3f" d="m18.06 18 17.67 18-17.67 18h3.679l17.67-18-17.67-18z"/>
+    <path fill="#ffa7c0" d="m7.014 18 17.67 18-17.67 18h3.681l17.67-18-17.67-18z"/>
+    <path fill="#92d3f5" d="m10.7 18 17.67 18-17.67 18h3.68l17.67-18-17.67-18z"/>
+    <path fill="#fcea2b" d="m6 51.28 15-15.28-15-15.28z"/>
+    <path fill="#fff" d="m6 18v2.718l15 15.28-15 15.28v2.718h1.014l17.67-18-17.67-18z"/>
+    <circle cx="11.75" cy="36" r="4" fill="none" stroke="#8967aa" stroke-width="2"/>
+  </g>
+  <g id="line">
+    <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

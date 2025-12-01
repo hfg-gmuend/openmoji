@@ -1,4 +1,4 @@
-<svg id="emoji" version="1.1" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
     <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
     <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="m12.92 10.96h46.15a1.923 1.923 0 0 1 1.923 1.923v46.15a1.923 1.923 0 0 1-1.923 1.923h-46.15a1.923 1.923 0 0 1-1.923-1.923v-46.15a1.923 1.923 0 0 1 1.923-1.923z"/>
@@ -10,8 +10,8 @@
     <rect x="6" y="18" width="60" height="36" fill="#8967aa"/>
     <rect x="6" y="18" width="60" height="24" fill="#e67a94"/>
     <rect x="6" y="18" width="60" height="12" fill="#61b2e4"/>
-    <path d="m6 18v36l24-24-12-12h-12z" fill="#fff"/>
-    <path d="m14 39c-2.761 0-5-2.239-5-5 0-1.636 0.7858-3.088 2-4-1.214-0.9122-2-2.364-2-4 0-2.761 2.239-5 5-5 1.381 0 2.63 0.56 3.536 1.464l7.536 7.536-7.536 7.536c-0.9052 0.9044-2.155 1.464-3.536 1.464z" fill="#fcea2b"/>
+    <path fill="#fff" d="m6 18v36l24-24-12-12h-12z"/>
+    <path fill="#fcea2b" d="m14 39c-2.761 0-5-2.239-5-5 0-1.636 0.7858-3.088 2-4-1.214-0.9122-2-2.364-2-4 0-2.761 2.239-5 5-5 1.381 0 2.63 0.56 3.536 1.464l7.536 7.536-7.536 7.536c-0.9052 0.9044-2.155 1.464-3.536 1.464z"/>
   </g>
   <g id="line">
     <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
