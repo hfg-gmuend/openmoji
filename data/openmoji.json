@@ -1445,6 +1445,23 @@
     "order": 90
   },
   {
+    "emoji": "🫪",
+    "hexcode": "1FAEA",
+    "group": "smileys-emotion",
+    "subgroups": "face-concerned",
+    "annotation": "distorted face",
+    "tags": "anxiety, bloated, panic, shocked, surprised, vulnerable",
+    "openmoji_tags": "",
+    "openmoji_author": "Natalia Kenig",
+    "openmoji_date": "2025-12-14",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 17,
+    "order": 91
+  },
+  {
     "emoji": "🥺",
     "hexcode": "1F97A",
     "group": "smileys-emotion",
