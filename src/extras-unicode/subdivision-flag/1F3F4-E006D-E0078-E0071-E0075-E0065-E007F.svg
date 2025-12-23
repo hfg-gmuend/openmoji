@@ -1,35 +1,34 @@
-<svg id="emoji" viewBox="0 0 72 72" version="1.1" inkscape:version="1.4.2 (ebf0e940, 2025-05-08)" sodipodi:docname="qro.svg" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
-  <sodipodi:namedview id="namedview24" bordercolor="#000000" borderopacity="0.25" pagecolor="#ffffff" inkscape:current-layer="emoji" inkscape:cx="35.9486" inkscape:cy="36" inkscape:deskcolor="#d1d1d1" inkscape:pagecheckerboard="0" inkscape:pageopacity="0" inkscape:showpageshadow="2" inkscape:window-height="920" inkscape:window-maximized="0" inkscape:window-width="1472" inkscape:window-x="0" inkscape:window-y="36" inkscape:zoom="9.7361"/>
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path id="path1" fill="#b3b3b3" d="m68 4v64h-64v-64h64m4-4h-72v72h72z"/>
-    <path id="path2" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="m12.92 10.96h46.15a1.923 1.923 0 0 1 1.923 1.923v46.15a1.923 1.923 0 0 1-1.923 1.923h-46.15a1.923 1.923 0 0 1-1.923-1.923v-46.15a1.923 1.923 0 0 1 1.923-1.923z"/>
-    <rect id="rect2" x="16" y="4" rx="2.254" ry="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect id="rect3" x="16" y="4" rx="2.254" ry="2.254" width="40" height="64" transform="rotate(90,36,36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <circle id="circle3" cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path fill="#b3b3b3" d="m68 4v64h-64v-64h64m4-4h-72v72h72z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="m12.92 10.96h46.15a1.923 1.923 0 0 1 1.923 1.923v46.15a1.923 1.923 0 0 1-1.923 1.923h-46.15a1.923 1.923 0 0 1-1.923-1.923v-46.15a1.923 1.923 0 0 1 1.923-1.923z"/>
+    <rect x="16" y="4" rx="2.254" ry="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.254" ry="2.254" width="40" height="64" transform="rotate(90,36,36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color" transform="matrix(1.263 0 0 1.263 -9.462 -11.43)">
-    <rect id="rect4" x="5" y="17" width="62" height="38" transform="matrix(.7919 0 0 .7919 7.493 9.053)" fill="#fff"/>
-    <g id="g24" transform="translate(0 -.3986)" stroke-dasharray="none" stroke-width="1.58353127" paint-order="normal">
-      <g id="g10" transform="matrix(1.054 0 0 1.054 -1.938 .7647)" stroke-dasharray="none" stroke-width="1.50240159" paint-order="normal">
-        <circle id="circle5" cx="35.9912" cy="26.3177" r="1.7428" fill="#6a462f" stroke-dasharray="none" stroke-width="1.5024" paint-order="normal"/>
-        <path id="path4" fill="none" stroke="#5c9e31" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.50240159" d="m38.02 28.9a4.248 4.248 0 0 1-2.024 0.5189" paint-order="normal"/>
-        <path id="path5" fill="none" stroke="#5c9e31" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.50240159" d="m33.97 28.9a4.248 4.248 0 0 0 2.024 0.5189" paint-order="normal"/>
+    <rect x="5" y="17" width="62" height="38" transform="matrix(.7919 0 0 .7919 7.493 9.053)" fill="#fff"/>
+    <g transform="translate(0 -.3986)" paint-order="normal">
+      <g transform="matrix(1.054 0 0 1.054 -1.938 .7647)" stroke-width="1.5024" paint-order="normal">
+        <circle cx="35.991" cy="26.318" r="1.7428" fill="#6a462f" paint-order="normal"/>
+        <path fill="none" stroke="#5c9e31" stroke-linecap="round" stroke-linejoin="round" d="m38.02 28.9a4.248 4.248 0 0 1-2.024 0.5189" paint-order="normal"/>
+        <path fill="none" stroke="#5c9e31" stroke-linecap="round" stroke-linejoin="round" d="m33.97 28.9a4.248 4.248 0 0 0 2.024 0.5189" paint-order="normal"/>
       </g>
-      <g id="g19" transform="matrix(.8471 0 0 .8471 5.504 5.419)" stroke-dasharray="none" stroke-width="1.86935577" paint-order="normal">
-        <path id="path11" fill="#1e50a0" stroke-dasharray="none" stroke-width="1.86935577" d="m42 32.15v11.85a2.006 2.006 0 0 1-2 2h-8a2.006 2.006 0 0 1-2-2v-11.85" paint-order="normal"/>
-        <g id="g18" fill="none" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.86935577" paint-order="normal">
-          <path id="path15" stroke="#5c9e31" stroke-dasharray="none" stroke-width="1.86935577" d="m42 48.14a12.6 12.6 0 0 1-6 1.538" paint-order="normal"/>
-          <path id="path16" stroke="#5c9e31" stroke-dasharray="none" stroke-width="1.86935577" d="m30 48.14a12.6 12.6 0 0 0 6 1.538" paint-order="normal"/>
-          <line id="line16" x1="30" x2="42" y1="32.15" y2="32.15" stroke="#f1b31c" stroke-dasharray="none" stroke-width="1.86935577" paint-order="normal"/>
-          <line id="line17" x1="30.5" x2="41.69" y1="38.76" y2="38.76" stroke="#f1b31c" stroke-dasharray="none" stroke-width="1.86935577" paint-order="normal"/>
-          <line id="line18" x1="36" x2="36" y1="38.81" y2="45.52" stroke="#f1b31c" stroke-dasharray="none" stroke-width="1.86935577" paint-order="normal"/>
-          <path id="path18" stroke="#f1b31c" stroke-dasharray="none" stroke-width="1.86935577" d="m42 32.15v11.85a2.006 2.006 0 0 1-2 2h-8a2.006 2.006 0 0 1-2-2v-11.85" paint-order="normal"/>
+      <g transform="matrix(.8471 0 0 .8471 5.504 5.419)" stroke-width="1.8694" paint-order="normal">
+        <path fill="#1e50a0" d="m42 32.15v11.85a2.006 2.006 0 0 1-2 2h-8a2.006 2.006 0 0 1-2-2v-11.85" paint-order="normal"/>
+        <g fill="none" stroke-linecap="round" stroke-linejoin="round" paint-order="normal">
+          <path stroke="#5c9e31" d="m42 48.14a12.6 12.6 0 0 1-6 1.538" paint-order="normal"/>
+          <path stroke="#5c9e31" d="m30 48.14a12.6 12.6 0 0 0 6 1.538" paint-order="normal"/>
+          <line x1="30" x2="42" y1="32.15" y2="32.15" stroke="#f1b31c" paint-order="normal"/>
+          <line x1="30.5" x2="41.69" y1="38.76" y2="38.76" stroke="#f1b31c" paint-order="normal"/>
+          <line x1="36" x2="36" y1="38.81" y2="45.52" stroke="#f1b31c" paint-order="normal"/>
+          <path stroke="#f1b31c" d="m42 32.15v11.85a2.006 2.006 0 0 1-2 2h-8a2.006 2.006 0 0 1-2-2v-11.85" paint-order="normal"/>
         </g>
       </g>
     </g>
-    <circle id="path24" cx="35.9953" cy="35.0519" r="1.462" fill="#f1b31c" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.46201" paint-order="normal"/>
+    <circle cx="35.995" cy="35.052" r="1.462" fill="#f1b31c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.462" paint-order="normal"/>
   </g>
   <g id="line">
-    <rect id="rect24" x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>
