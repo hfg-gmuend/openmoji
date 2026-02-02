@@ -4422,6 +4422,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🉤,1F264,extras-unicode,symbol-other,rounded symbol for shuangxi,,"ideograph, chinese, religion, double happiness, love and marriage, 囍",Robert Winslow,2023-01-06,,,,,10,
 🉥,1F265,extras-unicode,symbol-other,rounded symbol for cai,,"ideograph, chinese, religion, wealth, 财, 財",Robert Winslow,2023-01-06,,,,,10,
 🐱‍💻,1F431-200D-1F4BB,extras-unicode,symbol-other,hacker cat,,"coder, developer, software, technologist, smart, clever, code, notebook, computer",Benedikt Groß,2020-03-06,,,,,?,
+🨀,1FA00,extras-unicode,symbol-other,neutral chess king,,,Natalia Kenig,2026-02-02,,,,,12
+🨁,1FA01,extras-unicode,symbol-other,neutral chess queen,,,Natalia Kenig,2026-02-02,,,,,12
+🨂,1FA02,extras-unicode,symbol-other,neutral chess rook,,,Natalia Kenig,2026-02-02,,,,,12
+🨃,1FA03,extras-unicode,symbol-other,neutral chess bishop,,,Natalia Kenig,2026-02-02,,,,,12
+🨄,1FA04,extras-unicode,symbol-other,neutral chess knight,,,Natalia Kenig,2026-02-02,,,,,12
+🨅,1FA05,extras-unicode,symbol-other,neutral chess pawn,,,Natalia Kenig,2026-02-02,,,,,12
 🯅,1FBC5,extras-unicode,symbol-other,stick figure,,legacy computing,Alexander Müller,2020-11-04,,,,,13,
 🯆,1FBC6,extras-unicode,symbol-other,stick figure with arms raised,,legacy computing,Alexander Müller,2020-11-04,,,,,13,
 🯇,1FBC7,extras-unicode,symbol-other,stick figure leaning left,,legacy computing,Alexander Müller,2020-11-04,,,,,13,
@@ -4449,6 +4455,17 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ◭,25ED,extras-unicode,symbol-other,up-pointing triangle with left half black,,,loominade,2020-04-22,,,,,1.1,
 ◮,25EE,extras-unicode,symbol-other,up-pointing triangle with right half black,,,loominade,2020-04-22,,,,,1.1,
 ★,2605,extras-unicode,symbol-other,black star,,full star,Alexander Müller,2020-11-09,,,,,1,
+♔,2654,extras-unicode,symbol-other,white chess king,,,Natalia Kenig,2026-02-02,,,,,1.1
+♕,2655,extras-unicode,symbol-other,white chess queen,,,Natalia Kenig,2026-02-02,,,,,1.1
+♖,2656,extras-unicode,symbol-other,white chess rook,,,Natalia Kenig,2026-02-02,,,,,1.1
+♗,2657,extras-unicode,symbol-other,white chess bishop,,,Natalia Kenig,2026-02-02,,,,,1.1
+♘,2658,extras-unicode,symbol-other,white chess knight,,,Natalia Kenig,2026-02-02,,,,,1.1
+♙,2659,extras-unicode,symbol-other,white chess pawn,,,Natalia Kenig,2026-02-02,,,,,1.1
+♚,265A,extras-unicode,symbol-other,black chess king,,,Natalia Kenig,2026-02-02,,,,,1.1
+♛,265B,extras-unicode,symbol-other,black chess queen,,,Natalia Kenig,2026-02-02,,,,,1.1
+♜,265C,extras-unicode,symbol-other,black chess rook,,,Natalia Kenig,2026-02-02,,,,,1.1
+♝,265D,extras-unicode,symbol-other,black chess bishop,,,Natalia Kenig,2026-02-02,,,,,1.1
+♞,265E,extras-unicode,symbol-other,black chess knight,,,Natalia Kenig,2026-02-02,,,,,1.1
 ⬌,2B0C,extras-unicode,symbol-other,left right black arrow,,,Guemil Project,2019-01-14,,,,,4,
 ⬍,2B0D,extras-unicode,symbol-other,up down black arrow,,,Guemil Project,2019-01-14,,,,,4,
 ⬟,2B1F,extras-unicode,symbol-other,black pentagon,,equilateral polygon,loominade,2020-04-17,,,,,5,
