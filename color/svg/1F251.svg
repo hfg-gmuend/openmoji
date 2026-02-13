@@ -1,11 +1,11 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <circle cx="36.5" cy="36.5" r="27.5" fill="#d0cfce"/>
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="color" transform="matrix(.2979 0 0 .2979 -516.7 -11.66)">
+    <circle cx="1856" cy="160.6" r="83.22" fill="#ea5a47" stroke-width="0"/>
+    <path transform="matrix(.7906 0 0 .8072 937.1 -232.6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.405" d="m1205 439.5s-0.809 85.76-1.018 107.8c-0.027 2.838-2.343 5.12-5.181 5.103-7.926-0.045-22.24-0.128-22.24-0.128" clip-rule="evenodd"/>
+    <path transform="matrix(.7906 0 0 .8072 937.1 -232.6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.405" d="m1115 498.2v-24.28c0-1.367 0.542-2.677 1.509-3.643 0.966-0.966 2.276-1.509 3.643-1.509h43.31c1.369 0 2.681 0.545 3.648 1.514 0.966 0.969 1.507 2.283 1.504 3.652-0.026 9.038-0.077 27.61-0.102 36.62-0.01 2.833-2.302 5.128-5.135 5.138-10.21 0.034-32.99 0.11-43.24 0.144-1.371 5e-3 -2.688-0.537-3.658-1.506s-1.514-2.284-1.511-3.655c0.013-6.981 0.035-18.55 0.035-18.55" clip-rule="evenodd"/>
+    <path transform="matrix(.7906 0 0 .8072 937.1 -232.6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.405" d="m1101 437.9h121.9" clip-rule="evenodd"/>
   </g>
-  <g id="line">
-    <path d="M36.5,11A25.5,25.5,0,1,1,11,36.5,25.5288,25.5288,0,0,1,36.5,11m0-2A27.5,27.5,0,1,0,64,36.5,27.5,27.5,0,0,0,36.5,9Z"/>
-    <line x1="21" x2="52" y1="25" y2="25" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="37.5 52.5 45.5 52.5 45.5 26.5"/>
-    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="25.5 47.5 25.5 33.5 37.5 33.5 37.5 43.5 26.5 43.5"/>
+  <g id="line" transform="matrix(.2511 0 0 .2511 -255.1 -87.02)">
+    <circle cx="1856" cy="160.6" r="83.22" transform="matrix(1.186 0 0 1.186 -1042 300.2)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="6.714" clip-rule="evenodd"/>
   </g>
 </svg>

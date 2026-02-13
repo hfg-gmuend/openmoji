@@ -1,14 +1,10 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <rect x="11.8049" y="11.6024" rx="1.6991" width="48.9841" height="48.9841" fill="#d0cfce"/>
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="color" transform="matrix(.25 0 0 .2688 -.4584 -.7176)">
+    <rect x="45.83" y="68.2" width="200" height="136.4" fill="#92d3f5" stroke-width="0"/>
+    <path transform="matrix(.9598 0 0 .8927 1.832 2.67)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.333" d="m74.59 115.2h52.97c1.326 0 2.598 0.527 3.536 1.465s1.464 2.209 1.464 3.535v68.79h-57.97" clip-rule="evenodd"/>
+    <path transform="matrix(.9598 0 0 .8927 90.99 2.67)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.333" d="m74.59 115.2h52.97c1.326 0 2.598 0.527 3.536 1.465s1.464 2.209 1.464 3.535v68.79h-57.97" clip-rule="evenodd"/>
   </g>
-  <g id="line">
-    <g>
-      <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="5" stroke-width="2" d="M17.3676,26.2186h16.53a.43.43,0,0,1,.43.43V48.9454"/>
-      <line x1="34.3267" x2="17.3676" y1="46.2827" y2="46.2827" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="5" stroke-width="2"/>
-      <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="5" stroke-width="2" d="M37.4746,26.2186h16.53a.43.43,0,0,1,.4295.43V48.9454"/>
-      <line x1="54.4338" x2="37.4746" y1="46.2827" y2="46.2827" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="5" stroke-width="2"/>
-      <rect x="11.8049" y="11.6024" rx="1.6991" width="48.9841" height="48.9841" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
-    </g>
+  <g id="line" transform="matrix(.223 0 0 .223 -1.082 .3072)">
+    <rect x="45.83" y="68.2" width="200" height="136.4" transform="matrix(1.121 0 0 1.205 2.794 -4.594)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.715" clip-rule="evenodd"/>
   </g>
 </svg>

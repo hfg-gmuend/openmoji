@@ -1,32 +1,20 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <path fill="#ea5a47" d="M59.0349,60h-46.07A.9679.9679,0,0,1,12,59.0349v-46.07A.9679.9679,0,0,1,12.9651,12h46.07A.9679.9679,0,0,1,60,12.9651v46.07A.9679.9679,0,0,1,59.0349,60Z"/>
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="color" transform="matrix(.2609 0 0 .2609 -91.17 -3.172)" fill-rule="evenodd" stroke-miterlimit="10" clip-rule="evenodd">
+    <rect x="391.7" y="54.17" width="191.7" height="191.7" fill="#ea5a47"/>
+    <path transform="matrix(.9634 0 0 .9634 -958 -643)" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958" d="m1475 893.4s0.214-47.42 0.285-63.29c0.013-2.822 2.303-5.102 5.125-5.102h75.1c1.365 0 2.673 0.544 3.635 1.512s1.498 2.279 1.49 3.644c-0.068 11.32-0.231 38.5-0.32 53.25-0.033 5.494-4.495 9.929-9.989 9.929h-9.667" clip-rule="evenodd"/>
+    <path transform="matrix(.9634 0 0 .9634 -958 -643)" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958" d="m1518 804.8v64.84" clip-rule="evenodd"/>
+    <path transform="matrix(.9634 0 0 .9634 -958 -643)" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958" d="m1497 754.9-0.047 47.2" clip-rule="evenodd"/>
+    <path transform="matrix(.9634 0 0 .9634 -918.5 -643)" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958" d="m1497 754.9-0.047 47.2" clip-rule="evenodd"/>
+    <path transform="matrix(.9634 0 0 .9634 -958 -643)" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958" d="m1473 774.2 88.34 0.102" clip-rule="evenodd"/>
+    <path transform="matrix(.9634 0 0 .9634 -958 -643)" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958" d="m1467 802.9h100.6" clip-rule="evenodd"/>
+    <path transform="matrix(.9634 0 0 .9634 -958 -643)" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958" d="m1494 842.6-0.121 35.41" clip-rule="evenodd"/>
+    <path transform="matrix(.9634 0 0 .9634 -958 -643)" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958" d="m1494 870.5 47.62-0.07" clip-rule="evenodd"/>
+    <path transform="matrix(.9634 0 0 .9634 -912.8 -643)" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958" d="m1495 842.6v33.41" clip-rule="evenodd"/>
+    <path transform="matrix(.9634 0 0 .9634 -958 -643)" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958" d="m1459 842.6s-16.42 36.53-23.08 47.09" clip-rule="evenodd"/>
+    <path transform="matrix(.9634 0 0 .9634 -958 -643)" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958" d="m1431 800.6c13.54 5.643 23.26 12.14 23.26 12.14" clip-rule="evenodd"/>
+    <path transform="matrix(.9634 0 0 .9634 -958 -643)" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958" d="m1439 756.5c10.72 4.762 21.02 13.92 21.02 13.92" clip-rule="evenodd"/>
   </g>
-  <g id="line" fill="none" stroke="#000" stroke-width="2">
-    <path stroke-miterlimit="10" d="M59.0349,60h-46.07A.9679.9679,0,0,1,12,59.0349v-46.07A.9679.9679,0,0,1,12.9651,12h46.07A.9679.9679,0,0,1,60,12.9651v46.07A.9679.9679,0,0,1,59.0349,60Z"/>
-    <line x1="20.95" x2="23.95" y1="21.5" y2="24.5" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="19.95" x2="22.95" y1="29.5" y2="32.5" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="27.05" x2="50.05" y1="24" y2="24" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="34.05" x2="34.05" y1="21" y2="29" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="44.05" x2="44.05" y1="21" y2="29" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="26.05" x2="52.05" y1="30" y2="30" stroke-linecap="round" stroke-linejoin="round"/>
-    <polyline transform="translate(-.4469 .5)" stroke-linecap="round" stroke-linejoin="round" points="39.5 30.5 39.5 44.5 44.5 44.5 44.5 39.5"/>
-    <polyline transform="translate(-.4469 .5)" stroke-linecap="round" stroke-linejoin="round" points="34.5 39.5 34.5 44.5 34.5 46.5"/>
-    <line x1="39.05" x2="35.05" y1="45" y2="45" stroke-linecap="round" stroke-linejoin="round"/>
-    <path stroke-linecap="round" stroke-linejoin="round" d="m24.05 40s-1 7-4 9"/>
-    <polyline transform="translate(-.4469 .5)" stroke-linecap="round" stroke-linejoin="round" points="28.5 50.5 28.5 34.5 49.5 34.5 49.5 49.5 44.5 49.5"/>
-  </g>
-  <g id="color-foreground" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-    <line x1="20.95" x2="23.95" y1="21.5" y2="24.5"/>
-    <line x1="19.95" x2="22.95" y1="29.5" y2="32.5"/>
-    <line x1="27.05" x2="50.05" y1="24" y2="24"/>
-    <line x1="34.05" x2="34.05" y1="21" y2="29"/>
-    <line x1="44.05" x2="44.05" y1="21" y2="29"/>
-    <line x1="26.05" x2="52.05" y1="30" y2="30"/>
-    <polyline transform="translate(-.4469 .5)" points="39.5 30.5 39.5 44.5 44.5 44.5 44.5 39.5"/>
-    <polyline transform="translate(-.4469 .5)" points="34.5 39.5 34.5 44.5 34.5 46.5"/>
-    <line x1="39.05" x2="35.05" y1="45" y2="45"/>
-    <path d="m24.05 40s-1 7-4 9"/>
-    <polyline transform="translate(-.4469 .5)" points="28.5 50.5 28.5 34.5 49.5 34.5 49.5 49.5 44.5 49.5"/>
+  <g id="line" transform="matrix(.2545 0 0 .2545 -345.6 -173.5)" fill-rule="evenodd" stroke-miterlimit="10" clip-rule="evenodd">
+    <rect x="391.7" y="54.17" width="191.7" height="191.7" transform="matrix(1.025 0 0 1.025 999.5 669.4)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.667"/>
   </g>
 </svg>
