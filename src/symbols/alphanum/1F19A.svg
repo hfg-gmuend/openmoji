@@ -9,7 +9,7 @@
  <g id="color" transform="translate(-.005724 -.00219)">
   <rect transform="translate(.005724 .00219)" x="12" y="12" width="48" height="47.83" fill="#5c9e31"/>
  </g>
- <g id="line-supplement" transform="translate(-.005724 -.00219)" clip-rule="evenodd" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4.81">
+ <g id="color-foreground" transform="translate(-.005724 -.00219)" clip-rule="evenodd" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4.81">
   <path d="m49.15 30.93c-0.493-1.919-2.624-3.36-5.178-3.36-2.92 0-5.286 1.883-5.286 4.209 0 2.323 2.367 4.209 5.286 4.209l-0.1082 0.01443c2.92 0 5.286 1.886 5.286 4.209 0 2.326-2.367 4.209-5.286 4.209-2.554 0-4.685-1.443-5.178-3.362"/>
   <path d="m32.48 27.6-4.81 16.84-4.81-16.84"/>
  </g>

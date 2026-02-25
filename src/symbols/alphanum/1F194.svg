@@ -9,9 +9,11 @@
  <g id="color" transform="translate(-.0006922 -.01378)" stroke="#d22f27">
   <rect x="12" y="12.01" width="48" height="47.83" ry="5" fill="#fff" stroke="none" stroke-width="2"/>
  </g>
- <g id="line-supplement" transform="translate(-.0006922 -.01378)" fill="none" stroke="#d22f27">
+ <g id="color-foreground" transform="translate(-.0006922 -.01378)" fill="none" stroke="#d22f27">
   <path transform="matrix(0 2.404 2.404 0 35.81 35.73)" d="m-3.5-3.5h7" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2px"/>
   <path transform="matrix(2.404 0 0 2.404 41.53 27.31)" d="m0 6.974h-2.427v-6.974h2.427c1.148 0 2.08 0.931 2.08 2.079v2.815c0 1.149-0.932 2.08-2.08 2.08z" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2px"/>
   <rect x="12" y="12.01" width="48" height="47.83" ry="5" stroke-width="2"/>
+ </g>
+ <g id="line">
  </g>
 </svg>

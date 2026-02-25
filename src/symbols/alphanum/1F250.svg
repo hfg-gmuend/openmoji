@@ -9,7 +9,7 @@
  <g id="color" transform="matrix(.3013 0 0 .3013 -523.2 -12.34)">
   <circle transform="matrix(3.618 0 0 3.618 1726 30.28)" cx="35.98" cy="35.98" r="25.69" fill="#fff" stroke-width=".9174"/>
  </g>
- <g id="line-supplement" transform="matrix(.3013 0 0 .3013 -523.2 -12.34)" stroke="#d22f27" stroke-linejoin="round">
+ <g id="color-foreground" transform="matrix(.3013 0 0 .3013 -523.2 -12.34)" stroke="#d22f27" stroke-linejoin="round">
   <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" d="m1827 111.7 62.11 0.04" clip-rule="evenodd" fill="none" stroke-miterlimit="1.5" stroke-width="9.175"/>
   <path transform="matrix(1.072 0 0 1.083 -114.8 -1.488)" d="m1885 104.1v27.75c0 1.459-1.28 2.643-2.857 2.643h-48.58c-1.578 0-2.858-1.184-2.858-2.643v-27.75c0-1.458 1.28-2.643 2.858-2.643h48.58c1.577 0 2.857 1.185 2.857 2.643z" clip-rule="evenodd" fill-opacity="0" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="7.701"/>
   <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" d="m1817 150.2h80.11" clip-rule="evenodd" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.175"/>
@@ -20,5 +20,7 @@
   <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" d="m1772 155c27.3-23.26 36.08-40.52 36.08-40.52" clip-rule="evenodd" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.175"/>
   <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" d="m1773 115.8c17.49-12.88 30.78-27.92 30.78-27.92" clip-rule="evenodd" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.175"/>
   <circle transform="matrix(3.618 0 0 3.618 1726 30.28)" cx="35.98" cy="35.98" r="25.69" fill="none" stroke-width="1.835"/>
+ </g>
+ <g id="line">
  </g>
 </svg>

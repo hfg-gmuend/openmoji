@@ -11,7 +11,7 @@
   <rect transform="translate(.005724 .00219)" x="11" y="11" width="25.03" height="25.12" fill="#3f3f3f" stroke-linecap="round" stroke-width="2.019"/>
   <rect x="36" y="36" width="25.03" height="25.12" fill="#3f3f3f" stroke-linecap="round" stroke-width="2.019"/>
  </g>
- <g id="line-supplement" transform="translate(-.005724 -.00219)" clip-rule="evenodd" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.885px">
+ <g id="color-foreground" transform="translate(-.005724 -.00219)" clip-rule="evenodd" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.885px">
   <path d="m44.02 21c0.3905-1.902 2.075-3.336 4.093-3.336 1.154 0 2.197 0.4682 2.953 1.224 1.175 1.177 1.068 3.13-0.03497 4.375l-7.095 8h8.354" stroke="#3f3f3f"/>
   <path d="m20.96 51.93c0.3575 1.55 1.904 2.714 3.757 2.714 2.118 0 3.835-1.521 3.835-3.4 0-1.877-1.717-3.4-3.835-3.4 2.118 0 3.835-1.521 3.835-3.4 0-1.877-1.717-3.4-3.835-3.4-1.853 0-3.4 1.168-3.757 2.716" stroke="#3f3f3f"/>
   <path d="m21.34 20.48 3.763-2.821v13.6" stroke="#fff"/>

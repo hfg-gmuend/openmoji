@@ -9,7 +9,7 @@
  <g id="color" stroke="#d22f27">
   <rect x="12" y="12" width="48" height="47.83" ry="5" fill="#fff" stroke="none" stroke-width="2"/>
  </g>
- <g id="line-supplement" fill="none" stroke="#d22f27">
+ <g id="color-foreground" fill="none" stroke="#d22f27">
   <path transform="matrix(1.398 0 0 1.762 54.52 53.69)" d="m0-7h-4v7h4" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2px"/>
   <path transform="matrix(1.398 0 0 1.762 48.93 47.53)" d="m0 0h3" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2px"/>
   <path transform="matrix(1.398 0 0 1.762 44.04 46)" d="m0-7h-4v7h4" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2px"/>
@@ -18,5 +18,7 @@
   <path transform="matrix(.5542 1.617 1.284 -.6983 34.07 32.76)" d="m-1.155-1.757 3.827 1e-3" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2px"/>
   <path transform="matrix(-1.398 0 0 1.762 18.87 24.45)" d="m-2 0h3v3.5-7h-4" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2px"/>
   <rect x="12" y="12" width="48" height="47.83" ry="5" stroke-width="2"/>
+ </g>
+ <g id="line">
  </g>
 </svg>

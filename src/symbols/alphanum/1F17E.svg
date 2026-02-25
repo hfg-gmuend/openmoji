@@ -9,7 +9,7 @@
  <g id="color">
   <rect x="12" y="12" width="48" height="47.83" fill="#d22f27"/>
  </g>
- <g id="line-supplement">
+ <g id="color-foreground">
   <path d="m36.03 47.9c-4.643 0-8.411-3.765-8.411-8.411v-6.729c0-4.646 3.768-8.411 8.411-8.411 4.646 0 8.411 3.765 8.411 8.411v6.729c0 4.646-3.765 8.411-8.411 8.411z" clip-rule="evenodd" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6.729px"/>
  </g>
  <g id="line">

@@ -12,7 +12,7 @@
   <rect x="24.71" y="24.62" width="22.59" height="22.67" fill="#3f3f3f" stroke-width="1.822"/>
   <rect x="38.46" y="38.34" width="22.59" height="22.67" fill="#3f3f3f" stroke-width="1.822"/>
  </g>
- <g id="line-supplement" clip-rule="evenodd" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2px">
+ <g id="color-foreground" clip-rule="evenodd" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2px">
   <path transform="matrix(1.573 0 0 1.573 35.53 3.018)" d="m-5.446 16.01-3-7-3 7"/>
   <path transform="matrix(1.573 0 0 1.573 35.53 3.018)" d="m-10.45 14.33h4"/>
   <path transform="matrix(1.573 0 0 1.573 36.26 3.016)" d="m0.2971 24.45h-2.669v-3.487h2.669c0.963 0 1.744 0.78 1.744 1.743s-0.781 1.744-1.744 1.744z"/>

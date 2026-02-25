@@ -9,7 +9,7 @@
  <g id="color" transform="matrix(.2609 0 0 .2609 -91.17 -3.172)">
   <rect transform="matrix(.9939 0 0 .9939 -1337 -333.1)" x="1743" y="393.7" width="185.1" height="184.5" fill="#d22f27" stroke-width="3.857"/>
  </g>
- <g transform="matrix(.2609 0 0 .2609 -91.17 -3.172)" clip-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="10.01">
+ <g id="color-foreground" transform="matrix(.2609 0 0 .2609 -91.17 -3.172)" clip-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="10.01">
   <path d="m456 134.7 65.4 0.2556" fill="none"/>
   <path d="m534.5 163.5v41.74c0 2.194-1.781 3.976-3.975 3.976h-83.89c-2.194 0-3.976-1.782-3.976-3.976v-41.74c0-2.194 1.782-3.975 3.976-3.975h83.89c2.194 0 3.975 1.781 3.975 3.975z" fill-opacity="0"/>
   <path d="m423.4 136.5c29.38-12.39 64.23-46.88 64.23-46.88s34.12 32.32 66.31 48.41" fill="none"/>
