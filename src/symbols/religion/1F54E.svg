@@ -6,16 +6,22 @@
   <rect transform="translate(72) rotate(90)" x="16" y="4" width="40" height="64" rx="2.254" ry="2.254" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
   <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
  </g>
- <g id="color">
-  <rect x="12" y="12" width="48" height="47.83" fill="#8967aa"/>
- </g>
- <g id="color-foreground" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+ <g id="line-supplement" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
   <line x1="36" x2="36" y1="50.15" y2="21.85" stroke-width="3"/>
   <line x1="30.81" x2="41.19" y1="50.26" y2="50.26" stroke-width="3"/>
   <path d="m40.64 21.34a4.635 4.618 0 0 1-2.318 4 4.635 4.618 0 0 1-4.635-1e-6 4.635 4.618 0 0 1-2.318-4" stroke-width="2"/>
   <path d="m44.87 21.34a8.871 8.858 0 0 1-4.435 7.671 8.871 8.858 0 0 1-8.871 0 8.871 8.858 0 0 1-4.435-7.671" stroke-width="2"/>
   <path d="m49.11 21.34a13.11 13.09 0 0 1-6.552 11.34 13.11 13.09 0 0 1-13.11-2e-6 13.11 13.09 0 0 1-6.552-11.34" stroke-width="2"/>
   <path d="m53.34 21.34a17.34 17.34 0 0 1-8.67 15.02 17.34 17.34 0 0 1-17.34-1e-6 17.34 17.34 0 0 1-8.67-15.02" stroke-width="2"/>
+ </g>
+ <g id="color">
+  <rect x="12" y="12" width="48" height="47.83" fill="#8967aa"/>
+  <line x1="36" x2="36" y1="50.15" y2="21.85" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+  <line x1="30.81" x2="41.19" y1="50.26" y2="50.26" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+  <path d="m40.64 21.34a4.635 4.618 0 0 1-2.318 4 4.635 4.618 0 0 1-4.635-1e-6 4.635 4.618 0 0 1-2.318-4" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+  <path d="m44.87 21.34a8.871 8.858 0 0 1-4.435 7.671 8.871 8.858 0 0 1-8.871 0 8.871 8.858 0 0 1-4.435-7.671" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+  <path d="m49.11 21.34a13.11 13.09 0 0 1-6.552 11.34 13.11 13.09 0 0 1-13.11-2e-6 13.11 13.09 0 0 1-6.552-11.34" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+  <path d="m53.34 21.34a17.34 17.34 0 0 1-8.67 15.02 17.34 17.34 0 0 1-17.34-1e-6 17.34 17.34 0 0 1-8.67-15.02" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
  </g>
  <g id="line">
   <rect x="12" y="12" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
