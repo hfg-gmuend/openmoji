@@ -6,14 +6,18 @@
   <rect transform="rotate(90,36,36)" x="16" y="4" width="40" height="64" rx="2.254" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
   <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
  </g>
- <g id="color" transform="translate(-.005724 -.00219)">
-  <rect transform="translate(.005724 .00219)" x="12" y="12" width="48" height="47.83" fill="#5c9e31"/>
- </g>
- <g id="color-foreground" transform="translate(-.005724 -.00219)" clip-rule="evenodd" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2px">
+ <g id="line-supplement" transform="translate(-.005724 -.00219)" clip-rule="evenodd" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2px">
   <path transform="matrix(0 2.392 2.392 0 48.74 36.12)" d="m-3.5-3.5h7"/>
   <path transform="matrix(1.582 -1.795 -1.795 -1.582 46.1 40.35)" d="m-1.025 2.27h6.05"/>
   <path transform="matrix(1.097 2.126 2.126 -1.097 51.61 33.85)" d="m-1.416-2.323h5.228"/>
   <path transform="matrix(2.392 0 0 2.392 27.2 27.75)" d="m0 7c-1.38 0-2.5-1.119-2.5-2.5v-2c0-1.381 1.12-2.5 2.5-2.5 1.381 0 2.5 1.119 2.5 2.5v2c0 1.381-1.119 2.5-2.5 2.5z"/>
+ </g>
+ <g id="color" transform="translate(-.005724 -.00219)">
+  <rect transform="translate(.005724 .00219)" x="12" y="12" width="48" height="47.83" fill="#5c9e31"/>
+  <path transform="matrix(0,2.392,2.392,0,48.74,36.12)" d="m-3.5-3.5h7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path transform="matrix(1.582,-1.795,-1.795,-1.582,46.1,40.35)" d="m-1.025 2.27h6.05" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.999"/>
+  <path transform="matrix(1.097,2.126,2.126,-1.097,51.61,33.85)" d="m-1.416-2.323h5.228" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path transform="matrix(2.392,0,0,2.392,27.2,27.75)" d="m0 7c-1.38 0-2.5-1.119-2.5-2.5v-2c0-1.381 1.12-2.5 2.5-2.5 1.381 0 2.5 1.119 2.5 2.5v2c0 1.381-1.119 2.5-2.5 2.5z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
  </g>
  <g id="line">
   <rect x="12" y="12" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

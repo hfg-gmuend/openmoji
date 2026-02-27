@@ -6,14 +6,18 @@
   <rect transform="rotate(90,36,36)" x="16" y="4" width="40" height="64" rx="2.254" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
   <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
  </g>
- <g id="color" transform="translate(-.005724 -.00219)">
-  <rect transform="translate(.005724 .00219)" x="12" y="12" width="48" height="47.83" fill="#d22f27"/>
- </g>
- <g id="color-foreground" transform="translate(-.005724 -.00219)" clip-rule="evenodd" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4.754px">
+ <g id="line-supplement" transform="translate(-.005724 -.00219)" clip-rule="evenodd" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4.754px">
   <path transform="translate(1.885 -.5999)" d="m32.59 45.02-7.131-16.64-7.131 16.64"/>
   <path transform="translate(1.885 -.5999)" d="m20.7 41.02h9.508"/>
   <path transform="translate(.803 -.02381)" d="m46.91 36.2h-6.344v-8.289h6.344c2.289 0 4.146 1.857 4.146 4.146s-1.857 4.143-4.146 4.143z"/>
   <path transform="translate(.803 -.02381)" d="m46.91 44.49h-6.344v-8.289h6.344c2.289 0 4.146 1.854 4.146 4.143s-1.857 4.146-4.146 4.146z"/>
+ </g>
+ <g id="color" transform="translate(-.005724 -.00219)">
+  <rect transform="translate(.005724 .00219)" x="12" y="12" width="48" height="47.83" fill="#d22f27"/>
+  <path transform="translate(1.885 -.5999)" d="m32.59 45.02-7.131-16.64-7.131 16.64" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.754"/>
+  <path transform="translate(1.885 -.5999)" d="m20.7 41.02h9.508" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.754"/>
+  <path transform="translate(.803 -.02381)" d="m46.91 36.2h-6.344v-8.289h6.344c2.289 0 4.146 1.857 4.146 4.146s-1.857 4.143-4.146 4.143z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.754"/>
+  <path transform="translate(.803 -.02381)" d="m46.91 44.49h-6.344v-8.289h6.344c2.289 0 4.146 1.854 4.146 4.143s-1.857 4.146-4.146 4.146z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.754"/>
  </g>
  <g id="line">
   <rect x="12" y="12" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>

@@ -6,10 +6,7 @@
   <rect transform="translate(72) rotate(90)" x="16" y="4" width="40" height="64" rx="2.254" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
   <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
  </g>
- <g id="color" transform="matrix(.3004 0 0 .3004 -521.6 -12.27)">
-  <circle transform="matrix(3.619 0 0 3.619 1726 30.29)" cx="36" cy="36.04" r="25.76" fill="#d22f27" stroke-width=".92"/>
- </g>
- <g id="color-foreground" transform="matrix(.3004 0 0 .3004 -521.6 -12.27)" clip-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.98">
+ <g id="line-supplement" transform="matrix(.3004 0 0 .3004 -521.6 -12.27)" clip-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.98">
   <path transform="matrix(1.043 0 0 1.043 -77.1 -5.928)" d="m1861 157.3s3.157 40.12-23.02 52.17" fill="none"/>
   <path transform="matrix(1.043 0 0 1.043 -77.1 -5.928)" d="m1880 155.8s0.1427 38.03 0.1867 49.66c0.01 1.848 1.507 3.341 3.354 3.341h12.83c1.746 0 4.438-1.11 5.663-2.828 2.756-3.866 2.391-9.376 1.859-14.12" fill="none"/>
   <path transform="matrix(1.043 0 0 1.043 -77.1 -5.928)" d="m1821 209.5 0.1493-52.17" fill="none"/>
@@ -17,6 +14,16 @@
   <path transform="matrix(1.043 0 0 1.043 -77.1 -5.928)" d="m1822 155.8 18.46 17.21" fill="none"/>
   <path transform="matrix(1.043 0 0 1.043 -77.1 -5.928)" d="m1802 130.6 35.51 0.078s-9.782 25.5-38.95 45.92" fill="none"/>
   <path transform="matrix(1.043 0 0 1.043 -77.1 -5.928)" d="m1821 109.1 0.07 20.06" fill="none"/>
+ </g>
+ <g id="color" transform="matrix(.3004 0 0 .3004 -521.6 -12.27)">
+  <circle transform="matrix(3.619,0,0,3.619,1726,30.29)" cx="36" cy="36.04" r="25.76" fill="#d22f27" stroke-width=".92"/>
+  <path transform="matrix(1.043 0 0 1.043 -77.1 -5.928)" d="m1861 157.3s3.157 40.12-23.02 52.17" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.979"/>
+  <path transform="matrix(1.043 0 0 1.043 -77.1 -5.928)" d="m1880 155.8s0.1427 38.03 0.1867 49.66c0.01 1.848 1.507 3.341 3.354 3.341h12.83c1.746 0 4.438-1.11 5.663-2.828 2.756-3.866 2.391-9.376 1.859-14.12" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.979"/>
+  <path transform="matrix(1.043 0 0 1.043 -77.1 -5.928)" d="m1821 209.5 0.1493-52.17" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.979"/>
+  <path transform="matrix(1.043 0 0 1.043 -77.1 -5.928)" d="m1897 120.1v32.03c0 1.684-1.367 3.052-3.052 3.052h-43.3c-1.684 0-3.052-1.367-3.052-3.052v-32.03c0-1.683 1.368-3.051 3.052-3.051h43.3c1.684 0 3.052 1.368 3.052 3.051z" fill-opacity="0" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.979"/>
+  <path transform="matrix(1.043 0 0 1.043 -77.1 -5.928)" d="m1822 155.8 18.46 17.21" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.979"/>
+  <path transform="matrix(1.043 0 0 1.043 -77.1 -5.928)" d="m1802 130.6 35.51 0.078s-9.782 25.5-38.95 45.92" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.979"/>
+  <path transform="matrix(1.043 0 0 1.043 -77.1 -5.928)" d="m1821 109.1 0.07 20.06" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.979"/>
  </g>
  <g id="line" transform="matrix(1.087 0 0 1.087 -3.13 -3.172)">
   <circle cx="36" cy="36.04" r="25.76" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.84"/>

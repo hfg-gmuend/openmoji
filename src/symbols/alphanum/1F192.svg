@@ -6,12 +6,14 @@
   <rect transform="rotate(90,36,36)" x="16" y="4" width="40" height="64" rx="2.254" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
   <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
  </g>
+ <g id="line-supplement" fill="none" stroke="#000">
+  <rect x="12" y="12" width="48" height="48" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="m11.92 30.64 48.1-10.98v21.7l-48.1 11.34z" clip-rule="evenodd" fill-rule="evenodd" stroke-width="1.963"/>
+ </g>
  <g id="color">
   <path d="m11.87 30.64 48.19-10.97v21.7l-48.19 11.33z" clip-rule="evenodd" fill-rule="evenodd" stroke="#61b2e4" stroke-width="1.965"/>
   <rect x="12" y="12" width="48" height="47.83" fill="#61b2e4"/>
   <path transform="matrix(1.564,0,0,1.797,174.7,29.71)" d="m-104.7 0.52 31.96-6.1v12.06l-31.96 6.3z" clip-rule="evenodd" fill="#fff" fill-rule="evenodd"/>
- </g>
- <g id="color-foreground">
   <rect x="12" y="12" width="48" height="48" fill="none" stroke="#61b2e4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
  </g>
  <g id="line" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.456">
