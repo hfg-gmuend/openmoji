@@ -27207,7 +27207,7 @@
     "annotation": "person kneeling: facing right",
     "tags": "facing, kneel, kneeling, knees, person, right",
     "openmoji_tags": "",
-    "openmoji_author": "Laura Dworatschek",
+    "openmoji_author": "Laudra Dworatschek",
     "openmoji_date": "2019-05-06",
     "skintone": "",
     "skintone_combination": "single",
@@ -27224,7 +27224,7 @@
     "annotation": "person kneeling: light skin tone, facing right",
     "tags": "",
     "openmoji_tags": "",
-    "openmoji_author": "Laura Dworatschek",
+    "openmoji_author": "Laudra Dworatschek",
     "openmoji_date": "2019-05-06",
     "skintone": 1,
     "skintone_combination": "single",
@@ -27241,7 +27241,7 @@
     "annotation": "person kneeling: medium-light skin tone, facing right",
     "tags": "",
     "openmoji_tags": "",
-    "openmoji_author": "Laura Dworatschek",
+    "openmoji_author": "Laudra Dworatschek",
     "openmoji_date": "2019-05-06",
     "skintone": 2,
     "skintone_combination": "single",
@@ -27258,7 +27258,7 @@
     "annotation": "person kneeling: medium skin tone, facing right",
     "tags": "",
     "openmoji_tags": "",
-    "openmoji_author": "Laura Dworatschek",
+    "openmoji_author": "Laudra Dworatschek",
     "openmoji_date": "2019-05-06",
     "skintone": 3,
     "skintone_combination": "single",
@@ -27275,7 +27275,7 @@
     "annotation": "person kneeling: medium-dark skin tone, facing right",
     "tags": "",
     "openmoji_tags": "",
-    "openmoji_author": "Laura Dworatschek",
+    "openmoji_author": "Laudra Dworatschek",
     "openmoji_date": "2019-05-06",
     "skintone": 4,
     "skintone_combination": "single",
@@ -27292,7 +27292,7 @@
     "annotation": "person kneeling: dark skin tone, facing right",
     "tags": "",
     "openmoji_tags": "",
-    "openmoji_author": "Laura Dworatschek",
+    "openmoji_author": "Laudra Dworatschek",
     "openmoji_date": "2019-05-06",
     "skintone": 5,
     "skintone_combination": "single",
@@ -69258,7 +69258,7 @@
     "order": ""
   },
   {
-    "emoji": "♀",
+    "emoji": "‍♀️",
     "hexcode": "E0AC-200D-2640-FE0F",
     "group": "extras-openmoji",
     "subgroups": "emergency",
@@ -69275,7 +69275,7 @@
     "order": ""
   },
   {
-    "emoji": "♂",
+    "emoji": "‍♂️",
     "hexcode": "E0AC-200D-2642-FE0F",
     "group": "extras-openmoji",
     "subgroups": "emergency",
@@ -69309,7 +69309,7 @@
     "order": ""
   },
   {
-    "emoji": "♀",
+    "emoji": "‍♀️",
     "hexcode": "E0AD-200D-2640-FE0F",
     "group": "extras-openmoji",
     "subgroups": "emergency",
@@ -69326,7 +69326,7 @@
     "order": ""
   },
   {
-    "emoji": "♂",
+    "emoji": "‍♂️",
     "hexcode": "E0AD-200D-2642-FE0F",
     "group": "extras-openmoji",
     "subgroups": "emergency",
@@ -69462,7 +69462,7 @@
     "order": ""
   },
   {
-    "emoji": "🏳🟦🟩🟨",
+    "emoji": "🏳‍🟦‍🟩‍🟨",
     "hexcode": "1F3F3-200D-1F7E6-200D-1F7E9-200D-1F7E8",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69479,7 +69479,7 @@
     "order": ""
   },
   {
-    "emoji": "🏳📌⚙",
+    "emoji": "🏳️‍📌‍⚙️",
     "hexcode": "1F3F3-FE0F-200D-1F4CC-200D-2699-FE0F",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69496,7 +69496,7 @@
     "order": ""
   },
   {
-    "emoji": "🏳🟥",
+    "emoji": "🏳️‍🟥",
     "hexcode": "1F3F3-FE0F-200D-1F7E5",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69513,7 +69513,7 @@
     "order": ""
   },
   {
-    "emoji": "🏳🟦",
+    "emoji": "🏳️‍🟦",
     "hexcode": "1F3F3-FE0F-200D-1F7E6",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69530,7 +69530,7 @@
     "order": ""
   },
   {
-    "emoji": "🏳🟦🌌",
+    "emoji": "🏳️‍🟦‍🌌",
     "hexcode": "1F3F3-FE0F-200D-1F7E6-200D-1F30C",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69547,7 +69547,7 @@
     "order": ""
   },
   {
-    "emoji": "🏳🟧",
+    "emoji": "🏳️‍🟧",
     "hexcode": "1F3F3-FE0F-200D-1F7E7",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69564,7 +69564,7 @@
     "order": ""
   },
   {
-    "emoji": "🏳🟨",
+    "emoji": "🏳️‍🟨",
     "hexcode": "1F3F3-FE0F-200D-1F7E8",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69581,7 +69581,7 @@
     "order": ""
   },
   {
-    "emoji": "🏳🟩",
+    "emoji": "🏳️‍🟩",
     "hexcode": "1F3F3-FE0F-200D-1F7E9",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69598,7 +69598,7 @@
     "order": ""
   },
   {
-    "emoji": "🏳🟩⭐🟩",
+    "emoji": "🏳️‍🟩‍⭐‍🟩",
     "hexcode": "1F3F3-FE0F-200D-1F7E9-200D-2B50-200D-1F7E9",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69615,7 +69615,7 @@
     "order": ""
   },
   {
-    "emoji": "🏳🟪",
+    "emoji": "🏳️‍🟪",
     "hexcode": "1F3F3-FE0F-200D-1F7EA",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69632,7 +69632,7 @@
     "order": ""
   },
   {
-    "emoji": "🏳🟫",
+    "emoji": "🏳️‍🟫",
     "hexcode": "1F3F3-FE0F-200D-1F7EB",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69649,7 +69649,7 @@
     "order": ""
   },
   {
-    "emoji": "🏳🧊💎",
+    "emoji": "🏳️‍🧊‍💎",
     "hexcode": "1F3F3-FE0F-200D-1F9CA-200D-1F48E",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69666,7 +69666,7 @@
     "order": ""
   },
   {
-    "emoji": "🏳⬜",
+    "emoji": "🏳️‍⬜",
     "hexcode": "1F3F3-FE0F-200D-2B1C",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69683,7 +69683,7 @@
     "order": ""
   },
   {
-    "emoji": "🏴🅰",
+    "emoji": "🏴️‍🅰️",
     "hexcode": "1F3F4-FE0F-200D-1F170-FE0F",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69700,7 +69700,7 @@
     "order": ""
   },
   {
-    "emoji": "🏴🟥",
+    "emoji": "🏴️‍🟥",
     "hexcode": "1F3F4-FE0F-200D-1F7E5",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69717,7 +69717,7 @@
     "order": ""
   },
   {
-    "emoji": "🏴🟦",
+    "emoji": "🏴️‍🟦",
     "hexcode": "1F3F4-FE0F-200D-1F7E6",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69734,7 +69734,7 @@
     "order": ""
   },
   {
-    "emoji": "🏴🟧",
+    "emoji": "🏴️‍🟧",
     "hexcode": "1F3F4-FE0F-200D-1F7E7",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69751,7 +69751,7 @@
     "order": ""
   },
   {
-    "emoji": "🏴🟨",
+    "emoji": "🏴️‍🟨",
     "hexcode": "1F3F4-FE0F-200D-1F7E8",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69768,7 +69768,7 @@
     "order": ""
   },
   {
-    "emoji": "🏴🟩",
+    "emoji": "🏴️‍🟩",
     "hexcode": "1F3F4-FE0F-200D-1F7E9",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69785,7 +69785,7 @@
     "order": ""
   },
   {
-    "emoji": "🏴🟩⭐",
+    "emoji": "🏴️‍🟩‍⭐",
     "hexcode": "1F3F4-FE0F-200D-1F7E9-200D-2B50",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69802,7 +69802,7 @@
     "order": ""
   },
   {
-    "emoji": "🏴🟪",
+    "emoji": "🏴️‍🟪",
     "hexcode": "1F3F4-FE0F-200D-1F7EA",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -69819,7 +69819,7 @@
     "order": ""
   },
   {
-    "emoji": "🏴🟫",
+    "emoji": "🏴️‍🟫",
     "hexcode": "1F3F4-FE0F-200D-1F7EB",
     "group": "extras-openmoji",
     "subgroups": "flags",
@@ -71417,7 +71417,7 @@
     "order": ""
   },
   {
-    "emoji": "👨🪩",
+    "emoji": "👨‍🪩",
     "hexcode": "1F468-200D-1FAA9",
     "group": "extras-openmoji",
     "subgroups": "people",
@@ -71434,7 +71434,7 @@
     "order": ""
   },
   {
-    "emoji": "👩🪩",
+    "emoji": "👩‍🪩",
     "hexcode": "1F469-200D-1FAA9",
     "group": "extras-openmoji",
     "subgroups": "people",
@@ -71451,7 +71451,7 @@
     "order": ""
   },
   {
-    "emoji": "🧑🪩",
+    "emoji": "🧑‍🪩",
     "hexcode": "1F9D1-200D-1FAA9",
     "group": "extras-openmoji",
     "subgroups": "people",
@@ -72063,7 +72063,7 @@
     "order": ""
   },
   {
-    "emoji": "🯆👗",
+    "emoji": "🯆‍👗",
     "hexcode": "1FBC6-200D-1F457",
     "group": "extras-openmoji",
     "subgroups": "symbol-other",
@@ -72080,7 +72080,7 @@
     "order": ""
   },
   {
-    "emoji": "🯇👗",
+    "emoji": "🯇‍👗",
     "hexcode": "1FBC7-200D-1F457",
     "group": "extras-openmoji",
     "subgroups": "symbol-other",
@@ -72097,7 +72097,7 @@
     "order": ""
   },
   {
-    "emoji": "🯈👗",
+    "emoji": "🯈‍👗",
     "hexcode": "1FBC8-200D-1F457",
     "group": "extras-openmoji",
     "subgroups": "symbol-other",
@@ -72114,7 +72114,7 @@
     "order": ""
   },
   {
-    "emoji": "⬡🌈",
+    "emoji": "⬡️‍🌈",
     "hexcode": "2B21-FE0F-200D-1F308",
     "group": "extras-openmoji",
     "subgroups": "symbol-other",
@@ -72131,7 +72131,7 @@
     "order": ""
   },
   {
-    "emoji": "⬡🟥",
+    "emoji": "⬡️‍🟥",
     "hexcode": "2B21-FE0F-200D-1F7E5",
     "group": "extras-openmoji",
     "subgroups": "symbol-other",
@@ -72148,7 +72148,7 @@
     "order": ""
   },
   {
-    "emoji": "⬡🟦",
+    "emoji": "⬡️‍🟦",
     "hexcode": "2B21-FE0F-200D-1F7E6",
     "group": "extras-openmoji",
     "subgroups": "symbol-other",
@@ -72165,7 +72165,7 @@
     "order": ""
   },
   {
-    "emoji": "⬡🟧",
+    "emoji": "⬡️‍🟧",
     "hexcode": "2B21-FE0F-200D-1F7E7",
     "group": "extras-openmoji",
     "subgroups": "symbol-other",
@@ -72182,7 +72182,7 @@
     "order": ""
   },
   {
-    "emoji": "⬡🟨",
+    "emoji": "⬡️‍🟨",
     "hexcode": "2B21-FE0F-200D-1F7E8",
     "group": "extras-openmoji",
     "subgroups": "symbol-other",
@@ -72199,7 +72199,7 @@
     "order": ""
   },
   {
-    "emoji": "⬡🟩",
+    "emoji": "⬡️‍🟩",
     "hexcode": "2B21-FE0F-200D-1F7E9",
     "group": "extras-openmoji",
     "subgroups": "symbol-other",
@@ -72216,7 +72216,7 @@
     "order": ""
   },
   {
-    "emoji": "⬡🟪",
+    "emoji": "⬡️‍🟪",
     "hexcode": "2B21-FE0F-200D-1F7EA",
     "group": "extras-openmoji",
     "subgroups": "symbol-other",
@@ -72233,7 +72233,7 @@
     "order": ""
   },
   {
-    "emoji": "⬡🟫",
+    "emoji": "⬡️‍🟫",
     "hexcode": "2B21-FE0F-200D-1F7EB",
     "group": "extras-openmoji",
     "subgroups": "symbol-other",
@@ -72284,7 +72284,7 @@
     "order": ""
   },
   {
-    "emoji": "◉🔴",
+    "emoji": "◉️‍🔴",
     "hexcode": "25C9-FE0F-200D-1F534",
     "group": "extras-openmoji",
     "subgroups": "technology",
@@ -72301,7 +72301,7 @@
     "order": ""
   },
   {
-    "emoji": "◉🔴▮",
+    "emoji": "◉️‍🔴‍▮️",
     "hexcode": "25C9-FE0F-200D-1F534-200D-25AE-FE0F",
     "group": "extras-openmoji",
     "subgroups": "technology",
@@ -73865,7 +73865,7 @@
     "order": ""
   },
   {
-    "emoji": "🫙🟥",
+    "emoji": "🫙‍🟥",
     "hexcode": "1FAD9-200D-1F7E5",
     "group": "extras-unicode",
     "subgroups": "food-drink",
@@ -73882,7 +73882,7 @@
     "order": ""
   },
   {
-    "emoji": "🫙🟦",
+    "emoji": "🫙‍🟦",
     "hexcode": "1FAD9-200D-1F7E6",
     "group": "extras-unicode",
     "subgroups": "food-drink",
@@ -73899,7 +73899,7 @@
     "order": ""
   },
   {
-    "emoji": "🫙🟧",
+    "emoji": "🫙‍🟧",
     "hexcode": "1FAD9-200D-1F7E7",
     "group": "extras-unicode",
     "subgroups": "food-drink",
@@ -73916,7 +73916,7 @@
     "order": ""
   },
   {
-    "emoji": "🫙🟨",
+    "emoji": "🫙‍🟨",
     "hexcode": "1FAD9-200D-1F7E8",
     "group": "extras-unicode",
     "subgroups": "food-drink",
@@ -73933,7 +73933,7 @@
     "order": ""
   },
   {
-    "emoji": "🫙🟩",
+    "emoji": "🫙‍🟩",
     "hexcode": "1FAD9-200D-1F7E9",
     "group": "extras-unicode",
     "subgroups": "food-drink",
@@ -73950,7 +73950,7 @@
     "order": ""
   },
   {
-    "emoji": "🫙🟪",
+    "emoji": "🫙‍🟪",
     "hexcode": "1FAD9-200D-1F7EA",
     "group": "extras-unicode",
     "subgroups": "food-drink",
@@ -73967,7 +73967,7 @@
     "order": ""
   },
   {
-    "emoji": "🫙🟫",
+    "emoji": "🫙‍🟫",
     "hexcode": "1FAD9-200D-1F7EB",
     "group": "extras-unicode",
     "subgroups": "food-drink",
@@ -75174,7 +75174,7 @@
     "order": ""
   },
   {
-    "emoji": "🐱💻",
+    "emoji": "🐱‍💻",
     "hexcode": "1F431-200D-1F4BB",
     "group": "extras-unicode",
     "subgroups": "symbol-other",

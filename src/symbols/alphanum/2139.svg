@@ -1,21 +1,21 @@
-<svg id="emoji" version="1.1" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
- <g id="grid">
-  <path d="m68 4v64h-64v-64h64m4-4h-72v72h72z" fill="#b3b3b3"/>
-  <path d="m12.92 10.96h46.15a1.923 1.923 0 0 1 1.923 1.923v46.15a1.923 1.923 0 0 1-1.923 1.923h-46.15a1.923 1.923 0 0 1-1.923-1.923v-46.15a1.923 1.923 0 0 1 1.923-1.923z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-  <rect x="16" y="4" width="40" height="64" rx="2.254" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-  <rect transform="rotate(90,36,36)" x="16" y="4" width="40" height="64" rx="2.254" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-  <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
- </g>
- <g id="line-supplement" transform="matrix(.3013 0 0 .3013 -523.2 -12.34)">
-  <path d="m1856 210.1v-49.77" fill="none" stroke="#000" stroke-linecap="round" stroke-width="31.93px"/>
-  <path d="m1871 117.5c0-8.812-7.136-15.96-15.96-15.96-8.812 0-15.96 7.152-15.96 15.96 0 8.812 7.152 15.96 15.96 15.96 8.828 0 15.96-7.152 15.96-15.96" stroke-width="15.96"/>
- </g>
- <g id="color" transform="matrix(.3013 0 0 .3013 -523.2 -12.34)">
-  <circle transform="matrix(3.319 0 0 3.319 1736 40.96)" cx="36" cy="36" r="28" fill="#3f3f3f"/>
-  <path d="m1856 210.1v-49.77" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="31.93px"/>
-  <path d="m1871 117.5c0-8.812-7.136-15.96-15.96-15.96-8.812 0-15.96 7.152-15.96 15.96 0 8.812 7.152 15.96 15.96 15.96 8.828 0 15.96-7.152 15.96-15.96" fill="#fff" stroke-width="15.96"/>
- </g>
- <g id="line" transform="matrix(1.09,0,0,1.09,-3.216,-3.216)">
-  <circle transform="matrix(.9174 0 0 .9174 2.95 2.95)" cx="36" cy="36" r="28" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
- </g>
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="grid">
+    <path fill="#b3b3b3" d="m68 4v64h-64v-64h64m4-4h-72v72h72z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="m12.92 10.96h46.15a1.923 1.923 0 0 1 1.923 1.923v46.15a1.923 1.923 0 0 1-1.923 1.923h-46.15a1.923 1.923 0 0 1-1.923-1.923v-46.15a1.923 1.923 0 0 1 1.923-1.923z"/>
+    <rect x="16" y="4" rx="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.254" width="40" height="64" transform="rotate(90,36,36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="line-supplement" transform="matrix(.3013 0 0 .3013 -523.2 -12.34)">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-width="31.93" d="m1856 210.1v-49.77"/>
+    <path stroke-width="15.96" d="m1871 117.5c0-8.812-7.136-15.96-15.96-15.96-8.812 0-15.96 7.152-15.96 15.96 0 8.812 7.152 15.96 15.96 15.96 8.828 0 15.96-7.152 15.96-15.96"/>
+  </g>
+  <g id="color" transform="matrix(.3013 0 0 .3013 -523.2 -12.34)">
+    <circle cx="36" cy="36" r="28" transform="matrix(3.319 0 0 3.319 1736 40.96)" fill="#3f3f3f"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-width="31.93" d="m1856 210.1v-49.77"/>
+    <path fill="#fff" stroke-width="15.96" d="m1871 117.5c0-8.812-7.136-15.96-15.96-15.96-8.812 0-15.96 7.152-15.96 15.96 0 8.812 7.152 15.96 15.96 15.96 8.828 0 15.96-7.152 15.96-15.96"/>
+  </g>
+  <g id="line" transform="matrix(1.09,0,0,1.09,-3.216,-3.216)">
+    <circle cx="36" cy="36" r="28" transform="matrix(.9174 0 0 .9174 2.95 2.95)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+  </g>
 </svg>

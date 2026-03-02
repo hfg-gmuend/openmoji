@@ -1,31 +1,31 @@
-<svg id="emoji" version="1.1" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
- <g id="grid">
-  <path d="m68 4v64h-64v-64h64m4-4h-72v72h72z" fill="#b3b3b3"/>
-  <path d="m12.92 11h46.15a1.923 1.923 0 0 1 1.923 1.923v46.15a1.923 1.923 0 0 1-1.923 1.923h-46.15a1.923 1.923 0 0 1-1.923-1.923v-46.15a1.923 1.923 0 0 1 1.923-1.923z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-  <rect x="16" y="4" width="40" height="64" rx="2.254" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-  <rect transform="rotate(90,36,36)" x="16" y="4" width="40" height="64" rx="2.254" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
-  <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
- </g>
- <g id="line-supplement" transform="translate(-.005724 -.00219)" clip-rule="evenodd" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10">
-  <path d="m49.1 24.55h-5.162v-6.744h5.162c1.863 0 3.373 1.511 3.373 3.373 0 1.863-1.511 3.371-3.373 3.371z" stroke-width="3.868px"/>
-  <path d="m49.1 31.3h-5.162v-6.744h5.162c1.863 0 3.373 1.509 3.373 3.371s-1.511 3.373-3.373 3.373z" stroke-width="3.868px"/>
-  <path d="m48.63 54.55h-4.694v-13.49h4.694c2.22 0 4.023 1.801 4.023 4.021v5.445c0 2.222-1.803 4.023-4.023 4.023z" stroke-width="3.868"/>
-  <path d="m28.04 53.25c-0.8529 0.7562-1.977 1.217-3.209 1.217-2.669 0-4.835-2.164-4.835-4.835v-3.868 3.868-3.868c0-2.671 2.166-4.835 4.835-4.835 1.232 0 2.356 0.4603 3.209 1.217" stroke-width="3.868px"/>
-  <path d="m30.32 31.33-5.802-13.54-5.802 13.54" stroke-width="3.868px"/>
-  <path d="m20.45 28.08h7.736" stroke-width="3.868px"/>
- </g>
- <g id="color" transform="translate(-.005724 -.00219)">
-  <rect transform="translate(.005724 .00219)" x="12" y="12" width="48" height="47.83" fill="#fff"/>
-  <rect x="12.01" y="12.01" width="24.03" height="24.12" fill="#3f3f3f" stroke-linecap="round" stroke-width="1.938"/>
-  <rect x="36" y="36" width="23.92" height="24" fill="#3f3f3f" stroke-linecap="round" stroke-width="1.929"/>
-  <path d="m30.32 31.33-5.802-13.54-5.802 13.54" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.868px"/>
-  <path d="m49.1 24.55h-5.162v-6.744h5.162c1.863 0 3.373 1.511 3.373 3.373 0 1.863-1.511 3.371-3.373 3.371z" fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.868px"/>
-  <path d="m49.1 31.3h-5.162v-6.744h5.162c1.863 0 3.373 1.509 3.373 3.371s-1.511 3.373-3.373 3.373z" fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.868px"/>
-  <path d="m48.63 54.55h-4.694v-13.49h4.694c2.22 0 4.023 1.801 4.023 4.021v5.445c0 2.222-1.803 4.023-4.023 4.023z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.868"/>
-  <path d="m28.04 53.25c-0.8529 0.7562-1.977 1.217-3.209 1.217-2.669 0-4.835-2.164-4.835-4.835v-3.868 3.868-3.868c0-2.671 2.166-4.835 4.835-4.835 1.232 0 2.356 0.4603 3.209 1.217" fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.868px"/>
-  <path d="m20.45 28.08h7.736" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.868px"/>
- </g>
- <g id="line" fill="none">
-  <rect x="12" y="12" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
- </g>
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="grid">
+    <path fill="#b3b3b3" d="m68 4v64h-64v-64h64m4-4h-72v72h72z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="m12.92 11h46.15a1.923 1.923 0 0 1 1.923 1.923v46.15a1.923 1.923 0 0 1-1.923 1.923h-46.15a1.923 1.923 0 0 1-1.923-1.923v-46.15a1.923 1.923 0 0 1 1.923-1.923z"/>
+    <rect x="16" y="4" rx="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.254" width="40" height="64" transform="rotate(90,36,36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="line-supplement" transform="translate(-.005724 -.00219)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" clip-rule="evenodd">
+    <path stroke-width="3.868" d="m49.1 24.55h-5.162v-6.744h5.162c1.863 0 3.373 1.511 3.373 3.373 0 1.863-1.511 3.371-3.373 3.371z"/>
+    <path stroke-width="3.868" d="m49.1 31.3h-5.162v-6.744h5.162c1.863 0 3.373 1.509 3.373 3.371s-1.511 3.373-3.373 3.373z"/>
+    <path stroke-width="3.868" d="m48.63 54.55h-4.694v-13.49h4.694c2.22 0 4.023 1.801 4.023 4.021v5.445c0 2.222-1.803 4.023-4.023 4.023z"/>
+    <path stroke-width="3.868" d="m28.04 53.25c-0.8529 0.7562-1.977 1.217-3.209 1.217-2.669 0-4.835-2.164-4.835-4.835v-3.868 3.868-3.868c0-2.671 2.166-4.835 4.835-4.835 1.232 0 2.356 0.4603 3.209 1.217"/>
+    <path stroke-width="3.868" d="m30.32 31.33-5.802-13.54-5.802 13.54"/>
+    <path stroke-width="3.868" d="m20.45 28.08h7.736"/>
+  </g>
+  <g id="color" transform="translate(-.005724 -.00219)">
+    <rect x="12" y="12" width="48" height="47.83" transform="translate(.005724 .00219)" fill="#fff"/>
+    <rect x="12.01" y="12.01" width="24.03" height="24.12" fill="#3f3f3f" stroke-linecap="round" stroke-width="1.938"/>
+    <rect x="36" y="36" width="23.92" height="24" fill="#3f3f3f" stroke-linecap="round" stroke-width="1.929"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.868" d="m30.32 31.33-5.802-13.54-5.802 13.54"/>
+    <path fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.868" d="m49.1 24.55h-5.162v-6.744h5.162c1.863 0 3.373 1.511 3.373 3.373 0 1.863-1.511 3.371-3.373 3.371z"/>
+    <path fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.868" d="m49.1 31.3h-5.162v-6.744h5.162c1.863 0 3.373 1.509 3.373 3.371s-1.511 3.373-3.373 3.373z"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.868" d="m48.63 54.55h-4.694v-13.49h4.694c2.22 0 4.023 1.801 4.023 4.021v5.445c0 2.222-1.803 4.023-4.023 4.023z"/>
+    <path fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.868" d="m28.04 53.25c-0.8529 0.7562-1.977 1.217-3.209 1.217-2.669 0-4.835-2.164-4.835-4.835v-3.868 3.868-3.868c0-2.671 2.166-4.835 4.835-4.835 1.232 0 2.356 0.4603 3.209 1.217"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.868" d="m20.45 28.08h7.736"/>
+  </g>
+  <g id="line" fill="none">
+    <rect x="12" y="12" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
 </svg>

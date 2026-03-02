@@ -1,6 +1,6 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="line">
-    <rect x="12.25" y="11.9163" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M31.419,41.1153A4.7759,4.7759,0,0,0,36.2,44.57h0a4.6288,4.6288,0,0,0,4.8806-4.327A4.6287,4.6287,0,0,0,36.2,35.9163a4.6287,4.6287,0,0,0,4.8806-4.3269A4.6288,4.6288,0,0,0,36.2,27.2624h0a4.7763,4.7763,0,0,0-4.7814,3.4549"/>
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="line" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke-miterlimit="10" stroke-width="4.739" d="m31.37 40.9c0.436 1.891 2.322 3.31 4.582 3.31 2.583 0 4.677-1.855 4.677-4.146 0-2.289-2.094-4.146-4.677-4.146 2.583 0 4.677-1.855 4.677-4.146 0-2.289-2.094-4.146-4.677-4.146-2.26 0-4.146 1.424-4.582 3.312" clip-rule="evenodd"/>
+    <rect x="12" y="12" width="48" height="48" stroke-width="2"/>
   </g>
 </svg>
