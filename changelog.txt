@@ -20,6 +20,8 @@ Improvements:
     1F22F 🈯, 1F23A 🈺, 1F201 🈁, 1F202 🈂, 1F232 🈲, 1F233 🈳, 1F234 🈴,
     1F235 🈵, 1F236 🈶, 1F237 🈷, 1F238 🈸, 1F239 🈹, 1F250 🉐, 1F251 🉑,
     3299 ㊙, 3297 ㊗ #609 by @cemoon95
+  * Big general overhaul of symbols #616 by @cemoon95
+
 
 Fix:
   * Updates flag sequences of non rendering extras-openmoji/flags by @SoSeDiK #600
