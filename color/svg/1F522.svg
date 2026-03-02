@@ -1,16 +1,22 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <path fill="#d0cfce" stroke="none" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M59.0349,60H12.9651 C12.4343,60,12,59.5657,12,59.0349V12.9651C12,12.4343,12.4343,12,12.9651,12h46.0698C59.5657,12,60,12.4343,60,12.9651v46.0698 C60,59.5657,59.5657,60,59.0349,60z"/>
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="line-supplement" transform="translate(-.005724 -.00219)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.885" clip-rule="evenodd">
+    <path d="m44.02 21c0.3905-1.902 2.075-3.336 4.093-3.336 1.154 0 2.197 0.4682 2.953 1.224 1.175 1.177 1.068 3.13-0.03497 4.375l-7.095 8h8.354"/>
+    <path d="m20.96 51.93c0.3575 1.55 1.904 2.714 3.757 2.714 2.118 0 3.835-1.521 3.835-3.4 0-1.877-1.717-3.4-3.835-3.4 2.118 0 3.835-1.521 3.835-3.4 0-1.877-1.717-3.4-3.835-3.4-1.853 0-3.4 1.168-3.757 2.716"/>
+    <path d="m21.34 20.48 3.763-2.821v13.6"/>
+    <path d="m49.2 41.05-5.053 11.43h7.955"/>
+    <path d="m50.86 48.27v6.388"/>
   </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
+  <g id="color" transform="translate(-.005724 -.00219)">
+    <rect x="12" y="12" width="48" height="47.83" transform="translate(.005724 .00219)" fill="#fff"/>
+    <rect x="12.01" y="12" width="24.03" height="24.12" fill="#3f3f3f" stroke-linecap="round" stroke-width="1.938"/>
+    <rect x="36" y="35.99" width="23.92" height="24" fill="#3f3f3f" stroke-linecap="round" stroke-width="1.929"/>
+    <path fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.885" d="m44.02 21c0.3905-1.902 2.075-3.336 4.093-3.336 1.154 0 2.197 0.4682 2.953 1.224 1.175 1.177 1.068 3.13-0.03497 4.375l-7.095 8h8.354"/>
+    <path fill="none" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.885" d="m20.96 51.93c0.3575 1.55 1.904 2.714 3.757 2.714 2.118 0 3.835-1.521 3.835-3.4 0-1.877-1.717-3.4-3.835-3.4 2.118 0 3.835-1.521 3.835-3.4 0-1.877-1.717-3.4-3.835-3.4-1.853 0-3.4 1.168-3.757 2.716"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.885" d="m21.34 20.48 3.763-2.821v13.6"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.885" d="m49.2 41.05-5.053 11.43h7.955"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.885" d="m50.86 48.27v6.388"/>
+  </g>
   <g id="line">
-    <path fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M59.0349,60H12.9651 C12.4343,60,12,59.5657,12,59.0349V12.9651C12,12.4343,12.4343,12,12.9651,12h46.0698C59.5657,12,60,12.4343,60,12.9651v46.0698 C60,59.5657,59.5657,60,59.0349,60z"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M39.4907,24.9226c0.2864-1.3997,1.5249-2.4527,3.0093-2.4527l0,0c0.8481,0,1.6161,0.3439,2.172,0.8997 c0.8647,0.8647,0.7849,2.3016-0.0264,3.2164l-5.2173,5.8839h6.1434"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M27.7088,46.4738c0.263,1.1393,1.3999,1.9961,2.7626,1.9961l0,0c1.5574,0,2.8199-1.1193,2.8199-2.5s-1.2624-2.5-2.8199-2.5 c1.5574,0,2.8199-1.1193,2.8199-2.5s-1.2624-2.5-2.8199-2.5l0,0c-1.3627,0-2.4996,0.857-2.7626,1.9961"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="28.1158,24.5439 30.8842,22.4699 30.8842,32.4699"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="43.2914,38.4699 39.5754,46.8709 45.4246,46.8709"/>
-    <line x1="44.4612" x2="44.4612" y1="43.7742" y2="48.4699" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <rect x="12" y="12" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>

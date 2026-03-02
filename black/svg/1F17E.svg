@@ -1,9 +1,8 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <g id="line-supplement">
-    <g id="O_Button">
-      <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2" d="M59.0349,60h-46.07A.9679.9679,0,0,1,12,59.0349v-46.07A.9679.9679,0,0,1,12.9651,12h46.07A.9679.9679,0,0,1,60,12.9651v46.07A.9679.9679,0,0,1,59.0349,60Z"/>
-      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M35.75,46.5116h0a7.8572,7.8572,0,0,1-7.8571-7.8571V32.3687A7.8572,7.8572,0,0,1,35.75,24.5116h0a7.8572,7.8572,0,0,1,7.8571,7.8571v6.2858A7.8572,7.8572,0,0,1,35.75,46.5116Z"/>
-    </g>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6.729" d="m36.03 47.9c-4.643 0-8.411-3.765-8.411-8.411v-6.729c0-4.646 3.768-8.411 8.411-8.411 4.646 0 8.411 3.765 8.411 8.411v6.729c0 4.646-3.765 8.411-8.411 8.411z" clip-rule="evenodd"/>
   </g>
-  <g id="line"/>
+  <g id="line">
+    <rect x="12" y="12" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
 </svg>

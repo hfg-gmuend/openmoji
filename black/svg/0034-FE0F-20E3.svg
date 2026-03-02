@@ -1,7 +1,7 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="line">
-    <rect x="12.125" y="12.0413" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="37.502 27.34 31.036 41.96 41.214 41.96"/>
-    <line x1="39.5379" x2="39.5379" y1="36.5708" y2="44.7422" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="line" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+    <path transform="translate(.9817 .4028)" stroke-miterlimit="10" stroke-width="4.795" d="m36.35 27.12-6.236 14.1h9.818" clip-rule="evenodd"/>
+    <path transform="translate(.9817 .4028)" stroke-miterlimit="10" stroke-width="4.795" d="m38.4 36.03v7.883" clip-rule="evenodd"/>
+    <rect x="12" y="12" width="48" height="48" stroke-width="2"/>
   </g>
 </svg>

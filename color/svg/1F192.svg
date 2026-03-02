@@ -1,15 +1,18 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <path fill="#d0cfce" stroke="none" stroke-miterlimit="10" stroke-width="2" d="M59.0349,60H12.9651 C12.4343,60,12,59.5657,12,59.0349V12.9651C12,12.4343,12.4343,12,12.9651,12h46.0698C59.5657,12,60,12.4343,60,12.9651v46.0698 C60,59.5657,59.5657,60,59.0349,60z"/>
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="line-supplement" fill="none" stroke="#000">
+    <rect x="12" y="12" width="48" height="48" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill-rule="evenodd" stroke-width="1.963" d="m11.92 30.64 48.1-10.98v21.7l-48.1 11.34z" clip-rule="evenodd"/>
   </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
-  <g id="line">
-    <path fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2" d="M59.0349,60H12.9651 C12.4343,60,12,59.5657,12,59.0349V12.9651C12,12.4343,12.4343,12,12.9651,12h46.0698C59.5657,12,60,12.4343,60,12.9651v46.0698 C60,59.5657,59.5657,60,59.0349,60z"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="47.9463,32.0267 47.9463,40.0267 51.3748,40.0267"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M31.9552,40.0267L31.9552,40.0267c-1.5779,0-2.8571-1.2792-2.8571-2.8571v-2.2857c0-1.5779,1.2792-2.8571,2.8571-2.8571l0,0 c1.5779,0,2.8571,1.2792,2.8571,2.8571v2.2857C34.8123,38.7475,33.5331,40.0267,31.9552,40.0267z"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M41.0847,40.0267L41.0847,40.0267c-1.5779,0-2.8571-1.2792-2.8571-2.8571v-2.2857c0-1.5779,1.2792-2.8571,2.8571-2.8571l0,0 c1.5779,0,2.8571,1.2792,2.8571,2.8571v2.2857C43.9419,38.7475,42.6627,40.0267,41.0847,40.0267z"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M26.3775,39.3077c-0.5044,0.4473-1.168,0.719-1.8952,0.719l0,0c-1.5779,0-2.8571-1.2792-2.8571-2.8571v-2.2857v2.2857v-2.2857 c0-1.5779,1.2792-2.8571,2.8571-2.8571l0,0c0.7272,0,1.3909,0.2717,1.8952,0.7191"/>
+  <g id="color">
+    <path fill-rule="evenodd" stroke="#61b2e4" stroke-width="1.965" d="m11.87 30.64 48.19-10.97v21.7l-48.19 11.33z" clip-rule="evenodd"/>
+    <rect x="12" y="12" width="48" height="47.83" fill="#61b2e4"/>
+    <path transform="matrix(1.564,0,0,1.797,174.7,29.71)" fill="#fff" fill-rule="evenodd" d="m-104.7 0.52 31.96-6.1v12.06l-31.96 6.3z" clip-rule="evenodd"/>
+    <rect x="12" y="12" width="48" height="48" fill="none" stroke="#61b2e4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+  <g id="line" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.456">
+    <path transform="matrix(.8993 0 0 .8993 3.396 3.24)" d="m52.51 26.57v12.52l4.924-1.108"/>
+    <path transform="matrix(.8993 0 0 .8993 3.396 3.24)" d="m30.49 44.04c-2.304 0.5184-4.176-1.079-4.176-3.57v-3.608c0-2.491 1.872-4.924 4.176-5.432 2.302-0.5084 4.164 1.093 4.164 3.578v3.598c0 2.485-1.863 4.917-4.164 5.435z"/>
+    <path transform="matrix(.8993 0 0 .8993 3.396 3.24)" d="m21.94 44.83c-0.7399 0.8728-1.715 1.522-2.785 1.763-2.321 0.5222-4.207-1.08-4.207-3.58v-3.621 3.621-3.621c0-2.501 1.886-4.943 4.207-5.456 1.07-0.2364 2.045-0.02173 2.785 0.5211"/>
+    <path transform="matrix(.8993 0 0 .8993 3.396 3.24)" d="m43.28 41.17c-2.284 0.514-4.141-1.078-4.141-3.559v-3.593c0-2.481 1.856-4.901 4.141-5.406 2.283-0.5042 4.129 1.093 4.129 3.567v3.583c0 2.474-1.847 4.894-4.129 5.408z"/>
   </g>
 </svg>

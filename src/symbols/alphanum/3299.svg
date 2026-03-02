@@ -6,20 +6,32 @@
     <rect x="16" y="4" rx="2.254" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
+  <g id="line-supplement" transform="matrix(.3004 0 0 .3004 -521.6 -12.27)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="9.119" clip-rule="evenodd">
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" d="m876.9 810.7s13.52 23.31 13.82 36.63"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" d="m835.8 788.9s0.345 70.2 0.443 90.06c0.014 2.9 2.317 5.272 5.216 5.37 6.51 0.2185 17.7 0.5158 24.97 0.2811 3.445-0.1111 2.958 0 6.785-0.7561 6.811-1.345 4.055-20.43 4.055-20.43"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" d="m880.3 768.6s-14.72 72.45-74.38 111"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" d="m832.6 761.1s17.56 10.43 25.85 19.93"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" d="m821.3 811.6s1.026 18.86-9.008 39.6"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" d="m784.5 811.6s11.64 10.17 21.4 22.61"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" d="m761 856.5c15.52-22.61 26.36-54.05 26.36-54.05"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" d="m762.7 802.1 45.62-7e-3"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" d="m787.9 771.6-0.064 114"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" d="m763.8 775c23.14-3.344 39.89-9.712 39.89-9.712"/>
+  </g>
   <g id="color" transform="matrix(.3004 0 0 .3004 -521.6 -12.27)">
-    <circle cx="1856" cy="160.6" r="83.22" fill="#ea5a47" stroke-width="0"/>
-    <path transform="matrix(.8312 0 0 .8312 1170 -523.8)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.01" d="m876.9 810.7s13.52 23.31 13.82 36.63" clip-rule="evenodd"/>
-    <path transform="matrix(.8312 0 0 .8312 1170 -523.8)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.01" d="m835.8 788.9s0.345 70.2 0.443 90.06c0.014 2.9 2.317 5.272 5.216 5.37 9.593 0.322 29.35 0.815 31.76-0.475 4.377-2.341 4.055-20.43 4.055-20.43" clip-rule="evenodd"/>
-    <path transform="matrix(.8312 0 0 .8312 1170 -523.8)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.01" d="m880.3 768.6s-14.72 72.45-74.38 111" clip-rule="evenodd"/>
-    <path transform="matrix(.8312 0 0 .8312 1170 -523.8)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.01" d="m832.6 761.1s17.56 10.43 25.85 19.93" clip-rule="evenodd"/>
-    <path transform="matrix(.8312 0 0 .8312 1170 -523.8)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.01" d="m821.3 811.6s1.026 18.86-9.008 39.6" clip-rule="evenodd"/>
-    <path transform="matrix(.8312 0 0 .8312 1170 -523.8)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.01" d="m784.5 811.6s11.64 10.17 21.4 22.61" clip-rule="evenodd"/>
-    <path transform="matrix(.8312 0 0 .8312 1170 -523.8)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.01" d="m761 856.5c15.52-22.61 26.36-54.05 26.36-54.05" clip-rule="evenodd"/>
-    <path transform="matrix(.8312 0 0 .8312 1170 -523.8)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.01" d="m762.7 802.1 45.62-7e-3" clip-rule="evenodd"/>
-    <path transform="matrix(.8312 0 0 .8312 1170 -523.8)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.01" d="m787.9 771.6-0.064 114" clip-rule="evenodd"/>
-    <path transform="matrix(.8312 0 0 .8312 1170 -523.8)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.01" d="m763.8 775c23.14-3.344 39.89-9.712 39.89-9.712" clip-rule="evenodd"/>
+    <circle cx="826" cy="825.2" r="107.6" transform="matrix(.8665 0 0 .8665 1140 -554.4)" fill="#d22f27" stroke-width="3.842"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.118" d="m876.9 810.7s13.52 23.31 13.82 36.63"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.118" d="m835.8 788.9s0.345 70.2 0.443 90.06c0.014 2.9 2.317 5.272 5.216 5.37 6.51 0.2185 17.7 0.5158 24.97 0.2811 3.445-0.1111 2.958 0 6.785-0.7561 6.811-1.345 4.055-20.43 4.055-20.43"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.118" d="m880.3 768.6s-14.72 72.45-74.38 111"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.118" d="m832.6 761.1s17.56 10.43 25.85 19.93"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.118" d="m821.3 811.6s1.026 18.86-9.008 39.6"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.118" d="m784.5 811.6s11.64 10.17 21.4 22.61"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.118" d="m761 856.5c15.52-22.61 26.36-54.05 26.36-54.05"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.118" d="m762.7 802.1 45.62-7e-3"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.118" d="m787.9 771.6-0.064 114"/>
+    <path transform="matrix(.9127 0 0 .9127 1102 -590.9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.118" d="m763.8 775c23.14-3.344 39.89-9.712 39.89-9.712"/>
   </g>
   <g id="line" transform="matrix(.2603 0 0 .2603 -179 -178.8)">
-    <circle cx="1856" cy="160.6" r="83.22" transform="matrix(1.154 0 0 1.154 -1316 639.8)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="6.658" clip-rule="evenodd"/>
+    <circle cx="826" cy="825.2" r="107.6" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="7.683"/>
   </g>
 </svg>

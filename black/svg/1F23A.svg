@@ -1,5 +1,14 @@
 <svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="line-supplement" transform="matrix(.2609 0 0 .2609 -91.17 -3.172)" stroke="#000" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd">
+    <path transform="matrix(1.052 0 0 1.052 -380.6 -712)" fill="none" stroke-linecap="round" stroke-width="9.109" d="m874.9 755.8s-9.866 13.47-19.23 23.37"/>
+    <path transform="matrix(1.052 0 0 1.052 -380.6 -712)" fill="none" stroke-linecap="round" stroke-width="9.109" d="m774.1 755.4s11.14 15.89 13.94 21.61"/>
+    <path transform="matrix(1.052 0 0 1.052 -339 -714.4)" fill="none" stroke-linecap="round" stroke-width="9.109" d="m774.1 755.4s10.25 16.39 12.98 23.82"/>
+    <path transform="matrix(1.052 0 0 1.052 -380.6 -712)" fill="none" stroke-linecap="round" stroke-width="9.109" d="m763.1 802.2s0.104-11.32 0.165-17.86c0.023-2.504 2.053-4.526 4.557-4.54 19.3-0.102 94.74-0.503 114.2-0.606 1.22-7e-3 2.391 0.473 3.256 1.333s1.351 2.03 1.351 3.249v18.42"/>
+    <path transform="matrix(1.052 0 0 1.052 -380.6 -712)" fill="none" stroke-width="9.109" d="m814.6 851.3 6.954-22.31"/>
+    <path transform="matrix(1.055 0 0 1.083 -384 -737.9)" fill-opacity="0" stroke-linecap="round" stroke-width="8.964" d="m866 802.3v24.37c0 1.281-1.067 2.321-2.382 2.321h-76.81c-1.314 0-2.382-1.04-2.382-2.321v-24.37c0-1.281 1.068-2.321 2.382-2.321h76.81c1.315 0 2.382 1.04 2.382 2.321z"/>
+    <path transform="matrix(1.298 0 0 1.239 -583.1 -807.3)" fill-opacity="0" stroke-linecap="round" stroke-width="7.556" d="m866 802.3v24.37c0 1.281-0.992 2.321-2.215 2.321h-77.14c-1.223 0-2.216-1.04-2.216-2.321v-24.37c0-1.281 0.993-2.321 2.216-2.321h77.14c1.223 0 2.215 1.04 2.215 2.321z"/>
+  </g>
   <g id="line" transform="matrix(.3511 0 0 .3352 -253.6 -223.1)">
-    <rect x="391.7" y="54.17" width="191.7" height="191.7" transform="matrix(.7429 0 0 .7783 462.5 656.2)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.667" clip-rule="evenodd"/>
+    <rect x="756.5" y="701.4" width="136.7" height="143.2" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.83"/>
   </g>
 </svg>

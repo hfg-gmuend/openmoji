@@ -1,15 +1,13 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <path fill="#d0cfce" stroke="none" stroke-miterlimit="10" stroke-width="2" d="M59.0349,60H12.9651 C12.4343,60,12,59.5657,12,59.0349V12.9651C12,12.4343,12.4343,12,12.9651,12h46.0698C59.5657,12,60,12.4343,60,12.9651v46.0698 C60,59.5657,59.5657,60,59.0349,60z"/>
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="color" transform="translate(-.0006922 -.01378)" stroke="#d22f27">
+    <rect x="12" y="12.01" ry="5" width="48" height="47.83" fill="#fff" stroke-width="0"/>
   </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
-  <g id="line">
-    <path fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2" d="M59.0349,60H12.9651 C12.4343,60,12,59.5657,12,59.0349V12.9651C12,12.4343,12.4343,12,12.9651,12h46.0698C59.5657,12,60,12.4343,60,12.9651v46.0698 C60,59.5657,59.5657,60,59.0349,60z"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="37.4857,32.4699 32.9143,32.4699 32.9143,40.4699 37.4857,40.4699"/>
-    <line x1="32.9143" x2="36.3429" y1="36.4699" y2="36.4699" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="23,40.4699 23,32.4699 28.7143,40.4699 28.7143,32.4699"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="50,32.4699 47.7143,40.4699 45.4286,32.4699 43.1429,40.4699 40.8571,32.4699"/>
+  <g id="color-foreground" transform="translate(-.0006922 -.01378)" fill="none" stroke="#d22f27">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.23" d="m37.52 30.36h-6.46v11.3h6.46" clip-rule="evenodd"/>
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.23" d="m31.06 36.02h4.845" clip-rule="evenodd"/>
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.23" d="m17.12 41.67v-11.3l8.075 11.3v-11.3" clip-rule="evenodd"/>
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.23" d="m55.29 30.36-3.23 11.3-3.232-11.3-3.23 11.3-3.23-11.3" clip-rule="evenodd"/>
+    <rect x="12" y="12.01" ry="5" width="48" height="47.83" stroke-width="2"/>
   </g>
+  <g id="line"/>
 </svg>

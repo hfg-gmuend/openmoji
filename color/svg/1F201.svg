@@ -1,10 +1,10 @@
 <svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <g id="color" transform="matrix(.25 0 0 .2688 -.4584 -.7176)">
-    <rect x="45.83" y="68.2" width="200" height="136.4" fill="#92d3f5" stroke-width="0"/>
-    <path transform="matrix(.9598 0 0 .8927 1.832 2.67)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.333" d="m74.59 115.2h52.97c1.326 0 2.598 0.527 3.536 1.465s1.464 2.209 1.464 3.535v68.79h-57.97" clip-rule="evenodd"/>
-    <path transform="matrix(.9598 0 0 .8927 90.99 2.67)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.333" d="m74.59 115.2h52.97c1.326 0 2.598 0.527 3.536 1.465s1.464 2.209 1.464 3.535v68.79h-57.97" clip-rule="evenodd"/>
+    <rect x="49.42" y="68.13" width="192.8" height="136.5" fill="#92d3f5" stroke-width="0"/>
   </g>
-  <g id="line" transform="matrix(.223 0 0 .223 -1.082 .3072)">
-    <rect x="45.83" y="68.2" width="200" height="136.4" transform="matrix(1.121 0 0 1.205 2.794 -4.594)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.715" clip-rule="evenodd"/>
+  <g id="line" transform="matrix(.215 0 0 .2232 .2493 .2731)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd">
+    <path transform="matrix(1.116 0 0 1.075 -1.161 -1.223)" stroke-width="14.59" d="m74.59 115.2h52.97c1.326 0 2.598 0.527 3.536 1.465s1.464 2.209 1.464 3.535v68.79h-57.97"/>
+    <path transform="matrix(1.116 0 0 1.075 102.5 -1.223)" stroke-width="14.59" d="m74.59 115.2h52.97c1.326 0 2.598 0.527 3.536 1.465s1.464 2.209 1.464 3.535v68.79h-57.97"/>
+    <rect x="45.83" y="68.2" width="200" height="136.4" transform="matrix(1.121,0,0,1.205,2.794,-4.594)" stroke-width="7.855"/>
   </g>
 </svg>
