@@ -1,0 +1,35 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="grid">
+    <path fill="#B3B3B3" d="M68,4v64H4V4H68 M72,0H0v72h72V0z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="m12.92 10.96h46.15c1.062 0 1.923 0.861 1.923 1.923v46.15c0 1.062-0.861 1.923-1.923 1.923h-46.15c-1.062 0-1.923-0.861-1.923-1.923v-46.15c0-1.062 0.861-1.923 1.923-1.923z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M18.2537,4h35.4926C54.991,4,56,5.009,56,6.2537 v59.4926C56,66.991,54.991,68,53.7463,68H18.2537C17.009,68,16,66.991,16,65.7463V6.2537C16,5.009,17.009,4,18.2537,4z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M68,18.2537v35.4926 C68,54.991,66.991,56,65.7463,56H6.2537C5.009,56,4,54.991,4,53.7463V18.2537C4,17.009,5.009,16,6.2537,16h59.4926 C66.991,16,68,17.009,68,18.2537z"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color" transform="matrix(.7553 0 0 1.005 8.806 -.1874)">
+    <rect x="4" y="51.62" width="64" height="7.267" fill="#d0cfce"/>
+    <path fill="#fff" d="m7 11c2.761 0 5 2.239 5 5s-2.239 5-5 5"/>
+    <path fill="#fff" d="m65 21c-2.761 0-5-2.239-5-5s2.239-5 5-5"/>
+    <path fill="#fff" d="m64.97 17.49c0 9.081-7.362 16.44-16.44 16.44h-0.2866c-9.081 0-11.44-7.362-11.44-16.44h-2.074c0 9.081-2.362 16.44-11.44 16.44h0.1643c-5.312 0-10.04-2.519-13.04-6.428-2.133-2.773-3.401-6.246-3.401-10.02v-6.494 40.62h58v-40.62"/>
+    <ellipse cx="36" cy="16.01" rx="6.325" ry="5" fill="#fff"/>
+    <path transform="matrix(1.324 0 0 .9947 -11.66 .1864)" fill="#d0cfce" d="m57.9 20.93c-4.643 29.63-4.643 29.63-21.9 30.77h21.9z"/>
+    <path transform="matrix(1.324 0 0 .9947 -11.66 .1864)" fill="#d0cfce" d="m54.55 18.24 3.342-2.341v5.027z"/>
+    <path transform="matrix(1.324 0 0 .9947 115.3 2.239)" fill="#d0cfce" stroke-width="0.5067" d="m-57.65 8.818a5.062 5.062 0 0 1-6.993 6.993 5.064 5.064 0 1 0 6.993-6.993z"/>
+    <path transform="matrix(1.324 0 0 .9947 -11.66 .1864)" fill="#d0cfce" d="m14.09 19.15 3.441-1.175-3.441 2.953z"/>
+  </g>
+  <g id="line" transform="matrix(.7553 0 0 1.005 8.806 -.1874)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10">
+    <rect x="4" y="51.62" width="64" height="7.267" stroke-width="2.295"/>
+    <polyline stroke-width="2.295" points="7 11 7 51.62 65 51.62 65 11"/>
+    <path stroke-width="2.295" d="m7 11c2.761 0 5 2.239 5 5s-2.239 5-5 5"/>
+    <path stroke-width="2.295" d="m23.44 33.94c-5.312 0-10.04-2.519-13.04-6.428-2.133-2.773-3.401-6.246-3.401-10.02"/>
+    <path stroke-width="2.295" d="m64.97 17.49c0 9.081-7.362 16.44-16.44 16.44"/>
+    <ellipse cx="36" cy="16.18" rx="6.862" ry="4.827" stroke-width="2.295"/>
+    <path stroke-width="2.295" d="m65 21c-2.761 0-5-2.239-5-5s2.239-5 5-5"/>
+    <rect x="4" y="51.62" width="64" height="7.267" stroke-width="2.295"/>
+    <path stroke-width="2.295" d="m7 11c2.761 0 5 2.239 5 5s-2.239 5-5 5"/>
+    <path stroke-width="2.295" d="m65 21c-2.761 0-5-2.239-5-5s2.239-5 5-5"/>
+    <path stroke-width="2.295" d="m34.6 20.87c-0.5876 7.46-3.396 13.06-11.32 13.06h0.1643c-5.312 0-10.04-2.519-13.04-6.428-2.133-2.773-3.401-6.246-3.401-10.02v-6.494 40.62h58v-40.62"/>
+    <path stroke-width="2.295" d="m64.97 17.49c0 9.081-7.362 16.44-16.44 16.44h-0.2866c-7.906 0-10.72-5.58-11.31-13.02"/>
+    <circle cx="36" cy="16.01" r="5" stroke-width="2.295" display="none"/>
+  </g>
+</svg>

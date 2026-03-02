@@ -1,0 +1,14 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="line-supplement">
+    <path d="m30.93 24.36c-0.03998-2.609 1.496-4.379 5.065-5.065 2.575 0.1417 4.513 1.395 5.065 5.065 19.98 0 19.93 19.92 8.256 22.78v13.4l-26.56-0.06014-0.07355-13.34c-11.68-2.673-11.33-22.78 8.25-22.78z"/>
+  </g>
+  <g id="line" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2">
+    <circle cx="36" cy="24.36" r="5.065"/>
+    <path stroke-linecap="round" d="m36 19.3v-7.848"/>
+    <path stroke-linecap="round" d="m32.08 14.45h7.848"/>
+    <path stroke-linecap="round" d="m22.68 47.15h26.64v13.4l-26.56-0.06014z"/>
+    <path stroke-linecap="round" d="m36 29.43 0.0034 17.72"/>
+    <path stroke-linecap="round" d="m30.93 24.36c-22.4 0-17.56 22.36-8.25 22.78"/>
+    <path stroke-linecap="round" d="m41.07 24.36c22.4 0 17.56 22.36 8.25 22.78"/>
+  </g>
+</svg>

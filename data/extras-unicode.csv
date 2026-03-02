@@ -122,4 +122,15 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 �esmd,1F3F4-E0065-E0073-E006D-E0064-E007F,extras-unicode,subdivision-flag,madrid autonomous community flag,"madrid autonomous community, madrid, autonomous, community",Xavier Martinez,2024-04-08,?
 �esml,1F3F4-E0065-E0073-E006D-E006C-E007F,extras-unicode,subdivision-flag,melilla flag,melilla,Xavier Martinez,2024-04-08,?
 �esnc,1F3F4-E0065-E0073-E006E-E0063-E007F,extras-unicode,subdivision-flag,navarra chartered community,"navarra chartered community, navarra, chartered, community, navarre",Xavier Martinez,2024-04-08,?
-⃣,20E3,extras-unicode,symbol-other,combining enclosing keycap,"keycap",Crystal Moon,2025-02-15,3
+♔,2654,extras-unicode,symbol-other,white chess king,,Natalia Kenig,2026-02-02,1.1
+♕,2655,extras-unicode,symbol-other,white chess queen,,Natalia Kenig,2026-02-02,1.1
+♖,2656,extras-unicode,symbol-other,white chess rook,,Natalia Kenig,2026-02-02,1.1
+♗,2657,extras-unicode,symbol-other,white chess bishop,,Natalia Kenig,2026-02-02,1.1
+♘,2658,extras-unicode,symbol-other,white chess knight,,Natalia Kenig,2026-02-02,1.1
+♙,2659,extras-unicode,symbol-other,white chess pawn,,Natalia Kenig,2026-02-02,1.1
+♚,265A,extras-unicode,symbol-other,black chess king,,Natalia Kenig,2026-02-02,1.1
+♛,265B,extras-unicode,symbol-other,black chess queen,,Natalia Kenig,2026-02-02,1.1
+♜,265C,extras-unicode,symbol-other,black chess rook,,Natalia Kenig,2026-02-02,1.1
+♝,265D,extras-unicode,symbol-other,black chess bishop,,Natalia Kenig,2026-02-02,1.1
+♞,265E,extras-unicode,symbol-other,black chess knight,,Natalia Kenig,2026-02-02,1.1
+⃣,20E3,extras-unicode,symbol-other,combining enclosing keycap,keycap,Crystal Moon,2025-02-15,3
