@@ -1,5 +1,17 @@
 <svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <g id="line" transform="matrix(1.087 0 0 1.087 -3.129 -3.173)">
-    <rect x="391.7" y="54.17" width="191.7" height="191.7" transform="matrix(.24 0 0 .24 -81 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.667" clip-rule="evenodd"/>
+  <g id="line" transform="matrix(.2609 0 0 .2609 -91.17 -3.173)" fill="none" stroke="#000" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="9.214" clip-rule="evenodd">
+    <rect x="12" y="12" width="48" height="48" transform="matrix(3.833 0 0 3.833 349.4 12.16)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path transform="matrix(1.04 0 0 1.04 -19.52 -356)" stroke-linecap="round" d="m535.7 527.7s8.831 8.689 19.79 27.23"/>
+    <path transform="matrix(1.04 0 0 1.04 -19.52 -356)" stroke-linecap="round" d="m501.7 529.8s7.768 16.6 9.567 23.63"/>
+    <path transform="matrix(1.04 0 0 1.04 -19.52 -356)" stroke-linecap="round" d="m467.7 530.9s3.026 12.02 3.189 22.57"/>
+    <path transform="matrix(1.04 0 0 1.04 -19.52 -356)" stroke-linecap="round" d="m419 555.9c13.82-10.55 19.87-27.23 19.87-27.23"/>
+    <path transform="matrix(1.04 0 0 1.04 -19.52 -356)" d="m441.7 437.8v74.65"/>
+    <path transform="matrix(1.04 0 0 1.04 10.64 -356)" d="m441.7 436.8v75.65"/>
+    <path transform="matrix(1.04 0 0 1.04 41.89 -356)" d="m441.7 436.8v75.65"/>
+    <path transform="matrix(1.04 0 0 1.04 73.1 -356)" d="m441.7 436.8v75.65"/>
+    <path transform="matrix(1.04 0 0 1.04 -19.52 -356)" stroke-linecap="round" d="m421.7 513.3 130.5 0.132"/>
+    <path transform="matrix(1.04 0 0 1.04 -19.52 -356)" stroke-linecap="round" d="m419.2 474.6 136.3 0.021"/>
+    <path transform="matrix(1.04 0 0 1.04 -19.52 -356)" stroke-linecap="round" d="m548.7 436.2-106.6 0.058"/>
+    <path transform="matrix(1.04 0 0 1.04 -19.52 -356)" stroke-linecap="round" d="m419.5 457.9c25.72-22.83 31.99-41.11 31.99-41.11"/>
   </g>
 </svg>

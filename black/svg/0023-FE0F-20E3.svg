@@ -1,9 +1,9 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="line">
-    <rect x="12.125" y="11.958" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="33.4535" x2="30.9399" y1="27.616" y2="44.634" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="40.8101" x2="38.2965" y1="27.616" y2="44.634" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="28.0658" x2="44.7833" y1="32.3567" y2="32.3397" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="26.9667" x2="43.6842" y1="39.8468" y2="39.8296" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="line" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="33.45" x2="30.94" y1="27.62" y2="44.63" stroke-width="4.781"/>
+    <line x1="40.81" x2="38.3" y1="27.62" y2="44.63" stroke-width="4.781"/>
+    <line x1="28.07" x2="44.78" y1="32.36" y2="32.34" stroke-width="4.781"/>
+    <line x1="26.97" x2="43.68" y1="39.85" y2="39.83" stroke-width="4.781"/>
+    <rect x="12" y="12" width="48" height="48" stroke-width="2"/>
   </g>
 </svg>

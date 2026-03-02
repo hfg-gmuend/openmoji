@@ -6,12 +6,16 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
   </g>
+  <g id="line-supplement" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+    <path d="m34.44 37.72c-0.735-3.912-1.132-7.879-1.186-11.86 0-5.93 9.487-8.301 11.86-2.372 1.888 7.085-11.79 27.93-2.372 28.46 4.744 0 3.988-5.356 3.988-5.356"/>
+    <circle cx="29.13" cy="39.22" r="5.5" paint-order="normal"/>
+  </g>
   <g id="color">
-    <rect x="11.88" y="12.21" width="48" height="47.83" fill="#b399c8"/>
+    <rect x="11.88" y="12.21" width="48" height="47.83" fill="#8967aa"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3" d="m34.44 37.72c-0.735-3.912-1.132-7.879-1.186-11.86 0-5.93 9.487-8.301 11.86-2.372 1.888 7.085-11.79 27.93-2.372 28.46 4.744 0 3.988-5.356 3.988-5.356"/>
+    <circle cx="29.13" cy="39.22" r="5.5" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3" paint-order="normal"/>
   </g>
   <g id="line">
     <rect x="12.12" y="11.96" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="m34.44 37.72c-0.735-3.912-1.132-7.879-1.186-11.86 0-5.93 9.487-8.301 11.86-2.372 1.888 7.085-11.79 27.93-2.372 28.46 4.744 0 3.988-5.356 3.988-5.356"/>
-    <circle cx="29.13" cy="39.22" r="5.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" paint-order="normal"/>
   </g>
 </svg>

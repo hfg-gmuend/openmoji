@@ -1,9 +1,6 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="line-supplement">
-    <g id="M_Button">
-      <circle cx="36" cy="35.9583" r="28" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
-      <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="45.429 46.458 45.429 24.458 36 43.315 26.571 24.458 26.571 46.458"/>
-    </g>
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="line" transform="matrix(1.09,0,0,1.09,-3.216,-3.216)" fill="none" stroke="#000" stroke-linejoin="round">
+    <path transform="matrix(0 -2.795 -2.795 0 45.66 27.65)" stroke-linecap="round" stroke-width="2" d="m-6.5 0.5h7l-6 3 6 3h-7"/>
+    <circle cx="-3.505" cy="2.983" r="9.189" transform="matrix(2.795 0 0 2.795 45.78 27.64)" stroke-width="0.6564"/>
   </g>
-  <g id="line"/>
 </svg>

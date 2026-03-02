@@ -6,19 +6,29 @@
     <rect x="16" y="4" rx="2.254" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
-  <g id="color" transform="matrix(.3013 0 0 .3013 -523.2 -12.34)">
-    <circle cx="1856" cy="160.6" r="83.22" fill="#ea5a47" stroke-width="0"/>
-    <path transform="matrix(.8465 0 0 .7915 301.2 42.98)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.107" d="m1827 111.7 62.11 0.04" clip-rule="evenodd"/>
-    <path transform="matrix(.9699 0 0 .9804 72.17 15.7)" fill-opacity="0" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="6.805" d="m1885 104.1v27.75c0 1.459-1.28 2.643-2.857 2.643h-48.58c-1.578 0-2.858-1.184-2.858-2.643v-27.75c0-1.458 1.28-2.643 2.858-2.643h48.58c1.577 0 2.857 1.185 2.857 2.643z" clip-rule="evenodd"/>
-    <path transform="matrix(.8465 0 0 .7915 301.2 42.98)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.107" d="m1817 150.2h80.11" clip-rule="evenodd"/>
-    <path transform="matrix(.8465 0 0 .7915 301.2 59.6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.107" d="m1814 150.2h87.11" clip-rule="evenodd"/>
-    <path transform="matrix(.8465 0 0 .7915 301.2 42.98)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.107" d="m1845 200c-2.488-4.329-15.44-16.09-15.44-16.09" clip-rule="evenodd"/>
-    <path transform="matrix(.8465 0 0 .7915 301.2 42.98)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.107" d="m1856 213.2h12.1c2.298 0 4.501-0.914 6.124-2.541s2.532-3.832 2.527-6.13c-0.039-16.88-0.121-52.52-0.121-52.52" clip-rule="evenodd"/>
-    <path transform="matrix(.8465 0 0 .7915 301.2 42.98)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.107" d="m1795 213.2-0.146-79.45" clip-rule="evenodd"/>
-    <path transform="matrix(.8465 0 0 .7915 301.2 42.98)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.107" d="m1772 155c27.3-23.26 36.08-40.52 36.08-40.52" clip-rule="evenodd"/>
-    <path transform="matrix(.8465 0 0 .7915 301.2 42.98)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.107" d="m1773 115.8c17.49-12.88 30.78-27.92 30.78-27.92" clip-rule="evenodd"/>
+  <g id="line-supplement" transform="matrix(.3013 0 0 .3013 -523.2 -12.34)" stroke="#000" stroke-linejoin="round">
+    <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" fill="none" stroke-miterlimit="1.5" stroke-width="9.175" d="m1827 111.7 62.11 0.04" clip-rule="evenodd"/>
+    <path transform="matrix(1.072 0 0 1.083 -114.8 -1.488)" fill-opacity="0" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="7.701" d="m1885 104.1v27.75c0 1.459-1.28 2.643-2.857 2.643h-48.58c-1.578 0-2.858-1.184-2.858-2.643v-27.75c0-1.458 1.28-2.643 2.858-2.643h48.58c1.577 0 2.857 1.185 2.857 2.643z" clip-rule="evenodd"/>
+    <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.175" d="m1817 150.2h80.11" clip-rule="evenodd"/>
+    <path transform="matrix(.9353 0 0 .8745 138.3 47.02)" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.175" d="m1814 150.2h87.11" clip-rule="evenodd"/>
+    <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.175" d="m1845 200c-2.488-4.329-15.44-16.09-15.44-16.09" clip-rule="evenodd"/>
+    <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.175" d="m1856 213.2h12.1c2.298 0 4.501-0.914 6.124-2.541s2.532-3.832 2.527-6.13c-0.039-16.88-0.121-52.52-0.121-52.52" clip-rule="evenodd"/>
+    <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.175" d="m1795 213.2-0.146-79.45" clip-rule="evenodd"/>
+    <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.175" d="m1772 155c27.3-23.26 36.08-40.52 36.08-40.52" clip-rule="evenodd"/>
+    <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.175" d="m1773 115.8c17.49-12.88 30.78-27.92 30.78-27.92" clip-rule="evenodd"/>
+    <circle cx="35.98" cy="35.98" r="25.69" transform="matrix(3.618 0 0 3.618 1726 30.28)" fill="none" stroke-width="1.835"/>
   </g>
-  <g id="line" transform="matrix(1.09 0 0 1.09 -3.216 -3.216)">
-    <circle cx="1856" cy="160.6" r="83.22" transform="matrix(.2764 0 0 .2764 -477 -8.372)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="6.637" clip-rule="evenodd"/>
+  <g id="color" transform="matrix(.3013 0 0 .3013 -523.2 -12.34)" stroke="#d22f27">
+    <circle cx="35.98" cy="35.98" r="25.69" transform="matrix(3.618,0,0,3.618,1726,30.28)" fill="#fff" stroke-width="1.835"/>
+    <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" fill="none" stroke-miterlimit="1.5" stroke-width="9.175" d="m1827 111.7 62.11 0.04" clip-rule="evenodd"/>
+    <path transform="matrix(1.072 0 0 1.083 -114.8 -1.488)" fill-opacity="0" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="7.701" d="m1885 104.1v27.75c0 1.459-1.28 2.643-2.857 2.643h-48.58c-1.578 0-2.858-1.184-2.858-2.643v-27.75c0-1.458 1.28-2.643 2.858-2.643h48.58c1.577 0 2.857 1.185 2.857 2.643z" clip-rule="evenodd"/>
+    <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.175" d="m1817 150.2h80.11" clip-rule="evenodd"/>
+    <path transform="matrix(.9353 0 0 .8745 138.3 47.02)" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.175" d="m1814 150.2h87.11" clip-rule="evenodd"/>
+    <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.175" d="m1845 200c-2.488-4.329-15.44-16.09-15.44-16.09" clip-rule="evenodd"/>
+    <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.175" d="m1856 213.2h12.1c2.298 0 4.501-0.914 6.124-2.541s2.532-3.832 2.527-6.13c-0.039-16.88-0.121-52.52-0.121-52.52" clip-rule="evenodd"/>
+    <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.175" d="m1795 213.2-0.146-79.45" clip-rule="evenodd"/>
+    <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.175" d="m1772 155c27.3-23.26 36.08-40.52 36.08-40.52" clip-rule="evenodd"/>
+    <path transform="matrix(.9353 0 0 .8745 138.3 28.65)" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.175" d="m1773 115.8c17.49-12.88 30.78-27.92 30.78-27.92" clip-rule="evenodd"/>
   </g>
+  <g id="line"/>
 </svg>

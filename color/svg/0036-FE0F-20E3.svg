@@ -1,10 +1,10 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <g id="color">
-    <rect x="11.875" y="12.1243" width="48" height="47.834" fill="#d0cfce"/>
+    <rect x="12" y="12" width="48" height="47.83" fill="#92d3f5"/>
   </g>
-  <g id="line">
-    <rect x="12.125" y="11.8743" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <circle cx="36.125" cy="39.9125" r="4.6594" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="36.125" x2="32.3088" y1="27.1767" y2="37.2428" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <g id="line" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+    <path transform="matrix(2.415,0,0,2.415,36,35.28)" stroke-miterlimit="10" stroke-width="2" d="m0 3.763c0.923 0 1.672-0.749 1.672-1.671v-0.42c0-0.923-0.749-1.672-1.672-1.672s-1.671 0.749-1.671 1.672v0.42c0 0.922 0.748 1.671 1.671 1.671z" clip-rule="evenodd"/>
+    <path transform="matrix(-.9845 2.205 2.205 .9845 38.17 36.37)" stroke-miterlimit="10" stroke-width="2" d="m-3.132-2.031h4.45" clip-rule="evenodd"/>
+    <rect x="12" y="12" width="48" height="48" stroke-width="2"/>
   </g>
 </svg>

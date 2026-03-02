@@ -1,11 +1,11 @@
 <svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <g id="color" transform="matrix(.2609 0 0 .2609 -91.17 -3.172)">
-    <rect x="391.7" y="54.17" width="191.7" height="191.7" fill="#b1cc33" stroke-width="0"/>
-    <path transform="matrix(1.014 0 0 1.014 -337.8 37.5)" fill="none" stroke="#000" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.557" d="m784.5 87.89 85.6 9e-3z" clip-rule="evenodd"/>
-    <path transform="matrix(1.014 0 0 1.014 -337.8 76.06)" fill="none" stroke="#000" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.557" d="m783.4 89.65 86.76-0.047z" clip-rule="evenodd"/>
-    <path transform="matrix(1.014 0 0 1.014 -337.8 -.1611)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.557" d="m754.3 215.7c14.58-12.42 24.19-30.87 26.54-46.22 2.799-18.31 2.862-41.02 2.838-44.45-0.165-23.16-0.775-39.31-0.775-39.31l88.19 0.091s-0.06 89.02-0.081 119.7c-4e-3 5.674-4.605 10.27-10.28 10.27h-23.5" clip-rule="evenodd"/>
+    <rect x="16.51" y="16.51" width="38.74" height="38.6" transform="matrix(4.749 0 0 4.749 317 -20.25)" fill="#b1cc33" stroke-width="0.8071"/>
   </g>
-  <g id="line" transform="matrix(1.239 0 0 1.239 -8.455 -8.455)">
-    <rect x="391.7" y="54.17" width="191.7" height="191.7" transform="matrix(.2105 0 0 .2105 -66.74 4.262)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.667" clip-rule="evenodd"/>
+  <g id="line" transform="matrix(1.239 0 0 1.239 -8.455 -8.455)" fill="none" stroke="#000" stroke-linejoin="round">
+    <path transform="matrix(.2135 0 0 .2135 -137.9 12.16)" stroke-miterlimit="1.5" stroke-width="9.45" d="m784.5 87.89 85.6 9e-3z" clip-rule="evenodd"/>
+    <path transform="matrix(.2135 0 0 .2135 -137.9 20.28)" stroke-miterlimit="1.5" stroke-width="9.45" d="m783.4 89.65 86.76-0.047z" clip-rule="evenodd"/>
+    <path transform="matrix(.2135 0 0 .2135 -137.9 4.23)" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.45" d="m754.3 215.7c14.58-12.42 24.19-30.87 26.54-46.22 2.799-18.31 2.862-41.02 2.838-44.45-0.165-23.16-0.775-39.31-0.775-39.31l88.19 0.091s-0.06 89.02-0.081 119.7c-4e-3 5.674-4.605 10.27-10.28 10.27h-23.5" clip-rule="evenodd"/>
+    <rect x="16.51" y="16.51" width="38.74" height="38.74" stroke-linecap="round" stroke-width="1.614"/>
   </g>
 </svg>

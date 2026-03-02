@@ -7,12 +7,12 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color" transform="matrix(.2609 0 0 .2609 -91.6 -3.172)">
-    <rect x="391.7" y="54.17" width="191.7" height="191.7" fill="#fcea2b" stroke-width="0"/>
-    <path transform="matrix(1.044 0 0 1.044 -1079 -361.2)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.34" d="m1444 477.9h108.7" clip-rule="evenodd"/>
-    <path transform="matrix(1.049 0 0 1.031 -1086 -353.4)" fill-opacity="0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.368" d="m1558 445.3v61.96c0 3.256-2.599 5.901-5.8 5.901h-104.9c-3.201 0-5.8-2.645-5.8-5.901v-61.96c0-3.257 2.599-5.901 5.8-5.901h104.9c3.201 0 5.8 2.644 5.8 5.901z" clip-rule="evenodd"/>
-    <path transform="matrix(1.044 0 0 1.044 -1079 -361.2)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.34" d="m1499 420.3v138.4" clip-rule="evenodd"/>
+    <rect x="397.1" y="58.15" width="184" height="183.3" fill="#fcea2b" stroke-width="3.833"/>
   </g>
-  <g id="line" transform="matrix(.2841 0 0 .2841 -390.5 -102.7)">
-    <rect x="391.7" y="54.17" width="191.7" height="191.7" transform="matrix(.9182 0 0 .9182 1052 350.3)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.667" clip-rule="evenodd"/>
+  <g id="line" transform="matrix(.2841 0 0 .2841 -390.5 -102.7)" stroke="#000" stroke-linejoin="round">
+    <path transform="matrix(.9587 0 0 .9587 61.21 18.62)" fill="none" stroke-miterlimit="1.5" stroke-width="9.178" d="m1444 477.9h114.6" clip-rule="evenodd"/>
+    <path transform="matrix(.9633 0 0 .9468 54.78 25.79)" fill-opacity="0" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.214" d="m1558 445.3v61.96c0 3.256-2.599 5.901-5.8 5.901h-104.9c-3.201 0-5.8-2.645-5.8-5.901v-61.96c0-3.257 2.599-5.901 5.8-5.901h104.9c3.201 0 5.8 2.644 5.8 5.901z" clip-rule="evenodd"/>
+    <path transform="matrix(.9587 0 0 .9587 61.21 18.62)" fill="none" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="9.178" d="m1499 420.3v138.4" clip-rule="evenodd"/>
+    <rect x="397.1" y="58.15" width="184" height="184" transform="matrix(.9183 0 0 .9183 1052 350.3)" fill="none" stroke-linecap="round" stroke-width="7.666"/>
   </g>
 </svg>

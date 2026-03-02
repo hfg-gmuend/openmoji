@@ -1,21 +1,21 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <g id="grid">
-    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
-    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <path fill="#b3b3b3" d="m68 4v64h-64v-64h64m4-4h-72v72h72z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="m12.92 10.96h46.15a1.923 1.923 0 0 1 1.923 1.923v46.15a1.923 1.923 0 0 1-1.923 1.923h-46.15a1.923 1.923 0 0 1-1.923-1.923v-46.15a1.923 1.923 0 0 1 1.923-1.923z"/>
+    <rect x="16" y="4" rx="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.254" width="40" height="64" transform="rotate(90,36,36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
-  <g id="color">
-    <g id="color-2">
-      <path fill="#92d3f5" d="M59.0349,59h-46.07A.9679.9679,0,0,1,12,58.0349v-46.07A.9679.9679,0,0,1,12.9651,11h46.07A.9679.9679,0,0,1,60,11.9651v46.07A.9679.9679,0,0,1,59.0349,59Z"/>
-    </g>
+  <g id="line-supplement" transform="translate(-.0006922 -.01378)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" clip-rule="evenodd">
+    <path transform="matrix(2.395 0 0 2.395 48.77 43.44)" d="m0.3763-5.991c-0.441-0.392-1.022-0.629-1.659-0.629-1.38 0-2.5 1.119-2.5 2.5v2c0 1.38 1.12 2.5 2.5 2.5 1.381 0 2.5-1.12 2.5-2.5v-1.014h-2"/>
+    <path transform="matrix(2.395 0 0 2.395 48.77 43.44)" d="m-11.89 0.3815v-7l5 7v-7"/>
   </g>
-  <g id="line">
-    <g id="NG_Button">
-      <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2" d="M59.0349,59.3333h-46.07A.9679.9679,0,0,1,12,58.3682v-46.07a.9679.9679,0,0,1,.9651-.9651h46.07A.9679.9679,0,0,1,60,12.2984v46.07A.9679.9679,0,0,1,59.0349,59.3333Z"/>
-      <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="22 42.833 22 27.833 32.714 42.833 32.714 27.833"/>
-      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M50.1964,29.1816a5.3366,5.3366,0,0,0-3.5535-1.3483h0a5.3572,5.3572,0,0,0-5.3572,5.3572v4.2857a5.3572,5.3572,0,0,0,5.3572,5.3571h0A5.3572,5.3572,0,0,0,52,37.4762V35.3053H47.7143"/>
-    </g>
+  <g id="color" transform="translate(-.0006922 -.01378)" stroke="#d22f27">
+    <rect x="12" y="12.01" width="48" height="47.83" fill="#3f3f3f"/>
+    <path transform="matrix(2.395,0,0,2.395,48.77,43.44)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m0.3763-5.991c-0.441-0.392-1.022-0.629-1.659-0.629-1.38 0-2.5 1.119-2.5 2.5v2c0 1.38 1.12 2.5 2.5 2.5 1.381 0 2.5-1.12 2.5-2.5v-1.014h-2"/>
+    <path transform="matrix(2.395,0,0,2.395,48.77,43.44)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m-11.89 0.3815v-7l5 7v-7"/>
+  </g>
+  <g id="line" transform="matrix(.491 0 0 .491 18.32 18.32)" stroke="#fff" stroke-width="4.073">
+    <rect x="12" y="11.96" width="48" height="48" transform="matrix(2.037 0 0 2.037 -37.31 -37.31)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>

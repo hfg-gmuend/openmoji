@@ -1,11 +1,16 @@
 <svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="line-supplement" transform="matrix(.2609 0 0 .2609 -91.17 -3.173)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="13.42" clip-rule="evenodd">
+    <path d="m428.9 124.3 119.5-0.1619"/>
+    <path d="m458.8 93.77v67.07"/>
+    <path d="m517.7 93.65 0.094 36.07s5.648 66.92-43.7 78.47"/>
+  </g>
   <g id="color" transform="matrix(.2609 0 0 .2609 -91.17 -3.173)">
-    <rect x="391.7" y="54.17" width="191.7" height="191.7" fill="#ea5a47" stroke-width="0"/>
-    <path transform="matrix(1.132 0 0 1.132 -62.34 -18.79)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="6.772" d="m434 128.8 105.6-0.143" clip-rule="evenodd"/>
-    <path transform="matrix(1.132 0 0 1.132 -62.34 -18.79)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="6.772" d="m460.4 101.8v59.25" clip-rule="evenodd"/>
-    <path transform="matrix(1.132 0 0 1.132 -3.484 -18.79)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="6.772" d="m460.4 101.7 0.083 31.86s4.989 59.12-38.6 69.32" clip-rule="evenodd"/>
+    <rect x="12" y="12" width="48" height="47.83" transform="matrix(3.833,0,0,3.833,349.4,12.16)" fill="#d22f27"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="11.5" d="m428.9 124.3 119.5-0.1619"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="11.5" d="m458.8 93.77v67.07"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="11.5" d="m517.7 93.65 0.094 36.07s5.648 66.92-43.7 78.47"/>
   </g>
   <g id="line" transform="matrix(.2901 0 0 .2901 -105 -7.199)">
-    <rect x="391.7" y="54.17" width="191.7" height="191.7" transform="matrix(.8991 0 0 .8991 47.8 13.88)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.667" clip-rule="evenodd"/>
+    <rect x="12" y="12" width="48" height="48" transform="matrix(3.447 0 0 3.447 361.9 24.82)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>

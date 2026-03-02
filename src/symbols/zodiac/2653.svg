@@ -6,13 +6,18 @@
     <rect x="16" y="4" rx="2.254" ry="2.254" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
+  <g id="line-supplement" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3">
+    <path stroke-miterlimit="10" d="m23.39 50.52s7.057-4.043 6.983-14.52c0.0732-10.48-6.983-14.52-6.983-14.52"/>
+    <path stroke-miterlimit="10" d="m48.61 21.48s-7.057 4.043-6.984 14.52c-0.0719 10.48 6.984 14.52 6.984 14.52"/>
+    <line x1="48.18" x2="23.82" y1="36.52" y2="36.52" stroke-linejoin="round"/>
+  </g>
   <g id="color">
-    <rect x="12" y="12" width="48" height="47.83" fill="#b399c8"/>
+    <rect x="12" y="12" width="48" height="47.83" fill="#8967aa"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" d="m23.39 50.52s7.057-4.043 6.983-14.52c0.0732-10.48-6.983-14.52-6.983-14.52"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" d="m48.61 21.48s-7.057 4.043-6.984 14.52c-0.0719 10.48 6.984 14.52 6.984 14.52"/>
+    <line x1="48.18" x2="23.82" y1="36.52" y2="36.52" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
   </g>
   <g id="line">
     <rect x="12" y="12" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" d="m23.39 50.52s7.057-4.043 6.983-14.52c0.0732-10.48-6.983-14.52-6.983-14.52"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" d="m48.61 21.48s-7.057 4.043-6.984 14.52c-0.0719 10.48 6.984 14.52 6.984 14.52"/>
-    <line x1="48.18" x2="23.82" y1="36.52" y2="36.52" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
   </g>
 </svg>

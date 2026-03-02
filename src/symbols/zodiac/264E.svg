@@ -6,14 +6,20 @@
     <rect x="16" y="4" rx="2.254" ry="2.254" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
+  <g id="line-supplement" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+    <path d="m30.53 39.5h-10.53"/>
+    <path d="m52 39.5h-9.53"/>
+    <path d="m52 44.5h-32"/>
+    <path d="m30.53 39.5a8.443 8.443 0 0 1-1.83-9.201 8.443 8.443 0 0 1 7.8-5.212 8.443 8.443 0 0 1 7.8 5.212 8.443 8.443 0 0 1-1.83 9.201" paint-order="normal"/>
+  </g>
   <g id="color">
-    <rect x="12" y="12" width="48" height="48" fill="#b399c8"/>
+    <rect x="12" y="12" width="48" height="48" fill="#8967aa"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3" d="M 30.53,39.5 H 20"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3" d="m52 39.5h-9.53"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3" d="m52 44.5h-32"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3" d="m30.53 39.5a8.443 8.443 0 0 1-1.83-9.201 8.443 8.443 0 0 1 7.8-5.212 8.443 8.443 0 0 1 7.8 5.212 8.443 8.443 0 0 1-1.83 9.201" paint-order="normal"/>
   </g>
   <g id="line">
     <rect x="12" y="12" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="m30.53 39.5h-10.53"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="m52 39.5h-9.53"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="m52 44.5h-32"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="m30.53 39.5a8.443 8.443 0 0 1-1.83-9.201 8.443 8.443 0 0 1 7.8-5.212 8.443 8.443 0 0 1 7.8 5.212 8.443 8.443 0 0 1-1.83 9.201" paint-order="normal"/>
   </g>
 </svg>

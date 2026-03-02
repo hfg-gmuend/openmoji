@@ -1,11 +1,16 @@
 <svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="line-supplement" transform="matrix(.2609 0 0 .2609 -91.17 -3.172)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="10.01" clip-rule="evenodd">
+    <path fill="none" d="m456 134.7 65.4 0.2556"/>
+    <path fill-opacity="0" d="m534.5 163.5v41.74c0 2.194-1.781 3.976-3.975 3.976h-83.89c-2.194 0-3.976-1.782-3.976-3.976v-41.74c0-2.194 1.782-3.975 3.976-3.975h83.89c2.194 0 3.975 1.781 3.975 3.975z"/>
+    <path fill="none" d="m423.4 136.5c29.38-12.39 64.23-46.88 64.23-46.88s34.12 32.32 66.31 48.41"/>
+  </g>
   <g id="color" transform="matrix(.2609 0 0 .2609 -91.17 -3.172)">
-    <rect x="391.7" y="54.17" width="191.7" height="191.7" fill="#ea5a47" stroke-width="0"/>
-    <path transform="matrix(.9573 0 0 .9573 -1271 -314.1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.008" d="m1804 467.6 68.32 0.267" clip-rule="evenodd"/>
-    <path transform="matrix(.9573 0 0 .9573 -1271 -317.7)" fill-opacity="0" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.008" d="m1886 501.5v43.6c0 2.292-1.86 4.153-4.152 4.153h-87.63c-2.292 0-4.153-1.861-4.153-4.153v-43.6c0-2.292 1.861-4.152 4.153-4.152h87.63c2.292 0 4.152 1.86 4.152 4.152z" clip-rule="evenodd"/>
-    <path transform="matrix(.9573 0 0 .9573 -1271 -314.1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.008" d="m1770 469.5c30.69-12.94 67.1-48.97 67.1-48.97s35.64 33.76 69.27 50.57" clip-rule="evenodd"/>
+    <rect x="1743" y="393.7" width="185.1" height="184.5" transform="matrix(.9939 0 0 .9939 -1337 -333.1)" fill="#d22f27" stroke-width="3.857"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.582" d="m456 134.7 65.4 0.2556"/>
+    <path fill-opacity="0" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.582" d="m534.5 163.5v41.74c0 2.194-1.781 3.976-3.975 3.976h-83.89c-2.194 0-3.976-1.782-3.976-3.976v-41.74c0-2.194 1.782-3.975 3.976-3.975h83.89c2.194 0 3.975 1.781 3.975 3.975z"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.582" d="m423.4 136.5c29.38-12.39 64.23-46.88 64.23-46.88s34.12 32.32 66.31 48.41"/>
   </g>
   <g id="line" transform="matrix(.2593 0 0 .2593 -440 -90.09)">
-    <rect x="391.7" y="54.17" width="191.7" height="191.7" transform="matrix(.9888 0 0 1.006 1355 335.2)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.734" clip-rule="evenodd"/>
+    <rect x="1743" y="393.7" width="185.1" height="185.1" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.713"/>
   </g>
 </svg>
