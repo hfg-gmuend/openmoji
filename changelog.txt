@@ -11,6 +11,7 @@ New:
   + E1DA extras-openmoji "ai hand" by @artlung Joe Crawford #561
   + 20E3 extras-openmoji combining enclosing keycap by @nataliakeniganti #565
   + E420 to E435 extras-openmoji 🏳️‍🌈 Queer symbols by @felifluid Feli Berner #588
+  + Chess pieces by @nataliakeniganti #605
 
 Improvements:
   * 270D better fingers of drawing hand by Daniel Utz
@@ -19,9 +20,8 @@ Improvements:
   * Fixing Japanese emoji and correcting legibility issues: 1F21A 🈚,
     1F22F 🈯, 1F23A 🈺, 1F201 🈁, 1F202 🈂, 1F232 🈲, 1F233 🈳, 1F234 🈴,
     1F235 🈵, 1F236 🈶, 1F237 🈷, 1F238 🈸, 1F239 🈹, 1F250 🉐, 1F251 🉑,
-    3299 ㊙, 3297 ㊗ #609 by @cemoon95
-  * Big general overhaul of symbols #616 by @cemoon95
-
+    3299 ㊙, 3297 ㊗ by @cemoon95 #609
+  * Big general overhaul of symbols by @cemoon95 #616
 
 Fix:
   * Updates flag sequences of non rendering extras-openmoji/flags by @SoSeDiK #600
