@@ -2688,6 +2688,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐳,1F433,animals-nature,animal-marine,spouting whale,"animal, beach, face, ocean, spouting, whale","cetacean, swim, animal, water",Kris Kowal,2020-04-04,,,,,0.6,3765
 🐋,1F40B,animals-nature,animal-marine,whale,"animal, beach, ocean","cetacean, swim, animal, water",Kris Kowal,2020-04-04,,,,,1,3766
 🐬,1F42C,animals-nature,animal-marine,dolphin,"animal, beach, flipper, ocean","cetacean, swim, animal, water",Kris Kowal,2020-04-04,,,,,0.6,3767
+🫍,1FACD,animals-nature,animal-marine,orca,"marine, ocean, whale","cetacean, whale, orca, killer whale, blackfish, swim, animal, water",Selina Bauder,2018-04-18,,,,,17,3768
 🦭,1F9AD,animals-nature,animal-marine,seal,"animal, lion, ocean, sea",,Liz Bravo,2020-09-26,,,,,13,3769
 🐟️,1F41F,animals-nature,animal-marine,fish,"animal, dinner, fishes, fishing, pisces, zodiac","swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,3770
 🐠,1F420,animals-nature,animal-marine,tropical fish,"animal, fish, fishes, tropical","swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,3771
@@ -2887,6 +2888,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧭,1F9ED,travel-places,place-map,compass,"direction, magnetic, navigation, orienteering","wayfinding, direction",Kai Magnus Müller,2018-04-18,,,,,11,3972
 🏔️,1F3D4,travel-places,place-geographic,snow-capped mountain,"cold, mountain, snow, snow-capped","landscape, nature, hiking, climbing, white, outdoor, adventure",Martin Wehl,2018-04-18,,,,,0.7,3974
 ⛰️,26F0,travel-places,place-geographic,mountain,mountain,"landscape, nature, hiking, climbing, outdoor, adventure",Martin Wehl,2018-04-18,,,,,0.7,3976
+🛘,1F6D8,travel-places,place-geographic,landslide,"avalanche, danger, disaster, earthquake, mountain, mudslide, rocks",,Guemil Project,2019-01-14,,,,,17,3977
 🌋,1F30B,travel-places,place-geographic,volcano,"eruption, mountain, nature","vulcano, landscape, nature, fire, smoke, hot",Guemil Project,2019-01-14,,,,,0.6,3978
 🗻,1F5FB,travel-places,place-geographic,mount fuji,"fuji, mount, mountain, nature","japan, japanese, geographic",Martin Wehl,2018-04-18,,,,,0.6,3979
 🏕️,1F3D5,travel-places,place-geographic,camping,camping,"nature, outdoor, tent, adventure, sleeping",Martin Wehl,2018-04-18,,,,,0.7,3981
@@ -3944,7 +3946,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E002,extras-openmoji,animals-nature,poppy,,"poppy, remembrance, veterans",Carlin MacKenzie,2019-12-20,,,,,,
 ,E003,extras-openmoji,animals-nature,doe,,"forest, hunt, antler, deer",Carlin MacKenzie,2020-03-21,,,,,,
 ,E004,extras-openmoji,animals-nature,spouting-orca,,"cetacean, whale, spouting, orca, killer whale, blackfish, swim, animal, water",Selina Bauder,2018-04-18,,,,,,
-,E005,extras-openmoji,animals-nature,orca,,"cetacean, whale, orca, killer whale, blackfish, swim, animal, water",Selina Bauder,2018-04-18,,,,,,
 ,E006,extras-openmoji,animals-nature,narwhal,,"cetacean, whale, swim, animal, water",Kris Kowal,2020-04-04,,,,,,
 ,E007,extras-openmoji,animals-nature,beluga,,"cetacean, whale, swim, animal, water",Kris Kowal,2020-04-04,,,,,,
 ,E008,extras-openmoji,animals-nature,porpoise,,"cetacean, swim, animal, water",Kris Kowal,2020-04-04,,,,,,
@@ -4057,7 +4058,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E09A,extras-openmoji,emergency,volcano ashes,,volcano eruption,Guemil Project,2019-01-14,,,,,,
 ,E09B,extras-openmoji,emergency,tsunami,,,Guemil Project,2019-01-14,,,,,,
 ,E09C,extras-openmoji,emergency,earthquake,,,Guemil Project,2019-01-14,,,,,,
-,E09D,extras-openmoji,emergency,landslide,,,Guemil Project,2019-01-14,,,,,,
 ,E09E,extras-openmoji,emergency,avalanche,,,Guemil Project,2019-01-14,,,,,,
 ,E09F,extras-openmoji,emergency,flood,,,Guemil Project,2019-01-14,,,,,,
 ,E0A0,extras-openmoji,emergency,north,,,Guemil Project,2019-01-14,,,,,,
@@ -4394,7 +4394,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏴󠁥󠁳󠁧󠁡󠁿,1F3F4-E0065-E0073-E0067-E0061-E007F,extras-unicode,subdivision-flag,galicia flag,,galicia,Xavier Martinez,2024-04-08,,,,,?,
 🏴󠁥󠁳󠁩󠁢󠁿,1F3F4-E0065-E0073-E0069-E0062-E007F,extras-unicode,subdivision-flag,balearic islands flag,,"balearic, balearic, islands, illes, balears, balears",Xavier Martinez,2023-12-04,,,,,?,
 🏴󠁥󠁳󠁭󠁣󠁿,1F3F4-E0065-E0073-E006D-E0063-E007F,extras-unicode,subdivision-flag,murcia flag,,"murcia, region",Xavier Martinez,2023-12-04,,,,,?,
-🏴󠁥󠁳󠁭󠁤󠁿,1F3F4-E0065-E0073-E006D-E0064-E007F,extras-unicode,subdivision-flag,madrid autonomous community flag,,"madrid autonomous community, madrid, autonomous, community",Xavier Martinez,2024-04-08,,,,,?,
+🏴󠁥󠁳󠁭󠁤󠁿,1F3F4-E0065-E0073-E006D-E0064-E007F,extras-unicode,subdivision-flag,madrid autonomous community flag,,"madrid autonomous community, madrid, autonomous, community"3,Xavier Martinez,2024-04-08,,,,,?,
 🏴󠁥󠁳󠁭󠁬󠁿,1F3F4-E0065-E0073-E006D-E006C-E007F,extras-unicode,subdivision-flag,melilla flag,,melilla,Xavier Martinez,2024-04-08,,,,,?,
 🏴󠁥󠁳󠁮󠁣󠁿,1F3F4-E0065-E0073-E006E-E0063-E007F,extras-unicode,subdivision-flag,navarra chartered community,,"navarra chartered community, navarra, chartered, community, navarre",Xavier Martinez,2024-04-08,,,,,?,
 🏴󠁥󠁳󠁰󠁶󠁿,1F3F4-E0065-E0073-E0070-E0076-E007F,extras-unicode,subdivision-flag,basque flag,,"basque, ikurrina, euskal",Sam Hocevar,2021-03-15,,,,,?,
