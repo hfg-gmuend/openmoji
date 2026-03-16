@@ -1445,6 +1445,23 @@
     "order": 90
   },
   {
+    "emoji": "🫪",
+    "hexcode": "1FAEA",
+    "group": "smileys-emotion",
+    "subgroups": "face-concerned",
+    "annotation": "distorted face",
+    "tags": "anxiety, bloated, panic, shocked, surprised, vulnerable",
+    "openmoji_tags": "",
+    "openmoji_author": "Natalia Kenig",
+    "openmoji_date": "2026-03-16",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 17,
+    "order": 91
+  },
+  {
     "emoji": "🥺",
     "hexcode": "1F97A",
     "group": "smileys-emotion",
@@ -29954,6 +29971,23 @@
     "order": 2410
   },
   {
+    "emoji": "🧑‍🩰",
+    "hexcode": "1F9D1-200D-1FA70",
+    "group": "people-body",
+    "subgroups": "person-activity",
+    "annotation": "ballet dancer",
+    "tags": "ballet, dancer",
+    "openmoji_tags": "",
+    "openmoji_author": "Natalia Kenig",
+    "openmoji_date": "2026-03-16",
+    "skintone": "",
+    "skintone_combination": "single",
+    "skintone_base_emoji": "🧑‍🩰",
+    "skintone_base_hexcode": "1F9D1-200D-1FA70",
+    "unicode": 17,
+    "order": 2414
+  },
+  {
     "emoji": "💃",
     "hexcode": "1F483",
     "group": "people-body",
@@ -55265,6 +55299,23 @@
     "skintone_base_hexcode": "",
     "unicode": 0.6,
     "order": 4401
+  },
+  {
+    "emoji": "🪊",
+    "hexcode": "1FA8A",
+    "group": "objects",
+    "subgroups": "musical-instrument",
+    "annotation": "trombone",
+    "tags": "brass, instrument, jazz, music, sad, slide",
+    "openmoji_tags": "",
+    "openmoji_author": "Natalia Kenig",
+    "openmoji_date": "2026-03-16",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 17,
+    "order": 4402
   },
   {
     "emoji": "🪗",

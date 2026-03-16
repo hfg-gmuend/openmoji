@@ -84,6 +84,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 😯,1F62F,smileys-emotion,face-concerned,hushed face,"epic, face, hushed, omg, stunned, surprised, whoa, woah",,Mariella Steeb,2018-04-18,,,,,1,88
 😲,1F632,smileys-emotion,face-concerned,astonished face,"astonished, cost, face, no, omg, shocked, totally, way",,Emily Jäger,2018-04-18,,,,,0.6,89
 😳,1F633,smileys-emotion,face-concerned,flushed face,"amazed, awkward, crazy, dazed, dead, disbelief, embarrassed, face, flushed, geez, heat, hot, impressed, jeez, what, wow",red jaws,Mariella Steeb,2018-04-18,,,,,0.6,90
+🫪,1FAEA,smileys-emotion,face-concerned,distorted face,"anxiety, bloated, panic, shocked, surprised, vulnerable",,Natalia Kenig,2026-03-16,,,,,17,91
 🥺,1F97A,smileys-emotion,face-concerned,pleading face,"begging, big, eyes, face, mercy, not, pleading, please, pretty, puppy, sad, why",,Antonia Wagner,2019-05-03,,,,,11,92
 🥹,1F979,smileys-emotion,face-concerned,face holding back tears,"admiration, aww, back, cry, embarrassed, face, feelings, grateful, gratitude, holding, joy, please, proud, resist, sad, tears",,Liz Bravo,2022-02-10,,,,,14,93
 😦,1F626,smileys-emotion,face-concerned,frowning face with open mouth,"caught, face, frown, frowning, guard, mouth, open, scared, scary, surprise, what, wow",,Mariella Steeb,2018-04-18,,,,,1,94
@@ -1761,6 +1762,12 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏃🏽‍♂️‍➡️,1F3C3-1F3FD-200D-2642-FE0F-200D-27A1-FE0F,people-body,person-activity,"man running: medium skin tone, facing right",,,Rifat Erdogan,2019-05-06,3,single,🏃‍♂️‍➡️,1F3C3-200D-2642-FE0F-200D-27A1-FE0F,15.1,2402
 🏃🏾‍♂️‍➡️,1F3C3-1F3FE-200D-2642-FE0F-200D-27A1-FE0F,people-body,person-activity,"man running: medium-dark skin tone, facing right",,,Rifat Erdogan,2019-05-06,4,single,🏃‍♂️‍➡️,1F3C3-200D-2642-FE0F-200D-27A1-FE0F,15.1,2406
 🏃🏿‍♂️‍➡️,1F3C3-1F3FF-200D-2642-FE0F-200D-27A1-FE0F,people-body,person-activity,"man running: dark skin tone, facing right",,,Rifat Erdogan,2019-05-06,5,single,🏃‍♂️‍➡️,1F3C3-200D-2642-FE0F-200D-27A1-FE0F,15.1,2410
+🧑‍🩰,1F9D1-200D-1FA70,people-body,person-activity,ballet dancer,"ballet, dancer",,Natalia Kenig,2026-03-16,single,🧑‍🩰,1F9D1-200D-1FA70,17,2414
+🧑🏻‍🩰,1F9D1-1F3FB-200D-1FA70,people-body,person-activity,ballet dancer: light skin tone,,,Natalia Kenig,2026-03-16,single,🧑‍🩰,1F9D1-200D-1FA70,17,2415
+🧑🏼‍🩰,1F9D1-1F3FC-200D-1FA70,people-body,person-activity,	ballet dancer: medium-light skin tone,,,Natalia Kenig,2026-03-16,single,🧑‍🩰,1F9D1-200D-1FA70,17,2416
+🧑🏽‍🩰,1F9D1-1F3FD-200D-1FA70,people-body,person-activity,ballet dancer: medium skin tone,,,Natalia Kenig,2026-03-16,single,🧑‍🩰,1F9D1-200D-1FA70,17,2417
+🧑🏾‍🩰,1F9D1-1F3FE-200D-1FA70,people-body,person-activity,	ballet dancer: medium-dark skin tone,,,Natalia Kenig,2026-03-16,single,🧑‍🩰,1F9D1-200D-1FA70,17,2418
+🧑🏾‍🩰,1F9D1-1F3FF-200D-1FA70,people-body,person-activity,	ballet dancer: dark skin tone,,,Natalia Kenig,2026-03-16,single,🧑‍🩰,1F9D1-200D-1FA70,17,2419
 💃,1F483,people-body,person-activity,woman dancing,"dance, dancer, dancing, elegant, festive, flair, flamenco, groove, let’s, salsa, tango, woman","human, person",Johanna Wellnitz,2018-04-18,,single,💃,1F483,0.6,2420
 💃🏻,1F483-1F3FB,people-body,person-activity,woman dancing: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,💃,1F483,1,2421
 💃🏼,1F483-1F3FC,people-body,person-activity,woman dancing: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,💃,1F483,1,2422
@@ -3250,6 +3257,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 📻️,1F4FB,objects,music,radio,"entertainment, tbt, video","radio, stereo radio, analog radio",Sina Schulz,2018-04-18,,,,,0.6,4399
 🎷,1F3B7,objects,musical-instrument,saxophone,"instrument, music, sax","saxophone, sax, jazz, instrument",Sina Schulz,2018-04-18,,,,,0.6,4400
 🎺,1F3BA,objects,musical-instrument,trumpet,"instrument, music","trumpet, horns, music, woodwind instrument",Sina Schulz,2018-04-18,,,,,0.6,4401
+🪊,1FA8A,objects,musical-instrument,trombone,"brass, instrument, jazz, music, sad, slide",,Natalia Kenig,2026-03-16,,,,,17,4402
 🪗,1FA97,objects,musical-instrument,accordion,"box, concertina, instrument, music, squeeze, squeezebox",,Liz Bravo,2020-07-21,,,,,13,4403
 🎸,1F3B8,objects,musical-instrument,guitar,"instrument, music, strat","guitar, e-guitar, instrumental, acoustic, chords",Sina Schulz,2018-04-18,,,,,0.6,4404
 🎹,1F3B9,objects,musical-instrument,musical keyboard,"instrument, keyboard, music, musical, piano","keyboard, piano keys, chords",Sina Schulz,2018-04-18,,,,,0.6,4405
