@@ -74936,6 +74936,23 @@
     "order": ""
   },
   {
+    "emoji": "🏴󠁩󠁴󠁢󠁡󠁿",
+    "hexcode": "1F3F4-E0069-E0074-E0062-E0061-E007F",
+    "group": "extras-unicode",
+    "subgroups": "subdivision-flag",
+    "annotation": "bari flag",
+    "tags": "",
+    "openmoji_tags": "bari, italy, province, apulia",
+    "openmoji_author": "JJ Marr",
+    "openmoji_date": "2026-03-16",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": "?",
+    "order": ""
+  },
+  {
     "emoji": "-",
     "hexcode": "002D",
     "group": "extras-unicode",
