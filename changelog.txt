@@ -13,6 +13,7 @@ New:
   + E420 to E435 extras-openmoji 🏳️‍🌈 Queer symbols by @felifluid Feli Berner #588
   + Chess pieces by @nataliakeniganti #605
   + Ontario and Queretaro flag by @jj-marr #627 #628
+  + Ballet Dancer, Trombone, Distorted Face by @nataliakeniganti #625
 
 Improvements:
   * Emoji 17.0 changes
