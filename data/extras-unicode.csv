@@ -28,6 +28,7 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 ⮻,2BBB,extras-unicode,symbol-other,overlapping white and black squares,,loominade,2020-04-22,1.1
 ⮼,2BBC,extras-unicode,symbol-other,overlapping black squares,,loominade,2020-04-22,1.1
 ⯄,2BC4,extras-unicode,symbol-other,black octagon,"equilateral polygon",loominade,2020-04-17,5
+🏴󠁣󠁡󠁯󠁮󠁿,1F3F4-E0063-E0061-E006F-E006E-E007F,extras-unicode,subdivision-flag,ontario flag,"ontario, canada, province, red ensign",JJ Marr,2026-03-16,?
 🏴󠁣󠁡󠁱󠁣󠁿,1F3F4-E0063-E0061-E0071-E0063-E007F,extras-unicode,subdivision-flag,quebec flag,"fleur-de-lis, quebec, canada, province",Denis Blanchette,2021-02-10,?
 🏴󠁵󠁳󠁣󠁡󠁿,1F3F4-E0075-E0073-E0063-E0061-E007F,extras-unicode,subdivision-flag,california flag,"bear, republic, state",Alexander Müller,2020-04-26,?
 🏴󠁤󠁥󠁢󠁥󠁿,1F3F4-E0064-E0065-E0062-E0065-E007F,extras-unicode,subdivision-flag,berlin flag,"bear, city, capital",Alexander Müller,2020-04-26,?
@@ -122,6 +123,7 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 �esmd,1F3F4-E0065-E0073-E006D-E0064-E007F,extras-unicode,subdivision-flag,madrid autonomous community flag,"madrid autonomous community, madrid, autonomous, community",Xavier Martinez,2024-04-08,?
 �esml,1F3F4-E0065-E0073-E006D-E006C-E007F,extras-unicode,subdivision-flag,melilla flag,melilla,Xavier Martinez,2024-04-08,?
 �esnc,1F3F4-E0065-E0073-E006E-E0063-E007F,extras-unicode,subdivision-flag,navarra chartered community,"navarra chartered community, navarra, chartered, community, navarre",Xavier Martinez,2024-04-08,?
+🏴󠁩󠁴󠁢󠁡󠁿,1F3F4-E0069-E0074-E0062-E0061-E007F,extras-unicode,subdivision-flag,bari flag,"bari, italy, province, apulia",JJ Marr,2026-03-16,?
 ♔,2654,extras-unicode,symbol-other,white chess king,,Natalia Kenig,2026-02-02,1.1
 ♕,2655,extras-unicode,symbol-other,white chess queen,,Natalia Kenig,2026-02-02,1.1
 ♖,2656,extras-unicode,symbol-other,white chess rook,,Natalia Kenig,2026-02-02,1.1
