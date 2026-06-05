@@ -7,6 +7,11 @@ OpenMoji 18.0 - XX XXX 2027
 
 Improvements:
   * Improved 😮‍💨😵😰 by @nataliakeniganti #644
+OpenMoji 18.0 - XX XXX 2026
+
+Improvements:
+  * Update blue color of Ukrainian flag by @asilichenko #653
+
 
 --------------------------------------------------------------------------------
 ☮️🍀 OpenMoji 17.0 - 23 Apr 2026
