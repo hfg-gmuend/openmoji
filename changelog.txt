@@ -3,14 +3,11 @@
 - removed
 
 --------------------------------------------------------------------------------
-OpenMoji 18.0 - XX XXX 2027
-
-Improvements:
-  * Improved 😮‍💨😵😰 by @nataliakeniganti #644
 OpenMoji 18.0 - XX XXX 2026
 
 Improvements:
   * Update blue color of Ukrainian flag by @asilichenko #653
+  * Improved 😮‍💨😵😰 by @nataliakeniganti #644
 
 
 --------------------------------------------------------------------------------
