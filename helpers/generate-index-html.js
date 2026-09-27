@@ -1,12 +1,10 @@
 #!/usr/bin/env node
 
-'use strict';
+import { readFileSync, writeFileSync } from 'node:fs';
+import lodash from 'lodash';
 
-const path = require('path');
-const fs = require('fs');
-const _ = require('lodash');
-
-const emojisList = require('../data/openmoji.json');
+const emojisList = JSON.parse(readFileSync(new URL('../data/openmoji.json', import.meta.url), 'utf8'));
+const _ = lodash;
 
 let html = `\
 <!DOCTYPE html>
@@ -441,4 +439,4 @@ html += `
 `;
 
 // write HTML
-fs.writeFileSync('index.html', html);
+writeFileSync('index.html', html);

@@ -1,27 +1,28 @@
 #!/usr/bin/env node
-'use strict';
+import { readFileSync, writeFileSync } from 'node:fs';
+import { join } from 'node:path';
+import jsdom from 'jsdom';
 
 // Used by helpers/export-svg-skintones.sh via helpers/lib/export-svg-skintones.sh
 // to project one skintone variation of a base emoji into its corresponding
 // composite hexcode SVG file.
 // Receives target SVG file paths as arguments.
 
-const fs = require('fs');
-const path = require('path');
-const JSDOM = require('jsdom').JSDOM;
+const { JSDOM } = jsdom;
 
-const hairColors = require('../../data/color-palette.json').skintones.hair;
-const fitzpatrickColors = require('../../data/color-palette.json').skintones.fitzpatrick;
-const shadowColors = require('../../data/color-palette.json').skintones.shadow;
+const colorPalette = JSON.parse(readFileSync(new URL('../../data/color-palette.json', import.meta.url), 'utf8'));
+const hairColors = colorPalette.skintones.hair;
+const fitzpatrickColors = colorPalette.skintones.fitzpatrick;
+const shadowColors = colorPalette.skintones.shadow;
 const folderSrc = 'src';
 const folderOut = 'color/svg';
 
 const writeSvg = (filePath, data) => {
-  fs.writeFileSync(filePath, data);
+  writeFileSync(filePath, data);
 }
 
 const generateSkintoneSingle = (srcFilePath, destFilePath, skintoneIndex) => {
-  const dom = new JSDOM(fs.readFileSync(srcFilePath, 'utf8'));
+  const dom = new JSDOM(readFileSync(srcFilePath, 'utf8'));
   const doc = dom.window.document;
   /**
    * Change hair color unless any of the following are specified:
@@ -57,7 +58,7 @@ const generateSkintoneSingle = (srcFilePath, destFilePath, skintoneIndex) => {
 const generateSkintoneMultiple = (srcFilePath, destFilePath, skintones) => {
   const skintoneIndexA = skintones.split(',')[0] - 1;
   const skintoneIndexB = skintones.split(',')[1] - 1;
-  const dom = new JSDOM(fs.readFileSync(srcFilePath, 'utf8'));
+  const dom = new JSDOM(readFileSync(srcFilePath, 'utf8'));
   const doc = dom.window.document;
 
   // TODO: currently works just for two skintone modifiers
@@ -79,11 +80,11 @@ const generateSkintoneMultiple = (srcFilePath, destFilePath, skintones) => {
 }
 
 // Construct indices for emojis, by path and by hexcode for fast lookup.
-const emojis = require('../../data/openmoji.json');
+const emojis = JSON.parse(readFileSync(new URL('../../data/openmoji.json', import.meta.url), 'utf8'));
 const emojisByTarget = {};
 const emojisByHexcode = {};
 for (const e of emojis) {
-  const target = path.join(folderOut, e.hexcode + '.svg');
+  const target = join(folderOut, e.hexcode + '.svg');
   emojisByTarget[target] = e;
   emojisByHexcode[e.hexcode] = e;
 }
@@ -94,14 +95,14 @@ for (const target of process.argv.slice(2)) {
   // multiple skintone modifiers
   if (e.skintone_combination === 'multiple') {
     generateSkintoneMultiple(
-      path.join(folderSrc, skintoneBaseEmoji.group, skintoneBaseEmoji.subgroups, skintoneBaseEmoji.hexcode + '.svg'),
+      join(folderSrc, skintoneBaseEmoji.group, skintoneBaseEmoji.subgroups, skintoneBaseEmoji.hexcode + '.svg'),
       target,
       e.skintone
     );
   // single skintone modifier
   } else {
     generateSkintoneSingle(
-      path.join(folderSrc, skintoneBaseEmoji.group, skintoneBaseEmoji.subgroups, skintoneBaseEmoji.hexcode + '.svg'),
+      join(folderSrc, skintoneBaseEmoji.group, skintoneBaseEmoji.subgroups, skintoneBaseEmoji.hexcode + '.svg'),
       target,
       e.skintone - 1 // fitzpatrick starts with 1 and not like an array with 0
     );

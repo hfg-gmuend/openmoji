@@ -1,6 +1,5 @@
-const fs = require('fs');
-const path = require('path');
-const { JSDOM } = require('jsdom');
+import { readFile, writeFile } from 'node:fs';
+import { JSDOM } from 'jsdom';
 
 
 function mirrorSVGHorizontally(svgContent) {
@@ -43,7 +42,7 @@ function main() {
   const sourcePath = args[0];
   const resultPath = args[1];
 
-  fs.readFile(sourcePath, 'utf8', (err, data) => {
+  readFile(sourcePath, 'utf8', (err, data) => {
     if (err) {
       console.error(`Error reading file: ${err.message}`);
       process.exit(1);
@@ -52,7 +51,7 @@ function main() {
     try {
       const mirroredSVG = mirrorSVGHorizontally(data);
 
-      fs.writeFile(resultPath, mirroredSVG, 'utf8', (err) => {
+      writeFile(resultPath, mirroredSVG, 'utf8', (err) => {
         if (err) {
           console.error(`Error writing file: ${err.message}`);
           process.exit(1);

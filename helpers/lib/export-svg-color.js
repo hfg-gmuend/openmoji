@@ -1,19 +1,19 @@
 #!/usr/bin/env node
-'use strict';
+import { readFileSync, writeFileSync } from 'node:fs';
+import { join } from 'node:path';
+import jsdom from 'jsdom';
 
-const fs = require('fs');
-const path = require('path');
-const JSDOM = require('jsdom').JSDOM;
+const { JSDOM } = jsdom;
 
 const folderSrc = './src';
 const folderOut = './color/svg';
 
 const writeSvg = (filePath, data) => {
-  fs.writeFileSync(filePath, data);
+  writeFileSync(filePath, data);
 }
 
 const generateSvg = (srcFilePath, destFilePath) => {
-  const dom = new JSDOM(fs.readFileSync(srcFilePath, 'utf8'));
+  const dom = new JSDOM(readFileSync(srcFilePath, 'utf8'));
   const doc = dom.window.document;
   const query = doc.querySelector('#grid');
   if (query) query.remove();
@@ -21,10 +21,10 @@ const generateSvg = (srcFilePath, destFilePath) => {
 }
 
 // Construct an index of emojis by target path for fast lookup.
-const emojis = require('../../data/openmoji.json');
+const emojis = JSON.parse(readFileSync(new URL('../../data/openmoji.json', import.meta.url), 'utf8'));
 const emojisByTarget = {};
 for (const e of emojis) {
-  const target = path.join(folderOut, e.hexcode + '.svg');
+  const target = join(folderOut, e.hexcode + '.svg');
   emojisByTarget[target] = e;
 }
 
@@ -32,7 +32,7 @@ for (const target of process.argv.slice(2)) {
   const e = emojisByTarget[target];
   // console.log(e.hexcode);
   generateSvg(
-    path.join(folderSrc, e.group, e.subgroups, e.hexcode + '.svg'),
+    join(folderSrc, e.group, e.subgroups, e.hexcode + '.svg'),
     target,
   );
 }

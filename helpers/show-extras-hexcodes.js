@@ -1,18 +1,21 @@
-const fs = require('fs');
-const path = require('path');
-const glob = require('glob').sync;
-const { minBy, maxBy, first, range } = require('lodash');
+import { basename, dirname, join, sep } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import globModule from 'glob';
+import lodash from 'lodash';
 
+const glob = globModule.sync;
+const { minBy, maxBy } = lodash;
+const scriptDirectory = dirname(fileURLToPath(import.meta.url));
 
-const srcFiles = glob(path.join(__dirname, '../src/extras-openmoji/**/*.svg'));
+const srcFiles = glob(join(scriptDirectory, '../src/extras-openmoji/**/*.svg'));
 console.log('Found', srcFiles.length, 'extras-openmoji');
 
 let extras = {};
 
 srcFiles.forEach(f => {
-  const [filename, subgroups, group] = f.split(path.sep).reverse();
-  const hexcode = path.basename(filename, '.svg');
-  key = `${group}/${subgroups}`;
+  const [filename, subgroups, group] = f.split(sep).reverse();
+  const hexcode = basename(filename, '.svg');
+  const key = `${group}/${subgroups}`;
   if (!extras[key]) extras[key] = [];
   extras[key].push({ hexcode, index: parseInt(hexcode, 16)});
 });
@@ -77,4 +80,3 @@ function logColor(message, color) {
   };
   return `${colors[color]}${message}${colors.reset}`;
 }
-

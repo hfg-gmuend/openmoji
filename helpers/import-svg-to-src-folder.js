@@ -1,13 +1,15 @@
 #!/usr/bin/env node
-'use strict';
+import { basename, dirname, join, normalize, resolve, sep } from 'node:path';
+import { copyFileSync, existsSync, mkdirSync, statSync } from 'node:fs';
+import globModule from 'glob';
+import lodash from 'lodash';
+import { createRequire } from 'node:module';
 
-const path = require('path');
-const fs = require('fs');
-
-const glob = require('glob').sync;
+const glob = globModule.sync;
 var argv = process.argv.slice(2);
-const _ = require('lodash');
+const _ = lodash;
 
+const require = createRequire(import.meta.url);
 const emojibaseData = require('emojibase-data/en/data.json');
 const emojibaseGroups = require('emojibase-data/meta/groups.json');
 const groups = emojibaseGroups.groups;
@@ -31,16 +33,15 @@ function help() {
 
 // recursive directory creation
 // https://gist.github.com/bpedro/742162#gistcomment-2606935
-const mkdirp = dir => path
-  .resolve(dir)
-  .split(path.sep)
+const mkdirp = dir => resolve(dir)
+  .split(sep)
   .reduce((acc, cur) => {
-    const currentPath = path.normalize(acc + path.sep + cur);
+    const currentPath = normalize(acc + sep + cur);
     try {
-      fs.statSync(currentPath);
+      statSync(currentPath);
     } catch (e) {
       if (e.code === 'ENOENT') {
-        fs.mkdirSync(currentPath);
+        mkdirSync(currentPath);
       } else {
         throw e;
       }
@@ -50,25 +51,25 @@ const mkdirp = dir => path
 
 
 let results = [];
-const svgFiles = glob( path.join(argv[0], '*.svg') );
+const svgFiles = glob(join(argv[0], '*.svg'));
 console.log(`Found ${svgFiles.length} svg files in ${argv[0]}`);
 let importedCounter = 0;
 
 svgFiles.forEach((f, i) => {
   let importResult = ''; // NEW, OVERWRITE or ERROR
   let emojiChar = '';
-  const basename = path.basename(f, '.svg');
-  const foldername = _.last(path.dirname(f).split('/'));
-  const emoji = _.find(emojis, { 'hexcode': basename });
+  const fileBasename = basename(f, '.svg');
+  const foldername = _.last(dirname(f).split('/'));
+  const emoji = _.find(emojis, { 'hexcode': fileBasename });
 
   if (emoji) {
     emojiChar = emoji.emoji;
-    const destinationFolder = path.join('src', emoji.group, emoji.subgroups);
+    const destinationFolder = join('src', emoji.group, emoji.subgroups);
     mkdirp(destinationFolder); // generate missing folders recursively
-    const destinationSvg = path.join(destinationFolder, basename+'.svg');
-    if (fs.existsSync(destinationSvg)) importResult = 'OVERWRITE';
+    const destinationSvg = join(destinationFolder, fileBasename+'.svg');
+    if (existsSync(destinationSvg)) importResult = 'OVERWRITE';
     else importResult = 'NEW';
-    fs.copyFileSync(f, destinationSvg);
+    copyFileSync(f, destinationSvg);
     importedCounter++;
   } else {
     importResult = 'ERROR';
@@ -76,7 +77,7 @@ svgFiles.forEach((f, i) => {
 
   let dt = new Date();
   dt = dt.getFullYear() +'-'+ ('0' + (dt.getMonth()+1)).slice(-2) +'-'+ ('0' + dt.getDate()).slice(-2);
-  results.push([emojiChar, basename, '', foldername, dt, importResult]);
+  results.push([emojiChar, fileBasename, '', foldername, dt, importResult]);
 });
 
 results.forEach(line => {
