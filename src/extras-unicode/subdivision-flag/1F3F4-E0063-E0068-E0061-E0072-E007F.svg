@@ -1,0 +1,20 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="grid">
+    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="m12.923 10.958h46.154a1.9231 1.9231 0 0 1 1.9231 1.9231v46.154a1.9231 1.9231 0 0 1-1.9231 1.9231h-46.154a1.9231 1.9231 0 0 1-1.9231-1.9231v-46.154a1.923 1.923 0 0 1 1.923-1.923z"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <rect x="17" y="17" width="38" height="38" fill="#feffff"/>
+    <path transform="translate(7.0004 -.0027836)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1.5356" d="m29 25.249h3.8391"/>
+    <path transform="translate(7.0004 -.0027836)" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5356" d="m37.37 41.45c-0.30529 2.9101-0.0091 4.352 0.85413 7.1208-1.5433 1.6324-2.8164 3.1312-5.0354 3.1312l-0.52719-1.5786 2.4878-0.78395c-1.3994-1.637-3.337-3.4214-3.0744-4.6054-3.8499 0.3598-4.2169 2.5046-5.622 5.7786l-4.6131-1.5352 0.7084-1.7 2.6075 1.2939c-0.67661-4.4595 1.4636-7.0993 4.6131-9.2108-1.2747-1.0395-1.4573-2.4878-1.4593-4.0034-3.8637 1.0109-6.267 1.3567-8.5336-2.1361l0.76874-1.5352c2.712 4.8926 4.415 2.3357 7.8072 0.34537-6.8951-4.309-5.9261-2.5799-7.8072-7.2544l1.5372-0.76752c0.88745 4.4565 3.4383 3.6134 6.9181 4.6054l3.8437-3.0698c-1.0189-3.8637-4.5839-0.28256-4.6131-3.8376h2.3065c2.4494-2.7887 5.1275-0.55437 6.9181-0.76752l-0.76875 1.5352c0.21822 1.7936 0.0046 3.0605-0.76874 4.6054 1.8996 2.8425-0.16078 3.8483-0.58462 7.0225-0.1703 1.2755 1.7138 4.8281 2.0363 7.3496z" clip-rule="evenodd"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.3606px" d="m26.575 38.157-2.3606 8.262-2.3606-8.262" clip-rule="evenodd"/>
+    <path transform="matrix(1.1802 0 0 1.1802 47.173 38.157)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2px" d="m0 7v-7h2.669c0.963 0 1.744 0.781 1.744 1.744s-0.781 1.743-1.744 1.743h-2.669" clip-rule="evenodd"/>
+    <path transform="matrix(.46785 1.0836 1.0836 -.46785 52.838 42.701)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2px" d="m-1.155-1.757 3.827 1e-3" clip-rule="evenodd"/>
+  </g>
+  <g id="line">
+    <rect x="17" y="17" width="38" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

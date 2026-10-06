@@ -149,3 +149,24 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 🛪,1F6EA,extras-unicode,transport-and-map-symbols,northeast-pointing airplane,,Mark-Jonathan Freyer,2026-07-31,?
 🛱,1F6F1,extras-unicode,transport-and-map-symbols,oncoming fire engine,,Mark-Jonathan Freyer,2026-07-31,?
 🛲,1F6F2,extras-unicode,transport-and-map-symbols,diesel locomotive,,Mark-Jonathan Freyer,2026-07-31,?
+🏴󠁣󠁨󠁪󠁵󠁿,1F3F4-E0063-E0068-E006A-E0075-E007F,extras-unicode,subdivision-flag,jura flag,"swiss, canton, jura, flag",Xavier Stouder,2026-09-25,?
+🏴󠁣󠁨󠁬󠁵󠁿,1F3F4-E0063-E0068-E006C-E0075-E007F,extras-unicode,subdivision-flag,lucerne flag,"swiss, canton, lucerne, flag",Xavier Stouder,2026-09-28,?
+🏴󠁣󠁨󠁮󠁥󠁿,1F3F4-E0063-E0068-E006E-E0065-E007F,extras-unicode,subdivision-flag,neuchâtel flag,"swiss, canton, neuchâtel, flag",Xavier Stouder,2026-09-28,?
+🏴󠁣󠁨󠁺󠁧󠁿󠁿,1F3F4-E0063-E0068-E007A-E0067-E007F,extras-unicode,subdivision-flag,zug flag,"swiss, canton, zug, flag",Xavier Stouder,2026-09-28,?
+󠁿🏴󠁣󠁨󠁺󠁨󠁿,1F3F4-E0063-E0068-E007A-E0068-E007F,extras-unicode,subdivision-flag,zurich flag,"swiss, canton, zurich, flag",Xavier Stouder,2026-09-28,?
+🏴󠁣󠁨󠁦󠁲󠁿󠁿,1F3F4-E0063-E0068-E0066-E0072-E007F,extras-unicode,subdivision-flag,fribourg flag,"swiss, canton, fribourg, flag",Xavier Stouder,2026-09-28,?
+🏴󠁣󠁨󠁳󠁯󠁿,1F3F4-E0063-E0068-E0073-E006F-E007F,extras-unicode,subdivision-flag,solothurn flag,"swiss, canton, solothurn, flag",Xavier Stouder,2026-09-28,?
+🏴󠁣󠁨󠁳󠁺󠁿,1F3F4-E0063-E0068-E0073-E007A-E007F,extras-unicode,subdivision-flag,schwyz flag,"swiss, canton, schwyz, flag",Xavier Stouder,2026-09-28,?
+🏴󠁣󠁨󠁴󠁩󠁿,1F3F4-E0063-E0068-E0074-E0069-E007F,extras-unicode,subdivision-flag,ticino flag,"swiss, canton, ticino, flag",Xavier Stouder,2026-09-28,?
+🏴󠁣󠁨󠁶󠁳󠁿,1F3F4-E0063-E0068-E0076-E0073-E007F,extras-unicode,subdivision-flag,valais flag,"swiss, canton, valais, flag",Xavier Stouder,2026-09-28,?
+🏴󠁣󠁨󠁡󠁧󠁿,1F3F4-E0063-E0068-E0061-E0067-E007F,extras-unicode,subdivision-flag,aargau flag,"swiss, canton, aargau, flag",Xavier Stouder,2026-09-28,?
+🏴󠁣󠁨󠁡󠁩󠁿,1F3F4-E0063-E0068-E0061-E0069-E007F,extras-unicode,subdivision-flag,appenzell innerrhoden flag,"swiss, canton, appenzell, innerrhoden, flag",Xavier Stouder,2026-09-28,?
+🏴󠁣󠁨󠁡󠁲󠁿,1F3F4-E0063-E0068-E0061-E0072-E007F,extras-unicode,subdivision-flag,appenzell ausserrhoden flag,"swiss, canton, appenzell, ausserrhoden, flag",Xavier Stouder,2026-09-28,?
+🏴󠁣󠁨󠁧󠁥󠁿,1F3F4-E0063-E0068-E0067-E0065-E007F,extras-unicode,subdivision-flag,geneva flag,"swiss, canton, geneva, flag",Xavier Stouder,2026-09-28,?
+🏴󠁣󠁨󠁢󠁳󠁿,1F3F4-E0063-E0068-E0062-E0073-E007F,extras-unicode,subdivision-flag,basel-stadt flag,"swiss, canton, basel, basel-stadt, flag",Xavier Stouder,2026-10-02,?
+🏴󠁣󠁨󠁢󠁬󠁿,1F3F4-E0063-E0068-E0062-E006C-E007F,extras-unicode,subdivision-flag,basel-landschaft flag,"swiss, canton, basel, basel-landschaft, flag",Xavier Stouder,2026-10-02,?
+🏴󠁣󠁨󠁧󠁬󠁿,1F3F4-E0063-E0068-E0067-E006C-E007F,extras-unicode,subdivision-flag,glarus flag,"swiss, canton, glarus, flag",Xavier Stouder,2026-10-02,?
+🏴󠁣󠁨󠁳󠁧󠁿,1F3F4-E0063-E0068-E0073-E0067-E007F,extras-unicode,subdivision-flag,st. gallen flag,"swiss, canton, st. gallen, flag",Xavier Stouder,2026-10-06,?
+🏴󠁣󠁨󠁶󠁤󠁿,1F3F4-E0063-E0068-E0076-E0064-E007F,extras-unicode,subdivision-flag,vaud flag,"swiss, canton, vaud, flag",Xavier Stouder,2026-10-06,?
+🏴󠁣󠁨󠁧󠁲󠁿,1F3F4-E0063-E0068-E0067-E0072-E007F,extras-unicode,subdivision-flag,graubünden flag,"swiss, canton, graubünden, flag",Xavier Stouder,2026-10-06,?
+🏴󠁣󠁨󠁴󠁧󠁿,1F3F4-E0063-E0068-E0074-E0067-E007F,extras-unicode,subdivision-flag,thurgau flag,"swiss, canton, thurgau, flag",Xavier Stouder,2026-10-06,?

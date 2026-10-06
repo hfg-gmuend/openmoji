@@ -1,0 +1,21 @@
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="grid">
+    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
+    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="m12.923 10.958h46.154a1.9231 1.9231 0 0 1 1.9231 1.9231v46.154a1.9231 1.9231 0 0 1-1.9231 1.9231h-46.154a1.9231 1.9231 0 0 1-1.9231-1.9231v-46.154a1.923 1.923 0 0 1 1.923-1.923z"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <rect x="5" y="17" width="62" height="38" transform="matrix(.6129 0 0 1 13.935 0)" fill="#fff"/>
+    <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".92232" d="m36.368 51.427 2.5398-2.8747 3.5243 2.802-2.0832-13.842-7.9797 5.07e-4 -2.0926 13.841 3.5402-2.8018 2.5512 2.875"/>
+    <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0141" d="m41.149 36.129h-9.5901z"/>
+    <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".9627" d="m40.675 32.397h-8.6422z"/>
+    <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9358" d="m31.179 34.25h10.35z"/>
+    <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" d="m38.88 30.814s0.25751-3.8178-1.6131-6.6954c-1.0342-1.591-3.1934-3.9772-7.292-3.2151-2.1987 0.4088-4.3531 2.265-4.2178 5.632 0.0607 1.5101 0.85459 3.3859 3.0217 3.41 0.59335 0.0066 1.6776-0.24727 2.0999-1.1637 0.9327-2.0138-0.99855-2.4403-1.0405-2.172 1.0275 0.53456 0.65293 2.1101-0.78427 2.186-1.1158 0.05894-1.6638-1.3357-1.5777-2.1944 0.13988-1.3964 1.8546-2.9843 3.5157-2.6048 1.7749 0.40543 2.7224 2.4071 2.9083 3.5222 0.16029 0.96153-0.05837 3.2733-0.05837 3.2733l5.0381 0.0221z"/>
+  </g>
+  <g id="line" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <rect x="17" y="17" width="38" height="38"/>
+    <rect x="17" y="17" width="38" height="38"/>
+  </g>
+</svg>
