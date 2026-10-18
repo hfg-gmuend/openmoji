@@ -7,7 +7,7 @@
       "group": "smileys-emotion",
       "subgroup": "face-smiling",
       "label": "cracking face",
-      "tags": [],
+      "tags": ["breaking", "crumbling", "masking", "resilience", "reveal", "tension", "transformation"],
       "version": 18,
       "order": 99001
     },
@@ -17,7 +17,7 @@
       "group": "travel-places",
       "subgroup": "sky-weather",
       "label": "meteor",
-      "tags": [],
+      "tags": ["apocalypse", "falling", "fireball", "gravity", "rock", "space", "star"],
       "version": 18,
       "order": 99002
     },
@@ -27,7 +27,7 @@
       "group": "objects",
       "subgroup": "writing",
       "label": "eraser",
-      "tags": [],
+      "tags": ["correction", "delete", "drawing", "erase", "error", "mistake", "remove", "rub", "rubber", "undo", "writing"],
       "version": 18,
       "order": 99003
     },
@@ -37,7 +37,7 @@
       "group": "objects",
       "subgroup": "tool",
       "label": "net with handle",
-      "tags": [],
+      "tags": ["catch", "collect", "mesh", "trap"],
       "version": 18,
       "order": 99004
     },
@@ -47,7 +47,7 @@
       "group": "animals-nature",
       "subgroup": "animal-bug",
       "label": "monarch butterfly",
-      "tags": [],
+      "tags": ["caterpillar", "change", "fragile", "hope", "insect", "metamorphosis", "migration", "transformation"],
       "version": 18,
       "order": 99005
     },
@@ -57,7 +57,7 @@
       "group": "food-drink",
       "subgroup": "food-vegetable",
       "label": "pickle",
-      "tags": [],
+      "tags": ["brine", "condiment", "cucumber", "ferment", "gherkin", "relish", "trouble"],
       "version": 18,
       "order": 99006
     },
@@ -67,7 +67,7 @@
       "group": "travel-places",
       "subgroup": "transport-water",
       "label": "lighthouse",
-      "tags": [],
+      "tags": ["beacon", "enlightenment", "guidance", "hope", "light", "maritime", "navigation", "sea", "signal"],
       "version": 18,
       "order": 99007
     },
@@ -77,7 +77,7 @@
       "group": "people-body",
       "subgroup": "hand-fingers-closed",
       "label": "leftwards thumb sign",
-      "tags": [],
+      "tags": ["grip", "left", "neutral", "point", "that", "this"],
       "version": 18,
       "order": 99008,
       "skins": [
@@ -139,7 +139,7 @@
       "group": "people-body",
       "subgroup": "hand-fingers-closed",
       "label": "rightwards thumb sign",
-      "tags": [],
+      "tags": ["grip", "neutral", "point", "right", "that", "this"],
       "version": 18,
       "order": 99014,
       "skins": [

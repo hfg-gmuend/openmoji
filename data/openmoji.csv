@@ -3952,20 +3952,20 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏴󠁧󠁢󠁥󠁮󠁧󠁿,1F3F4-E0067-E0062-E0065-E006E-E0067-E007F,flags,subdivision-flag,flag: England,"flag, gbeng",,Ferdinand Sorg,2019-02-13,,,,,5,5223
 🏴󠁧󠁢󠁳󠁣󠁴󠁿,1F3F4-E0067-E0062-E0073-E0063-E0074-E007F,flags,subdivision-flag,flag: Scotland,"flag, gbsct",,Ferdinand Sorg,2019-02-13,,,,,5,5224
 🏴󠁧󠁢󠁷󠁬󠁳󠁿,1F3F4-E0067-E0062-E0077-E006C-E0073-E007F,flags,subdivision-flag,flag: Wales,"flag, gbwls",dragon,Daniel Utz,2019-02-13,,,,,5,5225
-🫫,1FAEB,smileys-emotion,face-smiling,cracking face,,,Mark-Jonathan Freyer,2026-07-31,,,,,18,99001
-🪋,1FA8B,travel-places,sky-weather,meteor,,,Mark-Jonathan Freyer,2026-07-31,,,,,18,99002
-🪌,1FA8C,objects,writing,eraser,,,Mark-Jonathan Freyer,2026-07-31,,,,,18,99003
-🪍,1FA8D,objects,tool,net with handle,,,Mark-Jonathan Freyer,2026-07-31,,,,,18,99004
-🫌,1FACC,animals-nature,animal-bug,monarch butterfly,,,Mark-Jonathan Freyer,2026-07-31,,,,,18,99005
-🫝,1FADD,food-drink,food-vegetable,pickle,,,Mark-Jonathan Freyer,2026-07-31,,,,,18,99006
-🛙,1F6D9,travel-places,transport-water,lighthouse,,,Mark-Jonathan Freyer,2026-07-31,,,,,18,99007
-🫹,1FAF9,people-body,hand-fingers-closed,leftwards thumb sign,,,Mark-Jonathan Freyer,2026-07-31,,single,🫹,1FAF9,18,99008
+🫫,1FAEB,smileys-emotion,face-smiling,cracking face,"breaking, crumbling, masking, resilience, reveal, tension, transformation",,Mark-Jonathan Freyer,2026-07-31,,,,,18,99001
+🪋,1FA8B,travel-places,sky-weather,meteor,"apocalypse, falling, fireball, gravity, rock, space, star",,Mark-Jonathan Freyer,2026-07-31,,,,,18,99002
+🪌,1FA8C,objects,writing,eraser,"correction, delete, drawing, erase, error, mistake, remove, rub, rubber, undo, writing",,Mark-Jonathan Freyer,2026-07-31,,,,,18,99003
+🪍,1FA8D,objects,tool,net with handle,"catch, collect, mesh, trap",,Mark-Jonathan Freyer,2026-07-31,,,,,18,99004
+🫌,1FACC,animals-nature,animal-bug,monarch butterfly,"caterpillar, change, fragile, hope, insect, metamorphosis, migration, transformation",,Mark-Jonathan Freyer,2026-07-31,,,,,18,99005
+🫝,1FADD,food-drink,food-vegetable,pickle,"brine, condiment, cucumber, ferment, gherkin, relish, trouble",,Mark-Jonathan Freyer,2026-07-31,,,,,18,99006
+🛙,1F6D9,travel-places,transport-water,lighthouse,"beacon, enlightenment, guidance, hope, light, maritime, navigation, sea, signal",,Mark-Jonathan Freyer,2026-07-31,,,,,18,99007
+🫹,1FAF9,people-body,hand-fingers-closed,leftwards thumb sign,"grip, left, neutral, point, that, this",,Mark-Jonathan Freyer,2026-07-31,,single,🫹,1FAF9,18,99008
 🫹🏻,1FAF9-1F3FB,people-body,hand-fingers-closed,leftwards thumb sign: light skin tone,,,Mark-Jonathan Freyer,2026-07-31,1,single,🫹,1FAF9,18,99009
 🫹🏼,1FAF9-1F3FC,people-body,hand-fingers-closed,leftwards thumb sign: medium-light skin tone,,,Mark-Jonathan Freyer,2026-07-31,2,single,🫹,1FAF9,18,99010
 🫹🏽,1FAF9-1F3FD,people-body,hand-fingers-closed,leftwards thumb sign: medium skin tone,,,Mark-Jonathan Freyer,2026-07-31,3,single,🫹,1FAF9,18,99011
 🫹🏾,1FAF9-1F3FE,people-body,hand-fingers-closed,leftwards thumb sign: medium-dark skin tone,,,Mark-Jonathan Freyer,2026-07-31,4,single,🫹,1FAF9,18,99012
 🫹🏿,1FAF9-1F3FF,people-body,hand-fingers-closed,leftwards thumb sign: dark skin tone,,,Mark-Jonathan Freyer,2026-07-31,5,single,🫹,1FAF9,18,99013
-🫺,1FAFA,people-body,hand-fingers-closed,rightwards thumb sign,,,Mark-Jonathan Freyer,2026-07-31,,single,🫺,1FAFA,18,99014
+🫺,1FAFA,people-body,hand-fingers-closed,rightwards thumb sign,"grip, neutral, point, right, that, this",,Mark-Jonathan Freyer,2026-07-31,,single,🫺,1FAFA,18,99014
 🫺🏻,1FAFA-1F3FB,people-body,hand-fingers-closed,rightwards thumb sign: light skin tone,,,Mark-Jonathan Freyer,2026-07-31,1,single,🫺,1FAFA,18,99015
 🫺🏼,1FAFA-1F3FC,people-body,hand-fingers-closed,rightwards thumb sign: medium-light skin tone,,,Mark-Jonathan Freyer,2026-07-31,2,single,🫺,1FAFA,18,99016
 🫺🏽,1FAFA-1F3FD,people-body,hand-fingers-closed,rightwards thumb sign: medium skin tone,,,Mark-Jonathan Freyer,2026-07-31,3,single,🫺,1FAFA,18,99017
