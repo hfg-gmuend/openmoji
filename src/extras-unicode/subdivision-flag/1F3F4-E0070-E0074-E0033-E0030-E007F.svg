@@ -1,22 +1,22 @@
-<svg id="emoji" version="1.1" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
- <g id="grid">
-  <path d="m68 4v64h-64v-64h64m4-4h-72v72h72v-72z" fill="#B3B3B3"/>
-  <path d="m12.92 10.96h46.16c1.05 0 1.92 0.87 1.92 1.92v46.15c0 1.06-0.87 1.93-1.92 1.93h-46.16c-1.05 0-1.92-0.87-1.92-1.93v-46.15c0-1.05 0.87-1.92 1.92-1.92z" fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width=".1"/>
-  <path d="m56 6.25v59.5c0 1.24-1.01 2.25-2.25 2.25h-35.5c-1.24 0-2.25-1.01-2.25-2.25v-59.5c0-1.24 1.01-2.25 2.25-2.25h35.5c1.24 0 2.25 1.01 2.25 2.25z" fill="none" fill-rule="evenodd" stroke="#00A5FF" stroke-miterlimit="10" stroke-width=".1"/>
-  <path d="m65.75 56h-59.5c-1.24 0-2.25-1.01-2.25-2.25v-35.5c0-1.24 1.01-2.25 2.25-2.25h59.5c1.24 0 2.25 1.01 2.25 2.25v35.5c0 1.24-1.01 2.25-2.25 2.25z" fill="none" fill-rule="evenodd" stroke="#00A5FF" stroke-miterlimit="10" stroke-width=".1"/>
-  <ellipse cx="36" cy="36" rx="29" ry="29" fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width=".1"/>
- </g>
- <g id="color">
-  <rect x="5" y="17" width="62" height="38" fill="#FCEA2B"/>
-  <rect x="5" y="17" width="21" height="38" fill="#1E50A0"/>
-  <rect x="46" y="17" width="21" height="38" fill="#1E50A0"/>
-  <path d="m34.15 34.15v-5.57h3.7v5.57h5.57v3.7h-5.57v5.57h-3.7v-5.57h-5.57v-3.7h5.57z" fill="#fff" stroke="#D22F27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-  <line transform="matrix(-9.5421e-17 -1 1 -2.5773e-16 12.84 -30.529)" x1="-70.12" x2="-62.94" y1="30.58" y2="30.58" fill="none" stroke="#D22F27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-  <line transform="matrix(-9.5421e-17 -1 1 -2.5773e-16 -1.9906 -30.529)" x1="-70.12" x2="-62.94" y1="30.58" y2="30.58" fill="none" stroke="#D22F27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-  <line id="Line" transform="matrix(-1 -3.6225e-5 3.6225e-5 -1 -30.53 59.157)" x1="-70.12" x2="-62.94" y1="30.58" y2="30.58" fill="none" stroke="#D22F27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-  <line transform="matrix(-1 -3.6225e-5 3.6225e-5 -1 -30.53 73.988)" x1="-70.12" x2="-62.94" y1="30.58" y2="30.58" fill="none" stroke="#D22F27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
- </g>
- <g id="line">
-  <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
- </g>
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="grid">
+    <path fill="#B3B3B3" d="m68 4v64h-64v-64h64m4-4h-72v72h72v-72z"/>
+    <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="m12.92 10.96h46.16c1.05 0 1.92 0.87 1.92 1.92v46.15c0 1.06-0.87 1.93-1.92 1.93h-46.16c-1.05 0-1.92-0.87-1.92-1.93v-46.15c0-1.05 0.87-1.92 1.92-1.92z"/>
+    <path fill="none" fill-rule="evenodd" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="m56 6.25v59.5c0 1.24-1.01 2.25-2.25 2.25h-35.5c-1.24 0-2.25-1.01-2.25-2.25v-59.5c0-1.24 1.01-2.25 2.25-2.25h35.5c1.24 0 2.25 1.01 2.25 2.25z"/>
+    <path fill="none" fill-rule="evenodd" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="m65.75 56h-59.5c-1.24 0-2.25-1.01-2.25-2.25v-35.5c0-1.24 1.01-2.25 2.25-2.25h59.5c1.24 0 2.25 1.01 2.25 2.25v35.5c0 1.24-1.01 2.25-2.25 2.25z"/>
+    <ellipse cx="36" cy="36" rx="29" ry="29" fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1"/>
+  </g>
+  <g id="color">
+    <rect x="5" y="17" width="62" height="38" fill="#FCEA2B"/>
+    <rect x="5" y="17" width="21" height="38" fill="#1E50A0"/>
+    <rect x="46" y="17" width="21" height="38" fill="#1E50A0"/>
+    <path fill="#fff" stroke="#D22F27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m34.15 34.15v-5.57h3.7v5.57h5.57v3.7h-5.57v5.57h-3.7v-5.57h-5.57v-3.7h5.57z"/>
+    <line x1="-70.12" x2="-62.94" y1="30.58" y2="30.58" transform="matrix(-9.5421e-17 -1 1 -2.5773e-16 12.84 -30.529)" fill="none" stroke="#D22F27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="-70.12" x2="-62.94" y1="30.58" y2="30.58" transform="matrix(-9.5421e-17 -1 1 -2.5773e-16 -1.9906 -30.529)" fill="none" stroke="#D22F27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line" x1="-70.12" x2="-62.94" y1="30.58" y2="30.58" transform="matrix(-1 -3.6225e-5 3.6225e-5 -1 -30.53 59.157)" fill="none" stroke="#D22F27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line x1="-70.12" x2="-62.94" y1="30.58" y2="30.58" transform="matrix(-1 -3.6225e-5 3.6225e-5 -1 -30.53 73.988)" fill="none" stroke="#D22F27" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+  <g id="line">
+    <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
 </svg>
