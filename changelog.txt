@@ -28,6 +28,7 @@ New:
     travel-places: HfG Schwäbisch Gmünd, cargo bike, titanic, submarine,
     submarine under water, nessy
   + living shrimp extras-openmoji E012: grey-blue version of 1F990 by @herohipster #683
+  # flag of Madeira by nataliakeniganti #685
 
 Improvements:
   * Update blue color of Ukrainian flag by @asilichenko #653
