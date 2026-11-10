@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-'use strict';
+import { readFileSync } from 'node:fs';
 
 // This script assists optimize-build.sh by reading all of the file names in
 // the build plan conversions and filtering out the ones that have already been
@@ -8,8 +8,6 @@
 // $2 is the plan consisting of colon delimited file names.
 // $3 is the current output from git ls-files for relevant files.
 // $4 is the output from ls-files generated previously.
-
-let FS = require("fs");
 
 function *lines(text) {
   let i = 0;
@@ -35,9 +33,9 @@ function readGitList(text) {
   return map;
 }
 
-const plan = FS.readFileSync(process.argv[2], 'utf-8');
-const hashes = readGitList(FS.readFileSync(process.argv[3], 'utf-8'));
-const memo = readGitList(FS.readFileSync(process.argv[4], 'utf-8'));
+const plan = readFileSync(process.argv[2], 'utf-8');
+const hashes = readGitList(readFileSync(process.argv[3], 'utf-8'));
+const memo = readGitList(readFileSync(process.argv[4], 'utf-8'));
 
 for (const line of lines(plan)) {
   if (!line.split("\t").every((file) => memo.get(file) == hashes.get(file))) {

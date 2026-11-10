@@ -1,12 +1,16 @@
-const path = require('path');
-const { filter } = require('lodash');
-const { expect } = require('chai');
+import { readFileSync } from 'node:fs';
+import { dirname, join } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import lodash from 'lodash';
+import { expect } from 'chai';
+import optimist from 'optimist';
 
-const argv = require('optimist').default('openmoji-data-json', path.join(__dirname, '../data/openmoji.json')).argv;
+const { filter } = lodash;
+const argv = optimist.default('openmoji-data-json', join(dirname(fileURLToPath(import.meta.url)), '../data/openmoji.json')).argv;
 const openmojiDataJson = argv['openmoji-data-json'];
-const openmojis = require(openmojiDataJson);
+const openmojis = JSON.parse(readFileSync(openmojiDataJson, 'utf8'));
 
-const { createDoc } = require('./utils/utils');
+import { createDoc } from './utils/utils.js';
 const validLayerNames = ['grid', 'line', 'color', 'hair', 'skin', 'skin-shadow', 'color-foreground', 'line-supplement'];
 
 
