@@ -9,6 +9,9 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 ,E008,extras-openmoji,animals-nature,porpoise,"cetacean, swim, animal, water",Kris Kowal,2020-04-04
 ,E009,extras-openmoji,animals-nature,pigeon,"vermin, rock dove, bird, city",Carlin MacKenzie,2020-06-13
 ,E010,extras-openmoji,animals-nature,macaw,"tropical, jungle, exotic, parrots",Carlin MacKenzie,2020-06-13
+,E011,extras-openmoji,animals-nature,microbe,"amoeba, bacteria, virus",Ricarda Krejci,2019-05-07
+,E012,extras-openmoji,animals-nature,live-shrimp,"shrimp, live shrimp, prawn, crustacean, animal, water",Hero Hipster,2026-11-02
+,E013,extras-openmoji,animals-nature,guinea-pig,"guinea pig, rodent, animal",Lukas Benedix,2026-11-13
 ,E040,extras-openmoji,brand,Twitter,,Baris Camli,2018-04-18
 ,E041,extras-openmoji,brand,pinterest,"social, platform, pins",Kai Wanschura,2018-04-18
 ,E042,extras-openmoji,brand,facebook,"facebook, company, social-media",Kai Magnus Müller,2018-04-18
@@ -284,7 +287,6 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 ,E346,extras-openmoji,gardening,trowel,shovel,Tonia Reinhardt,2020-06-11
 ,E347,extras-openmoji,gardening,axe,"wood, chop, stump",Tonia Reinhardt,2020-06-11
 ,E348,extras-openmoji,gardening,saw,"foxtail, carpentry, wood, branch, rip saw",Tonia Reinhardt,2020-06-11
-,E011,extras-openmoji,animals-nature,microbe,"amoeba, bacteria, virus",Ricarda Krejci,2019-05-07
 ,E20D,extras-openmoji,travel-places,black hole,"interstellar, event horizon, accretion disc",Alexander Müller,2020-06-28
 ,E048,extras-openmoji,brand,musicbrainz,music metadata,Alexander Müller,2020-10-03
 ,E049,extras-openmoji,brand,openfoodfact,nutrition data,Alexander Müller,2020-10-03
@@ -442,4 +444,3 @@ emoji,hexcode,group,subgroups,annotation,openmoji_tags,openmoji_author,openmoji_
 ,E21A,extras-openmoji,travel-places,submarine,,Mark-Jonathan Freyer,2026-07-31
 ,E21B,extras-openmoji,travel-places,submarine under water,,Mark-Jonathan Freyer,2026-07-31
 ,E21C,extras-openmoji,travel-places,nessy,loch ness,Mark-Jonathan Freyer,2026-07-31
-,E012,extras-openmoji,animals-nature,live-shrimp,"shrimp, live shrimp, prawn, crustacean, animal, water",Hero Hipster,2026-11-02
