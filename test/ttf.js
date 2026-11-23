@@ -1,4 +1,4 @@
-import fs from 'fs';
+import { readFileSync } from 'node:fs';
 import { expect } from 'chai';
 import { Font } from 'lib-font';
 
@@ -24,7 +24,7 @@ describe(`TTF`, () => {
           done();
         };
         font.fromDataBuffer(
-          fs.readFileSync(
+          readFileSync(
             `./font/OpenMoji-${format}/OpenMoji-${format}.ttf`
           ).buffer
         );

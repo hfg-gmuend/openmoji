@@ -1,18 +1,17 @@
-const fs = require('fs');
-const path = require('path');
-const _ = require('lodash');
-const chroma = require('chroma-js');
-const KDTree = require('kd-tree-javascript').kdTree;
-const JSDOM = require('jsdom').JSDOM;
-const { exec } = require("child_process");
+import { readFileSync, readdirSync, lstatSync, unlinkSync, writeFileSync } from 'node:fs';
+import { join } from 'node:path';
+import jsdom from 'jsdom';
+import { exec } from 'node:child_process';
+
+const { JSDOM } = jsdom;
 
 
 const writeSvg = (filePath, data) => {
-  fs.writeFileSync(filePath, data);
+  writeFileSync(filePath, data);
 }
 
 const prettyfyFigmaSVG = (srcFilePath, destFilePath) => {
-  const dom = new JSDOM(fs.readFileSync(srcFilePath, 'utf8'));
+  const dom = new JSDOM(readFileSync(srcFilePath, 'utf8'));
   const doc = dom.window.document;
 
   // Problem: figma will add a `fill="none"` attribute to the svg element. all child elements will implicitly be set to `fill="none"`. we instead want svg's default behaivior
@@ -45,7 +44,7 @@ const prettyfyFigmaSVG = (srcFilePath, destFilePath) => {
   doc.querySelector('svg').setAttribute('id','emoji');
 
   console.log('cleaning up -> ', srcFilePath);
-  fs.unlinkSync(srcFilePath);
+  unlinkSync(srcFilePath);
   writeSvg(destFilePath, doc.querySelector('svg').outerHTML);
   
   exec(`./node_modules/.bin/svgo ${destFilePath} --config helpers/beautify-svg.yml`, (error, stdout, stderr) => {
@@ -62,10 +61,10 @@ const prettyfyFigmaSVG = (srcFilePath, destFilePath) => {
 }
 
 function searchDirectoryForFigma(startPath) {
-  let files = fs.readdirSync(startPath);
+  let files = readdirSync(startPath);
   for(let i = 0; i < files.length; i++){
-    let filename = path.join(startPath,files[i]);
-    let stat = fs.lstatSync(filename);
+    let filename = join(startPath,files[i]);
+    let stat = lstatSync(filename);
     if (stat.isDirectory()){
        searchDirectoryForFigma(filename);
     }

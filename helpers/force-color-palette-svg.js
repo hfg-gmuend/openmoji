@@ -1,12 +1,14 @@
 #!/usr/bin/env node
-'use strict';
+import { readFileSync, writeFileSync } from 'node:fs';
+import { join } from 'node:path';
+import lodash from 'lodash';
+import chroma from 'chroma-js';
+import kdTreeModule from 'kd-tree-javascript';
+import jsdom from 'jsdom';
 
-const fs = require('fs');
-const path = require('path');
-const _ = require('lodash');
-const chroma = require('chroma-js');
-const KDTree = require('kd-tree-javascript').kdTree;
-const JSDOM = require('jsdom').JSDOM;
+const _ = lodash;
+const { kdTree: KDTree } = kdTreeModule;
+const { JSDOM } = jsdom;
 
 
 const hexToRGB = (hex) => {
@@ -18,7 +20,7 @@ const rgbToHex = (rgb) => {
   return chroma(rgb.r, rgb.g, rgb.b).hex();
 }
 
-let colorPalette = require('../data/color-palette.json').colors;
+let colorPalette = JSON.parse(readFileSync(new URL('../data/color-palette.json', import.meta.url), 'utf8')).colors;
 colorPalette = colorPalette.map(c => {
   return hexToRGB(c);
 });
@@ -31,11 +33,11 @@ const tree = new KDTree(
 );
 
 const writeSvg = (filePath, data) => {
-  fs.writeFileSync(filePath, data);
+  writeFileSync(filePath, data);
 }
 
 const forceColors = (srcFilePath, destFilePath, colorPalette) => {
-  const dom = new JSDOM(fs.readFileSync(srcFilePath, 'utf8'));
+  const dom = new JSDOM(readFileSync(srcFilePath, 'utf8'));
   const doc = dom.window.document;
   const query = doc.querySelectorAll(':not(#grid) > [fill], :not(#grid) > [stroke]');
   let modified = false;
@@ -68,7 +70,7 @@ const forceColors = (srcFilePath, destFilePath, colorPalette) => {
 }
 
 
-let emojis = require('../data/openmoji.json');
+let emojis = JSON.parse(readFileSync(new URL('../data/openmoji.json', import.meta.url), 'utf8'));
 console.log('Loaded emoijs: ' + emojis.length);
 emojis = _.filter(emojis, (e) => { return e.skintone == ''});
 // exclude the "Emoji Modifier Fitzpatrick"
@@ -80,7 +82,7 @@ emojis = _.filter(emojis, (e) => { return e.hexcode !== '1F3FF'});
 console.log('Emoijs without skintones: ' + emojis.length);
 
 emojis.forEach(emoji => {
-  const svgFile = path.join('./src', emoji.group, emoji.subgroups, emoji.hexcode + '.svg');
+  const svgFile = join('./src', emoji.group, emoji.subgroups, emoji.hexcode + '.svg');
   forceColors(svgFile, svgFile, colorPalette);
 });
 

@@ -1,11 +1,11 @@
 #!/usr/bin/env node
-'use strict';
+import { readFileSync } from 'node:fs';
 
 // This utility prints all the hexcodes of emojis with matching hexcodes or
 // annotations.
 // With no arguments, lists all hexcodes.
 
-const data = require('../data/openmoji.json');
+const data = JSON.parse(readFileSync(new URL('../data/openmoji.json', import.meta.url), 'utf8'));
 
 const makeMatcher = (value) => (entry) =>
   value == entry.hexcode ||

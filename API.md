@@ -11,21 +11,29 @@ Install with [npm](https://www.npmjs.com/package/openmoji):
 
 ## Usage
 
-    > const openmoji = require('openmoji')
-    > const om = openmoji.openmojis[0]
-    > om.emoji
-    '😀'
-    > om.hexcode
-    '1F600'
-    > om.openmoji_tags
-    'smile, happy'
-    > om.openmoji_images.color.svg
-    '/path/to/your/local/openmoji/color/svg/1F600.svg'
-    > openmoji.color_palette.colors[23]
-    '#186648'
-    > openmoji.color_palette.skintones.hair[4]
-    '#000000'
+### ESM
 
+```javascript
+import openmoji from 'openmoji'
+const om = openmoji.openmojis[0]
+om.emoji
+'😀'
+om.hexcode
+'1F600'
+om.openmoji_tags
+'smile, happy'
+om.openmoji_images.color.svg
+'/path/to/your/local/openmoji/color/svg/1F600.svg'
+openmoji.color_palette.colors[23]
+'#186648'
+openmoji.color_palette.skintones.hair[4]
+'#000000'
+```
+
+Named exports are also available:
+```javascript
+import { openmojis, color_palette, version } from 'openmoji'
+```
 ## API
 
 ### openmoji.openmojis

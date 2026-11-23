@@ -1,12 +1,11 @@
 #!/usr/bin/env node
-'use strict';
+import { copyFileSync, readFileSync, writeFileSync } from 'node:fs';
+import { join } from 'node:path';
+import lodash from 'lodash';
+import mkdirp from 'mkdirp';
 
-const fs = require('fs');
-const path = require('path');
-const { filter } = require('lodash');
-const mkdirp = require('mkdirp');
-
-const openmojis = require('../data/openmoji.json');
+const { filter } = lodash;
+const openmojis = JSON.parse(readFileSync(new URL('../data/openmoji.json', import.meta.url), 'utf8'));
 const openmojisNoSkintones = filter(openmojis, (e) => { return e.skintone === ''});
 
 // remove emojis with multiple skintones
@@ -22,23 +21,23 @@ openmojiForSwift = openmojis.map((openmoji, i) => {
 });
 
 console.log("copy modified openmojis.json (safe for Swift) → openmoji-ios");
-fs.writeFileSync(
-  path.join('../openmoji-ios/OpenMoji/OpenMoji/Data & Model/openmoji.json'),
+writeFileSync(
+  join('../openmoji-ios/OpenMoji/OpenMoji/Data & Model/openmoji.json'),
   JSON.stringify(openmojiForSwift, null, 2)
 );
 
 console.log("copy openmojis → in app stickers, with skintones");
 openmojis.forEach((openmoji, i) => {
-  fs.copyFileSync(
-    path.join('./color/618x618/', `${openmoji.hexcode}.png`) ,
-    path.join('../openmoji-ios/images/618x618/', `${openmoji.hexcode}.png`)
+  copyFileSync(
+    join('./color/618x618/', `${openmoji.hexcode}.png`) ,
+    join('../openmoji-ios/images/618x618/', `${openmoji.hexcode}.png`)
   );
 
   const folder = `../openmoji-ios/OpenMoji/OpenMoji/General/Assets.xcassets/stickers/${openmoji.hexcode}.imageset/`;
   mkdirp.sync(folder);
-  fs.copyFileSync(
-    path.join('./color/618x618/', `${openmoji.hexcode}.png`) ,
-    path.join(folder, `${openmoji.hexcode}.png`)
+  copyFileSync(
+    join('./color/618x618/', `${openmoji.hexcode}.png`) ,
+    join(folder, `${openmoji.hexcode}.png`)
   );
   writeStickerPngInAppContentsJson(folder, openmoji.hexcode);
 });
@@ -47,9 +46,9 @@ console.log("copy openmojis → messages sticker pack, no skintones");
 openmojisNoSkintones.forEach((openmoji, i) => {
   const folder = `../openmoji-ios/OpenMoji/OpenMoji Stickers/Stickers.xcassets/Sticker Pack.stickerpack/${openmoji.hexcode}.sticker/`;
   mkdirp.sync(folder);
-  fs.copyFileSync(
-    path.join('./color/618x618/', `${openmoji.hexcode}.png`) ,
-    path.join(folder, `${openmoji.hexcode}.png`)
+  copyFileSync(
+    join('./color/618x618/', `${openmoji.hexcode}.png`) ,
+    join(folder, `${openmoji.hexcode}.png`)
   );
   writeStickerPngContentsJson(folder, openmoji.hexcode);
 });
@@ -70,7 +69,7 @@ function writeStickerPngContentsJson(filepath, hexcode) {
       "filename" : `${hexcode}.png`
     }
   };
-  fs.writeFileSync(path.join(filepath, 'Contents.json'), JSON.stringify(contents, null, 2));
+  writeFileSync(join(filepath, 'Contents.json'), JSON.stringify(contents, null, 2));
 }
 
 function writeStickerPngInAppContentsJson(filepath, hexcode) {
@@ -95,7 +94,7 @@ function writeStickerPngInAppContentsJson(filepath, hexcode) {
       "author" : "xcode"
     }
   };
-  fs.writeFileSync(path.join(filepath, 'Contents.json'), JSON.stringify(contents, null, 2));
+  writeFileSync(join(filepath, 'Contents.json'), JSON.stringify(contents, null, 2));
 }
 
 function writeStickerContentsJson(filepath, openmojis) {
@@ -112,5 +111,5 @@ function writeStickerContentsJson(filepath, openmojis) {
       "grid-size" : "small"
     }
   };
-  fs.writeFileSync(filepath, JSON.stringify(contents, null, 2));
+  writeFileSync(filepath, JSON.stringify(contents, null, 2));
 }

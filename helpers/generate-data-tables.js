@@ -1,12 +1,15 @@
 #!/usr/bin/env node
-'use strict';
+import { createWriteStream, existsSync, readFileSync, writeFileSync } from 'node:fs';
+import lodash from 'lodash';
+import csvWriter from 'csv-write-stream';
+import emojibase from 'emojibase';
+import { createRequire } from 'node:module';
 
-const fs = require('fs');
-const _ = require('lodash');
-const csvWriter = require('csv-write-stream');
+const _ = lodash;
+const { fromCodepointToUnicode, fromHexcodeToCodepoint } = emojibase;
+
+const require = createRequire(import.meta.url);
 const csvParse = require('csv-parse/lib/sync');
-const { fromCodepointToUnicode, fromHexcodeToCodepoint } = require('emojibase');
-
 const emojibaseData = require('emojibase-data/en/data.json');
 const emojibaseGroups = require('emojibase-data/meta/groups.json');
 const groups = emojibaseGroups.groups;
@@ -15,7 +18,7 @@ const subgroups = emojibaseGroups.subgroups;
 
 // -- helper functions --
 const loadCsv = (filePath) => {
-  const content = fs.readFileSync(filePath, 'utf8');
+  const content = readFileSync(filePath, 'utf8');
   return csvParse(content, {columns: true});
 }
 const arrayToEmojiDict = (array) => {
@@ -23,12 +26,12 @@ const arrayToEmojiDict = (array) => {
 }
 const writeCsv = (data, filePath) => {
   const csvOut = csvWriter();
-  csvOut.pipe(fs.createWriteStream(filePath));
+  csvOut.pipe(createWriteStream(filePath));
   for (const d of data) csvOut.write(d);
   csvOut.end();
 }
 const writeJson = (data, filePath) => {
-  fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+  writeFileSync(filePath, JSON.stringify(data, null, 2));
 }
 
 // -- create emoji tables --
@@ -75,8 +78,8 @@ emojis = flattenEmojiList(emojibaseData);
 // Delete this block and data/unicode-draft-overrides.json once emojibase-data
 // ships support for those hexcodes.
 const unicodeDraftOverridesPath = './data/unicode-draft-overrides.json';
-if (fs.existsSync(unicodeDraftOverridesPath)) {
-  const overrides = JSON.parse(fs.readFileSync(unicodeDraftOverridesPath, 'utf8'));
+if (existsSync(unicodeDraftOverridesPath)) {
+  const overrides = JSON.parse(readFileSync(unicodeDraftOverridesPath, 'utf8'));
   const overrideEmojis = flattenEmojiList(overrides.emojis);
   console.log('='.repeat(72));
   console.log(`⚠️  ${unicodeDraftOverridesPath} found — using it.`);

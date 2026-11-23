@@ -1,14 +1,11 @@
 #!/usr/bin/env node
-'use strict';
+import { readFileSync, writeFileSync } from 'node:fs';
+import CharacterSet from 'characterset';
 
 // argv[2]: font file
 // argv[3]: output folder
 
-const path = require('path');
-const fs = require('fs');
-const CharacterSet = require('characterset');
-
-const openmojis = require('../data/openmoji.json');
+const openmojis = JSON.parse(readFileSync(new URL('../data/openmoji.json', import.meta.url), 'utf8'));
 
 const emojis = openmojis.map(e => { return e.emoji });
 const characterSet = new CharacterSet(emojis.join(''));
@@ -66,5 +63,5 @@ const html = `
 </html>
 `
 
-fs.writeFileSync(`${process.argv[3]}/openmoji.css`, css);
-fs.writeFileSync(`${process.argv[3]}/demo.html`, html);
+writeFileSync(`${process.argv[3]}/openmoji.css`, css);
+writeFileSync(`${process.argv[3]}/demo.html`, html);

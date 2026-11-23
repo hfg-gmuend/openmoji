@@ -1,29 +1,30 @@
-const fs = require('fs');
-const path = require('path');
-const { JSDOM } = require('jsdom');
-const libxmljs = require("libxmljs");
+import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import jsdom from 'jsdom';
+import libxmljs from 'libxmljs';
+import optimist from 'optimist';
 
-const argv = require('optimist').default('openmoji-src-folder', './src').argv;
+const { JSDOM } = jsdom;
+const argv = optimist.default('openmoji-src-folder', './src').argv;
 const openmojiSrcFolder = argv['openmoji-src-folder'];
 
-
-function createDoc(emoji) {
-  const svgFile = path.join(openmojiSrcFolder, emoji.group, emoji.subgroups, emoji.hexcode + '.svg');
-  const dom = new JSDOM(fs.readFileSync(svgFile), 'utf8');
+export function createDoc(emoji) {
+  const svgFile = join(openmojiSrcFolder, emoji.group, emoji.subgroups, emoji.hexcode + '.svg');
+  const dom = new JSDOM(readFileSync(svgFile), 'utf8');
   return dom.window.document;
 }
 
-function readSVG(emoji) {
-    const svgFile = path.join(openmojiSrcFolder, emoji.group, emoji.subgroups, emoji.hexcode + '.svg');
-    var str = fs.readFileSync(svgFile, "utf8");
+export function readSVG(emoji) {
+    const svgFile = join(openmojiSrcFolder, emoji.group, emoji.subgroups, emoji.hexcode + '.svg');
+    var str = readFileSync(svgFile, "utf8");
     return str;
 }
 
-function getSrcFilepath(emoji) {
-  return path.join(openmojiSrcFolder, emoji.group, emoji.subgroups, emoji.hexcode + '.svg');
+export function getSrcFilepath(emoji) {
+  return join(openmojiSrcFolder, emoji.group, emoji.subgroups, emoji.hexcode + '.svg');
 }
 
-function isValidXML(string) {
+export function isValidXML(string) {
   try {
     libxmljs.parseXml(string);
   } catch (error) {
@@ -31,9 +32,4 @@ function isValidXML(string) {
     return false;
   }
   return true;
-};
-
-module.exports.createDoc = createDoc;
-module.exports.readSVG = readSVG;
-module.exports.getSrcFilepath = getSrcFilepath;
-module.exports.isValidXML = isValidXML;
+}

@@ -1,13 +1,18 @@
-const fs = require('fs');
-const path = require('path');
-const { filter, find } = require('lodash');
-const { expect } = require('chai');
-const glob = require('glob').sync;
-const { fromUnicodeToHexcode, stripHexcode } = require('emojibase');
+import { readFileSync } from 'node:fs';
+import { dirname, join } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import lodash from 'lodash';
+import { expect } from 'chai';
+import globModule from 'glob';
+import emojibase from 'emojibase';
+import optimist from 'optimist';
 
-const argv = require('optimist').default('openmoji-data-json', path.join(__dirname, '../data/openmoji.json')).argv;
+const { filter, find } = lodash;
+const glob = globModule.sync;
+const { fromUnicodeToHexcode, stripHexcode } = emojibase;
+const argv = optimist.default('openmoji-data-json', join(dirname(fileURLToPath(import.meta.url)), '../data/openmoji.json')).argv;
 const openmojiDataJson = argv['openmoji-data-json'];
-const openmojis = require(openmojiDataJson);
+const openmojis = JSON.parse(readFileSync(openmojiDataJson, 'utf8'));
 
 
 describe('Data integrity openmoji.json', function() {
