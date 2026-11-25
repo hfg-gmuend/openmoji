@@ -30,6 +30,7 @@ New:
   + living shrimp extras-openmoji E012: grey-blue version of 1F990 by @herohipster #683
   + flag of Madeira by @nataliakeniganti #685
   + add guinea pig by @lbenedix #689
+  + flag of Provence by @lingua-nostra #691
 
 Improvements:
   * Update blue color of Ukrainian flag by @asilichenko #653
